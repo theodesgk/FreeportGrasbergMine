@@ -1,0 +1,4 @@
+#
+# By default Hindi Language links are set up to support NEWUI
+#
+ln -sf ./Mesg.cfg.newui ./Mesg.cfg

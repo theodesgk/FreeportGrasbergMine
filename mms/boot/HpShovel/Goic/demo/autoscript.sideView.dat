@@ -1,0 +1,442 @@
+DO Macro macro noTalk
+DO up Slip
+DO w0.Text clear
+DO ComMgr eqmtDimension:100 save
+DO ComMgr elevBufferSize:1 oKToDisplayDugoutArea:1
+DO hp.sideview legendW:90
+
+/*  
+ Loading Bucket and Position Simulator
+*/
+
+DO object PositionSimulator name:possim
+WAIT 1
+DO object BucketSimulator name:bktsim
+WAIT 1
+DO hp.sideview horzLevel:-100
+
+/* 
+ Setting Materials
+*/
+
+DO materials insert:0:CV_WASTE1:CAM_VALEN_WASTE1:15:0:90:1234567:2345678:-3.0
+DO materials insert:1:CV_ORE1:CAM_VALEN_ORE1:4:0:90:1234567:2345678:-6.0
+DO materials insert:2:CV_WASTE2:CAM_VALEN_WASTE2:7:0:90:1234567:2345678:-9.0
+WAIT 1
+
+/*
+ Loading Harzard Line
+*/
+
+DO GEO-FILES pfs/etc/matpolygonsBackHoe
+WAIT 3
+
+/*  
+ STATUS: Down 
+*/
+
+DO KSTATE 1
+DO w0.Text write:"Status Down"
+DO w0.v1 label:"Down at Bench 3625"
+DO w0.v2 label:"Next: Ready"
+DO w0.v3 label:"Bench 3625"
+WAIT 5
+
+/*  
+ LOGON: 1234 
+*/
+
+DO WinMgr event:right
+WAIT 2
+DO WinMgr event:pick
+WAIT 2
+DO WinMgr event:left
+DO Kp label:"Enter Payroll ID"
+WAIT 1
+DO WinMgr window:Kp press:Kp.1 press:Kp.2 press:Kp.3 press:Kp.4 press:Kp.OK
+WAIT 4
+DO WinMgr window:w0
+DO Kp map:no
+WAIT 1
+DO w0.Text clear
+WAIT 2
+DO LOGON 1234
+WAIT 1
+
+/*  
+STATUS: READY 
+*/
+
+DO READY -1
+WAIT 2
+
+
+/* 
+ Operator select Material
+*/
+
+DO WinMgr press:w0.Matl
+WAIT 2
+DO WinMgr press:Material
+WAIT 2
+DO w0.Matl label:CAM_VALEN_WASTE1
+DO hp.matl label:CAM_VALEN_WASTE1
+DO matl.0 CAM_VALEN_WASTE1
+WAIT 2
+
+/*  
+ Switching to the main HP screen
+*/
+
+DO showHP
+WAIT 1
+
+/*  
+ Setting the truck
+*/
+
+DO hp.data3 label:0
+WAIT 1
+
+/*  
+ Switching to the sideView HP screen
+*/
+
+DO showSideView
+WAIT 1
+
+/*  
+ Moving Backhoe in sideView
+*/
+
+DO hp.sideview horzLevel:-38
+DO hp.sideview horzLevel:-37
+DO hp.sideview horzLevel:-36
+DO hp.sideview horzLevel:-35
+DO hp.sideview horzLevel:-34
+DO hp.sideview horzLevel:-33
+DO hp.sideview horzLevel:-32
+DO hp.sideview horzLevel:-31
+DO hp.sideview horzLevel:-30
+DO hp.sideview horzLevel:-29
+DO hp.sideview horzLevel:-28
+DO hp.sideview horzLevel:-27
+DO hp.sideview horzLevel:-26
+DO hp.sideview horzLevel:-25
+DO hp.sideview horzLevel:-24
+DO hp.sideview horzLevel:-23
+DO hp.sideview horzLevel:-22
+DO hp.sideview horzLevel:-21
+DO hp.sideview horzLevel:-20
+DO hp.sideview horzLevel:-19
+DO hp.sideview horzLevel:-18
+DO hp.sideview horzLevel:-17
+DO hp.sideview horzLevel:-16
+DO hp.sideview horzLevel:-15
+DO hp.sideview horzLevel:-14
+DO hp.sideview horzLevel:-13
+DO hp.sideview horzLevel:-12
+DO hp.sideview horzLevel:-11
+DO hp.sideview horzLevel:-10
+DO hp.sideview horzLevel:-9
+DO hp.sideview horzLevel:-8
+DO hp.sideview horzLevel:-7
+DO hp.sideview horzLevel:-6
+DO hp.sideview horzLevel:-5
+DO hp.sideview horzLevel:-4
+DO hp.sideview horzLevel:-3
+DO hp.sideview horzLevel:-2
+DO hp.sideview horzLevel:-1
+DO hp.sideview horzLevel:0
+DO hp.sideview horzLevel:1
+DO hp.sideview horzLevel:2
+DO hp.sideview horzLevel:3
+DO hp.sideview horzLevel:4
+DO hp.sideview horzLevel:5
+DO hp.sideview horzLevel:6
+DO hp.sideview horzLevel:7
+DO hp.sideview horzLevel:8
+DO hp.sideview horzLevel:9
+DO hp.sideview horzLevel:10
+DO hp.sideview horzLevel:11
+DO hp.sideview horzLevel:12
+DO hp.sideview horzLevel:13
+WAIT 2
+DO bktsim dig
+WAIT 28
+DO bktsim dump
+WAIT 16
+DO WinMgr window:w0
+DO EQ-REQ load [ T100 ]
+WAIT 7
+DO showHP
+DO hp.data2 label:T100
+WAIT 2
+DO showSideView
+DO hp.data3 label:50
+DO materials tgtLayer:CAM_VALEN_ORE1
+DO w0.Matl label:CAM_VALEN_ORE1
+DO hp.matl label:CAM_VALEN_ORE1
+DO matl.0 CAM_VALEN_ORE1
+WAIT 1
+DO bktsim dig
+WAIT 31
+DO bktsim dump
+WAIT 16
+DO hp.data3 label:100
+DO materials tgtLayer:CAM_VALEN_WASTE2
+DO w0.Matl label:CAM_VALEN_WASTE2
+DO hp.matl label:CAM_VALEN_WASTE2
+DO matl.0 CAM_VALEN_WASTE2
+WAIT 1
+DO bktsim dig
+WAIT 31
+DO bktsim dump
+DO hp.data3 label:150
+WAIT 10
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+WAIT 5
+
+DO showHP
+DO possim move:0:-10:0
+WAIT 10
+DO showSideView
+DO bktsim dig
+WAIT 28
+DO bktsim dump
+WAIT 16
+DO WinMgr window:w0
+DO EQ-REQ load [ T100 ]
+WAIT 5
+DO showHP
+WAIT 2
+DO showSideView
+DO hp.data3 label:50
+DO materials tgtLayer:CAM_VALEN_ORE1
+DO hp.matl label:CAM_VALEN_ORE1
+WAIT 1
+DO bktsim dig
+WAIT 31
+DO bktsim dump
+WAIT 16
+DO hp.data3 label:100
+DO materials tgtLayer:CAM_VALEN_WASTE2
+DO hp.matl label:CAM_VALEN_WASTE2
+WAIT 1
+DO bktsim dig
+WAIT 31
+DO bktsim dump
+DO hp.data3 label:150
+WAIT 10
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+WAIT 5
+
+DO showHP
+DO possim move:0:-10:0
+WAIT 10
+DO showSideView
+DO bktsim dig
+WAIT 28
+DO bktsim dump
+WAIT 24
+DO WinMgr window:w0
+DO EQ-REQ load [ T100 ]
+WAIT 5
+DO showHP
+WAIT 2
+DO showSideView
+DO hp.data3 label:50
+DO materials tgtLayer:CAM_VALEN_ORE1
+DO hp.matl label:CAM_VALEN_ORE1
+WAIT 1
+DO bktsim dig
+WAIT 31
+DO bktsim dump
+WAIT 16
+DO hp.data3 label:100
+DO materials tgtLayer:CAM_VALEN_WASTE2
+DO hp.matl label:CAM_VALEN_WASTE2
+WAIT 1
+DO bktsim dig
+WAIT 31
+DO bktsim dump
+DO hp.data3 label:150
+WAIT 10
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+WAIT 5
+
+DO showHP
+DO possim move:0:-10:0
+WAIT 10
+DO showSideView
+DO bktsim dig
+WAIT 28
+DO bktsim dump
+WAIT 24
+DO WinMgr window:w0
+DO EQ-REQ load [ T100 ]
+WAIT 5
+DO showHP
+WAIT 2
+DO showSideView
+DO hp.data3 label:50
+DO materials tgtLayer:CAM_VALEN_ORE1
+DO hp.matl label:CAM_VALEN_ORE1
+WAIT 1
+DO bktsim dig
+WAIT 31
+DO bktsim dump
+WAIT 16
+DO hp.data3 label:100
+DO materials tgtLayer:CAM_VALEN_WASTE2
+DO hp.matl label:CAM_VALEN_WASTE2
+WAIT 1
+DO bktsim dig
+WAIT 31
+DO bktsim dump
+DO hp.data3 label:150
+WAIT 10
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+WAIT 5
+
+/*  
+ Switching to the topView HP screen
+*/
+
+DO showHP
+
+/*  
+ Moving Backhoe in sideView
+*/
+
+DO HpGpsCADCanvas zoom:400
+DO possim cancel
+WAIT 1
+
+DO bktsim dig
+WAIT 20
+DO bktsim dump
+WAIT 15
+DO EQ-REQ load [ T100 ]
+DO WinMgr window:w0
+WAIT 3
+DO showHP
+WAIT 1
+DO showTopView
+DO hp.data3 label:50
+DO materials tgtLayer:CAM_VALEN_ORE1
+DO hp.matl label:CAM_VALEN_ORE1
+DO possim turn:10
+WAIT 5
+DO bktsim dig
+WAIT 20
+DO bktsim dump
+WAIT 15
+DO hp.data3 label:100
+DO materials tgtLayer:CAM_VALEN_WASTE2
+DO hp.matl label:CAM_VALEN_WASTE2
+WAIT 1
+DO possim turn:10
+WAIT 5
+DO bktsim dig
+WAIT 20
+DO bktsim dump
+WAIT 15
+DO hp.data3 label:150
+WAIT 2
+DO WinMgr window:w0
+WAIT 2
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+DO possim turn:10
+WAIT 5
+
+DO bktsim dig
+WAIT 20
+DO bktsim dump
+WAIT 15
+DO EQ-REQ load [ T100 ]
+DO WinMgr window:w0
+WAIT 3
+DO showHP
+WAIT 1
+DO showTopView
+DO hp.data3 label:50
+DO materials tgtLayer:CAM_VALEN_ORE1
+DO hp.matl label:CAM_VALEN_ORE1
+DO possim turn:10
+WAIT 5
+DO bktsim dig
+WAIT 20
+DO bktsim dump
+WAIT 15
+DO hp.data3 label:100
+DO materials tgtLayer:CAM_VALEN_WASTE2
+DO hp.matl label:CAM_VALEN_WASTE2
+WAIT 1
+DO possim turn:10
+WAIT 5
+DO bktsim dig
+WAIT 20
+DO bktsim dump
+WAIT 15
+DO hp.data3 label:150
+WAIT 2
+DO WinMgr window:w0
+WAIT 2
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+DO possim turn:10
+WAIT 5
+
+DO bktsim dig
+WAIT 20
+DO bktsim dump
+WAIT 15
+DO EQ-REQ load [ T100 ]
+DO WinMgr window:w0
+WAIT 3
+DO showHP
+WAIT 1
+DO showTopView
+DO hp.data3 label:50
+DO materials tgtLayer:CAM_VALEN_ORE1
+DO hp.matl label:CAM_VALEN_ORE1
+DO possim turn:10
+WAIT 5
+DO bktsim dig
+WAIT 20
+DO bktsim dump
+WAIT 15
+DO hp.data3 label:100
+DO materials tgtLayer:CAM_VALEN_WASTE2
+DO hp.matl label:CAM_VALEN_WASTE2
+WAIT 1
+DO possim turn:10
+WAIT 5
+DO bktsim dig
+WAIT 20
+DO bktsim dump
+WAIT 15
+DO hp.data3 label:150
+WAIT 2
+DO WinMgr window:w0
+WAIT 2
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+DO possim turn:10
+WAIT 5
+
+WAIT 1000
+DO reboot

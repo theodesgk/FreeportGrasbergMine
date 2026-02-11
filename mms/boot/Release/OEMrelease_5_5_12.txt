@@ -1,0 +1,392 @@
+--------------------------------------------------------------------
+Release - 07/02/2014
+--------------------------------------------------------------------
+TFS:332206 Removed the debug statement. 
+	dsp/form/common/minecare/pop/popdata/vhmsevt
+	dsp/form/common/minecare/pop/popdata/vhmspar.txt
+--------------------------------------------------------------------
+Release - 07/18/2014
+--------------------------------------------------------------------
+TFS:333745 Adding the Models CM530_QSK60 and CM530_QSK78.
+Files list:
+CenseJ1939Driver: new version 2.5.0
+	src/Interfaces/CenseJ1939/CenseJ1939Driver.C
+	src/Interfaces/CenseJ1939/CenseJ1939Driver.H
+PopFiles:
+dsp/form/common/minecare/pop/popdata/censej1939par.txt
+dsp/form/common/minecare/pop/popdata/censej1939evt.txt
+
+--------------------------------------------------------------------
+Release - 07/24/2014
+--------------------------------------------------------------------
+TFS:324408 Correcting an issue in the Invertex driver that caused
+some undesired event filtering.
+
+InvertexDriver: New version: 3.0.3
+	src/Interfaces/Invertex/InvertexDriver.C
+	src/Interfaces/Invertex/InvertexDriver.H
+
+--------------------------------------------------------------------
+Release - 07/29/2014
+--------------------------------------------------------------------
+TFS:334917 Adding teh VHMS 830e new models.
+
+VHMSDriver: New version: 3.7.0
+src/Interfaces/VHMS/Makefile
+src/Interfaces/VHMS/VHMSDriver.C
+src/Interfaces/VHMS/VHMSDriver.H
+src/Interfaces/VHMS/VHMSEvents.H
+
+VHMS830E objects:
+src/Interfaces/VHMS/VHMS830E_12010100200Config.C
+src/Interfaces/VHMS/VHMS830E_12010100200Config.H
+src/Interfaces/VHMS/VHMS830E_12010100200Config.lib
+src/Interfaces/VHMS/VHMS830E_1LE_12020200300Config.C
+src/Interfaces/VHMS/VHMS830E_1LE_12020200300Config.H
+src/Interfaces/VHMS/VHMS830E_1LE_12020200300Config.lib
+src/Interfaces/VHMS/VHMS830E_1TB_12030100100Config.C
+src/Interfaces/VHMS/VHMS830E_1TB_12030100100Config.H
+src/Interfaces/VHMS/VHMS830E_1TB_12030100100Config.lib
+src/Interfaces/VHMS/VHMS830E_AC_11070100100Config.C
+src/Interfaces/VHMS/VHMS830E_AC_11070100100Config.H
+src/Interfaces/VHMS/VHMS830E_AC_11070100100Config.lib
+src/Interfaces/VHMS/VHMS830E_AC_12010100200Config.C
+src/Interfaces/VHMS/VHMS830E_AC_12010100200Config.H
+src/Interfaces/VHMS/VHMS830E_AC_12010100200Config.lib
+src/Interfaces/VHMS/VHMS830E_AC_12040100110Config.C
+src/Interfaces/VHMS/VHMS830E_AC_12040100110Config.H
+src/Interfaces/VHMS/VHMS830E_AC_12040100110Config.lib
+
+boot Scripts:
+boot/MineCare/VHMS/App.h
+boot/MineCare/VHMS/Main.cfg
+
+--------------------------------------------------------------------
+Release - 08/14/2014
+--------------------------------------------------------------------
+TFS:190528 Adding a fix for the scania interface.
+TFS:336900 Adding the popfiles for the hoursmeter interface
+
+SAEJ1939 Objects:
+src/Interfaces/SAEJ1939/SAEJ1939.H
+src/Interfaces/SAEJ1939/SAEJ1939Driver.C
+src/Interfaces/SAEJ1939/SAEJ1939.C 
+
+PopFiles:
+dsp/form/common/minecare/pop/popdata/hoursmeterpar.txt
+dsp/form/common/minecare/pop/popdata/hoursmeterevt.txt
+	
+--------------------------------------------------------------------
+Release - 08/25/2014
+--------------------------------------------------------------------
+TFS:338731 Adding the new VHMS 930E models.
+
+VHMSDriver: New version: 3.8.0
+src/Interfaces/VHMS/Makefile
+src/Interfaces/VHMS/VHMSDriver.C
+src/Interfaces/VHMS/VHMSDriver.H
+
+VHMS930E objects:
+src/Interfaces/VHMS/VHMS930E_3_AC_11070100100Config.C
+src/Interfaces/VHMS/VHMS930E_3_AC_11070100100Config.H
+src/Interfaces/VHMS/VHMS930E_3_AC_11070100100Config.lib
+src/Interfaces/VHMS/VHMS930E_3_AC_11070100110Config.C
+src/Interfaces/VHMS/VHMS930E_3_AC_11070100110Config.H
+src/Interfaces/VHMS/VHMS930E_3_AC_11070100110Config.lib
+src/Interfaces/VHMS/VHMS930E_3SE_AC_11060100100Config.C
+src/Interfaces/VHMS/VHMS930E_3SE_AC_11060100100Config.H
+src/Interfaces/VHMS/VHMS930E_3SE_AC_11060100100Config.lib
+src/Interfaces/VHMS/VHMS930E_3SE_AC_11060100110Config.C
+src/Interfaces/VHMS/VHMS930E_3SE_AC_11060100110Config.H
+src/Interfaces/VHMS/VHMS930E_3SE_AC_11060100110Config.lib
+src/Interfaces/VHMS/VHMS930E_4_AC_11070100100Config.C
+src/Interfaces/VHMS/VHMS930E_4_AC_11070100100Config.H
+src/Interfaces/VHMS/VHMS930E_4_AC_11070100100Config.lib
+src/Interfaces/VHMS/VHMS930E_4_AC_11070100110Config.C
+src/Interfaces/VHMS/VHMS930E_4_AC_11070100110Config.H
+src/Interfaces/VHMS/VHMS930E_4_AC_11070100110Config.lib
+src/Interfaces/VHMS/VHMS930E_4_TB_11090100100Config.C
+src/Interfaces/VHMS/VHMS930E_4_TB_11090100100Config.H
+src/Interfaces/VHMS/VHMS930E_4_TB_11090100100Config.lib
+src/Interfaces/VHMS/VHMS930E_4_TB_11090100110Config.C
+src/Interfaces/VHMS/VHMS930E_4_TB_11090100110Config.H
+src/Interfaces/VHMS/VHMS930E_4_TB_11090100110Config.lib
+src/Interfaces/VHMS/VHMS930E_4SE_AC_11060100100Config.C
+src/Interfaces/VHMS/VHMS930E_4SE_AC_11060100100Config.H
+src/Interfaces/VHMS/VHMS930E_4SE_AC_11060100100Config.lib
+src/Interfaces/VHMS/VHMS930E_4SE_AC_11060100110Config.C
+src/Interfaces/VHMS/VHMS930E_4SE_AC_11060100110Config.H
+src/Interfaces/VHMS/VHMS930E_4SE_AC_11060100110Config.lib
+
+boot Scripts:
+boot/MineCare/VHMS/App.h
+boot/MineCare/VHMS/Main.cfg
+
+--------------------------------------------------------------------
+Release - 08/28/2014
+--------------------------------------------------------------------
+TFS:338543 HoursMeter Meos initial version
+
+
+HoursMeterDriver: new version 2.0.0
+	src/Interfaces/HoursMeter/HoursMeterConfig.C
+	src/Interfaces/HoursMeter/HoursMetermConfig.H
+	src/Interfaces/HoursMeter/HoursMeterDriver.C
+	src/Interfaces/HoursMeter/HoursMeterDriver.H
+	src/Interfaces/HoursMeter/HoursMeterDriver.lib
+	src/Interfaces/HoursMeter/Makefile
+
+Boot Scripts:
+	boot/MineCare/HoursMeter/App.h
+	boot/MineCare/HoursMeter/Config.h
+	boot/MineCare/HoursMeter/.links
+	boot/MineCare/HoursMeter/Main.cfg
+	boot/MineCare/HoursMeter/links.cmd
+
+--------------------------------------------------------------------
+Release - 08/28/2014
+--------------------------------------------------------------------
+TFS:339062 Adding the Dynamic payload value to be sent in the Hauliing, dumping and loading events. Adding option to load the models as big endian.
+
+ContronicsJ1939Driver: new version 2.2.1
+	src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.C
+	src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.H
+
+
+--------------------------------------------------------------------
+Release - 08/28/2014
+--------------------------------------------------------------------
+TFS:338540 Added logic to detec different ECM source address.
+
+Files list:
+CumminsCore2Driver: 2.2.0
+	+src/Interfaces/CumminsCore2/CumminsCore2Config.C
+	+src/Interfaces/CumminsCore2/CumminsCore2Config.H
+	+src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+	+src/Interfaces/CumminsCore2/CumminsCore2Driver.H
+	
+dsp/form/common/minecare/pop/popdata/cumminscore2par.txt
+
+--------------------------------------------------------------------
+Release - 09/09/2014
+--------------------------------------------------------------------
+TFS:337301 CollisionAvoidance Meos initial version
+
+
+CollisionAvoidanceDriver: new version 2.0.0
+	src/Interfaces/CollisionAvoidance/CollisionAvoidanceConfig.C
+	src/Interfaces/CollisionAvoidance/CollisionAvoidanceConfig.H
+	src/Interfaces/CollisionAvoidance/CollisionAvoidanceDriver.C
+	src/Interfaces/CollisionAvoidance/CollisionAvoidanceDriver.H
+	src/Interfaces/CollisionAvoidance/CollisionAvoidanceDriver.lib
+	src/Interfaces/CollisionAvoidance/Makefile
+	src/Interface/Makefile
+
+Boot Scripts:
+	boot/MineCare/CollisionAvoidance/App.h
+	boot/MineCare/CollisionAvoidance/Config.h
+	boot/MineCare/CollisionAvoidance/.links
+	boot/MineCare/CollisionAvoidance/Main.cfg
+	boot/MineCare/CollisionAvoidance/links.cmd
+	boot/MineCare/CollisionAvoidance/collisionavoidance.cfg
+
+Popfiles:
+	dsp/form/common/minecare/pop/popdata/collisionavoidancepar.txt
+	dsp/form/common/minecare/pop/popdata/collisionavoidanceevt.txt
+
+
+--------------------------------------------------------------------
+Release - 09/10/2014
+--------------------------------------------------------------------
+TFS:338544 FuelMetrix to work on DISPATCH & MineCare .MEOS
+
+FuelMetrixDriver: new version 2.0.4
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixConfig.C
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixConfig.H
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixDevice.C
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixDriver.C
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixDriver.H
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixDriver.lib
+	/mms/src/Interfaces/FuelMetrix/Makefile
+
+Boot Scripts for FuelMetrix:
+	/mms/boot/MineCare/FuelMetrix/App.h
+	/mms/boot/MineCare/FuelMetrix/Config.h
+	/mms/boot/MineCare/FuelMetrix/fuel.cfg
+	/mms/boot/MineCare/FuelMetrix/.links
+	/mms/boot/MineCare/FuelMetrix/links.cmd
+	/mms/boot/MineCare/FuelMetrix/Main.cfg
+
+Popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/fuelmetrixevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/fuelmetrixpar.txt
+--------------------------------------------------------------------
+Release - 09/12/2014
+--------------------------------------------------------------------
+TFS:339781 "VIST" CAN Belaz MEOS
+
+VISTJ1939Driver: new version 2.0.0
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939JConfig.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939JConfig.H
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939JDevice.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939JDriver.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939JDriver.H
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939JDriver.lib
+	/mms/src/Interfaces/VISTJ1939/Makefile
+
+Boot Scripts for VISTJ1939:
+	/mms/boot/MineCare/VISTJ1939/App.h
+	/mms/boot/MineCare/VISTJ1939/Config.h
+	/mms/boot/MineCare/VISTJ1939/.links
+	/mms/boot/MineCare/VISTJ1939/links.cmd
+	/mms/boot/MineCare/VISTJ1939/Main.cfg
+
+Popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vistj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vistj1939par.txt
+--------------------------------------------------------------------
+Release - 09/15/2014
+--------------------------------------------------------------------
+TFS:340653 The user can chose from which ECM the interface should read the packet.
+
+Files list:
+CumminsCore2Driver: 2.2.1
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.H
+
+--------------------------------------------------------------------
+Release - 09/16/2014
+-------------------------------------------------------------------
+TFS:340806 VIST J1939 two parameters with the same value
+
+VISTJ1939Driver: version 2.0.1
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939JDriver.C
+
+Popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vistj1939evt.txt
+
+--------------------------------------------------------------------
+Release - 09/17/2014
+--------------------------------------------------------------------
+TFS:340140 Fixing DNPW parameter update for CAS interface.
+
+CollisionAvoidanceDriver: 2.0.0
+	src/Interfaces/CollisionAvoidance/CollisionAvoidanceDriver.C
+
+--------------------------------------------------------------------
+Release - 09/23/2014
+--------------------------------------------------------------------
+TFS:341365 Adding changes in the Invertex regarding new events.
+
+CollisionAvoidanceDriver: 3.1.0
+	src/Interfaces/Invertex/InvertexDriver.C
+	src/Interfaces/Invertex/InvertexDriver.H
+	src/Interfaces/Invertex/InvertexConfig.C
+	src/Interfaces/Invertex/InvertexConfig.H
+
+Popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/invertexevt.txt
+
+--------------------------------------------------------------------
+Release - 09/24/2014
+--------------------------------------------------------------------
+TFS:341382 OEM 2014 D11T Version 2 MEOS
+
+Vims3G Driver: 2.5.0
+	/mms/src/Interfaces/Vims3G/Vims3GBaseConfig.H
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+
+Popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+
+--------------------------------------------------------------------
+Release - 09/29/2014
+--------------------------------------------------------------------
+TFS:341362 Removing undesirable debug messages.
+
+Invertex Driver: 3.1.1
+	/mms/src/Interfaces/Invertex/InvertexConfig.C
+	/mms/src/Interfaces/Invertex/InvertexDriver.C
+
+--------------------------------------------------------------------
+Release - 10/06/2014
+--------------------------------------------------------------------
+TFS:341248 AccuWeigh to work on DISPATCH & MineCare .MEOS
+
+AccuWeigh Driver: 2.0.1
+	/mms/src/Interfaces/AccuWeigh/AccuWeighConfig.C
+	/mms/src/Interfaces/AccuWeigh/AccuWeighConfig.H
+	/mms/src/Interfaces/AccuWeigh/AccuWeighDevice.C
+	/mms/src/Interfaces/AccuWeigh/AccuWeighDevice.H
+	/mms/src/Interfaces/AccuWeigh/AccuWeighDriver.C
+	/mms/src/Interfaces/AccuWeigh/AccuWeighDriver.H
+	/mms/src/Interfaces/AccuWeigh/AccuWeighDriver.lib
+	/mms/src/Interfaces/AccuWeigh/Makefile
+	
+Boot Scripts for AccuWeigh:
+	/mms/boot/MineCare/AccuWeigh/App.h
+	/mms/boot/MineCare/AccuWeigh/Config.h
+	/mms/boot/MineCare/AccuWeigh/.links
+	/mms/boot/MineCare/AccuWeigh/AccuWeigh.cfg
+	/mms/boot/MineCare/AccuWeigh/links.cmd
+	/mms/boot/MineCare/AccuWeigh/Macro.cfg
+	/mms/boot/MineCare/AccuWeigh/Main.cfg
+
+Popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/accuweighevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/accuweighpar.txt
+	
+--------------------------------------------------------------------
+Release - 10/09/2014
+--------------------------------------------------------------------
+TFS:342714 Update to the Vims3G 795FAC model. Now it supports more
+parameters. Also the scale and offset of old parameters have been
+changed.
+
+Vims3G Driver: 2.6.0
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+
+Popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/vims3gpar.txt
+--------------------------------------------------------------------
+Release - 10/10/2014
+--------------------------------------------------------------------
+TFS:341248 AccuWeigh to work on DISPATCH & MineCare .MEOS. Correcting
+the .links file to generate the links correctlly.
+
+Boot Scripts for AccuWeigh:
+	/mms/boot/MineCare/AccuWeigh/.links
+--------------------------------------------------------------------
+Release - 10/10/2014
+--------------------------------------------------------------------
+TFS:341248 AccuWeigh to work on DISPATCH & MineCare .MEOS.
+Adding Main.h file and removing the command to create link Main.h.
+
+Boot Scripts for AccuWeigh:
+	/mms/boot/MineCare/AccuWeigh/.links
+	/mms/boot/MineCare/AccuWeigh/Main.h
+--------------------------------------------------------------------
+Release - 10/14/2014
+--------------------------------------------------------------------
+TFS:340653 Adding changes to CumminsCore2. One SA was chosen fot each parameter.
+
+CumminsCore2 Driver: 2.2.2
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+--------------------------------------------------------------------
+Release - 10/14/2014
+--------------------------------------------------------------------
+TFS:341248 AccuWeigh to work on DISPATCH & MineCare .MEOS.
+Fixing the reception state machine
+
+AccuWeigh Driver: 2.0.2
+	/mms/src/Interfaces/AccuWeigh/AccuWeighDevice.C
+	/mms/src/Interfaces/AccuWeigh/AccuWeighDriver.C
+--------------------------------------------------------------------
+Release - 10/21/2014
+--------------------------------------------------------------------
+TFS:342715 Fixing case issues on VHMS events.
+
+Popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vhmsevt.txt

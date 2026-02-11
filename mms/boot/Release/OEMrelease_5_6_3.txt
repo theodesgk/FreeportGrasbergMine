@@ -1,0 +1,376 @@
+--------------------------------------------------------------------
+Release - 09/16/2015
+--------------------------------------------------------------------
+TFS:377323 Add ability to Rieker Interface to send data to PV and MineCare.
+Also logic so events are sent periodically to central if the inclinometer
+isn't on the "horizontal" position
+
+Rieker driver version: 2.0.3
+	/mms/src/Interfaces/Rieker/RiekerDriver.C
+	/mms/src/Interfaces/Rieker/RiekerDriver.H
+
+--------------------------------------------------------------------
+Release - 09/30/2015
+--------------------------------------------------------------------
+TFS:381250 Correcting the event id on the "Change Lubricating Oil And Filter"
+and "Trend Data Memory Full Active" events on all CM530 models.
+Also correcting the event order so that the event ids are increasing.
+
+CenseJ1939 popfile:
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939evt.txt
+
+--------------------------------------------------------------------
+Release - 10/05/2015
+--------------------------------------------------------------------
+TFS:381280 Correcting the "Unsupported Device Version" event and the
+"Number Of Sensors" parameter on the VsiOil Driver. Correcting the
+VsiOil parameter popfile
+
+VsiOil driver version: 2.1.2
+	/mms/src/Interfaces/VsiOil/VsiOilConfig.C
+	/mms/src/Interfaces/VsiOil/VsiOilConfig.H
+	/mms/src/Interfaces/VsiOil/VsiOilDriver.C
+	/mms/src/Interfaces/VsiOil/VsiOilDriver.H
+
+VsiOil popfile:
+	/mms/dsp/form/common/minecare/pop/popdata/vsioilpar.txt
+
+--------------------------------------------------------------------
+Release - 10/22/2015
+--------------------------------------------------------------------
+TFS:377323 Correcting the capitalization of the Rieker interface
+event popfiles
+
+Rieker popfile:
+	/mms/dsp/form/common/minecare/pop/popdata/riekerevt.txt
+	
+--------------------------------------------------------------------
+Release - 11/05/2015
+--------------------------------------------------------------------
+TFS:374370 Change the Pre-Filter Oil Pressure parameter to Pre-Filter Oil Pressure (High Resolution), according to zendesk ticke
+
+
+CenseJ1939CM2330 popfile:
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330par.txt
+CenseJ1939CM2330 driver version: 2.0.3
+	/mms/src/Interfaces/CenseJ1939CM2330
+	
+--------------------------------------------------------------------
+Release - 11/11/2015
+--------------------------------------------------------------------
+TFS:384505 TFS:384506 Several changes on the CumminsCore2 interface.
+Adding support for dual engine on the same CAN bus; changes to the parameters
+and events ids so each model has a unique id range; Removed all parameters
+that contained "ECM1", "ECM2" or "ECM3" identification and condensed all 
+parameters to a single parameter; removing all parameters that had the
+"(Deprecated/Removed)" tag; adding a priority mechanism to the interface
+so when more than one ECM sends the same PGN the parameter will be updated by
+the most significant ECM; Added 14 new events to follow an update on the
+engine's firmware
+
+CumminsCore2 driver version: 2.3.0
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2SaPriority.C
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2SaPriority.H
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Config.C
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Config.H
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.H
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.lib
+
+CumminsCore2 interface boot scripts:
+	/mms/boot/MineCare/CumminsCore2/Config.h
+	/mms/boot/MineCare/CumminsCore2/cumcore2.cfg
+
+CumminsCore2 interface popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminscore2par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminscore2evt.txt
+
+--------------------------------------------------------------------
+Release - 11/16/2015
+--------------------------------------------------------------------
+TFS:384193 Metadata update on VIMS
+The unit type for Fuel Rail Temperature was mistakenly
+entered as kPa, it has been fixed to degrees C in this release.
+Affected models: 797F and 793F-Mechanical
+
+VIMS parameter popfile:
+	/mms/dsp/form/common/minecare/pop/popdate/vimspara.txt
+
+--------------------------------------------------------------------
+Release - 11/30/2015
+--------------------------------------------------------------------
+TFS:386719 - Adding new 'Extended' model to the MEMSRV interface
+
+MEMSRV Driver version: 2.2.0
+	/mms/src/Interfaces/Michelin/MEMSRVConfig.C
+	/mms/src/Interfaces/Michelin/MEMSRVConfig.H
+	/mms/src/Interfaces/Michelin/MEMSRVDriver.C
+	/mms/src/Interfaces/Michelin/MEMSRVDriver.H
+	/mms/src/Interfaces/Michelin/MEMSRVMsg.C
+	/mms/src/Interfaces/Michelin/MEMSRVMsg.H
+
+MEMSRV boot scripts:
+	/mms/boot/MineCare/MEMSRV/memsrv.cfg
+	/mms/boot/MineCare/MEMSRV/Config.h
+
+MEMSRV popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/memsrvevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/memsrvpar.txt
+
+--------------------------------------------------------------------
+Release - 12/11/2015
+--------------------------------------------------------------------
+TFS:382054 Updating the binary smaller to fit in the Gps memory. old size 40kb the new 20kb and 
+New logic implements a property called sendEventInterval that configures how long an event has to be active so that the interface sends the event a second time.
+
+VsiOil Driver version: 2.3.1
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Config.C
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Config.H
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+
+--------------------------------------------------------------------
+Release - 12/15/2015
+--------------------------------------------------------------------
+TFS:379537 - Add new model ROS (Reserve Oil Supply Monitor) to the
+VsiOil interface.
+
+VsiOil Driver version: 2.2.1
+	/mms/src/Interfaces/VsiOil/VsiOilConfig.C
+	/mms/src/Interfaces/VsiOil/VsiOilConfig.H
+	/mms/src/Interfaces/VsiOil/VsiOilDevice.C
+	/mms/src/Interfaces/VsiOil/VsiOilDevice.H
+	/mms/src/Interfaces/VsiOil/VsiOilDriver.C
+	/mms/src/Interfaces/VsiOil/VsiOilDriver.H
+	/mms/src/Interfaces/VsiOil/VsiOilDriverAdv.C
+	/mms/src/Interfaces/VsiOil/VsiOilDriverRos.H
+
+VsiOil boot scripts:
+	/mms/boot/MineCare/VsiOil/vsioil.cfg
+	/mms/boot/MineCare/VsiOil/Config.h
+
+VsiOil popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vsioilevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vsioilpar.txt
+
+--------------------------------------------------------------------
+Release - 02/01/2016
+--------------------------------------------------------------------
+TFS:389148 - Rebranding of the old VHMS interface, the interface is now called
+KomtraxPlus. Adding necessary KomtraxPlus driver files and changing the boot
+script for the VHMS interface to display an error message if an operator tries
+to load it.
+
+VHMS Bootscript:
+	/mms/boot/MineCare/VHMS/App.h
+	/mms/boot/MineCare/VHMS/Config.h
+
+KomtraxPlus bootscripts:
+	/mms/boot/MineCare/KomtraxPlus/App.h
+	/mms/boot/MineCare/KomtraxPlus/Config.h
+	/mms/boot/MineCare/KomtraxPlus/komtrax.cfg
+	/mms/boot/MineCare/KomtraxPlus/.links
+	/mms/boot/MineCare/KomtraxPlus/links.cmd
+	/mms/boot/MineCare/KomtraxPlus/Main.cfg
+
+KomtraxPlus popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+
+KomtraxPlus Driver Version: 4.0.3
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus15007Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus15007Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus15007Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus4656057Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus4656057Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus4656057Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus730EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus730EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus730EConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus7857Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus7857Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus7857Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus800900Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus800900Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus800900Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus830EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus830EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus830EConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus860EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus860EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus860EConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus930EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus930EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus930EConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus960EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus960EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus960EConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD375Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD375Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD375Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD475Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD475Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD475Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusEvents.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusMsg.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusMsg.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC12508Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC12508Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC12508Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC20008Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC20008Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC20008Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC55006DConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC55006DConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC55006DConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC80006Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC80006Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC80006Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusSim.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusSim.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusSim.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusSoftwareVersionChanges.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA6006Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA6006Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA6006Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWD6006Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWD6006Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWD6006Config.lib
+	/mms/src/Interfaces/KomtraxPlus/Makefile
+	/mms/src/Interfaces/Makefile
+
+--------------------------------------------------------------------
+Release - 02/22/2016
+--------------------------------------------------------------------
+TFS:392479 Merging 797F software versions into base 797F model. Includes
+support for parameters with multiple OEM ids.
+
+Vims3G popfile:
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+	
+--------------------------------------------------------------------
+Release - 02/26/2016
+--------------------------------------------------------------------
+TFS:392288 Updating the Vims3G interface to database v2.10. All 797F
+models were merged back to the original 797F model; Added funcionality
+to the interface so it is able to change the OemId for some parameters
+that reply with a value that indicates it is Unavailable
+
+Vims3G Driver: Version 2.10.3
+	/mms/src/Interfaces/Vims3G/Vims3GSpecialOemIds.C
+	/mms/src/Interfaces/Vims3G/Vims3GSpecialOemIds.H
+	/mms/src/Interfaces/Vims3G/Vims3GBaseConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GBaseConfig.H
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.H
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.lib
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.lib
+	
+--------------------------------------------------------------------
+Release - 03/03/2016
+--------------------------------------------------------------------
+TFS:394564 Updating the cumminscore2 OEM event 2261 to Fuel Pump Delivery Press-Data Valid Above Normal Operational Range
+
+	/mms/dsp/form/common/minecare/pop/popdata/cumminscore2evt.txt
+	
+--------------------------------------------------------------------
+Release - 03/07/2016
+--------------------------------------------------------------------
+TFS:321633 Fixing D11t_v2 scales. ADding Load FActor parameters and multiples OemIds for Right To Left Exhaust Differential Temperature.
+Vims3G Driver: Version 2.11.0
+	/mms/src/Interfaces/Vims3G/Vims3GBaseConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+	/mms/src/Interfaces/Vims3G/Vims3GSpecialOemIds.C
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+
+--------------------------------------------------------------------
+Release - 03/16/2016
+--------------------------------------------------------------------
+TFS:395230 Updating the Vims3G 793F model to support new parameters and new
+parameter OemIds for some parameters. Correcting the scales and offsets of
+the D8T, 777G and 795FAC models to match the 2.12 database
+
+Vims3G Driver: Version 2.12.1
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.H
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+	/mms/src/Interfaces/Vims3G/Vims3GSpecialOemIds.C
+
+Vims3G popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vims/vims3gpar.txt
+	
+--------------------------------------------------------------------
+Release - 03/29/2016
+--------------------------------------------------------------------
+TFS:396789 Changing the send time interval to 300 seconds.
+
+CumminsCore2 Driver: Version 2.3.2
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+	
+--------------------------------------------------------------------
+Release - 04/01/2016
+--------------------------------------------------------------------
+TFS:396464 Updating the T282C interface to match the latest database
+v2.3.0
+
+T282C Driver: Version 2.3.0
+	/mms/src/Interfaces/T282c/T282CConfig.C
+	/mms/src/Interfaces/T282c/T282CConfig.H
+	/mms/src/Interfaces/T282c/T282CDriver.C
+	/mms/src/Interfaces/T282c/T282CDriver.H
+
+T282C popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/t282cevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/t282cpar.txt
+
+--------------------------------------------------------------------
+Release - 04/06/2016
+--------------------------------------------------------------------
+TFS:396676 Correcting the Ground Speed scale on 797F model.
+
+Vims3G Driver: Version 2.12.2
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+
+Vims3G popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vims/vims3gpar.txt
+
+--------------------------------------------------------------------
+Release - 04/08/2016
+--------------------------------------------------------------------
+TFS:403312 Fixing capitalization issue on T282C events.
+
+T282C popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/t282cevt.txt
+
+--------------------------------------------------------------------
+Release - 05/03/2016
+--------------------------------------------------------------------
+TFS:402589 Fixing capitalization and spelling on ContronicsJ1939
+parameters and events.
+
+ContronicsJ1939 popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/contronicsj1939par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/contronicsj1939evt.txt
+
+--------------------------------------------------------------------
+Release - 05/05/2016
+--------------------------------------------------------------------
+TFS:413850 Updating Vims interface to match database v3.9
+
+Vims Driver: Version 3.9.0
+	/mms/src/Interfaces/Vims/VimsDriver.C

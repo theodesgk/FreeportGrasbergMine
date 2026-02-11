@@ -1,0 +1,38 @@
+%!/psw/cpp
+out	PLM-DIPPER	0x230	ddb?[d]	   sendto Slip
+out	PLM-TONS	0x231	db?[d]	   sendto Slip
+out	PLM-RT-DATA	0x23a	[d][b]	   sendto Slip
+in	PLM-RT-START	0x23b	v	   PlmMinestar startRTM
+in	PLM-RT-STOP	0x23c	v	   PlmMinestar stopRTM
+
+out     CECO_DELTA      0x16f	d[d][d]	   sendto Slip
+out     CECO_DATA       0x170	dd[b][d]   sendto Slip
+out     CECO_DIAG       0x171	d[d]	   sendto Slip
+in      CECO_QUERY      0x172	dd	   sendto Can.2
+in      CECO_CONFIG     0x173	d[d]	   sendto Can.2
+out     CECO_PWRUP      0x174	d	   sendto Slip
+in      CECO_LOG        0x175	d	   sendto Can.2
+
+in      DDEC-INFO       0x140   bb,s       sendto Can.2
+in      DDEC-NTH        0x141   d,ds       sendto Can.2
+in      DDEC-XMITTM     0x144   d          sendto Can.2
+in      DDEC-REQUEST    0x147   d          sendto Can.2
+in      DDEC-RELAY      0x149   b          sendto Can.2
+in      DDEC-OFF        0x14a   d          sendto Can.2
+in      CP-BEACON       0x18d   d          sendto Can.2
+
+in      STATEX-XMIT     0x1c4	dd	   sendto Can.2
+in      STATEX-QUERY    0x1c0	sd,s	   sendto Can.2
+out     STATEX-ALARM    0x1c1	ds[f][b]   sendto Slip
+out     STATEX-TRAYUP   0x1c2	b	   sendto Slip
+out     STATEX-DATA     0x1c3	s[f][b]	   sendto Slip
+out     STATEX-ODO      0x1c6	l	   sendto Slip
+
+in	TCI-DRIVER	0x01ca	d          sendto Can.2
+out	TCI-DATA	0x01cb	[b][f][d]  sendto Slip
+in	TCI-XMIT	0x01cc	dd         sendto Can.2
+in	TCI-DATETIME	0x01cd	[b]        sendto Can.2
+in      TCI-GETINFO     0x01ce  v          sendto Can.2
+out     TCI-INFO        0x01cf  dlss       sendto Slip
+
+

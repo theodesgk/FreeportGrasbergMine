@@ -1,0 +1,15 @@
+#!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-2011
+ *               All Rights Reserved
+ *  $RCSfile: Actions.cfg.classicui,v $
+ * $Revision: 1.1 $
+ *   $Author: olivas $
+ *     $Date: 2013/06/25 18:22:07 $
+ *    $State: Exp $
+ * * * * * * * * * * * * * * * * * * *
+ */
+#define	Dict_Spill	Ǔ
+#define Dict_Dust	ǔ

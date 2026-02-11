@@ -1,0 +1,7 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../Main/All ./All
+ln -sf Slip.cfg ./Gsp.cfg
+ln -sf ../Main/Main.ini ./Main.ini

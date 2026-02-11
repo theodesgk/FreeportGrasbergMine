@@ -1,0 +1,15 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../../common/wProject.cfg ./dozer/English/wProject.cfg
+ln -sf ./shovel ./loader
+ln -sf ./dozer ./grader
+ln -sf ./excav ./lhd
+ln -sf ./auxil ./dozerlp
+ln -sf ./auxil ./graderlp
+ln -sf ./excav ./loaderlp
+ln -sf ./excav ./ug_loader
+ln -sf ./truck ./ug_truck
+ln -sf ./excav ./ug_train
+ln -sf ./auxil ./wdozer

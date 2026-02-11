@@ -1,0 +1,9 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../Main/All ./All
+ln -sf ../Gsp/Args.h ./Args.h
+ln -sf ../Gsp/MainCustom.cfg ./Main.cfg
+ln -sf ../Gsp/Main.h ./Main.h
+ln -sf ../Gsp/Gsp.cfg ./Pmc.cfg

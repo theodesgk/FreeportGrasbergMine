@@ -1,0 +1,33 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1995
+ *               All Rights Reserved
+ *  $RCSfile: Patch,v $
+ * $Revision: 1.2 $
+ *   $Author: zambetis $
+ *     $Date: 2009/05/07 18:35:44 $
+ *    $State: Exp $
+ *   Purpose: Script for loading mlx patches
+ *            
+ * * * * * * * * * * * * * * * * * * *
+ */
+#include <Version.h>
+
+#if #arch(pe.java)
+
+#ifndef CONTROL
+	echo you must specify a control file (and optional payload cab) to download
+        echo 'example:  net/x86/Patch  CONTROL=P1 or P2 or ...'
+        echo 'example:  net/x86/Patch  CONTROL=P1 CAB=yes ...'
+        echo ' '
+#else
+        echo Downloading control file for CONTROL
+	CP(x86/CONTROL/control.xml ,D:\mms\Patch\control.xml)
+#if defined(CAB)
+        echo Downloading cab file for CONTROL
+	CP(x86/CONTROL/CONTROL.cab ,D:\mms\Patch\\CONTROL.cab)
+#endif
+#endif
+#endif

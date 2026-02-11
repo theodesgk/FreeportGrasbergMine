@@ -1,0 +1,17 @@
+fsutil hardlink create Defect.cfg ..\English\Defect.cfg
+fsutil hardlink create Delay.cfg ..\English\Delay.cfg
+fsutil hardlink create Dismount.cfg ..\English\Dismount.cfg
+fsutil hardlink create Down.cfg ..\English\Down.cfg
+fsutil hardlink create Kp2.cfg ..\English\Kp2.cfg
+fsutil hardlink create Matl.cfg ..\English\Matl.cfg
+fsutil hardlink create Nearby.cfg ..\English\Nearby.cfg
+fsutil hardlink create Project.cfg ..\English\Project.cfg
+fsutil hardlink create Reset.cfg ..\English\Reset.cfg
+fsutil hardlink create Split.cfg ..\English\Split.cfg
+fsutil hardlink create Standby.cfg ..\English\Standby.cfg
+fsutil hardlink create Topo.cfg ..\English\Topo.cfg
+fsutil hardlink create WinMgr.cfg ..\English\WinMgr.cfg
+fsutil hardlink create w0.Icon.cfg ..\English\w0.Icon.cfg
+fsutil hardlink create w0.Matl.cfg ..\English\w0.Matl.cfg
+fsutil hardlink create w0.cfg ..\English\w0.cfg
+fsutil hardlink create w0.v2.cfg ..\..\Hindi\w0.v2.cfg

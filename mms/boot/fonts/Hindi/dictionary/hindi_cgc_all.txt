@@ -1,0 +1,254 @@
+﻿# Goic/truck/Hindi/Actions.cfg
+0x81	actions			कार्य
+0x82	log on			सत्रारम्भ
+0x83	log off			सत्रान्त
+0x84	pre start check	मशीन जान्च
+0x85	arrive			आगमन
+0x86	assign			निर्दिष्ट
+0x87	First Bucket	प्रथम बकेट
+0x88	full			भार पूर्ण
+0x89	yes				हां
+0x8a	no				नहीं
+0x8b	self assign		स्व निर्दिष्ट
+0x8c	fuel			ईंधन
+0x8d	emergency		आपातकाल
+0x8e	Engine Hours	ईंजन आवर
+0x8f	exit menu		बाहर
+
+# Goic/truck/Hindi/Status.cfg
+0x90	status	स्तिथि
+0x91	ready	रेडी
+0x92	delay	डिले
+0x93	down	डाउन
+0x94	standby	स्टेन्डबाई
+
+# Goic/truck/Hindi/Options.cfg
+0x95	options				विकल्प
+0x96	Recall				लौटाना
+0x97	refresh screen		रिफ़्रेश् स्क्रिन 
+0x98	clear text window	क्लियर विन्डो
+0x99	message				सन्देश 
+
+# Goic/truck/Hindi/Macro.cfg
+0x9a	This Action Not Available	यह कार्य सम्भव नहीं
+0x9b	Truck Full					डम्पर भार पूर्ण
+
+# Goic/Hindi/Actions.cfg
+0x9c	Information	सूचना
+0x9d	Spillage	स्पिलेज
+
+# Goic/Hindi/Kp.cfg
+0x9e	cancel	कैन्सल
+0x9f	clear	क्लियर
+
+# Goic/Hindi/Macro.cfg
+0xA0	Welcome To Intellimine	ईन्टेलिमाईन में स्वागत है ( this has been split - 291 )
+0xA1	Please Log On			सत्र आरम्भ करें
+0xA2	Down at					डाउन स्थान :
+0xA3	Ready at				रेडी स्थान:
+0xA4	Standby at				स्टेन्डबाइ स्थान:
+0xA5	Delayed at				डिले स्थान:
+0xA6	Parked at				पार्किन्ग स्थान :  
+0xA7	Go to					निर्दिष्ट स्थान: 
+0xA8	Arrived at				आगमन :
+0xA9	Loading at				लोडिन्ग स्थान :
+0xAA	Dumping at				डम्पिन्ग स्थान :
+0xAB	Next					आगामी
+0xAC	Waiting for Truck at	डम्पर का इन्तजार
+0xAD	Loading					लोडिन्ग
+0xAE	**** Also msg.16 "loading by"
+0xAF	Press OK				ओके दबायें
+0xB0	enter payroll number	पह्चान सन्ख्या 
+0xB1	fuel amount				ईंधन मात्रा
+0xB2	Message to				सन्देश
+0xB3	*** also kpNoFull "Wait for Shovel FULL"
+0xB4	confirm emergency		आपातकाल पुष्टि 
+0xB5	*** Also "Time"
+
+# Goic/Hindi/Macro_English.cfg
+0xB6	Wait for Shovel	शोवेल का इन्तजार
+
+# Goic/Hindi/PS_Macro.cfg
+0xB7	Pass							पास
+0xB8	Fail							फेल
+0xB9	prestart complete- thank you	जान्च पूरी हुई - धन्यवाद ( this has been split - 292 )
+0xBA	*** Also "Prestart Checks - page"
+0xBB	pass all						सब सामान्य
+0xBC	page							पेज
+0xBD	page 1							पेज 1
+0xBE	prev page						पिछला पेज
+0xBF	next page						अगला पेज
+0xC0	comment							टिप्पणी
+0xC1	ok								ओके
+
+# Goic/Hindi/ManAsn.cfg
+0xC2	shovel		शोवेल 
+0xC3	Location	स्थान
+
+# Goic/Hindi/MPrior.cfg
+0xC4	Low		निम्न 
+0xC5	Normal	सामान्य
+0xC6	High	उच्च
+
+# Goic/Hindi/Options.cfg
+0xC7	Also "Message"
+
+# Goic/Hindi/Prior.cfg
+0xC8	Ore		अयस्क
+0xC9	Coal	कोयला
+0xCA	Waste	ओभरबर्डेन
+
+# Goic/Hindi/ScrnCntrl.cfg
+0xCB	Blue	नीला
+0xCC	Green	हरा
+0xCD	Gray	स्लेटी
+0xCE	Brown	भूरा
+0xCF	Yellow	पीला
+
+# Goic/Hindi/wk.mb.cfg
+0xD0	Help	मदद
+0xD1	Main	मुख्य
+
+# Delay 
+0xD2	Tea					चाय
+0xD3	Meals				भोजन
+0xD4	Tiffin				नाश्ता
+0xD5	Face cleaning		फ़ेस क्लिनिंग
+0xD6	Congestion			रास्ता जाम
+0xD7	Fuelling			ईन्धन फिलिंग
+0xD8	Dust				धूल
+0xD9	Machine Relocation	जगह चेंज
+0xDA	Operator Change		ओपरेटर चेंज
+0xDB	Others				अन्य
+
+# Down 
+0xDC	Tyre					टायर
+0xDD	Lights					लाइट
+0xDE	Horn					हौर्न 
+0xDF	Engine					ईंजिन
+0xE0	Transmission			ट्रांस्मिसन
+0xE1	Hydraulic				हाइड्रौलिक
+0xE2	Battery					बैटरी
+0xE3	Preventive Maintenance	मेंटेनेन्स  
+0xE4	Fault light indication	फ़ौल्ट लाइट
+
+# Standby
+0xE5	Spare			अतिरिक्त
+0xE6	Shift End		पाली समाप्त
+0xE7	Bad weather		खराब मौसम
+0xE8	Shift Change	पाली चेन्ज
+
+# Prestart Checklist
+0xE9	Steering					स्टियरिंग
+0xEA	Tyre condition				टायर
+0xEB	Water / Fuel / Oil Level	पानी / ईंधन / तेल लेवेल
+0xEC	Service Brake				सर्भिस ब्रेक
+0xED	Emergency Brake				ईमर्जेन्सी ब्रेक
+0xEE	Parking Brake				पार्किन्ग ब्रेक
+0xEF	Emergency Steering			ईमर्जेन्सी स्टियरिंग 
+0xF0	Fire Extinguisher			अग्निशामक
+0xF1	Two way Radio				वायरलेस
+0xF2	Lights						बत्ती
+0xF3	Horn						हौर्न
+0xF4	Oil Leakage					तेल रिसाव
+0xF5	Fuel Leakage				ईंधन रिसाव
+0xF6	Sight Glass					साईट ग्लास
+0xF7	Wipers						वाइपर
+0xF8	Gauges						गेज 
+0xF9	Controls					कन्ट्रौल
+0xFA	Seat Condition				सीट
+0xFB	Pin Retainers				पिन रिटेनर
+0xFC	Grease Lines				ग्रीज लाईन
+0xFD	Handrail / guard			हैंड रेल / गार्ड
+0xFE	Foot rest					फ़ुट रेस्ट
+0xFF	Clean Cab					केबिन सफ़ाई
+0x100	Damage						डैमेज
+0x101	Track Condition				ट्रैक
+0x102	Main machine access			मशीन एक्सेस
+
+
+# Dispatchers Message
+0x103	Go to Site Office		साइट औफ़िस जायें
+0x104	Go to Fuel Bunk			डीजल पम्प जायें
+0x105	Go to Garage			गैरेज जायें
+0x106	Call on Two way radio	वायरलेस पर बुलायें
+0x107	Any problem?			कोई समस्या ?
+0x108	Contact Supervisor		सुपर्वाइजर को सम्पर्क करें
+0x109	Stay there				वहीं रुकें                                           
+0x10A	Are you loading?		क्या लोडिंग कर रहें हैं ?
+0x10B	Are you getting load?	क्या लोड ले रहे हैं ?
+0x10C	Are you full?			क्या लोड पूरा हो गया ? 
+0x10D	Are you empty?			क्य डम्पर खाली है ?
+0x10E	Press Icon				आइकोन दबायें
+0x10F	Press first bucket		प्रथम बकेट दबायें
+0x110	Press delay				डिले दबायें
+0x111	Press down				डाउन दबायें
+0x112	Well done				शाबाश
+0x113	Thank you				धन्यवाद
+
+
+0x114	space					स्पेस
+0x115	send					भेजे
+0x116	delete					डिलिट
+0x117	load					लोड
+0x118	get defects				त्रुटि सूची
+0x119	truck					डम्पर
+0x11A	Defect					त्रुटि
+0x11B	Split Digging			स्पलिट खनन
+0x11C	Set Load Location		लोड स्थान
+0x11D	Set Truck Loading		डम्पर नं चुने
+0x11E	Change Tramming Mode	ट्रामिन्ग विधा 
+0x11F	Shift Information		पाली सूचना
+0x120	Exit					बाहर
+0x121	None					कोई नहीं
+0x122	Enter Number			नम्बर अन्कित करें
+0x123	Welcome to				स्वागत है
+0x124	Intellimine				ईन्टेलिमाईन में
+0x125	Thank you				धन्यवाद
+
+# Additional Delay Words Needed
+0x126	Machine Inspection	मशीन जान्च
+0x127	Blasting			बलास्टिंग
+# Additional Down Words
+0x128	Accidental Damage	एक्सिडेन्टल डेमेज
+0x129	material			मेटेरियल
+
+# Actions
+0x12A	Refill			फिर से भरना
+0x12B	Empty			ख़ाली
+0x12C	Watering		पानी देना
+0x12D	Stop Watering	पानी देना रोको
+0x12E	(unused)
+0x12F	(unused)
+0x130	Arrive			आगमन
+
+# Goic/wtruck/Hindi/w1.cfg
+0x131	Weather Conditions	मौसम की स्तिथि 
+
+# Goic/wtruck/Hindi/w1.mb.cfg
+0x132	Temp					तापमान
+0x133	Wind Speed				हवा की गति
+0x134	Wind Direction			हवा की दिशा
+0x135	Sky Condition			आसमान स्थिति
+0x136	Precipitation Factor	वर्षा कारक
+
+# Goic/wtruck/Hindi/Macro.cfg
+0x137	Enter Temperature	तापमान भरे
+
+# Goic/wtruck/Hindi/Precip.cfg
+0x138	None		साफ़ मौसम
+0x139	Light Rain	पाला
+0x13A	Rain		बारिश
+
+# Goic/wtruck/Hindi/Sky.cfg
+0x13B	Clear			साफ़ 
+0x13C	Partly Cloudy	थोडे बादल
+0x13D	Cloudy			मेघाच्छादित
+
+# Goic/wtruck/Hindi/Wind.cfg
+0x13E	Calm	शांत
+0x13F	Light	प्रकाश
+0x140	Gusty	वातमय
+
+# Goic/wtruck/Hindi/Spray.cfg
+0x141	Update	अद्यतन

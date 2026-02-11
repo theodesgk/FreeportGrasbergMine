@@ -1,0 +1,58 @@
+%!/psw/cpp
+#include <Main/CheckRev.h>
+#if #args(OK)
+#	include <Main/Ram0.h>
+	LD(Test,Ram0/Test)
+	LD(Pulse,Ram0/Pulse)
+#	ifndef MODEM
+#		define MODEM tait1200
+#	endif
+#	ifndef CHAN
+#		define CHAN 1
+#	endif
+	/*
+	 * Load GPS system only if specified.
+	 */
+#	ifdef LOC
+		echo Loading Gps system...
+		CP(Macro,Ram0/Macro)
+		CP(GpsDev,Ram0/GpsDev)
+		CP(GpsApp,Ram0/GpsApp)
+		CP(GpsTruck,Ram0/GpsTruck)
+#		if #loc(Sk8) || #loc(Dsm) || #loc(Tsip)
+			CP(GpsTsip,Ram0/GpsTsip)
+#		elif #loc(GG24) || #loc(Ashtech)
+			CP(GpsGG24,Ram0/GpsGG24)
+#		elif #loc(G12)
+			CP(GpsNMEA,Ram0/GpsNMEA)
+			CP(Gps/G12/g12.rover,Ram0/g12.rover)
+			CP(GpsRTCM,Ram0/GpsRTCM)
+#		endif
+#	endif
+	/*
+	 * Load the RfTag system if specified
+	 */
+#	ifdef TAG
+		echo Loading Tag system...
+		CP(Amtech,Ram0/RfTag)
+#	endif
+	echo	Loading modems...
+	CP(Dsp/MODEM.dsp,Ram0/MODEM.dsp)
+	ln	Ram0/MODEM.dsp		Rp.dsp
+	CP(Dsp/pulse.dsp,Ram0/pulse.dsp)
+	CP(Cfg/Rp.cfg 1 CHAN _MODEM_=MODEM,Ram0/Rp.cfg)
+#	if defined(UP) && defined(LOC)
+		CP(Test.hub/Test.cfg _UP_=UP _LOC_=LOC _OPTION_=FILENAME,Ram0/Test.cfg)
+#	elif defined(UP)
+		CP(Test.hub/Test.cfg _UP_=UP _OPTION_=FILENAME,Ram0/Test.cfg)
+#	elif defined(LOC)
+		CP(Test.hub/Test.cfg _LOC_=LOC _OPTION_=FILENAME,Ram0/Test.cfg)
+#	elif defined(TAG)
+        	CP(Test.hub/Test.cfg _TAG_=TAG _OPTION_=FILENAME,Ram0/Test.cfg)
+#	else
+		CP(Test.hub/Test.cfg _OPTION_=FILENAME,Ram0/Test.cfg)
+#	endif
+	boot	Ram0/Test lib:ram0:boot etc:ram0:boot
+#endif
+
+

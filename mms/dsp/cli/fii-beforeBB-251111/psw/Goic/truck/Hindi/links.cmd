@@ -1,0 +1,13 @@
+fsutil hardlink create Defect.cfg ..\English\Defect.cfg
+fsutil hardlink create Delay.cfg ..\English\Delay.cfg
+fsutil hardlink create Down.cfg ..\English\Down.cfg
+fsutil hardlink create Options.cfg ..\English\Options.cfg
+fsutil hardlink create Standby.cfg ..\English\Standby.cfg
+fsutil hardlink create WinMgr.cfg ..\English\WinMgr.cfg
+fsutil hardlink create w0.Icon.cfg ..\English\w0.Icon.cfg
+fsutil hardlink create w0.Text.cfg ..\..\Hindi\w0.Text.cfg
+fsutil hardlink create w0.cfg ..\English\w0.cfg
+fsutil hardlink create w0.v2.cfg ..\..\Hindi\w0.v2.cfg
+fsutil hardlink create w1.cfg ..\English\w1.cfg
+fsutil hardlink create w1.mb.cfg ..\English\w1.mb.cfg
+fsutil hardlink create w0.Comm.cfg ..\..\English\w0.Comm.cfg

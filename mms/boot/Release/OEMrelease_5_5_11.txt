@@ -1,0 +1,164 @@
+--------------------------------------------------------------------
+Release - 05/08/2014
+--------------------------------------------------------------------
+Zendesks: 27854. Changing the Last parameters to be events.
+
+Files list:
+	dsp/form/common/minecare/pop/popdata/unitrigj1939evt.txt
+	dsp/form/common/minecare/pop/popdata/unitrigj1939par.txt
+UnitRigJ1939Driver: new version 2.0.2
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Config.C
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Config.H
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Device.C
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Driver.C
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Driver.H
+
+--------------------------------------------------------------------
+Release - 05/08/2014
+--------------------------------------------------------------------
+TFS:324476 . CenseJ1939Quantum initial version.
+Files list:
+	dsp/form/common/minecare/pop/popdata/censej1939quantumevt.txt
+	dsp/form/common/minecare/pop/popdata/censej1939quantumpar.txt
+
+--------------------------------------------------------------------
+Release - 05/09/2014
+--------------------------------------------------------------------
+TFS:258110 and TFS:279633 Adding mechanism to avoid parameters filtering.
+Files list:
+VimsDriver: new version 3.5.1.1
+	src/Interfaces/Vims/VimsDriver.C
+StatexDriver: new version: 2.0.1
+    src/Interfaces/Ptu/StatexDriver.C
+GenericDriver:
+	src/Interfaces/GenericDriver/GenericDriver.C
+	src/Interfaces/GenericDriver/GenericDriver.H
+	src/Interfaces/GenericDriver/GenericDriver.lib
+	src/Interfaces/GenericDriver/ParamObject.C
+	src/Interfaces/GenericDriver/ParamHandler.H
+	src/Interfaces/GenericDriver/ParamObject.H
+
+--------------------------------------------------------------------
+Release - 05/26/2014
+--------------------------------------------------------------------
+Zendesk: 20670. Changing the Vims request timeout logic.
+Files lost:
+VimsDriver: new version 3.5.2
+	src/Interfaces/Vims/VimsDriver.C
+	
+--------------------------------------------------------------------
+Release - 05/26/2014
+--------------------------------------------------------------------
+TFS:328125. CenseJ1939Quantum with events' updated IDs.
+Files list:
+	dsp/form/common/minecare/pop/popdata/censej1939quantumevt.txt
+	dsp/form/common/minecare/pop/popdata/censej1939quantumpar.txt
+
+--------------------------------------------------------------------
+Release - 05/28/2014
+--------------------------------------------------------------------
+TFS:328125. CenseJ1939Quantum with events' updated names.
+Files list:
+        dsp/form/common/minecare/pop/popdata/censej1939quantumevt.txt
+        dsp/form/common/minecare/pop/popdata/censej1939quantumpar.txt
+
+--------------------------------------------------------------------
+Release - 05/28/2014
+--------------------------------------------------------------------
+TFS:
+Files list:		
+	 boot/MineCare/Ecs/Config.h
+     boot/MineCare/Ecs/Main.cfg
+
+GenericDriver: new version 1.42
+	src/Interfaces/GenericDriver/EventSender.C
+	src/Interfaces/GenericDriver/GenericDriver.C
+	src/Interfaces/GenericDriver/ParamHandler.C
+	src/Interfaces/GenericDriver/ParamHandler.H
+	src/Interfaces/GenericDriver/ParamObject.C
+
+VHMSDriver: new version 3.4.2
+	src/Interfaces/VHMS/VHMSDriver.C
+
+EcsDriver: new version 2.2.1
+	src/Interfaces/Ecs/EcsDriver.C
+
+--------------------------------------------------------------------
+Release - 06/02/2014
+--------------------------------------------------------------------
+TFS:325991 and Zendesk: 29149. VIMS3g 777G Payload Parameter issues
+	fixes.
+
+Vims3G driver: new version 2.4.3
+	src/Interfaces/Vims3G/Vims3GDriver.C
+	src/Interfaces/Vims3G/Vims3GConfig.C
+	
+--------------------------------------------------------------------
+Release - 16/06/2014
+--------------------------------------------------------------------
+TFS:256043(zd 16050) 279634(zd 25399). added logic to filter unknow events.
+TFS:330476(Feature request). Adding the new 730e models 
+
+VHMS730E_15000100100Config:
+	src/Interfaces/VHMS/VHMS730E_15000100100Config.C
+	src/Interfaces/VHMS/VHMS730E_15000100100Config.H
+	src/Interfaces/VHMS/VHMS730E_15000100100Config.lib
+
+VHMS730E_8_15000100100Config
+	src/Interfaces/VHMS/VHMS730E_8_15010100100Config.C
+	src/Interfaces/VHMS/VHMS730E_8_15010100100Config.H
+	src/Interfaces/VHMS/VHMS730E_8_15010100100Config.lib
+
+VHMSDriver: new version 3.6.0
+	src/Interfaces/VHMS/VHMSDriver.C
+	src/Interfaces/VHMS/VHMSDriver.H
+	src/Interfaces/VHMS/VHMSConfig.C
+	src/Interfaces/VHMS/VHMSConfig.H
+	src/Interfaces/VHMS/Makefile
+
+Boot Scripts: 
+	boot/MineCare/VHMS/App.h
+	boot/MineCare/VHMS/Main.cfg
+
+dsp/form/common/minecare/pop/popdata/vhmsevt
+dsp/form/common/minecare/pop/popdata/vhmspar.txt
+
+--------------------------------------------------------------------
+Release - 17/06/2014
+--------------------------------------------------------------------
+TFS:330607 CenseJ1939Quantum Meos initial version
+
+
+CenseJ1939QuantumDriver: new version 2.0.1
+	src/Interfaces/CenseJ1939Quantum/CenseJ1939QuantumConfig.C
+	src/Interfaces/CenseJ1939Quantum/CenseJ1939QuantumConfig.H
+	src/Interfaces/CenseJ1939Quantum/CenseJ1939QuantumDriver.C
+	src/Interfaces/CenseJ1939Quantum/CenseJ1939QuantumDriver.H
+	src/Interfaces/CenseJ1939Quantum/CenseJ1939QuantumDriver.lib
+	src/Interfaces/CenseJ1939Quantum/Makefile
+
+Boot Scripts:
+	boot/MineCare/CenseJ1939Quantum/App.h
+	boot/MineCare/CenseJ1939Quantum/censequantum.cfg
+	boot/MineCare/CenseJ1939Quantum/Config.h
+	boot/MineCare/CenseJ1939Quantum/.links
+	boot/MineCare/CenseJ1939Quantum/Main.cfg
+	boot/MineCare/CenseJ1939Quantum/links.cmd
+
+--------------------------------------------------------------------
+Release - 26/06/2014
+--------------------------------------------------------------------
+TFS:329218 Fixing a DDEC parameter name issue. Parameter #38 has been
+renamed to "Intake Manifold Air Temperature - Right Bank"
+
+Files list:
+	dsp/form/common/minecare/pop/popdata/ddecpar.txt
+
+--------------------------------------------------------------------
+Release - 26/06/2014
+--------------------------------------------------------------------
+Zendesk:33874 Removed the debug statement. 
+	
+CenseJ1939QuantumDriver: new version 2.0.2
+	src/Interfaces/CenseJ1939Quantum/CenseJ1939QuantumConfig.C
+	src/Interfaces/CenseJ1939Quantum/CenseJ1939QuantumDriver.C

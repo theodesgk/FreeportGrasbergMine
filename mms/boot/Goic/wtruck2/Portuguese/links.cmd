@@ -1,0 +1,13 @@
+fsutil hardlink create Actions.cfg ..\English\Actions.cfg
+fsutil hardlink create Conditions.cfg ..\English\Conditions.cfg
+fsutil hardlink create Direction.cfg ..\English\Direction.cfg
+fsutil hardlink create KpMinus.cfg ..\English\KpMinus.cfg
+fsutil hardlink create Macro.cfg ..\English\Macro.cfg
+fsutil hardlink create Precip.cfg ..\English\Precip.cfg
+fsutil hardlink create Sky.cfg ..\English\Sky.cfg
+fsutil hardlink create Spray.cfg ..\English\Spray.cfg
+fsutil hardlink create Spray2.cfg ..\English\Spray2.cfg
+fsutil hardlink create WinMgr.cfg ..\English\WinMgr.cfg
+fsutil hardlink create Wind.cfg ..\English\Wind.cfg
+fsutil hardlink create w1.cfg ..\English\w1.cfg
+fsutil hardlink create w1.mb.cfg ..\English\w1.mb.cfg

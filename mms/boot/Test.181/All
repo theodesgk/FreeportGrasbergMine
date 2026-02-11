@@ -1,0 +1,21 @@
+#!/psw/cpp
+echo	Copying system to ram0...
+cp	fl0 ram0
+echo	Initializing ram1...
+fill	ram1
+mkfs	ram1
+echo	Copying drivers to ram1...
+cp	fl1/flash	ram1/flash
+cp	fl1/pty		ram1/pty
+cp	fl1/float	ram1/float
+cp	fl1/i2c		ram1/i2c
+cp	fl1/Ssn		ram1/Ssn
+cp	fl1/ObjSh	ram1/ObjSh
+cp	fl1/Sp		ram1/Sp
+cp	fl1/Slip	ram1/Slip
+cp	fl1/lc		ram1/lc
+cp	fl1/Loop	ram1/Loop
+LD(Adc,ram1/Adc)
+LD(Test,ram1/Main)
+CP(Test.181/Test.cfg,ram1/Test.cfg)
+boot	ram1/Main lib:ram1:ram0 etc:ram1:ram0

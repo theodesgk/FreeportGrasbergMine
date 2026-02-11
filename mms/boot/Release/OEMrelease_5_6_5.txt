@@ -1,0 +1,100 @@
+--------------------------------------------------------------------
+Release - 10/17/2016
+--------------------------------------------------------------------
+TFS:419399 Fixing typo in intf_list file
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	
+
+--------------------------------------------------------------------
+Release - 10/21/2016
+--------------------------------------------------------------------
+Adding OEMrelease_5_6_5.txt
+
+Files:
+	/mms/boot/Release/OEMrelease_5_6_5.txt
+
+--------------------------------------------------------------------
+Release - 11/21/2016
+--------------------------------------------------------------------
+TFS:449779 Adding Damage Monitor interface.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/pop/popdata/damagemonitorevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/damagemonitorpar.txt
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	/mms/src/Interfaces/DamageMonitor/*
+	/mms/src/Interfaces/MineCare/MineCare.H
+	/mms/boot/MineCare/DamageMonitor/*
+	/mms/boot/Release/OEMrelease_5_6_5.txt
+
+--------------------------------------------------------------------
+Release - 12/13/2016
+--------------------------------------------------------------------
+TFS:433725 Updating DDEC interface to update its status to connected
+only when receiving valid data
+
+Files:
+	/mms/src/Interfaces/J1587/DdecDriver.C
+	
+--------------------------------------------------------------------
+Release - 12/20/2016
+--------------------------------------------------------------------
+TFS:455294 Adding the MCC popfiles to the DISPATCH server release
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	/mms/dsp/form/common/minecare/pop/popdata/mccevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/mccpar.txt
+
+--------------------------------------------------------------------
+Release - 12/29/2016
+--------------------------------------------------------------------
+TFS:452918 Adding the latest version of the InvertexCAN popfiles
+TFS:455459 Correcting typo on an event name on the MCC popfile
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/mccevt.txt
+
+--------------------------------------------------------------------
+Release - 01/04/2017
+--------------------------------------------------------------------
+TFS:456359 renaming the CollisionAvoidance interface to
+CollisionAwareness
+
+Files:
+	/mms/src/Interfaces/Makefile
+	/mms/src/Interfaces/CollisionAwareness/*
+	/mms/boot/MineCare/CollisionAwareness/*
+	/mms/src/Interfaces/MineCare/MineCare.H
+	/mms/dsp/form/common/minecare/pop/popdata/collisionawarenessevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/collisionawarenesspar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/mc_enums.frm
+
+--------------------------------------------------------------------
+Release - 02/06/2017
+--------------------------------------------------------------------
+TFS:445490 Correcting the capitalization of the STATEX interface
+popfiles
+TFS:453359 Correcting the capitalization of the LINCS interface
+popfiles
+TFS:458477 Updating the FlandersShovel interface to match the
+latest OEM documentation. This includes several changes in the
+parameters and events of the interface
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/statexe.txt
+	/mms/dsp/form/common/minecare/pop/popdata/statexp.txt
+	/mms/dsp/form/common/minecare/pop/popdata/lincsevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/lincspar.txt
+	/mms/src/Interfaces/Modbus/FlandersShovelConfig.C
+	/mms/src/Interfaces/Modbus/FlandersShovelDriver.C
+	/mms/src/Interfaces/Modbus/FlandersShovelDriver.H
+	/mms/dsp/form/common/minecare/pop/popdata/flandersshovelevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/flandersshovelpar.txt

@@ -1,0 +1,11 @@
+object Slip name:Gsp port:scc1a
+Rpc base:Gsp
+echo Testing rs232...
+Gsp speed:9600 hdwe:rs232 set
+Rpc ping:0
+echo Testing rs485...
+Gsp speed:9600 hdwe:rs485 set
+Rpc ping:0
+echo Testing 20ma...
+Gsp speed:4800 hdwe:20ma set
+Rpc ping:0

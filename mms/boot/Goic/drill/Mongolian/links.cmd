@@ -1,0 +1,15 @@
+fsutil hardlink create Kp2.cfg ..\English\Kp2.cfg
+fsutil hardlink create Pattern.cfg ..\English\Pattern.cfg
+fsutil hardlink create w0.cfg ..\English\w0.cfg
+fsutil hardlink create w0.ht.cfg ..\English\w0.ht.cfg
+fsutil hardlink create w0.Text.cfg ..\English\w0.Text.cfg
+fsutil hardlink create w0.v1.cfg ..\English\w0.v1.cfg
+fsutil hardlink create w0.v2.cfg ..\English\w0.v2.cfg
+fsutil hardlink create w0.v3.cfg ..\English\w0.v3.cfg
+fsutil hardlink create w0_low.cfg ..\English\w0_low.cfg
+fsutil hardlink create wComp.cfg ..\English\wComp.cfg
+fsutil hardlink create wDrilling.cfg ..\English\wDrilling.cfg
+fsutil hardlink create wDrilling_low.cfg ..\English\wDrilling_low.cfg
+fsutil hardlink create wInfo.cfg ..\English\wInfo.cfg
+fsutil hardlink create wInfo_low.cfg ..\English\wInfo_low.cfg
+fsutil hardlink create WinMgr.cfg ..\English\WinMgr.cfg

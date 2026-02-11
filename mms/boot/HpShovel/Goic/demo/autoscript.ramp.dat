@@ -1,0 +1,296 @@
+DO Macro macro noTalk
+DO up Slip
+DO w0.Text clear
+DO ComMgr elevBufferSize:1 oKToDisplayDugoutArea:1
+
+/*  
+ Loading Bucket and Position Simulator
+*/
+
+DO object PositionSimulator name:possim
+WAIT 1
+DO object BucketSimulator name:bktsim
+WAIT 1
+DO hp.sideview horzLevel:-100
+
+/* 
+ Ramp
+*/
+
+DO ComMgr elevBufferSize:1 oKToDisplayDugoutArea:0
+DO possim centerX:1000 centerY:1000 centerZ:0
+WAIT 2
+DO materials insert:0:CV_WASTE1:CAM_VALEN_WASTE1:3:-5:0
+DO w0.Matl label:CAM_VALEN_WASTE1
+DO hp.matl label:CAM_VALEN_WASTE1
+DO matl.0 CAM_VALEN_WASTE1
+WAIT 2
+
+DO showHP
+WAIT 2
+
+DO ComMgr createProject:w:30:l:30:a:-5
+WAIT 2
+DO HpGpsCADCanvas zoom:400
+WAIT 2
+
+DO possim centerZ:15
+DO possim move:0:2:0
+WAIT 2
+/*  
+ Moving Backhoe in sideView
+*/
+
+DO possim speedUp:5
+DO possim centerX:987 centerY:1035
+WAIT 2
+
+/*
+ Right
+*/
+
+DO possim action:dig
+WAIT 7
+DO possim turn:-30
+WAIT 5
+DO showHP
+DO possim action:dump
+WAIT 5
+DO WinMgr window:w0
+DO EQ-REQ load [ T100 ]
+DO hp.data2 label:T100
+WAIT 5 
+DO showHP
+WAIT 3
+DO showTopView
+DO possim turn:30
+DO hp.data3 label:51
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+DO possim move:45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:-30
+WAIT 7
+DO showHP
+DO possim action:dump
+DO hp.data2 label:T100
+WAIT 5
+DO showTopView
+DO possim turn:30
+DO hp.data3 label:103
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+DO possim move:45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:-30
+WAIT 7
+DO showHP
+DO possim action:dump
+DO hp.data2 label:T100
+DO hp.data3 label:153
+WAIT 5
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+WAIT 5
+DO showHP
+WAIT 2
+DO showTopView
+DO possim turn:30
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+DO possim move:45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:-30
+WAIT 7
+DO showHP
+DO possim action:dump
+WAIT 5
+DO WinMgr window:w0
+DO EQ-REQ load [ T100 ]
+DO hp.data2 label:T100
+WAIT 5
+DO showHP
+WAIT 2
+DO showTopView
+DO possim turn:30
+DO hp.data3 label:54
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+DO possim move:45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:-30
+WAIT 7
+DO showHP
+DO possim action:dump
+DO hp.data2 label:T100
+WAIT 5
+DO showTopView
+DO possim turn:30
+DO hp.data3 label:108
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+DO possim move:45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:-30
+WAIT 7
+DO showHP
+DO possim action:dump
+DO hp.data2 label:T100
+DO hp.data3 label:158
+WAIT 5
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+WAIT 5
+DO showHP
+WAIT 2
+DO showTopView
+DO possim turn:30
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+
+
+/*
+ Left
+*/
+
+DO possim action:dig
+WAIT 7
+DO possim turn:30
+WAIT 5
+DO possim action:dump
+WAIT 5
+DO WinMgr window:w0
+DO EQ-REQ load [ T100 ]
+DO hp.data2 label:T100
+WAIT 5
+DO showHP
+WAIT 2
+DO showTopView
+DO possim turn:-30
+DO hp.data3 label:52
+WAIT 5
+
+DO possim move:-45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:30
+WAIT 7
+DO possim action:dump
+DO hp.data2 label:T100
+WAIT 2
+DO showTopView
+DO possim turn:-30
+DO hp.data3 label:105
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+DO possim move:-45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:30
+WAIT 7
+DO possim action:dump
+DO hp.data2 label:T100
+DO hp.data3 label:149
+WAIT 5
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+WAIT 5
+DO showHP
+WAIT 2
+DO showTopView
+DO possim turn:-30
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+DO possim move:-45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:30
+WAIT 7
+DO possim action:dump
+WAIT 5
+DO WinMgr window:w0
+DO EQ-REQ load [ T100 ]
+DO hp.data2 label:T100
+WAIT 5
+DO showHP
+WAIT 2
+DO showTopView
+WAIT 5
+DO possim turn:-30
+DO hp.data3 label:45
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+DO possim move:-45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:30
+WAIT 7
+DO possim action:dump
+DO hp.data2 label:T100
+WAIT 5
+DO possim turn:-30
+DO hp.data3 label:106
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+DO possim move:-45:7:0
+WAIT 5
+DO possim action:dig
+WAIT 5
+DO possim turn:30
+WAIT 7
+DO possim action:dump
+DO hp.data2 label:T100
+DO hp.data3 label:154
+WAIT 5
+DO WinMgr window:w0
+DO WinMgr window:w0.Icon press:w0.Icon
+DO WinMgr window:w0
+WAIT 5
+DO showHP
+WAIT 2
+DO showTopView
+WAIT 5
+DO possim turn:-30
+WAIT 5
+DO possim move:0:-5:0
+WAIT 5
+
+WAIT 1000
+DO reboot

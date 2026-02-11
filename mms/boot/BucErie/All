@@ -1,0 +1,25 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1995
+ *               All Rights Reserved
+ *  $RCSfile: All,v $
+ * $Revision: 1.1 $
+ *   $Author: dcitron $
+ *     $Date: 2012/07/08 07:50:23 $
+ *    $State: Exp $
+ *   Purpose: Load everything there is to load for an application.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#include <Main/CheckRev.h>
+#if #args(OK)
+#	unassert args(OK)
+#	include <Args.h>
+#	if #args(OK)
+#		include <Sys/Sys.h>
+#		include <Main.h>
+#		include <App.h>
+#		include <Config.h>
+#	endif
+#endif

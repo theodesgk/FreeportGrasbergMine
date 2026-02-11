@@ -1,0 +1,10 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../PitCtl/All ./All
+ln -sf ../PitCtl/App.h ./App.h
+ln -sf ../PitCtl/Args.h ./Args.h
+ln -sf ../PitCtl/Config.h ./Config.h
+ln -sf ../Gsp/MainTty.cfg ./Main.cfg
+ln -sf ../PitCtl/Main.h ./Main.h

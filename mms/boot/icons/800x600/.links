@@ -1,0 +1,8 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ./loader ./loaderlp
+ln -sf ./grader ./graderlp
+ln -sf ./dozer ./dozerlp
+ln -sf ./auxil ./crusher

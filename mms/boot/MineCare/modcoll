@@ -1,0 +1,5 @@
+object CTM name:mgr
+mgr startTrans:8
+mgr remItem:8:73
+mgr remItem:8:76
+mgr commitTrans:8:1

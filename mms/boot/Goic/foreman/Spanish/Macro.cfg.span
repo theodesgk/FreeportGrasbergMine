@@ -1,0 +1,169 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1996
+ *               All Rights Reserved
+ *  $RCSfile: Macro.cfg.span,v $
+ * $Revision: 1.1 $
+ *   $Author: olson $
+ *     $Date: 2002/10/08 20:35:54 $
+ *    $State: Exp $
+ *   Purpose: GOIC object configuration file.
+ * * * * * * * * * * * * * * * * * * *
+ */
+stack 2048
+#include <Goic/Rpc.cfg>
+#include <Goic/Spanish/Macro.cfg>
+in	KDISP1		0x23	s	w1.Text write:$1\n
+out	EXCEPT_REPLY	0x039	s	sendto	up
+in	KSTATE		0x41	b?sss	state $1
+in      KEQMT           0x212    s       w3.Text write:$1\n
+#if #arch(cgc)
+#in	KCOLOR	0x0a5	sss	$1 itemColor:$2:$3
+in	KCOLOR	0x0a5	sss	$1 item:$2:$3
+#endif
+#if #options(HpExcav)
+out     FOREMAN-HP-INFO 0x0077  s       sendto up
+in      GENERIC         0x0078  s       $1
+#endif
+in	KMENU		0x0049	s[s]	$1 items:$2
+/*
+in	KMENU   	0x0049  s[s]    eq? "$1" "Locs" kmenulocs;eq? "$1" "Aux" kmenuaux;ne? "$(special)" "yes" stdkmenu;special no
+macro	stdkmenu	$1 items:$2
+macro	kmenulocs	special yes;foreach $2;do $1 item:"\$2" $(typ)Unit\$1 post
+macro	kmenuaux	special yes;foreach $2;do $1 item:"\$2" $(typ)Unit\$1 post
+*/
+symbol  wprev   w0
+symbol  wcurrent w0
+symbol  wmain w0
+symbol	special		no
+symbol	u01	Camion
+symbol	u02	Pala
+symbol	u03	Tiradero
+symbol	u04	Trituradora
+symbol	u05	Stockpile
+symbol	u06	Voladura
+symbol	u07	Taller
+symbol	u08	Enlace
+symbol	u12	Perforador
+symbol	u13	BullDozer
+symbol	u14	Motoniveladora
+symbol 	u15	Llanta Dozer
+symbol	u18	Supervisor
+symbol	u19	Vehiculo Utilitario
+symbol	loclist	03 04 05 06 07 08
+symbol	auxlist 12 13 14 15 18 19
+symbol	unum
+symbol	temp
+symbol	compare
+
+macro menuaction4	id $1;eq? "$1" "Actualizar" sendupdate;ne? "$1" "Actualizar" postactmenu
+macro postactmenu	more 1;Action$(typ) post
+macro menuaction5	id $1;eq? "$1" "Actualizar" sendupdate;ne? "$1" "Actualizar" postlocmenu
+macro menuaction6	id $1;eq? "$1" "Actualizar" sendupdate;ne? "$1" "Actualizar" postauxmenu
+macro setunum		compare $(u$(temp));eq? "$(compare)" "$(id)" unum $(temp)
+macro postlocmenu	foreach $(loclist);do 'temp \$2;setunum';postunitmenu
+macro postauxmenu	foreach $(auxlist);do 'temp \$2;setunum';postunitmenu
+macro postunitmenu	menutype $(typ)Unit$(unum);menuselect menuaction4;$(typ)Unit$(unum) action:menuaction post
+macro frmnmess		ob1 $(Kp2.Disp label);sendaction
+
+/* Change Status */
+macro	ready.req	for sendreq;Ready$(typ) post
+macro   ready.sendreq   FOREMAN-REQ $(typ) "$(id)" Ready $1
+macro   delay.req       for sendreq;Delay$(typ) post
+macro   delay.sendreq   FOREMAN-REQ $(typ) "$(id)" Delay $1
+macro   down.req        for sendreq;Down$(typ) post
+macro   down.sendreq    FOREMAN-REQ $(typ) "$(id)" Down $1
+macro   standby.req     for sendreq;Standby$(typ) post
+macro   standby.sendreq FOREMAN-REQ $(typ) "$(id)" Standby $1
+
+/* Blending Screen */
+symbol  t1 0
+symbol  t2 0
+symbol  t3 0
+symbol  t4 0
+symbol  t5 0
+symbol  cmt 0
+symbol  pd 0
+symbol  t1cp 0
+symbol  t2cp 0
+symbol  t3cp 0
+symbol  t4cp 0
+symbol  t5cp 0
+symbol  t1label 'Mezcla % para Tipo 1'
+symbol  t2label 'Mezcla % para Tipo 2'
+symbol  t3label 'Mezcla % para Tipo 3'
+symbol  t4label 'Mezcla % para Tipo 4'
+symbol  t5label 'Mezcla % para Tipo 5'
+symbol  cmtlabel 'Control Masa Tons' 
+symbol  pdlabel '% Deviacion' 
+symbol  t1label2 Tipo\ 1
+symbol  t2label2 Tipo\ 2
+symbol  t3label2 Tipo\ 3
+symbol  t4label2 Tipo\ 4
+symbol  t5label2 Tipo\ 5
+symbol blabel Mezcla:
+symbol Tcpl Actual\ Pct:
+symbol  Blendname Ninguna
+macro T1cplabel w2.v1 label:"$(Tcpl)$(t1cp)"
+macro T2cplabel w2.v2 label:"$(Tcpl)$(t2cp)"
+macro T3cplabel w2.v3 label:"$(Tcpl)$(t3cp)"
+macro T4cplabel w2.v4 label:"$(Tcpl)$(t4cp)"
+macro T5cplabel w2.v5 label:"$(Tcpl)$(t5cp)"
+macro BlendLabel w2.v0 label:"$(blabel)$(Blendname)"
+macro   getT1  Kp label:$(t1label2) action:'t1 \$(Kp.D label);shoT1' post
+macro   getT2  Kp label:$(t2label2) action:'t2 \$(Kp.D label);shoT2' post
+macro   getT3  Kp label:$(t3label2) action:'t3 \$(Kp.D label);shoT3' post
+macro   getT4  Kp label:$(t4label2) action:'t4 \$(Kp.D label);shoT4' post
+macro   getT5  Kp label:$(t5label2) action:'t5 \$(Kp.D label);shoT5' post
+macro   getcmt Kp label:$(cmtlabel) action:'cmt \$(Kp.D label);shocmt' post
+macro   getpd  Kp label:$(pdlabel) action:'pd \$(Kp.D label);shopd' post
+macro   shoT1  w2.Type1 label:"$(t1label)\n$(t1)"
+macro   shoT2  w2.Type2 label:"$(t2label)\n$(t2)"
+macro   shoT3  w2.Type3 label:"$(t3label)\n$(t3)"
+macro   shoT4  w2.Type4 label:"$(t4label)\n$(t4)"
+macro   shoT5  w2.Type5 label:"$(t5label)\n$(t5)"
+macro   shocmt w2.Cmt label:"$(cmtlabel)\n$(cmt)"
+macro   shopd  w2.Pd label:"$(pdlabel)\n$(pd)"
+macro   ClearAll nilT1;nilT2;nilT3;nilT4;nilT5;nilCmt;nilPd;nilt1cp;nilt2cp;nilt3cp;nilt4cp;nilt5cp;nilBlendname 
+macro shoAll T1cplabel;shoT1;T2cplabel;shoT2;T3cplabel;shoT3;T4cplabel;shoT4;T5cplabel;shoT5;BlendLabel;shocmt;shopd
+
+macro   nilT1  t1 0;w2.Type1 label:$(t1label)
+macro   nilT2  t2 0;w2.Type2 label:$(t2label)
+macro   nilT3  t3 0;w2.Type3 label:$(t3label)
+macro   nilT4  t4 0;w2.Type4 label:$(t4label)
+macro   nilT5  t5 0;w2.Type5 label:$(t5label)
+macro   nilt1cp t1cp 0;w2.v1 label:$(T1cplabel)
+macro   nilt2cp t2cp 0;w2.v2 label:$(T2cplabel)
+macro   nilt3cp t3cp 0;w2.v3 label:$(T3cplabel)
+macro   nilt4cp t4cp 0;w2.v4 label:$(T4cplabel)
+macro   nilt5cp t5cp 0;w2.v5 label:$(T5cplabel)
+macro   nilCmt cmt 0;w2.Cmt label:$(cmtlabel)
+macro   nilPd  pd 0;w2.Pd label:$(pdlabel)
+macro   nilBlendname  Blendname Ninguna;w2.v0 label:$(BlendLabel)
+macro	mbBlends2 eq? "$(id)" "Mas->" Blends2 action:getAct post;ne? "$(id)" "Mas->" doReq
+macro	mbBlends id $1;req BlendMenu;eq? "$(id)" "Actualizar" doReq post;ne? "$(id)" "Actualizar" mbBlends2 post
+macro	MoreBlends ob2 $1;eq? "$(ob2)" "Mas->" Blends2 action:getFReq post;ne? "$(ob2)" "Mas->" doReq
+macro	getBlends ob1 $1;Blends action:MoreBlends post
+macro	getReqBlends ob1 $1;eq? "$(ob1)" "Mas->" Blends2 action:getReq post;ne? "$(ob1)" "Mas->" doReq
+macro modBlend MODBLEND ["$(Blendname)" "$(t1)" "$(t2)" "$(t3)" "$(t4)" "$(t5)" "$(cmt)" "$(pd)"]
+
+macro	mapTA.w0	
+macro	mapTA.hp	
+in	GPS-LOC2	0x0af	llllll GPS-LOC $1 $2 $3 $4 0 0;gpsX $2;gpsY $3;gpsZ $4;GEO-INFO $4 $5 0;WinMgr after:1:updateGps0
+macro	updateGps0	WinMgr after:1:updateGps1;GPS-LOC 0 $(gpsX) $(gpsY) $(gpsZ) 0 0 
+macro	updateGps1	WinMgr after:1:updateGps0;GPS-LOC 0 $(gpsX) $(gpsY) $(gpsZ) 0 0 
+macro	cancelGps	WinMgr cancel:updateGps0 cancel:updateGps1
+symbol	gpsX	0
+symbol	gpsY	0
+symbol	gpsZ	0
+
+/* HpGps Screen   */
+#if #options(HpExcav)
+macro   gpson           tmpwin hp;WinMgr window:hp;hp.GPS map:y;ht geom:y:70:h:354
+pixels:300 map:y refresh;hp.mb hmin:60 map:y
+macro   gpsoff          tmpwin w0;WinMgr window:w0;ht map:n;hp.mb map:n
+macro   Turnoffht       ht map:n
+macro   Init            Macro KSTATE:0;WinMgr focus:w0.Icon;hp.Icon map:n;hp.status map:n;hp.incl map:n;hp.Text map:n;hp.GPS geom:x:0:w:560;hp.matl label:"" geom:x:0:y:408:w:180:h:72;hp.gpsmatl geom:x:180:y:408:w:180:h:72;hp.loads geom:x:360:y:408:w:200:h:72;hp.GPS digOutput:0x0
+#endif

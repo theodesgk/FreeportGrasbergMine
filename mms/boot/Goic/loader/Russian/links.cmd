@@ -1,0 +1,9 @@
+fsutil hardlink create Defect.cfg ..\English\Defect.cfg
+fsutil hardlink create Macro_excav.cfg ..\English\Macro_excav.cfg
+fsutil hardlink create Material.cfg ..\English\Material.cfg
+fsutil hardlink create Material2.cfg ..\English\Material2.cfg
+fsutil hardlink create WinMgr.cfg ..\English\WinMgr.cfg
+fsutil hardlink create w0.Clock.cfg ..\English\w0.Clock.cfg
+fsutil hardlink create w0.cfg ..\English\w0.cfg
+fsutil hardlink create w0.ht.cfg ..\English\w0.ht.cfg
+fsutil hardlink create w0.bGauges.cfg ..\English\w0.bGauges.cfg

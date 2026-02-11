@@ -1,0 +1,333 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-2001
+ *               All Rights Reserved
+ *  $RCSfile: All,v $
+ * $Revision: 1.20 $
+ *   $Author: dcitron $
+ *     $Date: 2014/05/27 04:45:54 $
+ *    $State: Exp $
+ *   Purpose: Install new FLASH boot sector.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#if #arch(pe) && #appname(Boot)
+/* #if #arch(pe) || #arch(pe.net) */
+        echo "Please do NOT run net/Boot/All on a PTX unit"
+#else
+#if #arch(pe.java)
+#	include <PortEmbedded/Boot>
+#else
+#if #arch(v2.4)
+#	if #arch(generic)
+#		define BOOT_ROM_2
+#	else
+#		define BOOTERROR
+#	endif
+#	define BOOTPFS Persistent24
+#elif #arch(v2.5) || #arch(v2.5.065)
+#	if #arch(generic)
+#		define BOOT_ROM_2
+#	else
+#		define BOOTFLASH v2.5
+#	endif
+#	define BOOTPFS Persistent25
+#elif #arch(v2.6.003)
+#	if #arch(generic)
+#		define BOOT_ROM_2
+#	else
+#		define BOOTFLASH v2.6
+#	endif
+#	define BOOTPFS Persistent26
+#else
+#	if #arch(install)
+#		define BOOT_INSTALL
+#	elif #arch(generic)
+#		define BOOT_ROM_3
+#	endif
+#endif
+#include <Args.h>
+#include <Main/CheckID.h>
+#if #args(OK)
+#if defined(MODEM)
+	net arch:BOOT_ARCH-MODEM_TYPE
+#elif defined(REV_D)
+	net arch:BOOT_ARCH-REV_D
+#else
+	net arch:BOOT_ARCH
+#endif
+#if defined(BOOTERROR)
+	echo '...Loading MEOS v3.0 is not supported for ARCH boot systems'
+	echo '   You must load MEOS v3.0 via the BOOT ROM'
+#elif defined(BOOTFLASH)
+	/*
+	 * For v2.5/v2.6 boot systems, copy modules from boot flash to RAM
+	 * and reboot so we can erase flash.
+	 */
+	mknod ram0 ram RAM0_ADDR RAM0_SIZE
+	fill ram0
+	mkfs ram0
+	mknod ram1 ram RAM1_ADDR RAM1_SIZE
+	fill ram1
+	echo ...Copying BOOTFLASH boot modules to RAM and rebooting via UP network.
+	echo "   After reboot, type 'net/Boot/All' to load v3.0."
+	cp boot/sys	ram0/sys
+	cp boot/msg	ram0/msg
+	cp boot/i2c	ram0/i2c
+	cp boot/flash	ram0/flash
+	cp boot/pty	ram0/pty
+	cp boot/rpc	ram0/rpc
+	cp boot/stdio	ram0/stdio
+	cp boot/Nfs	ram0/Nfs
+	cp boot/File	ram0/File
+	cp boot/ObjSh	ram0/ObjSh
+	cp boot/Object	ram0/Object
+	cp boot/Main	ram0/Main
+#	if #up(Slip)
+	cp boot/Sp	ram0/Sp
+	cp boot/Slip	ram0/Slip
+#	elif #up(Loop)
+	cp boot/lc	ram0/lc
+	cp boot/Loop	ram0/Loop
+#	elif #up(Can)
+	cp boot/Ssn	ram0/Ssn
+	cp boot/Can	ram0/Can
+#	if #arch(a29k)
+	cp boot/xilinx	ram0/xilinx
+#	endif
+#	elif #up(Rp)
+	cp boot/lc	ram0/lc
+	cp boot/Rp	ram0/Rp
+#	ifdef MODEM
+		cp boot/MODEM.dsp ram0/MODEM.dsp
+#	endif
+#	elif #up(Wit)
+	cp boot/Adc	ram0/Adc
+	cp boot/Wit	ram0/Wit
+#	elif #up(TMp)
+	cp boot/Ssn	ram0/Ssn
+	cp boot/TMp	ram0/TMp
+#	endif
+	cp net/BOOTPFS	ram0/Persistent
+	/*
+	 * For StrongARM, fl1 will be the raw PFS device which will occupy
+	 * all of NAND flash.  Erase `fl1' before reboot so that PFS can
+	 * recreate it after reboot.
+	 */
+#	if #arch(arm)
+#	if #arch(cgc)
+		cp boot/xilinx	ram0/xilinx
+#	endif
+	mknod fl1 flash 0 0x40000
+	fill fl1
+#	endif
+	CP(Boot/Install_30.cfg _UP_=UP,ram0/Main.cfg)
+	install ram0/sys
+	boot ram0/Main root:ram0 lib:ram0 etc:ram0:boot
+#else
+#	define BOOTDIR		pfs/boot
+#	define APPDEVICE	BOOTDIR
+#	define MAINDEVICE	BOOTDIR
+#	define CFGDEVICE	BOOTDIR
+	echo Loading boot flash for BOOT_ARCH...
+#	if defined(BOOT_ROM_2)
+#		ifdef BOOTPFS
+		up Slip
+#		if #arch(arm)
+			mknod Ram ram 0x300000 0x10000
+#		else
+			mknod Ram ram 0x070000 0x10000
+#		endif
+		fill Ram
+		mkfs Ram
+		echo Loading BOOTPFS file system support...
+		ld net/BOOTPFS Ram/Persistent
+		module Ram/Persistent
+		echo Formatting pfs file system...
+		pfs format:net/Boot/**/FLASH_TYPE.ffs
+		echo Loading sys/**/FLASH_TYPE...
+#		endif
+#	elif defined(BOOT_INSTALL)
+		/*
+		 * The v2.5 StrongARM boot systems don't mark the root
+		 * file system busy when booting from RAM.  Allocate a dummy
+		 * file system atop the existing root file system to insure
+		 * that we don't step over ourselves while loading v3.0.
+		 */
+#		if #arch(arm)
+			mknod root ram RAM0_ADDR RAM0_SIZE
+			echo '>>> Reformatting StrongARM NAND flash <<<'
+			object Nand
+			Nand format
+#		endif
+#		if #arch(a29k)
+			module Persistent
+#		endif
+		echo Formatting pfs file system...
+		pfs format:net/Boot/**/FLASH_TYPE.ffs
+		echo Loading sys/**/FLASH_TYPE...
+#	elif !defined(BOOT_ROM_3)
+		/*
+		 * On Rev-D devices with 512K of RAM, we can run can out of memory
+		 * if we don't remove the application before packing flash.  Remove
+		 * all the files in the pfs/lib and pfs/etc directories to avoid
+		 * this problem.
+		 */
+#		if #arch(a29k) && !#arch(goic)
+			pfs unaccess:lib
+			pfs unaccess:etc
+			pfs purge:lib
+			pfs purge:etc
+#		endif
+		/*
+		 * Use the PFS boot mode when reloading v3.0 so that we
+		 * don't actually modify flash until everything is
+		 * successfully loaded into RAM.
+		 */
+		pfs mode:boot
+#	endif
+	mkdir BOOTDIR
+	/*
+	 * A special case for the Application Processor Pod:
+	 * Use a different "sys" module containing different
+	 * ARM memory and speed initializations.
+	 */
+#	if #arch(r2k)
+		cp net/sys/**/FLASH_TYPE/**/APP	BOOTDIR/sys
+#	else
+		cp net/sys/**/FLASH_TYPE	BOOTDIR/sys
+#	endif
+	CP(Persistent,BOOTDIR/Persistent)
+	CP(Net,BOOTDIR/Net)
+	CP(Object,BOOTDIR/Object)
+	CP(OMS,BOOTDIR/OMS)
+	CP(i2c,BOOTDIR/i2c)
+	CP(pty,BOOTDIR/pty)
+	CP(stdio,BOOTDIR/stdio)
+	CP(Nfs,BOOTDIR/Nfs)
+	CP(File,BOOTDIR/File)
+	CP(ObjSh,BOOTDIR/ObjSh)
+	CP(float,BOOTDIR/float)
+#	if #arch(goic) || #arch(cgc)
+		CP(Cfg/Args.cfg board BOARD touch getTouch,BOOTDIR/Ssn.cfg)
+#	else
+		CP(Cfg/Args.cfg board BOARD,BOOTDIR/Ssn.cfg)
+#	endif
+#	ifndef UNSAFE
+#		define UNSAFE no
+#	endif
+	CP(Cfg/pfs.cfg UNSAFE,BOOTDIR/pfs.cfg)
+	CP(Sp,BOOTDIR/Sp)
+	CP(Slip,BOOTDIR/Slip)
+#	if #module(Vga)
+		CP(Vga,BOOTDIR/Vga)
+#		include <Cfg/Vga.h>
+#	endif
+#endif
+#if #module(Ether)
+	CP(Ethernet,BOOTDIR/Ethernet)
+#	include <Cfg/Ether.h>
+#endif
+#if #module(Prism) && !#prismradio(NONE)
+	CP(PrismNet,BOOTDIR/PrismNet)
+#	undef PRISMCHANNEL
+#	include <Cfg/Prism.h>
+/**
+* We need to include OMS.h in boot configurations or the default
+* route will be wrong, as will the OMSDOMAIN. It is vital that
+* these be set for Cisco networks. If this isnt set, also the
+* default proxy configuration will be 'default', which will
+* cause the OMS::Protocol::run method to hang forever. 
+**/
+#	include <Cfg/OMS.h>
+#endif
+#ifdef BOOTGATEWAY
+	CP(Cfg/OMS.cfg _DEFAULTROUTE_=BOOTGATEWAY _DOMAIN_=default,BOOTDIR/OMS.cfg)
+#endif
+#if #module(Loop) || #module(Rp)
+	CP(lc,BOOTDIR/lc)
+#endif
+#if #module(Loop)
+	CP(Loop,BOOTDIR/Loop)
+#endif
+#if #module(Rp)
+	CP(Rp,BOOTDIR/Rp)
+#endif
+#if #module(Stas)
+	CP(SlipMp,BOOTDIR/SlipMp)
+#endif
+#if #module(TMp)
+	CP(TMp,BOOTDIR/TMp)
+#endif
+#if #module(Wit)
+	CP(Wit,BOOTDIR/Wit)
+#endif
+#if #module(CanDual)
+	CP(CanDual,BOOTDIR/Can)
+#elif #module(Can) || #module(Can_2)
+	CP(Can,BOOTDIR/Can)
+#endif
+#if #module(Adc0808)
+	CP(Adc0808,BOOTDIR/Adc)
+#elif #module(Adc7858)
+	CP(Adc7858,BOOTDIR/Adc)
+#elif #module(AdcI2C)
+	CP(AdcI2C,BOOTDIR/Adc)
+#elif #module(Adc)
+	CP(Adc,BOOTDIR/Adc)
+#elif #module(Mcp)
+	CP(Mcp,BOOTDIR/Mcp)
+#endif
+	CP(Boot,BOOTDIR/Boot)
+	CP(Main,BOOTDIR/Main)
+#if	defined(PRISMRADIO)
+	CP(Boot/Boot.cfg _PRISMRADIO_=PRISMRADIO ,BOOTDIR/Boot.cfg)
+#else
+	CP(Boot/Boot.cfg,BOOTDIR/Boot.cfg)
+#endif
+#if defined(REV_D)
+	CP(Boot/net.cfg REV_D,BOOTDIR/net.cfg)
+#elif !defined(MODEM)
+	CP(Boot/net.cfg,BOOTDIR/net.cfg)
+#else
+	CP(Boot/net.cfg MODEM_TYPE,BOOTDIR/net.cfg)
+#	ifndef CHAN
+#		define CHAN 1
+#	endif
+#	ifdef RPNET
+		CP(Cfg/Rp.cfg RPNET CHAN _MODEM_=MODEM,BOOTDIR/Rp.cfg)
+#	else
+		CP(Cfg/Rp.cfg _MODEM_=MODEM,BOOTDIR/Rp.cfg)
+#	endif
+#	if #modem(dual)
+		CP(Dsp/MODEM.mod,BOOTDIR/MODEM.mod)
+		CP(Dsp/MODEM.dem,BOOTDIR/MODEM.dem)
+#	else
+		CP(Dsp/MODEM.dsp,BOOTDIR/MODEM.dsp)
+#	endif
+#endif
+#if #module(Can) || #module(Can_2)
+#	include <Cfg/Can.h>
+#endif
+#if defined(XILINX)
+	CP(Xilinx/XILINX,BOOTDIR/xilinx)
+#elif defined(BOARD) && !defined(NO_XILINX)
+	CP(Xilinx/BOARD,BOOTDIR/xilinx)
+#endif
+	CP(Release/Rev,BOOTDIR/Rev)
+#if defined(DISABLED)
+#	define DISABLEDARGS disabled:DISABLED
+#elif #arch(hub)
+#	define DISABLEDARGS disabled:Loop,Rp
+#else
+#	define DISABLEDARGS
+#endif
+#if defined(BOOT_ROM_3)
+	boot -sys pfs/boot/sys Boot connected:y init:\'pfs format:net/Boot/**/FLASH_TYPE pack\' DISABLEDARGS
+#elif !(defined(BOOT_ROM_2) || defined(BOOT_INSTALL))
+	boot -ram Boot connected:y init:'pfs pack' DISABLEDARGS
+#endif  /* BOOTERROR */
+#endif	/* #args(OK) */
+#endif  /* #arch(pe.java) */
+#endif  /* #arch(pe) */

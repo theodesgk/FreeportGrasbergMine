@@ -1,0 +1,83 @@
+%!/psw/cpp
+/*
+ * GPS Monitor command file
+ */
+/* RTS/CTS protocol OFF on port B */
+$PASHS,CTS,B,OFF
+/* Float solution ONLY */
+$PASHS,CPD,AFP,0
+/* Fast CPD(RTK) ENABLE */
+$PASHS,CPD,FST,ON
+/* Reset CPD(RTK) */
+$PASHS,CPD,RST
+/* ENABLE GST message on port B */
+$PASHS,NME,GST,B,ON
+/* Set the algorithm for computing SNR as DBH */
+$PASHS,SNR,DBH
+/* Enable satellite status message including SNR on port B */
+$PASHS,NME,SAT,B,ON
+/*
+ * specifies the parameters to decide if the engine diverges 
+ * a)max. carr. residuals  scaled norm {0.03},m, [0.01 - 0.20]
+ * b)max. gap ||fitler-in-point|| {100}, m, [10 - 1000]
+ * c)max. prediction interval {30}, seconds [0 - 30]
+ */
+$PASHS,CPD,DIV,0.10,100,28
+/*
+ * specifies the parameters of carrier cycle slips detector
+ * a) maximum depth of search {3} for carrier [0,1,...],
+ * b) admissiblle 1-sigma bound {0.025}, cycle [0.001-1]
+ * c)  prob. of false detection {2} [0,1,2,3] (table below)
+ * Value             0     1    2    3
+ * Percentage      0.1   0.5    1    5
+ */
+$PASHS,CPD,CSL,3,0.025,0
+/* specifies the parameters of code outliers detector
+ * a) maximum depth of search {3} for code [0,1,...]
+ * b) admissible 1-sigma bound {2}, meters [0.5-10]
+ * c) prob. of false detection {2} [0,1,2,3](table below)
+ * Value             0     1    2    3
+ * Percentage      0.1   0.5    1    5
+ */
+$PASHS,CPD,OLR,3,1,2
+/* Down weight Sats which are only just acquired {N} [Y/N] */
+$PASHS,CPD,WGH,TIM,Y
+/*
+ * a priori raw pseudorange noise/multipath std error for
+ * zenith Sats {1} [0,1,2,3,4]
+ * 0 corresponds 0.5 meter
+ * 1 corresponds 1 meter
+ * 2 corresponds 3 meter
+ * 3 corresponds 5 meter
+ * 4 corresponds 10 meter
+ */
+$PASHS,CPD,WGH,MES,0
+/*
+ * 0 corresponds strong (in 25 times) down weighting GPS vs. GLONASS
+ * 1 corresponds medium (in 4 times) down weighting GPS vs. GLONASS
+ *{2} corresponds no weighting between systems at all
+ * 3 corresponds medium (in 4 times) down weighting GLONASS vs. GPS
+ * 4 corresponds strong (in 25 times) down weighting GLONASS vs. GPS
+ */
+$PASHS,CPD,WGH,SYS,3
+/* Set CPD data output on port B */
+$PASHS,CPD,OUT,B
+/* Set CPD(RTK) MIK data ENABLE */
+$PASHS,CPD,OUT,MIK,ON
+/* Set the internal update as 1Hz */
+$PASHS,POP,1
+/* Set the interval at which RAW data message will be output
+ * to 1 second
+ */
+$PASHS,RCI,1
+/*
+ * Set the PPS output
+ * to 1 second period
+ * with +0.0 sec offset from GPS system time
+ * synchronizing the FALLING edge of the pulse with GPS system time
+ */
+$PASHS,PPS,1.0,+0.0,F
+/* Set the interval of the NMEA response message as 1 second */
+$PASHS,NME,PER,1
+/* Set RTCM echoing on */
+$PASHS,NME,MSG,B,ON

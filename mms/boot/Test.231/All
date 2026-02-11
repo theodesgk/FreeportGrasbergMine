@@ -1,0 +1,11 @@
+%!/psw/cpp
+#include <Main/CheckRev.h>
+#if #args(OK)
+#	ifndef UP
+#		define UP Slip
+#	endif
+#	include <Main/Ram0.h>
+	LD(TestHack,Ram0/Test)
+	CP(Test.231/Test.cfg _UP_=UP,Ram0/Test.cfg)
+	boot	Ram0/Test lib:ram0:boot etc:ram0:boot
+#endif

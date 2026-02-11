@@ -1,0 +1,7 @@
+File	Sys
+Module	stdio
+Module	rpc
+Module	reset
+Module	sys
+Module	Object
+Module	flash

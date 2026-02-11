@@ -1,0 +1,9 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../GpsRover/Config.h ./Config.h
+ln -sf ../GpsRover/Gps2.cfg ./Gps2.cfg
+ln -sf ../GpsRover/GpsRover.cfg ./GpsRover.cfg
+ln -sf ../GpsRover/Macro.cfg ./Macro.cfg
+ln -sf ../GpsRover/Main.cfg ./Main.cfg

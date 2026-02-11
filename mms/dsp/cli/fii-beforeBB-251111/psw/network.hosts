@@ -1,0 +1,132 @@
+#
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-2002
+#               All Rights Reserved
+#  $RCSfile: network.hosts,v $
+# $Revision: 1.3 $
+#   $Author: cayley $
+#     $Date: 2011/05/16 08:22:06 $
+#    $State: Exp $
+#   Purpose: Default OMS networks and subnets.
+#
+#
+#   Default route for upstream network
+#
+#157.48.120.10  defaultroute    network
+10.210.224.71  defaultroute    network
+
+#
+#   Virtual gateway IP for backbone routers.  Only define this if you
+#   have multiple backbone routers serving a shared wireless subnet.
+#
+10.198.98.1		gateway		network
+
+#
+#   OMS multicast domain for backbone routers.  If you don't define it here,
+#   you must manually define `OMS domain' after you load any Ethernet gateway
+#   router.
+#
+10.210.224.71:3001     domain  network
+
+#
+#   Default UHF radio network.
+#
+10.198.98.0/24 radio           network
+
+#
+#   Default 2.4ghz spread spectrum network.
+#
+10.198.98.0/24 prism           network
+
+#
+#   Wireless broadcast address
+#
+10.198.98.18  broadcast       network
+
+#
+#   Default network for DISPATCH system LAN
+#
+10.198.98.0/24 lan     network
+
+#
+#  AP's
+# RSC: belum ada
+#
+#172.20.6.4     mill      cisco  # Main AP - Connected to Ethernet
+#172.20.6.6     repeat    cisco
+#172.20.6.10    dewater   cisco
+
+#
+# WAPs
+# RSC: belum ada
+#
+#172.20.6.20	trailer1	 cisco  # monitor IP: 172.20.6.21 - ACTIVE
+
+#
+# BRG-II's
+#
+# Audio information:
+#
+#CH1:
+#Bit Regenerator, v2.5.033> Rp txaudio rxaudio
+#  txaudio   : 45
+#  rxaudio   : 30
+# Current load on MPR:
+# load%: 56 47 40
+# peak%: 62 49 40
+#
+# NEW: Changed txaudio to 20 and 10/10 pings
+#
+#CH2:
+#Bit Regenerator, v2.5.033> Rp txaudio rxaudio
+#  txaudio   : 42
+#  rxaudio   : 30
+# Current load on MPR:
+# load%: 31 47 43
+# peak%: 143 81 57
+#
+#CH3:
+#Bit Regenerator, v2.5.033> Bit Regenerator, v2.5.033> Rp txaudio rxaudio
+#  txaudio   : 42
+#  rxaudio   : 30
+# Current load on MPR:
+# load%: 34 39 42
+# peak%: 372 92 58
+#
+# NEW: Changed txaudio to 30 and 10/10 pings
+#
+#
+157.48.120.14	brgch1main	bridge
+	file	*	Boot/All ETHERNET=157.48.120.14/21
+	file	angus	Mpr/All ether radio RPNET=157.48.120.14/21 ETHERNET=157.48.120.14/21
+157.48.120.15	brgch2main	bridge
+	file	*	Boot/All ETHERNET=157.48.120.15/21
+	file	angus	Mpr/All ether radio RPNET=157.48.120.15/21 ETHERNET=157.48.120.15/21
+157.48.120.16	brgch3main	bridge
+	file	*	Boot/All ETHERNET=157.48.120.16/21
+	file	angus	Mpr/All ether radio RPNET=157.48.120.16/21 ETHERNET=157.48.120.16/21
+#
+157.48.120.17	brgch1back	bridge
+	file	*	Boot/All ETHERNET=157.48.120.17/21
+	file	angus	Mpr/All ether radio RPNET=157.48.120.17/21 ETHERNET=157.48.120.17/21
+157.48.120.18	brgch2back	bridge
+	file	*	Boot/All ETHERNET=157.48.120.18/21
+	file	angus	Mpr/All ether radio RPNET=157.48.120.18/21 ETHERNET=157.48.120.18/21
+157.48.120.19	brgch3back	bridge
+	file	*	Boot/All ETHERNET=157.48.120.19/21
+	file	angus	Mpr/All ether radio RPNET=157.48.120.19/21 ETHERNET=157.48.120.19/21
+#
+# Ground Station
+#
+# RSC: belum ada
+#
+#172.20.6.30    gstation   bridge
+#        file    *       Boot/All ETHERNET=172.20.6.30/23
+#        file    mlink   Mpr/All  ether ether OPTIONS=GpsGs/Topcon ETHERNET=172.20.6.30/23 ANTENNA=antenna
+#
+# Ground Station
+#
+157.48.24.10	gstation   bridge
+        file    mlink   Boot/All ETHERNET=157.48.24.10/21 PRISMRADIO=NONE
+	file    mlink   Mpr/All  ether ether ETHERNET=157.48.24.10/21 PRISMRADIO=NONE OPTIONS=GpsGs/Topcon ANTENNA=antenna
+

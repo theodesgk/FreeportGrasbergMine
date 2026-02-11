@@ -1,0 +1,9 @@
+# IMPORTANT: If you modify this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/Material2.cfg
+ln -sf ../English/w0.Clock.cfg
+ln -sf ../English/w0.ht.cfg
+ln -sf ../English/wInfo.cfg
+ln -sf ../English/WinMgr.cfg

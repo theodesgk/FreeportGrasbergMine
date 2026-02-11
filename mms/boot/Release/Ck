@@ -1,0 +1,19 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1996
+ *               All Rights Reserved
+ *  $RCSfile: Ck,v $
+ * $Revision: 1.1 $
+ *   $Author: olson $
+ *     $Date: 2002/05/17 18:56:51 $
+ *    $State: Exp $
+ *   Purpose: Verify that software revision is current.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#if defined(ARG1) && defined(ARG2)
+#	include <Release/Release.h>
+	echo \'  current:RELEASE RELEASE_DATE\'
+	echo \'  loaded :ARG1 ARG2\'
+#endif

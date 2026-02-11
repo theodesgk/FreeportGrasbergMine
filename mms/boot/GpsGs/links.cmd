@@ -1,0 +1,33 @@
+junction .\Ashtech GG24
+fsutil hardlink create .\Dcf\All ..\Main\All
+fsutil hardlink create .\Dcf\Args.h .\Args.h
+fsutil hardlink create .\Dcf\GpsGround.cfg .\GpsGround.cfg
+fsutil hardlink create .\Dcf\GpsGs.cfg .\GpsGs.cfg
+fsutil hardlink create .\Dcf\Main.h .\Main.h
+fsutil hardlink create .\G12\Args.h .\Args.h
+fsutil hardlink create .\G12\GpsGs.cfg .\GpsGs.cfg
+fsutil hardlink create .\G12\Main.h .\Main.h
+fsutil hardlink create .\GG24\All ..\Main\All
+fsutil hardlink create .\GG24\Args.h .\Args.h
+fsutil hardlink create .\GG24\GpsGround.cfg .\GpsGround.cfg
+fsutil hardlink create .\GG24\GpsGs.cfg .\GpsGs.cfg
+fsutil hardlink create .\GG24\Main.h .\Main.h
+fsutil hardlink create .\Gril\Args.h .\Args.h
+fsutil hardlink create .\Gril\GpsGs.cfg .\GpsGs.cfg
+fsutil hardlink create .\Gril\Main.h .\Main.h
+fsutil hardlink create .\Main.h .\Main\Main.h
+fsutil hardlink create .\MicroZ\All ..\Main\All
+fsutil hardlink create .\MicroZ\Args.h .\Args.h
+fsutil hardlink create .\MicroZ\GpsGround.cfg .\GpsGround.cfg
+fsutil hardlink create .\MicroZ\GpsGs.cfg .\GpsGs.cfg
+fsutil hardlink create .\MicroZ\Main.h .\Main.h
+fsutil hardlink create .\Moto\All ..\Main\All
+fsutil hardlink create .\Moto\Args.h .\Args.h
+fsutil hardlink create .\Moto\GpsGround.cfg .\GpsGround.cfg
+fsutil hardlink create .\Moto\GpsGs.cfg .\GpsGs.cfg
+fsutil hardlink create .\Moto\Main.h .\Main.h
+fsutil hardlink create .\Topcon\All ..\Main\All
+junction .\Trimble .\Dcf
+fsutil hardlink create .\Topcon\Args.h .\Args.h
+fsutil hardlink create .\Topcon\GpsGround.cfg .\GpsGround.cfg
+fsutil hardlink create .\Topcon\Main.h .\Main.h

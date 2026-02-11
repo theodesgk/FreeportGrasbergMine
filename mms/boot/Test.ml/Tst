@@ -1,0 +1,6 @@
+
+	ssra channel:1
+	ssrb channel:1
+	wan0 ssid:"Annex 2" mode:APCLIENT ipaddr:172.16.252.10 debug:0
+	Can id:0 master:1
+	

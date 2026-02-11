@@ -1,0 +1,88 @@
+Version 2.4 Gsp software uses an object-oriented operating system
+composed ofdynamically loaded objects.  The Gsp application contains
+many objects.  To see the objects loaded at any time, type
+`h objects'.
+
+The two serial communications ports are controlled by two objects
+named `Port1' and `Port2'.  Typing the name of any object displays all
+the methods of that object.  Thus, to display the Port1 object, just
+type `Port1'; to display the Port2 object type `Port2'.
+
+To modify any port, type the port object name, followed by the method
+to set.  The following example sets the Port1 baud rate to 19200 bps.
+
+	Port1 speed:19200 set
+
+Such modifications to an object's methods are not saved into flash memory
+and will revert to the previous configuration on power-up.  To save an
+object's configuration, you must use the `save' method.  For example:
+
+	Port1 save
+
+The Port2 communications port can be configured for `rs232', `rs485'
+or `20ma' current loop operation.  To reconfigure the hardware interface,
+use the Port2 `hdwe' method.  For example:
+
+	Port2 hdwe:rs232 set
+	Port2 hdwe:rs485 set
+	Port2 hdwe:20ma set
+
+The `rs485' driver also works for RS422 interfaces.  RS485 and RS422
+interfaces only differ in the wiring of the GSP connector.
+
+The standalone GSP ports can be reconfigured in any of the following
+configurations using the `config' command.  After typing the `config'
+command, the new configuration does not take effect until the next
+power-up.
+
+	config 1 --> Port1:Slip Port2:Slip
+	config 2 --> Port1:Slip Port2:Tty
+	config 3 --> Port1:Tty  Port2:Slip
+	config 4 --> Port1:Tty  Port2:Tty
+
+Beware of configuring the GSP into a Slip configuration on Port1
+unless you have working Slip software.  Once configured into Slip/Slip
+operation, a simple terminal emulator can no longer communicate with
+the Gsp.
+
+To transmit RPC messages, you must first define RPC using the `in' or
+`out' methods.  `in' RPCs receive downstream RPCs from the MMS Hub;
+`out' RPCS transmit RPCs upstream to the MMS Hub.
+
+Each RPC defines the RPC name, RPC number, argument template, and
+action macro.  Typically, the action macro in GSP applications will
+use the `sendto' method to route information to a given port.  The
+following three examples illustrate three RPC definitions:
+
+	in RPC-PORT1 0x0001 s sendto Port1
+	in RPC-PORT2 0x0002 s sendto Port2
+	in RPC-UP    0x0003 s sendto up
+
+With these definitions, `RPC-PORT1 hello' transmits the 0x0001 RPC to
+Port1.  With Port1, in Tty mode, this results in the following output:
+
+	Gsp Interface, v2.4.0 (Tty/Slip)> RPC-PORT1 hello world
+	RPC-PORT1 "hello world"
+
+Similarly, `RPC-PORT2 hello' transmits the 0x0002 RPC to Port2.  With
+Port2 in Slip mode, this only succeeds if the Port2 device properly
+acknowledges the Slip frame.
+
+To see what RPC definitions are currently defined, type the command `rpcs'.
+
+The Gsp software actually stores these RPC definitions as methods within
+the `Macro' object.  Like all other objects, the `Macro' object can be
+saved by invoking its `save' method.
+
+	Macro save
+
+The GSP has a builtin RPC testing object named `Rpc'.  This object can
+continuously transmit any number of PING (0x0200) RPCs to any RPC
+network device.  All devices that implement the Slip protocol should
+respond to this message with an acknowledgement.  The following
+example transmits 2 PING RPCs to Port2.
+
+	Rpc count:2 ping:0
+
+For more information on RPC protocols and GSP interfaces, you can send
+e-mail to olson@mmsi.com.

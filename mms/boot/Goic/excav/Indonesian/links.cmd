@@ -1,0 +1,17 @@
+fsutil hardlink create Client_Macro.cfg ..\English\Client_Macro.cfg
+fsutil hardlink create Dismount.cfg ..\English\Dismount.cfg
+fsutil hardlink create Kp2.cfg ..\English\Kp2.cfg
+fsutil hardlink create Matl.cfg ..\English\Matl.cfg
+fsutil hardlink create Split.cfg ..\English\Split.cfg
+fsutil hardlink create w0.cfg ..\English\w0.cfg
+fsutil hardlink create w0.Icon.cfg ..\English\w0.Icon.cfg
+fsutil hardlink create w0.Matl.cfg ..\English\w0.Matl.cfg
+fsutil hardlink create w0.mb_newui.cfg ..\English\w0.mb_newui.cfg
+fsutil hardlink create w0.Text.cfg ..\English\w0.Text.cfg
+fsutil hardlink create w0.v1.cfg ..\English\w0.v1.cfg
+fsutil hardlink create w0.v2.cfg ..\English\w0.v2.cfg
+fsutil hardlink create w0.v3.cfg ..\English\w0.v3.cfg
+fsutil hardlink create w0.v4.cfg ..\English\w0.v4.cfg
+fsutil hardlink create w0_newui.cfg ..\English\w0_newui.cfg
+fsutil hardlink create WinMgr.cfg ..\English\WinMgr.cfg
+fsutil hardlink create WinMgr_newui.cfg ..\English\WinMgr_newui.cfg

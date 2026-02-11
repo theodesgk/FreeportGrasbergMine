@@ -1,0 +1,8 @@
+%!/psw/cpp
+
+#include <Main/CheckRev.h>
+#if #args(OK)
+#	unassert args(OK)
+#	include <Args.h>
+LD(Can2 , pfs/boot/Can)
+

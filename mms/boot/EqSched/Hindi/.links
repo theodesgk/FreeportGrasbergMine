@@ -1,0 +1,4 @@
+#
+# By Default Hindi Language Links are set for the NEWUI
+#
+ln -sf ./eqsched_mesg.cfg.newui ./eqsched_mesg.cfg

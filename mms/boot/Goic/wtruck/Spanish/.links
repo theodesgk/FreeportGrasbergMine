@@ -1,0 +1,13 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/KpMinus.cfg KpMinus.cfg
+ln -sf ../English/Spray.cfg Spray.cfg
+ln -sf ../English/Spray2.cfg Spray2.cfg
+ln -sf ../English/WinMgr.cfg WinMgr.cfg
+ln -sf ../English/w0.Icon.cfg w0.Icon.cfg
+ln -sf ../English/w0.Text.cfg w0.Text.cfg
+ln -sf ../English/w0.cfg w0.cfg
+ln -sf ../English/w0.v1.cfg w0.v1.cfg
+ln -sf ../English/w0.v2.cfg w0.v2.cfg

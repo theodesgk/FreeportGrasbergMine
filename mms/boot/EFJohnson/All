@@ -1,0 +1,30 @@
+#!/psw/cpp
+/*
+ * For hubs, the EFJ programming port is shared with the
+ * GPS port.
+ *
+ * For microcell radios, the EFJ programming port is shared
+ * with the SLIP port.
+ *
+ * For anything else, we have no idea since it hasn't yet been
+ * created.
+ */
+#if #arch(hub)
+#	define EFJPort scc1b
+#elif #arch(dsp)
+#	define EFJPort efj
+	object PortSwitch name:efj base:Slip
+#endif
+#ifdef EFJPort
+#	if #arch(m20) || #arch(m21)
+		module net/EFJohnson2
+		object EFJohnson2 name:EFJohnson port:EFJPort speed:9600 flags:8
+		EFJohnson display:channels
+#	else
+		module net/EFJohnson
+		object EFJohnson port:EFJPort speed:9600 flags:8
+		EFJohnson ch0DeEmp:n ch0PreEmp:n ch0ModMute:n ch1DeEmp:n ch1PreEmp:n ch1ModMute:n channels
+#	endif
+#else
+	echo No EFJohnson interface is defined for a ARCH...
+#endif

@@ -1,0 +1,82 @@
+--------------------------------------------------------------------
+Release - 10/15/2014
+--------------------------------------------------------------------
+TFS:340653 Adding changes to CumminsCore2. One SA was chosen for each parameter.
+Fixing developer oversight
+
+CumminsCore2 Driver: 2.2.2
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+	
+--------------------------------------------------------------------
+Release - 10/23/2014
+--------------------------------------------------------------------
+TFS:344346 Adding a new interface: Kimax 2.
+
+Kimax2 Driver: 2.0.0
+	/mms/src/Interfaces/Kimax2/Kimax2Config.C
+	/mms/src/Interfaces/Kimax2/Kimax2Config.H
+	/mms/src/Interfaces/Kimax2/Kimax2Device.C
+	/mms/src/Interfaces/Kimax2/Kimax2Device.H
+	/mms/src/Interfaces/Kimax2/Kimax2Driver.C
+	/mms/src/Interfaces/Kimax2/Kimax2Driver.H
+	/mms/src/Interfaces/Kimax2/Kimax2Driver.lib
+	/mms/src/Interfaces/Kimax2/Makefile
+
+	/mms/src/Interfaces/MineCare/MineCare.H
+	
+Kimax2 Boot scripts:
+	/mms/boot/MineCare/Kimax2/App.h
+	/mms/boot/MineCare/Kimax2/Config.h
+	/mms/boot/MineCare/Kimax2/CVS
+	/mms/boot/MineCare/Kimax2/.links
+	/mms/boot/MineCare/Kimax2/links.cmd
+	/mms/boot/MineCare/Kimax2/Main.cfg
+
+Kimax2 popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/kimax2evt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/kimax2par.txt
+	--------------------------------------------------------------------
+Release - 10/24/2014
+--------------------------------------------------------------------
+TFS:344347 VSI Oil update MEOS. New model V2 added
+
+VsiOil Driver: 2.1.0
+	/mms/src/Interfaces/VsiOil/VsiOilConfig.C
+	/mms/src/Interfaces/VsiOil/VsiOilConfig.H
+	/mms/src/Interfaces/VsiOil/VsiOilDevice.C
+	/mms/src/Interfaces/VsiOil/VsiOilDriver.C
+	/mms/src/Interfaces/VsiOil/VsiOilDriver.H
+	
+VsiOil Boot scripts:
+	/mms/boot/MineCare/VsiOil/Config.h
+	/mms/boot/MineCare/VsiOil/vsioil.cfg
+	
+VsiOil popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/vsioilevt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/vsioilpar.txt
+--------------------------------------------------------------------
+Release - 10/28/2014
+--------------------------------------------------------------------
+TFS:344347 VSI Oil update MEOS. Fixing parameters and events Ids
+
+VsiOil Driver: 2.1.1
+	/mms/src/Interfaces/VsiOil/VsiOilConfig.C
+	/mms/src/Interfaces/VsiOil/VsiOilConfig.H
+	/mms/src/Interfaces/VsiOil/VsiOilDriver.C
+	
+VsiOil popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/vsioilevt.txt
+--------------------------------------------------------------------
+Release - 10/29/2014
+--------------------------------------------------------------------
+TFS:344347 VSI Oil update MEOS. Fixing deviceId configuration on GenericDriver.
+
+VsiOil Driver: 2.1.1
+	/mms/src/Interfaces/VsiOil/VsiOilConfig.C
+--------------------------------------------------------------------
+Release - 11/05/2014
+--------------------------------------------------------------------
+TFS:344031 Fixing SA issues for CumminsCore2.
+
+CumminsCore2 Driver: 2.2.3
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C

@@ -1,0 +1,6 @@
+shell:materials tgtLayer:SEAM1
+
+action:dig
+action:dump
+move:180:2.1:0
+repeat:300

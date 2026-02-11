@@ -1,0 +1,3 @@
+object Pulse name:Pc1 counter:0 director:10
+object Pulse name:Pc2 counter:1 director:11
+Vsms every:1000:echo pulse_1: $(Pc1 counts) pulse_2: $(Pc2 counts)

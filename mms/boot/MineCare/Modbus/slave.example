@@ -1,0 +1,74 @@
+%!/psw/cpp
+
+/*
+ * Now let's register and request some channels.
+ * Note: On a Modbus device, such as a PLC,
+ * there are 4 types of data points, they are:
+ *
+ * 0 = 'Holding Registers'
+ * 1 = 'Input Registers'
+ * 2 = 'Read/Write Coils'
+ * 3 = 'Read-Only_Coils'
+ *
+ * Here let's define the following encouding function to map a
+ * VitalSigns channel id into a Modbus point with address:
+ *   channel_id = (point_type << 16) + point_address
+ *
+ * For examples,
+ * the Holding register 100, should be channel:
+ *   (0 << 16) + 0x64 = 0x64
+ * and Read/Write coil 200, should be channel:
+ *   (2 << 16) + 0xc8 = 0x200c8
+ */
+
+/*
+ * Register 10 channels on plc1.
+ * These requests are for: Holding Registers, addresses 100 - 109.
+ */
+vs config:param:100 device:plc1 channel:0x64
+vs config:param:101 device:plc1 channel:0x65
+vs config:param:102 device:plc1 channel:0x66
+vs config:param:103 device:plc1 channel:0x67
+vs config:param:104 device:plc1 channel:0x68
+vs config:param:105 device:plc1 channel:0x69
+vs config:param:106 device:plc1 channel:0x6a
+vs config:param:107 device:plc1 channel:0x6b
+vs config:param:108 device:plc1 channel:0x6c
+vs config:param:109 device:plc1 channel:0x6d
+
+/*
+ * request above 10 requests from VitalSigns Driver
+ */
+vs request:100:5000
+vs request:101:5000
+vs request:102:5000
+vs request:103:5000
+vs request:104:5000
+vs request:105:5000
+vs request:106:5000
+vs request:107:5000
+vs request:108:5000
+vs request:109:5000
+
+/*
+ * Register and request 16 digital events on plc1.
+ * These requests are for: Read/Write Coils, addressse 200 - 215.
+ */
+vs config:event:2200 device:plc1 channel:0x200c8
+vs config:event:2201 device:plc1 channel:0x200c9
+vs config:event:2202 device:plc1 channel:0x200ca
+vs config:event:2203 device:plc1 channel:0x200cb
+vs config:event:2204 device:plc1 channel:0x200cc
+vs config:event:2205 device:plc1 channel:0x200cd
+vs config:event:2206 device:plc1 channel:0x200ce
+vs config:event:2207 device:plc1 channel:0x200cf
+vs config:event:2208 device:plc1 channel:0x200d0
+vs config:event:2209 device:plc1 channel:0x200d1
+
+vs config:event:2210 device:plc1 channel:0x200d2
+vs config:event:2211 device:plc1 channel:0x200d3
+vs config:event:2212 device:plc1 channel:0x200d4
+vs config:event:2213 device:plc1 channel:0x200d5
+vs config:event:2214 device:plc1 channel:0x200d6
+vs config:event:2215 device:plc1 channel:0x200d7
+

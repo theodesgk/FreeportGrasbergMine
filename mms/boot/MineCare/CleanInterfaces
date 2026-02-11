@@ -1,0 +1,6 @@
+pfs unaccess:lib
+pfs unaccess:etc
+pfs purge:lib
+pfs purge:etc
+pfs pack
+

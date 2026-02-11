@@ -1,0 +1,15 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1995
+ *               All Rights Reserved
+ *  $RCSfile: All,v $
+ * $Revision: 1.1 $
+ *   $Author: erufino $
+ *     $Date: 2018/03/26 22:47:37 $
+ *    $State: Exp $
+ *   Purpose: Load everything there is to load for an application.
+ * * * * * * * * * * * * * * * * * * *
+ */
+echo Use "net/Gsp/All OPTIONS=Radeye SCNRID=<ID>" to load the Gsp!!!

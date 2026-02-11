@@ -1,0 +1,16 @@
+fsutil hardlink create Delay.cfg ..\English\Delay.cfg
+fsutil hardlink create Delay2.cfg ..\English\Delay2.cfg
+fsutil hardlink create Down.cfg ..\English\Down.cfg
+fsutil hardlink create Down2.cfg ..\English\Down2.cfg
+fsutil hardlink create Goic.cfg ..\English\Goic.cfg
+fsutil hardlink create Kp.cfg ..\English\Kp.cfg
+fsutil hardlink create Material2.cfg ..\English\Material2.cfg
+fsutil hardlink create Ok.cfg ..\English\Ok.cfg
+fsutil hardlink create Ready.cfg ..\English\Ready.cfg
+fsutil hardlink create Ready2.cfg ..\English\Ready2.cfg
+fsutil hardlink create Standby.cfg ..\English\Standby.cfg
+fsutil hardlink create Standby2.cfg ..\English\Standby2.cfg
+fsutil hardlink create Status.cfg ..\English\Status.cfg
+fsutil hardlink create Tasks.cfg ..\English\Tasks.cfg
+fsutil hardlink create w0.ScrnCntrl.cfg ..\English\w0.ScrnCntrl.cfg
+fsutil hardlink create w0.v3.cfg ..\English\w0.v3.cfg

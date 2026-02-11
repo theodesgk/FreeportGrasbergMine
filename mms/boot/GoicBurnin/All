@@ -1,0 +1,39 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1995
+ *               All Rights Reserved
+ *  $RCSfile: All,v $
+ * $Revision: 1.1 $
+ *   $Author: olson $
+ *     $Date: 2002/05/17 18:56:48 $
+ *    $State: Exp $
+ *   Purpose: GOIC burnin application.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#include <Main/CheckRev.h>
+#if #args(OK)
+#	include <Sys/Sys.h>
+#	include <Main/Main.h>
+#	include <icons/Device.h>
+	LD(Gui,MAINDEVICE/Gui)
+	LD(Macro,MAINDEVICE/Macro)
+	CP(fonts/SCREEN/Small.font,MAINDEVICE/Small.font)
+	CP(fonts/SCREEN/Large.font,MAINDEVICE/Large.font)
+	ln MAINDEVICE/Small.font default.font
+	CP(icons/SCREEN/hand.cursor,ICONDEVICE/hand.cursor)
+	CP(icons/SCREEN/root.icon,MAINDEVICE/root.icon)
+	CP(GoicBurnin/Main.cfg,MAINDEVICE/Main.cfg)
+	CP(GoicBurnin/Ssn.cfg,MAINDEVICE/Ssn.cfg)
+	CP(GoicBurnin/Touch.cfg,MAINDEVICE/Touch.cfg)
+	CP(GoicBurnin/Screen.cfg,MAINDEVICE/Screen.cfg)
+	CP(GoicBurnin/Tp.cfg,MAINDEVICE/Tp.cfg)
+	CP(GoicBurnin/Macro.cfg,MAINDEVICE/Macro.cfg)
+	CP(GoicBurnin/WinMgr.cfg,MAINDEVICE/WinMgr.cfg)
+	CP(GoicBurnin/w0.cfg,MAINDEVICE/w0.cfg)
+	CP(GoicBurnin/w0.Sl1.cfg,MAINDEVICE/w0.Sl1.cfg)
+	CP(GoicBurnin/w0.Sl2.cfg,MAINDEVICE/w0.Sl2.cfg)
+	CP(Main/Main.ini,MAINDEVICE/Main.ini)
+	echo Done!
+#endif

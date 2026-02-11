@@ -1,0 +1,18 @@
+#!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-2011
+ *               All Rights Reserved
+ *  $RCSfile: Macro.cfg.newui,v $
+ * $Revision: 1.1 $
+ *   $Author: olivas $
+ *     $Date: 2013/06/25 18:22:05 $
+ *    $State: Exp $
+ * * * * * * * * * * * * * * * * * * *
+ */
+message	tskrejMsg	ϥ
+message tskacptMsg	ϧ
+message	TskNotifyLbl	Ϩ
+message AcceptLbl	Ϫ
+message RejectLbl	ϫ

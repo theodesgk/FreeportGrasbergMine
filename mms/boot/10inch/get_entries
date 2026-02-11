@@ -1,0 +1,22 @@
+#! /bin/gawk -f
+#*
+#* * * * * * * * * * * * * * * * * * *
+#*  DISPATCH Real-Time Firmware Module
+#* Copyright (c) Modular Mining Systems, 1982-2011
+#*               All Rights Reserved
+#*  $RCSfile: get_entries,v $
+#* $Revision: 1.2 $
+#*   $Author: dcitron $
+#*     $Date: 2013/02/19 23:36:46 $
+#*    $State: Exp $
+#* * * * * * * * * * * * * * * * * * *
+#*/
+BEGIN {
+	searchMessage = "^[ \t]*(message|symbol)[ \t]+([^ \t]+)[ \t]+(.+)";
+	searchDefine = "^#[ \t]*(define)[ \t]+([^ \t]+)[ \t]+(.+)";
+}
+{
+	if (match($0, searchMessage, matches) || match($0, searchDefine, matches)) {
+		print APP "\t" FILE "\t" matches[2] "\t" matches[3];
+	}
+}

@@ -1,0 +1,160 @@
+--------------------------------------------------------------------
+Release - 06/22/2017
+--------------------------------------------------------------------
+
+TFS:474254 Fixed UnitType for "Hole Depth" and "Head Position" to be 17
+(meters) instead of 9 (kpa).
+
+files:
+	/mms/dsp/form/common/minecare/pop/popdata/md6640par.txt
+
+--------------------------------------------------------------------
+Release - 06/26/2017
+--------------------------------------------------------------------
+TFS:465271
+Updated ContronicsJ1939 interface to support PGN65226 events.
+Some changes in EventSender to support generic events update.
+
+Also fixed Fuel Gauge parameter's scale to 14.2857, unit %, for models EH3500 and EH5000AC3.
+
+Files:
+	/mms/src/Interfaces/MineCare/Event.C
+	/mms/src/Interfaces/MineCare/Event.H
+	/mms/src/Interfaces/GenericDriver/DriverConfigurator.C
+	/mms/src/Interfaces/GenericDriver/DriverConfigurator.H
+	/mms/src/Interfaces/GenericDriver/EventSender.C
+	/mms/src/Interfaces/GenericDriver/EventSender.H
+	/mms/src/Interfaces/GenericDriver/GenericDriver.C
+	/mms/src/Interfaces/GenericDriver/GenericDriver.H
+	/mms/src/Interfaces/GenericDriver/GenericDriver.lib
+	/mms/src/Interfaces/GenericDriver/ParamHandler.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.H
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.H
+	/mms/dsp/form/common/minecare/pop/popdata/contronicsj1939par.txt
+
+--------------------------------------------------------------------
+Release - 07/11/2017
+--------------------------------------------------------------------
+TFS:480094 Updating the PLM interface so it correctly reports the payload
+information when the CYCLE message is received
+Also added support for the PLM4 messages
+
+Files:
+	/mms/src/Interfaces/Plm/PlmConfig.C
+	/mms/src/Interfaces/Plm/PlmConfig.H
+	/mms/src/Interfaces/Plm/PlmDevice.C
+	/mms/src/Interfaces/Plm/PlmDevice.H
+	/mms/src/Interfaces/Plm/PlmDriver.C
+	/mms/src/Interfaces/Plm/PlmDriver.H
+
+--------------------------------------------------------------------
+Release - 07/18/2017
+--------------------------------------------------------------------
+TFS:478352 Changing the unit number of all kPa parameters to 9
+(from 10) in the Rimex interface
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/rimexpar.txt
+
+--------------------------------------------------------------------
+Release - 07/28/2017
+--------------------------------------------------------------------
+TFS:458479 Initial release for the DdecJ1939 MEOS interface.
+Corrections on the EventSender.C implementation that caused events
+not to be sent correctly the first time.
+
+Files:
+	/mms/src/Interfaces/DdecJ1939/DdecJ1939Config.C
+	/mms/src/Interfaces/DdecJ1939/DdecJ1939Config.H
+	/mms/src/Interfaces/DdecJ1939/DdecJ1939Driver.C
+	/mms/src/Interfaces/DdecJ1939/DdecJ1939Driver.H
+	/mms/src/Interfaces/DdecJ1939/DdecJ1939Driver.lib
+	/mms/src/Interfaces/DdecJ1939/Makefile
+
+	/mms/src/Interfaces/GenericDriver/DriverConfigurator.C
+	/mms/src/Interfaces/GenericDriver/EventSender.C
+	/mms/src/Interfaces/GenericDriver/ParamHandler.C
+
+	/mms/src/Interfaces/Makefile
+
+	/mms/dsp/form/common/minecare/pop/popdata/ddecj1939par.txt
+
+	/mms/boot/MineCare/DdecJ1939/App.h
+	/mms/boot/MineCare/DdecJ1939/Config.h
+	/mms/boot/MineCare/DdecJ1939/ddecj1939.cfg
+	/mms/boot/MineCare/DdecJ1939/.links
+	/mms/boot/MineCare/DdecJ1939/links.cmd
+	/mms/boot/MineCare/DdecJ1939/Main.cfg
+
+	/mms/boot/MineCare/ContronicsJ1939/contronics.cfg
+
+--------------------------------------------------------------------
+Release - 08/07/2017
+--------------------------------------------------------------------
+TFS:419407 487535 Update Vims3G database: 14M_16M_24M, 797F and new 854K
+
+Files:
+        /mms/dsp/form/common/minecare/pop/popdata/vims3gevt.txt
+        /mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+
+--------------------------------------------------------------------
+Release - 08/08/2017
+--------------------------------------------------------------------
+TFS:495599 Adding the IOlogik interface popfiles
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/iologikevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/iologikpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	/mms/src/Interfaces/MineCare/MineCare.H
+
+--------------------------------------------------------------------
+Release - 08/18/2017
+--------------------------------------------------------------------
+TFS:487533 Fix for the ContronicsJ1939 DIPPER event value
+
+Files:
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.C
+	/mms/boot/MineCare/ContronicsJ1939/contronics.cfg
+
+--------------------------------------------------------------------
+Release - 08/22/2017
+--------------------------------------------------------------------
+TFS:499031 Adding configuration for enabling or disabling the
+logical events in the KomtraxPlus interface
+
+Files:
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.H
+
+--------------------------------------------------------------------
+Release - 08/23/2017
+--------------------------------------------------------------------
+TFS:497253 Add road roughness and dynamic payload events and parameters.
+
+Files:
+        /mms/cvs/dsp/form/common/minecare/pop/popdata/plmj1939evt.txt
+        /mms/cvs/dsp/form/common/minecare/pop/popdata/plmj1939par.txt
+
+--------------------------------------------------------------------
+Release - 08/30/2017
+--------------------------------------------------------------------
+TFS:419409 Update Vims3G 14M_16M_24M and 797F MEOS models code.
+
+Files:
+        /mms/cvs/src/Interfaces/GenericDriver/EventSender.C
+        /mms/cvs/src/Interfaces/GenericDriver/EventSender.H
+        /mms/cvs/src/Interfaces/GenericDriver/GenericDriver.lib
+        /mms/cvs/src/Interfaces/MineCare/EmbeddedTypes.H
+        /mms/cvs/src/Interfaces/MineCare/Event.C
+        /mms/cvs/src/Interfaces/MineCare/Event.H
+        /mms/cvs/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.C
+        /mms/cvs/src/Interfaces/DdecJ1939/DdecJ1939Driver.C
+        /mms/cvs/src/Interfaces/Vims3G/Vims3GBaseConfig.H
+        /mms/cvs/src/Interfaces/Vims3G/Vims3GDriver.C
+        /mms/cvs/src/Interfaces/Vims3G/Vims3GConfig.C
+        /mms/cvs/src/Interfaces/Vims3G/Vims3GSpecialOemIds.C
+

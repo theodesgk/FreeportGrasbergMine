@@ -1,0 +1,19 @@
+%!/psw/cpp
+set,dev/ser/b/rate,9600
+set,rover/mode/,off
+set,base/mode/,off
+set,pos/mode/cur,sp
+#ifdef ARG1
+#	include ARG1
+#	define GPSLAT(D,M,S,MS,NS) NS/**/D/**/d/**/M/**/m/**/S.MS/**/s
+#	define GPSLON(D,M,S,MS,EW) EW/**/D/**/d/**/M/**/m/**/S.MS/**/s
+#	define GPSELEV(M,CM) M.CM
+	set,ref/pos/geo,{BASELAT,BASELON,BASEELEV,W84}
+#endif
+set,dev/ser/a/rate,38400
+set,nmea/ver,v2.2
+em,/dev/ser/a,rtcm{/18:1,/19:1,/3:30,/22:30}
+em,/dev/ser/b,/msg/nmea/GGA:1.0
+em,/dev/ser/b,/msg/nmea/GST:1.0
+em,/dev/ser/b,/msg/nmea/VTG:1.0
+em,/dev/ser/b,/msg/nmea/ZDA:1.0

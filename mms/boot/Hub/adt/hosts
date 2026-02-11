@@ -1,0 +1,16 @@
+%!/psw/cpp
+
+#include <Hub/emv/hosts>
+
+#Origianl Can_5.100 in AT for LH drive address
+host LhD_5 CanA.100
+
+#Origianl Can_4.100 in AT for LH drive address
+host LhD_4 CanA.100
+
+#Origianl Can_5.200 in AT for LH safety address
+host LhS_5 CanA.200
+
+#Origianl Can_4.200 in AT for LH safety address
+host LhS_4 CanA.200
+ 

@@ -1,0 +1,55 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1995
+ *               All Rights Reserved
+ *  $RCSfile: All,v $
+ * $Revision: 1.1 $
+ *   $Author: latum $
+ *     $Date: 2003/01/08 16:58:02 $
+ *    $State: Exp $
+ *   Purpose: Load script for Graphical Operator Interface Demo.
+ * * * * * * * * * * * * * * * * * * *
+ */
+mknod	Fl2  flash 0x20000 0x20000
+mknod	Icon flash 0x40000 0x20000
+mknod	Cfg  flash 0xf0000 0x10000
+#define APPDEVICE	Fl2
+#define ICONDEVICE	Icon
+#define CFGDEVICE	Cfg
+LD(GoicDemo,APPDEVICE/GoicDemo)
+ln ICONDEVICE/Small.font Button.font
+ln ICONDEVICE/Small.font Menu.font
+ln ICONDEVICE/Large.font Text.font
+CP(icons/check.icon,ICONDEVICE/check.icon)
+CP(Demo/Demo.cfg,APPDEVICE/Demo.cfg)
+#define BITMAPS Fl4
+echo Initializing BITMAPS...
+mknod BITMAPS flash 0x60000 0x60000
+fill BITMAPS
+mkfs BITMAPS
+CP(Demo/Macro.cfg,BITMAPS/Macro.cfg)
+CP(icons/Demo/drill1.icon,BITMAPS/drill1.icon)
+CP(icons/Demo/drill2.icon,BITMAPS/drill2.icon)
+CP(icons/Demo/shovel1.icon,BITMAPS/shovel1.icon)
+CP(icons/Demo/shovel2.icon,BITMAPS/shovel2.icon)
+CP(icons/Demo/truck1.icon,BITMAPS/truck1.icon)
+CP(icons/Demo/graph1.icon,BITMAPS/graph1.icon)
+CP(icons/status/bathroom.icon,BITMAPS/bathroom.icon)
+CP(icons/status/blast.icon,BITMAPS/blast.icon)
+CP(icons/status/delay+15.icon,BITMAPS/delay+15.icon)
+CP(icons/status/delay-15.icon,BITMAPS/delay-15.icon)
+CP(icons/status/delay20.icon,BITMAPS/delay20.icon)
+CP(icons/status/delay30.icon,BITMAPS/delay30.icon)
+CP(icons/status/elect.icon,BITMAPS/elect.icon)
+CP(icons/status/exdown.icon,BITMAPS/exdown.icon)
+CP(icons/status/exmove.icon,BITMAPS/exmove.icon)
+CP(icons/status/flat.icon,BITMAPS/flat.icon)
+CP(icons/status/fuel.icon,BITMAPS/fuel.icon)
+CP(icons/status/lunch.icon,BITMAPS/lunch.icon)
+CP(icons/status/maint.icon,BITMAPS/maint.icon)
+CP(icons/status/mech.icon,BITMAPS/mech.icon)
+CP(icons/status/start.icon,BITMAPS/start.icon)
+CP(Main/Main.ini Demo,BITMAPS/Main.ini)
+#include <Config>

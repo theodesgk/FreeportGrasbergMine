@@ -1,0 +1,100 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1995
+ *               All Rights Reserved
+ *  $RCSfile: selftest,v $
+ * $Revision: 1.1 $
+ *   $Author: olson $
+ *     $Date: 2002/10/19 00:20:07 $
+ *    $State: Exp $
+ *   Purpose: selftest script for serial based vital signs
+ *            monitoring. Can be run via "net/SpVitals/selftest"
+ * * * * * * * * * * * * * * * * * * *
+ */
+Macro symbol val 0.0000
+Macro symbol result 0
+Macro symbol part "a"
+Macro symbol stateno 1
+Macro symbol str ""
+
+an1 pollIntv:0
+an2 pollIntv:0
+dig1 pollIntv:0
+
+/*
+ * state 1 remove lack of delay Vsms::every start of life may be immediate.
+ */
+Macro macro state1 echo "Running test"
+Macro macro test1a
+Macro macro test1b
+
+/*
+ * state 2 output setup and test criteria
+ */
+Macro macro state2 dig1 chan:0 value:0 chan:1 value:0 chan:2 value:0 chan:3 value:0 chan:11 value:0 chan:12 value:0 chan:13 value:0 chan:14 value:0
+Macro macro test2a part "a"; result 1; val 0; showresult
+Macro macro test2b part "b"; result 0; val $(an2 chan:1 value); eq? $(min $(val) 4500.0000) 4500.0000 eq? $(max $(val) 5250.0000) 5250.0000 result 1; showresult
+
+/*
+ * state 3 output setup and test criteria
+ */
+Macro macro state3 dig1 chan:11 value:1 chan:12 value:1 chan:13 value:1 chan:14 value:1
+Macro macro test3a part "a"; result 0; val $(an1 chan:0 value); eq? $(min $(val) 0.0000) 0.0000 eq? $(max $(val) 1.0000) 1.0000 result 1 ; showresult
+Macro macro test3b part "b"; result 0; val $(an2 chan:1 value); eq? $(min $(val) 4500.0000) 4500.0000 eq? $(max $(val) 5250.0000) 5250.0000 result 1 ; showresult
+
+/*
+ * state 4 output setup and test criteria
+ */
+Macro macro state4 dig1 chan:0 value:1
+Macro macro test4a part "a"; result 0; val $(an1 chan:1 value); eq? $(min $(val) 4.0000) 4.0000 eq? $(max $(val) 6.0000) 6.0000 result 1; showresult
+Macro macro test4b part "b"; result 0; val $(an2 chan:2 value); eq? $(min $(val) 3500.0000) 3500.0000 eq? $(max $(val) 4000.0000) 4000.0000 result 1 ; showresult
+
+/*
+ * state 5 output setup and test criteria
+ */
+Macro macro state5 dig1 chan:0 value:0 chan:1 value:1
+Macro macro test5a part "a"; result 0; val $(an1 chan:2 value); eq? $(min $(val) 9.0000) 9.0000 eq? $(max $(val) 11.0000) 11.0000 result 1 ; showresult
+Macro macro test5b part "b"; result 0; val $(an2 chan:3 value); eq? $(min $(val) 2250.0000) 2250.0000 eq? $(max $(val) 2750.0000) 2750.0000 result 1 ; showresult
+
+/*
+ * state 6 output setup and test criteria
+ */
+Macro macro state6 dig1 chan:1 value:0 chan:2 value:1
+Macro macro test6a part "a"; result 0;val $(an1 chan:3 value);eq? $(min $(val) 14.0000) 14.0000 eq? $(max $(val) 16.0000) 16.0000 result 1 ; showresult
+Macro macro test6b part "b"; result 0;val $(an2 chan:0 value);eq? $(min $(val) 1000.0000) 1000.0000 eq? $(max $(val) 1500.0000) 1500.0000 result 1; showresult
+
+/*
+ * state 7 output setup and test criteria
+ */
+Macro macro state7 dig1 chan:2 value:0 chan:3 value:1
+Macro macro test7a part "a"; result 0;val $(an1 chan:0 value);eq? $(min $(val) 19.0000) 19.0000 eq? $(max $(val) 21.0000) 21.0000 result 1 ; showresult
+Macro macro test7b part "b"; result 0;val $(an2 chan:1 value);eq? $(min $(val) 0.0000) 0.0000 eq? $(max $(val) 250.0000) 250.0000 result 1 ; showresult
+
+/*
+ * state 8 do nothing
+ */
+ Macro macro state8
+ Macro macro test8a
+ Macro macro test8b
+
+/*
+ * misc macros to drive the process, display the results, and rerun test.
+ */
+Macro macro showresult eq? $(result) 1 str "Pass"; eq? $(result) 0 str "FAIL!!"; echo Test $(- $(stateno) 1)-$(part) :$(val): $(str)
+Macro macro step test$(stateno)a; test$(stateno)b; stateno $(+ $(stateno) 1); eq? $(stateno) 9 stateno 8; state$(stateno)
+Macro macro reRun state1; stateno 1
+
+/*
+ * this is the actual "entry point" for the test.
+ * set starting state for test
+ */
+
+vsBus reset
+state1
+/*
+ * and start the infinite loop. The Vsms object will call the 'step' macro ad
+ * infinitum until the hub is reset
+ */
+Vsms every:1000:step

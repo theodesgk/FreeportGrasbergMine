@@ -1,0 +1,351 @@
+--------------------------------------------------------------------
+Release - 03/26/2015
+--------------------------------------------------------------------
+TFS:361990 New XMEC MEOS interface
+	
+Xmec Driver: Version 2.0.0:
+	/mms/src/Interfaces/Xmec/Makefile
+	/mms/src/Interfaces/Xmec/XmecConfig.C
+	/mms/src/Interfaces/Xmec/XmecConfig.H
+	/mms/src/Interfaces/Xmec/XmecDevice.C
+	/mms/src/Interfaces/Xmec/XmecDevice.H
+	/mms/src/Interfaces/Xmec/XmecDriver.C
+	/mms/src/Interfaces/Xmec/XmecDriver.H
+	/mms/src/Interfaces/Xmec/XmecDriver.lib
+	/mms/src/Interfaces/Xmec/XmecEventPersistence.C
+	/mms/src/Interfaces/Xmec/XmecEventPersistence.H
+	/mms/src/Interfaces/Xmec/XmecMsg.C
+	/mms/src/Interfaces/Xmec/XmecMsg.H
+
+Xmec Boot script:
+	/mms/boot/MineCare/Xmec/App.h
+	/mms/boot/MineCare/Xmec/Config.h
+	/mms/boot/MineCare/Xmec/.links
+	/mms/boot/MineCare/Xmec/links.cmd
+	/mms/boot/MineCare/Xmec/Main.cfg
+
+--------------------------------------------------------------------
+Release - 04/16/2015
+--------------------------------------------------------------------
+TFS:360808 Fixing the "listevents" command for the VISTJ1939 
+interface. The "listparams" command is working correctly and no
+changes were needed.
+
+VISTJ1939Driver: Version 2.0.3:
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Config.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Config.H
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Driver.C
+	
+--------------------------------------------------------------------
+Release - 04/29/2015
+--------------------------------------------------------------------
+TFS:365403 Adding the LoadRite interface's popfiles
+
+LoadRite popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/loadriteevt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/loadritepar.txt
+	
+--------------------------------------------------------------------
+Release - 04/29/2015
+--------------------------------------------------------------------
+TFS:361990 New CenseJ1939CM2330 MEOS interface
+	
+CenseJ1939CM2330 Driver: Version 2.0.0:
+	/mms/src/Interfaces/CenseJ1939CM2330/Makefile
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.H
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.H
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.lib
+
+CenseJ1939CM2330 Boot script:
+	/mms/boot/MineCare/CenseJ1939CM2330/App.h
+	/mms/boot/MineCare/CenseJ1939CM2330/Config.h
+	/mms/boot/MineCare/CenseJ1939CM2330/.links
+	/mms/boot/MineCare/CenseJ1939CM2330/links.cmd
+	/mms/boot/MineCare/CenseJ1939CM2330/Main.cfg
+	/mms/boot/MineCare/CenseJ1939CM2330/censecm2330.cfg
+	
+CenseJ1939CM2330 popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/censej1939cm2330evt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/censej1939cm2330par.txt
+	
+--------------------------------------------------------------------
+Release - 05/14/2015
+--------------------------------------------------------------------
+TFS:365186 Update to the LiebExcav interface to support new events.
+new models have been added to the interface.
+
+LiebExcav Driver: Version 2.0.0:
+	/mms/src/Interfaces/LiebExcav/LiebExcavConfig.C
+	/mms/src/Interfaces/LiebExcav/LiebExcavDriver.C
+	/mms/src/Interfaces/LiebExcav/LiebExcavDriver.H
+
+LiebExcav popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavevt.txt
+	
+LiebExcav boot script:
+	/mms/boot/MineCare/LiebExcav/lieb.cfg
+	/mms/boot/MineCare/LiebExcav/Config.h
+
+--------------------------------------------------------------------
+Release - 05/15/2015
+--------------------------------------------------------------------
+TFS:365186 Correcting the event list for the LiebExcav R996 model
+
+LiebExcav Driver: Version 2.0.1:
+	/mms/src/Interfaces/LiebExcav/LiebExcavDriver.C
+	
+LiebExcav popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavevt.txt
+	
+--------------------------------------------------------------------
+Release - 05/18/2015
+--------------------------------------------------------------------
+TFS:365409 Uploading SmartCap popfiles.
+	
+SmartCap popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/smartcapevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/smartcappar.txt
+
+--------------------------------------------------------------------
+Release - 05/19/2015
+--------------------------------------------------------------------
+TFS:366024 Correcting the LiebExcav parameter popfile.
+TFS:354186 Fixing the "Electric Event" and the "Number Of Time This 
+Error Occurred" parameter
+
+LiebExcav Driver: Version 2.0.2:
+	/mms/src/Interfaces/LiebExcav/LiebExcavDriver.C
+	/mms/src/Interfaces/LiebExcav/LiebExcavConfig.C
+
+LiebExcav popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavpar.txt
+
+--------------------------------------------------------------------
+Release - 05/20/2015
+--------------------------------------------------------------------
+TFS:365186 Correcting a bug on the LiebExcav checksum algorithm
+
+LiebExcav Driver: Version 2.0.3:
+	/mms/src/Interfaces/LiebExcav/LiebExcavDriver.C
+	/mms/src/Interfaces/LiebExcav/LiebExcavDevice.C
+	
+--------------------------------------------------------------------
+Release - 05/25/2015
+--------------------------------------------------------------------
+TFS:366024 Removing non-ASCII characters found on the LiebExcav
+event popfile.
+
+LiebExcav popfile:
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavevt.txt
+
+--------------------------------------------------------------------
+Release - 05/26/2015
+--------------------------------------------------------------------
+TFS:368556 Adding new events to the Centurion interface. Also adding
+a configuration to enable/disable the GPS_REQUEST RPC from the
+interface.
+
+TFS:364218 Removing the LLS-FUEL RPC from the fuelmetrix interface
+
+Centurion Driver: Version 2.2.0:
+	/mms/src/Interfaces/Centurion/CenturionConfig.C
+	/mms/src/Interfaces/Centurion/CenturionDriver.C
+	/mms/src/Interfaces/Centurion/CenturionDriver.H
+
+Centurion popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/centurionpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/centurionevt.txt
+	
+FuelMetrix Driver: 2.0.6
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixDriver.C
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixDriver.H
+
+--------------------------------------------------------------------
+Release - 06/01/2015
+--------------------------------------------------------------------
+TFS:356426 Removing non-ASCII characters from the CenseJ1939CM2330
+popfiles.
+
+CenseJ1939CM2330 popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/censej1939cm2330par.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/censej1939cm2330evt.txt
+	
+--------------------------------------------------------------------
+Release - 06/12/2015
+--------------------------------------------------------------------
+TFS:366047 Adding popfiles for the DeereAdt interface
+
+DeereAdt popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/deereadtpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/deereadtevt.txt
+	
+--------------------------------------------------------------------
+Release - 06/16/2015
+--------------------------------------------------------------------
+TFS:372516 Fixing the DeereAdt event id on the popfile.
+
+DeereAdt popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/deereadtevt.txt
+
+--------------------------------------------------------------------
+Release - 06/18/2015
+--------------------------------------------------------------------
+TFS:377291 Adding new Xmec parameters and Dipper Event.
+
+Xmec popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/xmecevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/xmecpar.txt
+Xmec Driver: Version 2.1.0:
+	/mms/src/Interfaces/Xmec/XmecConfig.C
+	/mms/src/Interfaces/Xmec/XmecConfig.H
+	/mms/src/Interfaces/Xmec/XmecDriver.C
+	/mms/src/Interfaces/Xmec/XmecDriver.H	
+
+--------------------------------------------------------------------
+Release - 06/18/2015
+--------------------------------------------------------------------
+TFS:370394 Adding VHMS logical events.
+
+VHMS Driver: Version 3.11.1 
+	/mms/src/Interfaces/VHMS/VHMSdrivers.C		
+	
+--------------------------------------------------------------------
+Release - 06/30/2015
+--------------------------------------------------------------------
+TFS:372618 Adding the Guardvant interface popfiles.
+
+Guardvant popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/guardvantevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/guardvantpar.txt
+
+--------------------------------------------------------------------
+Release - 07/02/2015
+--------------------------------------------------------------------
+TFS:373344 Updating the Vims driver and popfiles to the latest
+database version: 3.8
+
+VIMS Driver: Version 3.8.0
+	/mms/src/Interfaces/Vims/VimsConfig.C
+	/mms/src/Interfaces/Vims/VimsDriver.C
+
+VIMS popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vimspara.txt
+
+--------------------------------------------------------------------
+Release - 07/03/2015
+--------------------------------------------------------------------
+TFS:373496 Update on the Centurion interace event Ids.
+
+Centurion Driver: Version 2.3.0
+	/mms/src/Interfaces/Centurion/CenturionConfig.C
+	/mms/src/Interfaces/Centurion/CenturionDriver.C
+
+Centurion popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/centurionevt.txt
+	
+--------------------------------------------------------------------
+Release - 07/09/2015
+--------------------------------------------------------------------
+TFS:374370 Correction on some parameters of the CenseJ1939CM2330
+driver.
+
+CenseJ1939CM2330 Driver: Version 2.0.2
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.C
+    /mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+
+--------------------------------------------------------------------
+Release - 07/10/2015
+--------------------------------------------------------------------
+TFS:364434 Change on the algorithm for detecting the Dipper event on
+the XMEC interface
+
+Xmec Driver: Version 2.1.2
+	/mms/src/Interfaces/Xmec/XmecDriver.C
+
+--------------------------------------------------------------------
+Release - 07/13/2015
+--------------------------------------------------------------------
+TFS:364434 Adding boot script files for the Xemc interface.
+
+Xemc boot script:
+	/mms/boot/MineCare/Xemc/App.h
+	/mms/boot/MineCare/Xemc/Config.h
+	/mms/boot/MineCare/Xemc/.links
+	/mms/boot/MineCare/Xemc/links.cmd
+	/mms/boot/MineCare/Xemc/Main.cfg
+
+--------------------------------------------------------------------
+Release - 07/17/2015
+--------------------------------------------------------------------
+TFS:374915 Changing the logic of the Vims3G driver regarding the
+"Actual Gear" parameter.
+
+TFS:373844 Adding support for 4 new EIDs on the 795FAC model
+
+Vims3G Driver version: 2.8.0
+	/mms/src/Interfaces/Vims3G/Vims3GBaseConfig.H
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.H
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.H
+	/mms/src/Interfaces/Vims3G/Vims3GBaseConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+
+Vims3G popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gevt.txt
+
+--------------------------------------------------------------------
+Release - 07/23/2015
+--------------------------------------------------------------------
+TFS:374917 Adding a new model to the VIST interface called "V2" and
+renaming the "Default" model to "Legacy".
+
+VIST Driver version: 2.1.0
+	/mms/src/Interfaces/Vist/VistConfig.C
+	/mms/src/Interfaces/Vist/VistConfig.H
+	/mms/src/Interfaces/Vist/VistDevice.C
+	/mms/src/Interfaces/Vist/VistDevice.H
+	/mms/src/Interfaces/Vist/VistDriver.C
+	/mms/src/Interfaces/Vist/VistDriver.H
+
+VIST Boot script:
+	/mms/boot/MineCare/Vist/vist.cfg
+	/mms/boot/MineCare/Vist/Config.h
+
+VIST popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vistevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vistpar.txt
+
+--------------------------------------------------------------------
+Release - 07/28/2015
+--------------------------------------------------------------------
+TFS:373344 Changing the name of the "Pressure Status" parameter
+(OemId 237) to "Final Drive Lube Pressure Status"
+
+VIMS popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vimspara.txt
+	
+--------------------------------------------------------------------
+Release - 08/11/2015
+--------------------------------------------------------------------
+TFS:376881 Adding the parameters unit type for the BCS interface's
+popfile and changing the scale and offset of all Pressure parameters
+on the Driver
+
+BCS popfile:
+	/mms/dsp/form/common/minecare/pop/popdata/bcspar.txt
+
+BCS Driver version: 3.1.3
+	/mms/src/Interfaces/BCS/BCSConfig.C
+	/mms/src/Interfaces/BCS/BCSDriver.C
+
+--------------------------------------------------------------------
+Release - 08/28/2015
+--------------------------------------------------------------------
+TFS:378472 Adding the popfiles for the Transcale interface
+
+Transcale popfile:
+	/mms/dsp/form/common/minecare/pop/popdata/transcaleevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/transcalepar.txt

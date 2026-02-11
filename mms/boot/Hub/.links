@@ -1,0 +1,28 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../Main/All ./All
+ln -sf ../Macro.cfg ./excav/Macro.cfg
+ln -sf ../Main.cfg ./excav/Main.cfg
+ln -sf ../Vsms.cfg ./excav/Vsms.cfg
+ln -sf ../Macro.cfg ./kltd-gsp/Macro.cfg
+ln -sf ../kltd-hub/Name.cfg ./kltd-gsp/Name.cfg
+ln -sf ../kltd-hub/PswServer.cfg ./kltd-gsp/PswServer.cfg
+ln -sf ../Vsms.cfg ./kltd-gsp/Vsms.cfg
+ln -sf ../Macro.cfg ./kltd-hub/Macro.cfg
+ln -sf ../Vsms.cfg ./kltd-hub/Vsms.cfg
+ln -sf ../Macro.cfg ./truck/Macro.cfg
+ln -sf ../Main.cfg ./truck/Main.cfg
+ln -sf ../Vsms.cfg ./truck/Vsms.cfg
+ln -sf ./truck ./auxil
+ln -sf ./truck ./fuelbay
+ln -sf ./truck ./crusher
+ln -sf ./truck ./wtruck
+ln -sf ./truck ./dozerlp
+ln -sf ./truck ./graderlp
+ln -sf ./excav ./loaderlp
+ln -sf ./truck ./wtrucklp
+ln -sf ./excav ./ug_loader
+ln -sf ./excav ./ug_train
+ln -sf ./truck ./ug_truck

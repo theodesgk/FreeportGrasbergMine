@@ -1,0 +1,106 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1995
+ *               All Rights Reserved
+ *  $RCSfile: Boot,v $
+ * $Revision: 1.5 $
+ *   $Author: zambetis $
+ *     $Date: 2008/11/22 03:32:38 $
+ *    $State: Exp $
+ *   Purpose: Special script for MLX to specify the
+ *            minimum configuration required to get
+ *            the MLX hub to communicate on the network
+ *
+ * The following must be configured here:
+ *
+ * (1) wireless network configuration (wepkey, ssid)
+ *
+ * (2) ethernet configuration (if required)
+ *
+ * (3) OMS domain
+ *
+ * (4) Touch screen calibration
+ *
+ * At the end of the script, the changes must be synchronized
+ * to disk and the hub rebooted
+ * * * * * * * * * * * * * * * * * * *
+ */
+#include <Version.h>
+
+#define BOOTDIR pfs/boot
+#define CFGDEVICE pfs/boot
+#define NODST 68
+
+#assert module(Prism)
+#include <Cfg/OMS.h>
+
+#undef OK
+
+#ifndef PRISMNET
+	echo you MUST specify an IP adress for wireless!!
+#else
+#	ifndef PRISMSSID
+		echo you MUST specify the SSID for wireless!!
+#	else
+#		ifndef PRISMKEY
+			echo you MUST specify the WEPKEY for wireless!!
+#		else
+			echo Setting wireless interface parameters...
+			wan0 ssid:PRISMSSID wepkey:PRISMKEY
+			wan0 ipaddr:PRISMNET
+#			define OK
+#		endif
+#	endif
+#endif
+
+#ifdef OK
+#	ifdef ETHERNET
+		echo Setting ethernet address to ETHERNET.. 
+		CP(Cfg/Args.cfg ipaddr ETHERNET,BOOTDIR/eth0.cfg)
+		eth0 ipaddr:ETHERNET
+#	endif
+
+/* The MLX should always use a timezone that does not enforce 
+   daylight savings time (DST).  The default is Arizona=68 which is safe to
+   use at any minesite around the world.  Otherwise during DST transitions
+   in the MLX clock will interfere with the set-time broadcasts arriving from 
+   the Dispatch server */
+
+#	ifdef TIMEZONE
+		echo Setting timezone to TIMEZONE...
+		timezone TIMEZONE
+#	else
+		timezone NODST
+#	endif
+
+/* run the touchscreen calibration if requested */
+
+#ifdef TPCALIBRATE
+
+	echo Please follow the instructions on the screen to calibrate the
+	echo touch-screen. Click "OK" when finished...
+
+	tpcal
+
+#else
+
+	echo Skipping touch panel calibration. If you want to calibrate the
+	echo touch panel, you must specify "TPCALIBRATE=yes".
+
+#endif
+
+/* once that is finished, we want to commit these changes to the flash card
+ * Note: ewfcommit will reboot the system
+ */
+
+echo Committing configuration to flash...
+echo
+echo Now rebooting the system. This will take approx. 60 seconds....
+echo !!!PLEASE DO NOT REMOVE POWER DURING THIS PROCESS!!!
+echo 
+
+ewfcommit
+
+#endif

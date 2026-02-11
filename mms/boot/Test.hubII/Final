@@ -1,0 +1,61 @@
+#!/psw/cpp
+#include <Main/CheckRev.h>
+#if #args(OK)
+	/*
+	 * Erase any previous RAM partitions so they don't
+	 * conflict with the new `ram0' partition in high memory.
+	 */
+	mknod	xx0 ram 0x40030000 0x50000
+	fill	xx0
+	/*
+	 * We need to create `ram0' a bit higher in the HubII,
+	 * because of the large sector size of the 29F016 memory
+	 * system and `Test' will need a buffer to hold the current
+	 * sector.
+	 */
+	mknod	Ram0 ram 0x40080000 0x40000
+	fill	Ram0
+	mkfs	Ram0
+	LD(Test,Ram0/Test)
+	LD(FLASH_TYPE,Ram0/flash)
+	LD(Adc7858,Ram0/Adc)
+	LD(Pulse,Ram0/Pulse)
+#	ifndef MODEM
+#		define MODEM tait1200
+#	endif
+#	ifndef CHAN
+#		define CHAN 1
+#	endif
+	/* 
+	 * Load GPS system only if specified.
+	 */
+#       ifdef LOC
+                echo Loading Gps system...
+                CP(Macro,Ram0/Macro)
+                CP(GpsDev,Ram0/GpsDev)
+                CP(GpsApp,Ram0/GpsApp)
+                CP(GpsTruck,Ram0/GpsTruck)
+#               if #loc(Sk8) || #loc(Dsm) || #loc(Tsip)
+                        CP(GpsTsip,Ram0/GpsTsip)
+#               elif #loc(GG24) || #loc(Ashtech)
+                        CP(GpsGG24,Ram0/GpsGG24)
+#               elif #loc(Moto) || #loc(Motorola)
+                        CP(GpsMoto,Ram0/GpsMoto)
+#               endif
+#       endif
+	echo	Loading modems...
+	CP(Dsp/MODEM.dsp,Ram0/MODEM.dsp)
+	ln	Ram0/MODEM.dsp		Rp.dsp
+	CP(Dsp/pulse.dsp,Ram0/pulse.dsp)
+	CP(Cfg/Rp.cfg 1 CHAN _MODEM_=MODEM,Ram0/Rp.cfg)
+#       if defined(UP) && defined(LOC)
+                CP(Test.hubII/Test.cfg _UP_=UP _LOC_=LOC _OPTION_=FILENAME,Ram0/Test.cfg)
+#       elif defined(UP)
+                CP(Test.hubII/Test.cfg _UP_=UP _OPTION_=FILENAME,Ram0/Test.cfg)
+#       elif defined(LOC)
+                CP(Test.hubII/Test.cfg _LOC_=LOC _OPTION_=FILENAME,Ram0/Test.cfg)
+#       else
+                CP(Test.hubII/Test.cfg _OPTION_=FILENAME,Ram0/Test.cfg)
+#       endif
+	boot	Ram0/Test lib:ram0:boot etc:ram0:boot
+#endif

@@ -1,0 +1,18 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1996
+ *               All Rights Reserved
+ *  $RCSfile: All,v $
+ * $Revision: 1.1 $
+ *   $Author: olson $
+ *     $Date: 2002/05/17 18:56:53 $
+ *    $State: Exp $
+ *   Purpose: Load script for basic a29k operating system support.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#include <Main/CheckRev.h>
+#if #args(OK)
+#	include <Sys/Sys.h>
+#endif

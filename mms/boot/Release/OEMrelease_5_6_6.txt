@@ -1,0 +1,94 @@
+--------------------------------------------------------------------
+Release - 03/02/2017
+--------------------------------------------------------------------
+TFS:461708 Removing unecessary spaces from names in the
+ContronicsJ1939 interface popfiles.
+
+files:
+	/mms/dsp/form/common/minecare/pop/popdata/contronicsj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/contronicsj1939par.txt
+
+--------------------------------------------------------------------
+Release - 03/20/2017
+--------------------------------------------------------------------
+TFS:463297 Adding newer version of the DDECJ1939 interface popfiles
+TFS:464843 Update Plm popfiles to synce about the (PLM4) events and
+parameters.
+
+files:
+	/mms/dsp/form/common/minecare/pop/popdata/ddecj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/ddecj1939par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/plmevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/plmpar.txt
+
+--------------------------------------------------------------------
+Release - 03/27/2017
+--------------------------------------------------------------------
+TFS:393466 Fixing the MineCare crash issue.
+
+files:
+	/mms/src/Interfaces/MineCare/Aggregator.C
+
+
+--------------------------------------------------------------------
+Release - 04/11/2017
+--------------------------------------------------------------------
+TFS:458654 Update CumminsRMD parameter pop file with string parameters.
+
+files:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsrmdpar.txt
+
+--------------------------------------------------------------------
+Release - 05/09/2017
+--------------------------------------------------------------------
+TFS:470287 Updating the FlandersShovel interface so the MODBUS
+addresses for parameter and events can be changed during run time
+
+Files:
+	/mms/src/Interfaces/Modbus/FlandersShovelConfig.C
+	/mms/src/Interfaces/Modbus/FlandersShovelConfig.H
+	/mms/src/Interfaces/Modbus/FlandersShovelDriver.C
+	/mms/src/Interfaces/Modbus/FlandersShovelDriver.H
+	/mms/dsp/form/common/minecare/pop/popdata/flandersshovelevt.txt
+
+--------------------------------------------------------------------
+Release - 05/15/2017
+--------------------------------------------------------------------
+TFS:471735 Updating the Vims3G interfrace to correct the Cycle
+event on all models and the Body Up event on the 777G, 797F,
+770G_775G and 795FAC models.
+
+Files:
+	/mms/src/Interfaces/Vims3G/Vims3GBaseConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GBaseConfig.H
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.H
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+	/mms/src/Interfaces/Vims3G/Vims3GMsg.C
+	/mms/src/Interfaces/Vims3G/Vims3GMsg.H
+
+--------------------------------------------------------------------
+Release - 06/26/2017
+--------------------------------------------------------------------
+TFS:465271
+Updated ContronicsJ1939 interface to support PGN65226 events.
+Some changes in EventSender to support generic events update.
+
+Also fixed Fuel Gauge parameter's scale to 14.2857, unit %, for models EH3500 and EH5000AC3.
+
+Files:
+	/mms/src/Interfaces/MineCare/Event.C
+	/mms/src/Interfaces/MineCare/Event.H
+	/mms/src/Interfaces/GenericDriver/DriverConfigurator.C
+	/mms/src/Interfaces/GenericDriver/DriverConfigurator.H
+	/mms/src/Interfaces/GenericDriver/EventSender.C
+	/mms/src/Interfaces/GenericDriver/EventSender.H
+	/mms/src/Interfaces/GenericDriver/GenericDriver.C
+	/mms/src/Interfaces/GenericDriver/GenericDriver.H
+	/mms/src/Interfaces/GenericDriver/GenericDriver.lib
+	/mms/src/Interfaces/GenericDriver/ParamHandler.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.H
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.H
+	/mms/dsp/form/common/minecare/pop/popdata/contronicsj1939par.txt

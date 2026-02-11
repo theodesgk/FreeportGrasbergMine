@@ -1,0 +1,24 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1995
+ *               All Rights Reserved
+ *  $RCSfile: portforward,v $
+ * $Revision: 1.1 $
+ *   $Author: zambetis $
+ *     $Date: 2009/09/17 20:15:18 $
+ *    $State: Exp $
+ *   Purpose: Instantiate serial port pipe between GPS and GSP serial ports so-that
+ *            the internal Topcon card can be accessed by Topcon utilities such as
+ *            PC-CDU and Floader.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#if #arch(mlink)
+	wan0 watchdog_enabled:0
+	module net/SerialPipe
+	object SerialPipe name:sp1 port:xil2 speed:115200 flags:8 hdwe:rs232 peer:sp2
+	object SerialPipe name:sp2 port:xil1 speed:115200 flags:8 hdwe:rs232 peer:sp1 gps:true
+#else
+	echo Can only use this on a Masterlink hub
+#endif

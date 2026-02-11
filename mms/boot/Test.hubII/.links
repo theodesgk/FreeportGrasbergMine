@@ -1,0 +1,7 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf All ./Ate
+ln -sf All ./Final
+ln -sf All ./Rma

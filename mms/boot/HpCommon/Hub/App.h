@@ -1,0 +1,18 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1998
+ *               All Rights Reserved
+ *  $RCSfile: App.h,v $
+ * $Revision: 1.5 $
+ *   $Author: latum $
+ *     $Date: 2004/08/19 19:48:53 $
+ *    $State: Exp $
+ *   Purpose: 
+
+ * * * * * * * * * * * * * * * * * * *
+ */
+#include <GpsRover/App.h>
+
+#include <Inclinometer/App.h>

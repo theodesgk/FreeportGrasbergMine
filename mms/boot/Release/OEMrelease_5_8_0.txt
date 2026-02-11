@@ -1,0 +1,389 @@
+--------------------------------------------------------------------
+Release - 05/04/2020
+--------------------------------------------------------------------
+TFS:655580 and 648844 Update to CenseJ1939CM2330 interface to
+support new models, and updates to the ECS to add new models,
+and new MEMSRV interface popfiles. Removing Key-On event from
+CumminsAll
+
+Files:
+	/mms/boot/MineCare/CenseJ1939CM2330/censecm2330.cfg
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.H
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.H
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/memsrvevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/memsrvpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/ecsevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/ecspar.txt
+
+--------------------------------------------------------------------
+Release - 05/13/2020
+--------------------------------------------------------------------
+TFS:620232 and 671440. Added pop data for NHL interface
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/nhlevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/nhlpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan1evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan1par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan2evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan2par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan3evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan3par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan4evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan4par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcom1evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcom1par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcom2evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcom2par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testudp1evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testudp1par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	
+--------------------------------------------------------------------
+Release - 05/18/2020
+--------------------------------------------------------------------
+TFS:655580 fixed some source addresses.
+
+Files:
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+
+--------------------------------------------------------------------
+Release - 06/25/2020
+--------------------------------------------------------------------
+TFS:681251. Added pop data for Mcc interface
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/mccevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/mccpar.txt
+
+--------------------------------------------------------------------
+Release - 07/17/2020
+--------------------------------------------------------------------
+TFS:679600 Updating the popfiles so they match the latest version
+of the interface database. For CumminsAll some new events have been
+added and the parameter list for each model has been updated
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt
+
+--------------------------------------------------------------------
+Release - 08/25/2020
+--------------------------------------------------------------------
+TFS:624490 Release T282C evt pop file
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/t282cevt.txt
+
+--------------------------------------------------------------------
+Release - 09/14/2020
+--------------------------------------------------------------------
+TFS:679502,657625, 645745, 584673 - Releasing the latest pop files for Vims3G, Generic-KomtraxPlusJ1939 and KomtraxPlus interface.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusj1939par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+
+--------------------------------------------------------------------
+Release - 09/17/2020
+--------------------------------------------------------------------
+TFS:567763 & 584673 Adding a copy of the interface with the correct name: Xemc and adding the new WA1200-3/-6 models on the MEOS interface
+
+Files:
+	/mms/boot/MineCare/Xemc/App.h
+	/mms/boot/MineCare/Xemc/Config.h
+	/mms/boot/MineCare/Xemc/Main.cfg
+	/mms/src/Interfaces/Xemc/Makefile
+	/mms/src/Interfaces/Xemc/XemcConfig.C
+	/mms/src/Interfaces/Xemc/XemcConfig.H
+	/mms/src/Interfaces/Xemc/XemcDevice.C
+	/mms/src/Interfaces/Xemc/XemcDevice.H
+	/mms/src/Interfaces/Xemc/XemcDriver.C
+	/mms/src/Interfaces/Xemc/XemcDriver.H
+	/mms/src/Interfaces/Xemc/XemcDriver.lib
+	/mms/src/Interfaces/Xemc/XemcEventPersistence.C
+	/mms/src/Interfaces/Xemc/XemcEventPersistence.H
+	/mms/src/Interfaces/Xemc/XemcMsg.C
+	/mms/src/Interfaces/Xemc/XemcMsg.H
+	/mms/src/Interfaces/Makefile
+	/mms/boot/MineCare/KomtraxPlus/App.h
+	/mms/boot/MineCare/KomtraxPlus/Main.cfg
+	/mms/src/Interfaces/KomtraxPlus/Makefile
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200_3Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200_3Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200_3Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200_6Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200_6Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200_6Config.lib
+
+--------------------------------------------------------------------
+Release - 10/8/2020
+--------------------------------------------------------------------
+TFS:697710 Adding new events to the Invertex interface.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/invertexevt.txt
+
+--------------------------------------------------------------------
+Release - 10/19/2020
+--------------------------------------------------------------------
+TFS:673072 Adding Service Brake Switch to the ContronicsJ1939 interface.
+TFS:700324 Adding updated version of the komtraxplus popfiles
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/contronicsj1939par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxplusevt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+
+--------------------------------------------------------------------
+Release - 11/05/2020
+--------------------------------------------------------------------
+TFS:663956,664617,682841,671023,663957,698807
+Creating a new release for CumminsCore2, Contronics, CenseJ1939CM2330 (.NET and MEOS), Vims3G, and Vims3G Drills.
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+  /mms/dsp/form/common/minecare/pop/popdata/cumminscore2evt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/cumminscore2par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330evt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/contropar.txt
+  /mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+  /mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.H
+
+--------------------------------------------------------------------
+Release - 11/19/2020
+--------------------------------------------------------------------
+TFS:703179,663957,670749
+Creating a new release for KomtraxPlus, CumminsCore2, Bucyrus MEOS drivers.
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxplusevt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+  /mms/dsp/form/common/minecare/pop/popdata/bucevt.txt
+  /mms/src/Interfaces/CumminsCore2/CumminsCore2Config.C
+  /mms/src/Interfaces/CumminsCore2/CumminsCore2Config.H
+  /mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+  /mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.H
+
+--------------------------------------------------------------------
+Release - 12/21/2020
+--------------------------------------------------------------------
+TFS:702645 
+Creating a new release for Generic-Plm interface. 
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/plmpar.txt
+
+--------------------------------------------------------------------
+Release - 1/6/2021
+--------------------------------------------------------------------
+TFS:712777 
+Creating a new release for Generic-KomtraxPlusJ1939 interface. 
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxplusj1939evt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxplusj1939par.txt
+
+--------------------------------------------------------------------
+Release - 1/28/2021
+--------------------------------------------------------------------
+TFS:654301,703184
+Creating a new release for Centurion DDS and KomtraxPlus interfaces. 
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/centurionddsevt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/centurionddspar.txt
+  /mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+  /mms/dsp/form/common/minecare/mc_enums.frm
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxplusevt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+
+--------------------------------------------------------------------
+Release - 1/28/2021
+--------------------------------------------------------------------
+TFS:697718
+Creating a new release for CumminsAll interfaces. 
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt
+  
+--------------------------------------------------------------------
+Release - 2/22/2021
+--------------------------------------------------------------------
+TFS:697716
+Creating a new release for Generic-CumminsAll interface. 
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt
+  /mms/dsp/form/common/minecare/pop/popdata/cumminsallevt.txt
+
+--------------------------------------------------------------------
+Release - 3/2/2021
+--------------------------------------------------------------------
+TFS:730073
+Adding a new parameter into Generic-CumminsFIT interface. 
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/cumminsfitpar.txt
+
+--------------------------------------------------------------------
+Release - 3/5/2021
+--------------------------------------------------------------------
+TFS:733852 
+Merging the CenseJ1939, CenseJ1939CM2330 and CumminsCore2 interfaces to the CumminsAll interface.
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/cumminsallevt.txt 
+  /mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt 
+
+--------------------------------------------------------------------
+Release - 3/5/2021
+--------------------------------------------------------------------
+TFS:733852 
+Updating parameter names by removing model names in the CumminsAll interface.
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt 
+
+--------------------------------------------------------------------
+Release - 3/16/2021
+--------------------------------------------------------------------
+TFS:632005 
+Adding parameters and events to the Generic-iTrack interface and updating the scale value for the Hot Pressure parameters.
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/itrackpar.txt
+  /mms/dsp/form/common/minecare/pop/popdata/itrackevt.txt
+
+--------------------------------------------------------------------
+Release - 3/29/2021
+--------------------------------------------------------------------
+TFS:733439 
+Updating the KomtraxPlus Drivers by adding new parameters and events to the interface.
+
+Files:
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus730EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus830EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus860EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus930EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus960EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlusConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlusEvents.H
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlusWD6006Config.C
+  
+--------------------------------------------------------------------
+Release - 3/30/2021
+--------------------------------------------------------------------
+TFS:733439 
+Updating the KomtraxPlus Drivers by adding new parameters and events to the interface.
+
+Files:
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus730EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus830EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus860EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus930EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus960EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlusConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlusEvents.H
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlusWD6006Config.C
+
+--------------------------------------------------------------------
+Release - 5/3/2021
+--------------------------------------------------------------------
+TFS:739925 Adding parameters and events into PlmJ1939 driver.
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/plmj1939par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/plmj1939evt.txt
+
+--------------------------------------------------------------------
+Release - 5/17/2021
+--------------------------------------------------------------------
+TFS:739925, 743497, 739950, 749848 
+Updating the Generic-Plm, Generic-PlmJ1939, Vims3G and Test drivers pop files.
+
+Files:
+  /mms/dsp/form/common/minecare/mc_enums.frm
+  /mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+  /mms/dsp/form/common/minecare/pop/popdata/plmpar.txt
+  /mms/dsp/form/common/minecare/pop/popdata/plmj1939evt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/plmj1939par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/testcan1par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/testcan2par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/testcan3par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/testcan4par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/testcan5evt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/testcan5par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/testcom1par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/testudp1evt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/testudp1par.txt
+  /mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+
+--------------------------------------------------------------------
+Release - 5/20/2021
+--------------------------------------------------------------------
+TFS:743491 
+Updating the PLM MEOS interface. Added new parameters and events. 
+
+Files:
+  /mms/src/Interfaces/Plm/PlmConfig.C
+  /mms/src/Interfaces/Plm/PlmConfig.H
+  /mms/src/Interfaces/Plm/PlmDevice.C
+  /mms/src/Interfaces/Plm/PlmDriver.C
+  /mms/src/Interfaces/Plm/PlmDriver.H
+
+--------------------------------------------------------------------
+Release - 5/27/2021
+--------------------------------------------------------------------
+TFS:751049 Changed Engine oil Pressure scale from MPa to kPa for D375 and PC7000 models.
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+
+--------------------------------------------------------------------
+Release - 7/8/2021
+--------------------------------------------------------------------
+TFS:743491 
+Updating the PLM MEOS interface. Added new parameters and events. 
+
+Files:
+  /mms/src/Interfaces/Plm/PlmConfig.C
+  /mms/src/Interfaces/Plm/PlmConfig.H
+  /mms/src/Interfaces/Plm/PlmDevice.C
+  /mms/src/Interfaces/Plm/PlmDriver.C
+  /mms/src/Interfaces/Plm/PlmDriver.H
+
+--------------------------------------------------------------------
+Release - 07/20/2021
+--------------------------------------------------------------------
+TFS:0000 AHS event pop file.
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/ahsevt.txt
+
+--------------------------------------------------------------------
+Release - 08/10/2021
+--------------------------------------------------------------------
+TFS:733369,755552,758416 release some MEOS drivers related changes.
+
+Files:
+  /mms/dsp/form/common/minecare/pop/popdata/memsrvpar.txt
+  /mms/dsp/form/common/minecare/pop/popdata/memsrvevt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/cumminscore2evt.txt
+  /mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlus830EConfig.C
+  /mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.C
+  /mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C

@@ -1,0 +1,5 @@
+module net/GenericDriver
+module net/J1587
+object J1587Device name:j1587 port:scc0a speed:9600 hdwe:rs485
+object DdecDriver name:ddec device:j1587 sendto:192.168.201.0
+object ContronicsDriver name:contronics device:j1587 sendto:192.168.201.0

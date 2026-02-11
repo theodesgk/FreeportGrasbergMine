@@ -1,0 +1,8 @@
+echo Saving flash...
+mknod xx0 flash 0x40000 0x40000
+fill xx0
+cp fl0 xx0
+echo Erasing flash...
+fill fl0
+echo Now, power down and look for stars
+echo Then, run net/Test.171/test2 to reload flash

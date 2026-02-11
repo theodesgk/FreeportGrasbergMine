@@ -1,0 +1,203 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1996
+ *               All Rights Reserved
+ *  $RCSfile: Macro.cfg.orig,v $
+ * $Revision: 1.1 $
+ *   $Author: olson $
+ *     $Date: 2002/10/08 20:35:54 $
+ *    $State: Exp $
+ *   Purpose: GOIC object configuration file.
+ * * * * * * * * * * * * * * * * * * *
+ */
+stack 2048
+#include_next <Rpc.cfg>
+#include_next <English/Macro.cfg>
+#include <Goic/RpcClient.cfg>
+#include <Goic/English/Message.cfg>
+/* Keyboard button configurations and macros */
+#include <Goic/English/keyboard.cfg>
+in	KDISP1		0x23	s	w1.Text write:$1\n
+/* in	KSMS		0x24	ss	w2.Text write:$2\n;eq? "$1" "1" popsmswin */
+out	EXCEPT_REPLY	0x039	s	sendto	up
+in	KSTATE		0x41	b?sss	state $1
+in      KEQMT           0x212    s       w3.Text write:$1\n
+#if #arch(cgc)
+#in	KCOLOR	0x0a5	sss	$1 itemColor:$2:$3
+in	KCOLOR	0x0a5	sss	$1 item:$2:$3
+#endif
+#if #options(HpExcav)
+out     FOREMAN-HP-INFO 0x0077  s       sendto up
+in      GENERIC         0x0078  s       $1
+#endif
+symbol	typ	0
+symbol	next	none
+symbol	ob2	none
+symbol	action2	none
+symbol	nextreq none
+symbol  wprev   w0
+symbol  wcurrent w0
+symbol  wmain w0
+/* Color related stuff */
+macro   setDefaultBlue  Screen colors:default,blue50:white,green:white,blue25:blue75,black:white;WinMgr refresh
+macro   setDefaultGreen Screen colors:default,green50:yellow50,red50:yellow50,green25:green75,black:white;WinMgr refresh
+macro   setDefaultGray  Screen colors:default,gray75:black,red50:black,bisque25:bisque50,black:white;WinMgr refresh
+macro   setDefaultBrown Screen colors:default,brown50:gray75,yellow50:gray75,brown25:brown75,black:white;WinMgr refresh
+macro   setDefaultYellow        Screen colors:default,yellow50:black,black:yellow50,brown25:brown75,black:white;WinMgr refresh
+symbol        userColor       0
+/* Flash related stuff */
+symbol  flashEnable     0
+macro   flashColors.0   eq? $(flashEnable) 1 WinMgr after:1:flashColors.1
+macro   flashColors.1   colorCounter $(% $(+ $(colorCounter) 1) 5 );nextColor.$(colorCounter);flashColors.0
+macro nextColor.0     setDefaultBlue
+macro nextColor.1     setDefaultGreen
+macro nextColor.2     setDefaultGray
+macro nextColor.3     setDefaultBrown
+macro nextColor.4     setDefaultYellow
+macro   killFlash       WinMgr cancel:flashColors.1;nextColor.$(userColor)
+/* macro	popsmswin 	WinMgr window:w2;KBEEP 1 */
+/* Change Status */
+macro	ready.req	for sendreq;Ready$(typ) post
+macro   ready.sendreq   FOREMAN-REQ $(typ) "$(id)" Ready $1
+macro   delay.req       for sendreq;Delay$(typ) post
+macro   delay.sendreq   FOREMAN-REQ $(typ) "$(id)" Delay $1
+macro   down.req        for sendreq;Down$(typ) post
+macro   down.sendreq    FOREMAN-REQ $(typ) "$(id)" Down $1
+macro   standby.req     for sendreq;Standby$(typ) post
+macro   standby.sendreq FOREMAN-REQ $(typ) "$(id)" Standby $1
+/* */
+macro	getAct		for req;id $1;ob1 '';Action$(typ) post
+macro   getMess         id $1;WinMgr window:wmsg
+macro	getFAct		ob1 $1;ob2 '';$(next) action:getFReq post
+macro	doReq		FOREMAN-REQ $(typ) "$(id)" $(req) "$(ob1)" "$(ob2)"
+macro	getFReq		ob2 $1;doReq
+macro	getnextFReq	req $(nextreq);ob1 $1;doReq
+macro	mygetAct	for req;ob1 '';Action$(typ) post
+/* Dumps */
+macro	mbDumps2 eq? "$(id)" "More->" Dumps2 action:getAct post;ne? "$(id)" "More->" mygetAct
+macro	mbDumps id $1;req info;eq? "$(id)" "Update" doReq post;ne? "$(id)" "Update" mbDumps2 post
+macro	MoreDumps ob2 $1;eq? "$(ob2)" "More->" Dumps2 action:getFReq post;ne? "$(ob2)" "More->" doReq
+macro	getDumps ob1 $1;Dumps action:MoreDumps post
+macro	getReqDumps ob1 $1;eq? "$(ob1)" "More->" Dumps2 action:getReq post;ne? "$(ob1)" "More->" doReq
+macro   chngReg ob1 $1;doReq 
+/* Stockpiles */
+macro   mbStockpiles2 eq? "$(id)" "More->" Stockpiles2 action:getAct post;ne? "$(id)" "More->" mygetAct
+macro   mbStockpiles id $1;req info;eq? "$(id)" "Update" doReq post;ne? "$(id)" "Update" mbStockpiles2 post
+macro   MoreStockpiles ob2 $1;eq? "$(ob2)" "More->" Stockpiles2 action:getFReq post;ne? "$(ob2)" "More->" doReq
+macro   getStockpile ob1 $1;Stockpiles action:MoreStockpiles post
+macro   getReqstockpiles ob1 $1;eq? "$(ob1)" "More->" Stockpiles2 action:getReq post;ne? "$(ob1)" "More->" doReq
+/* Shops */
+macro   mbShops2 eq? "$(id)" "More->" Shops2 action:getAct post;ne? "$(id)" "More->" mygetAct
+macro   mbShops id $1;req info;eq? "$(id)" "Update" doReq post;ne? "$(id)" "Update" mbShops2 post
+macro   MoreShops ob2 $1;eq? "$(ob2)" "More->" Shops2 action:getFReq post;ne? "$(ob2)" "More->" doReq
+macro   getShops ob1 $1;Shops action:MoreShops post
+macro   getReqShops ob1 $1;eq? "$(ob1)" "More->" Shops2 action:getReq post;ne? "$(ob1)" "More->" doReq
+/* Tiedowns */
+macro   mbTiedowns2 eq? "$(id)" "More->" Tiedowns2 action:getAct post;ne? "$(id)" "More->" mygetAct
+macro   mbTiedowns id $1;req info;eq? "$(id)" "Update" doReq post;ne? "$(id)" "Update" mbTiedowns2 post
+macro   MoreTiedowns ob2 $1;eq? "$(ob2)" "More->" Tiedowns2 action:getFReq post;ne? "$(ob2)" "More->" doReq
+macro   getTiedowns ob1 $1;Tiedowns action:MoreTiedowns post
+macro   getReqTiedowns ob1 $1;eq? "$(ob1)" "More->" Tiedowns2 action:getReq post;ne? "$(ob1)" "More->" doReq
+/* Benches */
+macro   mbBenches2 eq? "$(id)" "More->" Benches2 action:getAct post;ne? "$(id)" "More->" mygetAct
+macro   mbBenches id $1;req info;eq? "$(id)" "Update" doReq post;ne? "$(id)" "Update" mbBenches2 post
+macro   MoreBenches ob2 $1;eq? "$(ob2)" "More->" Benches2 action:getFReq post;ne? "$(ob2)" "More->" doReq
+macro   getBenches ob1 $1;Benches action:MoreBenches post
+macro   getReqBenches ob1 $1;eq? "$(ob1)" "More->" Benches2 action:getReq post;ne? "$(ob1)" "More->" doReq
+/* Trucks */
+macro   mbTrk2 eq? "$(id)" "More->" Trucks2 action:getAct post;ne? "$(id)" "More->" getAct
+macro   mbTrk id $1;req info;eq? "$(id)" "Exit" Trucks unpost;ne? "$(id)" "Exit" mbTrk2
+macro   MoreTrk ob2 $1;eq? "$(ob2)" "More->" Trucks2 action:getFReq post;ne? "$(ob2)" "More->" doReq
+macro   getTrk ob1 $1;Trucks action:MoreTrk post
+macro   getReqTrk ob1 $1;eq? "$(ob1)" "More->" Trucks2 action:getReq post;ne? "$(ob1)" "More->" doReq
+macro   chngReg ob1 $1;doReq
+
+macro	mapTA.w0	
+macro	mapTA.hp	
+in	GPS-LOC2	0x0af	llllll GPS-LOC $1 $2 $3 $4 0 0;gpsX $2;gpsY $3;gpsZ $4;GEO-INFO $4 $5 0;WinMgr after:1:updateGps0
+macro	updateGps0	WinMgr after:1:updateGps1;GPS-LOC 0 $(gpsX) $(gpsY) $(gpsZ) 0 0 
+macro	updateGps1	WinMgr after:1:updateGps0;GPS-LOC 0 $(gpsX) $(gpsY) $(gpsZ) 0 0 
+macro	cancelGps	WinMgr cancel:updateGps0 cancel:updateGps1
+symbol	gpsX	0
+symbol	gpsY	0
+symbol	gpsZ	0
+/* Blending Screen */
+symbol  t1 0
+symbol  t2 0
+symbol  t3 0
+symbol  t4 0
+symbol  t5 0
+symbol  cmt 0
+symbol  pd 0
+symbol  t1cp 0
+symbol  t2cp 0
+symbol  t3cp 0
+symbol  t4cp 0
+symbol  t5cp 0
+symbol  t1label 'Blend Percent for Type 1'
+symbol  t2label 'Blend Percent for Type 2'
+symbol  t3label 'Blend Percent for Type 3'
+symbol  t4label 'Blend Percent for Type 4'
+symbol  t5label 'Blend Percent for Type 5'
+symbol  cmtlabel 'Control Mass Tons' 
+symbol  pdlabel 'Percent Deviation' 
+symbol  t1label2 Type\ 1
+symbol  t2label2 Type\ 2
+symbol  t3label2 Type\ 3
+symbol  t4label2 Type\ 4
+symbol  t5label2 Type\ 5
+symbol blabel Blend:
+symbol Tcpl Current\ Pct:
+symbol  Blendname None
+macro T1cplabel w2.v1 label:"$(Tcpl)$(t1cp)"
+macro T2cplabel w2.v2 label:"$(Tcpl)$(t2cp)"
+macro T3cplabel w2.v3 label:"$(Tcpl)$(t3cp)"
+macro T4cplabel w2.v4 label:"$(Tcpl)$(t4cp)"
+macro T5cplabel w2.v5 label:"$(Tcpl)$(t5cp)"
+macro BlendLabel w2.v0 label:"$(blabel)$(Blendname)"
+macro   getT1  Kp label:$(t1label2) action:'t1 \$(Kp.D label);shoT1' post
+macro   getT2  Kp label:$(t2label2) action:'t2 \$(Kp.D label);shoT2' post
+macro   getT3  Kp label:$(t3label2) action:'t3 \$(Kp.D label);shoT3' post
+macro   getT4  Kp label:$(t4label2) action:'t4 \$(Kp.D label);shoT4' post
+macro   getT5  Kp label:$(t5label2) action:'t5 \$(Kp.D label);shoT5' post
+macro   getcmt Kp label:$(cmtlabel) action:'cmt \$(Kp.D label);shocmt' post
+macro   getpd  Kp label:$(pdlabel) action:'pd \$(Kp.D label);shopd' post
+macro   shoT1  w2.Type1 label:"$(t1label)\n$(t1)"
+macro   shoT2  w2.Type2 label:"$(t2label)\n$(t2)"
+macro   shoT3  w2.Type3 label:"$(t3label)\n$(t3)"
+macro   shoT4  w2.Type4 label:"$(t4label)\n$(t4)"
+macro   shoT5  w2.Type5 label:"$(t5label)\n$(t5)"
+macro   shocmt w2.Cmt label:"$(cmtlabel)\n$(cmt)"
+macro   shopd  w2.Pd label:"$(pdlabel)\n$(pd)"
+macro   ClearAll nilT1;nilT2;nilT3;nilT4;nilT5;nilCmt;nilPd;nilt1cp;nilt2cp;nilt3cp;nilt4cp;nilt5cp;nilBlendname 
+macro shoAll T1cplabel;shoT1;T2cplabel;shoT2;T3cplabel;shoT3;T4cplabel;shoT4;T5cplabel;shoT5;BlendLabel;shocmt;shopd
+
+macro   nilT1  t1 0;w2.Type1 label:$(t1label)
+macro   nilT2  t2 0;w2.Type2 label:$(t2label)
+macro   nilT3  t3 0;w2.Type3 label:$(t3label)
+macro   nilT4  t4 0;w2.Type4 label:$(t4label)
+macro   nilT5  t5 0;w2.Type5 label:$(t5label)
+macro   nilt1cp t1cp 0;w2.v1 label:$(T1cplabel)
+macro   nilt2cp t2cp 0;w2.v2 label:$(T2cplabel)
+macro   nilt3cp t3cp 0;w2.v3 label:$(T3cplabel)
+macro   nilt4cp t4cp 0;w2.v4 label:$(T4cplabel)
+macro   nilt5cp t5cp 0;w2.v5 label:$(T5cplabel)
+macro   nilCmt cmt 0;w2.Cmt label:$(cmtlabel)
+macro   nilPd  pd 0;w2.Pd label:$(pdlabel)
+macro   nilBlendname  Blendname None;w2.v0 label:$(BlendLabel)
+macro	mbBlends2 eq? "$(id)" "More->" Blends2 action:getAct post;ne? "$(id)" "More->" doReq
+macro	mbBlends id $1;req BlendMenu;eq? "$(id)" "Update" doReq post;ne? "$(id)" "Update" mbBlends2 post
+macro	MoreBlends ob2 $1;eq? "$(ob2)" "More->" Blends2 action:getFReq post;ne? "$(ob2)" "More->" doReq
+macro	getBlends ob1 $1;Blends action:MoreBlends post
+macro	getReqBlends ob1 $1;eq? "$(ob1)" "More->" Blends2 action:getReq post;ne? "$(ob1)" "More->" doReq
+macro modBlend MODBLEND ["$(Blendname)" "$(t1)" "$(t2)" "$(t3)" "$(t4)" "$(t5)" "$(cmt)" "$(pd)"]
+/* HpGps Screen   */
+#if #options(HpExcav)
+macro   gpson           tmpwin hp;WinMgr window:hp;hp.GPS map:y;ht geom:y:70:h:354
+pixels:300 map:y refresh;hp.mb hmin:60 map:y
+macro   gpsoff          tmpwin w0;WinMgr window:w0;ht map:n;hp.mb map:n
+macro   Turnoffht       ht map:n
+macro   Init            Macro KSTATE:0;WinMgr focus:w0.Icon;hp.Icon map:n;hp.status map:n;hp.incl map:n;hp.Text map:n;hp.GPS geom:x:0:w:560;hp.matl label:"" geom:x:0:y:408:w:180:h:72;hp.gpsmatl geom:x:180:y:408:w:180:h:72;hp.loads geom:x:360:y:408:w:200:h:72;hp.GPS digOutput:0x0
+#endif

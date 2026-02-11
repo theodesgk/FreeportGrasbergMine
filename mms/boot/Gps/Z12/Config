@@ -1,0 +1,3 @@
+#!/psw/cpp
+#define GPSNAME GpsZ12
+#include <Main/Config>

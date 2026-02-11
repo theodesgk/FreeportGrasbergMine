@@ -1,0 +1,12 @@
+%!/psw/cpp
+set,/par/base/mode/,off
+set,/par/rover/mode/,off
+set,dev/ser/a/imode,rtcm
+set,dev/ser/a/rate,38400
+set,nmea/ver,v2.2
+set,/par/pos/mode/cur,pd
+set,/par/pos/pd/mode,extrap
+em,/dev/ser/b,/msg/nmea/GGA:1.0
+em,/dev/ser/b,/msg/nmea/GST:1.0
+em,/dev/ser/b,/msg/nmea/VTG:1.0
+em,/dev/ser/b,/msg/nmea/ZDA:1.0

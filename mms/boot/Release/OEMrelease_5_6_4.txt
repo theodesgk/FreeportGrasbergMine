@@ -1,0 +1,174 @@
+--------------------------------------------------------------------
+Release - 05/26/2016
+--------------------------------------------------------------------
+TFS:419393 Adding new model 993K for the Vims3G interface
+
+Vims3G Driver: Version 2.13.1
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+
+Vims3G popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+	
+--------------------------------------------------------------------
+Release - 05/27/2016
+--------------------------------------------------------------------
+TFS:414515 Correcting the MEMSRV Extended message processing to
+correctly process the data from the device
+
+MEMSRV Driver: v2.2.1
+	/mms/src/Interfaces/Michelin/MEMSRVConfig.H
+	/mms/src/Interfaces/Michelin/MEMSRVDriver.C
+	/mms/src/Interfaces/Michelin/MEMSRVDriver.H
+	/mms/src/Interfaces/Michelin/MEMSRVMsg.C
+	/mms/src/Interfaces/Michelin/MEMSRVMsg.H
+
+--------------------------------------------------------------------
+Release - 06/10/2016
+--------------------------------------------------------------------
+TFS:414517 Removing non-ASCII characters from the CenseJ1939 event
+popfiles.
+
+CenseJ1939 popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939evt.txt
+
+--------------------------------------------------------------------
+Release - 06/30/2016
+--------------------------------------------------------------------
+TFS:425531 Updating the KomtraxPlus popfiles to add the 22 new
+events and adding the popfiles for the KomtraxPlusJ1939 interface
+
+KomtraxPlus popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusevt.txt
+
+KomtraxPlusJ1939 popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusj1939par.txt
+
+
+--------------------------------------------------------------------
+Release - 07/15/2016
+--------------------------------------------------------------------
+TFS:422740 Adding model 12075 to ECS, as well as fixing event names and the
+parameter ids of the 12058 model.
+ECS popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/ecsevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/ecspar.txt
+
+--------------------------------------------------------------------
+Release - 08/04/2016
+--------------------------------------------------------------------
+TFS:427974 Adding ability to get Engine Hours from SA 0xF1 if it is
+not sent by 0x00.
+
+CenseJ1939CM2330 Driver: v2.0.4
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.H
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+
+--------------------------------------------------------------------
+Release - 08/04/2016
+--------------------------------------------------------------------
+TFS:427679 Creating new interface CumminsRMD metadata.
+CumminsRMD popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsrmdevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsrmdpar.txt
+
+--------------------------------------------------------------------
+Release - 08/08/2016
+--------------------------------------------------------------------
+TFS:429699 Creating new interface PLMJ1939 metadata.
+PLMJ1939 popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/plmj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/plmj1939par.txt
+
+--------------------------------------------------------------------
+Release - 08/08/2016
+--------------------------------------------------------------------
+TFS:432389 Fixing PLMJ1939 event ids for alarm faults.
+PLMJ1939 popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/plmj1939evt.txt
+
+--------------------------------------------------------------------
+Release - 08/17/2016
+--------------------------------------------------------------------
+TFS:432723 Trimming down CumminsRMD event names to 100 characters.
+CumminsRMD popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsrmdevt.txt
+
+--------------------------------------------------------------------
+Release - 08/25/2016
+--------------------------------------------------------------------
+TFS:435155 Adding support for Engine Serial Number to CumminsRMD.
+CumminsRMD popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsrmdevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsrmdpar.txt
+
+--------------------------------------------------------------------
+Release - 08/29/2016
+--------------------------------------------------------------------
+TFS:419399 Adding the FlandersShovel interface
+
+FlandersShovel popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/flandersshovelevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/flandersshovelpar.txt
+
+FlandersShovel boot code:
+	/mms/boot/MineCare/FlandersShovel/App.h
+	/mms/boot/MineCare/FlandersShovel/Config.h
+	/mms/boot/MineCare/FlandersShovel/.links
+	/mms/boot/MineCare/FlandersShovel/links.cmd
+	/mms/boot/MineCare/FlandersShovel/Main.cfg
+	/mms/boot/MineCare/FlandersShovel/moddev.cfg
+
+FlandersShovel Driver: v2.0.0
+	/mms/src/Interfaces/Modbus/FlandersShovelConfig.C
+	/mms/src/Interfaces/Modbus/FlandersShovelConfig.H
+	/mms/src/Interfaces/Modbus/FlandersShovelDriver.C
+	/mms/src/Interfaces/Modbus/FlandersShovelDriver.H
+	/mms/src/Interfaces/Modbus/FlandersShovelDriver.lib
+	/mms/src/Interfaces/Modbus/Makefile
+
+	/mms/src/Interfaces/MineCare/MineCare.H
+
+--------------------------------------------------------------------
+Release - 09/19/2016
+--------------------------------------------------------------------
+TFS:435226 Adding newer version of Ecs popfiles
+
+Ecs popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/ecspar.txt
+
+--------------------------------------------------------------------
+Release - 09/23/2016
+--------------------------------------------------------------------
+TFS:419399 Adding the FlandersShovel interface to interface list
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	
+--------------------------------------------------------------------
+Release - 09/28/2016
+--------------------------------------------------------------------
+TFS:440413 Updating PLM interface to support new messages form a
+newer device called PLM4
+
+Plm Driver: v2.3.0
+	/mms/src/Interfaces/Plm/PlmConfig.C
+	/mms/src/Interfaces/Plm/PlmConfig.H
+	/mms/src/Interfaces/Plm/PlmDevice.C
+	/mms/src/Interfaces/Plm/PlmDevice.H
+	/mms/src/Interfaces/Plm/PlmDriver.C
+	/mms/src/Interfaces/Plm/PlmDriver.H
+
+Plm popfiles:
+	/mms/dsp/form/common/minecare/pop/popdata/plmpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/plmevt.txt
+
+--------------------------------------------------------------------
+Release - 10/17/2016
+--------------------------------------------------------------------
+TFS:419399 Fixing typo in intf_list file
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	

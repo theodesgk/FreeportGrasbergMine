@@ -1,0 +1,89 @@
+%!/psw/cpp
+
+/****************************************/
+/* SET ALL PARAMETERS TO DEFAULT VALUES */
+/****************************************/
+%%init,/setup/
+
+/* The following lines are intentionally left blank */
+/* Some errors might be returned after blank lines  */
+%%
+%%
+%%
+%%
+%%
+%%set,/par/lock/elm,5
+%%set,/par/out/elm/cur/term,8
+%%set,/par/pos/elm,8
+#define CAT3(A,B,C)     A/**/B/**/C
+
+#ifdef ARG1
+#define ANTENNA_FILE	</**/ARG1/**/>
+#   include ANTENNA_FILE
+#   define GPSLAT(D,M,S,MS,NS) NS/**/D/**/d/**/M/**/m/**/S.MS/**/s
+#   define GPSLON(D,M,S,MS,EW) EW/**/D/**/d/**/M/**/m/**/S.MS/**/s
+#   define GPSELEV(M,CM) M.CM
+#   if #mode(rtcm3)
+#       ifndef PHASECENLAT
+#           define PHASECENLAT BASELAT
+#       endif
+#       ifndef PHASECENLON
+#           define PHASECENLON BASELON
+#       endif
+        %%set,/par/ref/pos//geo,{W84,BASELAT,BASELON,BASEELEV}
+        %%set,/par/ref/arp//geo,{W84,PHASECENLAT,PHASECENLON,PHASECENELEV}
+#       if defined(ANTMODEL)
+            %%set,/par/ref/ant/id,ANTMODEL    NONE
+#       endif
+#   else
+        %%set,/par/ref/pos//geo,{W84,BASELAT,BASELON,BASEELEV}
+#   endif
+#endif
+#if #gpsopt(10Hz) || #gpsopt(10Hz_log)
+%%set,/par/raw/msint,100
+%%set,/par/pos/msint,100
+#else
+%%set,/par/raw/msint,1000
+%%set,/par/pos/msint,1000
+#endif
+#if #mode(rtcm3)
+    %%em,/dev/ser/a,rtcm3/1004:{1.00,0.00,0,0x0}
+    %%em,/dev/ser/a,rtcm3/1012:{1.00,0.00,0,0x0}
+    %%em,/dev/ser/a,rtcm3/1006:{10.00,0.00,0,0x0}
+    %%em,/dev/ser/a,rtcm3/1008:{10.00,0.00,0,0x0}
+#else
+    %%em,/dev/ser/a,rtcm{/18:1,/19:1,/1:1,/3:30,/22:30}
+#endif
+%%set,nmea/ver,v2.3
+%%em,/dev/ser/b,/msg/nmea/GGA:1.0
+%%em,/dev/ser/b,/msg/nmea/GST:1.0
+%%em,/dev/ser/b,/msg/nmea/VTG:1.0
+%%em,/dev/ser/b,/msg/nmea/ZDA:1.0
+%taz%em,/cur/term,/msg/jps/GS:10.0
+%taz%em,/cur/term,/msg/jps/NS:10.0
+
+/********************/
+/* Raw data logging */
+/********************/
+
+#if #gpsopt(log) || #gpsopt(10Hz_log)
+    %%set,/par/log/rot/mode,off
+    %%set,/par/log/rot/rmold,on
+    %%set,/par/log/rot/sc/period,3600
+    %%set,/par/log/rot/sc/phase,0
+    %%set,/par/log/rot/sc/count,0
+    %%set,/par/log/imp,{y,n}
+    %%set,/par/log/sc/period,1.0
+    %%set,/par/log/rot/mode,on
+    %%set,/par/dev/ser/a/dup,/cur/log
+
+/***	Disabled the following log settings according Topcon suggestion - 2011.04.06 */
+
+/***    %%set,/par/sess/mode,off					*/
+/***    %%set,/par/sess/active,n					*/
+/***    %%set,/par/sess/cmds/0,"print,/:on"				*/
+/***    %%set,/par/sess/job/0,{"0m30s",0,0,"/cur/log"}			*/
+/***    %%set,/par/sess/active,{y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n}	*/
+/***    %%set,/par/sess/mode,on						*/
+
+#endif

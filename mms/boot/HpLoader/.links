@@ -1,0 +1,7 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../HpCommon/Goic/Screen.cfg ./Screen.cfg
+ln -sf ../HpCommon/Hub/GpsRover.cfg ./GpsRover.cfg
+ln -sf ../HpCommon/Goic/Icon.h ./Icon.h

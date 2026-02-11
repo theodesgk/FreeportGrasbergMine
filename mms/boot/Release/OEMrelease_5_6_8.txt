@@ -1,0 +1,543 @@
+--------------------------------------------------------------------
+Release - 10/03/2017
+--------------------------------------------------------------------
+TFS:499021 Correcting the UnitRig Payload parameter persistence so
+it is possible to pool this parameter every 10 seconds on the M/L Hub
+
+Files:
+	/mms/src/Interfaces/UnitRig/UnitRigConfig.C
+	/mms/src/Interfaces/UnitRig/UnitRigDriver.C
+
+--------------------------------------------------------------------
+Release - 10/11/2017
+--------------------------------------------------------------------
+TFS:475295 and 498007 Updating some popfiles after corrections were
+performed on the databases
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/ddecevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/ddecpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/ecsevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/ecspar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vimspara.txt
+
+--------------------------------------------------------------------
+Release - 10/16/2017
+--------------------------------------------------------------------
+TFS:498598 Update CenseJ1939CM2330 pop files.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330par.txt
+
+--------------------------------------------------------------------
+Release - 11/16/2017
+--------------------------------------------------------------------
+TFS:492789 MEOS CenseJ1939CM2330 changes based on updates on .NET
+
+Files:
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.H
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.H
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939.lib
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.C
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.H
+
+
+--------------------------------------------------------------------
+Release - 12/12/2017
+--------------------------------------------------------------------
+TFS:512701 Update Vims3G 14M_16M_24M offset for temperature parameters.
+TFS:504651 Updates to the KomtraxPlus parameter and event list
+
+Files:
+        /mms/src/Interfaces/Vims3G/Vims3GConfig.C
+        /mms/src/Interfaces/Vims3G/Vims3GDriver.C
+		/mms/dsp/form/common/minecare/pop/popdata/komtraxplusevt.txt
+		/mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+
+--------------------------------------------------------------------
+Release - 12/15/2017
+--------------------------------------------------------------------
+TFS:506785 Update the InvertexCAN .Net interface event list, new model
+and unit of measurement for several parameters
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanpar.txt
+
+
+--------------------------------------------------------------------
+Release - 01/11/2018
+--------------------------------------------------------------------
+TFS:423799 Update K+ with new models: PC3000E, PC4000E, PC5500E, PC8000E and PC7000.
+TFS:516044 Added a little code to block 0 values sent from SA=0 for "Oil filter diff pressure"s.
+
+Files:
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD375Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD475Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusEvents.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC20008Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000EConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000EConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC55006DConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC5500EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC5500EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC5500EConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC7000Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC7000Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC7000Config.lib
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC80006Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC8000EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC8000EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC8000EConfig.lib
+	/mms/src/Interfaces/KomtraxPlus/Makefile
+	/mms/boot/MineCare/KomtraxPlus/App.h
+	/mms/boot/MineCare/KomtraxPlus/Main.cfg
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.H
+
+--------------------------------------------------------------------
+Release - 01/18/2018
+--------------------------------------------------------------------
+TFS:506785 Update to the InvertexCAN popfiles to support the new model
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanpar.txt
+
+--------------------------------------------------------------------
+Release - 01/24/2018
+--------------------------------------------------------------------
+TFS:516889 Update to the Vims3G popfiles to support new parameters on the
+770G_775G model.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+
+--------------------------------------------------------------------
+Release - 01/26/2018
+--------------------------------------------------------------------
+TFS:468032 Update to the InvertexCAN interface so it supports the
+new model, which is called "GE554a" on MEOS
+
+Files:
+	/mms/boot/MineCare/InvertexCAN/invertexcan.cfg
+	/mms/boot/MineCare/InvertexCAN/App.h
+	/mms/boot/MineCare/InvertexCAN/Config.h
+	/mms/boot/MineCare/InvertexCAN/Main.cfg
+	/mms/src/Interfaces/InvertexCAN/InvertexCANLegacyEventIds.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANLegacyEventIds.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANLegacyEventIds.lib
+	/mms/src/Interfaces/InvertexCAN/InvertexCANge554aEventIds.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANge554aEventIds.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANge554aEventIds.lib
+	/mms/src/Interfaces/InvertexCAN/InvertexCANConfig.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANConfig.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDevice.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDevice.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDriver.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDriver.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDriver.lib
+	/mms/src/Interfaces/InvertexCAN/InvertexCANEventIds.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANEventIds.H
+	/mms/src/Interfaces/InvertexCAN/Makefile
+
+--------------------------------------------------------------------
+Release - 02/01/2018
+--------------------------------------------------------------------
+TFS:468032
+Empty smart cummins pop files to avoid ids confict with InvertexCAN
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/smartcumminsj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/smartcumminsj1939par.txt
+
+--------------------------------------------------------------------
+Release - 02/14/2018
+--------------------------------------------------------------------
+TFS:520737 Add update to LiebExcav pop files, adding changes to 
+existing models, also adding new model R9800.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavpar.txt
+
+--------------------------------------------------------------------
+Release - 02/14/2018
+--------------------------------------------------------------------
+TFS:518605
+Update to the Vims3G interface to support the database v2.15.
+Updates the 770G_775G model parameter list
+
+Files:
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+	/mms/src/Interfaces/Vims3G/Vims3GSpecialOemIds.C
+
+--------------------------------------------------------------------
+Release - 02/14/2018
+--------------------------------------------------------------------
+TFS:521689
+Update to the transcale parameter popfile
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/transcalepar.txt
+
+--------------------------------------------------------------------
+Release - 03/16/2018
+--------------------------------------------------------------------
+TFS:523258 Adding the Kilometers Traveled on the Invertex interface
+TFS:520737 and 520736 Updating the parameter and event list on the
+LiebExcav interface to match the 2.2 database
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/invertexevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/invertexpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavpar.txt
+
+--------------------------------------------------------------------
+Release - 03/19/2018
+--------------------------------------------------------------------
+TFS:520736 Adding new models to the LiebExcav interface:
+R9XXX_BBT06_v37 and R996_BBT03_v54
+
+Files:
+	/mms/boot/MineCare/LiebExcav/Config.h
+	/mms/boot/MineCare/LiebExcav/Main.cfg
+	/mms/src/Interfaces/LiebExcav/LiebExcavConfig.C
+	/mms/src/Interfaces/LiebExcav/LiebExcavConfig.H
+	/mms/src/Interfaces/LiebExcav/LiebExcavDevice.C
+	/mms/src/Interfaces/LiebExcav/LiebExcavDriver.C
+	/mms/src/Interfaces/LiebExcav/LiebExcavDriver.H
+
+--------------------------------------------------------------------
+Release - 03/19/2018
+--------------------------------------------------------------------
+TFS:527231 Adding new parameters to the VIMS popfiles to support
+the new 797B_Retro model
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/vimsevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vimspara.txt
+
+--------------------------------------------------------------------
+Release - 04/24/2018
+--------------------------------------------------------------------
+TFS:527234 Adding the popfiles and updating the forms for the
+PressureProJ1939 interface
+
+Also regenerating the CumminsRMD interface popfiles
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/pressureproj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/pressureproj1939par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsrmdevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsrmdpar.txt
+
+--------------------------------------------------------------------
+Release - 05/07/2018
+--------------------------------------------------------------------
+TFS:531480 Adding new versions of the Hitachi6 popfiles to support
+the new parameters and events
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/hitachi6evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/hitachi6par.txt
+
+--------------------------------------------------------------------
+Release - 05/15/2018
+--------------------------------------------------------------------
+TFS:528953 Fixing an event repetition issue on the CenseJ1939CM2330
+driver; adding a new parameter on the CenseJ1939CM2330 driver;
+correcting the scale of the Left Bank Rear Compressor Inlet
+Temperature parameter;
+Fixing an error on the SAEJ1939Driver that allowed 2 bytes
+parameters with invalid values to be updated
+
+Files:
+	/mms/src/Interfaces/GenericDriver/EventSender.C
+	/mms/src/Interfaces/GenericDriver/EventSender.H
+	/mms/src/Interfaces/GenericDriver/GenericDriver.lib
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.H
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.H
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330par.txt
+
+--------------------------------------------------------------------
+Release - 06/14/2018
+--------------------------------------------------------------------
+TFS:532299 Adding new parameters and events on the Adec interface
+after new models were created
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/adecpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/adecevt.txt
+
+--------------------------------------------------------------------
+Release - 06/18/2018
+--------------------------------------------------------------------
+TFS:527241 Add CumminsAll interface and add PressureProJ1939 and
+IOlogik to mc_enum form
+
+Files:
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt
+
+--------------------------------------------------------------------
+Release - 06/18/2018
+--------------------------------------------------------------------
+TFS:536210
+Updated dispatch data files after tested with a real PressurePro device.
+TFS:531480
+Adding new popfiles for the Hitachi6 interface
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/pressureproj1939par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/pressureproj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/hitachi6par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/hitachi6evt.txt
+
+--------------------------------------------------------------------
+Release - 07/25/2018
+--------------------------------------------------------------------
+TFS:540497 Updating the Hitachi6 MEOS interface to support new parameters
+and events, so it follows the latest database.
+
+TFS:536327 D6 team [6.6.4] Mismatch in MC action enums in FORMs vs dbo.Enum
+fix
+
+Files:
+	/mms/src/Interfaces/Hitachi6/Hitachi6Config.C
+	/mms/src/Interfaces/Hitachi6/Hitachi6Config.H
+	/mms/src/Interfaces/Hitachi6/Hitachi6Driver.C
+	/mms/src/Interfaces/Hitachi6/Hitachi6Driver.H
+	/mms/boot/MineCare/Hitachi6/hitachi6.cfg
+	/mms/dsp/form/common/minecare/pop/sql_intf_script.frm
+
+--------------------------------------------------------------------
+Release - 08/15/2018
+--------------------------------------------------------------------
+TFS:544811 Correcting the unit of measurement for the "Time Trip
+Counter" parameter on the ContronicsJ1939 interface
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/contronicsj1939par.txt
+
+--------------------------------------------------------------------
+Release - 09/10/2018
+--------------------------------------------------------------------
+TFS:543018 and TFS:541783 Adding popfiles and metadata files for the
+new PandHDrill and BucErie drill drivers.
+
+Files:
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	/mms/dsp/form/common/minecare/pop/popdata/bucerieevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/buceriepar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/pop/popdata/pandhdrillevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/pandhdrillpar.txt
+
+--------------------------------------------------------------------
+Release - 09/24/2018
+--------------------------------------------------------------------
+TFS:542263 2018[OEM][KomtraxPlus][.NET] update repeat events
+TFS:552322 Add the parameters that are missing on KomtraxPlus .Net interface
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+
+--------------------------------------------------------------------
+Release - 10/08/2018
+--------------------------------------------------------------------
+TFS:549523 Add some models into CumminsAll. Validate that the Event Timeout feature on generic driver can solve the event repetition issue on some J1939 interfaces
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallevt.txt
+
+--------------------------------------------------------------------
+Release - 10/15/2018
+--------------------------------------------------------------------
+TFS:554736 Adding new popfiles after the update of VistJ1939-Generic
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/vistj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vistj1939par.txt
+
+--------------------------------------------------------------------
+Release - 10/18/2018
+--------------------------------------------------------------------
+TFS:558967 Add some parameters in CumminsAll, models: QSK60 and QSK78
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallevt.txt
+
+--------------------------------------------------------------------
+Release - 10/26/2018
+--------------------------------------------------------------------
+TFS:554721 Adding I/M Data parameters and events for the KomtraxPlus
+860E model. Adding support for event timeout on the KomtraxPlus
+interface
+TFS:556088 Updating the VistJ1939 interface to support the latest
+parameter and events
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/vistj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vistj1939par.txt
+	/mms/src/Interfaces/GenericDriver/GenericDriver.C
+	/mms/src/Interfaces/GenericDriver/GenericDriver.H
+	/mms/src/Interfaces/GenericDriver/GenericDriver.lib
+	/mms/src/Interfaces/Hitachi6/Hitachi6Driver.C
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939.lib
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.C
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.H
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Config.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Config.H
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Driver.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Driver.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusDriver.H 
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus15007Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus15007Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus4656057Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus4656057Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus730EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus730EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus7857Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus7857Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus800900Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus800900Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus830EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus830EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus860EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus860EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus930EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus930EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus960EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlus960EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD375Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD375Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD475Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusD475Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC12508Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC12508Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC20008Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC20008Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC3000EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC4000EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC55006DConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC55006DConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC5500EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC5500EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC7000Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC7000Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC80006Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC80006Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC8000EConfig.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusPC8000EConfig.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA1200Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA6006Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWA6006Config.H
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWD6006Config.C
+	/mms/src/Interfaces/KomtraxPlus/KomtraxPlusWD6006Config.H
+	
+--------------------------------------------------------------------
+Release - 11/01/2018
+--------------------------------------------------------------------
+TFS:560292 Small changes on the CenseJ1939CM2330 interface after renaming the Exhaust Port Temperature parameters
+
+Files:
+	/mms/boot/MineCare/CenseJ1939CM2330/censecm2330.cfg
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330par.txt
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.H
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.H
+
+--------------------------------------------------------------------
+Release - 11/29/2018
+--------------------------------------------------------------------
+TFS:562368 Release for new popfiles of the CenseJ1939 interface
+that removes the QSK45, QSK60, QSK78 and Eng2 versions of those.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939evt.txt
+
+--------------------------------------------------------------------
+Release - 12/11/2018
+--------------------------------------------------------------------
+TFS:562368 Update to the CenseJ1939 interface to remove the QSK45
+QSK60, QSK78 and Eng2 versions of those.
+
+Files:
+	/mms/boot/MineCare/CenseJ1939/CenseJ1939MsgInfo.csv
+	/mms/boot/MineCare/CenseJ1939/Config.h
+	/mms/boot/MineCare/CenseJ1939/cense.cfg
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Config.C
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Config.H
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Driver.C
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Driver.H
+	/mms/src/Interfaces/GenericDriver/DriverConfigurator.C
+	/mms/src/Interfaces/GenericDriver/DriverConfigurator.H
+	/mms/src/Interfaces/GenericDriver/GenericDriver.lib
+	/mms/src/Interfaces/OemDriver/CsvLoader.C
+	/mms/src/Interfaces/OemDriver/CsvLoader.H
+	/mms/src/Interfaces/OemDriver/Makefile
+	/mms/src/Interfaces/OemDriver/MsgInfoEntry.C
+	/mms/src/Interfaces/OemDriver/MsgInfoEntry.H
+	/mms/src/Interfaces/OemDriver/OemDriver.C
+	/mms/src/Interfaces/OemDriver/OemDriver.H
+	/mms/src/Interfaces/OemDriver/OemDriver.lib
+	/mms/src/Interfaces/SAEJ1939/.links
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939.lib
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.C
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.H
+
+--------------------------------------------------------------------
+Release - 01/10/2019
+--------------------------------------------------------------------
+TFS:570015 Update to the PLM interface to fix the behavior of the
+threshold events being sent repeatedly at a high rate in some
+situations. Related to the Zendesk 139171
+TFS:570468 Adding new version of the PLMJ1939 popfiles to add
+support for the new Histograms parameters
+
+Files:
+	/mms/src/Interfaces/Plm/PlmConfig.C
+	/mms/src/Interfaces/Plm/PlmConfig.H
+	/mms/src/Interfaces/Plm/PlmDevice.C
+	/mms/src/Interfaces/Plm/PlmDevice.H
+	/mms/src/Interfaces/Plm/PlmDriver.C
+	/mms/src/Interfaces/Plm/PlmDriver.H
+	/mms/dsp/form/common/minecare/pop/popdata/plmj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/plmj1939par.txt

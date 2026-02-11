@@ -1,0 +1,44 @@
+--------------------------------------------------------------------
+Release - 11/07/2014
+--------------------------------------------------------------------
+TFS:352674 Adding the Models to the VHMS interface. The new models
+are: WA1200341000100200, WA1200341000200300,
+WA1200641010100100, WA1200641010200200 and WA1200641010300310.
+
+Also adding the "Total Vehicle Hours" parameter to the 730E, 830E
+and 960E imodels.
+
+Files list:
+VHMSDriver: new version 3.9.0
+	/mms/src/Interfaces/VHMS/Makefile
+	/mms/src/Interfaces/VHMS/VHMSWA1200_3_41000100200Config.C
+	/mms/src/Interfaces/VHMS/VHMSWA1200_3_41000100200Config.H
+	/mms/src/Interfaces/VHMS/VHMSWA1200_3_41000100200Config.lib
+	/mms/src/Interfaces/VHMS/VHMSWA1200_3_41000200300Config.C
+	/mms/src/Interfaces/VHMS/VHMSWA1200_3_41000200300Config.H
+	/mms/src/Interfaces/VHMS/VHMSWA1200_3_41000200300Config.lib
+	/mms/src/Interfaces/VHMS/VHMSWA1200_6_41010100100Config.C
+	/mms/src/Interfaces/VHMS/VHMSWA1200_6_41010100100Config.H
+	/mms/src/Interfaces/VHMS/VHMSWA1200_6_41010100100Config.lib
+	/mms/src/Interfaces/VHMS/VHMSWA1200_6_41010200200Config.C
+	/mms/src/Interfaces/VHMS/VHMSWA1200_6_41010200200Config.H
+	/mms/src/Interfaces/VHMS/VHMSWA1200_6_41010200200Config.lib
+	/mms/src/Interfaces/VHMS/VHMSWA1200_6_41010300310Config.C
+	/mms/src/Interfaces/VHMS/VHMSWA1200_6_41010300310Config.H
+	/mms/src/Interfaces/VHMS/VHMSWA1200_6_41010300310Config.lib
+	/mms/src/Interfaces/VHMS/VHMSConfig.C
+	/mms/src/Interfaces/VHMS/VHMSDriver.C
+	/mms/src/Interfaces/VHMS/VHMSConfig.H
+	/mms/src/Interfaces/VHMS/VHMSDriver.H
+	/mms/src/Interfaces/VHMS/VHMSEvents.H
+	/mms/src/Interfaces/VHMS/VHMS830EConfig.C
+	/mms/src/Interfaces/VHMS/VHMS730EConfig.C
+	/mms/src/Interfaces/VHMS/VHMS960EConfig.C
+
+PopFiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/vhmsevt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/vhmspar.txt
+
+Boot scripts:
+	/mms/boot/MineCare/VHMS/App.h
+	/mms/boot/MineCare/VHMS/Main.cfg

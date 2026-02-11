@@ -1,0 +1,159 @@
+--------------------------------------------------------------------
+Release - 01/25/2014
+--------------------------------------------------------------------
+TFS: 257131 - Flanders.NET Oem Driver
+
+Files list:
+dsp/form/common/minecare/mc_enums.frm
+dsp/form/common/minecare/pop/popdata/intf_list.txt
+
+
+--------------------------------------------------------------------
+Release - 02/05/2014
+--------------------------------------------------------------------
+TFS:256244 - Kal-Tire.Net Oem Driver
+TFS:250456 - CENSEJ1939 update .NET & meos
+TFS:248024 - Vims3G update 795FAC,854K .net and meos
+
+Files list:
+dsp/form/common/minecare/mc_enums.frm
+dsp/form/common/minecare/pop/popdata/intf_list.txt
+dsp/form/common/minecare/pop/popdata/kaltireevt.txt
+dsp/form/common/minecare/pop/popdata/kaltirepar.txt
+dsp/form/common/minecare/pop/popdata/censej1939evt.txt
+dsp/form/common/minecare/pop/popdata/censej1939par.txt
+dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+
+
+--------------------------------------------------------------------
+Release - 02/13/2014
+--------------------------------------------------------------------
+TFS:259332 - The parameters of CenseJ1939 MEOS doesn't work on Dispatch
+TFS:259341 - Update CenseJ1939 MEOS Parameters and Event
+Zendesk:7162 - RCS real time data versus profiles
+
+Files list:
+CenseJ1939Driver
+	+src/Interfaces/CenseJ1939/CenseJ1939Config.C
+	+src/Interfaces/CenseJ1939/CenseJ1939Config.H
+GenericDrill-Atlascopco
+	+src/Interfaces/GenericDrill/GenericDrill.
+	+src/Interfaces/GenericDrill/GenericDrill.H
+	+src/Interfaces/GenericDrill/GenericDrillMsg.C
+	+src/Interfaces/GenericDrill/GenericDrillMsg.H
+
+
+--------------------------------------------------------------------
+Release - 02/18/2014
+--------------------------------------------------------------------
+TFS:258532 - POSEIDON .NET   REV 3.0
+TFS:256136 - Contronics .NET and MEOS - Added 4 new parameters
+TFS:259106 - Update VIST.Net Metadata (database, xml, c#, csv, pop)
+Zendesk:19846 - Install error - new truck THD2123
+
+Files list:
+Vims3GDriver	
+	+src/Interfaces/Vims3G/Vims3GDriver.C
+	+src/Interfaces/Vims3G/Vims3GConfig.C
+	+src/Interfaces/Vims3G/Vims3GBaseConfig.H
+dsp/form/common/minecare/pop/popdata/contropar.txt
+J1587
+	+src/Interfaces/J1587/ContronicsConfig.C
+	+src/Interfaces/J1587/ContronicsConfig.H
+	+src/Interfaces/J1587/ContronicsDriver.C
+dsp/form/common/minecare/pop/popdata/vistevt.txt
+dsp/form/common/minecare/mc_enums.frm
+dsp/form/common/minecare/pop/popdata/intf_list.txt
+dsp/form/common/minecare/pop/popdata/poseidonevt.txt
+dsp/form/common/minecare/pop/popdata/poseidonpar.txt
+
+--------------------------------------------------------------------
+Release - 02/23/2014
+--------------------------------------------------------------------
+Zendesk:16050 - VHMS driver not sending all events from the OEM Interface
+TFS:262920 - The parameter Engine Hours is not working on VIMS3G MEOS
+Zendesk:7162  - RCS real time data versus profiles
+
+Files list:
+boot/MineCare/AtlasCopcoRCS/rcs.cfg
+Vims3GDriver
+	+src/Interfaces/Vims3G/Vims3GDriver.C
+Atlascopco
+	+src/Interfaces/AtlasCopcoRCS/AtlasCopcoRCSConfig.C
+
+--------------------------------------------------------------------
+Release - 03/13/2014
+--------------------------------------------------------------------
+Zendesk:16050 - VHMS driver not sending all events from the OEM Interface
+Zendesk:26107 - XEMC Payload values coming through incorrectly
+Files list:
+dsp/form/common/minecare/pop/popdata/vhmspar.txt
+dsp/form/common/minecare/pop/popdata/vhmsevt.txt
+dsp/form/common/minecare/pop/popdata/xmecpar.txt
+dsp/form/common/minecare/pop/popdata/xmecevt.txt
+
+
+--------------------------------------------------------------------
+Release - 03/31/2014
+--------------------------------------------------------------------
+CenseJ1939 .Net and MEOS interface
+
+Files list:
+mms/dsp/form/common/minecare/pop/popdata/censej1939evt.txt
+mms/dsp/form/common/minecare/pop/popdata/censej1939par.txt
+
+CenseJ1939Driver
+	+src/Interfaces/CenseJ1939/CenseJ1939Config.C
+	+src/Interfaces/CenseJ1939/CenseJ1939Config.H
+	+src/Interfaces/CenseJ1939/CenseJ1939Driver.C
+	+src/Interfaces/CenseJ1939/CenseJ1939Driver.H
+
+
+
+--------------------------------------------------------------------
+Release - 04/07/2014
+--------------------------------------------------------------------
+Zendesk:21171 TFS: 255085 CumminsCore2 MEOS and .Net Interface
+
+Files list:
+CumminsCore2Driver
+	+src/Interfaces/CumminsCore2/CumminsCore2Config.C
+	+src/Interfaces/CumminsCore2/CumminsCore2Config.H
+	+src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+dsp/form/common/minecare/pop/popdata/cumminscore2par.txt
+
+
+--------------------------------------------------------------------
+Release - 04/24/2014
+--------------------------------------------------------------------
+Zendesks: 26678,17579,24142 and 15038 
+		  TFS:324361 New parameters and events popfile for CenseJ1939 
+		  due the update in CenseJ1939 drivers to correct. 
+
+Files list:
+mms/dsp/form/common/minecare/pop/popdata/censej1939evt.txt
+mms/dsp/form/common/minecare/pop/popdata/censej1939par.txt
+
+CenseJ1939Driver
+	+src/Interfaces/CenseJ1939/CenseJ1939Config.C
+	+src/Interfaces/CenseJ1939/CenseJ1939Config.H
+	+src/Interfaces/CenseJ1939/CenseJ1939Driver.C
+	+src/Interfaces/CenseJ1939/CenseJ1939Driver.H
+	
+--------------------------------------------------------------------
+Release - 04/24/2014
+--------------------------------------------------------------------
+Zendesks: 27854. changing the Protocol from J1939 for J1990 and adding function to request data.
+
+Boot Code:
+	boot/MineCare/UnitRigJ1939/App.h
+	boot/MineCare/UnitRigJ1939/Main.cfg
+CenseJ1939Driver
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Config.H
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Device.C
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Device.H
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Driver.C
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Driver.H
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Driver.lib
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Msg.C
+	src/Interfaces/UnitRigJ1939/UnitRigJ1939Msg.H

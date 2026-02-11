@@ -1,0 +1,22 @@
+#!/psw/cpp
+#include <Main/CheckRev.h>
+#if #args(OK)
+	mknod	Ram0 ram RAM0_ADDR BOOT_MEM_SIZE
+	fill	Ram0
+	mkfs	Ram0
+	echo	Loading Test...
+	LD(Test,Ram0/Test)
+	echo	Loading Test219
+	LD(Test219,Ram0/Test219)
+	echo	Loading modems...
+	CP(Dsp/br3840.dem,Ram0/br3840.dem)
+        CP(Dsp/br3840.mod,Ram0/br3840.mod)
+	CP(Dsp/br9600.dem,Ram0/br9600.dem)  
+	CP(Dsp/br9600.mod,Ram0/br9600.mod) 
+#	ifdef UP
+	CP(Test.219/Test.cfg _UP_=UP,Ram0/Test.cfg)
+#	else
+	CP(Test.219/Test.cfg,Ram0/Test.cfg)
+#	endif
+	boot	Ram0/Test lib:ram0:boot etc:ram0:boot
+#endif

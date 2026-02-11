@@ -1,0 +1,24 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1995
+ *               All Rights Reserved
+ *  $RCSfile: App,v $
+ * $Revision: 1.1 $
+ *   $Author: dcitron $
+ *     $Date: 2012/07/08 07:50:23 $
+ *    $State: Exp $
+ *   Purpose: Load just the application specific partition.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#if #arch(i80196-12v)
+	echo Sorry, you must run All on 12-volt flash systems :-(
+#else
+#	include <Main/CheckRev.h>
+#	if #args(OK)
+#     include <Sys/Sys.h>
+#     include <Main.h>
+#		include <App.h>
+#	endif
+#endif

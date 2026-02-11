@@ -1,0 +1,37 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf GG24 ./Ashtech
+ln -sf ../../Main/All ./Dcf/All
+ln -sf ../Args.h ./Dcf/Args.h
+ln -sf ../GpsGround.cfg ./Dcf/GpsGround.cfg
+ln -sf ../GpsGs.cfg ./Dcf/GpsGs.cfg
+ln -sf ../Main.h ./Dcf/Main.h
+ln -sf ../Args.h ./G12/Args.h
+ln -sf ../GpsGs.cfg ./G12/GpsGs.cfg
+ln -sf ../Main.h ./G12/Main.h
+ln -sf ../../Main/All ./GG24/All
+ln -sf ../Args.h ./GG24/Args.h
+ln -sf ../GpsGround.cfg ./GG24/GpsGround.cfg
+ln -sf ../GpsGs.cfg ./GG24/GpsGs.cfg
+ln -sf ../Main.h ./GG24/Main.h
+ln -sf ../Args.h ./Gril/Args.h
+ln -sf ../GpsGs.cfg ./Gril/GpsGs.cfg
+ln -sf ../Main.h ./Gril/Main.h
+ln -sf ../Main/Main.h ./Main.h
+ln -sf ../../Main/All ./MicroZ/All
+ln -sf ../Args.h ./MicroZ/Args.h
+ln -sf ../GpsGround.cfg ./MicroZ/GpsGround.cfg
+ln -sf ../GpsGs.cfg ./MicroZ/GpsGs.cfg
+ln -sf ../Main.h ./MicroZ/Main.h
+ln -sf ../../Main/All ./Moto/All
+ln -sf ../Args.h ./Moto/Args.h
+ln -sf ../GpsGround.cfg ./Moto/GpsGround.cfg
+ln -sf ../GpsGs.cfg ./Moto/GpsGs.cfg
+ln -sf ../Main.h ./Moto/Main.h
+ln -sf ../../Main/All ./Topcon/All
+ln -sf ./Dcf ./Trimble
+ln -sf ../Args.h ./Topcon/Args.h
+ln -sf ../GpsGround.cfg ./Topcon/GpsGround.cfg
+ln -sf ../Main.h ./Topcon/Main.h

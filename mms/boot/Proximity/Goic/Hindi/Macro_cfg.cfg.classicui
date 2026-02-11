@@ -1,0 +1,71 @@
+%!/psw/cpp
+
+/************ INDIVIDUAL ALARM ACTIONS ***********************/
+/* the following messages can be used to display certain     */
+/* text whenever certain alarm conditions occur.             */
+/* the default naming convention is:                         */
+/*                                                           */
+/*     pxMsg<zone><type>                                     */
+/*                                                           */
+/* where <zone> is as defined in the Proximity configuration */
+/* (always, a higher number indicates a higher severity =    */
+/* closer to the equipment. and the <type> is one of the     */
+/* following:                                                */
+/*                                                           */
+/*     0 = safe, only ever for zone 0                        */
+/*     1 = moving away from us                               */
+/*     2 = staying in the same zone                          */
+/*     3 = new, would be unexpected if not in zone 1         */
+/*     4 = moving closer to us                               */
+/*     5 = reserved for hazards. hazards are always zone 3   */
+/*                                                           */
+/*************************************************************/
+
+/*
+ * severity 0 messages
+ * only one message, 0 = safe
+ */
+message	pxMsg00	$(pxName) ƙ
+
+/*
+ * severity 1 messages
+ * 1 = moving away, 2 = same zone as last, 3 = new
+ */
+message	pxMsg13	$(pxName) ƚ
+message	pxMsg12	ĸ
+message	pxMsg11	$(pxName) ƛ
+
+/*
+ * severity 2 macros
+ * 1 = moving away, 2 = same zone as last, 3 = new, 4 = moving closer
+ */
+message	pxMsg24	$(pxName) Ɵ
+message	pxMsg23	ƞ\\n $(pxName) Ɵ
+message	pxMsg22	ƃ
+message	pxMsg21	$(pxName) Ơ
+
+/*
+ * hazard messages are always the same severity
+ */
+message	pxMsgHazard	$(pxDist)$(psUnits) ơ $(pxName)!
+
+/*
+ * severity 3 macros
+ * 1 = moving away, 2 = same zone as last, 3 = new, 4 = moving closer
+ */
+message	pxMsg34	ƞ\\n $(pxName) Ɯ $(pxDist) Ɲ!
+message	pxMsg33	ƞ $(pxName) Ƥ
+message	pxMsg32	ƞ\\n $(pxName) Ƥ
+message	pxMsg31	ĸ
+message	pxMsg30	ĸ
+
+/*
+ *  Sound off message and Proximity display
+ */
+symbol  pxMsgSound	'Ʀ'
+symbol  pxMsgProximity  'Ƨ'
+symbol  pxMsgSoundOff   'ƨ'
+symbol  pxMsgSoundOn    'Ʃ'
+symbol  pxGpsLbl    'ƪ'
+symbol  pxGpsLblHp  "ƫ"
+

@@ -1,0 +1,84 @@
+DO Macro macro noTalk
+DO up Slip
+DO w0.Text clear
+DO ComMgr elevBufferSize:1 oKToDisplayDugoutArea:1
+WAIT 1
+
+/*  
+ Loading Bucket and Position Simulator
+*/
+
+DO object PositionSimulator name:possim
+WAIT 4
+DO object BucketSimulator name:bktsim
+WAIT 4
+DO possim centerX:1000 centerY:1000 centerZ:2000
+/*  
+ Switching to the main HP screen
+*/
+
+DO showHP
+WAIT 4
+
+DO showTopView
+DO HpGpsCADCanvas zoom:100
+WAIT 5
+DO Prox simulate:1:dozer:2:local:90:50:120:1
+WAIT 5
+DO Prox simulate:2:truck:2:local:300:45:130:1
+WAIT 5
+DO Prox simulate:3:truck:2:local:210:35:95:1
+WAIT 5
+DO possim action:dig
+WAIT 7
+DO possim turn:-30
+WAIT 5
+DO possim action:dump
+DO hp.data2 label:T01
+WAIT 5
+DO possim turn:30
+DO hp.data3 label:51
+WAIT 5
+DO possim move:0:-5:0
+WAIT 7
+DO showHP
+DO possim action:dig
+WAIT 7
+DO possim turn:-30
+WAIT 5
+DO possim action:dump
+DO hp.data2 label:T01
+WAIT 5
+DO possim turn:30
+DO hp.data3 label:101
+WAIT 5
+DO possim move:0:-5:0
+WAIT 7
+DO possim action:dig
+WAIT 7
+DO possim turn:-30
+WAIT 5
+DO possim action:dump
+DO hp.data2 label:T01
+WAIT 5
+DO possim turn:30
+DO hp.data3 label:151
+WAIT 5
+DO possim move:0:-5:0
+WAIT 7
+DO showTopView
+DO possim action:dig
+WAIT 7
+DO possim turn:-30
+WAIT 5
+DO possim action:dump
+DO hp.data2 label:T04
+WAIT 5
+DO possim turn:30
+DO hp.data3 label:51
+WAIT 5
+DO possim move:0:-5:0
+WAIT 7
+
+WAIT 1000
+DO reboot

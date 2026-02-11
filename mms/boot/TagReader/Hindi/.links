@@ -1,0 +1,5 @@
+#
+# By default Hindi Language links are setup to support NEWUI
+#
+ln -sf ./Macro.cfg.newui   ./Macro.cfg
+ln -sf ./Options.cfg.newui ./Options.cfg

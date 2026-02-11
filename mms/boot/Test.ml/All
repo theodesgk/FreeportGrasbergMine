@@ -1,0 +1,195 @@
+%!/psw/cpp
+#include <Main/CheckRev.h>
+#if #args(OK)
+#endif
+
+#if !defined(ARG1)
+#	define ARG1
+#endif
+#if !defined(ARG2)
+#	define ARG2 nogps
+#	assert arg2(nogps)
+#endif
+#if !defined(ARG3)
+#	define ARG3 1
+#	assert arg1(1)
+#endif
+
+#if #arg1(board)
+	lib net
+	module TestML
+	echo board test mode...
+	object Slip name:gpsa port:xil0 speed:38400 ipaddr:192.168.202.10
+	object Slip name:gpsb port:xil1 speed:38400 ipaddr:192.168.202.20
+	object Slip name:gspb port:xil2 speed:38400 ipaddr:192.168.202.30
+	object Slip name:gspa port:cpu3 speed:38400 ipaddr:192.168.202.40
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	ssrb channel:11 dac:150
+        /* Note the network is 172.31.0.0/16 each UUT needs a unique address on the network in the range
+           172.31.0.2-254 the rounter is at 172.31.0.1 */
+        eth0 ipaddr:172.31.0.254
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:board romrev:3
+#elif #arg1(mobile)
+#if #arg2(nogps)
+	lib net
+	module TestML
+	echo mobile test mode...
+	object Slip name:gspb port:xil2 speed:38400 ipaddr:192.168.202.30 hdwe:rs232
+	object Slip name:gspa port:cpu3 speed:38400 ipaddr:192.168.202.40 hdwe:rs232
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	ssrb channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:mobile romrev:3
+#elif #arg2(sk2)
+	lib net
+	module TestML
+	echo mobile test mode...
+	object Slip name:gspb port:xil2 speed:38400 ipaddr:192.168.202.30 hdwe:rs232
+	object Slip name:gspa port:cpu3 speed:38400 ipaddr:192.168.202.40 hdwe:rs232
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	ssrb channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	module GpsTsip
+	object GpsTsip name:Gps port:xil1 pollInt:1000 speed:9600 hdwe:rs232 flags:0xc8
+	module GpsTruck
+	object BeaconDB base:Gps
+	object GpsTruck base:Gps
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:mobile romrev:3
+#elif #arg2(gg24)
+	lib net
+	module TestML
+	echo mobile test mode...
+	object Slip name:gspb port:xil2 speed:38400 ipaddr:192.168.202.30 hdwe:rs232
+	object Slip name:gspa port:cpu3 speed:38400 ipaddr:192.168.202.40 hdwe:rs232
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	ssrb channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	module GpsGG24
+	object GpsGG24 name:Gps port:xil1 pollInt:1000 speed:19200 hdwe:rs232 flags:0x08
+	module GpsTruck
+	object BeaconDB base:Gps
+	object GpsTruck base:Gps
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:mobile romrev:3
+#elif #arg2(g12)
+	lib net
+	module TestML
+	echo mobile test mode...
+	object Slip name:gspb port:xil2 speed:38400 ipaddr:192.168.202.30 hdwe:rs232
+	object Slip name:gspa port:cpu3 speed:38400 ipaddr:192.168.202.40 hdwe:rs232
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	ssrb channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	module GpsNMEA
+	object GpsNMEA name:Gps port:xil1 pollInt:1000 speed:9600 hdwe:rs232 flags:0x08
+	Gps command:/net/Gps/G12/g12.rover
+	module GpsTruck
+	object BeaconDB base:Gps
+	object GpsTruck base:Gps
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:mobile romrev:3
+#elif #arg2(javad)
+	lib net
+	module TestML
+	echo repeater test mode...
+	object Slip name:gspb port:xil2 speed:38400 ipaddr:192.168.202.30 hdwe:rs232
+	object Slip name:gspa port:cpu3 speed:38400 ipaddr:192.168.202.40 hdwe:rs232
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	module GpsNMEA
+	object GpsNMEA name:Gps port:xil1 pollInt:1000 speed:9600 hdwe:rs232 flags:0x08
+	Gps command:/net/Gps/Gril/gril.rover
+	module GpsTruck
+	object BeaconDB base:Gps
+	object GpsTruck base:Gps
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:mobile romrev:3
+#else
+	echo specify valid GPS receiver type...
+#endif
+
+#elif #arg1(repeater)
+#if #arg2(nogps)
+	lib net
+	module TestML
+	echo repeater test mode...
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	object Pio name:pwr type:8591
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:repeater romrev:3
+#elif #arg2(sk2)
+	lib net
+	module TestML
+	echo repeater test mode...
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	module GpsTsip
+	object GpsTsip name:Gps port:xil1 pollInt:1000 speed:9600 hdwe:rs232 flags:0xc8
+	module GpsTruck
+	object BeaconDB base:Gps
+	object GpsTruck base:Gps
+	object Pio name:pwr type:8591
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:repeater romrev:3
+#elif #arg2(gg24)
+	lib net
+	module TestML
+	echo repeater test mode...
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	module GpsGG24
+	object GpsGG24 name:Gps port:xil1 pollInt:1000 speed:19200 hdwe:rs232 flags:0x08
+	module GpsTruck
+	object BeaconDB base:Gps
+	object GpsTruck base:Gps
+	object Pio name:pwr type:8591
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:repeater romrev:3
+#elif #arg2(g12)
+	lib net
+	module TestML
+	echo repeater test mode...
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	module GpsNMEA
+	object GpsNMEA name:Gps port:xil1 pollInt:1000 speed:9600 hdwe:rs232 flags:0x08
+	Gps command:/net/Gps/G12/g12.rover
+	module GpsTruck
+	object BeaconDB base:Gps
+	object GpsTruck base:Gps
+	object Pio name:pwr type:8591
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:repeater romrev:3
+#elif #arg2(javad)
+	lib net
+	module TestML
+	echo repeater test mode...
+	wan0 watchdog_enabled:0 chanAgility:0
+	ssra channel:11 dac:150
+	eth0 ipaddr:172.31.0.254
+	module GpsNMEA
+	object GpsNMEA name:Gps port:xil1 pollInt:1000 speed:9600 hdwe:rs232 flags:0x08
+	Gps command:/net/Gps/Gril/gril.rover
+	module GpsTruck
+	object BeaconDB base:Gps
+	object GpsTruck base:Gps
+	object Pio name:pwr type:8591
+	object TestML name:TestML/test wanid:1 setupid:ARG3 mode:repeater romrev:3
+#else
+	echo specify valid GPS receiver type...
+#endif
+
+#else
+	echo
+	echo usage: net/Test.ml/All [test mode] [gps] [station]
+	echo .      test mode = board | mobile | repeater
+	echo .      gps = nogps | [sk2] | [gg24] | [g12] | [javad]
+	echo .      station =  1 | [2] | [3] | [4]
+	echo
+
+#endif
+

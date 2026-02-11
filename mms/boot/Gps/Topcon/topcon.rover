@@ -1,0 +1,201 @@
+%!/psw/cpp
+
+/*********************************************************************************/
+/*                                                                               */ 
+/* For version compatibility.                                                    */
+/*  Now GPSOPT controls GPS calculation cycle, data update cycle and GPS log.    */
+/*  Separate it into GPSCALC, GPSUPDATE and GPSLOG                               */
+/*                                                                               */ 
+/*  In addition, use option GPSPPS                                               */
+/*                                                                               */ 
+/*********************************************************************************/
+
+#ifndef     GPSCALC
+#   if #gpsopt(10Hz) || #gpsopt(10Hz_log)
+#       define  RAWMS   100
+#   else
+#       define  RAWMS   1000
+#   endif
+#else
+#   if #gpscalc(10Hz)
+#       define  RAWMS   100
+#   elif #gpscalc(5Hz)
+#       define  RAWMS   200
+#   elif #gpscalc(2Hz)
+#       define  RAWMS   500
+#   else
+#       define  RAWMS   1000
+#   endif
+#endif
+
+#ifndef     GPSUPDATE
+#   define  UPDATEMS    1000
+#   define  UPDATESEC   1.0
+#else
+#   if #gpsupdate(10Hz)
+#       define  UPDATEMS    100
+#       define  UPDATESEC   0.1
+#   elif #gpsupdate(5Hz)
+#       define  UPDATEMS    200
+#       define  UPDATESEC   0.2
+#   elif #gpsupdate(2Hz)
+#       define  UPDATEMS    500
+#       define  UPDATESEC   0.5
+#   else
+#       define  UPDATEMS    1000
+#       define  UPDATESEC   1.0
+#   endif
+#endif
+
+#ifndef     GPSLOG
+# if #gpsopt(log) || #gpsopt(10Hz_log)
+#   define  GPSLOG    1Hz
+# endif
+#elif #gpslog(false) || #gpslog(no)
+# undef GPSLOG
+#endif
+
+
+
+/****************************************/
+/* SET ALL PARAMETERS TO DEFAULT VALUES */
+/****************************************/
+%%init,/setup/
+
+/* The following lines are intentionally left blank */
+/* Some errors might be returned after blank lines  */
+%%
+%%
+%%
+%%
+%%
+
+/* Set raw measurement elevation mask to 5 degrees in elevation */
+%%set,/par/lock/elm,5
+
+/* Satellites with elevations lower than this mask will be */
+/* excluded from position computation (default) */
+%%set,/par/out/elm/cur/term,8
+%%set,/par/pos/elm,8
+
+/* Using RTK with fixed ambiguities (i.e. "pd") */
+%%set,/par/pos/mode/cur,pd
+
+/* Extrapolating base station's phase to compute position */
+%%set,/par/pos/pd/mode,extrap
+
+/* the receiver's port will be ready to receive rtcm corrections */
+/* *** Identify if the RTCM Version is 3 or 2                    */
+#if #arg1(rtcm3)
+    %%set,/par/dev/ser/a/imode,rtcm3
+#else
+    %%set,/par/dev/ser/a/imode,rtcm
+#endif
+
+/* Determines the rate of receiver generating pseudoranges, carrier           */
+/* phases and some other GPS&GLONASS observables (i.e. the raw measurements)  */
+/* How often the receiver updates its position (in milliseconds)              */
+/*                                                                            */
+/* *** Set this according to GPSCALC                                          */
+    %%set,/par/raw/msint,RAWMS
+    %%set,/par/pos/msint,RAWMS
+
+/* Sets the C/A PLL bandwidth to 35Hz (Topcon recommended) */
+%%set,/par/raw/pll/band,35.0
+
+/* The guiding and common lock loop order is set to 2 (idem) */
+%%set,/par/raw/pll/order,2
+
+/* Data Loggin messages, in case a data capture is requiered */
+%%create,/msg/def/jps/SG
+%%create,/msg/def/jps/DL
+%%create,/msg/def/jps/CC
+%%create,/msg/def/jps/C1
+%%create,/msg/def/jps/C2
+%%create,/msg/def/jps/F2
+
+/***************************/
+/*      EVENT PARAMETERS   */
+/* *** ONLY for aht or emv */
+/***************************/
+
+#if #gpspps(yes)
+    /* Enable the PPS signal generation (default) */
+    %%set,/par/dev/pps/a/out,on
+
+    /* set PPS signal period (in milliseconds)      */
+    /*                                              */
+    /*   If GPSPPSMSEC is specified, use the value. */
+    /*   If not, set according to GPS UPDATE cycle. */
+#ifdef GPSPPSMSEC
+    %%set,/par/dev/pps/a/per/ms,GPSPPSMSEC
+#else
+    %%set,/par/dev/pps/a/per/ms,UPDATEMS
+#endif
+
+    /* set PPS signal offset (in milliseconds) */
+    %%set,/par/dev/pps/a/offs/ms,0
+
+    /* set PPS signal offset (in nanoseconds) */
+    %%set,/par/dev/pps/a/offs/ns,0
+
+    /* set either falling or rising edge of PPS signal (i.e. rise or fall) */
+    %%set,/par/dev/pps/a/edge,rise
+
+    /* reference time of PPS signal (either "gps", "glo", "utcusno" or "utcsu") */
+    %%set,/par/dev/pps/a/time,utcusno
+
+    /* period of "marked" PPS pulses (in milliseconds) */
+    %%set,/par/dev/pps/a/mper,0
+
+    /* enable PPS signal synchronization to the selected reference time */
+    %%set,/par/dev/pps/a/tied,on
+#endif
+
+/********************/
+/* Set NMEA version */
+/********************/
+%%set,nmea/ver,v2.3
+
+/* enable output of these types of message (and how often)  */
+/*                                                          */
+/* *** Set this according to GPSUPDATE                      */
+    %%em,/dev/ser/b,/msg/nmea/GGA:UPDATESEC
+    %%em,/dev/ser/b,/msg/nmea/GST:UPDATESEC
+    %%em,/dev/ser/b,/msg/nmea/VTG:UPDATESEC
+    %%em,/dev/ser/b,/msg/nmea/ZDA:UPDATESEC
+
+/* enable TPS messages for satellite data 		    */
+    %taz%em,/cur/term,/msg/jps/GS:10.0
+    %taz%em,/cur/term,/msg/jps/NS:10.0
+
+/*     === RAW data logging ===         */
+/* DON'T USE THESE LINES WITH FW 3.3p4  */
+/* FOR RAW DATA LOGGING USE FW 3.3p6    */
+
+#ifdef GPSLOG
+    %%set,/par/log/rot/mode,off
+    %%set,/par/log/rot/rmold,on
+
+/*** Create a new log file every hour                               ***/
+    %%set,/par/log/rot/sc/period,3600
+
+    %%set,/par/log/rot/sc/phase,0
+    %%set,/par/log/rot/sc/count,0
+    %%set,/par/log/imp,{y,n}
+
+/*** Now it is limited to 1Hz.                                      ***/
+/*** If FIRMWARE is improved to be able to handle faster log cycle, ***/
+/*** This should be controlled with the configured value.           ***/
+    %%set,/par/log/sc/period,1.0
+
+    %%set,/par/log/rot/mode,on
+    %%set,/par/dev/ser/a/dup,/cur/log
+#endif
+
+
+/*** Setting maximum number of satellites.                        ***/
+/*** If the parameter is not specified, use the TOPCON's default. ***/
+#ifdef     MAXSAT
+    %%set,/par/pos/pd/maxsat,MAXSAT
+#endif

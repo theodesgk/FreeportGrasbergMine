@@ -1,0 +1,25 @@
+#!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1998
+ *               All Rights Reserved
+ *  $RCSfile: All,v $
+ * $Revision: 1.1 $
+ *   $Author: olson $
+ *     $Date: 2002/05/17 18:56:53 $
+ *    $State: Exp $
+ *   Purpose: Touch screen calibration script.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#include <Main/CheckRev.h>
+#if #args(OK)
+	lib	net
+	etc	net
+	module	Macro
+	module	Gui
+	object	Screen	name:TpCal/Screen
+	object	Tp	name:TpCal/Tp
+	object	Macro	name:TpCal/Macro path:y
+	object	WinMgr	name:TpCal/WinMgr
+#endif

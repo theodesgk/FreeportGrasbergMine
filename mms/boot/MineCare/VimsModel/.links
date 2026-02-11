@@ -1,0 +1,3 @@
+ln -sf ../../Main/All ./All
+ln -sf ../Args.h ./Args.h
+ln -sf ../Main.h ./Main.h

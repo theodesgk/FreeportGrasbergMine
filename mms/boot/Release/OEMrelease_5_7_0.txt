@@ -1,0 +1,330 @@
+--------------------------------------------------------------------
+Release - 02/18/2019
+--------------------------------------------------------------------
+TFS:573751 Adding new CID/EID events on the Vims3G interface
+TFS:574944 and TFS:574963 Updating the parameter and event list of
+the VIMS interface. Mostly adding some new parameters and improving
+the events names.
+TFS:574949 Updating the ADEC interface to support new models to
+match the latest database. This implementation updated some things
+in the SAEJ1939 code and some changes in the CenseJ1939 and
+VISTJ1939 were necessary
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/adecevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/adecpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vimspara.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vimsevt.txt
+	/mms/boot/MineCare/Adec/adec.cfg
+	/mms/src/Interfaces/Adec/AdecConfig.C
+	/mms/src/Interfaces/Adec/AdecConfig.H
+	/mms/src/Interfaces/Adec/AdecDriver.C
+	/mms/src/Interfaces/Adec/AdecDriver.H
+	/mms/src/Interfaces/Adec/AdecDriver.lib
+	/mms/src/Interfaces/Adec/AdecPersistence.C
+	/mms/src/Interfaces/Adec/AdecPersistence.H
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Config.C
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Config.H
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Driver.C
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Driver.H
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+	/mms/src/Interfaces/CenseJ1939Quantum/CenseJ1939QuantumDriver.C
+	/mms/src/Interfaces/Cummins/CumminsDriver.C
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+	/mms/src/Interfaces/Hitachi6/Hitachi6Driver.C
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939.lib
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.C
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.H
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Config.H
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Driver.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Driver.H
+
+--------------------------------------------------------------------
+Release - 03/18/2019
+--------------------------------------------------------------------
+TFS:579228 updating the digisig popfiles
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/digisigevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/digisigpar.txt
+
+--------------------------------------------------------------------
+Release - 04/04/2019
+--------------------------------------------------------------------
+TFS:581651 Update InvertexCAN MEOS interface with latest OEM specs
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanpar.txt
+	/mms/src/Interfaces/InvertexCAN/InvertexCANConfig.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANConfig.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDriver.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDriver.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANge554aEventIds.C
+
+--------------------------------------------------------------------
+Release - 04/16/2019
+--------------------------------------------------------------------
+TFS:579229 and TFS:581652 adding iTrack and Dr412 interfaces popfiles
+
+Files:
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/pop/popdata/dr412evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/dr412par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/itrackevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/itrackpar.txt
+
+--------------------------------------------------------------------
+Release - 05/01/2019
+--------------------------------------------------------------------
+TFS:587007 Adding the Generic-BTag interfaces popfiles and updating
+the forms list so this interface is displayed
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/btagevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/btagpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	
+--------------------------------------------------------------------
+Release - 05/10/2019
+--------------------------------------------------------------------
+TFS:588322 Implement 777E model and update the 795FAC parameter list on Vims3G .Net
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/vims3gpar.txt
+
+--------------------------------------------------------------------
+Release - 05/21/2019
+--------------------------------------------------------------------
+TFS:591532 Updating the CenseJ1939CM2330 interface popfiles so the
+Exhaust Gas Temperature numbers match the latest OEM specification.
+Also added some new events.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330evt.txt
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Config.C
+	/mms/src/Interfaces/CenseJ1939CM2330/CenseJ1939CM2330Driver.C
+
+--------------------------------------------------------------------
+Release - 06/21/2019
+--------------------------------------------------------------------
+TFS:597388 Updating the KomtraxPlusJ1939 popfiles. This will update
+them to support 4 models, which also added new parameters and events
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusj1939evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusj1939par.txt
+
+--------------------------------------------------------------------
+Release - 07/22/2019
+--------------------------------------------------------------------
+TFS:598631 Implement the Blutip .Net interface
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/blutipevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/blutippar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/mc_enums.frm
+
+--------------------------------------------------------------------
+Release - 07/29/2019
+--------------------------------------------------------------------
+TFS:607326 Adding 184 new parameters on the KomtraxPlus 860E model
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+
+--------------------------------------------------------------------
+Release - 08/19/2019
+--------------------------------------------------------------------
+TFS:605598 Adding new popfiles for the PLMJ1939 to support the
+latest version of the database.
+TFS:605599 Updating the PLM interface to support the newest logic
+for the "Remaining Load (OLS)" and the "Cycle Target Payload"
+parameters
+
+Files:
+	/mms/src/Interfaces/Plm/PlmConfig.C
+	/mms/src/Interfaces/Plm/PlmConfig.H
+	/mms/src/Interfaces/Plm/PlmDriver.C
+	/mms/src/Interfaces/Plm/PlmDriver.H
+	/mms/src/Interfaces/GenericDriver/DriverConfigurator.C
+	/mms/src/Interfaces/GenericDriver/DriverConfigurator.H
+	/mms/src/Interfaces/GenericDriver/GenericDriver.lib
+	/mms/src/Interfaces/GenericDriver/ParamObject.C
+	/mms/src/Interfaces/GenericDriver/ParamObject.C
+	/mms/dsp/form/common/minecare/pop/popdata/plmpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/plmj1939par.txt
+
+--------------------------------------------------------------------
+Release - 09/13/2019
+--------------------------------------------------------------------
+TFS:618847 Can't load ITrack interface on MC3.
+TFS:619650 Standard Generic interface for Testing.
+TFS:605899 CenseJ1939CM2330 EGT numbering is incorrect
+
+Files:
+	/mms/dsp/form/common/minecare/mc_enums.frm
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939cm2330par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/censej1939par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan1evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan1par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan2evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcan2par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcom1evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcom1par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcom2evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testcom2par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testudp1evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/testudp1par.txt
+
+--------------------------------------------------------------------
+Release - 09/19/2019
+--------------------------------------------------------------------
+TFS:603022 Update the DDEC interface to support new event
+specification
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/ddecevt.txt
+
+--------------------------------------------------------------------
+Release - 10/03/2019
+--------------------------------------------------------------------
+TFS:605876 Updating the Contronics interface to support two more
+parameters
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/contropar.txt
+	/mms/src/Interfaces/J1587/ContronicsConfig.C
+	/mms/src/Interfaces/J1587/ContronicsConfig.H
+	/mms/src/Interfaces/J1587/ContronicsDriver.C
+	/mms/src/Interfaces/J1587/ContronicsDriver.H
+
+--------------------------------------------------------------------
+Release - 10/17/2019
+--------------------------------------------------------------------
+TFS:605879 Adding popfiles for the KomtraxPlus interface after
+adding support for a new model, called PC3000-6Tier2
+
+TFS:604438 Adding updated popfiles for the LiebExcav interface
+to support more parameters and events
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxplusevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/komtraxpluspar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/liebexcavpar.txt
+
+--------------------------------------------------------------------
+Release - 11/18/2019
+--------------------------------------------------------------------
+TFS:623497 and TFS:588202 Adding updated popfiles for the PLM
+interface.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/plmevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/plmpar.txt
+
+--------------------------------------------------------------------
+Release - 12/10/2019
+--------------------------------------------------------------------
+TFS:637200 Adding updated popfiles after new events/parameters
+specification was received
+TFS:621831 Adding updated popfiles after new model has been created
+and the list of supported events/parameters were updated for
+existing models
+TFS:620232 Adding the new NHL interface popfiles and entries on the
+list
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsallpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/plmevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/plmpar.txt 
+	/mms/dsp/form/common/minecare/pop/popdata/nhlevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/nhlpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt 
+	/mms/dsp/form/common/minecare/mc_enums.frm
+
+--------------------------------------------------------------------
+Release - 01/09/2020
+--------------------------------------------------------------------
+TFS:637679 Adding updated pop files for the Dr412 interface.
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/dr412evt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/dr412par.txt
+
+--------------------------------------------------------------------
+Release - 02/05/2020
+--------------------------------------------------------------------
+TFS:648930 Adding updated popfiles for the PLMJ1939 interface
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/plmj1939par.txt
+
+--------------------------------------------------------------------
+Release - 02/14/2020
+--------------------------------------------------------------------
+TFS:647393 Adding popfiles for a new interface called
+Generic-CumminsFIT
+TFS:641056 Adding updated popfiles for InvertexCAN
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsfitevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/cumminsfitpar.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanevt.txt
+	/mms/dsp/form/common/minecare/pop/popdata/invertexcanpar.txt
+	/mms/dsp/form/common/minecare/mc_enums.frm
+
+--------------------------------------------------------------------
+Release - 02/26/2020
+--------------------------------------------------------------------
+TFS:621833 Adding 4 new models in the CenseJ1939 interface.
+QSK38, QSK38Eng2, QSK95 and QSK95Eng2
+
+Files:
+	/mms/boot/MineCare/CenseJ1939/CenseJ1939MsgInfo.csv
+	/mms/boot/MineCare/CenseJ1939/cense.cfg
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Config.C
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Config.H
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Driver.C
+	/mms/src/Interfaces/CenseJ1939/CenseJ1939Driver.H
+	/mms/src/Interfaces/OemDriver/MsgInfoEntry.C
+	/mms/src/Interfaces/OemDriver/MsgInfoEntry.H
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.C
+	/mms/src/Interfaces/SAEJ1939/SAEJ1939Driver.H
+
+--------------------------------------------------------------------
+Release - 03/03/2020
+--------------------------------------------------------------------
+TFS:642545 Adding newer revision of the Hitachi6 popfile
+
+Files:
+	/mms/dsp/form/common/minecare/pop/popdata/hitachi6evt.txt
+
+--------------------------------------------------------------------
+Release - 03/17/2020
+--------------------------------------------------------------------
+TFS:610249 Updating the VIMS interface to support latest version of
+the metadata. Also adding the Gear Map functionality that the .Net
+version implemented recently
+
+Files:
+	/mms/boot/MineCare/Vims/vims.cfg
+	/mms/src/Interfaces/Vims/VimsBaseConfig.H
+	/mms/src/Interfaces/Vims/VimsConfig.C
+	/mms/src/Interfaces/Vims/VimsConfig.H
+	/mms/src/Interfaces/Vims/VimsDriver.C
+	/mms/src/Interfaces/Vims/VimsDriver.H
+	/mms/src/Interfaces/Vims/VimsMsg.C
+	/mms/src/Interfaces/Vims/VimsMsg.H

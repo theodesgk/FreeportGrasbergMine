@@ -1,0 +1,3 @@
+%!/psw/cpp
+#include <Release/Release.h>
+net/Release/Ck RELEASE RELEASE_DATE

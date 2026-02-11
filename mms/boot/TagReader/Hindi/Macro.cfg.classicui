@@ -1,0 +1,5 @@
+%!/psw/cpp
+message ReaderOff	ǎ
+message TagOn		Ǐ
+message TagOff		ǐ
+message	ReaderDisabled	Ǒ

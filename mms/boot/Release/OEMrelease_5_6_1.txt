@@ -1,0 +1,394 @@
+--------------------------------------------------------------------
+Release - 11/13/2014
+--------------------------------------------------------------------
+TFS:344346 Update the scales of the Kimax2 Interface. All interfaces
+scales have been changed to "0.1"
+
+File List:
+Kimax2 Driver: new version 2.0.1
+	/mms/src/Interfaces/Kimax2/Kimax2Config.C
+	/mms/src/Interfaces/Kimax2/Kimax2Device.C
+	/mms/src/Interfaces/Kimax2/Kimax2Driver.C
+	
+--------------------------------------------------------------------
+Release - 11/14/2014
+--------------------------------------------------------------------
+TFS:353353 Adding hoursmeter changes to support device CUB5T.
+
+HoursMeter:
+	/mms/dsp/form/commom/minecare/pop/popdata/hoursmeterpar.txt
+Lubrizol and Vims3G:
+	Fixing the build.
+	
+--------------------------------------------------------------------
+Release - 11/21/2014
+--------------------------------------------------------------------
+TFS:353355 Fixing INSTANTANEOUS_ESTIMATED_BRAKE_POWER chosen SA for
+CumminsCore2.
+
+CumminsCore2 Driver: version 2.2.4
+	/mms/src/Interfaces/CumminsCore2/CumminsCore2Driver.C
+
+--------------------------------------------------------------------
+Release - 12/02/2014
+--------------------------------------------------------------------
+TFS:355101 Adding new model to ADEC interface. The new model is
+called "ADEC12V4000C64". Also renamed the old "Default" model
+to "ADECLegacy".
+
+Adec Driver: version 2.1.0
+	/mms/cvs/src/Interfaces/Adec/AdecConfig.C
+	/mms/cvs/src/Interfaces/Adec/AdecConfig.H
+	/mms/cvs/src/Interfaces/Adec/AdecDriver.C
+	/mms/cvs/src/Interfaces/Adec/AdecDriver.H
+	/mms/cvs/src/Interfaces/Adec/AdecDriver.lib
+	/mms/cvs/src/Interfaces/Adec/AdecPersistence.C
+	/mms/cvs/src/Interfaces/Adec/AdecPersistence.H
+
+Adec Popfile:
+	/mms/cvs/dsp/form/common/minecare/pop/popdata/adecevt.txt
+	/mms/cvs/dsp/form/common/minecare/pop/popdata/adecpar.txt
+
+Adec boot scripts:
+	/mms/cvs/boot/MineCare/Adec/adec.cfg
+	/mms/cvs/boot/MineCare/Adec/Config.h
+	
+--------------------------------------------------------------------
+Release - 12/02/2014
+--------------------------------------------------------------------
+TFS:355097 Adding the HOURSMeter new model HoursMeter CUB5TB00 with the CUBCOM2
+HoursMeter Driver: version 2.1.0
+	/mms/src/Interfaces/HoursMeter/HoursMeterConfig.C
+	/mms/src/Interfaces/HoursMeter/HoursMeterDevice.C
+	/mms/src/Interfaces/HoursMeter/HoursMeterDriver.C
+	/mms/src/Interfaces/HoursMeter/HoursMeterConfig.H
+	/mms/src/Interfaces/HoursMeter/HoursMeterDevice.H
+	/mms/src/Interfaces/HoursMeter/HoursMeterDriver.H
+
+HoursMeter boot scripts:	
+	/mms/boot/MineCare/HoursMeter/hoursmeter.cfg
+	/mms/boot/MineCare/HoursMeter/Config.h
+
+--------------------------------------------------------------------
+Release - 12/03/2014
+--------------------------------------------------------------------
+TFS:355097 Adding HoursMeter changes. The driver drops time values with unexpected value format.
+HoursMeter Driver: version 2.1.1
+	/mms/src/Interfaces/HoursMeter/HoursMeterDevice.C
+	/mms/src/Interfaces/HoursMeter/HoursMeterDriver.C
+	/mms/src/Interfaces/HoursMeter/HoursMeterDriver.H
+	
+--------------------------------------------------------------------
+Release - 12/04/2014
+--------------------------------------------------------------------
+TFS:355097 Fixing HoursMeter version from 2.1.0 to 2.1.1.
+	/mms/src/Interfaces/HoursMeter/HoursMeterDriver.C
+	
+--------------------------------------------------------------------
+Release - 12/05/2014
+--------------------------------------------------------------------
+TFS:355097 Fixing initialization command (model, timer range and node address choices).
+HoursMeter Driver: version 2.1.2
+	/mms/src/Interfaces/HoursMeter/HoursMeterDriver.C
+	
+HoursMeter boot scripts:	
+	/mms/boot/MineCare/HoursMeter/hoursmeter.cfg
+	/mms/boot/MineCare/HoursMeter/Config.h
+
+--------------------------------------------------------------------
+Release - 12/10/2014
+--------------------------------------------------------------------
+TFS:355101 Fixing the "Engine Shutdown Override Switch" parameter on
+AdecLegacy driver
+
+Adec Driver: Version 2.1.1
+	/mms/src/Interfaces/Adec/AdecDriver.C
+
+--------------------------------------------------------------------
+Release - 12/16/2014
+--------------------------------------------------------------------
+TFS:355094 Adding support for the On the Fly Tools on the MEOS
+Generic Driver so all interfaces support it.
+
+Generic Driver: Version 1.43
+	/mms/src/Interfaces/GenericDriver/GenericDriver.C
+    /mms/src/Interfaces/GenericDriver/GenericDriver.H
+    /mms/src/Interfaces/GenericDriver/ParamHandler.C
+    /mms/src/Interfaces/GenericDriver/ParamHandler.H
+    /mms/src/Interfaces/GenericDriver/ParamObject.C
+    /mms/src/Interfaces/GenericDriver/ParamObject.H
+--------------------------------------------------------------------
+Release - 12/19/2014
+--------------------------------------------------------------------
+TFS:355092 PLM update zd24051 MEOS
+Updating the PLM 
+
+PLM Driver: Version 2.2.5
+	/mms/src/Interfaces/Plm/PlmConfig.C
+	/mms/src/Interfaces/Plm/PlmDriver.C
+	/mms/src/Interfaces/Plm/PlmDriver.H
+
+--------------------------------------------------------------------
+Release - 01/22/2015
+--------------------------------------------------------------------
+TFS:356424 OTF Stage 2
+Adding popfiles for the SmartCumminsJ1939 interface.
+
+SmartCumminsJ1939 popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/smartcumminsj1939evt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/smartcumminsj1939par.txt
+
+TFS:356960 Update Vims3G model 797F MEOS
+Adding new model to the Vims3G interface: "797F_4500570"
+
+Vims3G Driver: Version 2.7.0
+	/mms/src/Interfaces/Vims3G/Vims3GDriver.C
+	/mms/src/Interfaces/Vims3G/Vims3GConfig.C
+
+Vims3G popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/vims3gpar.txt
+
+--------------------------------------------------------------------
+Release - 01/28/2015
+--------------------------------------------------------------------
+TFS:356427 Adding BCS3
+Adding popfiles for the BCS3 interface.
+
+BCS3 popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/bcs3evt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/bcs39par.txt
+	/mms/dsp/form/common/minecare/pop/popdata/intf_list.txt
+    /mms/dsp/form/common/minecare/mc_enums.frm
+	
+--------------------------------------------------------------------
+Release - 02/03/2015
+--------------------------------------------------------------------
+TFS:359972 Adding new models to ContronicsJ1939 Interface
+TFS:359761 Changing FuelMetrix Interface so it'll be a MineCareReady
+Interface
+
+ContronicsJ1939 Driver: Version 2.6.0
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.H
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.H
+	
+ContronicsJ1939 popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/contronicsj1939evt.txt
+
+FuelMetrixDriver: Version 2.0.5
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixDriver.H
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixDriver.C
+	
+--------------------------------------------------------------------
+Release - 02/09/2015
+--------------------------------------------------------------------
+TFS:360007 Turning Caes into a MineCare ready interface.
+
+Caes Driver: Version 2.0.0
+	/mms/src/Interfaces/Caes/CaesDriver.C
+	/mms/src/Interfaces/Caes/CaesDriver.H
+	
+Caes popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/caesevt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/caespar.txt
+
+Caes boot scripts:
+	/mms/boot/MineCare/Caes/App.h
+	/mms/boot/MineCare/Caes/caes.cfg
+	/mms/boot/MineCare/Caes/Config.h
+	/mms/boot/MineCare/Caes/.links
+	/mms/boot/MineCare/Caes/Main.cfg
+	/mms/boot/MineCare/Caes/links.cmd
+	
+--------------------------------------------------------------------
+Release - 02/10/2015
+--------------------------------------------------------------------
+TFS:359972 Fixing some bugs found during acceptance tests of the
+ContronicsJ1939 MEOS driver
+
+ContronicsJ19339 Driver: Version 2.6.1
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.H
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.C
+	
+--------------------------------------------------------------------
+Release - 02/13/2015
+--------------------------------------------------------------------
+TFS:361035 Adding 5 new events on VISTJ1939
+
+VISTJ1939 Driver: Version 2.0.2
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Driver.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Driver.H
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Config.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Config.H
+
+--------------------------------------------------------------------
+Release - 02/23/2015
+--------------------------------------------------------------------
+TFS:361020 UPDATE BCS serial  MEOS - add new model (V24) and simulator
+
+BCS Driver: Version 3.1.0
+	/mms/src/Interfaces/BCS/BCSConfig.C
+	/mms/src/Interfaces/BCS/BCSConfig.H
+	/mms/src/Interfaces/BCS/BCSDevice.C
+	/mms/src/Interfaces/BCS/BCSDriver.C
+	/mms/src/Interfaces/BCS/BCSDriver.H
+
+BCS boot scripts:
+	/mms/boot/MineCare/BCS/bcs.cfg
+	/mms/boot/MineCare/BCS/Config.h
+
+--------------------------------------------------------------------
+Release - 02/23/2015
+--------------------------------------------------------------------
+TFS:361020 UPDATE BCS serial  MEOS - Fixing wrong data size for V24 MODEL
+
+BCS Driver: Version 3.1.1
+	/mms/src/Interfaces/BCS/BCSConfig.C
+
+BCS boot scripts:
+	/mms/boot/MineCare/BCS/bcs.cfg
+	/mms/boot/MineCare/BCS/Config.h
+
+BCS popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/bcsevt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/bcspar.txt
+	
+	
+	/mms/src/Interfaces/FuelMetrix/FuelMetrixDriver.C
+	
+--------------------------------------------------------------------
+Release - 02/09/2015
+--------------------------------------------------------------------
+TFS:360007 Turning Caes into a MineCare ready interface.
+
+Caes Driver: Version 2.0.0
+	/mms/src/Interfaces/Caes/CaesDriver.C
+	/mms/src/Interfaces/Caes/CaesDriver.H
+	
+Caes popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/caesevt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/caespar.txt
+
+Caes boot scripts:
+	/mms/boot/MineCare/Caes/App.h
+	/mms/boot/MineCare/Caes/caes.cfg
+	/mms/boot/MineCare/Caes/Config.h
+	/mms/boot/MineCare/Caes/.links
+	/mms/boot/MineCare/Caes/Main.cfg
+	/mms/boot/MineCare/Caes/links.cmd
+	
+--------------------------------------------------------------------
+Release - 02/10/2015
+--------------------------------------------------------------------
+TFS:359972 Fixing some bugs found during acceptance tests of the
+ContronicsJ1939 MEOS driver
+
+ContronicsJ19339 Driver: Version 2.6.1
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.C
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Config.H
+	/mms/src/Interfaces/ContronicsJ1939/ContronicsJ1939Driver.C
+	
+--------------------------------------------------------------------
+Release - 02/13/2015
+--------------------------------------------------------------------
+TFS:361035 Adding 5 new events on VISTJ1939
+
+VISTJ1939 Driver: Version 2.0.2
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Driver.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Driver.H
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Config.C
+	/mms/src/Interfaces/VISTJ1939/VISTJ1939Config.H
+
+--------------------------------------------------------------------
+Release - 02/23/2015
+--------------------------------------------------------------------
+TFS:361020 UPDATE BCS serial  MEOS - Fixing wrong data size for V24 MODEL
+
+BCS Driver: Version 3.1.1
+	/mms/src/Interfaces/BCS/BCSConfig.C
+
+BCS boot scripts:
+	/mms/boot/MineCare/BCS/bcs.cfg
+	/mms/boot/MineCare/BCS/Config.h
+
+BCS popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/bcsevt.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/bcspar.txt
+	
+
+--------------------------------------------------------------------
+Release - 02/23/2015
+--------------------------------------------------------------------
+TFS:361020 UPDATE BCS serial  MEOS - Fixing parameters scale and ofset
+
+BCS Driver: Version 3.1.2
+	/mms/src/Interfaces/BCS/BCSConfig.C
+	/mms/src/Interfaces/BCS/BCSDriver.C
+
+--------------------------------------------------------------------
+Release - 03/06/2015
+--------------------------------------------------------------------
+TFS:361980 Adding popfiles for the new InvertexCAN interface
+TFS:361988 Adding new popfiles for the VHMS interface after adding
+6 new models
+
+InvertexCAN popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/invertexcanpar.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/invertexcanevt.txt
+
+VHMS popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/vhmspar.txt
+	/mms/dsp/form/commom/minecare/pop/popdata/vhmsevt.txt
+
+--------------------------------------------------------------------
+Release - 03/16/2015
+--------------------------------------------------------------------
+TFS:363077 Releasing the new InvertexCAN MEOS interface:
+
+InvertexCAN Driver: Version 2.0.0:
+	/mms/src/Interfaces/InvertexCAN/InvertexCANConfig.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANConfig.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDevice.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDevice.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDriver.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDriver.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANDriver.lib
+	/mms/src/Interfaces/InvertexCAN/InvertexCANEventIds.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANEventIds.H
+	/mms/src/Interfaces/InvertexCAN/InvertexCANMsg.C
+	/mms/src/Interfaces/InvertexCAN/InvertexCANMsg.H
+	/mms/src/Interfaces/InvertexCAN/Makefile
+	/mms/src/Interfaces/MineCare/MineCare.H
+
+InvertexCAN Boot script:
+	/mms/boot/MineCare/InvertexCAN/Main.cfg
+	/mms/boot/MineCare/InvertexCAN/links.cmd
+	/mms/boot/MineCare/InvertexCAN/App.h
+	/mms/boot/MineCare/InvertexCAN/Config.h
+	/mms/boot/MineCare/InvertexCAN/.links
+
+--------------------------------------------------------------------
+Release - 03/20/2015
+--------------------------------------------------------------------
+TFS:363073 New release of the Bridgestone interface. Added support
+for 26 System Events of the interface.
+
+Bridgestone Driver: Version 2.1.0:
+	/mms/cvs/src/Interfaces/Bridgestone/BridgestoneConfig.C
+    /mms/cvs/src/Interfaces/Bridgestone/BridgestoneConfig.H
+    /mms/cvs/src/Interfaces/Bridgestone/BridgestoneDriver.C
+	
+Bridgestone popfiles:
+	/mms/dsp/form/commom/minecare/pop/popdata/brgstnevt.txt
+	
+--------------------------------------------------------------------
+Release - 03/20/2015
+--------------------------------------------------------------------
+TFS:363070 Removed special characters. 
+	
+Bucyrus popfiles:
+	 /mms/dsp/form/commom/minecare/pop/popdata/bucpar.txt
+	 /mms/dsp/form/commom/minecare/pop/popdata/bucevt.txt
+	

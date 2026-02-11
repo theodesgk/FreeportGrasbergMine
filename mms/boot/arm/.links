@@ -1,0 +1,11 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+#!/bin/sh
+if [ -f domestic/PrismNet ]
+then
+	ln -sf domestic/PrismNet
+else
+	ln -sf export/PrismNet
+fi

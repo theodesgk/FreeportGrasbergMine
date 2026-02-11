@@ -1,0 +1,6 @@
+echo Reloading flash...
+mknod fl0 flash 0 0x40000
+mknod xx0 flash 0x40000 0x40000
+cp xx0 fl0
+fill xx0
+echo Done!

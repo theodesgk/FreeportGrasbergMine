@@ -1,0 +1,29 @@
+#include <EMVCGC/hosts>
+
+#Origianl Can_5.100 in AT for LH drive address
+host LhD_5 Can.100
+ 
+#Origianl Can_4.100 in AT for LH drive address
+host LhD_4 Can.100
+  
+#Origianl Can_5.200 in AT for LH safety address
+host LhS_5 Can.200
+   
+#Origianl Can_4.200 in AT for LH safety address
+host LhS_4 Can.200
+    
+#Origianl Can_5.-2 in AT for broadcast on Can bus
+host CtrlNetBcast_5 Can.-1
+     
+#Origianl Can_4.-2 in AT for broadcast on Can bus
+host CtrlNetBcast_4 Can.-1
+      
+#Origianl Can_5.2 in AT for CGC address
+host CGC_5 Can.2
+       
+#Origianl Can_4.2 in AT for CGC address
+host CGC_4 Can.2
+
+#Hub address
+host HUB_5 Can.0
+ 
