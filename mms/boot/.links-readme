@@ -1,0 +1,29 @@
+
+  IMPORTANT INFORMATION ABOUT LINKS FILES FOR BOOT CODE
+
+The boot code now includes support for DISPATCH NextGen. Classic DISPATCH
+and DISPATCH NextGen share a common set of boot code. Since we cannot run
+the INSTALL script on the Windows side to create all of the necessary links
+used in Linux, the boot code now includes a set of links.cmd files that are
+used to replicate the creating of links on the Windows side.
+
+There is one links.cmd file for every .links file and it contains commands
+to do the equivalent of creating links in Windows. The format is different.
+
+1. for creating links to files the command "fsutil hardlink create" is used.
+2. for creating links to directorires the command "junction" is used.
+3. the argument order is reversed. The name of the link comes first and then
+   the file that is being linked to.
+
+for example a linux .links file might look like this:
+ln -sf ../Main/All ./All
+ln -sf ../../Hub/Macro.cfg ./excav/Macro.cfg
+ln -sf ./excav ./loader
+
+The corresponding links.cmd file would look like this:
+fsutil hardlink create .\All ..\Main\All
+fsutil hardlink create .\excav\Macro.cfg ..\..\Hub\Macro.cfg
+junction .\loader .\excav
+
+You can compare existing .links and links.cmd files in the boot code for
+more examples. 
