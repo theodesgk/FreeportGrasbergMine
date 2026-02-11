@@ -1,0 +1,22 @@
+System Startup Event	1560346625
+No Face Detected	1560346626
+No Eyes Detected	1560346627
+Fatigue Event: Microsleep	1560346628
+Fatigue Event: Distraction	1560346629
+Fatigue Event: Cornering	1560346630
+Fatigue Event: Braking	1560346631
+Fatigue Event: Speeding	1560346632
+Problem With Gps	1560346633
+Fatigue Camera Ok	1560346634
+Fatigue Camera Disconnected	1560346635
+Fatigue Camera Blocked	1560346636
+Illuminator Ok	1560346637
+Illuminator Malfunctioning	1560346638
+Seat Vibrator Ok	1560346639
+Seat Vibrator Malfunctioning	1560346640
+System Status Ok	1560346641
+System Status Error	1560346642
+OEM Interface Timeout	1560412128
+OEM Interface Normal	1560412129
+Driver Interface Timeout	1560412130
+Driver Interface Normal	1560412131

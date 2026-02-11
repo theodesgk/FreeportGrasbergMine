@@ -1,0 +1,69 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1996
+ *               All Rights Reserved
+ *  $RCSfile: All,v $
+ * $Revision: 1.15 $
+ *   $Author: gsousa $
+ *     $Date: 2018/07/05 14:25:47 $
+ *    $State: Exp $
+ *   Purpose: Load everything there is to load the GOIC.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#include <Main/CheckRev.h>
+#if #arch(pe)
+#	assert arch(cgc)
+#	assert clean(no)
+#endif
+#if #args(OK)
+#	unassert args(OK)
+#	include <Args.h>
+#	if #args(OK)
+#		if !#arch(pe)
+#			include <Sys/Sys.h>
+#			include <Main.h>
+#			include <App.h>
+#		endif
+#		if defined UGUI
+#			define NEWUI yes
+#		endif
+#		if (DEMAJOR == 6 && DEMINOR >= 2 || DEMAJOR > 6)
+#			if !defined CLASSICUI
+#				define NEWUI yes
+#			endif
+#                       if DEMINOR == 2
+#                               define VSIXTWO  yes
+#                       endif
+#			if !defined CLASSICUI && !defined UGUI && !#class(drill) && !#class(foreman)
+#				if SCREENWIDTH >= 600 && SCREENHEIGHT >= 600
+#					define LARGEUI	yes
+#				elif SCREENWIDTH >= 480 && SCREENHEIGHT >= 480
+#					define SMALLUI  yes
+#				endif
+#			endif
+#		endif
+#		include <Icon.h>
+#		if defined LARGEUI || defined SMALLUI
+#			include <10inch/common/Config.h>
+#		else
+#			include <Config.h>
+#		endif
+#		ifdef OPTIONS
+#       		define OPT      _OPTIONS_=OPTIONS
+#		else
+#       		define OPT
+#		endif
+		CP(Goic/Screen.cfg OPT,CFGDEVICE/Screen.cfg)
+#		if !#arch(pe)
+			CP(Goic/Tp.cfg,CFGDEVICE/Tp.cfg)
+#		endif
+#		if !(#clean(n) || #clean(no))
+			pfs purge:lib
+			pfs purge:etc
+			pfs purge:icons
+			pfs pack
+#		endif
+#	endif
+#endif

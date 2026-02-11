@@ -1,0 +1,14 @@
+fsutil hardlink create Bays.cfg ..\English\Bays.cfg
+fsutil hardlink create Options.cfg ..\English\Options.cfg
+fsutil hardlink create Trucks.cfg ..\English\Trucks.cfg
+fsutil hardlink create w0.cfg ..\English\w0.cfg
+fsutil hardlink create w0.Clock.cfg ..\English\w0.Clock.cfg
+fsutil hardlink create w0.Sl1.cfg ..\English\w0.Sl1.cfg
+fsutil hardlink create w0.Sl2.cfg ..\English\w0.Sl2.cfg
+fsutil hardlink create w0.Text.cfg ..\English\w0.Text.cfg
+fsutil hardlink create w0.Title.cfg ..\English\w0.Title.cfg
+fsutil hardlink create w0.Trucks.cfg ..\English\w0.Trucks.cfg
+fsutil hardlink create w0.v1.cfg ..\English\w0.v1.cfg
+fsutil hardlink create w0.v2.cfg ..\English\w0.v2.cfg
+fsutil hardlink create w0.v3.cfg ..\English\w0.v3.cfg
+fsutil hardlink create WinMgr.cfg ..\English\WinMgr.cfg

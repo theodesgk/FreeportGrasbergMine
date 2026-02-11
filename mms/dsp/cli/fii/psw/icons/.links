@@ -1,0 +1,13 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf 640x480/Demo ./Demo
+ln -sf 640x480/dozer ./dozer
+ln -sf 640x480/grader ./grader
+ln -sf 640x480/drill ./drill
+ln -sf 640x480/excav ./excav
+ln -sf 640x480/foreman ./foreman
+ln -sf 640x480/lhd ./lhd
+ln -sf 640x480/status ./status
+ln -sf 640x480/truck ./truck

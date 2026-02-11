@@ -1,0 +1,93 @@
+OEM Interface Timeout	1291976672
+OEM Interface Normal	1291976673
+Driver Interface Timeout	1291976674
+Driver Interface Normal	1291976675
+[Start Hole Command] Zero Actual Hole Depth (Touchscreen)	1291911168
+Reset Total Sift Metres (Touchscreen)	1291911169
+Zero Actual Distance (Touchscreen)	1291911170
+Distance Meter Enabled (Touchscreen)	1291911171
+Left Front Jack Down Light	1291911172
+Right Front Jack Down Light	1291911173
+Left Rear Jack Down Light	1291911174
+Right Rear Jack Down Light	1291911175
+Ladder Down Ind Light	1291911176
+Pipe In Hole Ind Light	1291911177
+L/H Mast Locked Light	1291911178
+R/H Mast Locked Light	1291911179
+L/H Mast Unlocked Light	1291911180
+R/H Mast Unlocked Light	1291911181
+Hamer Oil Level Low Alarm	1291911182
+High Compressor Discharge Temp Alarm	1291911183
+Hammer Oil Fail Alarm	1291911184
+Engine Coolant Temperature Alarm	1291911185
+High Compressor Interstage Temp Alarm	1291911186
+Engine Oil Pressure Alarm	1291911187
+Coolant Flow Alarm	1291911188
+Engine Coolant Level Low Alarm	1291911189
+Fuel Level Low Alarm	1291911190
+Alternator Alarm	1291911191
+Cab E/Stop Alarm	1291911192
+Ladder E/Stop Alarm	1291911193
+Laser Signal Fail Alarm	1291911194
+Left E/Stop Alarm	1291911195
+Compressor Low Oil Pressure Warning Alarm	1291911196
+Lube Fail Alarm	1291911197
+Low Hydraulic Oil Level Alarm	1291911198
+Tank Water Level Low Alarm	1291911199
+Alarm Accept (Screen)	1291911200
+Compressor Low Oil Pressure Shutdown Alarm	1291911201
+5 Minute Shutdown Idle Timer Running	1291911202
+Tram Overide (Touchscreen)	1291911203
+Fire System Alarm	1291911204
+Tramming Excessive Incline Alarm	1291911205
+Cummins Engine Shutdown Alarm	1291911206
+Deck E/Stop Alarm	1291911207
+Hyd Valve Isolated Alarm	1291911208
+Mast Unlock Flag - Tram	1291911209
+Mast Unlock Flag - Depth	1291911210
+Engine Air Filter Blocked Alarm	1291911211
+Compressor Air Filter Blocked Alarm	1291911212
+Password Screen Access Alarm	1291911213
+Calibrate Screen Access Alarm	1291911214
+Foam Fail Alarm	1291911215
+Depth Counter Enable	1291911216
+Inclinometer Disable (Touchscreen)	1291911217
+Low Fuel Level Shutdown Alarm	1291911218
+Right Engine E/Stop Alarm	1291911219
+Front / Wiggins E/Stop Alarm	1291911220
+Fire System Fault Alarm	1291911221
+Fire System Discharge Alarm	1291911222
+Hydraulic Oil Temperature Alarm	1291911223
+Left Engine E/Stop Alarm	1291911224
+Excessive Incline Machine Tip Over Imminent Alarm	1291911225
+Tram+Mastup+Not Locked Alarm	1291911226
+Drill+Mast Not Locked Alarm	1291911227
+Mast Raise + Pins Engaged Alarm	1291911228
+Engine Oil Level High Alarm	1291911229
+Engine Oil Level Low Alarm	1291911230
+All Jacks Are Raised	1291911231
+Head Clear Of Pipe Rack Light	1291911232
+Pipe In Hole Overide (Touchscreen)	1291911233
+Dust Collector Blocked Filter Alarm	1291911234
+Dust Collector Holed Filter Alarm	1291911235
+Laser Open Circuit Detected	1291911236
+Hold Count (Changing Rods)	1291911237
+Right Charge Filter Bypass Alarm	1291911238
+Left Charge Filter Bypass Alarm	1291911239
+Aux Feed Pump Filter Bypass Alarm	1291911240
+Right Tram Pump Port A Filter Bypass Alarm	1291911241
+Right Tram Pump Port B Filter Bypass Alarm	1291911242
+Rotation / Left Tram Pump Port A Filter Bypass Alarm	1291911243
+Rotation / Left Tram Pump Port B Filter Bypass Alarm	1291911244
+Main Return Filter 1 Bypass Alarm	1291911245
+Main Return Filter 2 Bypass Alarm	1291911246
+Case Return Filter Bypass Alarm	1291911247
+Compressor Filter Bypass Alarm	1291911248
+Right Fan Pump Filter Bypass Alarm	1291911249
+Left Fan Pump Filter Bypass Alarm	1291911250
+Water Injection Filter Bypass Alarm	1291911251
+Air Conditioner Filter Bypass Alarm	1291911252
+Front Left E/Stop Alarm	1291911253
+Rod Catcher Is Unlocked	1291911254
+Pump Drive Box Temp Alarm	1291911255
+Psi / Kpa Select (Touchscreen) (On Is Kpa - Off Is Psi)	1291911256

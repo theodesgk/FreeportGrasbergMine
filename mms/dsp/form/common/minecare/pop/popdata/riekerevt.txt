@@ -1,0 +1,12 @@
+Pitch: High To Low	1057030144
+Pitch: Low To Zero	1057030145
+Pitch: Zero To Low	1057030146
+Pitch: Low To High	1057030147
+Roll: High To Low	1057030148
+Roll: Low To Zero	1057030149
+Roll: Zero To Low	1057030150
+Roll: Low To High	1057030151
+Oem Interface Timeout	1057095648
+Oem Interface Normal	1057095649
+Driver Interface Timeout	1057095650
+Driver Interface Normal	1057095651

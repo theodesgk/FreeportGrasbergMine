@@ -1,0 +1,50 @@
+889257985	Deck Wrench Inductive	1	0	0
+889257986	Rotation Pump Pressure	40000	0	9
+889257987	Feed Pump Pressure	40000	0	9
+889257988	Flushing Air Pressure	2500	0	9
+889257989	Rotary Speed	200	0	28
+889257990	Pitch Angle	180	-180	4
+889257991	Roll Angle	180	-180	4
+889257992	Mast Angle	180	-180	4
+889257993	Current Head Position	15000	0	21
+889257994	Penetration Rate	65525	0	39
+889257995	Engine Load Percentage	125	0	25
+889257996	Engine Torque Percentage	125	0	25
+889257997	Engine Speed	3040	0	28
+889257998	Engine's Desired Operating Speed	3040	0	28
+889257999	Battery Power Input	6553.5	0	31
+889258000	Engine Coolant Temp	127	-40	5
+889258001	Engine Fuel Temp	300	-100	5
+889258002	Engine Oil Temp	300	-100	5
+889258003	Engine Intake Manifold 1 Temp	210	-40	5
+889258004	Engine Oil Pressure	1000	0	9
+889258005	Engine Intake Manifold 1 Press	500	0	9
+889258006	Engine Avg Fuel Economy	65535	0	13
+889258007	Engine Fuel Rate	65535	0	13
+889258008	Engine Instant Fuel Economy	65536	0	13
+889258009	Engine Total Fuel Used	2105540607	0	14
+889258010	Engine Total Hours of Operation	600000	0	7
+889258011	Gateway Epec backbone Oper State	1	0	0
+889258012	Gateway Epec subbus Oper State	1	0	0
+889258013	Mapper Controller Oper State	1	0	0
+889258014	Frame Inclinometer Oper State	1	0	0
+889258015	Mast Inclinometer Oper State	1	0	0
+889258016	Rotary Head Oper State	1	0	0
+889258017	QUI Oper State	1	0	0
+889258018	Frame Inclinometer Oper State	1	0	0
+889258019	Mast Inclinometer Oper State	1	0	0
+889258020	Rotary Head PDO	1	0	0
+889258021	Backbone PDO (0x183)	1	0	0
+889258022	Backbone PDO (0x283)	1	0	0
+889258023	Backbone PDO (0x383)	1	0	0
+889258024	Backbone PDO (0x483)	1	0	0
+889258025	Backbone PDO (0x1A3)	1	0	0
+889258026	Backbone PDO (0x2A3)	1	0	0
+889258027	Backbone PDO (0x3A3)	1	0	0
+889258028	Backbone PDO (0x4A3)	1	0	0
+889258029	Backbone PDO (0x1C3)	1	0	0
+889258030	Backbone PDO (0x1B0)	1	0	0
+889258031	Backbone PDO (0x1B1)	1	0	0
+889258032	Backbone PDO (0x1B2)	1	0	0
+889258033	Backbone PDO (0x1B4)	1	0	0
+889258034	Version Number	255.65535	0	0

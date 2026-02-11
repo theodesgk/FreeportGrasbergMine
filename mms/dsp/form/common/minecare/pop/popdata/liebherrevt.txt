@@ -1,0 +1,17 @@
+OEM Interface Timeout	235012064
+OEM Interface Normal	235012065
+Driver Interface Timeout	235012066
+Driver Interface Normal	235012067
+Dipper Event	234946560
+Tons Event	234946561
+Dump Event	234946562
+Empty Event	234946563
+Left-Front Transducer Fault - Inactive	234946564
+Left-Front Transducer Fault - Active	234946565
+Right-Front Transducer Fault - Inactive	234946566
+Right-Front Transducer Fault - Active	234946567
+Left-Rear Transducer Fault - Inactive	234946568
+Left-Rear Transducer Fault - Active	234946569
+Right-Rear Transducer Fault - Inactive	234946570
+Right-Rear Transducer Fault - Active	234946571
+

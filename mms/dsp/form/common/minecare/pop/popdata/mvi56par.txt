@@ -1,0 +1,9 @@
+553713665	Last Truck Load In Tons	0	0	19
+553713666	Last Num Of Buckets In Truck	0	0	0
+553713667	Total Truck Fill Time	0	0	29
+553713668	Last Truck Propel Time	0	0	29
+553713669	Last Truck Swing Time	0	0	29
+553713670	Last Truck Bucket Fill Time	0	0	29
+553713671	1St Bucket Cycle Time	0	0	29
+553713672	Bucket Fill Energy	0	0	12
+553713673	Status Reason Code	0	0	0

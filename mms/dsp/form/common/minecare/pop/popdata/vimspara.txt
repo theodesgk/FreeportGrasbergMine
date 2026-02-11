@@ -1,0 +1,1183 @@
+83951617	Dimmer Switch	65535	0	0
+83951618	Cids (Component Ids)Abl I/M	65535	0	0
+83951619	Cids (Component Ids)Front Engine	65535	0	0
+83951620	Cids (Component Ids)Rear Engine	65535	0	0
+83951621	Cids (Component Ids)Chassis	65535	0	0
+83951622	Cids (Component Ids)Shadow Box	65535	0	0
+83951623	Cids (Component Ids)Sems (Smart Electronic Monitoring System)	65535	0	0
+83951624	Cids (Component Ids)Ecm	65535	0	0
+83951625	Cids (Component Ids)I/M 2	65535	0	0
+83951626	Cids (Component Ids)I/M 3	65535	0	0
+83951627	Cids (Component Ids)Exhaust Control	65535	0	0
+83951628	Cids (Component Ids)Transmission Control	65535	0	0
+83951629	Main Module Vims	65535	0	0
+83951630	Cids (Component Ids)Arc (Automatic Retarder Control)	65535	0	0
+83951631	Cids (Component Ids)M/C Module	65535	0	0
+83951632	Cids (Component Ids)Implement Control	65535	0	0
+83951633	Cids (Component Ids)I/M 4	65535	0	0
+83951634	Cids (Component Ids)Ibc (Integrated Braking Control)	65535	0	0
+83951635	Throttle Lock Enable Switch	65535	0	0
+83951636	Engine Rpm	32767.5	0	28
+83951637	Turbocharger Inlet Pressure	32767.5	0	9
+83951638	Left Turbocharger Inlet Pressure	32767.5	0	9
+83951639	Right Turbocharger Inlet Pressure	32767.5	0	9
+83951640	Peak Air Filter Restriction	32767.5	0	9
+83951641	Boost Pressure	32767.5	0	9
+83951642	Left Exhaust Temperature	65535	0	5
+83951643	Right Minus Left Exhaust Temperature	32767	-32768	5
+83951644	Right Exhaust Temperature	65535	0	5
+83951645	Turbocharger Outlet Pressure	32767.5	0	9
+83951646	Aftercooler (Coolant) Temperature	65535	0	5
+83951647	Front Aftercooler (Coolant) Temperature	65535	0	5
+83951648	Rear Aftercooler Temperature (Coolant)	65535	0	5
+83951649	Start Aid Switch	65535	0	0
+83951650	Wastegate Position	32767.5	0	25
+83951651	Cooling Fan Speed	32767.5	0	28
+83951652	Cold Mode Status	65535	0	0
+83951653	Engine Power Derate Percentage	32767.5	0	25
+83951654	Peak Air Filter Restriction	32767.5	0	9
+83951655	Ether Injection	65535	0	0
+83951656	Fuel Position	327.675	0	0
+83951657	Engine Load	65535	0	25
+83951658	Fuel Filter Bypass	65535	0	0
+83951659	Tank Fuel Level	327.675	0	25
+83951660	Throttle Switch Position	65535	0	26
+83951661	Throttle Position	26214	0	25
+83951662	Fuel Flow	3276.75	0	13
+83951663	Fuel Flow (English Units)	1022.346	0	13
+83951664	Fuel Pressure Filtered (Primary)	32767.5	0	9
+83951665	Engine Fuel Rate	3276.75	0	13
+83951666	Engine Oil Level	65535	0	0
+83951667	Engine Oil Pressure	32767.5	0	9
+83951668	Engine Oil Pressure (Absolute)	32767.5	0	9
+83951669	Crankcase Pressure	6553.5	0	9
+83951670	Engine Coolant Flow	65535	0	0
+83951671	Engine Coolant Temperature	65535	0	5
+83951672	Hydraulic Cooler Blocker	65535	0	0
+83951673	Aftercooler (Coolant) Level	65535	0	0
+83951674	Engine Coolant Level	65535	0	0
+83951675	Engine Oil Renewal	65535	0	0
+83951676	System Voltage	65.535	0	31
+83951677	Main Pilot Pressure	65535	0	9
+83951678	Implement Pilot Oil Pressure	65535	0	9
+83951679	Implement Pressure Switch	65535	0	0
+83951680	Unfiltered Oil Pressure	32767.5	0	9
+83951681	Boost Pressure Front Or Rear High	65535	0	0
+83951682	Boost Pressure Front Or Rear Low	65535	0	0
+83951683	Crankcase Air Pressure (Gauge)	3276.7	-3276.8	9
+83951684	Engine Timing	655.35	0	4
+83951685	Cold Cylinder Cutout	65535	0	0
+83951686	Average Cylinder Temperature	65535	0	5
+83951687	Engine Cylinder No. 1 Exhaust Temperature	65535	0	5
+83951688	Engine Cylinder No. 2 Exhaust Temperature	65535	0	5
+83951689	Engine Cylinder No. 3 Exhaust Temperature	65535	0	5
+83951690	Engine Cylinder No. 4 Exhaust Temperature	65535	0	5
+83951691	Engine Cylinder No. 5 Exhaust Temperature	65535	0	5
+83951692	Engine Cylinder No. 6 Exhaust Temperature	65535	0	5
+83951693	Engine Cylinder No. 7 Exhaust Temperature	65535	0	5
+83951694	Engine Cylinder No. 8 Exhaust Temperature	65535	0	5
+83951695	Engine Cylinder No. 9 Exhaust Temperature	65535	0	5
+83951696	Engine Cylinder No. 10 Exhaust Temperature	65535	0	5
+83951697	Engine Cylinder No. 11 Exhaust Temperature	65535	0	5
+83951698	Engine Cylinder No. 12 Exhaust Temperature	65535	0	5
+83951699	Engine Cylinder No. 13 Exhaust Temperature	65535	0	5
+83951700	Engine Cylinder No. 14 Exhaust Temperature	65535	0	5
+83951701	Engine Cylinder No. 15 Exhaust Temperature	65535	0	5
+83951702	Engine Cylinder No. 16 Exhaust Temperature	65535	0	5
+83951703	Engine Prelube Mode	65535	0	0
+83951704	Left Air Filter Restriction	6553.5	0	9
+83951705	Right Air Filter Restriction	6553.5	0	9
+83951706	Torque Limit	65535	0	21
+83951707	Engine Oil Pressure Status	65535	0	0
+83951708	Crank Without Injection Status	65535	0	0
+83951709	Throttle Switch No. 1 Status	65535	0	0
+83951710	Throttle Switch No. 2 Status	65535	0	0
+83951711	Throttle Switch No. 3 Status	65535	0	0
+83951712	Throttle Switch No. 4 Status	65535	0	0
+83951713	Right Air Filter Restriction	6553.5	0	9
+83951714	Left Air Filter Restriction	6553.5	0	9
+83951715	Air Filter Status	65535	0	0
+83951716	Overall Truck Engine Status	65535	0	0
+83951717	Alternator No.1	32767.5	0	28
+83951718	Alternator No.2	32767.5	0	28
+83951719	Ground Level Shutdown	65535	0	0
+83951720	Throttle Bypass	65535	0	0
+83951721	Injector Disabled	65535	0	0
+83951722	Exhaust Temperature	65535	0	5
+83951723	Intake Manifold #1 Air Temperature	6553.5	0	5
+83951724	Fuel Level Sensor	327.675	0	25
+83951725	Injector Actuator Pressure	163837.5	0	9
+83951726	Engine Oil Temperature	65535	0	5
+83951727	Fuel Temperature	6553.5	0	5
+83951728	Hydraulic Fan Bypass	32767.5	0	25
+83951729	Engine Fan Bypass	32767.5	0	25
+83951730	Engine Oil Pressure Difference	32767.5	0	9
+83951731	Engine Fan Speed No.1	32767.5	0	28
+83951732	Engine Fan Speed No.2	32767.5	0	28
+83951733	Right Minus Left Fan Speed	32767	-32768	28
+83951734	Engine Fan Temperature	65535	0	5
+83951735	Differential Lube Pressure	65535	0	0
+83951736	Final Drive Lube Pressure	32767.5	0	9
+83951737	Differential Filter	65535	0	0
+83951738	Final Drive Filter Switch	65535	0	0
+83951739	Final Drive Bypass Status	65535	0	0
+83951740	Rax Dvrt Solenoid Status	65535	0	0
+83951741	Final Drive Lube Low Pressure	65535	0	0
+83951742	Differential (Bevel Gear) Filter Status	65535	0	0
+83951743	Differential (Bevel Gear) Lube Pressure	65535	0	0
+83951744	Final Drive Filter Switch	65535	0	0
+83951745	Differential Oil Level	65535	0	0
+83951746	Differential Oil Temperature	65535	0	5
+83951747	Final Drive Filter Switch	65535	0	0
+83951748	Final Drive Lube Pressure Status	65535	0	0
+83951749	Ground Level Shutdown Signal Rear	65535	0	0
+83951750	Rear Aftercooler (Coolant) Temperature	65535	0	5
+83951751	Right Front Minus Left Front Exhaust Temperature	32767	-32768	5
+83951752	Right Rear Minus Left Rear Exhaust Temperature	32767	-32768	5
+83951753	Front Aftercooler (Coolant) Temperature	65535	0	5
+83951754	Ground Level Shutdown Signal Front	65535	0	0
+83951755	Front Engine Power Derate Percentage	32767.5	0	25
+83951756	Front Engine Slave Governing Status	65535	0	0
+83951757	Front Aftercooler (Coolant) Temperature	65535	0	5
+83951758	Front Engine Peak Air Filter (Restriction)	32767.5	0	9
+83951759	Front Engine Boost Pressure	32767.5	0	9
+83951760	Engine Crankcase Pressure Front	6553.5	0	9
+83951761	Front Engine Coolant Temperature	65535	0	5
+83951762	Front Engine Load	65535	0	25
+83951763	Front Engine Oil Filter Differential Pressure (Gauge)	32767.5	0	9
+83951764	Front Engine Oil Level	65535	0	0
+83951765	Engine Oil Pressure Front	32767.5	0	9
+83951766	Front Engine Status	65535	0	0
+83951767	Front Wastegate Position	32767.5	0	25
+83951768	Engine Fuel Filter Status Front	65535	0	0
+83951769	High Boost Pressure Front Engine	65535	0	0
+83951770	Low Front Engine Oil Pressure	65535	0	0
+83951771	Engine Left Front Turbo Exhaust Temperature	65535	0	5
+83951772	Engine Right Front Turbo Exhaust Temperature	65535	0	5
+83951773	Front Right Minus Front Left Exhaust Temperature	32767	-32768	5
+83951774	Front Engine Fuel Rate	3276.75	0	13
+83951775	Front Engine Speed	32767.5	0	28
+83951776	Injector Disabled Front	65535	0	0
+83951777	Engine Turbo Inlet Pressure Front	32767.5	0	9
+83951778	Low Boost Pressure Front Engine	65535	0	0
+83951779	Rear Engine Power Derate Percentage	32767.5	0	25
+83951780	Rear Engine Slave Governing Status	65535	0	0
+83951781	Rear Aftercooler (Coolant) Temperature	65535	0	5
+83951782	Rear Engine Boost Pressure	32767.5	0	9
+83951783	Rear Engine Load	65535	0	25
+83951784	Engine Oil Pressure Rear	32767.5	0	9
+83951785	Rear Engine Status	65535	0	0
+83951786	Rear Wastegate Position	32767.5	0	25
+83951787	Engine Fuel Filter Status Rear	65535	0	0
+83951788	Injector Disabled Rear	65535	0	0
+83951789	Rear Right Minus Rear Left Exhaust Temperature	32767	-32768	5
+83951790	Rear Engine Fuel Rate	3276.75	0	13
+83951791	Rear Engine Speed	32767.5	0	28
+83951792	Injector Disabled Rear	65535	0	0
+83951793	Low Rear Engine Oil Pressure	65535	0	0
+83951794	Engine Left Rear Turbo Exhaust Temperature	65535	0	5
+83951795	Engine Right Rear Turbo Exhaust Temperature	65535	0	5
+83951796	Rear Engine Turbocharger Inlet Pressure	32767.5	0	9
+83951797	Rear Engine Peak Air Filter (Restriction)	32767.5	0	9
+83951798	Engine Crankcase Pressure Rear	6553.5	0	9
+83951799	Rear Engine Colant Temperature (Jacket)	65535	0	5
+83951800	Rear Engine Oil Filter Differential Pressure (Gauge)	32767.5	0	9
+83951801	Rear Engine Oil Level	65535	0	0
+83951802	High Boost Pressure Rear Engine	65535	0	0
+83951803	Low Boost Pressure Rear Engine	65535	0	0
+83951804	Gear Box Temperature	65535	0	5
+83951805	Gear Box Pressure	65535	0	9
+83951806	Gear Box Chip (Detector)	65535	0	0
+83951807	Power Train Oil Filter	65535	0	0
+83951808	Power Train Oil Temperature	65535	0	5
+83951809	Transmission Gear	65535	0	26
+83951810	Gear Select (By Operator)	65535	0	26
+83951811	Front Pump Drive Temperature	65535	0	5
+83951812	Transmission Oil Filter	65535	0	0
+83951813	Transmission Oil Temperature	65535	0	5
+83951814	Torque Converter Filter (Bypass)	65535	0	0
+83951815	Torque Converter Output Speed	65535	0	28
+83951816	Torque Converter Screen	65535	0	0
+83951817	Torque Converter Outlet Temperature	65535	0	5
+83951818	Torque Converter Temperature	65535	0	0
+83951819	Torque Converter Outlet Pressure	65535	0	9
+83951820	Torque Converter Pedal Position	32767.5	0	25
+83951821	Left Position Low Calibration	32767.5	0	25
+83951822	Left Position High Calibration	32767.5	0	25
+83951823	Left Position Calibration Mode	65535	0	26
+83951824	Torque Converter Control	65535	0	0
+83951825	Reduced Rimpull Selection Switch Position	65535	0	0
+83951826	Quickshift Switch Position	65535	0	0
+83951827	Lockup Clutch Enable Switch Position	65535	0	0
+83951828	Pump Drive Oil Temperature	65535	0	5
+83951829	Differential Temperature (Oil)	65535	0	5
+83951830	Differential Chip (Detector)	65535	0	25
+83951831	Differential Filter Switch (Bypass)	65535	0	0
+83951832	Differential Lube Pressure	32767.5	0	9
+83951833	Transmission Pressure P1	65535	0	9
+83951834	Transmission Pressure P2	65535	0	9
+83951835	Impeller Clutch Pressure	65535	0	9
+83951836	Lockup Clutch Current (Amp) Percentage	65535	0	25
+83951837	Reduced Rimpull Status	65535	0	0
+83951838	Axle Protection	65535	0	0
+83951839	Tco Speed Signal	65535	0	28
+83951840	Gear Change Code	65535	0	0
+83951841	Transmission Input Speed	65535	0	28
+83951842	Transmission Intermediate Speed	65535	0	28
+83951843	Transmission Latching Pressure	65535	0	9
+83951844	Transmission Lockout Status	65535	0	0
+83951845	Transmission Oil Level	65535	0	0
+83951846	Transmission Oil Pressure	32767.5	0	9
+83951847	Transmission Lockout Switch	65535	0	0
+83951848	Transmission Shift Inhibitor	65535	0	0
+83951849	Transmission Shift Time Data	65535	0	0
+83951850	Transmission Cold Mode	65535	0	0
+83951851	Transmission Output Speed 2	65535	0	28
+83951852	Actual Gear (Transmission)	32767	-32768	26
+83951853	Transmission Gear	65535	0	26
+83951854	Transmission Lube Temperature	65535	0	5
+83951855	Gear Select (By Operator)	65535	0	26
+83951856	Actual Gear (Transmission)	65535	0	0
+83951857	Transmission Gear	65535	0	26
+83951858	Previous Gear	65535	0	26
+83951859	Transmission Output Speed	65535	0	28
+83951860	Transmission Charge Filter (Bypass)	65535	0	0
+83951861	Transmission Lube Filter (Bypass)	65535	0	0
+83951862	Transmission Slip (Oht)	1638.375	0	29
+83951863	Lockup Slip	1638.375	0	29
+83951864	Gear Change Code	65535	0	0
+83951865	Gear Movement Time	1638.375	0	29
+83951866	Transmission Lube Temperature	65535	0	0
+83951867	Transmission Lockout	65535	0	0
+83951868	Transmission (Oil) Pump Pressure	32767.5	0	9
+83951869	Transmission Filter (Bypass)	65535	0	0
+83951870	Neutral Switch	65535	0	0
+83951871	Controlled Rimpull Percent	65535	0	25
+83951872	Impeller Clutch Current (Amp) Percentage	65535	0	25
+83951873	Neutralizer Pressure Switch Position	65535	0	0
+83951874	Controlled Rimpull Percent	65535	0	0
+83951875	Impeller Clutch Current (Amp) Percentage	65535	0	0
+83951876	Reduced Rimpull Selection Switch Position	65535	0	0
+83951877	Reduced Rimpull On/Off Switch Position	65535	0	0
+83951878	Parking Brake Pressure Switch Status	65535	0	0
+83951879	Service Brake Status	65535	0	0
+83951880	Braking System Pressure Switch	65535	0	0
+83951881	Brake Cooling Pump Speed	32767.5	0	28
+83951882	Front Brake Cooling Filter Bypass	65535	0	0
+83951883	Parking Brake Dragging Status	65535	0	0
+83951884	Retarder	65535	0	0
+83951885	Brake Cooling Filter Bypass Rear	65535	0	0
+83951886	Remote Park Brake Set	65535	0	0
+83951887	Steering/Brake Pump Condition	65535	0	0
+83951888	Front Axle Pump Filter	65535	0	0
+83951889	Rear Axle Pump Filter	65535	0	0
+83951890	Brake Pump Filter Switch Status	65535	0	0
+83951891	Secondary Steering Pump Filter	65535	0	0
+83951892	Transmission Gear	65535	0	0
+83951893	Brake Pump Filter	65535	0	0
+83951894	Front Axle Oil Filter	65535	0	0
+83951895	Rear Axle Oil Filter	65535	0	0
+83951896	Steering Pump Filter	65535	0	0
+83951897	Brake Cooling Filter	65535	0	0
+83951898	Steering Brake Pilot Pressure Front	65535	0	0
+83951899	Left Brake Cooling Filter	65535	0	0
+83951900	Steering Accumulator Pressure	65535	0	9
+83951901	Retarder Lever	65535	0	25
+83951902	Automatic Retarder Switch Status	65535	0	0
+83951903	Brake Lockdown Switch	65535	0	0
+83951904	Fan Drive Filter	65535	0	0
+83951905	Service Brake Pedal Position Status	65535	0	0
+83951906	Left Rear Parking Brake Oil Pressure	65535	0	9
+83951907	Right Rear Parking Brake Oil Pressure	65535	0	9
+83951908	Left Rear Wheel Speed	65535	0	28
+83951909	Right Rear Wheel Speed	65535	0	28
+83951910	Left Front Tire Pressure	65535	0	0
+83951911	Left Rear Tire Pressure	65535	0	0
+83951912	Left Rear Tire Pressure	65535	0	0
+83951913	Right Front Tire Pressure	65535	0	0
+83951914	Right Rear Inner Tire Pressure	65535	0	0
+83951915	Right Rear Tire Pressure	65535	0	0
+83951916	Left Front Tire Temperature	65535	0	0
+83951917	Left Rear Tire Temperature	65535	0	0
+83951918	Left Rear Tire Temperature	65535	0	0
+83951919	Right Front Tire Temperature	65535	0	0
+83951920	Right Rear Inner Tire Temperature	65535	0	0
+83951921	Right Rear Tire Temperature	65535	0	0
+83951922	Machine Lock Switch	65535	0	0
+83951923	Right Rear Minus Right Front Brake Temperature	32767	-32768	5
+83951924	Left Rear Minus Left Front Brake Temperature	32767	-32768	5
+83951925	Steering Pump Oil Pressure Sensor	65535	0	9
+83951926	Steering Pump Low Oil Pressure Switch	65535	0	0
+83951927	Low Steering Pressure	65535	0	0
+83951928	High Steering Pressure	65535	0	0
+83951929	Steering Flow	65535	0	0
+83951930	Steering Oil Temperature	65535	0	5
+83951931	Steering Oil Filter	65535	0	0
+83951932	Steering Pilot Pressure	65535	0	9
+83951933	Steering Oil Level	65535	0	0
+83951934	Steering/Transmission Lock	65535	0	0
+83951935	Primary Steering Pressure	65535	0	0
+83951936	Front Brake Oil Temperature	65535	0	5
+83951937	Rear Brake Oil Temperature	65535	0	5
+83951938	Brake Air Pressure	65535	0	9
+83951939	Parking Brake	65535	0	0
+83951940	Brake Filter	65535	0	0
+83951941	Brake Temperature	65535	0	5
+83951942	Brake Stroke	65535	0	0
+83951943	Primary Brake Pressure	65535	0	9
+83951944	Secondary Brake Pressure	65535	0	9
+83951945	Steering Pilot Filter	65535	0	0
+83951946	Left Front Brake Temperature	65535	0	5
+83951947	Left Rear Brake Temperature	65535	0	5
+83951948	Right Front Brake Temperature	65535	0	5
+83951949	Right Rear Brake Temperature	65535	0	5
+83951950	Right Front Minus Left Front Brake Temperature	32767	-32768	5
+83951951	Right Rear Minus Left Rear Brake Temperature	32767	-32768	5
+83951952	Parking Brake Filter Switch	65535	0	0
+83951953	Front Brake Cooling Filter Status	65535	0	0
+83951954	Rear Brake Cooling Filter Status	65535	0	0
+83951955	Brake Actuation Pump Temperature	65535	0	5
+83951956	Front Brake Oil Pressure	65535	0	9
+83951957	Rear Brake Oil Pressure	65535	0	9
+83951958	Front Brake Accumulator Pressure	65535	0	0
+83951959	Rear Brake Accumulator Pressure	65535	0	0
+83951960	Front Axle Oil Temperature	65535	0	5
+83951961	Rear Axle Oil Temperature	65535	0	5
+83951962	Parking Brake Cab Switch	65535	0	0
+83951963	Brake Accumulator Pressure	65535	0	0
+83951964	Right Trailer Brake (Oil) Temperature	65535	0	5
+83951965	Left Trailer Brake (Oil) Temperature	65535	0	5
+83951966	Trailer Brake Cooler (Oil) Inlet Temperature	65535	0	5
+83951967	Trailer Brake Cooler (Oil) Outlet Temperature	65535	0	5
+83951968	Trailer Filter Plug	65535	0	0
+83951969	Trailer Brake Stroke	65535	0	0
+83951970	Steering Oil Temperature Switch	65535	0	0
+83951971	Engine Oil Filter Differential Pressure	32767.5	0	9
+83951972	Right Steering Pump Pressure	65535	0	9
+83951973	Left Steering Pump Pressure	65535	0	9
+83951974	Steering Cooling Filter	65535	0	0
+83951975	Steering Case Drain	65535	0	0
+83951976	Steering Return To Tank Filter Status	65535	0	0
+83951977	Left Steering Case Drain	65535	0	5
+83951978	Right Steering Case Drain	65535	0	5
+83951979	Parking Brake Oil Filter Status	65535	0	0
+83951980	Left Steering Case Drain Oil Filter Status	65535	0	0
+83951981	Right Steering Case Drain Oil Filter Status	65535	0	0
+83951982	Parking Brake Drag	65535	0	0
+83951983	Steering Oil Level	327.675	0	25
+83951984	Front High Pressure Filter Switch	65535	0	0
+83951985	Rear High Pressure Filter Switch	65535	0	0
+83951986	Hydraulic Oil Temperature	65535	0	5
+83951987	Pump Inlet Valve	65535	0	0
+83951988	Hydraulic Oil Level	65535	0	0
+83951989	Case Drain Filter	65535	0	0
+83951990	High Pressure Filter	65535	0	0
+83951991	Hoist Screen	65535	0	0
+83951992	Hydraulic Return Filter	65535	0	0
+83951993	Left Front Pump Chip (Detector)	65535	0	0
+83951994	Left Rear Pump Chip (Detector)	65535	0	0
+83951995	Right Front Pump Chip (Detector)	65535	0	0
+83951996	Right Rear Pump Chip (Detector)	65535	0	0
+83951997	Hydraulic System Pressure	65535	0	9
+83951998	Differential Oil Level	65535	0	0
+83951999	Swing Pressure Status	65535	0	0
+83952000	Swing Motor Speed	32767.5	0	28
+83952001	Hydraulic Oil Filter	65535	0	0
+83952002	Implement Pilot Pressure	65535	0	9
+83952003	Engine Fan Bypass	32767.5	0	25
+83952004	Engine Fan Speed	32767.5	0	28
+83952005	High Speed Fan	65535	0	0
+83952006	Low Speed Fan	65535	0	0
+83952007	Differential Fan	65535	0	0
+83952008	Hydraulic Fan Bypass	32767.5	0	25
+83952009	Left Hydraulic Case Drain Temperature	65535	0	5
+83952010	Center Hydraulic Case Drain Temperature	65535	0	5
+83952011	Right Hydraulic Case Drain Temperature	65535	0	5
+83952012	Hydraulic Lube Pump Filter	65535	0	0
+83952013	Front Swing Oil Level	65535	0	0
+83952014	Left Rear Swing Oil Level	65535	0	0
+83952015	Right Rear Swing (Motor) Oil Level	65535	0	0
+83952016	Left Swing Oil Level	65535	0	0
+83952017	Right Swing Oil Level	65535	0	0
+83952018	Dual Pressure Relief Solenoid	65535	0	0
+83952019	Seg Status	65535	0	0
+83952020	Blade Pitch	32767.5	0	25
+83952021	Blade Height	32767.5	0	25
+83952022	Blade Tilt	32767.5	0	25
+83952023	Swing Oil Level	65535	0	0
+83952024	Swing Pump Chip (Detector)	65535	0	0
+83952025	Left Swing Motor Chip (Detector)	65535	0	0
+83952026	Right Swing Motor Chip (Detector)	65535	0	0
+83952027	Implement Pilot Filter	65535	0	0
+83952028	Left Hydraulic Case Drain Oil Filter Status	65535	0	0
+83952029	Center Hydraulic Case Drain Oil Filter Status	65535	0	0
+83952030	Right Hydraulic Case Drain Oil Filter Status	65535	0	0
+83952031	Variable Pump Case Drain Status	65535	0	0
+83952032	Fixed Fan Pump Case Drain	65535	0	0
+83952033	System Air Pressure	65535	0	9
+83952034	Fan Motor Case Drain	65535	0	0
+83952035	Variable Pump Filter Status	65535	0	0
+83952036	Fixed Pump Filter Status	65535	0	0
+83952037	Fan Pump Filter Status	65535	0	0
+83952038	Hydraulic Circuit Filter Status	65535	0	0
+83952039	Fan Motor Filter	65535	0	0
+83952040	Swing Brake Pilot Pressure	65535	0	9
+83952041	Left Ladder Position	65535	0	0
+83952042	Swing Brake	65535	0	0
+83952043	Travel Brake	65535	0	0
+83952044	Automatic Lube Cat Data Link	65535	0	0
+83952045	Hydraulic Pump Case Drain Filter Switch	65535	0	0
+83952046	Right Ladder Position	65535	0	0
+83952047	Automatic Kickdown Status	65535	0	0
+83952048	Lift Cylinder Head Pressure	65535	0	9
+83952049	Tilt Cylinder Rod Pressure	65535	0	9
+83952050	Lift Linkage Position	655.35	0	4
+83952051	Tilt Linkage Position	655.35	0	4
+83952052	Lift Lever Position	65535	0	25
+83952053	Tilt Lever Position	65535	0	25
+83952054	Lift Raise Solenoid No. 1	65535	0	25
+83952055	Lift Lower Solenoid No. 1	65535	0	25
+83952056	Tilt Dump Solenoid No. 1	65535	0	25
+83952057	Tilt Rack Solenoid No. 1	65535	0	25
+83952058	Variable Pump Torque	65535	0	24
+83952059	Implement Lock	65535	0	0
+83952060	Variable Hydraulic Pump Pressure	65535	0	9
+83952061	Hydraulic Pump Pressure	65535	0	9
+83952062	Lift Linkage Sensor	65535	0	25
+83952063	Tilt Linkage Sensor	65535	0	25
+83952064	Lift Lever Sensor	65535	0	25
+83952065	Tilt Lever Sensor	65535	0	25
+83952066	Top Front Pump Chip (Detector)	65535	0	0
+83952067	Top Rear Pump Chip (Detector)	65535	0	0
+83952068	Right Front Swing (Motor) Chip (Detector)	65535	0	0
+83952069	Right Rear Swing (Motor) Chip (Detector)	65535	0	0
+83952070	Bottom Front Pump Chip (Detector)	65535	0	0
+83952071	Bottom Rear Pump Chip (Detector)	65535	0	0
+83952072	Tilt Rack Solenoid No. 2	65535	0	25
+83952073	Tilt Dump Solenoid No. 2	65535	0	25
+83952074	Lift Lower Solenoid No. 2	65535	0	25
+83952075	Lift Raise Solenoid No. 2	65535	0	25
+83952076	Boom Raise Pilot Pressure Switch	65535	0	0
+83952077	Swing High Pilot Pressure	65535	0	0
+83952078	Implement High Pressure Filter	65535	0	0
+83952079	Front Pump Drive Filter	65535	0	0
+83952080	Blade Tilt Mode	65535	0	0
+83952081	Front Pump Drive Filter	65535	0	0
+83952082	Hydraulic Cooler Filter	65535	0	0
+83952083	Fan Pump Filter	65535	0	0
+83952084	Implement Variable Pump Filter	65535	0	0
+83952085	Implement Fixed Pump Filter	65535	0	0
+83952086	Fan Motor Filter	65535	0	0
+83952087	Implement Oil Temp	65535	0	5
+83952088	Implement Oil Level	65535	0	0
+83952089	Implement Pilot Filter	65535	0	0
+83952090	Implement Variable Pump Solenoid	65535	0	25
+83952091	Fan Pump Case Drain Status	65535	0	0
+83952092	Fan Motor Case Drain Status	65535	0	0
+83952093	Left Front Implement Case Drain Status	65535	0	0
+83952094	Right Front Implement Case Drain Status	65535	0	0
+83952095	Left Rear Implement Case Drain Status	65535	0	0
+83952096	Right Rear Implement Case Drain Status	65535	0	0
+83952097	Variable Pump Solenoid	65535	0	25
+83952098	Tilt Cylinder To Tank Head End Solenoid	6553.5	0	25
+83952099	Tilt Pump To Cylinder Head End Solenoid	6553.5	0	25
+83952100	Tilt Pump To Cylinder Rod End Solenoid **	6553.5	0	25
+83952101	Tilt Cylinder To Tank Rod End Solenoid	6553.5	0	25
+83952102	Left Cylinder To Tank Head End Solenoid	6553.5	0	25
+83952103	Lift Pump To Cylinder Head End Solenoid	6553.5	0	25
+83952104	Lift Pump To Cylinder Rod End Solenoid	6553.5	0	25
+83952105	Left Cylinder To Tank Rod End Solenoid	6553.5	0	25
+83952106	Pilot Supply Solenoid	65535	0	25
+83952107	Implement Cool Filter	65535	0	0
+83952108	Pump->Tank Solenoid	6553.5	0	0
+83952109	Lift Cylinder Length	65535	0	0
+83952110	Tilt Cylinder Length	65535	0	0
+83952111	Front Axle Clear Solenoid	65535	0	0
+83952112	Rear Axle Clear Solenoid	65535	0	0
+83952113	Control Valve 1	65535	0	0
+83952114	Control Valve 2	65535	0	0
+83952115	Control Valve 3	65535	0	0
+83952116	Control Valve 4	65535	0	0
+83952117	Differential Fan Relay	65535	0	0
+83952118	Atmospheric Pressure Rear Engine	32767.5	0	9
+83952119	Hoist Rod End Pressure	65535	0	9
+83952120	Hoist Head End Pressure	65535	0	9
+83952121	Body Position Sensor	655.35	0	4
+83952122	Tilt Cylinder Head Pressure	65535	0	9
+83952123	Right Front Minus Left Front Suspension Cylinder	32767	-32768	9
+83952124	Right Rear Minus Left Rear Suspension Cylinder	32767	-32768	9
+83952125	Hoist Screen Bypass	65535	0	0
+83952126	Suspension Cylinder Left Front	65535	0	9
+83952127	Suspension Cylinder Left Rear	65535	0	9
+83952128	Suspension Cylinder Right Rear	65535	0	9
+83952129	Suspension Cylinder Right Front	65535	0	9
+83952130	Ground Speed	32767.5	0	11
+83952131	Left Front Suspension Cylinder	65535	0	9
+83952132	Left Rear Suspension Cylinder	65535	0	9
+83952133	Right Front Suspension Cylinder	65535	0	9
+83952134	Right Rear Suspension Cylinder	65535	0	9
+83952135	Body Position Angle	327.67	-327.68	4
+83952136	Ground Speed	16383.5	-16384	11
+83952137	Body Position	65535	0	0
+83952138	Body Lever	65535	0	0
+83952139	Payload	6553.5	0	19
+83952140	Payload Status	65535	0	0
+83952141	Haul Distance	6553.5	0	8
+83952142	Right Trailer Suspension Cylinder Pressure	65535	0	9
+83952143	Left Trailer Suspension Cylinder Pressure	65535	0	9
+83952144	Trailer Door Position	65535	0	25
+83952145	Forward Distance	6553.5	0	8
+83952146	Reverse Distance	6553.5	0	8
+83952147	Total Distance	6553.5	0	8
+83952148	Ground Speed	117.9612	-117.9648	11
+83952149	Operating Mode	65535	0	0
+83952150	User Shutdown	65535	0	0
+83952151	Shutdown Switch	65535	0	0
+83952152	Automatic Lube (Status)	65535	0	0
+83952153	Swing High Pressure Filter	65535	0	0
+83952154	Calibration Enabled	65535	0	0
+83952155	Automatic Lube Pressure	65535	0	9
+83952156	Automatic Lube Level	65535	0	0
+83952157	Automatic Lube (Status)	65535	0	0
+83952158	Engine Fan Pump Pressure	65535	0	9
+83952159	Automatic Lube (Status)	65535	0	0
+83952160	System Voltage	65.535	0	31
+83952161	Bucket Weight	6553.5	0	19
+83952162	Truck Weight	6553.5	0	19
+83952163	Swing Pilot Pressure	65535	0	0
+83952164	Swing Pump Pressure	65535	0	9
+83952165	Hydraulic Oil Pressure	65535	0	9
+83952166	Swing/Implement Pressure Switch	65535	0	0
+83952167	Travel Pilot Pressure	65535	0	0
+83952168	Travel Alarm Cancel	65535	0	0
+83952169	Boom Float Pressure	65535	0	0
+83952170	Boom Float Switch	65535	0	0
+83952171	Bucket Open Switch	65535	0	0
+83952172	Bucket Close Switch	65535	0	0
+83952173	Horn Switch	65535	0	0
+83952174	Differential Filter Switch	65535	0	0
+83952175	Service Console	65535	0	0
+83952176	Horn	65535	0	0
+83952177	Boom Float	65535	0	0
+83952178	Bucket Open	65535	0	0
+83952179	Bucket Close	65535	0	0
+83952180	Travel Alarm	65535	0	0
+83952181	Boom Lower	65535	0	0
+83952182	Boom Lower Switch	65535	0	0
+83952183	Ether Injection Switch	65535	0	0
+83952184	Authentic Engine Speed Control	65535	0	0
+83952185	Start Relay	65535	0	0
+83952186	Key Start Switch	65535	0	0
+83952187	Authentic Engine Speed Control Enable Switch	65535	0	0
+83952188	Authentic Engine Speed Control Control Line	65535	0	0
+83952189	Payload Switch	65535	0	0
+83952190	Hoist Over Center	65535	0	0
+83952191	Hoist Lever Position From Chassis Control	65535	0	0
+83952192	Hoist Status From Chasis Control	65535	0	0
+83952193	Atmospheric Pressure	32767.5	0	9
+83952194	Ambient Air Temperature	6553.5	0	5
+83952195	Machine Pitch	65535	0	9
+83952196	Machine Rack	65535	0	9
+83952197	Engine Atmospheric Pressure Front	32767.5	0	9
+83952198	Reel Lube Switch	65535	0	0
+83952199	Right Minus Left Trailer Braketemp	32767	-32768	5
+83952200	Right Minus Left Trailer Suspension Cylinder	32767	-32768	9
+83952201	Hoist Lever Position	65535	0	0
+83952202	Desired Hoist Status	65535	0	0
+83952203	Vims Event List	65535	0	25
+83952204	Payload Data	65535	0	25
+83952205	Vims Snapshot	65535	0	25
+83952206	Payload Memory	65535	0	25
+83952207	Power Shift Pressure	65535	0	9
+83952208	Vids Event List	65535	0	25
+83952209	Power Shift	65535	0	25
+83952210	% Time Loading	65535	0	25
+83952211	Average Cycle Time	16383.75	0	29
+83952212	% Time Idle	65535	0	25
+83952213	% Time Travel	65535	0	25
+83952214	Max Pitch Per Second	65535	0	9
+83952215	Max Rack Per Second	65535	0	9
+83952216	Current Fatigue Equivalent Load Analysis (Fela)	65535	0	0
+83952217	Moving Average No.1 Fatigue Equipment Load Analysis (Fela)	65535	0	0
+83952218	Moving Average No.3 Fatigue Equipment Load Analysis (Fela)	65535	0	0
+83952219	Moving Average No.5 Fatigue Equipment Load Analysis (Fela)	65535	0	0
+83952220	Run Average Pressure Fatigue Equipment Load Analysis (Fela)	65535	0	0
+83952221	Cumulative Fatigue Equipment Load Analysis (Fela) Update	65535	0	0
+83952222	Detector System	65535	0	0
+83952223	Chip Detector	65535	0	0
+83952224	Manual Event Recorder	65535	0	0
+83952225	User Calibration	65535	0	0
+83952226	Current Rear Fatigue Equivalent Load Analysis (Fela)	65535	0	0
+83952227	Moving Average No.1 Rear Fatigue Equipment Load Analysis (Fela)	65535	0	0
+83952228	Moving Average No.3 Rear Fatigue Equipment Load Analysis (Fela)	65535	0	0
+83952229	Moving Average No.5 Rear Fatigue Equipment Load Analysis (Fela)	65535	0	0
+83952230	Running Average Rear Fatigue Equivalent Load Analysis (Fela)	65535	0	0
+83952231	Fatigue Equivalent Load Analysis (Fela) Trigger	65535	0	0
+83952232	Attachment Code	65535	0	0
+83952233	Exhaust Temperature Deviation Left Front	65535	0	5
+83952234	Exhaust Temperature Deviation Left Rear	65535	0	5
+83952235	Exhaust Temperature Deviation Right Front	65535	0	5
+83952236	Exhaust Temperature Deviation Right Rear	65535	0	5
+83952237	Cycle Time	16383.75	0	29
+83952238	% Time Loading	65535	0	25
+83952239	Cycle Time Hours	16383.75	0	29
+83952240	% Time Running	65535	0	25
+83952241	Differential (Bevel Gear) Torque	65535	0	28
+83952242	Loading Time	16383.75	0	29
+83952243	Stopped Empty Time	16383.75	0	29
+83952244	Travel Empty Time	16383.75	0	29
+83952245	Stopped Loaded Time	16383.75	0	29
+83952246	Travel Loaded Time	16383.75	0	29
+83952247	Throttle Lock Speed	32767.5	0	28
+83952248	Injector Disabled	65535	0	0
+83952249	Low Oil Pressure	65535	0	0
+83952250	Sample Bucket History	65535	0	0
+83952251	Sample Truck History	65535	0	0
+83952252	Left Final Drive Chip Detector Level	65535	0	25
+83952253	Right Final Drive Chip Detector Level	65535	0	25
+83952254	Left Final Drive Temperature	65535	0	5
+83952255	Right Final Drive Temperature	65535	0	5
+83952256	Attachment Code	65535	0	0
+83952257	Machine Roll	65535	0	9
+83952258	Transmission Intermediate Speed	65535	0	7
+83952259	Transmission Intermediate Speed No.2	65535	0	7
+83952260	Transmission Output Speed	65535	0	7
+83952261	Transmission Output Speed 2	65535	0	7
+83952262	Reverse Clutch Solenoid Curent	65535	0	25
+83952263	Forward Clutch Solenoid Curent	65535	0	25
+83952264	Speed 1 Clutch Solenoid Curent	65535	0	25
+83952265	Speed 2 Clutch Solenoid Curent	65535	0	25
+83952266	Speed 3 Clutch Solenoid Curent	65535	0	25
+83952267	Priority Valve Solenoid Status	65535	0	0
+83952268	Left Steering Cl Solenoid Current	32767.5	0	25
+83952269	Right Steering Cl Solenoid Current	32767.5	0	25
+83952270	Left Brake Solenoid Current	32767.5	0	25
+83952271	Right Brake Solenoid Current	32767.5	0	25
+83952272	Secondary Brake Solenoid Status	65535	0	0
+83952273	Park Brake Solenoid Status	65535	0	0
+83952274	Lube Control Solenoid Status	65535	0	0
+83952275	Engine Fan Solenoid Current	32767.5	0	25
+83952276	Implement Lockout Solenoid Status	65535	0	0
+83952277	Pco Solenoid Status	65535	0	0
+83952278	Blade Raise Solenoid Current	32767.5	0	25
+83952279	Blade Lower Solenoid Current	32767.5	0	25
+83952280	Blade Tilt Left Solenoid Current	65535	0	25
+83952281	Blade Tilt Right Solenoid Current	65535	0	25
+83952282	Rip Raise Solenoid Current	32767.5	0	25
+83952283	Rip Lower Solenoid Current	32767.5	0	25
+83952284	Rip In Solenoid Current	32767.5	0	25
+83952285	Rip Out Solenoid Current	32767.5	0	25
+83952286	Blade Control Lift Position	32767.5	0	25
+83952287	Blade Control Tilt Position	32767.5	0	25
+83952288	Rip Control Lift Position	32767.5	0	25
+83952289	Rip Control In/Out Position	32767.5	0	25
+83952290	Machine Slope	6553.5	0	25
+83952291	Machine Side Slope	6553.5	0	25
+83952292	Track Slip	6553.5	0	25
+83952293	Ground Speed	235.926	0	11
+83952294	Blade Load Factor	32767.5	0	25
+83952295	Left Steering Lever Position	32767.5	0	25
+83952296	Right Steering Lever Position	32767.5	0	25
+83952297	Transmission Shift Lever Position	32767.5	0	25
+83952298	Direction Switch Position	65535	0	0
+83952299	Service Brake Pedal Position	32767.5	0	25
+83952300	Service Brake Pedal Switch	65535	0	0
+83952301	Decelerator Position	26214	0	25
+83952302	Pitch Back Switch Position	65535	0	0
+83952303	Pitch Forward Switch Position	65535	0	0
+83952304	Pitch Forward Trigger Switch	65535	0	0
+83952305	Transmission Upshift Switch Position	65535	0	0
+83952306	Transmission Downshift Switch Position	65535	0	0
+83952307	Bi Directional Automatic Shift Switch	65535	0	0
+83952308	Automatic Downshift Switch	65535	0	0
+83952309	Ether Injection Switch Position	65535	0	0
+83952310	Front Transmission Oil Filter	65535	0	0
+83952311	Rear Transmission Oil Filter	65535	0	0
+83952312	Transmission Lube Temperature	65535	0	5
+83952313	Speed Ratio	65535	0	0
+83952314	Transmission Solenoid 1 Current	655.35	0	25
+83952315	Transmission Solenoid 2 Current	655.35	0	25
+83952316	Transmission Solenoid 3 Current	655.35	0	25
+83952317	Transmission Solenoid 4 Current	655.35	0	25
+83952318	Transmission Solenoid 5 Current	655.35	0	25
+83952319	Oil Contamination 1	65535	0	25
+83952320	Oil Contamination 2	65535	0	25
+83952321	Oil Contamination 3	65535	0	25
+83952322	Contamination Present 1	65535	0	9
+83952323	Contamination Present 2	65535	0	9
+83952324	Contamination Present 3	65535	0	9
+83952325	Variable Pump Pressure	65535	0	22
+83952326	Swing Pump Pressure	65535	0	22
+83952327	Cid Pt Ecm	65535	0	0
+83952328	Filter	65535	0	0
+83952329	Low Oil Pressure	65535	0	0
+83952330	Engine	65535	0	0
+83952331	Oil Filter Bypass	65535	0	0
+83952332	Engine Overspeed	65535	0	0
+83952333	Shift Time	65535	0	23
+83952334	Active Events	65535	0	0
+83952335	Development #1	65535	0	0
+83952336	Development #2	65535	0	0
+83952337	Development #3	65535	0	0
+83952338	Development #4	65535	0	0
+83952339	Development #5	65535	0	0
+83952340	Development #6	65535	0	0
+83952341	Development #7	65535	0	0
+83952342	Development #8	65535	0	0
+83952343	Dev U16E #1	65535	0	0
+83952344	Dev U16E #2	65535	0	0
+83952345	Dev U16E #3	65535	0	0
+83952346	Dev U16E #4	65535	0	0
+83952347	Dev U16E #5	65535	0	0
+83952348	Dev U16E #6	65535	0	0
+83952349	Dev U16E #7	65535	0	0
+83952350	Dev U16E #8	65535	0	0
+83952351	Dev U16E #9	65535	0	0
+83952352	Dev U16E #10	65535	0	0
+83952353	Dev U16 #1	65535	0	0
+83952354	Dev U16 #2	65535	0	0
+83952355	Dev U16 #3	65535	0	0
+83952356	Dev U16 #4	65535	0	0
+83952357	Dev U16 #5	65535	0	0
+83952358	Dev 16E #1	65535	0	0
+83952359	Dev 16E #2	65535	0	0
+83952360	Dev 16E #3	65535	0	0
+83952361	Dev 16E #4	65535	0	0
+83952362	Dev 16E #5	65535	0	0
+83952363	Dev 16E #6	65535	0	0
+83952364	Dev 16E #7	65535	0	0
+83952365	Dev 16E #8	65535	0	0
+83952366	Dev 16E #9	65535	0	0
+83952367	Dev 16E #10	65535	0	0
+83952368	Dev 16 #1	65535	0	0
+83952369	Dev 16 #2	65535	0	0
+83952370	Dev 16 #3	65535	0	0
+83952371	Dev 16 #4	65535	0	0
+83952372	Dev 16 #5	65535	0	0
+83952373	Model Engine Power	655350	0	0
+83952374	Torque Converter Engine Power	655350	0	0
+83952375	Engine Power Ratio	6553.5	0	0
+83952376	Exhaust Temperature Deviation Left Front	65535	0	5
+83952377	Exhaust Temperature Deviation Left Rear	65535	0	5
+83952378	Exhaust Temperature Deviation Right Front	65535	0	5
+83952379	Exhaust Temperature Deviation Right Rear	65535	0	5
+83952380	Engine Injector Disabled	65535	0	0
+83952381	Oil Pressure Front Shutdown Status	65535	0	0
+83952382	Transmission Oil Pressure Low	65535	0	0
+83952383	Transmission Oil Pressure High	65535	0	0
+83952384	Steering Oil Level Qg	65535	0	0
+83952385	Oil Pressure Rear Shutdown Status	65535	0	0
+83952386	Right Front Tire Pressure	65535	0	9
+83952387	Right Front Nominal Pressure	65535	0	9
+83952388	Right Front % Of Nominal Pressure	65535	0	25
+83952389	Right Front Tire Temperature	65535	0	5
+83952390	Right Front % Of Max Temperature	65535	0	25
+83952391	Left Front Tire Pressure	65535	0	9
+83952392	Left Front Nominal Pressure	65535	0	9
+83952393	Left Front % Of Nominal Pressure	65535	0	25
+83952394	Left Front Tire Temperature	65535	0	5
+83952395	Left Front % Of Max Temperature	65535	0	25
+83952396	Right Rear Inner Tire Pressure	65535	0	9
+83952397	Right Rear Inner Nominal Pressure	65535	0	9
+83952398	Right Rear Inner Tire % Of Nominal Pressure	65535	0	25
+83952399	Right Rear Inner Tire Temperature	65535	0	5
+83952400	Right Rear Inner Tire % Of Max Temperature	65535	0	25
+83952401	Right Rear Outer Tire Pressure	65535	0	9
+83952402	Right Rear Outer Nominal Pressure	65535	0	9
+83952403	Right Rear Outer % Of Nominal Pressure	65535	0	25
+83952404	Right Rear Outer Tire Temperature	65535	0	5
+83952405	Right Rear Outer % Of Max Temperature	65535	0	25
+83952406	Left Rear Inner Tire Pressure	65535	0	9
+83952407	Left Rear Inner Nominal Pressure	65535	0	9
+83952408	Left Rear Inner % Of Nominal Pressure	65535	0	25
+83952409	Left Rear Inner Tire Temperature	65535	0	5
+83952410	Left Rear Inner % Of Max Temperature	65535	0	25
+83952411	Left Rear Outer Tire Pressure	65535	0	9
+83952412	Left Rear Outer Nominal Pressure	65535	0	9
+83952413	Left Rear Outer % Of Nominal Pressure	65535	0	25
+83952414	Left Rear Outer Tire Temperature	65535	0	5
+83952415	Left Rear Outer % Of Max Temperature	65535	0	25
+83952416	Right Front Reverse	65535	0	0
+83952417	Left Front Reverse	65535	0	0
+83952418	Right Rear Inner Reverse	65535	0	0
+83952419	Right Rear Outer Reverse	65535	0	0
+83952420	Left Rear Inner Reverse	65535	0	0
+83952421	Left Rear Outer Reverse	65535	0	0
+83952422	Retarder Lever	65535	0	0
+83952423	Automatic Retarder Switch Status	65535	0	0
+83952424	Brake Lockdown Switch	65535	0	0
+83952425	Low Engine Oil Pressure	65535	0	0
+83952426	Shutdown State	65535	0	0
+83952427	Reverse Alarm Switch	65535	0	0
+83952428	Cycle State	65535	0	0
+83952429	Abusive Shift	65535	0	0
+83952430	Fuel Level Sensor No.2	65535	0	0
+83952431	Hoist Position Chasis Control 2	65535	0	0
+83952432	Hoist Status Chasis Control 2	65535	0	0
+83952433	Machine Pitch 2	65535	0	0
+83952434	Machine Roll 2	65535	0	0
+83952435	Service Hours	18.2041666666667	0	7
+83952436	Travel Empty Distance	10546.835904	0	8
+83952437	Dippers Num	65535	0	0
+83952438	Higher Fuel	65535	0	0
+83952439	Lower Fuel	65535	0	0
+83952440	Oil Renewal System Oil Level	65535	0	0
+83952441	Right Front Minus Left Front Exhaust Temperature	32767	-32768	5
+83952442	Right Rear Minus Left Rear Exhaust Temperature	32767	-32768	5
+83952443	Engine Coupling Pressure	6553.5	0	9
+83952444	Steering Accumulator Small	65535	0	0
+83952445	Steering Accumulator Large	65535	0	0
+83952446	Transfer Case Pressure	65535	0	0
+83952447	Transfer Case Temperature	65535	0	5
+83952448	Transfer Case Filter	65535	0	0
+83952449	Hydraulic Oil Flow Switch	65535	0	0
+83952450	Door Open	65535	0	25
+83952451	Charge Pump Filter	65535	0	0
+83952452	Total Fuel	8191.875	0	14
+83952453	Total Idle Time	3276.75	0	7
+83952454	Total Idle Fuel	8191.875	0	14
+83952455	Total Time	65535	0	7
+83952456	Autodig Enable	65535	0	0
+83952457	Max Bias Per Second	65535	0	9
+83952458	Service Brake Accumulator	65535	0	9
+83952459	Brake Pump Pressure Switch	65535	0	9
+83952460	Carryback Weight	6553.5	0	19
+83952461	Tons Kilometers Per Hour Front Tires	65535	0	20
+83952462	Tons Kilometers Per Hour Rear Tires	65535	0	20
+83952463	Speed Limit	65535	0	0
+83952464	Tons Kilometers Per Hour Front Warn	65535	0	0
+83952465	Tons Kilometers Per Hour Rear Warn	65535	0	0
+83952466	Leveling System Switch	65535	0	0
+83952467	Actual Gear (Transmission)	65535	0	26
+83952468	Transmission Filter Bypass	65535	0	0
+83952469	Steering Pump Pressure	65535	0	9
+83952470	Leveling System	65535	0	0
+83952471	Shifter Console	65535	0	0
+83952472	Transmission Engine Speed	32767.5	0	28
+83952473	Transmission Required Speed Limit	32767.5	0	28
+83952474	Transfer Case Pedal Sensor	32767.5	0	28
+83952475	Ride Control	65535	0	0
+83952476	Downshift Switch	65535	0	0
+83952477	Upshift Switch	65535	0	0
+83952478	Ride Control Switch	65535	0	0
+83952479	Backup Alarm	65535	0	0
+83952480	Lift Detent	65535	0	0
+83952481	Lower Detent	65535	0	0
+83952482	Rack Detent	65535	0	0
+83952483	Automatic Lube Solenoid	65535	0	0
+83952484	Automatic Lube Interval	65535	0	0
+83952485	Automatic Lube Control	65535	0	0
+83952486	Automatic Lube Time	65535	0	0
+83952487	Manual Lube Status	65535	0	0
+83952488	Oil Renewal System Oil Level	65535	0	0
+83952489	Secondary Air Pressure	65535	0	9
+83952490	Rack Position	327.675	0	21
+83952491	Transmission Filter Bypass	65535	0	0
+83952492	Front Axle Temperature	65535	0	0
+83952493	Rear Axle Temperature	65535	0	0
+83952494	Torque Converter Speed Ratio	65.535	0	0
+83952495	Machine Working	65535	0	0
+83952496	Direction Shift	65535	0	0
+83952497	Engine Load	6553.5	0	25
+83952498	Ignition Key Switch	65535	0	0
+83952499	Idle Shutdown Switch	65535	0	0
+83952500	Idle Shutdown Switch	65535	0	0
+83952501	Retarder Mode	65535	0	0
+83952502	Oil Renewal System Oil Level Status	65535	0	0
+83952503	Torque Converter Output Torque	655350	0	24
+83952504	Finaldrive Pin Torque	655350	0	24
+83952505	Track Speed	235.926	0	11
+83952506	Service Brake Accumulator Pressure	65535	0	0
+83952507	Brake Pump Pressure	65535	0	0
+83952508	Low Steering Pump Pressure	65535	0	0
+83952509	Low Steering Accumulator Pressure	65535	0	0
+83952510	High Brake Pump Pressure	65535	0	0
+83952511	High Brake Pump Comand	65535	0	0
+83952512	High Steering Pump Pressure	65535	0	0
+83952513	Blade Float Status	65535	0	0
+83952514	Hydraulic Cylinder Filter Bypass	65535	0	0
+83952515	Hydraulic Psp Filter Bypass	65535	0	0
+83952516	Blade Quick Drive Solenoid Status	65535	0	0
+83952517	Transmission Filter Bypass Status	65535	0	0
+83952518	Pitch Front Trigger Switch	65535	0	0
+83952519	Bc Md Select Switch	65535	0	0
+83952520	Bc Manual Select Switch	65535	0	0
+83952521	Charge Oil Pressure Absolute	65535	0	9
+83952522	Rip Right/Left Lever Position	32767.5	0	25
+83952523	Rip Shk Input/Output Lever	32767.5	0	25
+83952524	Steering Motor Speed	65535	0	28
+83952525	Torque Converter Ratio	65.535	0	0
+83952526	Effective Road Analysis Control	327.675	0	21
+83952527	Steering Circuit Pressure	65535	0	0
+83952528	Left Steering Circuit Pressure	65535	0	9
+83952529	Rear Steering Circuit Pressure	65535	0	9
+83952530	Engine Speed - % Fuel Ratio	65535	0	0
+83952531	% Fuel	65535	0	0
+83952532	Hwt Engine Speed	32767.5	0	28
+83952533	Hwt Engine Load	65535	0	25
+83952534	Hwt Ground Speed	32767.5	0	11
+83952535	Hwt Ecm Temperature #1	65535	0	5
+83952536	Hwt Ecm Temperature #2	65535	0	5
+83952537	Engine Speed - Engine Load Ratio	65535	0	0
+83952538	Engine Speed - Ground Speed Ratio	65535	0	0
+83952539	Engine Speed - Rack Ratio	65535	0	0
+83952540	Torque Converter Ratio - Engine Speed	65535	0	0
+83952541	Charge P-Engine Speed	65535	0	0
+83952542	Bch Lift-Tilt**	65535	0	0
+83952543	Steering Pressure - Motor Speed Ratio	65535	0	0
+83952544	Left Loop Vs Motor Speed	65535	0	0
+83952545	Right Loop Vs Motor Speed	65535	0	0
+83952546	Engine Speed - Torque Converter Ratio	65535	0	0
+83952547	Engine Speed - Torque Converter Ratio	65535	0	0
+83952548	Torque Converter Ratio	65535	0	0
+83952549	Track Speed-Tcrat Lb	65535	0	0
+83952550	Track Speed-Tcrat Rb	65535	0	0
+83952551	Track Speed-Tcrat Lc	65535	0	0
+83952552	Track Speed-Tcrat Rc	65535	0	0
+83952553	Torque Converter Torque V Speed	65535	0	0
+83952554	Transmission Out Torque Speed	65535	0	0
+83952555	Engine Speed Vs Coolant Temperature	65535	0	0
+83952556	Ors Oil Level Switch	65535	0	0
+83952557	Right Steering Pump Filter	65535	0	0
+83952558	Left Steering Pump Filter	65535	0	0
+83952559	Right Implement Pump Filter	65535	0	0
+83952560	Left Implement Pump Filter	65535	0	0
+83952561	Front Implement Pump Filter	65535	0	0
+83952562	Rear Implement Pump Filter	65535	0	0
+83952563	Right Horn Solenoid	65535	0	0
+83952564	Left Horn Solenoid	65535	0	0
+83952565	Brake Oil Level	65535	0	0
+83952566	Air Filter Plugged	65535	0	0
+83952567	Engine Oil Add Level	65535	0	0
+83952568	Engine Oil Low Level	65535	0	0
+83952569	Overload Enable	65535	0	0
+83952570	Lift Link Position	655.35	0	4
+83952571	Transmission Lockout Switch	65535	0	0
+83952572	Parkbrake Pressure Switch	65535	0	0
+83952573	Implment Var Pump Solenoid	65535	0	0
+83952574	Direction Switch	65535	0	0
+83952575	Implement Lft Limit St	65535	0	0
+83952576	Transmission Solenoid 1 Current	6553.5	0	25
+83952577	Transmission Solenoid 2 Current	6553.5	0	25
+83952578	Transmission Solenoid 3 Current	6553.5	0	25
+83952579	Transmission Solenoid 4 Current	6553.5	0	25
+83952580	Transmission Solenoid 5 Current	6553.5	0	25
+83952581	Target Bucket Weight	6553.5	0	15
+83952582	Bucket Payload St	65535	0	0
+83952583	Turbocharger #1 Compressor Inlet Pressure (Absolute)	655.35	0	9
+83952584	Turbocharger #2 Compressor Inlet Pressure (Absolute)	655.35	0	9
+83952585	Turbocharger #3 Compressor Inlet Pressure (Absolute)	655.35	0	9
+83952586	Turbocharger #4 Compressor Inlet Pressure (Absolute)	655.35	0	9
+83952587	Fuel/ Water Separator Level Status	65535	0	0
+83952588	Ground Level Shutdown Status	65535	0	0
+83952589	Intake Manifold #2 Air Temperature	6553.5	0	5
+83952590	Fuel Transfer Pump Inlet Pressure (Absolute)	65535	0	9
+83952591	Machine Speed Limit	65535	0	11
+83952592	Access Ladder Position Status	65535	0	0
+83952593	Auto Lube Relay Status	65535	0	0
+83952594	Hydraulic Hoist Screen Filter Bypass Status	65535	0	0
+83952595	Idle Shutdown Timer Status	65535	0	0
+83952596	Secondary Steering Pressure Status	65535	0	0
+83952597	Secondary Steering Pump Oil Pressure	65535	0	9
+83952598	Secondary Steering System Test Status	65535	0	0
+83952599	Starter Lockout Status	65535	0	0
+83952600	Brake Oil Diverter Solenoid Status	65535	0	0
+83952601	Brake Pump Unloader Solenoid Status	65535	0	0
+83952602	Brake Filter Bypass Status	65535	0	0
+83952603	Desired Brake Cooling Pump Speed	32767.5	0	28
+83952604	Desired Engine Cooling Fan Speed	32767.5	0	28
+83952605	Desired Retarding Engine Speed	32767.5	0	28
+83952606	Final Drive Oil Bypass Solenoid Status	65535	0	0
+83952607	Rear Axle Pump Drive Oil Divert Solenoid Status	65535	0	0
+83952608	Steering Angle	6553.5	0	4
+83952609	Parking Brake Lockout Status	65535	0	0
+83952610	Final Drive Lube Pressure Status	65535	0	0
+83952611	Auto Retarder Mode	65535	0	0
+83952612	Machine Front Tire Weight-Speed	6553.5	0	20
+83952613	Machine Rear Tire Weight-Speed	6553.5	0	20
+83952614	Machine System Air Pressure	65535	0	9
+83952615	Intake Manifold #1 Pressure	6553.5	0	9
+83952616	Fuel Temperature	6553.5	0	5
+83952617	Fuel Rail Temperature	6553.5	0	5
+83952618	Desired Fuel Rail Pressure (Absolute)	262140	0	9
+83952619	Fuel Rail Pressure (Absolute)	262140	0	9
+83952620	Fuel Actuator Position Command	655.35	0	25
+83952621	Percent Fuel Position	65535	0	25
+83952622	Engine Coolant Pump Outlet Temperature	32767.5	0	5
+83952623	Intake Manifold #2 Pressure	6553.5	0	9
+83952624	Air Filter Rest # 1	6553.5	0	9
+83952625	Air Filter Rest # 2	6553.5	0	9
+83952626	Air Filter Rest # 3	6553.5	0	9
+83952627	Air Filter Rest # 4	6553.5	0	9
+83952628	Fuel Filter Differential Pressure	32767.5	0	9
+83952629	Brake Cooling Pump Installation Status	65535	0	0
+83952630	Transmission Shift Time	1638.375	0	29
+83952631	Lock-Up Clutch Engagement Time	1638.375	0	29
+83952632	Engine Status - Altitude Derate	32767.5	0	25
+83952633	Engine Status - Derate	65535	0	0
+83952634	Secondary Brake Accumulator Pressure	65535	0	9
+83952635	Throttle Lock Mode	65535	0	0
+83952636	Shift Lever Position	65535	0	0
+83952637	Alternator Status	65535	0	0
+83952638	Secondary Brake Pedal Position	655.35	0	25
+83952639	Parking Brake Pressure Switch Status	65535	0	0
+83952640	Transmission Input Speed	65535	0	28
+83952641	Transmission Output Speed #1	65535	0	28
+83952642	Transmission Output Speed #2	65535	0	28
+83952643	Gear Code	65535	0	0
+83952644	Altitude Derate	65535	0	0
+83952645	Tc Outlet Temp	65535	0	0
+83952646	Hydraulic Oil Temp	65535	0	5
+83952647	Hydraulic Filter Bypass	65535	0	0
+83952648	Transmission Gear	65535	0	0
+83952649	Track Speed/Dir 1	235.926	0	11
+83952650	Power Train Filter Bypass 2	65535	0	0
+83952651	Power Train Filter Bypass 1	65535	0	0
+83952652	Transmission Oil Temp	65535	0	0
+83952653	Power Train Oil Temp	65535	0	5
+83952654	Engine Fan Return Filter Bypass	65535	0	0
+83952655	Engine Load	65535	0	25
+83952656	Decelerator Position	26214	0	25
+83952657	Hydraulic Controls Active	65535	0	0
+83952658	Track Speed/Dir 2	65535	0	0
+83952659	Retarder	65535	0	0
+83952660	Retarder	65535	0	0
+83952661	Service Break Status	65535	0	0
+83952662	Actual Gear (Transmission)	65535	0	0
+83952663	Air Filter Res	32767.5	0	9
+83952664	Auto Lube Control	65535	0	0
+83952665	Auto Lube Interval	65535	0	7
+83952666	Auto Lube Solenoid	65535	0	0
+83952667	Auto Lube Time	65535	0	7
+83952668	Auto Lube Level	65535	0	25
+83952669	Auto Lube Pump Pressure	65535	0	9
+83952670	Bucket Angle	6553.5	0	4
+83952671	Bucket Load Factor	6553.5	0	25
+83952672	Boost Pressure #2	32767.5	0	9
+83952673	Brake Accumulator Pressure	65535	0	0
+83952674	Bucket Weight	6553.5	0	19
+83952675	C Implement Pump Sol	6553.5	0	25
+83952676	C Implement Pump Valve	65535	0	0
+83952677	C Steering Pump Pres	65535	0	9
+83952678	Desired Engine Speed	32767.5	0	28
+83952679	Desired Engine Rpm	32767.5	0	0
+83952680	Desired Gear	65535	0	0
+83952681	Engine Oil Level	65535	0	0
+83952682	Engine Oil Level Off	65535	0	0
+83952683	Engine Oil Level On	65535	0	0
+83952684	Eng Retarder St	65535	0	0
+83952685	Engine Coolant Pump Outlet Pressure (Absolute)	32767.5	0	9
+83952686	Brake Lube Pres Front	65535	0	0
+83952687	Brake Lube Pres Ab Front	65535	0	9
+83952688	Transmission Oil Filter Front	65535	0	0
+83952689	Fan Pump Sol Current	65.535	0	2
+83952690	Heated Mirr St	65535	0	0
+83952691	Heated Mirr Sw	65535	0	0
+83952692	Implement Cd Filter	65535	0	0
+83952693	Implement Lck	65535	0	0
+83952694	Implement Plt Sol St	65535	0	0
+83952695	Implement Ret Filter	65535	0	0
+83952696	L Implement Pump Pres	65535	0	0
+83952697	L Steering Pump Pres	65535	0	9
+83952698	L Steering Pump Pres	65535	0	9
+83952699	Lockup Clutch Off	65535	0	25
+83952700	Left Ko Set Sw	65535	0	0
+83952701	Lo Voltage Idle	65535	0	0
+83952702	Lt Exhaust Temp 2	65535	0	5
+83952703	Manlube St	65535	0	0
+83952704	Manlube Sw	65535	0	0
+83952705	Ors Oil Level St	65535	0	0
+83952706	Ors Stat	65535	0	0
+83952707	Payload Sw	65535	0	0
+83952708	Rear Brake Lube Pres	65535	0	0
+83952709	Rear Brake Pressure Ab	65535	0	9
+83952710	Rear Float Sol St	65535	0	0
+83952711	Rear Implement Pump Pres	65535	0	9
+83952712	R Implement Pump Valve	65535	0	0
+83952713	R Trans Oil Filter	65535	0	0
+83952714	Rf Imp Pump Pres	65535	0	9
+83952715	Rf Implement Pump Sol	6553.5	0	25
+83952716	Ride Ctrl St	65535	0	0
+83952717	Rimpull Select 2	65535	0	0
+83952718	Rr Implement Pump Sol	6553.5	0	25
+83952719	Rta Exhaust Temp 2	65535	0	5
+83952720	Rta Lt Exhaust Temp 2	65535	0	5
+83952721	Shutdown Sw	65535	0	0
+83952722	Start Relay	65535	0	0
+83952723	Steering Cd Flt	65535	0	0
+83952724	Tc Pedal Position	32767.5	0	25
+83952725	Throttle Lock Enable	65535	0	0
+83952726	Throttle Lock Res	65535	0	0
+83952727	Throttle Lock Set	65535	0	0
+83952728	Tilt Ko Set Sw	65535	0	0
+83952729	Total Eng Derate	32767.5	0	25
+83952730	Turbo 2 Out Pres	32767.5	0	9
+83952731	Trn Lockout Sw	65535	0	0
+83952732	Trn Oil Level	65535	0	0
+83952733	Truck Weight	6553.5	0	19
+83952734	Vims Event List	65535	0	25
+83952735	Washer Fluid St	65535	0	0
+83952736	Cond Datalog Switch	65535	0	0
+83952737	Snapshot Switch	65535	0	0
+83952738	Payload	6553.5	0	19
+83952739	Raise Detent Electromagnet Status	65535	0	0
+83952740	Lower Detent Electromagnet Status	65535	0	0
+83952741	Rackback Detent Electromagnet Status	65535	0	0
+83952742	Direction Switch Status	65535	0	0
+83952743	Engine Retarder Selector Switch Position	65535	0	0
+83952744	Tilt Cylinder Regeneration Solenoid Current Command	65.535	0	2
+83952745	Total Fuel	31009.61996145	0	14
+83952746	Fan Pump/Motor Case Drain Filter Bypass Status	65535	0	0
+83952747	Steering/Brake Pump Case Drain Filter Bypass Status	65535	0	0
+83952748	Dig Trigger Mode Status	65535	0	0
+83952749	Auto Lube Pressure	65535	0	9
+83952750	Park Brake Pressure	65535	0	9
+83952751	Throttle Position	65535	0	25
+83952752	Hoist Lever Position	65535	0	25
+83952753	Left Final Drive Lube Pressure	65535	0	9
+83952754	Left Final Drive Oil Temperature	65535	0	5
+83952755	Right Final Drive Filter Bypass Status	65535	0	0
+83952756	Left Final Drive Filter Bypass Status	65535	0	0
+83952757	Retarder	65535	0	0
+83952758	Hi Boost Pressure	65535	0	9
+83952759	Lo Boost Pressure	65535	0	9
+83952760	Total Fuel	65535	0	14
+83952761	Machine Rack	65535	0	9
+83952762	Engine Coolant Pump Outlet Pressure ST	65535	0	0
+83952763	Transmission Shift Time	1638.375	0	29
+83952764	Lockup Shift Time	1638.375	0	29
+83952765	Tons Kilometers Per Hour Front Tires	65535	0	0
+83952766	Tons Kilometers Per Hour Rear Tires	65535	0	0
+83952767	Left Rear Boost Pressure	32767.5	0	9
+83952768	Right Rear Boos Pressure	32767.5	0	9
+83952769	Hoist Lever Duty	32767.5	0	25
+83952770	Tcs Install Status	65535	0	0
+83952771	Trac Control Mode	65535	0	0
+83952772	Lever Duty Cycle	32767.5	0	25
+83952773	Ether Solenoid Configuration	65535	0	0
+83952774	Ether Injection Status	65535	0	0
+83952775	Auto Lube Pressure	65535	0	9
+83952776	Brake Filter Plgd	65535	0	0
+83952777	Compressor Brake Status	65535	0	0
+83952778	Head Lamp SW	65535	0	0
+83952779	Retarder Lever Positon	656.35	1	25
+83952780	Secondary Brake Pedal Position	656.35	1	25
+83952781	Service Brake Acc Pr	65535	0	0
+83952782	Service Brake Pedal Position	65535	0	25
+83952783	Transmission Charge Filter (Bypass)	65535	0	0
+83952784	Transmission Oil Level	65535	0	0
+83952785	Turbo In Pressure	32767.5	0	9
+83952786	Right Imat	6553.5	0	5
+83952787	Left Imat	6553.5	0	5
+83952788	Exhaust Temperature Left Front	65535	0	5
+83952789	Exhaust Temperature Left Rear	65535	0	5
+83952790	Exhaust Temperature Right Front	65535	0	5
+83952791	Exhaust Temperature Right Rear	65535	0	5
+83952792	Right Front Minus Left Front Exhaust Temperature	65535	0	5
+83952793	Right Rear Minus Left Rear Exhaust Temperature	65535	0	5
+83952794	Low Fuel Pressure	65535	0	0
+83952795	Pumpout Temperature	32767.5	0	5
+83952796	Boost Pressure	32767.5	0	9
+83952797	Unfiltered Fuel Pressure	32767.5	0	9
+83952798	Fuel Pressure	32767.5	0	9
+83952799	Air Filter Restriction	32767.5	0	9

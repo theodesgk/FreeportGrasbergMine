@@ -1,0 +1,823 @@
+Eng Exhaust Gas Recirculation Valve Position - Voltage Abv Normal Or Shorted To High Source	1543569411
+Eng Exhaust Gas Recirculation Valve Position - Voltage Below Normal Or Shorted To Low Source	1543569412
+Eng Exhaust Gas Recirculation Valve Posit - Mechan Syst Not Responding Or Out Of Adjust	1543569415
+Pneumatic Supply Press - Data Below Normal Operat Range - Most Severe Lvl	1543569441
+Pneumatic Supply Press - Voltage Abv Normal Or Shorted To High Source	1543569443
+Pneumatic Supply Press - Voltage Below Normal Or Shorted To Low Source	1543569444
+Eng Throttle Valve Position - Voltage Abv Normal Or Shorted To High Source	1543569475
+Eng Throttle Valve Position - Voltage Below Normal Or Shorted To Low Source	1543569476
+Eng Throttle Valve Position - Mechan Syst Not Responding Or Out Of Adjust	1543569479
+Eng Throttle Valve Position - Special Instructions	1543569486
+Accelerator Pedal Position - Voltage Abv Normal Or Shorted To High Source	1543569507
+Accelerator Pedal Position - Voltage Below Normal Or Shorted To Low Source	1543569508
+Eng Fuel Delivery Press - Data Below Normal Operat Range - Most Severe Lvl	1543569537
+Eng Fuel Delivery Press - Voltage Abv Normal Or Shorted To High Source	1543569539
+Eng Fuel Delivery Press - Voltage Below Normal Or Shorted To Low Source	1543569540
+Eng Fuel Delivery Press - Data Abv Normal Operat Range - Moderat Severe Lvl	1543569552
+Eng Fuel Delivery Press - Data Below Normal Operat Range - Least Severe Lvl	1543569553
+Eng Fuel Delivery Press - Data Blw Normal Operat Range - Moderat Severe Lvl	1543569554
+Fuel Lvl - Voltage Abv Normal Or Shorted To High Source	1543569571
+Fuel Lvl - Voltage Below Normal Or Shorted To Low Source	1543569572
+Water In Fuel Indicator - Voltage Abv Normal Or Shorted To High Source	1543569603
+Water In Fuel Indicator - Voltage Below Normal Or Shorted To Low Source	1543569604
+Water In Fuel Indicator - Data Abv Normal Operat Range - Moderat Severe Lvl	1543569616
+Eng Oil Press - Data Below Normal Operat Range - Most Severe Lvl	1543569633
+Eng Oil Press - Data Erratic Intermittent Or Incorrect	1543569634
+Eng Oil Press - Voltage Abv Normal Or Shorted To High Source	1543569635
+Eng Oil Press - Voltage Below Normal Or Shorted To Low Source	1543569636
+Eng Oil Press - Data Below Normal Operat Range - Moderat Severe Lvl	1543569650
+Eng Oil Press - Not Availb Or Condt Exists	1543569663
+Eng Intake Manifold #1 Press - Voltage Abv Normal Or Shorted To High Source	1543569667
+Eng Intake Manifold #1 Press - Voltage Below Normal Or Shorted To Low Source	1543569668
+Eng Intake Manifold #1 Press - Mechan Syst Not Responding Or Out Of Adjust	1543569671
+Eng Turbochar 1 Speed - Data Abv Normal Operat Range - Most Severe Lvl	1543569696
+Eng Turbochar 1 Speed - Data Erratic Intermittent Or Incorrect	1543569698
+Eng Turbochar 1 Speed - Current Below Normal Or Open Circuit	1543569701
+Eng Intake Manifold 1 Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543569728
+Eng Intake Manifold 1 Temp - Voltage Abv Normal Or Shorted To High Source	1543569731
+Eng Intake Manifold 1 Temp - Voltage Below Normal Or Shorted To Low Source	1543569732
+Eng Intake Manifold 1 Temp - Data Abv Normal Operat Range - Least Severe Lvl	1543569743
+Eng Intake Manifold 1 Temp - Data Abv Normal Operat Range - Moderat Severe Lvl	1543569744
+Eng Air Filter Different Press - Data Abv Normal Operat Range - Most Severe Lvl	1543569760
+Eng Air Filter Different Press - Data Abv Normal Operat Range - Least Severe Lvl	1543569775
+Eng Air Filter Different Press - Data Abv Normal Operat Range - Moderat Severe Lvl	1543569776
+Barometric Press - Data Erratic Intermittent Or Incorrect	1543569794
+Barometric Press - Mechan Syst Not Responding Or Out Of Adjust	1543569799
+Eng Coolant Press - Data Below Normal Operat Range - Most Severe Lvl	1543569825
+Eng Coolant Press - Voltage Abv Normal Or Shorted To High Source	1543569827
+Eng Coolant Press - Voltage Below Normal Or Shorted To Low Source	1543569828
+Eng Coolant Press - Data Below Normal Operat Range - Least Severe Lvl	1543569841
+Eng Coolant Press - Data Below Normal Operat Range - Moderat Severe Lvl	1543569842
+Eng Coolant Press - Not Availb Or Condt Exists	1543569855
+Eng Coolant Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543569856
+Eng Coolant Temp - Voltage Abv Normal Or Shorted To High Source	1543569859
+Eng Coolant Temp - Voltage Below Normal Or Shorted To Low Source	1543569860
+Eng Coolant Temp - Data Abv Normal Operat Range - Least Severe Lvl	1543569871
+Eng Coolant Temp - Data Abv Normal Operat Range - Moderat Severe Lvl	1543569872
+Eng Coolant Temp - Data Below Normal Operat Range - Least Severe Lvl	1543569873
+Eng Coolant Lvl - Data Below Normal Operat Range - Most Severe Lvl	1543569889
+Eng Coolant Lvl - Mechan Syst Not Responding Or Out Of Adjust	1543569895
+Eng Coolant Lvl - Data Below Normal Operat Range - Least Severe Lvl	1543569905
+Eng Coolant Lvl - Data Below Normal Operat Range - Moderat Severe Lvl	1543569906
+Brake Application Press - Data Below Normal Operat Range - Most Severe Lvl	1543569921
+Eng Injector Metering Rail 1 Press - Data Blw Normal Operat Range - Most Severe Lvl	1543569953
+Eng Injector Metering Rail 1 Press - Voltage Abv Normal Or Shorted To High Source	1543569955
+Eng Injector Metering Rail 1 Press - Voltage Below Normal Or Shorted To Low Source	1543569956
+Eng Inj Metering Rail 1 Press - Data Abv Normal Operat Range - Moderat Severe Lvl	1543569968
+Eng Inj Metering Rail 1 Press - Data Below Normal Operat Range - Least Severe Lvl	1543569969
+Eng Inj Metering Rail 1 Press - Data Below Normal Operat Range - Moderat Severe Lvl	1543569970
+Keyswitch Battery Potential - Bad Intelligent Device Or Component	1543569996
+Keyswitch Battery Potential - Data Below Normal Operat Range - Least Severe Lvl	1543570001
+Battery Potential (Volt)/Power In - Data Abv Normal Operat Range - Moderat Severe Lvl	1543570032
+Battery Potential (Volt)/Power In - Data Blw Normal Operat Range - Moderat Severe Lvl	1543570034
+Eng Fuel Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543570048
+Eng Fuel Temp - Voltage Abv Normal Or Shorted To High Source	1543570051
+Eng Fuel Temp - Voltage Below Normal Or Shorted To Low Source	1543570052
+Eng Fuel Temp - Data Abv Normal Operat Range - Moderat Severe Lvl	1543570064
+Eng Rated Speed - Data Abv Normal Operat Range - Most Severe Lvl	1543570080
+Eng Rated Speed - Not Availb Or Condt Exists	1543570111
+Eng Speed - Data Abv Normal Operat Range - Most Severe Lvl	1543570112
+Eng Speed - Data Abv Normal Operat Range - Least Severe Lvl	1543570127
+Eng Speed - Data Abv Normal Operat Range - Moderat Severe Lvl	1543570128
+Vehicle Identification Number - Root Cause Not Known	1543570155
+Vehicle Identification Number - Not Availb Or Condt Exists	1543570175
+Tire Press - Data Below Normal Operat Range - Most Severe Lvl	1543570177
+Tire Press - Data Abv Normal Operat Range - Moderat Severe Lvl	1543570192
+Tire Press - Data Below Normal Operat Range - Moderat Severe Lvl	1543570194
+Tire Temp - Data Abv Normal Operat Range - Moderat Severe Lvl	1543570224
+Eng Exhaust Gas Recirculation Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543570240
+Eng Exhaust Gas Recirculation Temp - Voltage Abv Normal Or Shorted To High Source	1543570243
+Eng Exhaust Gas Recirculation Temp - Voltage Below Normal Or Shorted To Low Source	1543570244
+Eng Exhaust Gas Recirculation Temp - Data Abv Normal Operat Range - Least Severe Lvl	1543570255
+Eng Exhaust Gas Recirculation Temp - Data Abv Normal Operat Range - Moderat Severe Lvl	1543570256
+Battery Potential (Voltage)/Power Input #2 - Voltage Below Normal Or Shorted To Low Source	1543570276
+Syst Diagnostic Code - Voltage Abv Normal Or Shorted To High Source	1543570307
+Syst Diagnostic Code - Voltage Below Normal Or Shorted To Low Source	1543570308
+Syst Diagnostic Code #2 - Voltage Abv Normal Or Shorted To High Source	1543570339
+Syst Diagnostic Code #2 - Voltage Below Normal Or Shorted To Low Source	1543570340
+Parking Brake Actuator - Voltage Abv Normal Or Shorted To High Source	1543570371
+Parking Brake Actuator - Current Below Normal Or Open Circuit	1543570373
+Parking Brake Actuator - Current Abv Normal Or Grounded Circuit	1543570374
+Power Supply (Obsolete) - Data Below Normal Operat Range - Most Severe Lvl	1543570401
+Ctrller - Root Cause Not Known	1543570443
+Ctrller - Bad Intelligent Device Or Component	1543570444
+Eng Position Sensor - Data Erratic Intermittent Or Incorrect	1543570466
+Eng Position Sensor - Current Below Normal Or Open Circuit	1543570469
+Eng Position Sensor - Current Abv Normal Or Grounded Circuit	1543570470
+Eng Position Sensor - Abnormal Frequency Or Pulse Width Or Period	1543570472
+Eng Position Sensor - Abnormal Rate Of Change	1543570474
+Eng Timing Sensor - Data Erratic Intermittent Or Incorrect	1543570498
+Eng Timing Sensor - Current Below Normal Or Open Circuit	1543570501
+Eng Timing Sensor - Current Abv Normal Or Grounded Circuit	1543570502
+Eng Timing Sensor - Mechan Syst Not Responding Or Out Of Adjust	1543570503
+Eng Timing Sensor - Abnormal Frequency Or Pulse Width Or Period	1543570504
+Eng Timing Sensor - Abnormal Rate Of Change	1543570506
+J1939 Network #1 Primary Vehicle Network - Abnormal Update Rate	1543570537
+J1939 Network #1 Primary Vehicle Network - Bad Intelligent Device Or Component	1543570540
+J1939 Network #1 Primary Vehicle Network - Special Instructions	1543570542
+Eng Variable Geom Turbochar Actuator - Data Abv Normal Operat Range - Most Severe Lvl	1543570560
+Eng Variable Geom Turbochar Actuator - Current Below Normal Or Open Circuit	1543570565
+Eng Variable Geom Turbochar Actuator - Current Abv Normal Or Grounded Circuit	1543570566
+Eng Variable Geom Turbochar Actuator - Mechan Syst Not Responding Or Out Of Adjust	1543570567
+Eng Variable Geom Turbochar Actuator - Abnormal Update Rate	1543570569
+Eng Variable Geom Turbochar Actuator - Bad Intelligent Device Or Component	1543570572
+Eng Variable Geom Turbochar Actuator - Out Of Calibration	1543570573
+Eng Variable Geom Turbochar Actuator - Data Abv Normal Opera Range - Moderat Severe Lvl	1543570576
+Eng Variable Geom Turbochar Actuator - Not Availb Or Condt Exists	1543570591
+Eng Fan Clutch Output Driver - Current Below Normal Or Open Circuit	1543570597
+Eng Fan Clutch Output Driver - Current Abv Normal Or Grounded Circuit	1543570598
+Eng Injector Cylinder #01 - Data Erratic Intermittent Or Incorrect	1543570626
+Eng Injector Cylinder #01 - Voltage Below Normal Or Shorted To Low Source	1543570628
+Eng Injector Cylinder #01 - Current Below Normal Or Open Circuit	1543570629
+Eng Injector Cylinder #01 - Current Abv Normal Or Grounded Circuit	1543570630
+Eng Injector Cylinder #01 - Out Of Calibration	1543570637
+Eng Injector Cylinder #02 - Data Erratic Intermittent Or Incorrect	1543570658
+Eng Injector Cylinder #02 - Voltage Below Normal Or Shorted To Low Source	1543570660
+Eng Injector Cylinder #02 - Current Below Normal Or Open Circuit	1543570661
+Eng Injector Cylinder #02 - Current Abv Normal Or Grounded Circuit	1543570662
+Eng Injector Cylinder #02 - Out Of Calibration	1543570669
+Eng Injector Cylinder #03 - Data Erratic Intermittent Or Incorrect	1543570690
+Eng Injector Cylinder #03 - Voltage Below Normal Or Shorted To Low Source	1543570692
+Eng Injector Cylinder #03 - Current Below Normal Or Open Circuit	1543570693
+Eng Injector Cylinder #03 - Current Abv Normal Or Grounded Circuit	1543570694
+Eng Injector Cylinder #03 - Out Of Calibration	1543570701
+Eng Injector Cylinder #04 - Data Erratic Intermittent Or Incorrect	1543570722
+Eng Injector Cylinder #04 - Voltage Below Normal Or Shorted To Low Source	1543570724
+Eng Injector Cylinder #04 - Current Below Normal Or Open Circuit	1543570725
+Eng Injector Cylinder #04 - Current Abv Normal Or Grounded Circuit	1543570726
+Eng Injector Cylinder #04 - Out Of Calibration	1543570733
+Eng Injector Cylinder #05 - Data Erratic Intermittent Or Incorrect	1543570754
+Eng Injector Cylinder #05 - Voltage Below Normal Or Shorted To Low Source	1543570756
+Eng Injector Cylinder #05 - Current Below Normal Or Open Circuit	1543570757
+Eng Injector Cylinder #05 - Current Abv Normal Or Grounded Circuit	1543570758
+Eng Injector Cylinder #05 - Out Of Calibration	1543570765
+Eng Injector Cylinder #06 - Data Erratic Intermittent Or Incorrect	1543570786
+Eng Injector Cylinder #06 - Voltage Below Normal Or Shorted To Low Source	1543570788
+Eng Injector Cylinder #06 - Current Below Normal Or Open Circuit	1543570789
+Eng Injector Cylinder #06 - Current Abv Normal Or Grounded Circuit	1543570790
+Eng Injector Cylinder #06 - Out Of Calibration	1543570797
+Global Positioning Syst (Gps) - Current Below Normal Or Open Circuit	1543570821
+Global Positioning Syst (Gps) - Current Abv Normal Or Grounded Circuit	1543570822
+Stop Lamp Circuit (Red) - Voltage Abv Normal Or Shorted To High Source	1543570851
+Stop Lamp Circuit (Red) - Voltage Below Normal Or Shorted To Low Source	1543570852
+Stop Lamp Circuit (Red) - Current Below Normal Or Open Circuit	1543570853
+Tire Location - Bad Intelligent Device Or Component	1543570892
+Year - Bad Intelligent Device Or Component	1543570924
+Year - Out Of Calibration	1543570925
+Brake Light Switch - Voltage Below Normal Or Shorted To Low Source	1543570948
+Cooling Fan Driver Output - Voltage Abv Normal Or Shorted To High Source	1543570979
+Cooling Fan Driver Output - Current Below Normal Or Open Circuit	1543570981
+Cooling Fan Driver Output - Current Abv Normal Or Grounded Circuit	1543570982
+Cooling Fan Driver Output - Data Abv Normal Operat Range - Moderat Severe Lvl	1543570992
+Cooling Fan Driver Output - Data Below Normal Operat Range - Least Severe Lvl	1543570993
+Cooling Fan Driver Output - Data Below Normal Operat Range - Moderat Severe Lvl	1543570994
+Eng Electric Lift Pump For Eng Fuel Supply - Data Erratic Intermittent Or Incorrect	1543571010
+Eng Electric Lift Pump For Eng Fuel Supply - Voltage Below Normal Or Shorted To Low Source	1543571012
+Eng Electric Lift Pump For Eng Fuel Supply - Current Abv Normal Or Grounded Circuit	1543571014
+Eng Electric Lift Pump For Eng Fuel Supply - Abnormal Update Rate	1543571017
+Eng Electric Lift Pump For Eng Fuel Supply - Bad Intelligent Device Or Component	1543571020
+Eng Elec Lift Pump For Eng Fuel Supply - Data Abv Normal Operat Range - Least Severe Lvl	1543571023
+Articulation Angle - Voltage Abv Normal Or Shorted To High Source	1543571043
+Articulation Angle - Voltage Below Normal Or Shorted To Low Source	1543571044
+Ebs Brake Switch - Voltage Below Normal Or Shorted To Low Source	1543571076
+Ebs Brake Switch - Bad Intelligent Device Or Component	1543571084
+Eng Ecu Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543571104
+Eng Ecu Temp - Data Erratic Intermittent Or Incorrect	1543571106
+Eng Ecu Temp - Data Abv Normal Operat Range - Moderat Severe Lvl	1543571120
+Eng Turbochar 1 Compressor Inlet Temp - Bad Intelligent Device Or Component	1543571148
+Eng Turbochar Compressor Inlet Press - Mechan Syst Not Responding Or Out Of Adjust	1543571175
+Eng Turbochar Compressor Inlet Press - Bad Intelligent Device Or Component	1543571180
+Eng Turbochar Turbine Inlet Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543571200
+Eng Turbochar Turbine Inlet Temp - Data Abv Normal Operat Range - Moderat Severe Lvl	1543571216
+Eng Exhaust Gas Press - Voltage Abv Normal Or Shorted To High Source	1543571235
+Eng Exhaust Gas Press - Voltage Below Normal Or Shorted To Low Source	1543571236
+Eng Exhaust Gas Press - Mechan Syst Not Responding Or Out Of Adjust	1543571239
+J1939 Network #2 - Bad Intelligent Device Or Component	1543571276
+J1939 Network #2 - Special Instructions	1543571278
+Eng Starter Solenoid Lockout Relay Driver Circuit - Voltage Abv Normal Or Shorted To High Source	1543571299
+Eng Starter Solenoid Lockout Relay Driver Circuit - Voltage Blw Normal Or Shorted To Low Source	1543571300
+Eng Starter Solenoid Lockout Relay Driver Circuit - Current Below Normal Or Open Circuit	1543571301
+Eng Starter Solenoid Lockout Relay Driver Circuit - Current Abv Normal Or Grounded Circuit	1543571302
+Eng Starter Solenoid Lock Relay Driver Circ-Data Abv Norm Operat Range-Moderat Severe Lvl	1543571312
+A/C Evaporator Temp - Voltage Below Normal Or Shorted To Low Source	1543571332
+A/C Compressor Driver Circuit (Deprecated) - Voltage Abv Normal Or Shorted To High Source	1543571363
+A/C Compressor Driver Circuit (Deprecated) - Current Below Normal Or Open Circuit	1543571365
+A/C Compressor Driver Circuit (Deprecated) - Current Abv Normal Or Grounded Circuit	1543571366
+Eng Protection Torque Derate - Not Availb Or Condt Exists	1543571423
+Hydraulic Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543571424
+Hydraulic Temp - Voltage Abv Normal Or Shorted To High Source	1543571427
+Hydraulic Temp - Voltage Below Normal Or Shorted To Low Source	1543571428
+Eng Fan Speed - Data Abv Normal Operat Range - Most Severe Lvl	1543571456
+Eng Fan Speed - Data Below Normal Operat Range - Most Severe Lvl	1543571457
+Eng Fan Speed - Abnormal Frequency Or Pulse Width Or Period	1543571464
+Cti Wheel End Electrical Fault - Voltage Below Normal Or Shorted To Low Source	1543571492
+Hydr Oil Filter Restric Switch - Data Below Normal Operat Range - Most Severe Lvl	1543571521
+Hydraulic Oil Filter Restriction Switch - Voltage Abv Normal Or Shorted To High Source	1543571523
+Hydr Oil Filter Restric Switch - Data Abv Normal Operat Range - Moderat Severe Lvl	1543571536
+Aux Valve 7 Extend Port Estimated Flow - Data Erratic Intermittent Or Incorrect	1543571554
+Source Address 0 - Abnormal Update Rate	1543571593
+Source Address 3 - Abnormal Update Rate	1543571625
+Source Address 23 - Abnormal Update Rate	1543571657
+Source Address 33 - Abnormal Update Rate	1543571689
+Source Address 33 - Received Network Data In Error	1543571699
+Source Address 51 - Abnormal Update Rate	1543571721
+Source Address 140 - Abnormal Update Rate	1543571753
+Source Address 141 - Abnormal Update Rate	1543571785
+Source Address 169 - Abnormal Update Rate	1543571817
+Source Address 251 - Abnormal Update Rate	1543571849
+High Beam Headlights Command - Voltage Below Normal Or Shorted To Low Source	1543571876
+High Beam Headlights - Voltage Abv Normal Or Shorted To High Source	1543571907
+High Beam Headlights - Current Below Normal Or Open Circuit	1543571909
+High Beam Headlights - Current Abv Normal Or Grounded Circuit	1543571910
+Low Beam Headlights - Voltage Abv Normal Or Shorted To High Source	1543571939
+Low Beam Headlights - Current Below Normal Or Open Circuit	1543571941
+Low Beam Headlights - Current Abv Normal Or Grounded Circuit	1543571942
+Tractor Front High Mounted Work Lights - Command - Voltage Abv Normal Or Shorted To High Source	1543571971
+Tractor Front High Mounted Work Lights - Command - Current Below Normal Or Open Circuit	1543571973
+Tractor Front High Mounted Work Lights - Command - Current Abv Normal Or Grounded Circuit	1543571974
+Left Turn Signal Lights - Voltage Abv Normal Or Shorted To High Source	1543572003
+Left Turn Signal Lights - Current Below Normal Or Open Circuit	1543572005
+Left Turn Signal Lights - Current Abv Normal Or Grounded Circuit	1543572006
+Right Turn Signal Lights - Voltage Abv Normal Or Shorted To High Source	1543572035
+Right Turn Signal Lights - Current Below Normal Or Open Circuit	1543572037
+Right Turn Signal Lights - Current Abv Normal Or Grounded Circuit	1543572038
+Rotating Beacon Light - Voltage Abv Normal Or Shorted To High Source	1543572067
+Rotating Beacon Light - Current Below Normal Or Open Circuit	1543572069
+Rotating Beacon Light - Current Abv Normal Or Grounded Circuit	1543572070
+Back Up Lights And Alarm Horn - Voltage Abv Normal Or Shorted To High Source	1543572099
+Back Up Lights And Alarm Horn - Current Below Normal Or Open Circuit	1543572101
+Back Up Lights And Alarm Horn - Current Abv Normal Or Grounded Circuit	1543572102
+Hydraulic Brake Press Warning State Circuit - Voltage Abv Normal Or Shorted To High Source	1543572131
+Hydraulic Brake Press Warning State Circuit - Voltage Below Normal Or Shorted To Low Source	1543572132
+Implement Left Forward Work Lights - Voltage Abv Normal Or Shorted To High Source	1543572163
+Implement Left Forward Work Lights - Current Below Normal Or Open Circuit	1543572165
+Implement Left Forward Work Lights - Current Abv Normal Or Grounded Circuit	1543572166
+Eng Turbochar Compressor Out Temp - Voltage Below Normal Or Shorted To Low Source	1543572196
+Eng Charge Air Cooler Out Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543572224
+Eng Charge Air Cooler Out Temp - Voltage Abv Normal Or Shorted To High Source	1543572227
+Eng Charge Air Cooler Out Temp - Voltage Below Normal Or Shorted To Low Source	1543572228
+Eng Charge Air Cooler Out Temp - Data Abv Normal Operat Range - Least Severe Lvl	1543572239
+Eng Charge Air Cooler Out Temp - Data Abv Normal Operat Range - Moderat Severe Lvl	1543572240
+Power Relay - Voltage Below Normal Or Shorted To Low Source	1543572260
+Power Relay - Current Below Normal Or Open Circuit	1543572261
+Horn - Voltage Abv Normal Or Shorted To High Source	1543572291
+Horn - Current Below Normal Or Open Circuit	1543572293
+Horn - Current Abv Normal Or Grounded Circuit	1543572294
+Mirror Heater - Voltage Abv Normal Or Shorted To High Source	1543572323
+Mirror Heater - Current Below Normal Or Open Circuit	1543572325
+Mirror Heater - Current Abv Normal Or Grounded Circuit	1543572326
+Eng Exhaust Gas Recirculation (Egr) Mass Flow Rate - Voltage Abv Normal Or Shorted To High Source	1543572355
+Eng Exhaust Gas Recirculation (Egr) Mass Flow Rate - Voltage Below Normal Or Shorted To Low Source	1543572356
+Eng Exhaust Gas Recirculation (Egr) Mass Flow Rate - Special Instructions	1543572366
+Eng Exhau Gas Recirculat Mass Flow Rate - Data Abv Normal Operat Range-Least Severe Lvl	1543572367
+Eng Exhau Gas Recirculat Mass Flow Rate - Data Blw Normal Operat Range - Least Severe Lvl	1543572369
+Eng Turboch Calculat Turbine Out Temp - Data Abv Normal Operat Range - Moderat Severe Lvl	1543572400
+Eng Exhaust Gas Recirculation (Egr) Valve Ctrl - Current Below Normal Or Open Circuit	1543572421
+Eng Exhaust Gas Recirculation (Egr) Valve Ctrl - Current Abv Normal Or Grounded Circuit	1543572422
+Eng Exhaust Gas Recirculation (Egr) Valve Ctrl - Mechan Syst Not Responding Or Out Of Adjust	1543572423
+Eng Exhaust Gas Recirculation (Egr) Valve Ctrl - Out Of Calibration	1543572429
+Eng Variable Geom Turbochar (Vgt) Actuator Position - Mechan Syst Not Responding Or Out Of Adjust	1543572455
+Eng Variable Geom Turbochar (Vgt) Actuator Position - Not Availb Or Condt Exists	1543572479
+Power Up Without Neutral - Mechan Syst Not Responding Or Out Of Adjust	1543572487
+Motion With Park Brake Engaged - Not Availb Or Condt Exists	1543572543
+Communications Antenna - Data Erratic Intermittent Or Incorrect	1543572546
+Communications Antenna - Current Below Normal Or Open Circuit	1543572549
+Communications Antenna - Current Abv Normal Or Grounded Circuit	1543572550
+Communications Service Subscriber Identification Module - Root Cause Not Known	1543572587
+Turn Signal Switch - Voltage Below Normal Or Shorted To Low Source	1543572612
+Aftertreat Diesel Particul Filter Out Gas Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543572640
+Aftertreat Diesel Particul Filter Out Gas Temp - Bad Intelligent Device Or Component	1543572652
+Aftertreat Diesel Particul Filter Different Press-Data Abv Normal Operat Range - Most Severe Lvl	1543572672
+Aftertreat Diesel Particul Filter Different Press - Data Erratic Intermittent Or Incorrect	1543572674
+Aftertreat Diesel Particul Filter Different Press - Voltage Abv Normal Or Shorted To High Source	1543572675
+Aftertreat Diesel Particul Filter Different Press - Voltage Below Normal Or Shorted To Low Source	1543572676
+Alternator State - Not Availb Or Condt Exists	1543572735
+Eng Throttle Actuator 1 Ctrl Command - Current Below Normal Or Open Circuit	1543572741
+Eng Throttle Actuator 1 Ctrl Command - Current Abv Normal Or Grounded Circuit	1543572742
+Eng Throttle Actuator 1 Ctrl Command - Mechan Syst Not Responding Or Out Of Adjust	1543572743
+Eng Throttle Actuator 1 Ctrl Command - Out Of Calibration	1543572749
+Aftertreat Fuel Press Ctrl Actuator - Voltage Abv Normal Or Shorted To High Source	1543572771
+Aftertreat Fuel Press Ctrl Actuator - Voltage Below Normal Or Shorted To Low Source	1543572772
+Aftertreat Fuel Press Ctrl Actuator - Current Below Normal Or Open Circuit	1543572773
+Aftertreat Fuel Press Ctrl Actuator - Mechan Syst Not Responding Or Out Of Adjust	1543572775
+Aftertreat Fuel Press Ctrl Actuator - Root Cause Not Known	1543572779
+Aftertreat Fuel Press - Data Below Normal Operat Range - Most Severe Lvl	1543572801
+Aftertreat Fuel Press - Voltage Abv Normal Or Shorted To High Source	1543572803
+Aftertreat Fuel Press - Voltage Below Normal Or Shorted To Low Source	1543572804
+Aftertreat Fuel Press - Mechan Syst Not Responding Or Out Of Adjust	1543572807
+Aftertreat Fuel Enable Actuator - Voltage Abv Normal Or Shorted To High Source	1543572835
+Aftertreat Fuel Enable Actuator - Voltage Below Normal Or Shorted To Low Source	1543572836
+Aftertreat Fuel Enable Actuator - Current Below Normal Or Open Circuit	1543572837
+Aftertreat Fuel Enable Actuator - Data Abv Normal Operat Range - Moderat Severe Lvl	1543572848
+Sensor Supply Voltage - Voltage Abv Normal Or Shorted To High Source	1543572867
+Sensor Supply Voltage - Voltage Below Normal Or Shorted To Low Source	1543572868
+Sensor Supply Voltage #2 - Voltage Abv Normal Or Shorted To High Source	1543572899
+Sensor Supply Voltage #2 - Voltage Below Normal Or Shorted To Low Source	1543572900
+Sensor Supply Voltage #3 - Voltage Abv Normal Or Shorted To High Source	1543572931
+Sensor Supply Voltage #3 - Voltage Below Normal Or Shorted To Low Source	1543572932
+Sensor Supply Voltage #4 - Voltage Abv Normal Or Shorted To High Source	1543572963
+Sensor Supply Voltage #4 - Voltage Below Normal Or Shorted To Low Source	1543572964
+Sensor Supply Voltage #5 - Voltage Abv Normal Or Shorted To High Source	1543572995
+Sensor Supply Voltage #5 - Voltage Below Normal Or Shorted To Low Source	1543572996
+Sensor Supply Voltage #6 - Voltage Abv Normal Or Shorted To High Source	1543573027
+Sensor Supply Voltage #6 - Voltage Below Normal Or Shorted To Low Source	1543573028
+Aftertreat Hydrocarbon Doser - Data Abv Normal Operat Range - Moderat Severe Lvl	1543573072
+Aftertreat Hydrocarbon Doser - Data Below Normal Operat Range - Moderat Severe Lvl	1543573074
+Ether Hold Ctrl - Current Abv Normal Or Grounded Circuit	1543573094
+Ecu Power Output Supply Voltage - Data Below Normal Operat Range - Most Severe Lvl	1543573121
+Ecu Power Output Supply Voltage - Voltage Abv Normal Or Shorted To High Source	1543573123
+Ecu Power Output Supply Voltage - Current Below Normal Or Open Circuit	1543573125
+Ecu Power Output Supply Voltage - Current Abv Normal Or Grounded Circuit	1543573126
+Ecu Power Output Supply Voltage #2 - Voltage Abv Normal Or Shorted To High Source	1543573155
+Ecu Power Output Supply Voltage #2 - Current Below Normal Or Open Circuit	1543573157
+Ecu Power Output Supply Voltage #2 - Current Abv Normal Or Grounded Circuit	1543573158
+Eng Injector Cylinder #1 Actuator 2 - Current Below Normal Or Open Circuit	1543573189
+Eng Injector Cylinder #1 Actuator 2 - Current Abv Normal Or Grounded Circuit	1543573190
+Eng Injector Cylinder #2 Actuator 2 - Current Below Normal Or Open Circuit	1543573221
+Eng Injector Cylinder #2 Actuator 2 - Current Abv Normal Or Grounded Circuit	1543573222
+Eng Injector Cylinder #3 Actuator 2 - Voltage Below Normal Or Shorted To Low Source	1543573252
+Eng Injector Cylinder #3 Actuator 2 - Current Below Normal Or Open Circuit	1543573253
+Eng Injector Cylinder #3 Actuator 2 - Current Abv Normal Or Grounded Circuit	1543573254
+Eng Injector Cylinder #4 Actuator 2 - Voltage Below Normal Or Shorted To Low Source	1543573284
+Eng Injector Cylinder #4 Actuator 2 - Current Below Normal Or Open Circuit	1543573285
+Eng Injector Cylinder #4 Actuator 2 - Current Abv Normal Or Grounded Circuit	1543573286
+Eng Injector Cylinder #5 Actuator 2 - Voltage Below Normal Or Shorted To Low Source	1543573316
+Eng Injector Cylinder #5 Actuator 2 - Current Below Normal Or Open Circuit	1543573317
+Eng Injector Cylinder #5 Actuator 2 - Current Abv Normal Or Grounded Circuit	1543573318
+Eng Injector Cylinder #6 Actuator 2 - Voltage Below Normal Or Shorted To Low Source	1543573348
+Eng Injector Cylinder #6 Actuator 2 - Current Below Normal Or Open Circuit	1543573349
+Eng Injector Cylinder #6 Actuator 2 - Current Abv Normal Or Grounded Circuit	1543573350
+Diesel Particul Filter Actv Regen Inhibited Due To Low Exhaust Gas Temp - Special Instructions	1543573390
+Diesel Particul Filter Actv Regen Inhibited Due To Low Exhaust Gas Temp-Not Availb Or Condt Exists	1543573407
+Particul Trap #1 Soot Load Percent - Data Abv Normal Operat Range - Most Severe Lvl	1543573408
+Particul Trap #1 Soot Load Percent - Out Of Calibration	1543573421
+Particul Trap #1 Soot Load Percent - Data Abv Normal Operat Range - Least Severe Lvl	1543573423
+Particul Trap #1 Soot Load Percent - Data Abv Normal Operat Range - Moderat Severe Lvl	1543573424
+Particul Trap #1 Ash Load Percent - Data Abv Normal Operat Range - Least Severe Lvl	1543573455
+Particul Trap #1 Ash Load Percent - Data Abv Normal Operat Range - Moderat Severe Lvl	1543573456
+Aftertreat Diesel Particul Filter Syst - Data Abv Normal Operat Range - Most Severe Lvl	1543573472
+Aftertreat Diesel Particul Filter Syst - Data Abv Normal Operat Range - Least Severe Lvl	1543573487
+Aftertreat Diesel Particul Filter Syst - Data Abv Normal Operat Range - Moderat Severe Lvl	1543573488
+Cab Hvac Mode Ctrl Actuator - Voltage Abv Normal Or Shorted To High Source	1543573507
+Cab Hvac Mode Ctrl Actuator - Current Abv Normal Or Grounded Circuit	1543573510
+Cab Hvac Recirculation Door Ctrl Actuator - Voltage Abv Normal Or Shorted To High Source	1543573539
+Cab Hvac Recirculation Door Ctrl Actuator - Current Abv Normal Or Grounded Circuit	1543573542
+Cab Hvac Temp Ctrl Actuator - Voltage Abv Normal Or Shorted To High Source	1543573571
+Cab Hvac Temp Ctrl Actuator - Current Abv Normal Or Grounded Circuit	1543573574
+Electrical Accessory Power Relay - Voltage Below Normal Or Shorted To Low Source	1543573604
+Electrical Accessory Power Relay - Current Below Normal Or Open Circuit	1543573605
+Aftertreat Fuel Press #2 - Voltage Abv Normal Or Shorted To High Source	1543573635
+Aftertreat Fuel Press #2 - Voltage Below Normal Or Shorted To Low Source	1543573636
+Aftertreat Fuel Press #2 - Mechan Syst Not Responding Or Out Of Adjust	1543573639
+Specific Humidity - Bad Intelligent Device Or Component	1543573676
+Aftertreat Diesel Oxidation Catalyst Intake Gas Temp - Bad Intelligent Device Or Component	1543573708
+Aftertreat Diesel Oxidation Catalyst Out Gas Temp - Bad Intelligent Device Or Component	1543573740
+Aftertreat Diesel Oxidation Catalyst Out Gas Temp-Data Abv Normal Operat Range - Least Severe Lvl	1543573743
+Aftertreat Diesel Oxidation Catalyst Out Gas Temp-Data Abv Normal Operat Range-Moderat Severe Lvl	1543573744
+Aftertreat Diesel Oxidation Catalyst Out Gas Temp-Data Below Normal Operat Range-Least Severe Lvl	1543573745
+Aftertreat Diesel Oxidation Catalyst Out Gas Temp-Data Blw Normal Operat Range-Moderat Severe Lvl	1543573746
+Aftertreat Diesel Particul Filter Missing - Out Of Calibration	1543573773
+Aftertreat Diesel Particul Filter Missing - Not Availb Or Condt Exists	1543573791
+Aftertreat Diesel Oxidation Catalyst Syst - Data Abv Normal Operat Range - Most Severe Lvl	1543573792
+Aftertreat Diesel Oxidation Catalyst Syst - Data Abv Normal Operat Range - Least Severe Lvl	1543573807
+Aftertreat Diesel Oxidation Catalyst Syst - Data Abv Normal Operat Range - Moderat Severe Lvl	1543573808
+Sensor Supply Voltage #7 - Voltage Abv Normal Or Shorted To High Source	1543573827
+Sensor Supply Voltage #7 - Voltage Below Normal Or Shorted To Low Source	1543573828
+Aftertreat Diesel Oxidat Catalyst Convers Effici-Data Below Normal Operat Range-Most Severe Lvl	1543573857
+Aftertreat Diesel Oxidat Catalyst Convers Effici-Data Below Normal Operat Rang-Moderat Sever Lvl	1543573874
+Aftertreat Hydrocarbon Doser Intake Fuel Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543573888
+Aftertreat Hydrocarbon Doser Intake Fuel Temp - Data Below Normal Operat Range - Most Severe Lvl	1543573889
+Aftertreat Hydrocarbon Doser Intake Fuel Temp - Voltage Abv Normal Or Shorted To High Source	1543573891
+Aftertreat Hydrocarbon Doser Intake Fuel Temp - Voltage Below Normal Or Shorted To Low Source	1543573892
+Supplemental Fan Direction State - Voltage Abv Normal Or Shorted To High Source	1543573923
+Supplemental Fan Direction State - Current Below Normal Or Open Circuit	1543573925
+Supplemental Fan Direction State - Current Abv Normal Or Grounded Circuit	1543573926
+Supplemental Fan Speed - Data Abv Normal Operat Range - Most Severe Lvl	1543573952
+Supplemental Fan Speed - Data Below Normal Operat Range - Most Severe Lvl	1543573953
+Supplemental Fan Speed - Abnormal Frequency Or Pulse Width Or Period	1543573960
+Supplemental Fan Current - Voltage Abv Normal Or Shorted To High Source	1543573987
+Supplemental Fan Current - Current Below Normal Or Open Circuit	1543573989
+Supplemental Fan Current - Current Abv Normal Or Grounded Circuit	1543573990
+Supplemental Fan Current - Data Abv Normal Operat Range - Moderat Severe Lvl	1543574000
+Supplemental Fan Current - Data Below Normal Operat Range - Least Severe Lvl	1543574001
+Supplemental Fan Current - Data Below Normal Operat Range - Moderat Severe Lvl	1543574002
+Electrical Power Inverter/Converter - Data Erratic Intermittent Or Incorrect	1543574018
+Electrical Power Inverter/Converter - Voltage Below Normal Or Shorted To Low Source	1543574020
+Software Input Map Structure - Not Availb Or Condt Exists	1543574079
+A/C Blower Driver - Hi Speed - Current Below Normal Or Open Circuit	1543574085
+A/C Blower Driver - Hi Speed - Current Abv Normal Or Grounded Circuit	1543574086
+Operator Switch #17 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543574116
+Operator Switch #17 (Basic) - Abnormal Update Rate	1543574121
+Operator Switch #18 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543574148
+Operator Switch #18 (Basic) - Abnormal Update Rate	1543574153
+Operator Switch #19 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543574180
+Operator Switch #19 (Basic) - Abnormal Update Rate	1543574185
+Operator Switch #20 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543574212
+Operator Switch #20 (Basic) - Abnormal Update Rate	1543574217
+A/C Blower Driver - Med Speed - Current Below Normal Or Open Circuit	1543574245
+A/C Blower Driver - Med Speed - Current Abv Normal Or Grounded Circuit	1543574246
+A/C Blower Driver - Low Speed - Current Below Normal Or Open Circuit	1543574277
+A/C Blower Driver - Low Speed - Current Abv Normal Or Grounded Circuit	1543574278
+Truck Dump Body Raise Actuator - Voltage Abv Normal Or Shorted To High Source	1543574307
+Truck Dump Body Raise Actuator - Current Below Normal Or Open Circuit	1543574309
+Truck Dump Body Raise Actuator - Current Abv Normal Or Grounded Circuit	1543574310
+Truck Dump Body Raise Actuator - Data Abv Normal Operat Range - Moderat Severe Lvl	1543574320
+Truck Dump Body Raise Actuator - Data Below Normal Operat Range - Least Severe Lvl	1543574321
+Truck Dump Body Raise Actuator - Data Below Normal Operat Range - Moderat Severe Lvl	1543574322
+Mid Axle Oil Filter Switch - Data Below Normal Operat Range - Most Severe Lvl	1543574337
+Mid Axle Oil Filter Switch - Voltage Abv Normal Or Shorted To High Source	1543574339
+Mid Axle Oil Filter Switch - Data Abv Normal Operat Range - Moderat Severe Lvl	1543574352
+Rear Axle Oil Filter Switch - Data Below Normal Operat Range - Most Severe Lvl	1543574369
+Rear Axle Oil Filter Switch - Voltage Abv Normal Or Shorted To High Source	1543574371
+Rear Axle Oil Filter Switch - Data Abv Normal Operat Range - Moderat Severe Lvl	1543574384
+Front Axle Cross-Axle Different Lock (Cdl) Press - Data Abv Normal Operat Range - Most Severe Lvl	1543574400
+Front Axle Cross-Axle Different Lock (Cdl) Press - Data Below Normal Operat Range-Most Severe Lvl	1543574401
+Belt Speed Actuator - Data Abv Normal Operat Range - Most Severe Lvl	1543574432
+Belt Speed Actuator - Data Below Normal Operat Range - Most Severe Lvl	1543574433
+Rear Axle Cross-Axle Different Lock (Cdl) Press - Data Abv Normal Operat Range - Most Severe Lvl	1543574464
+Rear Axle Cross-Axle Different Lock (Cdl) Press - Data Below Normal Operat Range - Most Severe Lvl	1543574465
+Truck Dump Body Lower Actuator - Data Abv Normal Operat Range - Moderat Severe Lvl	1543574512
+Truck Dump Body Lower Actuator - Data Below Normal Operat Range - Least Severe Lvl	1543574513
+Truck Dump Body Lower Actuator - Data Below Normal Operat Range - Moderat Severe Lvl	1543574514
+Front Axle Cross-Axle Different Lock (Cdl) Driver - Voltage Abv Normal Or Shorted To High Source	1543574531
+Front Axle Cross-Axle Different Lock (Cdl) Driver - Current Below Normal Or Open Circuit	1543574533
+Mid Axle Cross-Axle Different Lock (Cdl) Driver - Voltage Abv Normal Or Shorted To High Source	1543574563
+Mid Axle Cross-Axle Different Lock (Cdl) Driver - Current Below Normal Or Open Circuit	1543574565
+Mid Axle Cross-Axle Different Lock (Cdl) Driver - Current Abv Normal Or Grounded Circuit	1543574566
+Rear Axle Cross-Axle Different Lock (Cdl) Driver - Voltage Abv Normal Or Shorted To High Source	1543574595
+Rear Axle Cross-Axle Different Lock (Cdl) Driver - Current Below Normal Or Open Circuit	1543574597
+Rear Axle Cross-Axle Different Lock (Cdl) Driver - Current Abv Normal Or Grounded Circuit	1543574598
+Truck Dump Body Heat Actuator - Voltage Abv Normal Or Shorted To High Source	1543574627
+Truck Dump Body Heat Actuator - Current Below Normal Or Open Circuit	1543574629
+Truck Dump Body Heat Actuator - Current Abv Normal Or Grounded Circuit	1543574630
+Truck Dump Body Raise Ctrl Lever Actuator Lock - Voltage Abv Normal Or Shorted To High Source	1543574659
+Truck Dump Body Raise Ctrl Lever Actuator Lock - Current Below Normal Or Open Circuit	1543574661
+Truck Dump Body Raise Ctrl Lever Actuator Lock - Current Abv Normal Or Grounded Circuit	1543574662
+Cargo Weight Indicator Light - Yellow - Voltage Abv Normal Or Shorted To High Source	1543574691
+Cargo Weight Indicator Light - Yellow - Current Below Normal Or Open Circuit	1543574693
+Cargo Weight Indicator Light - Yellow - Current Abv Normal Or Grounded Circuit	1543574694
+Cargo Weight Indicator Light - Green - Voltage Abv Normal Or Shorted To High Source	1543574723
+Cargo Weight Indicator Light - Green - Current Below Normal Or Open Circuit	1543574725
+Cargo Weight Indicator Light - Green - Current Abv Normal Or Grounded Circuit	1543574726
+Cargo Weight Indicator Light - Red - Voltage Abv Normal Or Shorted To High Source	1543574755
+Cargo Weight Indicator Light - Red - Current Below Normal Or Open Circuit	1543574757
+Cargo Weight Indicator Light - Red - Current Abv Normal Or Grounded Circuit	1543574758
+Axle Cooling Oil Cutoff Actuator - Voltage Abv Normal Or Shorted To High Source	1543574787
+Axle Cooling Oil Cutoff Actuator - Current Below Normal Or Open Circuit	1543574789
+Axle Cooling Oil Cutoff Actuator - Current Abv Normal Or Grounded Circuit	1543574790
+Axle Cooling Oil Cutoff Actuator - Data Abv Normal Operat Range - Moderat Severe Lvl	1543574800
+Axle Cooling Oil Cutoff Actuator - Data Below Normal Operat Range - Least Severe Lvl	1543574801
+Axle Cooling Oil Cutoff Actuator - Data Below Normal Operat Range - Moderat Severe Lvl	1543574802
+Hydraulic Fan #2 Actuator - Voltage Abv Normal Or Shorted To High Source	1543574819
+Hydraulic Fan #2 Actuator - Current Below Normal Or Open Circuit	1543574821
+Hydraulic Fan #2 Actuator - Current Abv Normal Or Grounded Circuit	1543574822
+Truck Dump Body Load Holding Actuator - Voltage Abv Normal Or Shorted To High Source	1543574851
+Truck Dump Body Load Holding Actuator - Current Below Normal Or Open Circuit	1543574853
+Truck Dump Body Load Holding Actuator - Current Abv Normal Or Grounded Circuit	1543574854
+Truck Dump Body Left Strut Height Position - Voltage Abv Normal Or Shorted To High Source	1543574883
+Truck Dump Body Left Strut Height Position - Voltage Below Normal Or Shorted To Low Source	1543574884
+Truck Dump Body Right Strut Height Position - Voltage Abv Normal Or Shorted To High Source	1543574915
+Truck Dump Body Right Strut Height Position - Voltage Below Normal Or Shorted To Low Source	1543574916
+Truck Dump Body Raise Ctrl Valve - Press Reduction - Voltage Abv Normal Or Shorted To High Source	1543574947
+Truck Dump Body Raise Ctrl Valve - Press Reduction - Current Below Normal Or Open Circuit	1543574949
+Truck Dump Body Raise Ctrl Valve - Press Reduction - Current Abv Normal Or Grounded Circuit	1543574950
+Truck Dump Body Raise Ctrl Valve-Press Reduction-Data Abv Normal Operat Range-Moderat Severe Lvl	1543574960
+Truck Dump Body Raise Ctrl Valve-Press Reduction-Data Below Normal Operat Range-Least Severe Lvl	1543574961
+Truck Dump Body Raise Ctrl Valve-Press Reduction-Data Below Normal Operat Range-Moderat Severe Lvl	1543574962
+Service/Work Light Ctrl - Eng Compartment - Voltage Below Normal Or Shorted To Low Source	1543574980
+Truck Dump Body Raise Ctrl Lever Position - Voltage Abv Normal Or Shorted To High Source	1543575011
+Truck Dump Body Raise Ctrl Lever Position - Voltage Below Normal Or Shorted To Low Source	1543575012
+Truck Dump Body Height Position (Voltage) - Voltage Abv Normal Or Shorted To High Source	1543575043
+Truck Dump Body Height Position (Voltage) - Voltage Below Normal Or Shorted To Low Source	1543575044
+Inter-Axle Different Lock (Idl) Actuator - Voltage Abv Normal Or Shorted To High Source	1543575075
+Inter-Axle Different Lock (Idl) Actuator - Current Below Normal Or Open Circuit	1543575077
+Inter-Axle Different Lock (Idl) Actuator - Current Abv Normal Or Grounded Circuit	1543575078
+Transmission Drop Box Temp - Data Abv Normal Operat Range - Most Severe Lvl	1543575104
+Transmission Drop Box Temp - Voltage Abv Normal Or Shorted To High Source	1543575107
+Transmission Drop Box Temp - Voltage Below Normal Or Shorted To Low Source	1543575108
+Truck Dump Body Left Strut Raise Actuator - Voltage Abv Normal Or Shorted To High Source	1543575139
+Truck Dump Body Left Strut Raise Actuator - Current Below Normal Or Open Circuit	1543575141
+Truck Dump Body Left Strut Raise Actuator - Current Abv Normal Or Grounded Circuit	1543575142
+Truck Dump Body Left Strut Raise Actuator - Data Abv Normal Operat Range - Moderat Severe Lvl	1543575152
+Truck Dump Body Left Strut Raise Actuator - Data Below Normal Operat Range - Least Severe Lvl	1543575153
+Truck Dump Body Left Strut Raise Actuator - Data Below Normal Operat Range - Moderat Severe Lvl	1543575154
+Truck Dump Body Left Strut Lower Actuator - Data Abv Normal Operat Range - Moderat Severe Lvl	1543575184
+Truck Dump Body Left Strut Lower Actuator - Data Below Normal Operat Range - Least Severe Lvl	1543575185
+Truck Dump Body Left Strut Lower Actuator - Data Below Normal Operat Range - Moderat Severe Lvl	1543575186
+Truck Dump Body Right Strut Raise Actuator - Voltage Abv Normal Or Shorted To High Source	1543575203
+Truck Dump Body Right Strut Raise Actuator - Current Below Normal Or Open Circuit	1543575205
+Truck Dump Body Right Strut Raise Actuator - Current Abv Normal Or Grounded Circuit	1543575206
+Truck Dump Body Right Strut Raise Actuator - Data Abv Normal Operat Range - Moderat Severe Lvl	1543575216
+Truck Dump Body Right Strut Raise Actuator - Data Below Normal Operat Range - Least Severe Lvl	1543575217
+Truck Dump Body Right Strut Raise Actuator - Data Below Normal Operat Range - Moderat Severe Lvl	1543575218
+Truck Dump Body Right Strut Lower Actuator - Data Abv Normal Operat Range - Moderat Severe Lvl	1543575248
+Truck Dump Body Right Strut Lower Actuator - Data Below Normal Operat Range - Least Severe Lvl	1543575249
+Truck Dump Body Right Strut Lower Actuator - Data Below Normal Operat Range - Moderat Severe Lvl	1543575250
+Park Brake Release Valve - Voltage Abv Normal Or Shorted To High Source	1543575267
+Park Brake Release Valve - Current Below Normal Or Open Circuit	1543575269
+Park Brake Release Valve - Current Abv Normal Or Grounded Circuit	1543575270
+High-Low Beam Flash Switch - Voltage Below Normal Or Shorted To Low Source	1543575300
+Stairwell Light Ctrl - Voltage Below Normal Or Shorted To Low Source	1543575332
+Park Lights - Voltage Abv Normal Or Shorted To High Source	1543575363
+Park Lights - Current Below Normal Or Open Circuit	1543575365
+Park Lights - Current Abv Normal Or Grounded Circuit	1543575366
+Truck Dump Body Raise Lock Bar - Voltage Below Normal Or Shorted To Low Source	1543575396
+Hydraulic Cooling Fan Relief Actuator - Voltage Abv Normal Or Shorted To High Source	1543575427
+Hydraulic Cooling Fan #2 Relief Actuator - Voltage Abv Normal Or Shorted To High Source	1543575459
+Non-Volatile Memory - Checksum - Voltage Abv Normal Or Shorted To High Source	1543575491
+Hydraulic Syst Unloading Valve Driver - Voltage Abv Normal Or Shorted To High Source	1543575523
+Hydraulic Syst Unloading Valve Driver - Current Below Normal Or Open Circuit	1543575525
+Hydraulic Syst Unloading Valve Driver - Current Abv Normal Or Grounded Circuit	1543575526
+Reversing Fan Mode Driver - Voltage Abv Normal Or Shorted To High Source	1543575555
+Reversing Fan Mode Driver - Current Below Normal Or Open Circuit	1543575557
+Reversing Fan Mode Driver - Current Abv Normal Or Grounded Circuit	1543575558
+Axle Oil Filter Restriction Switch - Data Below Normal Operat Range - Most Severe Lvl	1543575585
+Axle Oil Filter Restriction Switch - Voltage Abv Normal Or Shorted To High Source	1543575587
+Axle Oil Filter Restriction Switch - Abnormal Rate Of Change	1543575594
+Brake Syst Temp (High Resolution) - Axle #3 - Data Abv Normal Operat Range - Most Severe Lvl	1543575616
+Brake Syst Temp (High Resolution) - Axle #3 - Voltage Abv Normal Or Shorted To High Source	1543575619
+Brake Syst Temp (High Resolution) - Axle #3 - Voltage Below Normal Or Shorted To Low Source	1543575620
+Brake Syst Temp (High Resolution) - Axle #2 - Data Abv Normal Operat Range - Most Severe Lvl	1543575648
+Brake Syst Temp (High Resolution) - Axle #2 - Voltage Abv Normal Or Shorted To High Source	1543575651
+Brake Syst Temp (High Resolution) - Axle #2 - Voltage Below Normal Or Shorted To Low Source	1543575652
+Brake Syst Temp (High Resolution) - Axle - Data Abv Normal Operat Range - Most Severe Lvl	1543575680
+Brake Syst Temp (High Resolution) - Axle - Voltage Abv Normal Or Shorted To High Source	1543575683
+Brake Syst Temp (High Resolution) - Axle - Voltage Below Normal Or Shorted To Low Source	1543575684
+Seat Heater - Voltage Abv Normal Or Shorted To High Source	1543575715
+Seat Heater - Current Below Normal Or Open Circuit	1543575717
+Seat Heater - Current Abv Normal Or Grounded Circuit	1543575718
+Secondary Steering Press Low - Data Below Normal Operat Range - Most Severe Lvl	1543575745
+Secondary Steering Press Low - Voltage Abv Normal Or Shorted To High Source	1543575747
+Secondary Steering Press Low - Voltage Below Normal Or Shorted To Low Source	1543575748
+Spray Nozzle Actuator #12 - Abnormal Rate Of Change	1543575786
+Secondary Brake Ctrl Valve - Voltage Abv Normal Or Shorted To High Source	1543575811
+Secondary Brake Ctrl Valve - Current Below Normal Or Open Circuit	1543575813
+Secondary Brake Ctrl Valve - Current Abv Normal Or Grounded Circuit	1543575814
+Secondary Brake Ctrl Valve - Data Abv Normal Operat Range - Moderat Severe Lvl	1543575824
+Secondary Brake Ctrl Valve - Data Below Normal Operat Range - Least Severe Lvl	1543575825
+Secondary Brake Ctrl Valve - Data Below Normal Operat Range - Moderat Severe Lvl	1543575826
+Washer Pump - Front - Current Below Normal Or Open Circuit	1543575845
+Washer Pump - Front - Current Abv Normal Or Grounded Circuit	1543575846
+Washer Pump - Front - Data Abv Normal Operat Range - Moderat Severe Lvl	1543575856
+Park Brake Press Switch - Voltage Abv Normal Or Shorted To High Source	1543575875
+Park Brake Press Switch - Voltage Below Normal Or Shorted To Low Source	1543575876
+Front Wiper - Low Speed - Current Below Normal Or Open Circuit	1543575909
+Front Wiper - Low Speed - Current Abv Normal Or Grounded Circuit	1543575910
+Front Wiper - Low Speed - Data Abv Normal Operat Range - Moderat Severe Lvl	1543575920
+Front Wiper - High Speed - Current Below Normal Or Open Circuit	1543575941
+Front Wiper - High Speed - Current Abv Normal Or Grounded Circuit	1543575942
+Front Wiper - High Speed - Data Abv Normal Operat Range - Moderat Severe Lvl	1543575952
+Aftertreat Fuel Dosing Pump - Data Erratic Intermittent Or Incorrect	1543575970
+Aftertreat Fuel Dosing Pump - Voltage Abv Normal Or Shorted To High Source	1543575971
+Aftertreat Fuel Dosing Pump - Voltage Below Normal Or Shorted To Low Source	1543575972
+Aftertreat Fuel Dosing Pump - Current Abv Normal Or Grounded Circuit	1543575974
+Aftertreat Fuel Dosing Pump - Abnormal Update Rate	1543575977
+Aftertreat Fuel Dosing Pump - Data Abv Normal Operat Range - Least Severe Lvl	1543575983
+Eng Turbochar 1 Compressor Inlet Sensor - Abnormal Update Rate	1543576009
+Eng Exhaust Filter Temp Module - Abnormal Update Rate	1543576041
+Drivetrain Condt Detection - Not Availb Or Condt Exists	1543576095
+Software Application - Data Erratic Intermittent Or Incorrect	1543576098
+Software Application - Abnormal Rate Of Change	1543576106
+Software Application - Out Of Calibration	1543576109
+Product Flow Sensor #168 - Data Below Normal Operat Range - Most Severe Lvl	1543576129
+Product Flow Sensor #168 - Voltage Abv Normal Or Shorted To High Source	1543576131
+Product Flow Sensor #168 - Voltage Below Normal Or Shorted To Low Source	1543576132
+Product Flow Sensor #159 - Voltage Abv Normal Or Shorted To High Source	1543576163
+Product Flow Sensor #159 - Voltage Below Normal Or Shorted To Low Source	1543576164
+Product Flow Sensor #158 - Voltage Below Normal Or Shorted To Low Source	1543576196
+Product Flow Sensor #149 - Voltage Abv Normal Or Shorted To High Source	1543576227
+Product Flow Sensor #149 - Voltage Below Normal Or Shorted To Low Source	1543576228
+Product Flow Sensor #149 - Current Abv Normal Or Grounded Circuit	1543576230
+Product Flow Sensor #148 - Voltage Abv Normal Or Shorted To High Source	1543576259
+Product Flow Sensor #148 - Voltage Below Normal Or Shorted To Low Source	1543576260
+Product Flow Sensor #148 - Current Abv Normal Or Grounded Circuit	1543576262
+Product Flow Sensor #147 - Voltage Abv Normal Or Shorted To High Source	1543576291
+Product Flow Sensor #147 - Voltage Below Normal Or Shorted To Low Source	1543576292
+Product Flow Sensor #147 - Current Abv Normal Or Grounded Circuit	1543576294
+Product Flow Sensor #139 - Voltage Abv Normal Or Shorted To High Source	1543576323
+Product Flow Sensor #139 - Voltage Below Normal Or Shorted To Low Source	1543576324
+Product Flow Sensor #139 - Current Abv Normal Or Grounded Circuit	1543576326
+Product Flow Sensor #138 - Voltage Abv Normal Or Shorted To High Source	1543576355
+Product Flow Sensor #138 - Voltage Below Normal Or Shorted To Low Source	1543576356
+Product Flow Sensor #138 - Current Abv Normal Or Grounded Circuit	1543576358
+Product Flow Sensor #129 - Data Abv Normal Operat Range - Most Severe Lvl	1543576384
+Product Flow Sensor #129 - Data Erratic Intermittent Or Incorrect	1543576386
+Product Flow Sensor #125 - Bad Intelligent Device Or Component	1543576428
+Product Flow Sensor #124 - Bad Intelligent Device Or Component	1543576460
+Product Flow Sensor #123 - Bad Intelligent Device Or Component	1543576492
+Product Flow Sensor #122 - Bad Intelligent Device Or Component	1543576524
+Product Flow Sensor #70 - Data Erratic Intermittent Or Incorrect	1543576546
+Product Flow Sensor #70 - Voltage Abv Normal Or Shorted To High Source	1543576547
+Product Flow Sensor #70 - Current Abv Normal Or Grounded Circuit	1543576550
+Product Flow Sensor #70 - Mechan Syst Not Responding Or Out Of Adjust	1543576551
+Product Flow Sensor #70 - Abnormal Frequency Or Pulse Width Or Period	1543576552
+Product Flow Sensor #70 - Abnormal Update Rate	1543576553
+Product Flow Sensor #70 - Root Cause Not Known	1543576555
+Product Moisture Sensor Actuator Motor - Data Erratic Intermittent Or Incorrect	1543576578
+Product Moisture Sensor Actuator Motor - Voltage Abv Normal Or Shorted To High Source	1543576579
+Product Moisture Sensor Actuator Motor - Current Abv Normal Or Grounded Circuit	1543576582
+Product Moisture Sensor Actuator Motor - Mechan Syst Not Responding Or Out Of Adjust	1543576583
+Product Moisture Sensor Actuator Motor - Abnormal Frequency Or Pulse Width Or Period	1543576584
+Product Moisture Sensor Actuator Motor - Abnormal Update Rate	1543576585
+Product Moisture Sensor Actuator Motor - Root Cause Not Known	1543576587
+Yield Estimation - Data Erratic Intermittent Or Incorrect	1543576610
+Yield Estimation - Voltage Abv Normal Or Shorted To High Source	1543576611
+Yield Estimation - Current Abv Normal Or Grounded Circuit	1543576614
+Yield Estimation - Mechan Syst Not Responding Or Out Of Adjust	1543576615
+Yield Estimation - Abnormal Frequency Or Pulse Width Or Period	1543576616
+Yield Estimation - Abnormal Update Rate	1543576617
+Yield Estimation - Root Cause Not Known	1543576619
+Field Data - Data Erratic Intermittent Or Incorrect	1543576642
+Field Data - Voltage Abv Normal Or Shorted To High Source	1543576643
+Field Data - Current Abv Normal Or Grounded Circuit	1543576646
+Field Data - Mechan Syst Not Responding Or Out Of Adjust	1543576647
+Field Data - Abnormal Frequency Or Pulse Width Or Period	1543576648
+Field Data - Abnormal Update Rate	1543576649
+Field Data - Root Cause Not Known	1543576651
+Transmission Clutch Temp - Data Erratic Intermittent Or Incorrect	1543576674
+Transmission Clutch Temp - Voltage Abv Normal Or Shorted To High Source	1543576675
+Transmission Clutch Temp - Current Abv Normal Or Grounded Circuit	1543576678
+Product Flow Sensor #57 - Data Erratic Intermittent Or Incorrect	1543576706
+Product Flow Sensor #52 - Data Erratic Intermittent Or Incorrect	1543576738
+Product Flow Sensor #45 - Data Erratic Intermittent Or Incorrect	1543576770
+Product Flow Sensor #45 - Voltage Abv Normal Or Shorted To High Source	1543576771
+Product Flow Sensor #45 - Current Below Normal Or Open Circuit	1543576773
+Product Flow Sensor #45 - Current Abv Normal Or Grounded Circuit	1543576774
+Product Flow Sensor #40 - Data Erratic Intermittent Or Incorrect	1543576802
+Product Flow Sensor #40 - Voltage Abv Normal Or Shorted To High Source	1543576803
+Product Flow Sensor #40 - Current Below Normal Or Open Circuit	1543576805
+Product Flow Sensor #40 - Current Abv Normal Or Grounded Circuit	1543576806
+Product Flow Sensor #35 - Data Erratic Intermittent Or Incorrect	1543576834
+Product Flow Sensor #30 - Data Erratic Intermittent Or Incorrect	1543576866
+Product Flow Sensor #30 - Voltage Abv Normal Or Shorted To High Source	1543576867
+Product Flow Sensor #30 - Voltage Below Normal Or Shorted To Low Source	1543576868
+Product Flow Sensor #30 - Current Abv Normal Or Grounded Circuit	1543576870
+Gate Lower Enable Actuator Driver - Data Abv Normal Operat Range - Most Severe Lvl	1543576896
+Gate Lower Enable Actuator Driver - Data Erratic Intermittent Or Incorrect	1543576898
+Gate Lower Enable Actuator Driver - Voltage Abv Normal Or Shorted To High Source	1543576899
+Gate Lower Enable Actuator Driver - Current Below Normal Or Open Circuit	1543576901
+Gate Lower Enable Actuator Driver - Current Abv Normal Or Grounded Circuit	1543576902
+Gate Lower Enable Actuator Driver - Abnormal Frequency Or Pulse Width Or Period	1543576904
+Baler Gate Raise Valve Driver - Data Abv Normal Operat Range - Most Severe Lvl	1543576928
+Baler Gate Raise Valve Driver - Data Erratic Intermittent Or Incorrect	1543576930
+Baler Gate Raise Valve Driver - Voltage Abv Normal Or Shorted To High Source	1543576931
+Baler Gate Raise Valve Driver - Current Below Normal Or Open Circuit	1543576933
+Baler Gate Raise Valve Driver - Current Abv Normal Or Grounded Circuit	1543576934
+Baler Gate Raise Valve Driver - Abnormal Frequency Or Pulse Width Or Period	1543576936
+Rockshaft Tensioner Raise Valve Driver - Data Abv Normal Operat Range - Most Severe Lvl	1543576960
+Rockshaft Tensioner Raise Valve Driver - Data Erratic Intermittent Or Incorrect	1543576962
+Rockshaft Tensioner Raise Valve Driver - Voltage Abv Normal Or Shorted To High Source	1543576963
+Rockshaft Tensioner Raise Valve Driver - Current Below Normal Or Open Circuit	1543576965
+Rockshaft Tensioner Raise Valve Driver - Current Abv Normal Or Grounded Circuit	1543576966
+Rockshaft Tensioner Raise Valve Driver - Abnormal Frequency Or Pulse Width Or Period	1543576968
+Valve Power Ctrl - Data Abv Normal Operat Range - Most Severe Lvl	1543576992
+Valve Power Ctrl - Data Erratic Intermittent Or Incorrect	1543576994
+Valve Power Ctrl - Voltage Abv Normal Or Shorted To High Source	1543576995
+Valve Power Ctrl - Current Below Normal Or Open Circuit	1543576997
+Valve Power Ctrl - Current Abv Normal Or Grounded Circuit	1543576998
+Valve Power Ctrl - Abnormal Frequency Or Pulse Width Or Period	1543577000
+Valve Power #3 - Voltage Below Normal Or Shorted To Low Source	1543577028
+Valve Power #2 - Voltage Abv Normal Or Shorted To High Source	1543577059
+Valve Power #2 - Voltage Below Normal Or Shorted To Low Source	1543577060
+Valve Power - Voltage Abv Normal Or Shorted To High Source	1543577091
+Valve Power - Voltage Below Normal Or Shorted To Low Source	1543577092
+Accumulator Lid Up State - Data Abv Normal Operat Range - Most Severe Lvl	1543577120
+Accumulator Lid Up State - Data Erratic Intermittent Or Incorrect	1543577122
+Accumulator Lid Up State - Voltage Abv Normal Or Shorted To High Source	1543577123
+Accumulator Lid Up State - Current Below Normal Or Open Circuit	1543577125
+Accumulator Lid Up State - Current Abv Normal Or Grounded Circuit	1543577126
+Accumulator Lid Up State - Abnormal Frequency Or Pulse Width Or Period	1543577128
+Ladder Position Up State - Data Abv Normal Operat Range - Most Severe Lvl	1543577152
+Ladder Position Up State - Data Erratic Intermittent Or Incorrect	1543577154
+Ladder Position Up State - Voltage Abv Normal Or Shorted To High Source	1543577155
+Ladder Position Up State - Current Below Normal Or Open Circuit	1543577157
+Ladder Position Up State - Current Abv Normal Or Grounded Circuit	1543577158
+Ladder Position Up State - Abnormal Frequency Or Pulse Width Or Period	1543577160
+Lower Front Feedroll - Data Abv Normal Operat Range - Most Severe Lvl	1543577184
+Lower Front Feedroll - Data Erratic Intermittent Or Incorrect	1543577186
+Lower Front Feedroll - Voltage Abv Normal Or Shorted To High Source	1543577187
+Lower Front Feedroll - Current Below Normal Or Open Circuit	1543577189
+Lower Front Feedroll - Current Abv Normal Or Grounded Circuit	1543577190
+Lower Front Feedroll - Abnormal Frequency Or Pulse Width Or Period	1543577192
+Upper Rear Feedroll Right Hand Bearing - Data Abv Normal Operat Range - Most Severe Lvl	1543577216
+Upper Rear Feedroll Right Hand Bearing - Data Erratic Intermittent Or Incorrect	1543577218
+Upper Rear Feedroll Right Hand Bearing - Voltage Abv Normal Or Shorted To High Source	1543577219
+Upper Rear Feedroll Right Hand Bearing - Current Below Normal Or Open Circuit	1543577221
+Upper Rear Feedroll Right Hand Bearing - Current Abv Normal Or Grounded Circuit	1543577222
+Upper Rear Feedroll Right Hand Bearing - Abnormal Frequency Or Pulse Width Or Period	1543577224
+Harvester Knifedrum Left Hand Bearing - Data Abv Normal Operat Range - Most Severe Lvl	1543577248
+Harvester Knifedrum Left Hand Bearing - Data Erratic Intermittent Or Incorrect	1543577250
+Harvester Knifedrum Left Hand Bearing - Voltage Abv Normal Or Shorted To High Source	1543577251
+Harvester Knifedrum Left Hand Bearing - Current Below Normal Or Open Circuit	1543577253
+Harvester Knifedrum Left Hand Bearing - Current Abv Normal Or Grounded Circuit	1543577254
+Harvester Knifedrum Left Hand Bearing - Abnormal Frequency Or Pulse Width Or Period	1543577256
+Kernel Processor Lower Roller - Data Erratic Intermittent Or Incorrect	1543577282
+Kernel Processor Lower Roller - Voltage Abv Normal Or Shorted To High Source	1543577283
+Kernel Processor Lower Roller - Current Below Normal Or Open Circuit	1543577285
+Kernel Processor Lower Roller - Current Abv Normal Or Grounded Circuit	1543577286
+Kernel Processor Lower Roller - Abnormal Frequency Or Pulse Width Or Period	1543577288
+Kernel Processor Upper Right Hand Roller Bearing - Data Erratic Intermittent Or Incorrect	1543577314
+Kernel Processor Upper Right Hand Roller Bearing - Voltage Abv Normal Or Shorted To High Source	1543577315
+Kernel Processor Upper Right Hand Roller Bearing - Current Below Normal Or Open Circuit	1543577317
+Kernel Processor Upper Right Hand Roller Bearing - Current Abv Normal Or Grounded Circuit	1543577318
+Kernel Processor Upper Right Hand Roller Bearing - Abnormal Frequency Or Pulse Width Or Period	1543577320
+Boom Height Sensitivity Setting - Data Abv Normal Operat Range - Most Severe Lvl	1543577344
+Boom Height - Data Abv Normal Operat Range - Most Severe Lvl	1543577376
+Boom Height Operat State - Data Abv Normal Operat Range - Most Severe Lvl	1543577408
+Rotary Encoder - Data Abv Normal Operat Range - Most Severe Lvl	1543577440
+Commanded Transmission State - Data Abv Normal Operat Range - Most Severe Lvl	1543577472
+Non-Volatile Memory Read/Write - Data Abv Normal Operat Range - Most Severe Lvl	1543577504
+Harvester Elevator Drive - Data Abv Normal Operat Range - Least Severe Lvl	1543577551
+Oper Ctrl A1 Cmd Byte 4 Bit Pair 7-8 - Voltage Below Normal Or Shorted To Low Source	1543577572
+Oper Ctrl A1 Cmd Byte 4 Bit Pair 7-8 - Abnormal Update Rate	1543577577
+Oper Ctrl A1 Cmd Byte 3 Bit Pair 1-2 - Voltage Below Normal Or Shorted To Low Source	1543577604
+Oper Ctrl A1 Cmd Byte 3 Bit Pair 1-2 - Abnormal Update Rate	1543577609
+Oper Ctrl A1 Cmd Byte 3 Bit Pair 3-4 - Voltage Below Normal Or Shorted To Low Source	1543577636
+Oper Ctrl A1 Cmd Byte 3 Bit Pair 3-4 - Abnormal Update Rate	1543577641
+Oper Ctrl A1 Cmd Byte 3 Bit Pair 5-6 - Voltage Below Normal Or Shorted To Low Source	1543577668
+Oper Ctrl A1 Cmd Byte 3 Bit Pair 5-6 - Abnormal Update Rate	1543577673
+Oper Ctrl A1 Cmd Byte 3 Bit Pair 7-8 - Voltage Below Normal Or Shorted To Low Source	1543577700
+Oper Ctrl A1 Cmd Byte 3 Bit Pair 7-8 - Abnormal Update Rate	1543577705
+Left #5 Section Air Valve Mode - Abnormal Update Rate	1543577737
+Left #4 Section Air Valve Mode - Abnormal Update Rate	1543577769
+Left #3 Section Air Valve Mode - Abnormal Update Rate	1543577801
+Left #2 Section Air Valve Mode - Abnormal Update Rate	1543577833
+Left #1 Section Air Valve Mode - Abnormal Update Rate	1543577865
+Implement Drawbar Left Drive Mode - Abnormal Update Rate	1543577897
+Boom Tilt Right Mode - Abnormal Update Rate	1543577929
+Boom Raise Mode - Abnormal Update Rate	1543577961
+Boom Tilt Left/Right Command - Abnormal Update Rate	1543577993
+Boom Tilt Left/Right Response - Abnormal Update Rate	1543578025
+Load Sense Ctrl Valve Driver - Abnormal Update Rate	1543578057
+Product Tank Lvl Alarm - Abnormal Update Rate	1543578089
+Aux Valve 3Rd Function Analog - Abnormal Update Rate	1543578121
+Center Spray Section Mode - Abnormal Update Rate	1543578153
+Right #7 Spray Section Mode - Abnormal Update Rate	1543578185
+Right #6 Spray Section Mode - Abnormal Update Rate	1543578217
+Right #6 Spray Section - Abnormal Update Rate	1543578249
+Right Inner Boom Fold Mode - Received Network Data In Error	1543578291
+Right Outer Boom Fold Mode - Received Network Data In Error	1543578323
+Right Break-Away Boom Fold Mode - Received Network Data In Error	1543578355
+Left Break-Away Boom Fold Mode - Received Network Data In Error	1543578387
+Left Break-Away Boom Unfold Mode - Received Network Data In Error	1543578419
+Eng Service/Work Lights - Voltage Abv Normal Or Shorted To High Source	1543578435
+Eng Service/Work Lights - Current Below Normal Or Open Circuit	1543578437
+Eng Service/Work Lights - Current Abv Normal Or Grounded Circuit	1543578438
+Rear Motor Speed - Data Abv Normal Operat Range - Most Severe Lvl	1543578464
+Grain Tank Covers Open Output State - Data Abv Normal Operat Range - Most Severe Lvl	1543578496
+Grain Tank Covers Close Output State - Data Abv Normal Operat Range - Most Severe Lvl	1543578528
+Front End Drive Output 5 - Data Abv Normal Operat Range - Most Severe Lvl	1543578560
+Front End Drive Output 4 - Data Abv Normal Operat Range - Most Severe Lvl	1543578592
+Ecu Power Input Supply Voltage #4 - Data Abv Normal Operat Range - Most Severe Lvl	1543578624
+Different Lock Switch - Voltage Abv Normal Or Shorted To High Source	1543578659
+Different Lock Switch - Voltage Below Normal Or Shorted To Low Source	1543578660
+Flexpower Configuration - Abnormal Update Rate	1543578697
+Flexpower Configuration - Not Availb Or Condt Exists	1543578719
+Operator Exit Lights Driver - Voltage Abv Normal Or Shorted To High Source	1543578723
+Operator Exit Lights Driver - Current Below Normal Or Open Circuit	1543578725
+Operator Exit Lights Driver - Current Abv Normal Or Grounded Circuit	1543578726
+Operator Switch #16 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543578756
+Operator Switch #16 (Basic) - Abnormal Update Rate	1543578761
+Operator Switch #15 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543578788
+Operator Switch #15 (Basic) - Abnormal Update Rate	1543578793
+Operator Switch #14 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543578820
+Operator Switch #14 (Basic) - Abnormal Update Rate	1543578825
+Operator Switch #13 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543578852
+Operator Switch #13 (Basic) - Abnormal Update Rate	1543578857
+Operator Switch #12 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543578884
+Operator Switch #12 (Basic) - Abnormal Update Rate	1543578889
+Operator Switch #11 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543578916
+Operator Switch #11 (Basic) - Abnormal Update Rate	1543578921
+Operator Switch #10 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543578948
+Operator Switch #10 (Basic) - Abnormal Update Rate	1543578953
+Operator Switch #9 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543578980
+Operator Switch #9 (Basic) - Abnormal Update Rate	1543578985
+Operator Switch #8 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543579012
+Operator Switch #8 (Basic) - Abnormal Update Rate	1543579017
+Operator Switch #7 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543579044
+Operator Switch #7 (Basic) - Abnormal Update Rate	1543579049
+Operator Switch #6 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543579076
+Operator Switch #6 (Basic) - Abnormal Update Rate	1543579081
+Operator Switch #5 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543579108
+Operator Switch #5 (Basic) - Abnormal Update Rate	1543579113
+Operator Switch #4 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543579140
+Operator Switch #4 (Basic) - Abnormal Update Rate	1543579145
+Operator Switch #3 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543579172
+Operator Switch #3 (Basic) - Abnormal Update Rate	1543579177
+Operator Switch #2 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543579204
+Operator Switch #2 (Basic) - Abnormal Update Rate	1543579209
+Operator Switch #1 (Basic) - Voltage Below Normal Or Shorted To Low Source	1543579236
+Operator Switch #1 (Basic) - Abnormal Update Rate	1543579241
+Rear Axle Lubrication Press - Low Resolution - Data Below Normal Operat Range - Most Severe Lvl	1543579265
+Rear Axle Lubrication Press - Low Resolution - Voltage Abv Normal Or Shorted To High Source	1543579267
+Rear Axle Lubrication Press - Low Resolution - Voltage Below Normal Or Shorted To Low Source	1543579268
+Front Axle Lubrication Press - Low Resolution - Data Below Normal Operat Range - Most Severe Lvl	1543579297
+Front Axle Lubrication Press - Low Resolution - Voltage Abv Normal Or Shorted To High Source	1543579299
+Front Axle Lubrication Press - Low Resolution - Voltage Below Normal Or Shorted To Low Source	1543579300
+Machine Drive Valve (Reverse) - Data Below Normal Operat Range - Most Severe Lvl	1543579329
+Machine Drive Valve (Reverse) - Voltage Abv Normal Or Shorted To High Source	1543579331
+Machine Drive Valve (Reverse) - Voltage Below Normal Or Shorted To Low Source	1543579332
+OEM Interface Timeout	1543634912
+OEM Interface Normal	1543634913
+Driver Interface Timeout	1543634914
+Driver Interface Normal	1543634915

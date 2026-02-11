@@ -1,0 +1,82 @@
+570490881	Frames Sent	0	0	0
+570490882	Frames Received	0	0	0
+570490883	Uart Buffer Overruns	0	0	0
+570490884	Modbus Frame Errors	0	0	0
+570490885	Modbus Crc Errors	0	0	0
+570490886	Modbus Illegal Functions Or Data Address	0	0	0
+570490887	Modbus Illegal Data Value Or Slave Address	0	0	0
+570490888	Modbus Slave Device Busy Or Parity Error	0	0	0
+570490889	Modbus Gateway Path Unavailable Or Target Unavailable	0	0	0
+570490890	Can Error State	0	0	0
+570490891	Uptime	0	0	0
+570490893	Reset Reason	0	0	0
+570490894	Operating Mode	0	0	0
+570490895	Error Flags	0	0	0
+570490896	Ap Reset Reason	0	0	0
+570490897	Ap/Cp Crc Error Counter	0	0	0
+570490898	Ap Firmware Version	0	0	0
+570490899	Cp Bootloader Version	0	0	0
+570490900	Ap Bootloader Version	0	0	0
+570490901	Modbus Address	0	0	0
+570490902	Baudrate	0	0	0
+570490903	Vendor Id	0	0	0
+570490904	Product Id	0	0	0
+570490905	Serial Number	0	0	0
+570490906	Firmware Revision A	0	0	0
+570490908	Firmware Revision B	0	0	0
+570490910	Hardware Revision	0	0	0
+570490911	Calibration Date (Unix Timestamp)	0	0	0
+570490913	Id0	0	0	0
+570490914	Id1	0	0	0
+570490915	Id2	0	0	0
+570490916	Id3	0	0	0
+570490917	Id4	0	0	0
+570490918	Id5	0	0	0
+570490919	Id6	0	0	0
+570490920	Id7	0	0	0
+570490921	Id8	0	0	0
+570490922	Id9	0	0	0
+570490923	Temp Conversion Beta	0	0	0
+570490925	Temp Conversion Tc	0	0	0
+570490927	Temp Conversion Rlin	0	0	0
+570490929	Temp Conversion I	0	0	0
+570490931	Temp Conversion G	0	0	0
+570490933	Temp Conversion Rb	0	0	0
+570490935	Sweep 0: Frequency	0	0	32
+570490937	Sweep 0: Gain	0	0	0
+570490938	Sweep 0: Resistance	0	0	0
+570490939	Sweep 0: Bias	0	0	0
+570490940	Sweep 1: Frequency	0	0	32
+570490942	Sweep 1: Gain	0	0	0
+570490943	Sweep 1: Resistance	0	0	0
+570490944	Sweep 1: Bias	0	0	0
+570490945	Sweep 2: Frequency	0	0	32
+570490947	Sweep 2: Gain	0	0	0
+570490948	Sweep 2: Resistance	0	0	0
+570490949	Sweep 2: Bias	0	0	0
+570490950	Sweep Count	0	0	0
+570490951	Sample 0: Frequency	0	0	0
+570490953	Sample 0: Real	0	0	7
+570490955	Sample 0: Imaginary	0	0	0
+570490957	Sample 0: Temperature Pre Reference	0	0	0
+570490959	Sample 0: Temperature Post Reference	0	0	0
+570490961	Sample 0: Temperature Post Sample	0	0	0
+570490963	Sample 1: Frequency	0	0	0
+570490965	Sample 1: Real	0	0	0
+570490967	Sample 1: Imaginary	0	0	0
+570490969	Sample 1: Temperature Pre Reference	0	0	0
+570490971	Sample 1: Temperature Post Reference	0	0	0
+570490973	Sample 1: Temperature Post Sample	0	0	0
+570490975	Sample 1: Frequency	0	0	0
+570490977	Sample 2: Real	0	0	0
+570490979	Sample 2: Imaginary	0	0	0
+570490981	Sample 2: Temperature Pre Reference	0	0	0
+570490983	Sample 2: Temperature Post Reference	0	0	0
+570490985	Sample 2: Temperature Post Sample	0	0	0
+570490987	Board Temperature	0	0	5
+570490988	Reverse Bias Time	0	0	0
+570500881	Oil Temperature	0	0	0
+570500911	Temperature Correct Viscosity	0	0	0
+570500912	Filtered Viscosity	0	0	25
+570500913	Relative Viscosity Change	0	0	5
+570500914	Remaining Useful Life	0	0	7

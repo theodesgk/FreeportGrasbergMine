@@ -1,0 +1,1380 @@
+Oem Interface Timeout	553779168
+Oem Interface Normal	553779169
+Driver Interface Timeout	553779170
+Driver Interface Normal	553779171
+Main Transformer Ground Fault -- Off	553713664
+Main Transformer Ground Fault -- On	553713665
+Field Supply Ground Fault -- Off	553713666
+Field Supply Ground Fault -- On	553713667
+Auxiliaries Supply Ground Fault -- Off	553713668
+Auxiliaries Supply Ground Fault -- On	553713669
+Dc Ground Fault -- Off	553713670
+Dc Ground Fault -- On	553713671
+Main Supply Phase -- Off	553713672
+Main Supply Phase -- On	553713673
+Main Transformer Contactor Interlock -- Off	553713674
+Main Transformer Contactor Interlock -- On	553713675
+Main Transformer Inst Over Current -- Off	553713676
+Main Transformer Inst Over Current -- On	553713677
+Main Transformer Thermal Overload -- Off	553713678
+Main Transformer Thermal Overload -- On	553713679
+Auxiliarys Supply Circuit Breaker Tripped -- Off	553713680
+Auxiliarys Supply Circuit Breaker Tripped -- On	553713681
+Relay Supply Breaker Tripped -- Off	553713682
+Relay Supply Breaker Tripped -- On	553713683
+Diverter Power Supply -- Off	553713684
+Diverter Power Supply -- On	553713685
+24Vdc Relay Supply -- Off	553713686
+24Vdc Relay Supply -- On	553713687
+Signal Amp 24 Vdc Loss -- Off	553713688
+Signal Amp 24 Vdc Loss -- On	553713689
+15 Vdc Power Supply Fault -- Off	553713690
+15 Vdc Power Supply Fault -- On	553713691
+42 Vdc Power Supply Fault -- Off	553713692
+42 Vdc Power Supply Fault -- On	553713693
+Temperature Monitor -- Off	553713694
+Temperature Monitor -- On	553713695
+Fire Detection System -- Off	553713696
+Fire Detection System -- On	553713697
+Under Voltage Relay -- Off	553713698
+Under Voltage Relay -- On	553713699
+Phase Sequence Relay -- Off	553713700
+Phase Sequence Relay -- On	553713701
+House Exciter Volts Out Of Range -- Off	553713702
+House Exciter Volts Out Of Range -- On	553713703
+Main Trnasformer Overtemp -- Off	553713704
+Main Trnasformer Overtemp -- On	553713705
+Lock Out Switch -- Off	553713706
+Lock Out Switch -- On	553713707
+Hoist #1 Converter Phase -- Off	553713708
+Hoist #1 Converter Phase -- On	553713709
+Hoist #2 Converter Phase -- Off	553713710
+Hoist #2 Converter Phase -- On	553713711
+Hoist Diverter Trip Oc -- Off	553713712
+Hoist Diverter Trip Oc -- On	553713713
+Hoist Diverter System -- Off	553713714
+Hoist Diverter System -- On	553713715
+Hoist Differential Voltage -- Off	553713716
+Hoist Differential Voltage -- On	553713717
+Hoist #1 Converter Thermal Overload -- Off	553713718
+Hoist #1 Converter Thermal Overload -- On	553713719
+Hoist #2 Converter Thermal Overload -- Off	553713720
+Hoist #2 Converter Thermal Overload -- On	553713721
+Hoist Field Breaker Tripped -- Off	553713722
+Hoist Field Breaker Tripped -- On	553713723
+Hoist Field Off State -- Off	553713724
+Hoist Field Off State -- On	553713725
+Hoist Field Loss -- Off	553713726
+Hoist Field Loss -- On	553713727
+Hoist Field Did Not Reach Minimum Field -- Off	553713728
+Hoist Field Did Not Reach Minimum Field -- On	553713729
+Hoist Control Loss -- Off	553713730
+Hoist Control Loss -- On	553713731
+Hoist Armature Ioc -- Off	553713732
+Hoist Armature Ioc -- On	553713733
+Hoist Torque Cannot Be Generated -- Off	553713734
+Hoist Torque Cannot Be Generated -- On	553713735
+Hoist Motor Overtemp -- Off	553713736
+Hoist Motor Overtemp -- On	553713737
+Hoist Diverter Control Module -- Off	553713738
+Hoist Diverter Control Module -- On	553713739
+Hoist Fuse Loss 1 -- Off	553713740
+Hoist Fuse Loss 1 -- On	553713741
+Hoist Diverter Circuit Breaker -- Off	553713742
+Hoist Diverter Circuit Breaker -- On	553713743
+Hoist Field Overload -- Off	553713744
+Hoist Field Overload -- On	553713745
+Hoist Armature Thermal Ol -- Off	553713746
+Hoist Armature Thermal Ol -- On	553713747
+Hoist Motor Stalled -- Off	553713748
+Hoist Motor Stalled -- On	553713749
+Hoist Armature And Field Setup Is Not Complete -- Off	553713750
+Hoist Armature And Field Setup Is Not Complete -- On	553713751
+Hoist Loop #1 Volts Out Of Range -- Off	553713752
+Hoist Loop #1 Volts Out Of Range -- On	553713753
+Hoist Loop #2 Volts Out Of Range -- Off	553713754
+Hoist Loop #2 Volts Out Of Range -- On	553713755
+Hoist Loop #3 Volts Out Of Range -- Off	553713756
+Hoist Loop #3 Volts Out Of Range -- On	553713757
+Hoist Loop #4 Volts Out Of Range -- Off	553713758
+Hoist Loop #4 Volts Out Of Range -- On	553713759
+Hoist Loop #1 Amps Out Of Range -- Off	553713760
+Hoist Loop #1 Amps Out Of Range -- On	553713761
+Hoist Loop #2 Amps Out Of Range -- Off	553713762
+Hoist Loop #2 Amps Out Of Range -- On	553713763
+Hoist Loop #3 Amps Out Of Range -- Off	553713764
+Hoist Loop #3 Amps Out Of Range -- On	553713765
+Hoist Loop #4 Amps Out Of Range -- Off	553713766
+Hoist Loop #4 Amps Out Of Range -- On	553713767
+Hoist Loop 1&2 Armature Current Unbalance -- Off	553713768
+Hoist Loop 1&2 Armature Current Unbalance -- On	553713769
+Hoist Loop 1&3 Armature Current Unbalance -- Off	553713770
+Hoist Loop 1&3 Armature Current Unbalance -- On	553713771
+Hoist Loop 1&4 Armature Current Unbalance -- Off	553713772
+Hoist Loop 1&4 Armature Current Unbalance -- On	553713773
+Hoist Loop #1 Ground Detected -- Off	553713774
+Hoist Loop #1 Ground Detected -- On	553713775
+Hoist Loop #2 Ground Detected -- Off	553713776
+Hoist Loop #2 Ground Detected -- On	553713777
+Hoist Loop #3 Ground Detected -- Off	553713778
+Hoist Loop #3 Ground Detected -- On	553713779
+Hoist Loop #4 Ground Detected -- Off	553713780
+Hoist Loop #4 Ground Detected -- On	553713781
+Hoist Generator Field Amps Out Of Range -- Off	553713782
+Hoist Generator Field Amps Out Of Range -- On	553713783
+Hoist Motor Field Drive -- Off	553713784
+Hoist Motor Field Drive -- On	553713785
+Hoist Generator Drive -- Off	553713786
+Hoist Generator Drive -- On	553713787
+Any Hoist Motor Field Out Of Range -- Off	553713788
+Any Hoist Motor Field Out Of Range -- On	553713789
+Swing 1 & 2 Converter Thermal Overload -- Off	553713790
+Swing 1 & 2 Converter Thermal Overload -- On	553713791
+Swing Field Breaker Tripped -- Off	553713792
+Swing Field Breaker Tripped -- On	553713793
+Swing Field Off State -- Off	553713794
+Swing Field Off State -- On	553713795
+Swing Field Loss -- Off	553713796
+Swing Field Loss -- On	553713797
+Swing 1&2 Converter Phase -- Off	553713798
+Swing 1&2 Converter Phase -- On	553713799
+Swing 1&2 Front Diverter Trip -- Off	553713800
+Swing 1&2 Front Diverter Trip -- On	553713801
+Swing 1&2 Diverter System -- Off	553713802
+Swing 1&2 Diverter System -- On	553713803
+Swing 1&2 Differential Voltage -- Off	553713804
+Swing 1&2 Differential Voltage -- On	553713805
+Swing 3 Rear Diverter Trip -- Off	553713806
+Swing 3 Rear Diverter Trip -- On	553713807
+Swing 3 Converter Phase -- Off	553713808
+Swing 3 Converter Phase -- On	553713809
+Swing 3 Rear Diverter System -- Off	553713810
+Swing 3 Rear Diverter System -- On	553713811
+Swing Fuse Loss -- Off	553713812
+Swing Fuse Loss -- On	553713813
+Swing Motor Overtemp -- Off	553713814
+Swing Motor Overtemp -- On	553713815
+Swing Field Thermal Ol -- Off	553713816
+Swing Field Thermal Ol -- On	553713817
+Swing Armature Thermal Ol -- Off	553713818
+Swing Armature Thermal Ol -- On	553713819
+Swing Motor Stalled -- Off	553713820
+Swing Motor Stalled -- On	553713821
+Swing Armature And Field Setup Is Not Complete -- Off	553713822
+Swing Armature And Field Setup Is Not Complete -- On	553713823
+Swing Loop #1 Volts Out Of Range -- Off	553713824
+Swing Loop #1 Volts Out Of Range -- On	553713825
+Swing Loop #2 Volts Out Of Range -- Off	553713826
+Swing Loop #2 Volts Out Of Range -- On	553713827
+Swing Loop #1 Amps Out Of Range -- Off	553713828
+Swing Loop #1 Amps Out Of Range -- On	553713829
+Swing Loop #2 Amps Out Of Range -- Off	553713830
+Swing Loop #2 Amps Out Of Range -- On	553713831
+Swing Loop 1&2 Armature Current Unbalance -- Off	553713832
+Swing Loop 1&2 Armature Current Unbalance -- On	553713833
+Swing Loop #1 Ground Detected -- Off	553713834
+Swing Loop #1 Ground Detected -- On	553713835
+Swing Loop #2 Ground Detected -- Off	553713836
+Swing Loop #2 Ground Detected -- On	553713837
+Swing Generator Field Amps Out Of Range -- Off	553713838
+Swing Generator Field Amps Out Of Range -- On	553713839
+Swing X_Loop 1 Detected -- Off	553713840
+Swing X_Loop 1 Detected -- On	553713841
+Swing X_Loop 2 Detected -- Off	553713842
+Swing X_Loop 2 Detected -- On	553713843
+Swing Motor Field Drive -- Off	553713844
+Swing Motor Field Drive -- On	553713845
+Swing Generator Drive -- Off	553713846
+Swing Generator Drive -- On	553713847
+Any Swing Motor Field Out Of Range -- Off	553713848
+Any Swing Motor Field Out Of Range -- On	553713849
+Swing Motor Ol -- Off	553713850
+Swing Motor Ol -- On	553713851
+Crowd/Propel Converter Phase -- Off	553713852
+Crowd/Propel Converter Phase -- On	553713853
+Crowd/Propel Diverter System -- Off	553713854
+Crowd/Propel Diverter System -- On	553713855
+Crowd/Propel Field Breaker Tripped -- Off	553713856
+Crowd/Propel Field Breaker Tripped -- On	553713857
+Crowd Converter Thermal Overload -- Off	553713858
+Crowd Converter Thermal Overload -- On	553713859
+Crowd/Propel Field Off State -- Off	553713860
+Crowd/Propel Field Off State -- On	553713861
+Crowd/Propel Field Loss -- Off	553713862
+Crowd/Propel Field Loss -- On	553713863
+Crowd Field Did Not Reach Minimum Field -- Off	553713864
+Crowd Field Did Not Reach Minimum Field -- On	553713865
+Crowd/Propel Armature Thermal Ol -- Off	553713866
+Crowd/Propel Armature Thermal Ol -- On	553713867
+Crowd Propel Field Thermal Ol -- Off	553713868
+Crowd Propel Field Thermal Ol -- On	553713869
+Crowd Propel Diverter Trip -- Off	553713870
+Crowd Propel Diverter Trip -- On	553713871
+Crowd Motor Stalled -- Off	553713872
+Crowd Motor Stalled -- On	553713873
+Crowd Armature And Field Setup Is Not Complete -- Off	553713874
+Crowd Armature And Field Setup Is Not Complete -- On	553713875
+Crowd/Propel Ol -- Off	553713876
+Crowd/Propel Ol -- On	553713877
+Crowd Motor Overtemp -- Off	553713878
+Crowd Motor Overtemp -- On	553713879
+Propel Motor Stalled -- Off	553713880
+Propel Motor Stalled -- On	553713881
+Propel  Armature And Field Setup Is Not Complete -- Off	553713882
+Propel  Armature And Field Setup Is Not Complete -- On	553713883
+Propel Motor Shunt Fields Out Of Range -- Off	553713884
+Propel Motor Shunt Fields Out Of Range -- On	553713885
+Propel Excess Error > 15 Degrees Trip -- Off	553713886
+Propel Excess Error > 15 Degrees Trip -- On	553713887
+Propel Motor Overtemp -- Off	553713888
+Propel Motor Overtemp -- On	553713889
+Propel Bushing Overtemp -- Off	553713890
+Propel Bushing Overtemp -- On	553713891
+Any Propel Motor Field Out Of Range -- Off	553713892
+Any Propel Motor Field Out Of Range -- On	553713893
+Drag Loop #1 Volts Out Of Range -- Off	553713894
+Drag Loop #1 Volts Out Of Range -- On	553713895
+Drag Loop #2 Volts Out Of Range -- Off	553713896
+Drag Loop #2 Volts Out Of Range -- On	553713897
+Drag Loop #3 Volts Out Of Range -- Off	553713898
+Drag Loop #3 Volts Out Of Range -- On	553713899
+Drag Loop #1 Amps Out Of Range -- Off	553713900
+Drag Loop #1 Amps Out Of Range -- On	553713901
+Drag Loop #2 Amps Out Of Range -- Off	553713902
+Drag Loop #2 Amps Out Of Range -- On	553713903
+Drag Loop #3 Amps Out Of Range -- Off	553713904
+Drag Loop #3 Amps Out Of Range -- On	553713905
+Drag Loop 1&2 Armature Current Unbalance -- Off	553713906
+Drag Loop 1&2 Armature Current Unbalance -- On	553713907
+Drag Loop 1&3 Armature Current Unbalance -- Off	553713908
+Drag Loop 1&3 Armature Current Unbalance -- On	553713909
+Drag Loop #1Ground Detected -- Off	553713910
+Drag Loop #1Ground Detected -- On	553713911
+Drag Loop #2 Ground Detected -- Off	553713912
+Drag Loop #2 Ground Detected -- On	553713913
+Drag Loop #3 Ground Detected -- Off	553713914
+Drag Loop #3 Ground Detected -- On	553713915
+Drag Generator Field Amps Out Of Range -- Off	553713916
+Drag Generator Field Amps Out Of Range -- On	553713917
+Drag Motor Field Drive -- Off	553713918
+Drag Motor Field Drive -- On	553713919
+Drag Generator Drive -- Off	553713920
+Drag Generator Drive -- On	553713921
+Any Drag Motor Field Out Of Range -- Off	553713922
+Any Drag Motor Field Out Of Range -- On	553713923
+Drag Motor Overtemp -- Off	553713924
+Drag Motor Overtemp -- On	553713925
+Sync Motor #1 Field Out Of Range -- Off	553713926
+Sync Motor #1 Field Out Of Range -- On	553713927
+Sync Motor #2 Field Out Of Range -- Off	553713928
+Sync Motor #2 Field Out Of Range -- On	553713929
+Sync Motor #3 Field Out Of Range -- Off	553713930
+Sync Motor #3 Field Out Of Range -- On	553713931
+Sync Motor Field Ok -- Off	553713932
+Sync Motor Field Ok -- On	553713933
+Any Sync Motor Ground -- Off	553713934
+Any Sync Motor Ground -- On	553713935
+Any Sync Motor Field Out Of Range -- Off	553713936
+Any Sync Motor Field Out Of Range -- On	553713937
+Sync Motor #1 Power Monitor Trip -- Off	553713938
+Sync Motor #1 Power Monitor Trip -- On	553713939
+Sync Motor #2Power Monitor Trip -- Off	553713940
+Sync Motor #2Power Monitor Trip -- On	553713941
+Sync Motor #3Power Monitor Trip -- Off	553713942
+Sync Motor #3Power Monitor Trip -- On	553713943
+Sync Motor #4Power Monitor Trip -- Off	553713944
+Sync Motor #4Power Monitor Trip -- On	553713945
+Sync Motor #1 Speed Switch -- Off	553713946
+Sync Motor #1 Speed Switch -- On	553713947
+Sync Motor #2 Speed Switch -- Off	553713948
+Sync Motor #2 Speed Switch -- On	553713949
+Sync Motor #3 Speed Switch -- Off	553713950
+Sync Motor #3 Speed Switch -- On	553713951
+Sync Motor #4 Speed Switch -- Off	553713952
+Sync Motor #4 Speed Switch -- On	553713953
+Converter Cabinet C/P2-S1&2 Door Open -- Off	553713954
+Converter Cabinet C/P2-S1&2 Door Open -- On	553713955
+Converter Cabinet H1/Sw H1/P1 Door Open -- Off	553713956
+Converter Cabinet H1/Sw H1/P1 Door Open -- On	553713957
+Transfer Door Open Fault -- Off	553713958
+Transfer Door Open Fault -- On	553713959
+Aux. Cabinet Door Open Fault -- Off	553713960
+Aux. Cabinet Door Open Fault -- On	553713961
+Field Supply Cabinet Door Open Fault -- Off	553713962
+Field Supply Cabinet Door Open Fault -- On	553713963
+Lower Control Cabinet Temp To Low -- Off	553713964
+Lower Control Cabinet Temp To Low -- On	553713965
+Lower Control Cabinet Temp To High -- Off	553713966
+Lower Control Cabinet Temp To High -- On	553713967
+Lower Control Cabinet Door Open -- Off	553713968
+Lower Control Cabinet Door Open -- On	553713969
+Rpc Cabinet #1 Door Open -- Off	553713970
+Rpc Cabinet #1 Door Open -- On	553713971
+Rpc Cabinet #2 Door Open Fault -- Off	553713972
+Rpc Cabinet #2 Door Open Fault -- On	553713973
+Rpc Cabinet #4 Door Open Fault -- Off	553713974
+Rpc Cabinet #4 Door Open Fault -- On	553713975
+Rpc Switch Cabinet Door Open -- Off	553713976
+Rpc Switch Cabinet Door Open -- On	553713977
+Converter Cabinet H2&S3 Door Open -- Off	553713978
+Converter Cabinet H2&S3 Door Open -- On	553713979
+Control Cabinet Thermal Ol -- Off	553713980
+Control Cabinet Thermal Ol -- On	553713981
+Rpc Cabinet Thermal Ol -- Off	553713982
+Rpc Cabinet Thermal Ol -- On	553713983
+Converter Cabinet Thermal Ol -- Off	553713984
+Converter Cabinet Thermal Ol -- On	553713985
+Lower Control Cabinet 480V Supply Breaker Tripped -- Off	553713986
+Lower Control Cabinet 480V Supply Breaker Tripped -- On	553713987
+Lower Control Cabinet Heater Supply Breaker Tripped -- Off	553713988
+Lower Control Cabinet Heater Supply Breaker Tripped -- On	553713989
+Lower Control Cabinet Control Breaker Tripped -- Off	553713990
+Lower Control Cabinet Control Breaker Tripped -- On	553713991
+Suppresssion Circuit Breaker Tripped -- Off	553713992
+Suppresssion Circuit Breaker Tripped -- On	553713993
+Bank 1 Breaker Tripped -- Off	553713994
+Bank 1 Breaker Tripped -- On	553713995
+Bank 2 Breaker Tripped -- Off	553713996
+Bank 2 Breaker Tripped -- On	553713997
+Bank 3 Breaker Tripped -- Off	553713998
+Bank 3 Breaker Tripped -- On	553713999
+Rpc Bank4 Breaker Tripped -- Off	553714000
+Rpc Bank4 Breaker Tripped -- On	553714001
+1/2 Bank Breaker Tripped -- Off	553714002
+1/2 Bank Breaker Tripped -- On	553714003
+Rpc Cabinet Bank 4 Breaker Tripped -- Off	553714004
+Rpc Cabinet Bank 4 Breaker Tripped -- On	553714005
+Field Suppression Breaker Tripped -- Off	553714006
+Field Suppression Breaker Tripped -- On	553714007
+Armature Supply Suppression Breaker #1 Tripped -- Off	553714008
+Armature Supply Suppression Breaker #1 Tripped -- On	553714009
+Armature Supply Suppression Breaker #2 Tripped -- Off	553714010
+Armature Supply Suppression Breaker #2 Tripped -- On	553714011
+Aux Motors -- Off	553714012
+Aux Motors -- On	553714013
+Hst Blwr Front Not Running -- Off	553714014
+Hst Blwr Front Not Running -- On	553714015
+Swg Lube Rear Not Running -- Off	553714016
+Swg Lube Rear Not Running -- On	553714017
+Swg Lube Front Not Running -- Off	553714018
+Swg Lube Front Not Running -- On	553714019
+Gear Lube Pump Motor -- Off	553714020
+Gear Lube Pump Motor -- On	553714021
+Dipper Trip #1 Not Running -- Off	553714022
+Dipper Trip #1 Not Running -- On	553714023
+Dipper Trip #2 Not Running -- Off	553714024
+Dipper Trip #2 Not Running -- On	553714025
+Hst Blwr Rear Not Running -- Off	553714026
+Hst Blwr Rear Not Running -- On	553714027
+Right Propel Blower Motor -- Off	553714028
+Right Propel Blower Motor -- On	553714029
+Left Propel Blower Motor -- Off	553714030
+Left Propel Blower Motor -- On	553714031
+Swg Blwr Front Not Running -- Off	553714032
+Swg Blwr Front Not Running -- On	553714033
+Right Front Swing Blower Not Running -- Off	553714034
+Right Front Swing Blower Not Running -- On	553714035
+Left Front Swing Blower Not Running -- Off	553714036
+Left Front Swing Blower Not Running -- On	553714037
+Left Filter Bleed Blower Not Running -- Off	553714038
+Left Filter Bleed Blower Not Running -- On	553714039
+Cwd Blwr Not Running -- Off	553714040
+Cwd Blwr Not Running -- On	553714041
+Swg Blwr Rear Not Running -- Off	553714042
+Swg Blwr Rear Not Running -- On	553714043
+Hoist Lube Pump #1 -- Off	553714044
+Hoist Lube Pump #1 -- On	553714045
+Hoist Lube Pump #2 -- Off	553714046
+Hoist Lube Pump #2 -- On	553714047
+Right Filter Bleed Blower Not Running -- Off	553714048
+Right Filter Bleed Blower Not Running -- On	553714049
+Cnvrtr Blwr Ol -- Off	553714050
+Cnvrtr Blwr Ol -- On	553714051
+Cnvrtr Blwr #1 Not Running -- Off	553714052
+Cnvrtr Blwr #1 Not Running -- On	553714053
+Cnvrtr Blwr #2 Not Running -- Off	553714054
+Cnvrtr Blwr #2 Not Running -- On	553714055
+Rpc Sw Blwr Not Running -- Off	553714056
+Rpc Sw Blwr Not Running -- On	553714057
+Control Cabinet Fan Not Running -- Off	553714058
+Control Cabinet Fan Not Running -- On	553714059
+Control Cabinet Fan Relay -- Off	553714060
+Control Cabinet Fan Relay -- On	553714061
+Rpc Cabinet Fan Ol -- Off	553714062
+Rpc Cabinet Fan Ol -- On	553714063
+Rpc Cabinet Fan Not Running -- Off	553714064
+Rpc Cabinet Fan Not Running -- On	553714065
+Rpc Cabinet Blower -- Off	553714066
+Rpc Cabinet Blower -- On	553714067
+Rpc Fan Relay -- Off	553714068
+Rpc Fan Relay -- On	553714069
+Rpc Bank 1 Cabinet Fans Not Running -- Off	553714070
+Rpc Bank 1 Cabinet Fans Not Running -- On	553714071
+Rpc Bank 2 Cabinet Fans Not Running -- Off	553714072
+Rpc Bank 2 Cabinet Fans Not Running -- On	553714073
+Rpc Bank #4 Cabinet Fans Not Running -- Off	553714074
+Rpc Bank #4 Cabinet Fans Not Running -- On	553714075
+Crowd Belt Tensioner Pump Not Running -- Off	553714076
+Crowd Belt Tensioner Pump Not Running -- On	553714077
+Machinery House Blower #1 -- Off	553714078
+Machinery House Blower #1 -- On	553714079
+Machinery House Blower #2 -- Off	553714080
+Machinery House Blower #2 -- On	553714081
+Machinery House Blower Rev. Not Running -- Off	553714082
+Machinery House Blower Rev. Not Running -- On	553714083
+Any Blower Motor -- Off	553714084
+Any Blower Motor -- On	553714085
+Converter Cooling -- Off	553714086
+Converter Cooling -- On	553714087
+Rpc Cabinet #2 Fans Ol -- Off	553714088
+Rpc Cabinet #2 Fans Ol -- On	553714089
+Control Cabinet Fans Ol -- Off	553714090
+Control Cabinet Fans Ol -- On	553714091
+House Filter Control System Is Not Active -- Off	553714092
+House Filter Control System Is Not Active -- On	553714093
+Altitude Jumper Is Missing -- Off	553714094
+Altitude Jumper Is Missing -- On	553714095
+Too Many Altitude Jumpers -- Off	553714096
+Too Many Altitude Jumpers -- On	553714097
+Filters Are Getting Clogged -- Off	553714098
+Filters Are Getting Clogged -- On	553714099
+Filters Are Clogged -- Off	553714100
+Filters Are Clogged -- On	553714101
+Screw Conveyor Is Tripped -- Off	553714102
+Screw Conveyor Is Tripped -- On	553714103
+Screw Conveyor Zero Speed Is Closed -- Off	553714104
+Screw Conveyor Zero Speed Is Closed -- On	553714105
+Screw Conveyor Zero Speed Is Not Closed -- Off	553714106
+Screw Conveyor Zero Speed Is Not Closed -- On	553714107
+Screw Conveyor Aux Contact Is Closed -- Off	553714108
+Screw Conveyor Aux Contact Is Closed -- On	553714109
+Screw Conveyor Aux Contact Is Not Closed -- Off	553714110
+Screw Conveyor Aux Contact Is Not Closed -- On	553714111
+Air Filter Panel Supply Breaker Is Tripped -- Off	553714112
+Air Filter Panel Supply Breaker Is Tripped -- On	553714113
+Air Filter Differential Pressure Switch Too Cold -- Off	553714114
+Air Filter Differential Pressure Switch Too Cold -- On	553714115
+Hoist Blower Motor #1 -- Off	553714116
+Hoist Blower Motor #1 -- On	553714117
+Hoist Blower Motor #2 -- Off	553714118
+Hoist Blower Motor #2 -- On	553714119
+Hoist Blower Motor #3 -- Off	553714120
+Hoist Blower Motor #3 -- On	553714121
+Hoist Blower Motor #4 -- Off	553714122
+Hoist Blower Motor #4 -- On	553714123
+Hoist Blower Motor #5 -- Off	553714124
+Hoist Blower Motor #5 -- On	553714125
+Hoist Blower Motor #6 -- Off	553714126
+Hoist Blower Motor #6 -- On	553714127
+Hoist Blower Motor #7 -- Off	553714128
+Hoist Blower Motor #7 -- On	553714129
+Hoist Blower Motor #8 -- Off	553714130
+Hoist Blower Motor #8 -- On	553714131
+Drag Blower Motor #1 -- Off	553714132
+Drag Blower Motor #1 -- On	553714133
+Drag Blower Motor #2 -- Off	553714134
+Drag Blower Motor #2 -- On	553714135
+Drag Blower Motor #3 -- Off	553714136
+Drag Blower Motor #3 -- On	553714137
+Drag Blower Motor #4 -- Off	553714138
+Drag Blower Motor #4 -- On	553714139
+Drag Blower Motor #5 -- Off	553714140
+Drag Blower Motor #5 -- On	553714141
+Drag Blower Motor #6 -- Off	553714142
+Drag Blower Motor #6 -- On	553714143
+Swing Blower Motor #1 -- Off	553714144
+Swing Blower Motor #1 -- On	553714145
+Swing Blower Motor #2 -- Off	553714146
+Swing Blower Motor #2 -- On	553714147
+Swing Blower Motor #3 -- Off	553714148
+Swing Blower Motor #3 -- On	553714149
+Swing Blower Motor #4 -- Off	553714150
+Swing Blower Motor #4 -- On	553714151
+Propel Blower #1 -- Off	553714152
+Propel Blower #1 -- On	553714153
+Propel Blower #2 -- Off	553714154
+Propel Blower #2 -- On	553714155
+Propel Blower #3 -- Off	553714156
+Propel Blower #3 -- On	553714157
+Propel Blower #4 -- Off	553714158
+Propel Blower #4 -- On	553714159
+Capacitor Pressure Switch 1/2 Bank Phase Ab -- Off	553714160
+Capacitor Pressure Switch 1/2 Bank Phase Ab -- On	553714161
+Cap Press Bank 1 Phase Ab -- Off	553714162
+Cap Press Bank 1 Phase Ab -- On	553714163
+Cap Press Bank 1 Phase Bc -- Off	553714164
+Cap Press Bank 1 Phase Bc -- On	553714165
+Cap Press Bank 1 Phase Ca -- Off	553714166
+Cap Press Bank 1 Phase Ca -- On	553714167
+Cap Press Bank 2 Phase Ab -- Off	553714168
+Cap Press Bank 2 Phase Ab -- On	553714169
+Cap Press Bank 2 Phase Bc -- Off	553714170
+Cap Press Bank 2 Phase Bc -- On	553714171
+Cap Press Bank 2 Phase Ca -- Off	553714172
+Cap Press Bank 2 Phase Ca -- On	553714173
+Cap Press Bank 3 Phase Ab -- Off	553714174
+Cap Press Bank 3 Phase Ab -- On	553714175
+Cap Press Bank 3 Phase Bc -- Off	553714176
+Cap Press Bank 3 Phase Bc -- On	553714177
+Cap Press Bank 3 Phase Ca -- Off	553714178
+Cap Press Bank 3 Phase Ca -- On	553714179
+Cap Press Bank 4 Phase Ab -- Off	553714180
+Cap Press Bank 4 Phase Ab -- On	553714181
+Rpc -- Off	553714182
+Rpc -- On	553714183
+Open Gear Lube Tank Low -- Off	553714184
+Open Gear Lube Tank Low -- On	553714185
+Grease Tank Low -- Off	553714186
+Grease Tank Low -- On	553714187
+Open Gear Lube Fault -- Off	553714188
+Open Gear Lube Fault -- On	553714189
+Lower Lube Fault -- Off	553714190
+Lower Lube Fault -- On	553714191
+Upper Lube Fault -- Off	553714192
+Upper Lube Fault -- On	553714193
+Main Air Pressure Low -- Off	553714194
+Main Air Pressure Low -- On	553714195
+Lube Control Breaker -- Off	553714196
+Lube Control Breaker -- On	553714197
+Hoist Lube  #1 Flow -- Off	553714198
+Hoist Lube  #1 Flow -- On	553714199
+Hoist Lube  #2 Flow -- Off	553714200
+Hoist Lube  #2 Flow -- On	553714201
+Lube Oil Flow -- Off	553714202
+Lube Oil Flow -- On	553714203
+Lube Control -- Off	553714204
+Lube Control -- On	553714205
+Lube System Fault -- Off	553714206
+Lube System Fault -- On	553714207
+Swing Lube Flow -- Off	553714208
+Swing Lube Flow -- On	553714209
+Swing Lube Flow #1 -- Off	553714210
+Swing Lube Flow #1 -- On	553714211
+Swing Lube Flow #2 -- Off	553714212
+Swing Lube Flow #2 -- On	553714213
+Swing Lube Flow #3 -- Off	553714214
+Swing Lube Flow #3 -- On	553714215
+Swing Lube Flow #4 -- Off	553714216
+Swing Lube Flow #4 -- On	553714217
+Swing Lube Flow #5 -- Off	553714218
+Swing Lube Flow #5 -- On	553714219
+Drag Lube Flow #1 -- Off	553714220
+Drag Lube Flow #1 -- On	553714221
+Drag Lube Flow #2 -- Off	553714222
+Drag Lube Flow #2 -- On	553714223
+Drag Lube Flow #3 -- Off	553714224
+Drag Lube Flow #3 -- On	553714225
+Drag Lube Flow #4 -- Off	553714226
+Drag Lube Flow #4 -- On	553714227
+Drag Lube Flow #5 -- Off	553714228
+Drag Lube Flow #5 -- On	553714229
+Drag Lube Flow #6 -- Off	553714230
+Drag Lube Flow #6 -- On	553714231
+Drag Lube Flow #7 -- Off	553714232
+Drag Lube Flow #7 -- On	553714233
+Drag Lube Flow #8 -- Off	553714234
+Drag Lube Flow #8 -- On	553714235
+Hoist Lube Flow #1 -- Off	553714236
+Hoist Lube Flow #1 -- On	553714237
+Hoist Lube Flow #2 -- Off	553714238
+Hoist Lube Flow #2 -- On	553714239
+Hoist Lube Flow #3 -- Off	553714240
+Hoist Lube Flow #3 -- On	553714241
+Hoist Lube Flow #4 -- Off	553714242
+Hoist Lube Flow #4 -- On	553714243
+Hoist Lube Flow #5 -- Off	553714244
+Hoist Lube Flow #5 -- On	553714245
+Hoist Lube Flow #6 -- Off	553714246
+Hoist Lube Flow #6 -- On	553714247
+Hoist Lube Flow #7 -- Off	553714248
+Hoist Lube Flow #7 -- On	553714249
+Hoist Lube Flow #8 -- Off	553714250
+Hoist Lube Flow #8 -- On	553714251
+Propel Lube Flow #1 -- Off	553714252
+Propel Lube Flow #1 -- On	553714253
+Propel Lube Flow #2 -- Off	553714254
+Propel Lube Flow #2 -- On	553714255
+Propel Lube Flow #3 -- Off	553714256
+Propel Lube Flow #3 -- On	553714257
+Propel Lube Flow #4 -- Off	553714258
+Propel Lube Flow #4 -- On	553714259
+Boom Air Pressure Switch -- Off	553714260
+Boom Air Pressure Switch -- On	553714261
+Pcr Room Hi Temp -- Off	553714262
+Pcr Room Hi Temp -- On	553714263
+A-Leg Press -- Off	553714264
+A-Leg Press -- On	553714265
+Boom Press -- Off	553714266
+Boom Press -- On	553714267
+Mast Press -- Off	553714268
+Mast Press -- On	553714269
+As Left System -- Off	553714270
+As Left System -- On	553714271
+As Right System -- Off	553714272
+As Right System -- On	553714273
+Aw Left System -- Off	553714274
+Aw Left System -- On	553714275
+Aw Right System -- Off	553714276
+Aw Right System -- On	553714277
+Ap System -- Off	553714278
+Ap System -- On	553714279
+B System -- Off	553714280
+B System -- On	553714281
+D System -- Off	553714282
+D System -- On	553714283
+H System -- Off	553714284
+H System -- On	553714285
+K System -- Off	553714286
+K System -- On	553714287
+I System -- Off	553714288
+I System -- On	553714289
+J System -- Off	553714290
+J System -- On	553714291
+Crowd Brake Did Not Set -- Off	553714292
+Crowd Brake Did Not Set -- On	553714293
+Swing Lost One Brake -- Off	553714294
+Swing Lost One Brake -- On	553714295
+Hoist Brake Did Not Set -- Off	553714296
+Hoist Brake Did Not Set -- On	553714297
+Hoist Lost One Brake -- Off	553714298
+Hoist Lost One Brake -- On	553714299
+Swing Brake Did Not Set -- Off	553714300
+Swing Brake Did Not Set -- On	553714301
+Hoist Brake Air Press Switch -- Off	553714302
+Hoist Brake Air Press Switch -- On	553714303
+Crowd Brake Air Press Switch -- Off	553714304
+Crowd Brake Air Press Switch -- On	553714305
+Swing Brake Air Press Switch #1 -- Off	553714306
+Swing Brake Air Press Switch #1 -- On	553714307
+Swing Brake Air Press Switch #2 -- Off	553714308
+Swing Brake Air Press Switch #2 -- On	553714309
+Swing Brake Air Press Switch #3 -- Off	553714310
+Swing Brake Air Press Switch #3 -- On	553714311
+Left Propel Brake Air Pressure Switch Did Not Release -- Off	553714312
+Left Propel Brake Air Pressure Switch Did Not Release -- On	553714313
+Left Propel Brake Air Pressure Switch Did Not Set -- Off	553714314
+Left Propel Brake Air Pressure Switch Did Not Set -- On	553714315
+Right Propel Brake Air Pressure Switch Did Not Release -- Off	553714316
+Right Propel Brake Air Pressure Switch Did Not Release -- On	553714317
+Right Propel Brake Air Pressure Switch Did Not Set -- Off	553714318
+Right Propel Brake Air Pressure Switch Did Not Set -- On	553714319
+Hoist Brake Did Not Release -- Off	553714320
+Hoist Brake Did Not Release -- On	553714321
+Swing Brake Did Not Release -- Off	553714322
+Swing Brake Did Not Release -- On	553714323
+Crowd Brake Did Not Release -- Off	553714324
+Crowd Brake Did Not Release -- On	553714325
+Hoist Brake Pressure Switch #1&2 Fault -- Off	553714326
+Hoist Brake Pressure Switch #1&2 Fault -- On	553714327
+Hoist Brake Pressure Switch #3&4 Fault -- Off	553714328
+Hoist Brake Pressure Switch #3&4 Fault -- On	553714329
+Drag Brake Pressure Switch #1 Fault -- Off	553714330
+Drag Brake Pressure Switch #1 Fault -- On	553714331
+Drag Brake Pressure Switch #2 Fault -- Off	553714332
+Drag Brake Pressure Switch #2 Fault -- On	553714333
+Drag Brake Pressure Switch #3 Fault -- Off	553714334
+Drag Brake Pressure Switch #3 Fault -- On	553714335
+Drag Brake Pressure Switch #4 Fault -- Off	553714336
+Drag Brake Pressure Switch #4 Fault -- On	553714337
+Swing Brake Pressure Switch #1 Fault -- Off	553714338
+Swing Brake Pressure Switch #1 Fault -- On	553714339
+Swing Brake Pressure Switch #2 Fault -- Off	553714340
+Swing Brake Pressure Switch #2 Fault -- On	553714341
+Swing Brake Pressure Switch #3 Fault -- Off	553714342
+Swing Brake Pressure Switch #3 Fault -- On	553714343
+Swing Brake Pressure Switch #4 Fault -- Off	553714344
+Swing Brake Pressure Switch #4 Fault -- On	553714345
+Swing Brake Pressure Switch #5 Fault -- Off	553714346
+Swing Brake Pressure Switch #5 Fault -- On	553714347
+Propel Brake Pressure Switch #1 Fault -- Off	553714348
+Propel Brake Pressure Switch #1 Fault -- On	553714349
+Propel Brake Pressure Switch #2 Fault -- Off	553714350
+Propel Brake Pressure Switch #2 Fault -- On	553714351
+Right Propel Tank Press -- Off	553714352
+Right Propel Tank Press -- On	553714353
+Left Propel Tank Press -- Off	553714354
+Left Propel Tank Press -- On	553714355
+Hoist Tank Press Motor 1&2 -- Off	553714356
+Hoist Tank Press Motor 1&2 -- On	553714357
+Hoist Tank Press Motor 3&4 -- Off	553714358
+Hoist Tank Press Motor 3&4 -- On	553714359
+Swing Tank 1 Press Brake -- Off	553714360
+Swing Tank 1 Press Brake -- On	553714361
+Swing Tank 2 Press Brake -- Off	553714362
+Swing Tank 2 Press Brake -- On	553714363
+Swing Tank 3 Press Brake -- Off	553714364
+Swing Tank 3 Press Brake -- On	553714365
+Drag Brake Pressure Tank #1 Fault -- Off	553714366
+Drag Brake Pressure Tank #1 Fault -- On	553714367
+Drag Brake Pressure Tank #2 Fault -- Off	553714368
+Drag Brake Pressure Tank #2 Fault -- On	553714369
+Hoist Brake Press #1 -- Off	553714370
+Hoist Brake Press #1 -- On	553714371
+Hoist Brake Press #2 -- Off	553714372
+Hoist Brake Press #2 -- On	553714373
+Hoist Brake Press #3 -- Off	553714374
+Hoist Brake Press #3 -- On	553714375
+Hoist Brake Press #4 -- Off	553714376
+Hoist Brake Press #4 -- On	553714377
+Hoist Brake Press #5 -- Off	553714378
+Hoist Brake Press #5 -- On	553714379
+Hoist Brake Press #6 -- Off	553714380
+Hoist Brake Press #6 -- On	553714381
+Hoist Brake Press #7 -- Off	553714382
+Hoist Brake Press #7 -- On	553714383
+Hoist Brake Press #8 -- Off	553714384
+Hoist Brake Press #8 -- On	553714385
+Drag Brake Press #1 -- Off	553714386
+Drag Brake Press #1 -- On	553714387
+Drag Brake Press #2 -- Off	553714388
+Drag Brake Press #2 -- On	553714389
+Drag Brake Press #3 -- Off	553714390
+Drag Brake Press #3 -- On	553714391
+Drag Brake Press #4 -- Off	553714392
+Drag Brake Press #4 -- On	553714393
+Drag Brake Press #5 -- Off	553714394
+Drag Brake Press #5 -- On	553714395
+Drag Brake Press #6 -- Off	553714396
+Drag Brake Press #6 -- On	553714397
+Drag Brake Press #7 -- Off	553714398
+Drag Brake Press #7 -- On	553714399
+Drag Brake Press #8 -- Off	553714400
+Drag Brake Press #8 -- On	553714401
+Swing Brake Press #1 -- Off	553714402
+Swing Brake Press #1 -- On	553714403
+Swing Brake Press #2 -- Off	553714404
+Swing Brake Press #2 -- On	553714405
+Swing Brake Press #3 -- Off	553714406
+Swing Brake Press #3 -- On	553714407
+Swing Brake Press #4 -- Off	553714408
+Swing Brake Press #4 -- On	553714409
+Swing Brake Press #5 -- Off	553714410
+Swing Brake Press #5 -- On	553714411
+Propel Brake Press #1 -- Off	553714412
+Propel Brake Press #1 -- On	553714413
+Propel Brake Press #2 -- Off	553714414
+Propel Brake Press #2 -- On	553714415
+Propel Brake Press #3 -- Off	553714416
+Propel Brake Press #3 -- On	553714417
+Propel Brake Press #4 -- Off	553714418
+Propel Brake Press #4 -- On	553714419
+Crowd Resolver -- Off	553714420
+Crowd Resolver -- On	553714421
+Hoist Resolver -- Off	553714422
+Hoist Resolver -- On	553714423
+Drag Resolver -- Off	553714424
+Drag Resolver -- On	553714425
+Swing Resolver -- Off	553714426
+Swing Resolver -- On	553714427
+Propel Resolver -- Off	553714428
+Propel Resolver -- On	553714429
+Hoist Pls -- Off	553714430
+Hoist Pls -- On	553714431
+Crowd Pls -- Off	553714432
+Crowd Pls -- On	553714433
+Hoist Slack Rope -- Off	553714434
+Hoist Slack Rope -- On	553714435
+Hoist Slack Rope Lower Limit -- Off	553714436
+Hoist Slack Rope Lower Limit -- On	553714437
+Pls Power -- Off	553714438
+Pls Power -- On	553714439
+Stage 1 Boom Jacked -- Off	553714440
+Stage 1 Boom Jacked -- On	553714441
+Stage 2 Boom Jacked -- Off	553714442
+Stage 2 Boom Jacked -- On	553714443
+Hoist Limits Exceeded Brake Set -- Off	553714444
+Hoist Limits Exceeded Brake Set -- On	553714445
+Hoist Excess Velocity -- Off	553714446
+Hoist Excess Velocity -- On	553714447
+Hoist Or Crowd Resolver -- Off	553714448
+Hoist Or Crowd Resolver -- On	553714449
+Crowd Limits Exceeded Brake Set -- Off	553714450
+Crowd Limits Exceeded Brake Set -- On	553714451
+Crowd Excess Velocity -- Off	553714452
+Crowd Excess Velocity -- On	553714453
+Abss Boom Limit -- Off	553714454
+Abss Boom Limit -- On	553714455
+Lost Top Dead Center While Swinging -- Off	553714456
+Lost Top Dead Center While Swinging -- On	553714457
+Amci Module -- Off	553714458
+Amci Module -- On	553714459
+Limit Setup Has Been Entered -- Off	553714460
+Limit Setup Has Been Entered -- On	553714461
+Slc Battery Low -- Off	553714462
+Slc Battery Low -- On	553714463
+Cpu Major Error -- Off	553714464
+Cpu Major Error -- On	553714465
+Cpu Comms -- Off	553714466
+Cpu Comms -- On	553714467
+Hoist Digital Drive Comm -- Off	553714468
+Hoist Digital Drive Comm -- On	553714469
+Any Rack Faulted -- Off	553714470
+Any Rack Faulted -- On	553714471
+Rack1.0 To 1.7 Comm Loss -- Off	553714472
+Rack1.0 To 1.7 Comm Loss -- On	553714473
+Rack1.8 To 1.15 Comm Loss -- Off	553714474
+Rack1.8 To 1.15 Comm Loss -- On	553714475
+Rack1.16 To 1.23 Comm Loss -- Off	553714476
+Rack1.16 To 1.23 Comm Loss -- On	553714477
+Aux Block 1 Comm Loss -- Off	553714478
+Aux Block 1 Comm Loss -- On	553714479
+Aux Block 2 Comm Loss -- Off	553714480
+Aux Block 2 Comm Loss -- On	553714481
+Lube Block  Comm Loss -- Off	553714482
+Lube Block  Comm Loss -- On	553714483
+Ready Panel Comm Loss -- Off	553714484
+Ready Panel Comm Loss -- On	553714485
+Flex I/O #1 -- Off	553714486
+Flex I/O #1 -- On	553714487
+Flex I/O #2 -- Off	553714488
+Flex I/O #2 -- On	553714489
+Comm Fault To Chair -- Off	553714490
+Comm Fault To Chair -- On	553714491
+Communications Fault -- Off	553714492
+Communications Fault -- On	553714493
+Hoist Drive Fault -- Off	553714494
+Hoist Drive Fault -- On	553714495
+Crowd Drive Fault -- Off	553714496
+Crowd Drive Fault -- On	553714497
+Swing Drive Fault -- Off	553714498
+Swing Drive Fault -- On	553714499
+Drag Drive Fault -- Off	553714500
+Drag Drive Fault -- On	553714501
+Propel Drive Fault -- Off	553714502
+Propel Drive Fault -- On	553714503
+Field Drive -- Off	553714504
+Field Drive -- On	553714505
+Swing Motor Field Digital Drve -- Off	553714506
+Swing Motor Field Digital Drve -- On	553714507
+Crowd Motor Field Digital Drive -- Off	553714508
+Crowd Motor Field Digital Drive -- On	553714509
+Hoist Motor Field Digital Drive -- Off	553714510
+Hoist Motor Field Digital Drive -- On	553714511
+Hoist Drive Ioc -- Off	553714512
+Hoist Drive Ioc -- On	553714513
+Swing Drive Ioc -- Off	553714514
+Swing Drive Ioc -- On	553714515
+Crowd Drive Ioc -- Off	553714516
+Crowd Drive Ioc -- On	553714517
+Front Hoist Non Drive End Bearing Temperature -- Off	553714518
+Front Hoist Non Drive End Bearing Temperature -- On	553714519
+Front Hoist Drive End Bearing  Temperature -- Off	553714520
+Front Hoist Drive End Bearing  Temperature -- On	553714521
+Front Hoist Interpole Windings Temperature -- Off	553714522
+Front Hoist Interpole Windings Temperature -- On	553714523
+Rear Hoist Non-Drive Bearing Temperature -- Off	553714524
+Rear Hoist Non-Drive Bearing Temperature -- On	553714525
+Rear Hoist Drive End Bearing Temperature -- Off	553714526
+Rear Hoist Drive End Bearing Temperature -- On	553714527
+Rear Hoist Interpole Windings Temperature -- Off	553714528
+Rear Hoist Interpole Windings Temperature -- On	553714529
+Front Hoist Shunt Field Winding Temperature -- Off	553714530
+Front Hoist Shunt Field Winding Temperature -- On	553714531
+Right Front Swing Shunt Field Winfing Temperature -- Off	553714532
+Right Front Swing Shunt Field Winfing Temperature -- On	553714533
+Right Front Swing Non-Drive End Bearing Temperature -- Off	553714534
+Right Front Swing Non-Drive End Bearing Temperature -- On	553714535
+Right Front Swing Drive End Bearing Temperature -- Off	553714536
+Right Front Swing Drive End Bearing Temperature -- On	553714537
+Right Front Swing Interpole Windings Temperature -- Off	553714538
+Right Front Swing Interpole Windings Temperature -- On	553714539
+Rear Swing Non-Drive End Bearing Temperature -- Off	553714540
+Rear Swing Non-Drive End Bearing Temperature -- On	553714541
+Rear Swing Drive End Bearing Temperature -- Off	553714542
+Rear Swing Drive End Bearing Temperature -- On	553714543
+Rear Swing Interpole Windings Temperature -- Off	553714544
+Rear Swing Interpole Windings Temperature -- On	553714545
+Rear Hoist Shunt Field Temperature -- Off	553714546
+Rear Hoist Shunt Field Temperature -- On	553714547
+Rear Swing Shunt Field Winding Temperature -- Off	553714548
+Rear Swing Shunt Field Winding Temperature -- On	553714549
+Crowd Non-Drive End Bearing Temperature -- Off	553714550
+Crowd Non-Drive End Bearing Temperature -- On	553714551
+Crowd Drive End Bearing Temperature -- Off	553714552
+Crowd Drive End Bearing Temperature -- On	553714553
+Crowd Interpole Windings Temperature -- Off	553714554
+Crowd Interpole Windings Temperature -- On	553714555
+Left Propel Non-Drive End Temperature -- Off	553714556
+Left Propel Non-Drive End Temperature -- On	553714557
+Left Propel Drive End Bearing Temperature -- Off	553714558
+Left Propel Drive End Bearing Temperature -- On	553714559
+Left Propel Interpole Windings Temperature -- Off	553714560
+Left Propel Interpole Windings Temperature -- On	553714561
+Right Propel Non-Drive End Temperature -- Off	553714562
+Right Propel Non-Drive End Temperature -- On	553714563
+Right Propel Drive End Bearing Temperature -- Off	553714564
+Right Propel Drive End Bearing Temperature -- On	553714565
+Right Propel Interpole Windings Temperature -- Off	553714566
+Right Propel Interpole Windings Temperature -- On	553714567
+Crowd Motor Shunt Field Winding Temperature -- Off	553714568
+Crowd Motor Shunt Field Winding Temperature -- On	553714569
+Right Shipper Shaft Bearing Temperature -- Off	553714570
+Right Shipper Shaft Bearing Temperature -- On	553714571
+Left Shipper Shaft Bearing Temperature -- Off	553714572
+Left Shipper Shaft Bearing Temperature -- On	553714573
+Right Propel Shunt Field Winding Temperature -- Off	553714574
+Right Propel Shunt Field Winding Temperature -- On	553714575
+Left Propel Shunt Field Winding Temperature -- Off	553714576
+Left Propel Shunt Field Winding Temperature -- On	553714577
+Left Front Swing Drive End Bearing Temperature -- Off	553714578
+Left Front Swing Drive End Bearing Temperature -- On	553714579
+Left Front Swing Non Drive Ened Bearing Temperature -- Off	553714580
+Left Front Swing Non Drive Ened Bearing Temperature -- On	553714581
+Left Front Swing Interpole Winding Teperature -- Off	553714582
+Left Front Swing Interpole Winding Teperature -- On	553714583
+Left Front Swing Shunt Field Winding Temperature -- Off	553714584
+Left Front Swing Shunt Field Winding Temperature -- On	553714585
+Hoist Drum Gearbox Bearing Temperature -- Off	553714586
+Hoist Drum Gearbox Bearing Temperature -- On	553714587
+Hoist Drum Side Stand Bearing Temperature -- Off	553714588
+Hoist Drum Side Stand Bearing Temperature -- On	553714589
+Front  Swing Non-Drive End Bearing Temperature -- Off	553714590
+Front  Swing Non-Drive End Bearing Temperature -- On	553714591
+Front  Swing Drive End Bearing Temperature -- Off	553714592
+Front  Swing Drive End Bearing Temperature -- On	553714593
+Front  Swing Interpole Windings Temperature -- Off	553714594
+Front  Swing Interpole Windings Temperature -- On	553714595
+Warning Temp Rear Hoist Drive Bearing -- Off	553714596
+Warning Temp Rear Hoist Drive Bearing -- On	553714597
+Warning Temp Rear Hoist Comm Bearing -- Off	553714598
+Warning Temp Rear Hoist Comm Bearing -- On	553714599
+Warning Temp Rear Hoist Winding -- Off	553714600
+Warning Temp Rear Hoist Winding -- On	553714601
+Warning Temp Rear Hoist Shunt Field -- Off	553714602
+Warning Temp Rear Hoist Shunt Field -- On	553714603
+Warning Temp Front Hoist Drive Bearing -- Off	553714604
+Warning Temp Front Hoist Drive Bearing -- On	553714605
+Warning Temp Front Hoist Comm Bearing -- Off	553714606
+Warning Temp Front Hoist Comm Bearing -- On	553714607
+Warning Temp Front Hoist Winding -- Off	553714608
+Warning Temp Front Hoist Winding -- On	553714609
+Warning Temp Front Hoist Shunt Field -- Off	553714610
+Warning Temp Front Hoist Shunt Field -- On	553714611
+Warning Temp Rear Swing Drive Bearing -- Off	553714612
+Warning Temp Rear Swing Drive Bearing -- On	553714613
+Warning Temp Rear Swing Comm Bearing -- Off	553714614
+Warning Temp Rear Swing Comm Bearing -- On	553714615
+Warning Temp Rear Swing Winding -- Off	553714616
+Warning Temp Rear Swing Winding -- On	553714617
+Warning Temp Rear Swing Shunt Field -- Off	553714618
+Warning Temp Rear Swing Shunt Field -- On	553714619
+Warning Temp Front Swing Comm Bearing -- Off	553714620
+Warning Temp Front Swing Comm Bearing -- On	553714621
+Warning Temp Front Swing Drive Bearing -- Off	553714622
+Warning Temp Front Swing Drive Bearing -- On	553714623
+Warning Temp Front Swing Winding -- Off	553714624
+Warning Temp Front Swing Winding -- On	553714625
+Warning Temp Right Front Swing Drive Bearing -- Off	553714626
+Warning Temp Right Front Swing Drive Bearing -- On	553714627
+Warning Temp Right Front Swing Comm Bearing -- Off	553714628
+Warning Temp Right Front Swing Comm Bearing -- On	553714629
+Warning Temp Right Front Swing Winding -- Off	553714630
+Warning Temp Right Front Swing Winding -- On	553714631
+Warning Temp Right Front Swing Shunt Field -- Off	553714632
+Warning Temp Right Front Swing Shunt Field -- On	553714633
+Warning Temp Crowd Drive Bearing -- Off	553714634
+Warning Temp Crowd Drive Bearing -- On	553714635
+Warning Temp Crowd Comm Bearing -- Off	553714636
+Warning Temp Crowd Comm Bearing -- On	553714637
+Warning Temp Crowd Winding -- Off	553714638
+Warning Temp Crowd Winding -- On	553714639
+Warning Temp Crowd Shunt Field -- Off	553714640
+Warning Temp Crowd Shunt Field -- On	553714641
+Warning Temp Right Propel Shaft End Bearing -- Off	553714642
+Warning Temp Right Propel Shaft End Bearing -- On	553714643
+Warning Temp  Right Propel Brake End Bearing -- Off	553714644
+Warning Temp  Right Propel Brake End Bearing -- On	553714645
+Warning Temp  Right Propel Winding -- Off	553714646
+Warning Temp  Right Propel Winding -- On	553714647
+Warning Temp  Right Propel Shunt Field -- Off	553714648
+Warning Temp  Right Propel Shunt Field -- On	553714649
+Warning Temp Left Propel Shaft End Bearing -- Off	553714650
+Warning Temp Left Propel Shaft End Bearing -- On	553714651
+Warning Temp Left Propel Brake End Bearing -- Off	553714652
+Warning Temp Left Propel Brake End Bearing -- On	553714653
+Warning Temp Left Propel Winding -- Off	553714654
+Warning Temp Left Propel Winding -- On	553714655
+Warning Temp Left Propel Shunt Field -- Off	553714656
+Warning Temp Left Propel Shunt Field -- On	553714657
+Warning Temp Hoist Drum Side Stand Bearing -- Off	553714658
+Warning Temp Hoist Drum Side Stand Bearing -- On	553714659
+Warning Temp Hoist Drum Gearbox -- Off	553714660
+Warning Temp Hoist Drum Gearbox -- On	553714661
+Warning Temp Left Front Swing Drive Bearing -- Off	553714662
+Warning Temp Left Front Swing Drive Bearing -- On	553714663
+Warning Temp Left Front Swing Comm Bearing -- Off	553714664
+Warning Temp Left Front Swing Comm Bearing -- On	553714665
+Warning Temp Left Front Swing Winding -- Off	553714666
+Warning Temp Left Front Swing Winding -- On	553714667
+Warning Front Hoist Comm Sensor Failure -- Off	553714668
+Warning Front Hoist Comm Sensor Failure -- On	553714669
+Warning Front Hoist Drive Sensor Failure -- Off	553714670
+Warning Front Hoist Drive Sensor Failure -- On	553714671
+Warning Front Hoist Winding Sensor Failure -- Off	553714672
+Warning Front Hoist Winding Sensor Failure -- On	553714673
+Warning Rear Hoist Comm Sensor Failure -- Off	553714674
+Warning Rear Hoist Comm Sensor Failure -- On	553714675
+Warning Rear Hoist Drive Sensor Failure -- Off	553714676
+Warning Rear Hoist Drive Sensor Failure -- On	553714677
+Warning Rear Hoist Winding Sensor Failure -- Off	553714678
+Warning Rear Hoist Winding Sensor Failure -- On	553714679
+Warning Hoist Drum Gear Case Sensor Failure -- Off	553714680
+Warning Hoist Drum Gear Case Sensor Failure -- On	553714681
+Warning Hoist Drum Pedastal Sensor Failure -- Off	553714682
+Warning Hoist Drum Pedastal Sensor Failure -- On	553714683
+Warning Front Swing Comm Sensor Failure -- Off	553714684
+Warning Front Swing Comm Sensor Failure -- On	553714685
+Warning Front Swing Drive Sensor Failure -- Off	553714686
+Warning Front Swing Drive Sensor Failure -- On	553714687
+Warning Front Swing Winding Sensor Failure -- Off	553714688
+Warning Front Swing Winding Sensor Failure -- On	553714689
+Warning Rear Swing Comm Sensor Failure -- Off	553714690
+Warning Rear Swing Comm Sensor Failure -- On	553714691
+Warning Rear Swing Drive Sensor Failure -- Off	553714692
+Warning Rear Swing Drive Sensor Failure -- On	553714693
+Warning Rear Swing Winding Sensor Failure -- Off	553714694
+Warning Rear Swing Winding Sensor Failure -- On	553714695
+Warning Crowd Comm Sensor Failure -- Off	553714696
+Warning Crowd Comm Sensor Failure -- On	553714697
+Warning Crowd Drive Sensor Failure -- Off	553714698
+Warning Crowd Drive Sensor Failure -- On	553714699
+Warning Crowd Winding Sensor Failure -- Off	553714700
+Warning Crowd Winding Sensor Failure -- On	553714701
+Warning Left Propel Comm Sensor Failure -- Off	553714702
+Warning Left Propel Comm Sensor Failure -- On	553714703
+Warning Left Propel Drive Sensor Failure -- Off	553714704
+Warning Left Propel Drive Sensor Failure -- On	553714705
+Warning Left Propel Winding Sensor Failure -- Off	553714706
+Warning Left Propel Winding Sensor Failure -- On	553714707
+Warning Right Propel Sensor Failure -- Off	553714708
+Warning Right Propel Sensor Failure -- On	553714709
+Warning Right Propel Sensor Failure -- Off	553714710
+Warning Right Propel Sensor Failure -- On	553714711
+Warning Right Propel Winding Sensor Failure -- Off	553714712
+Warning Right Propel Winding Sensor Failure -- On	553714713
+Warning Temp Hoist Motor 1 -- Off	553714714
+Warning Temp Hoist Motor 1 -- On	553714715
+Warning Temp Hoist Motor 2 -- Off	553714716
+Warning Temp Hoist Motor 2 -- On	553714717
+Warning Temp Hoist Motor 3 -- Off	553714718
+Warning Temp Hoist Motor 3 -- On	553714719
+Warning Temp Hoist Motor 4 -- Off	553714720
+Warning Temp Hoist Motor 4 -- On	553714721
+Warning Temp Hoist Motor 5 -- Off	553714722
+Warning Temp Hoist Motor 5 -- On	553714723
+Warning Temp Hoist Motor 6 -- Off	553714724
+Warning Temp Hoist Motor 6 -- On	553714725
+Warning Temp Hoist Motor 7 -- Off	553714726
+Warning Temp Hoist Motor 7 -- On	553714727
+Warning Temp Hoist Motor 8 -- Off	553714728
+Warning Temp Hoist Motor 8 -- On	553714729
+Warning Temp Drag Motor 1 -- Off	553714730
+Warning Temp Drag Motor 1 -- On	553714731
+Warning Temp Drag Motor 2 -- Off	553714732
+Warning Temp Drag Motor 2 -- On	553714733
+Warning Temp Drag Motor 3 -- Off	553714734
+Warning Temp Drag Motor 3 -- On	553714735
+Warning Temp Drag Motor 4 -- Off	553714736
+Warning Temp Drag Motor 4 -- On	553714737
+Warning Temp Drag Motor 5 -- Off	553714738
+Warning Temp Drag Motor 5 -- On	553714739
+Warning Temp Drag Motor 6 -- Off	553714740
+Warning Temp Drag Motor 6 -- On	553714741
+Warning Temp Drag Motor 7 -- Off	553714742
+Warning Temp Drag Motor 7 -- On	553714743
+Warning Temp Drag Motor 8 -- Off	553714744
+Warning Temp Drag Motor 8 -- On	553714745
+Warning Temp Swing Motor 1 -- Off	553714746
+Warning Temp Swing Motor 1 -- On	553714747
+Warning Temp Swing Motor 2 -- Off	553714748
+Warning Temp Swing Motor 2 -- On	553714749
+Warning Temp Swing Motor 3 -- Off	553714750
+Warning Temp Swing Motor 3 -- On	553714751
+Warning Temp Swing Motor 4 -- Off	553714752
+Warning Temp Swing Motor 4 -- On	553714753
+Warning Temp Swing Motor 5 -- Off	553714754
+Warning Temp Swing Motor 5 -- On	553714755
+Warning Temp Propel Motor 1 -- Off	553714756
+Warning Temp Propel Motor 1 -- On	553714757
+Warning Temp Propel Motor 2 -- Off	553714758
+Warning Temp Propel Motor 2 -- On	553714759
+Warning Temp Propel Motor 3 -- Off	553714760
+Warning Temp Propel Motor 3 -- On	553714761
+Warning Temp Propel Motor 4 -- Off	553714762
+Warning Temp Propel Motor 4 -- On	553714763
+Warning Temp Sync Motor 1 -- Off	553714764
+Warning Temp Sync Motor 1 -- On	553714765
+Warning Temp Sync Motor 2 -- Off	553714766
+Warning Temp Sync Motor 2 -- On	553714767
+Warning Temp Sync Motor 3 -- Off	553714768
+Warning Temp Sync Motor 3 -- On	553714769
+Warning Temp Sync Motor 4 -- Off	553714770
+Warning Temp Sync Motor 4 -- On	553714771
+Warning Temp Sync Motor 5 -- Off	553714772
+Warning Temp Sync Motor 5 -- On	553714773
+Warning Temp Generator Hg 1 -- Off	553714774
+Warning Temp Generator Hg 1 -- On	553714775
+Warning Temp Generator Hg 2 -- Off	553714776
+Warning Temp Generator Hg 2 -- On	553714777
+Warning Temp Generator Hg 3 -- Off	553714778
+Warning Temp Generator Hg 3 -- On	553714779
+Warning Temp Generator Hg 4 -- Off	553714780
+Warning Temp Generator Hg 4 -- On	553714781
+Warning Temp Generator Hg 5 -- Off	553714782
+Warning Temp Generator Hg 5 -- On	553714783
+Warning Temp Generator Hg 6 -- Off	553714784
+Warning Temp Generator Hg 6 -- On	553714785
+Warning Temp Generator Hg 7 -- Off	553714786
+Warning Temp Generator Hg 7 -- On	553714787
+Warning Temp Generator Hg 8 -- Off	553714788
+Warning Temp Generator Hg 8 -- On	553714789
+Warning Temp Generator Dg1 -- Off	553714790
+Warning Temp Generator Dg1 -- On	553714791
+Warning Temp Generator Dg2 -- Off	553714792
+Warning Temp Generator Dg2 -- On	553714793
+Warning Temp Generator Dg3 -- Off	553714794
+Warning Temp Generator Dg3 -- On	553714795
+Warning Temp Generator Dg4 -- Off	553714796
+Warning Temp Generator Dg4 -- On	553714797
+Warning Temp Generator Dg5 -- Off	553714798
+Warning Temp Generator Dg5 -- On	553714799
+Warning Temp Generator Dg6 -- Off	553714800
+Warning Temp Generator Dg6 -- On	553714801
+Warning Temp Generator Dg7 -- Off	553714802
+Warning Temp Generator Dg7 -- On	553714803
+Warning Temp Generator Dg8 -- Off	553714804
+Warning Temp Generator Dg8 -- On	553714805
+Warning Temp Generator Sg 1 -- Off	553714806
+Warning Temp Generator Sg 1 -- On	553714807
+Warning Temp Generator Sg 2 -- Off	553714808
+Warning Temp Generator Sg 2 -- On	553714809
+Warning Temp Generator Sg 3 -- Off	553714810
+Warning Temp Generator Sg 3 -- On	553714811
+Warning Temp Generator Sg 4 -- Off	553714812
+Warning Temp Generator Sg 4 -- On	553714813
+Warning Temp Generator Sg 5 -- Off	553714814
+Warning Temp Generator Sg 5 -- On	553714815
+Warning Temp Hoist Gearbox 1 -- Off	553714816
+Warning Temp Hoist Gearbox 1 -- On	553714817
+Warning Temp Hoist Gearbox 2 -- Off	553714818
+Warning Temp Hoist Gearbox 2 -- On	553714819
+Warning Temp Hoist Gearbox 3 -- Off	553714820
+Warning Temp Hoist Gearbox 3 -- On	553714821
+Warning Temp Hoist Gearbox 4 -- Off	553714822
+Warning Temp Hoist Gearbox 4 -- On	553714823
+Warning Temp Drag Gearbox 1 -- Off	553714824
+Warning Temp Drag Gearbox 1 -- On	553714825
+Warning Temp Drag Gearbox 2 -- Off	553714826
+Warning Temp Drag Gearbox 2 -- On	553714827
+Warning Temp Drag Gearbox 3 -- Off	553714828
+Warning Temp Drag Gearbox 3 -- On	553714829
+Warning Temp Drag Gearbox 4 -- Off	553714830
+Warning Temp Drag Gearbox 4 -- On	553714831
+Warning Temp Swing Gearbox 1 -- Off	553714832
+Warning Temp Swing Gearbox 1 -- On	553714833
+Warning Temp Swing Gearbox 2 -- Off	553714834
+Warning Temp Swing Gearbox 2 -- On	553714835
+Warning Temp Swing Gearbox 3 -- Off	553714836
+Warning Temp Swing Gearbox 3 -- On	553714837
+Warning Temp Swing Gearbox 4 -- Off	553714838
+Warning Temp Swing Gearbox 4 -- On	553714839
+Warning Temp Swing Gearbox 5 -- Off	553714840
+Warning Temp Swing Gearbox 5 -- On	553714841
+Warning Temp Propel Gearbox 1 -- Off	553714842
+Warning Temp Propel Gearbox 1 -- On	553714843
+Warning Temp Propel Gearbox 2 -- Off	553714844
+Warning Temp Propel Gearbox 2 -- On	553714845
+Warning Temp Hoist Drum -- Off	553714846
+Warning Temp Hoist Drum -- On	553714847
+Warning Temp Drag Drum -- Off	553714848
+Warning Temp Drag Drum -- On	553714849
+Warning Temp Swing Shaft 1 -- Off	553714850
+Warning Temp Swing Shaft 1 -- On	553714851
+Warning Temp Swing Shaft 2 -- Off	553714852
+Warning Temp Swing Shaft 2 -- On	553714853
+Warning Temp Swing Shaft 3 -- Off	553714854
+Warning Temp Swing Shaft 3 -- On	553714855
+Warning Temp Swing Shaft 4 -- Off	553714856
+Warning Temp Swing Shaft 4 -- On	553714857
+Warning Temp Swing Shaft 5 -- Off	553714858
+Warning Temp Swing Shaft 5 -- On	553714859
+Warning Temp Propel Shaft 1 -- Off	553714860
+Warning Temp Propel Shaft 1 -- On	553714861
+Warning Temp Propel  Shaft 2 -- Off	553714862
+Warning Temp Propel  Shaft 2 -- On	553714863
+Warning Vib Hoist Motor 1 -- Off	553714864
+Warning Vib Hoist Motor 1 -- On	553714865
+Warning Vib Hoist Motor 2 -- Off	553714866
+Warning Vib Hoist Motor 2 -- On	553714867
+Warning Vib Hoist Motor 3 -- Off	553714868
+Warning Vib Hoist Motor 3 -- On	553714869
+Warning Vib Hoist Motor 4 -- Off	553714870
+Warning Vib Hoist Motor 4 -- On	553714871
+Warning Vib Hoist Motor 5 -- Off	553714872
+Warning Vib Hoist Motor 5 -- On	553714873
+Warning Vib Hoist Motor 6 -- Off	553714874
+Warning Vib Hoist Motor 6 -- On	553714875
+Warning Vib Hoist Motor 7 -- Off	553714876
+Warning Vib Hoist Motor 7 -- On	553714877
+Warning Vib Hoist Motor 8 -- Off	553714878
+Warning Vib Hoist Motor 8 -- On	553714879
+Warning Vib Drag Motor 1 -- Off	553714880
+Warning Vib Drag Motor 1 -- On	553714881
+Warning Vib Drag Motor 2 -- Off	553714882
+Warning Vib Drag Motor 2 -- On	553714883
+Warning Vib Drag Motor 3 -- Off	553714884
+Warning Vib Drag Motor 3 -- On	553714885
+Warning Vib Drag Motor 4 -- Off	553714886
+Warning Vib Drag Motor 4 -- On	553714887
+Warning Vib Drag Motor 5 -- Off	553714888
+Warning Vib Drag Motor 5 -- On	553714889
+Warning Vib Drag Motor 6 -- Off	553714890
+Warning Vib Drag Motor 6 -- On	553714891
+Warning Vib Drag Motor 7 -- Off	553714892
+Warning Vib Drag Motor 7 -- On	553714893
+Warning Vib Drag Motor 8 -- Off	553714894
+Warning Vib Drag Motor 8 -- On	553714895
+Warning Vib Swing Motor 1 -- Off	553714896
+Warning Vib Swing Motor 1 -- On	553714897
+Warning Vib Swing Motor 2 -- Off	553714898
+Warning Vib Swing Motor 2 -- On	553714899
+Warning Vib Swing Motor 3 -- Off	553714900
+Warning Vib Swing Motor 3 -- On	553714901
+Warning Vib Swing Motor 4 -- Off	553714902
+Warning Vib Swing Motor 4 -- On	553714903
+Warning Vib Swing Motor 5 -- Off	553714904
+Warning Vib Swing Motor 5 -- On	553714905
+Warning Vib Propel Motor 1 -- Off	553714906
+Warning Vib Propel Motor 1 -- On	553714907
+Warning Vib Propel Motor 2 -- Off	553714908
+Warning Vib Propel Motor 2 -- On	553714909
+Warning Vib Propel Motor 3 -- Off	553714910
+Warning Vib Propel Motor 3 -- On	553714911
+Warning Vib Propel Motor 4 -- Off	553714912
+Warning Vib Propel Motor 4 -- On	553714913
+Warning Vib Sync Motor 1 -- Off	553714914
+Warning Vib Sync Motor 1 -- On	553714915
+Warning Vib Sync Motor 2 -- Off	553714916
+Warning Vib Sync Motor 2 -- On	553714917
+Warning Vib Sync Motor 3 -- Off	553714918
+Warning Vib Sync Motor 3 -- On	553714919
+Warning Vib Sync Motor 4 -- Off	553714920
+Warning Vib Sync Motor 4 -- On	553714921
+Warning Vib Sync Motor 5 -- Off	553714922
+Warning Vib Sync Motor 5 -- On	553714923
+Warning Vib Generator Hg 1 -- Off	553714924
+Warning Vib Generator Hg 1 -- On	553714925
+Warning Vib Generator Hg 2 -- Off	553714926
+Warning Vib Generator Hg 2 -- On	553714927
+Warning Vib Generator Hg 3 -- Off	553714928
+Warning Vib Generator Hg 3 -- On	553714929
+Warning Vib Generator Hg 4 -- Off	553714930
+Warning Vib Generator Hg 4 -- On	553714931
+Warning Vib Generator Hg 5 -- Off	553714932
+Warning Vib Generator Hg 5 -- On	553714933
+Warning Vib Generator Hg 6 -- Off	553714934
+Warning Vib Generator Hg 6 -- On	553714935
+Warning Vib Generator Hg 7 -- Off	553714936
+Warning Vib Generator Hg 7 -- On	553714937
+Warning Vib Generator Hg 8 -- Off	553714938
+Warning Vib Generator Hg 8 -- On	553714939
+Warning Vib Generator Dg1 -- Off	553714940
+Warning Vib Generator Dg1 -- On	553714941
+Warning Vib Generator Dg2 -- Off	553714942
+Warning Vib Generator Dg2 -- On	553714943
+Warning Vib Generator Dg3 -- Off	553714944
+Warning Vib Generator Dg3 -- On	553714945
+Warning Vib Generator Dg4 -- Off	553714946
+Warning Vib Generator Dg4 -- On	553714947
+Warning Vib Generator Dg5 -- Off	553714948
+Warning Vib Generator Dg5 -- On	553714949
+Warning Vib Generator Dg6 -- Off	553714950
+Warning Vib Generator Dg6 -- On	553714951
+Warning Vib Generator Dg7 -- Off	553714952
+Warning Vib Generator Dg7 -- On	553714953
+Warning Vib Generator Dg8 -- Off	553714954
+Warning Vib Generator Dg8 -- On	553714955
+Warning Vib Generator Sg 1 -- Off	553714956
+Warning Vib Generator Sg 1 -- On	553714957
+Warning Vib Generator Sg 2 -- Off	553714958
+Warning Vib Generator Sg 2 -- On	553714959
+Warning Vib Generator Sg 3 -- Off	553714960
+Warning Vib Generator Sg 3 -- On	553714961
+Warning Vib Generator Sg 4 -- Off	553714962
+Warning Vib Generator Sg 4 -- On	553714963
+Warning Vib Generator Sg 5 -- Off	553714964
+Warning Vib Generator Sg 5 -- On	553714965
+Warning Vib Hoist Gearbox 1 -- Off	553714966
+Warning Vib Hoist Gearbox 1 -- On	553714967
+Warning Vib Hoist Gearbox 2 -- Off	553714968
+Warning Vib Hoist Gearbox 2 -- On	553714969
+Warning Vib Hoist Gearbox 3 -- Off	553714970
+Warning Vib Hoist Gearbox 3 -- On	553714971
+Warning Vib Hoist Gearbox 4 -- Off	553714972
+Warning Vib Hoist Gearbox 4 -- On	553714973
+Warning Vib Drag Gearbox 1 -- Off	553714974
+Warning Vib Drag Gearbox 1 -- On	553714975
+Warning Vib Drag Gearbox 2 -- Off	553714976
+Warning Vib Drag Gearbox 2 -- On	553714977
+Warning Vib Drag Gearbox 3 -- Off	553714978
+Warning Vib Drag Gearbox 3 -- On	553714979
+Warning Vib Drag Gearbox 4 -- Off	553714980
+Warning Vib Drag Gearbox 4 -- On	553714981
+Warning Vib Swing Gearbox 1 -- Off	553714982
+Warning Vib Swing Gearbox 1 -- On	553714983
+Warning Vib Swing Gearbox 2 -- Off	553714984
+Warning Vib Swing Gearbox 2 -- On	553714985
+Warning Vib Swing Gearbox 3 -- Off	553714986
+Warning Vib Swing Gearbox 3 -- On	553714987
+Warning Vib Swing Gearbox 4 -- Off	553714988
+Warning Vib Swing Gearbox 4 -- On	553714989
+Warning Vib Swing Gearbox 5 -- Off	553714990
+Warning Vib Swing Gearbox 5 -- On	553714991
+Warning Vib Propel Gearbox 1 -- Off	553714992
+Warning Vib Propel Gearbox 1 -- On	553714993
+Warning Vib Propel Gearbox 2 -- Off	553714994
+Warning Vib Propel Gearbox 2 -- On	553714995
+Warning Vib Hoist Drum -- Off	553714996
+Warning Vib Hoist Drum -- On	553714997
+Warning Vib Drag Drum -- Off	553714998
+Warning Vib Drag Drum -- On	553714999
+Warning Vib Swing Shaft 1 -- Off	553715000
+Warning Vib Swing Shaft 1 -- On	553715001
+Warning Vib Swing Shaft 2 -- Off	553715002
+Warning Vib Swing Shaft 2 -- On	553715003
+Warning Vib Swing Shaft 3 -- Off	553715004
+Warning Vib Swing Shaft 3 -- On	553715005
+Warning Vib Swing Shaft 4 -- Off	553715006
+Warning Vib Swing Shaft 4 -- On	553715007
+Warning Vib Swing Shaft 5 -- Off	553715008
+Warning Vib Swing Shaft 5 -- On	553715009
+Warning Vib Propel Shaft 1 -- Off	553715010
+Warning Vib Propel Shaft 1 -- On	553715011
+Warning Vib Propel  Shaft 2 -- Off	553715012
+Warning Vib Propel  Shaft 2 -- On	553715013
+Crowd Brake Released -- Off	553715014
+Crowd Brake Released -- On	553715015
+Hoist Brake Released -- Off	553715016
+Hoist Brake Released -- On	553715017
+Swing Brake Released -- Off	553715018
+Swing Brake Released -- On	553715019
+Drag Brakes Released -- Off	553715020
+Drag Brakes Released -- On	553715021
+Propel Brakes Released -- Off	553715022
+Propel Brakes Released -- On	553715023
+Dipper Trip Activated -- Off	553715024
+Dipper Trip Activated -- On	553715025
+Air Horn Activated -- Off	553715026
+Air Horn Activated -- On	553715027
+Right Ladder Down While In Propel Or Swing -- Off	553715028
+Right Ladder Down While In Propel Or Swing -- On	553715029
+Left Ladder Down While In Propel Or Swing -- Off	553715030
+Left Ladder Down While In Propel Or Swing -- On	553715031
+Down Status off	553715032
+Down Status On	553715033
+Ready Status off	553715034
+Ready Status On	553715035
+Standby Status off	553715036
+Standby Status On	553715037
+Delay Status off	553715038
+Delay Status On	553715039

@@ -1,0 +1,80 @@
+402718721	Electric Drive Lube Temp(Left)	0	0	0
+402718722	Electric Drive Lube Temp(Right)	0	0	0
+402718723	Level of Fuel	0	0	0
+402718724	Pressure 1	0	0	0
+402718725	Pressure 2	0	0	0
+402718726	Analog Input 0	0	0	0
+402718727	Analog Input 1	0	0	0
+402718728	Analog Input 2	0	0	0
+402718729	Analog Input 3	0	0	0
+402718730	Analog Input 4	0	0	0
+402718731	Analog Input 5	0	0	0
+402718732	Analog Input 6	0	0	0
+402718733	Analog Input 7	0	0	0
+402718734	Number of truck	0	0	0
+402718735	Temperature Alarm MFI soft out	0	0	0
+402718736	Temperature Alarm MFI soft in	0	0	0
+402718737	Temperature Alarm MFI hard out	0	0	0
+402718738	Temperature Alarm MFI hard in	0	0	0
+402718739	Temperature Alarm MFD soft out	0	0	0
+402718740	Temperature Alarm MFD soft in	0	0	0
+402718741	Temperature Alarm MFD hard out	0	0	0
+402718742	Temperature Alarm MFD hard in	0	0	0
+402718743	Fuel Alarm soft out	0	0	0
+402718744	Fuel Alarm soft in	0	0	0
+402718745	Fuel Alarm hard out	0	0	0
+402718746	Fuel Alarm hard in	0	0	0
+402718747	Pressure 1 Alarm soft out	0	0	0
+402718748	Pressure 1 Alarm soft in	0	0	0
+402718749	Pressure 1 Alarm hard out	0	0	0
+402718750	Pressure 1 Alarm hard in	0	0	0
+402718751	Pressure 2 Alarm soft out	0	0	0
+402718752	Pressure 2 Alarm soft in	0	0	0
+402718753	Pressure 2 Alarm hard out	0	0	0
+402718754	Pressure 2 Alarm hard in	0	0	0
+402718755	A0 Alarm soft out	0	0	0
+402718756	A0 Alarm soft in	0	0	0
+402718757	A0 Alarm hard out	0	0	0
+402718758	A0 Alarm hard in	0	0	0
+402718759	A1 Alarm soft out	0	0	0
+402718760	A1 Alarm soft in	0	0	0
+402718761	A1 Alarm hard out	0	0	0
+402718762	A1 Alarm hard in	0	0	0
+402718763	A2 Alarm soft out	0	0	0
+402718764	A2 Alarm soft in	0	0	0
+402718765	A2 Alarm hard out	0	0	0
+402718766	A2 Alarm hard in	0	0	0
+402718767	A3 Alarm soft out	0	0	0
+402718768	A3 Alarm soft in	0	0	0
+402718769	A3 Alarm hard out	0	0	0
+402718770	A3 Alarm hard in	0	0	0
+402718771	A4 Alarm soft out	0	0	0
+402718772	A4 Alarm soft in	0	0	0
+402718773	A4 Alarm hard out	0	0	0
+402718774	A4 Alarm hard in	0	0	0
+402718775	A5 Alarm soft out	0	0	0
+402718776	A5 Alarm soft in	0	0	0
+402718777	A5 Alarm hard out	0	0	0
+402718778	A5 Alarm hard in	0	0	0
+402718779	A6 Alarm soft out	0	0	0
+402718780	A6 Alarm soft in	0	0	0
+402718781	A6 Alarm hard out	0	0	0
+402718782	A6 Alarm hard in	0	0	0
+402718783	A7 Alarm soft out	0	0	0
+402718784	A7 Alarm soft in	0	0	0
+402718785	A7 Alarm hard out	0	0	0
+402718786	A7 Alarm hard in	0	0	0
+402718787	Temperature MFI Alarm Status	0	0	0
+402718788	Temperature MFD Alarm Status	0	0	0
+402718789	Fuel Alarm Status	0	0	0
+402718790	Pressure 1 Alarm Status	0	0	0
+402718791	Pressure 2 Alarm Status	0	0	0
+402718792	An 0 Alarm Status	0	0	0
+402718793	An 1 Alarm Status	0	0	0
+402718794	An 2 Alarm Status	0	0	0
+402718795	An 3 Alarm Status	0	0	0
+402718796	An 4 Alarm Status	0	0	0
+402718797	An 5 Alarm Status	0	0	0
+402718798	An 6 Alarm Status	0	0	0
+402718799	An 7 Alarm Status	0	0	0
+402718800	Sensor Wire State	0	0	0

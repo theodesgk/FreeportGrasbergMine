@@ -1,0 +1,512 @@
+1359020033	Eng Ecu Temp (Quantum)	273	-273	5
+1359020034	Accelerator Pedal Position 1 (Quantum)	100	0	25
+1359020035	Percent Load At Current Speed (Quantum)	125	0	25
+1359020036	Engine Oil Pressure (Quantum)	1000	0	9
+1359020037	Crankcase Pressure (Quantum)	251.99	-250	9
+1359020038	Intake Manifold Boost Pressure 1 (Quantum)	8031.875	0	9
+1359020039	Intake Manifold Boost Pressure 2 (Quantum)	8031.875	0	9
+1359020040	Intake Manifold Temperature (Quantum)	210	-40	5
+1359020041	Intake Manifold 2 Temperature (Quantum)	210	-40	5
+1359020042	Intake Manifold 3 Temperature (Quantum)	210	-40	5
+1359020043	Intake Manifold 4 Temperature (Quantum)	210	-40	5
+1359020044	Barometric Pressure (Quantum)	125	0	9
+1359020045	Coolant Pressure (Quantum)	500	0	9
+1359020046	Engine Coolant Temperature (Quantum)	210	-40	5
+1359020047	Injector Metering Rail Pressure (Quantum)	251	0	22
+1359020048	Electrical Potential (Voltage) Ecm 00 (Quantum)	3212.75	0	31
+1359020049	Electrical Potential (Voltage) Ecm 01 (Quantum)	3212.75	0	31
+1359020050	Electrical Potential (Voltage) Ecm 90 (Quantum)	3212.75	0	31
+1359020051	Engine Exhaust Gas Port 1 Lb Temp (Quantum)	1735	-273	5
+1359020052	Engine Exhaust Gas Port 2 Lb Temp (Quantum)	1735	-273	5
+1359020053	Engine Exhaust Gas Port 3 Lb Temp (Quantum)	1735	-273	5
+1359020054	Engine Exhaust Gas Port 4 Lb Temp (Quantum)	1735	-273	5
+1359020055	Engine Exhaust Gas Port 5 Lb Temp (Quantum)	1735	-273	5
+1359020056	Engine Exhaust Gas Port 6 Lb Temp (Quantum)	1735	-273	5
+1359020057	Engine Exhaust Gas Port 7 Lb Temp (Quantum)	1735	-273	5
+1359020058	Engine Exhaust Gas Port 8 Lb Temp (Quantum)	1735	-273	5
+1359020059	Engine Exhaust Gas Port 9 Lb Temp (Quantum)	1735	-273	5
+1359020060	Engine Exhaust Gas Port 10 Lb Temp (Quantum)	1735	-273	5
+1359020061	Engine Exhaust Gas Port 11 Lb Temp (Quantum)	1735	-273	5
+1359020062	Engine Exhaust Gas Port 12 Lb Temp (Quantum)	1735	-273	5
+1359020063	Engine Exhaust Gas Port 13 Lb Temp (Quantum)	1735	-273	5
+1359020064	Engine Exhaust Gas Port 14 Lb Temp (Quantum)	1735	-273	5
+1359020065	Engine Exhaust Gas Port 15 Lb Temp (Quantum)	1735	-273	5
+1359020066	Engine Exhaust Gas Port 16 Lb Temp (Quantum)	1735	-273	5
+1359020067	Engine Exhaust Gas Port 1 Rb Temp (Quantum)	1735	-273	5
+1359020068	Engine Exhaust Gas Port 2 Rb Temp (Quantum)	1735	-273	5
+1359020069	Engine Exhaust Gas Port 3 Rb Temp (Quantum)	1735	-273	5
+1359020070	Engine Exhaust Gas Port 4 Rb Temp (Quantum)	1735	-273	5
+1359020071	Engine Exhaust Gas Port 5 Rb Temp (Quantum)	1735	-273	5
+1359020072	Engine Exhaust Gas Port 6 Rb Temp (Quantum)	1735	-273	5
+1359020073	Engine Exhaust Gas Port 7 Rb Temp (Quantum)	1735	-273	5
+1359020074	Engine Exhaust Gas Port 8 Rb Temp (Quantum)	1735	-273	5
+1359020075	Engine Exhaust Gas Port 9 Rb Temp (Quantum)	1735	-273	5
+1359020076	Engine Exhaust Gas Port 10 Rb Temp (Quantum)	1735	-273	5
+1359020077	Engine Exhaust Gas Port 11 Rb Temp (Quantum)	1735	-273	5
+1359020078	Engine Exhaust Gas Port 12 Rb Temp (Quantum)	1735	-273	5
+1359020079	Engine Exhaust Gas Port 13 Rb Temp (Quantum)	1735	-273	5
+1359020080	Engine Exhaust Gas Port 14 Rb Temp (Quantum)	1735	-273	5
+1359020081	Engine Exhaust Gas Port 15 Rb Temp (Quantum)	1735	-273	5
+1359020082	Engine Exhaust Gas Port 16 Rb Temp (Quantum)	1735	-273	5
+1359020083	Exhaust Gas Temperature (Quantum)	1735	-273	5
+1359020084	Engine Oil Temperature (Quantum)	1735	-273	5
+1359020085	Engine Speed (Quantum)	8031.875	0	28
+1359020086	Total Engine Hours Ecm 00 (Quantum)	210554060.75	0	7
+1359020087	Total Engine Hours Ecm 01 (Quantum)	210554060.75	0	7
+1359020088	Total Engine Hours Ecm 90 (Quantum)	210554060.75	0	7
+1359020089	Retarder Enable - Shift Assist Switch (Quantum)	1	0	33
+1359020090	Retarder Enable - Brake Assist Switch (Quantum)	1	0	33
+1359020091	Actual Retarder - Percent Torque (Quantum)	125	-125	25
+1359020092	Remote Accelerator Enable Switch (Quantum)	1	0	33
+1359020093	Engine Retarder Selection (Quantum)	100	0	25
+1359020094	Accelerator Pedal Kick Down Switch (Quantum)	1	0	33
+1359020095	Accelerator Pedal Low Idle Switch (Quantum)	1	0	33
+1359020096	Remote Accelerator Pedal Position (Quantum)	100	0	25
+1359020097	Drivers Demand Engine-Percent Torque (Quantum)	125	-125	25
+1359020098	Actual Engine - Percent Torque (Quantum)	125	-125	25
+1359020099	Estimated Percent Fan Speed (Quantum)	100	0	25
+1359020100	Total Idle Fuel Used (Quantum)	2105540607.5	0	14
+1359020101	Total Idle Hours (Quantum)	210554060.75	0	7
+1359020102	Nominal Friction - Percent Torque (Quantum)	125	-125	25
+1359020103	Engine Desired Operating Speed (Quantum)	8031.875	0	28
+1359020104	Engine Operating Speed Asymmetry Adjustment (Quantum)	250	0	0
+1359020105	Trip Distance (Quantum)	526385151.9	0	8
+1359020106	Total Vehicle Distance (Quantum)	526385151.9	0	8
+1359020107	Retarder Location (Quantum)	0	0	0
+1359020108	Retarder Type (Quantum)	0	0	0
+1359020109	Retarder Control Method (Quantum)	0	0	0
+1359020110	Retarder Speed At Idle Point 1 (Quantum)	8031.875	0	28
+1359020111	Percent Torque At Idle Point 1 (Quantum)	125	-125	25
+1359020112	Maximum Retarder Speed Point 2 (Quantum)	8031.875	0	28
+1359020113	Percent Torque At Max Speed Point 2 (Quantum)	125	-125	25
+1359020114	Retarder Speed At Point 3 (Quantum)	8031.875	0	28
+1359020115	Percent Torque At Point 3 (Quantum)	125	-125	25
+1359020116	Retarder Speed At Point 4 (Quantum)	8031.875	0	28
+1359020117	Percent Torque At Point 4 (Quantum)	125	-125	25
+1359020118	Retarder Speed At Peak Torque Point 5 (Quantum)	8031.875	0	28
+1359020119	Reference Retarder Torque (Quantum)	64255	0	24
+1359020120	Percent Torque At Peak Torque Point 5 (Quantum)	125	0	25
+1359020121	Engine Percent Torque At Idle Point 1 (Quantum)	125	0	25
+1359020122	Engine Percent Torque At Point 2 (Quantum)	125	0	25
+1359020123	Engine Percent Torque At Point 3 (Quantum)	125	0	25
+1359020124	Engine Percent Torque At Point 4 (Quantum)	125	0	25
+1359020125	Engine Percent Torque At Point 5 (Quantum)	125	0	25
+1359020126	Engine Reference Engine Torque (Quantum)	64255	0	24
+1359020127	Engine Maximum Momentary Engine Override Speed Point 7 (Quantum)	8031.875	0	28
+1359020128	Engine Maximum Momentary Engine Override Time Limit (Quantum)	255	0	29
+1359020129	Engine Requested Speed Control Range Lower Limit (Quantum)	2500	0	28
+1359020130	Engine Requested Speed Control Range Upper Limit (Quantum)	2500	0	28
+1359020131	Engine Requested Torque Control Range Lower Limit (Quantum)	125	0	25
+1359020132	Engine Requested Torque Control Range Upper Limit (Quantum)	125	0	25
+1359020133	Driver Alert Mode (Quantum)	1	0	33
+1359020134	A/C High Pressure Fan Switch (Quantum)	1	0	33
+1359020135	Engine Wait To Start Lamp (Quantum)	1	0	33
+1359020136	Engine Protection Shutdown Timer State (Quantum)	1	0	33
+1359020137	Engine Protection Shutdown Override (Quantum)	1	0	33
+1359020138	Engine Protection Shutdown Approaching (Quantum)	1	0	33
+1359020139	Engine Protection Timer System Configuration (Quantum)	1	0	33
+1359020140	Total Power Takeoff Hours (Quantum)	210554060.75	0	7
+1359020141	Trip Fuel (Quantum)	2105540607.5	0	14
+1359020142	Total Fuel Used (Quantum)	2105540607.5	0	14
+1359020143	Maximum Vehicle Speed Limit (Quantum)	250	0	11
+1359020144	Fuel Temperature (Quantum)	210	-40	5
+1359020145	Extended Crankcase Blow-By Pressure (Quantum)	12.5	0	9
+1359020146	Power Takeoff Set Speed (Quantum)	8031.875	0	28
+1359020147	Remote Pto Variable Speed Control Switch (Quantum)	1	0	33
+1359020148	Pto Enable Switch (Quantum)	1	0	33
+1359020149	Pto Accelerate Switch (Quantum)	1	0	33
+1359020150	Pto Resume Switch (Quantum)	1	0	33
+1359020151	Pto Coast/Decelerate Switch (Quantum)	1	0	33
+1359020152	Pto Set Switch (Quantum)	1	0	33
+1359020153	Wheel Base Vehicle Speed (Quantum)	250.996	0	11
+1359020154	Clutch Switch (Quantum)	1	0	33
+1359020155	Brake Switch (Quantum)	1	0	33
+1359020156	Cruise Control Active (Quantum)	1	0	33
+1359020157	Cruise Control Accelerate Switch (Quantum)	1	0	33
+1359020158	Cruise Control Resume Switch (Quantum)	1	0	33
+1359020159	Fuel Rate (Quantum)	3212.75	0	13
+1359020160	Instantaneous Fuel Economy (Quantum)	125.5	0	15
+1359020161	Average Fuel Economy (Quantum)	125.5	0	15
+1359020162	Ambient Air Temperature (Quantum)	1735	-273	5
+1359020163	Boost Pressure (Quantum)	500	0	9
+1359020164	Battery Potential (Voltage) Switched (Quantum)	3212.75	0	31
+1359020165	Water In Fuel Indicator (Quantum)	1	0	33
+1359020166	Engine Torque Mode (Quantum)	14	0	33
+1359020167	Freeze Frame Length (Quantum)	255	0	33
+1359020168	Diagnostic Trouble Code (Quantum)	0	0	33
+1359020169	Engine Torque Mode (Quantum)	14	0	33
+1359020170	Boost (Quantum)	500	0	9
+1359020171	Engine Speed (Quantum)	8031.875	0	28
+1359020172	Engine Percent Load (Quantum)	125	0	25
+1359020173	Engine Coolant Temperature (Quantum)	210	-40	5
+1359020174	Vehicle Speed (Quantum)	250.996	0	11
+1359020175	Ecm Run Time (Quantum)	4294967295	0	29
+1359020176	Fault Index (Quantum)	65535	0	33
+1359020177	Road Speed (Quantum)	250.996	0	11
+1359020178	Filtered Engine Speed (Quantum)	8031.875	0	28
+1359020179	J1587 Percent Load (Quantum)	160.6375	0	25
+1359020180	Commanded Throttle (Quantum)	160.6375	0	25
+1359020181	Engine State (Quantum)	65535	0	33
+1359020182	Fueling Control State (Quantum)	65535	0	33
+1359020183	Final Fueling (Quantum)	65535	0	33
+1359020184	Final Timing State (Quantum)	65535	0	33
+1359020185	Final Timing (Quantum)	65535	0	33
+1359020186	Boost Pressure (Quantum)	8031.875	0	9
+1359020187	Coolant Temperature (Quantum)	1735	-273	5
+1359020188	Intake Manifold Temperature (Quantum)	1735	-273	5
+1359020189	Oil Temperature (Quantum)	1735	-273	5
+1359020190	Oil Pressure (Quantum)	8031.875	0	9
+1359020191	System Switch Status (Quantum)	65535	0	33
+1359020192	System Switch Status 2 (Quantum)	65535	0	33
+1359020193	Engine Run Time (Quantum)	4294967295	0	29
+1359020194	Battery Voltage (Quantum)	3212.75	0	31
+1359020195	Injected Fueling (Quantum)	65535	0	33
+1359020196	Fuel Rail Pressure (Quantum)	8031.875	0	9
+1359020197	Coolant Pressure (Quantum)	8031.875	0	9
+1359020198	Fuel Error Front Metered Fuel Error (Quantum)	2105540607.5	0	14
+1359020199	Fuel Error Rear Metered Fuel Error (Quantum)	2105540607.5	0	14
+1359020200	Active Troubles Code (Quantum)	240	0	33
+1359020201	Previously Active Diagnostic Trouble Code (Quantum)	240	0	33
+1359020202	Obd Compliance (Quantum)	240	0	33
+1359020203	Continuously Monitored Systems Status (Quantum)	255	0	33
+1359020204	Non-Continuously Monitored Systems Support (Quantum)	65535	0	33
+1359020205	Non-Continuously Monitored Systems Status (Quantum)	65535	0	33
+1359020206	Engine Speed At Idle Point 1 (Quantum)	8031.875	0	28
+1359020207	Engine Speed At Point 2 (Quantum)	8031.875	0	28
+1359020208	Engine Speed At Point 3 (Quantum)	8031.875	0	28
+1359020209	Engine Speed At Point 4 (Quantum)	8031.875	0	28
+1359020210	Engine Speed At Point 5 (Quantum)	8031.875	0	28
+1359020211	Engine Speed At High Idle Point 6 (Quantum)	8031.875	0	28
+1359020212	Engine Has Shutdown By Protection System (Quantum)	1	0	33
+1359020213	Idle Shutdown Timer State (Quantum)	1	0	33
+1359020214	Idle Shutdown Timer Override (Quantum)	1	0	33
+1359020215	Engine Has Shutdown By System (Quantum)	1	0	33
+1359020216	Idle Shutdown Timer Function (Quantum)	1	0	33
+1359020217	Software Identification (Quantum)	0	0	33
+1359020218	Fan Drive State (Quantum)	14	0	33
+1359020219	Test Identifier (Quantum)	64	1	33
+1359020220	Test Value (Quantum)	64255	0	33
+1359020221	Test Id (Quantum)	0	0	33
+1359020222	Seconds (Quantum)	59.75	0	29
+1359020223	Minutes (Quantum)	59	0	0
+1359020224	Hours (Quantum)	23	0	7
+1359020225	Day (Quantum)	31.75	0.25	0
+1359020226	Month (Quantum)	12	1	0
+1359020227	Year (Quantum)	2235	1985	0
+1359020228	Cruise Control High Set Limit Speed (Quantum)	250	0	11
+1359020229	Cruise Control Low Set Limit Speed (Quantum)	250	0	11
+1359020230	Cruise Control Enable Switch (Quantum)	1	0	33
+1359020231	Cruise Control Coast Switch (Quantum)	1	0	33
+1359020232	Cruise Control Set Switch (Quantum)	1	0	33
+1359020233	Cruise Control State (Quantum)	6	0	33
+1359020234	Pto State (Quantum)	30	0	33
+1359020235	Engine Test Mode Switch (Quantum)	1	0	33
+1359020236	Idle Decrement Switch (Quantum)	1	0	33
+1359020237	Idle Increment Switch (Quantum)	1	0	33
+1359020238	Retarder Torque Mode (Quantum)	14	0	33
+1359020239	Vehicle Identification Vin (Quantum)	0	0	33
+1359022033	Eng Ecu Temp (Quantum) (Eng2)	273	-273	5
+1359022034	Accelerator Pedal Position 1 (Quantum) (Eng2)	100	0	25
+1359022035	Percent Load At Current Speed (Quantum) (Eng2)	125	0	25
+1359022036	Engine Oil Pressure (Quantum) (Quantum) (Eng2)	1000	0	9
+1359022037	Crankcase Pressure (Quantum) (Eng2)	251.99	-250	9
+1359022038	Intake Manifold Boost Pressure 1 (Quantum) (Eng2)	8031.875	0	9
+1359022039	Intake Manifold Boost Pressure 2 (Quantum) (Eng2)	8031.875	0	9
+1359022040	Intake Manifold Temperature (Quantum) (Eng2)	210	-40	5
+1359022041	Intake Manifold 2 Temperature (Quantum) (Eng2)	210	-40	5
+1359022042	Intake Manifold 3 Temperature (Quantum) (Eng2)	210	-40	5
+1359022043	Intake Manifold 4 Temperature (Quantum) (Eng2)	210	-40	5
+1359022044	Barometric Pressure (Quantum) (Quantum) (Eng2)	125	0	9
+1359022045	Coolant Pressure (Quantum) (Quantum) (Eng2)	500	0	9
+1359022046	Engine Coolant Temperature (Quantum) (Eng2)	210	-40	5
+1359022047	Injector Metering Rail Pressure (Quantum) (Eng2)	251	0	22
+1359022048	Electrical Potential (Voltage) Ecm 00 (Quantum) (Eng2)	3212.75	0	31
+1359022049	Electrical Potential (Voltage) Ecm 01 (Quantum) (Eng2)	3212.75	0	31
+1359022050	Electrical Potential (Voltage) Ecm 90 (Quantum) (Eng2)	3212.75	0	31
+1359022051	Engine Exhaust Gas Port 1 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022052	Engine Exhaust Gas Port 2 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022053	Engine Exhaust Gas Port 3 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022054	Engine Exhaust Gas Port 4 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022055	Engine Exhaust Gas Port 5 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022056	Engine Exhaust Gas Port 6 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022057	Engine Exhaust Gas Port 7 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022058	Engine Exhaust Gas Port 8 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022059	Engine Exhaust Gas Port 9 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022060	Engine Exhaust Gas Port 10 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022061	Engine Exhaust Gas Port 11 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022062	Engine Exhaust Gas Port 12 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022063	Engine Exhaust Gas Port 13 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022064	Engine Exhaust Gas Port 14 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022065	Engine Exhaust Gas Port 15 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022066	Engine Exhaust Gas Port 16 Lb Temp (Quantum) (Eng2)	1735	-273	5
+1359022067	Engine Exhaust Gas Port 1 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022068	Engine Exhaust Gas Port 2 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022069	Engine Exhaust Gas Port 3 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022070	Engine Exhaust Gas Port 4 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022071	Engine Exhaust Gas Port 5 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022072	Engine Exhaust Gas Port 6 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022073	Engine Exhaust Gas Port 7 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022074	Engine Exhaust Gas Port 8 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022075	Engine Exhaust Gas Port 9 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022076	Engine Exhaust Gas Port 10 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022077	Engine Exhaust Gas Port 11 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022078	Engine Exhaust Gas Port 12 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022079	Engine Exhaust Gas Port 13 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022080	Engine Exhaust Gas Port 14 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022081	Engine Exhaust Gas Port 15 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022082	Engine Exhaust Gas Port 16 Rb Temp (Quantum) (Eng2)	1735	-273	5
+1359022083	Exhaust Gas Temperature (Quantum) (Eng2)	1735	-273	5
+1359022084	Engine Oil Temperature (Quantum) (Eng2)	1735	-273	5
+1359022085	Engine Speed (Quantum) (Eng2)	8031.875	0	28
+1359022086	Total Engine Hours Ecm 00 (Quantum) (Eng2)	210554060.75	0	7
+1359022087	Total Engine Hours Ecm 01 (Quantum) (Eng2)	210554060.75	0	7
+1359022088	Total Engine Hours Ecm 90 (Quantum) (Eng2)	210554060.75	0	7
+1359022089	Retarder Enable - Shift Assist Switch (Quantum) (Eng2)	1	0	33
+1359022090	Retarder Enable - Brake Assist Switch (Quantum) (Eng2)	1	0	33
+1359022091	Actual Retarder - Percent Torque (Quantum) (Eng2)	125	-125	25
+1359022092	Remote Accelerator Enable Switch (Quantum) (Eng2)	1	0	33
+1359022093	Engine Retarder Selection (Quantum) (Eng2)	100	0	25
+1359022094	Accelerator Pedal Kick Down Switch (Quantum) (Eng2)	1	0	33
+1359022095	Accelerator Pedal Low Idle Switch (Quantum) (Eng2)	1	0	33
+1359022096	Remote Accelerator Pedal Position (Quantum) (Eng2)	100	0	25
+1359022097	Drivers Demand Engine-Percent Torque (Quantum) (Eng2)	125	-125	25
+1359022098	Actual Engine - Percent Torque (Quantum) (Eng2)	125	-125	25
+1359022099	Estimated Percent Fan Speed (Quantum) (Eng2)	100	0	25
+1359022100	Total Idle Fuel Used (Quantum) (Eng2)	2105540607.5	0	14
+1359022101	Total Idle Hours (Quantum) (Eng2)	210554060.75	0	7
+1359022102	Nominal Friction - Percent Torque (Quantum) (Eng2)	125	-125	25
+1359022103	Engine Desired Operating Speed (Quantum) (Eng2)	8031.875	0	28
+1359022104	Engine Operating Speed Asymmetry Adjustment (Quantum) (Eng2)	250	0	0
+1359022105	Trip Distance (Quantum) (Eng2)	526385151.9	0	8
+1359022106	Total Vehicle Distance (Quantum) (Eng2)	526385151.9	0	8
+1359022107	Retarder Location (Quantum) (Eng2)	0	0	0
+1359022108	Retarder Type (Quantum) (Eng2)	0	0	0
+1359022109	Retarder Control Method (Quantum) (Eng2)	0	0	0
+1359022110	Retarder Speed At Idle Point 1 (Quantum) (Eng2)	8031.875	0	28
+1359022111	Percent Torque At Idle Point 1 (Quantum) (Eng2)	125	-125	25
+1359022112	Maximum Retarder Speed Point 2 (Quantum) (Eng2)	8031.875	0	28
+1359022113	Percent Torque At Max Speed Point 2 (Quantum) (Eng2)	125	-125	25
+1359022114	Retarder Speed At Point 3 (Quantum) (Eng2)	8031.875	0	28
+1359022115	Percent Torque At Point 3 (Quantum) (Eng2)	125	-125	25
+1359022116	Retarder Speed At Point 4 (Quantum) (Eng2)	8031.875	0	28
+1359022117	Percent Torque At Point 4 (Quantum) (Eng2)	125	-125	25
+1359022118	Retarder Speed At Peak Torque Point 5 (Quantum) (Eng2)	8031.875	0	28
+1359022119	Reference Retarder Torque (Quantum) (Eng2)	64255	0	24
+1359022120	Percent Torque At Peak Torque Point 5 (Quantum) (Eng2)	125	0	25
+1359022121	Engine Percent Torque At Idle Point 1 (Quantum) (Eng2)	125	0	25
+1359022122	Engine Percent Torque At Point 2 (Quantum) (Eng2)	125	0	25
+1359022123	Engine Percent Torque At Point 3 (Quantum) (Eng2)	125	0	25
+1359022124	Engine Percent Torque At Point 4 (Quantum) (Eng2)	125	0	25
+1359022125	Engine Percent Torque At Point 5 (Quantum) (Eng2)	125	0	25
+1359022126	Engine Reference Engine Torque (Quantum) (Eng2)	64255	0	24
+1359022127	Engine Maximum Momentary Engine Override Speed Point 7 (Quantum) (Eng2)	8031.875	0	28
+1359022128	Engine Maximum Momentary Engine Override Time Limit (Quantum) (Eng2)	255	0	29
+1359022129	Engine Requested Speed Control Range Lower Limit (Quantum) (Eng2)	2500	0	28
+1359022130	Engine Requested Speed Control Range Upper Limit (Quantum) (Eng2)	2500	0	28
+1359022131	Engine Requested Torque Control Range Lower Limit (Quantum) (Eng2)	125	0	25
+1359022132	Engine Requested Torque Control Range Upper Limit (Quantum) (Eng2)	125	0	25
+1359022133	Driver Alert Mode (Quantum) (Eng2)	1	0	33
+1359022134	A/C High Pressure Fan Switch (Quantum) (Eng2)	1	0	33
+1359022135	Engine Wait To Start Lamp (Quantum) (Eng2)	1	0	33
+1359022136	Engine Protection Shutdown Timer State (Quantum) (Eng2)	1	0	33
+1359022137	Engine Protection Shutdown Override (Quantum) (Eng2)	1	0	33
+1359022138	Engine Protection Shutdown Approaching (Quantum) (Eng2)	1	0	33
+1359022139	Engine Protection Timer System Configuration (Quantum) (Eng2)	1	0	33
+1359022140	Total Power Takeoff Hours (Quantum) (Eng2)	210554060.75	0	7
+1359022141	Trip Fuel (Quantum) (Eng2)	2105540607.5	0	14
+1359022142	Total Fuel Used (Quantum) (Eng2)	2105540607.5	0	14
+1359022143	Maximum Vehicle Speed Limit (Quantum) (Eng2)	250	0	11
+1359022144	Fuel Temperature (Quantum) (Eng2)	210	-40	5
+1359022145	Extended Crankcase Blow-By Pressure (Quantum) (Quantum) (Eng2)	12.5	0	9
+1359022146	Power Takeoff Set Speed (Quantum) (Eng2)	8031.875	0	28
+1359022147	Remote Pto Variable Speed Control Switch (Quantum) (Eng2)	1	0	33
+1359022148	Pto Enable Switch (Quantum) (Eng2)	1	0	33
+1359022149	Pto Accelerate Switch (Quantum) (Eng2)	1	0	33
+1359022150	Pto Resume Switch (Quantum) (Eng2)	1	0	33
+1359022151	Pto Coast/Decelerate Switch (Quantum) (Eng2)	1	0	33
+1359022152	Pto Set Switch (Quantum) (Eng2)	1	0	33
+1359022153	Wheel Base Vehicle Speed (Quantum) (Eng2)	250.996	0	11
+1359022154	Clutch Switch (Quantum) (Eng2)	1	0	33
+1359022155	Brake Switch (Quantum) (Eng2)	1	0	33
+1359022156	Cruise Control Active (Quantum) (Eng2)	1	0	33
+1359022157	Cruise Control Accelerate Switch (Quantum) (Eng2)	1	0	33
+1359022158	Cruise Control Resume Switch (Quantum) (Eng2)	1	0	33
+1359022159	Fuel Rate (Quantum) (Quantum) (Eng2)	3212.75	0	13
+1359022160	Instantaneous Fuel Economy (Quantum) (Eng2)	125.5	0	15
+1359022161	Average Fuel Economy (Quantum) (Eng2)	125.5	0	15
+1359022162	Ambient Air Temperature (Quantum) (Eng2)	1735	-273	5
+1359022163	Boost Pressure (Quantum) (Eng2)	500	0	9
+1359022164	Battery Potential (Voltage) Switched (Quantum) (Eng2)	3212.75	0	31
+1359022165	Water In Fuel Indicator (Quantum) (Eng2)	1	0	33
+1359022166	Engine Torque Mode (Quantum) (Eng2)	14	0	33
+1359022167	Freeze Frame Length (Quantum) (Eng2)	255	0	33
+1359022168	Diagnostic Trouble Code (Quantum) (Eng2)	0	0	33
+1359022169	Engine Torque Mode (Quantum) (Eng2)	14	0	33
+1359022170	Boost (Quantum) (Eng2)	500	0	9
+1359022171	Engine Speed (Quantum) (Eng2)	8031.875	0	28
+1359022172	Engine Percent Load (Quantum) (Eng2)	125	0	25
+1359022173	Engine Coolant Temperature (Quantum) (Eng2)	210	-40	5
+1359022174	Vehicle Speed (Quantum) (Eng2)	250.996	0	11
+1359022175	Ecm Run Time (Quantum) (Eng2)	4294967295	0	29
+1359022176	Fault Index (Quantum) (Eng2)	65535	0	33
+1359022177	Road Speed (Quantum) (Eng2)	250.996	0	11
+1359022178	Filtered Engine Speed (Quantum) (Eng2)	8031.875	0	28
+1359022179	J1587 Percent Load (Quantum) (Eng2)	160.6375	0	25
+1359022180	Commanded Throttle (Quantum) (Eng2)	160.6375	0	25
+1359022181	Engine State (Quantum) (Eng2)	65535	0	33
+1359022182	Fueling Control State (Quantum) (Eng2)	65535	0	33
+1359022183	Final Fueling (Quantum) (Eng2)	65535	0	33
+1359022184	Final Timing State (Quantum) (Eng2)	65535	0	33
+1359022185	Final Timing (Quantum) (Eng2)	65535	0	33
+1359022186	Boost Pressure (Quantum) (Eng2)	8031.875	0	9
+1359022187	Coolant Temperature (Quantum) (Eng2)	1735	-273	5
+1359022188	Intake Manifold Temperature (Quantum) (Eng2)	1735	-273	5
+1359022189	Oil Temperature (Quantum) (Eng2)	1735	-273	5
+1359022190	Oil Pressure (Quantum) (Eng2)	8031.875	0	9
+1359022191	System Switch Status (Quantum) (Eng2)	65535	0	33
+1359022192	System Switch Status 2 (Quantum) (Eng2)	65535	0	33
+1359022193	Engine Run Time (Quantum) (Eng2)	4294967295	0	29
+1359022194	Battery Voltage (Quantum) (Eng2)	3212.75	0	31
+1359022195	Injected Fueling (Quantum) (Eng2)	65535	0	33
+1359022196	Fuel Rail Pressure (Quantum) (Eng2)	8031.875	0	9
+1359022197	Coolant Pressure (Quantum) (Quantum) (Eng2)	8031.875	0	9
+1359022198	Fuel Error Front Metered Fuel Error (Quantum) (Eng2)	2105540607.5	0	14
+1359022199	Fuel Error Rear Metered Fuel Error (Quantum) (Eng2)	2105540607.5	0	14
+1359022200	Active Troubles Code (Quantum) (Eng2)	240	0	33
+1359022201	Previously Active Diagnostic Trouble Code (Quantum) (Eng2)	240	0	33
+1359022202	Obd Compliance (Quantum) (Eng2)	240	0	33
+1359022203	Continuously Monitored Systems Status (Quantum) (Eng2)	255	0	33
+1359022204	Non-Continuously Monitored Systems Support (Quantum) (Eng2)	65535	0	33
+1359022205	Non-Continuously Monitored Systems Status (Quantum) (Eng2)	65535	0	33
+1359022206	Engine Speed At Idle Point 1 (Quantum) (Eng2)	8031.875	0	28
+1359022207	Engine Speed At Point 2 (Quantum) (Eng2)	8031.875	0	28
+1359022208	Engine Speed At Point 3 (Quantum) (Eng2)	8031.875	0	28
+1359022209	Engine Speed At Point 4 (Quantum) (Eng2)	8031.875	0	28
+1359022210	Engine Speed At Point 5 (Quantum) (Eng2)	8031.875	0	28
+1359022211	Engine Speed At High Idle Point 6 (Quantum) (Eng2)	8031.875	0	28
+1359022212	Engine Has Shutdown By Protection System (Quantum) (Eng2)	1	0	33
+1359022213	Idle Shutdown Timer State (Quantum) (Eng2)	1	0	33
+1359022214	Idle Shutdown Timer Override (Quantum) (Eng2)	1	0	33
+1359022215	Engine Has Shutdown By System (Quantum) (Eng2)	1	0	33
+1359022216	Idle Shutdown Timer Function (Quantum) (Eng2)	1	0	33
+1359022217	Software Identification (Quantum) (Eng2)	0	0	33
+1359022218	Fan Drive State (Quantum) (Eng2)	14	0	33
+1359022219	Test Identifier (Quantum) (Eng2)	64	1	33
+1359022220	Test Value (Quantum) (Eng2)	64255	0	33
+1359022221	Test Id (Quantum) (Eng2)	0	0	33
+1359022222	Seconds (Quantum) (Eng2)	59.75	0	29
+1359022223	Minutes (Quantum) (Eng2)	59	0	0
+1359022224	Hours (Quantum) (Eng2)	23	0	7
+1359022225	Day (Quantum) (Eng2)	31.75	0.25	0
+1359022226	Month (Quantum) (Eng2)	12	1	0
+1359022227	Year (Quantum) (Eng2)	2235	1985	0
+1359022228	Cruise Control High Set Limit Speed (Quantum) (Eng2)	250	0	11
+1359022229	Cruise Control Low Set Limit Speed (Quantum) (Eng2)	250	0	11
+1359022230	Cruise Control Enable Switch (Quantum) (Eng2)	1	0	33
+1359022231	Cruise Control Coast Switch (Quantum) (Eng2)	1	0	33
+1359022232	Cruise Control Set Switch (Quantum) (Eng2)	1	0	33
+1359022233	Cruise Control State (Quantum) (Eng2)	6	0	33
+1359022234	Pto State (Quantum) (Eng2)	30	0	33
+1359022235	Engine Test Mode Switch (Quantum) (Eng2)	1	0	33
+1359022236	Idle Decrement Switch (Quantum) (Eng2)	1	0	33
+1359022237	Idle Increment Switch (Quantum) (Eng2)	1	0	33
+1359022238	Retarder Torque Mode (Quantum) (Eng2)	14	0	33
+1359022239	Vehicle Identification Vin (Quantum) (Eng2)	0	0	33
+1359024033	Lube Oil Filter Restriction (Cense)	125	0	9
+1359024034	Post-Filter Oil Pressure (Cense)	1000	0	9
+1359024035	Pre-Filter Oil Pressure (Cense)	1000	0	9
+1359024036	Compressor Inlet Temperature 2 (LBR) (Cense)	1735	-273	5
+1359024037	Exhaust Port Temperature 1 (Cense)	1735	-273	5
+1359024038	Exhaust Port Temperature 2 (Cense)	1735	-273	5
+1359024039	Exhaust Port Temperature 3 (Cense)	1735	-273	5
+1359024040	Exhaust Port Temperature 4 (Cense)	1735	-273	5
+1359024041	Exhaust Port Temperature 5 (Cense)	1735	-273	5
+1359024042	Exhaust Port Temperature 6 (Cense)	1735	-273	5
+1359024043	Exhaust Port Temperature 7 (Cense)	1735	-273	5
+1359024044	Exhaust Port Temperature 8 (Cense)	1735	-273	5
+1359024045	Exhaust Port Temperature 9 (Cense)	1735	-273	5
+1359024046	Exhaust Port Temperature 10 (Cense)	1735	-273	5
+1359024047	Exhaust Port Temperature 11 (Cense)	1735	-273	5
+1359024048	Exhaust Port Temperature 12 (Cense)	1735	-273	5
+1359024049	Exhaust Port Temperature 13 (Cense)	1735	-273	5
+1359024050	Exhaust Port Temperature 14 (Cense)	1735	-273	5
+1359024051	Exhaust Port Temperature 15 (Cense)	1735	-273	5
+1359024052	Exhaust Port Temperature 16 (Cense)	1735	-273	5
+1359024053	Exhaust Port Temperature 17 (Cense)	1735	-273	5
+1359024054	Exhaust Port Temperature 18 (Cense)	1735	-273	5
+1359024055	Right Bank #8 (Cense) (Deprecated/Removed)	1735	-273	5
+1359024056	Right Bank #9 (Cense) (Deprecated/Removed)	1735	-273	5
+1359024057	Intake Manifold Temperature 2 (Cense)	210	-40	5
+1359024058	Intake Manifold Temperature 3 (Cense)	210	-40	5
+1359024059	Intake Manifold Temperature 4 (Cense)	210	-40	5
+1359024060	Intake Manifold Temperature 5 (Cense)	210	-40	5
+1359024061	Intake Manifold Temperature 6 (Cense)	210	-40	5
+1359024062	Boost Pressure 3 (RB) (Cense)	8031.875	0	9
+1359024063	Engine Oil Temperature (Cense)	1735	-273	5
+1359024064	Average Exhaust Port Temperature (Cense)	1735	-273	5
+1359024065	Engine ECU Temperature (Cense)	273	-273	5
+1359024066	Intake Manifold Temperature (LBF) (Quantum)	210	-40	5
+1359024067	% Accelerator Pedal (Quantum)	100	0	25
+1359024068	% Engine Load (Quantum)	125	0	25
+1359024069	% Torque (Cense) (Deprecated/Removed) 	125	-125	25
+1359024070	Engine Speed (Quantum)	8031.875	0	28
+1359024071	Engine Coolant Temperature (Quantum)	210	-40	5
+1359024072	Fuel Temperature (Quantum)	210	-40	5
+1359024073	Coolant Pressure (Quantum)	500	0	9
+1359024074	Crankcase Pressure (Quantum)	12.5	0	9
+1359024075	Engine Oil Rifle Pressure (Quantum)	1000	0	9
+1359024076	Injector Metering Rail Pressure (Cense) (Deprecated/Removed) 	251	0	9
+1359024077	Barometric Pressure (Quantum)	125	0	9
+1359024078	Boost Pressure 1 (LB) (Cense) (Deprecated/Removed)	8031.875	0	9
+1359024079	Battery Potential (Quantum)	3212.75	0	31
+1359024080	Injector Timing Rail Pressure (Cense) (Deprecated/Removed) 	251	0	9
+1359024081	Fuel Rate (Quantum)	3212.75	0	13
+1359026033	Lube Oil Filter Restriction (Cense) (Eng2)	125	0	9
+1359026034	Post-Filter Oil Pressure (Cense) (Eng2)	1000	0	9
+1359026035	Pre-Filter Oil Pressure (Cense) (Eng2)	1000	0	9
+1359026036	Compressor Inlet Temperature 2 (LBR) (Cense) (Eng2)	1735	-273	5
+1359026037	Exhaust Port Temperature 1 (Cense) (Eng2)	1735	-273	5
+1359026038	Exhaust Port Temperature 2 (Cense) (Eng2)	1735	-273	5
+1359026039	Exhaust Port Temperature 3 (Cense) (Eng2)	1735	-273	5
+1359026040	Exhaust Port Temperature 4 (Cense) (Eng2)	1735	-273	5
+1359026041	Exhaust Port Temperature 5 (Cense) (Eng2)	1735	-273	5
+1359026042	Exhaust Port Temperature 6 (Cense) (Eng2)	1735	-273	5
+1359026043	Exhaust Port Temperature 7 (Cense) (Eng2)	1735	-273	5
+1359026044	Exhaust Port Temperature 8 (Cense) (Eng2)	1735	-273	5
+1359026045	Exhaust Port Temperature 9 (Cense) (Eng2)	1735	-273	5
+1359026046	Exhaust Port Temperature 10 (Cense) (Eng2)	1735	-273	5
+1359026047	Exhaust Port Temperature 11 (Cense) (Eng2)	1735	-273	5
+1359026048	Exhaust Port Temperature 12 (Cense) (Eng2)	1735	-273	5
+1359026049	Exhaust Port Temperature 13 (Cense) (Eng2)	1735	-273	5
+1359026050	Exhaust Port Temperature 14 (Cense) (Eng2)	1735	-273	5
+1359026051	Exhaust Port Temperature 15 (Cense) (Eng2)	1735	-273	5
+1359026052	Exhaust Port Temperature 16 (Cense) (Eng2)	1735	-273	5
+1359026053	Exhaust Port Temperature 17 (Cense) (Eng2)	1735	-273	5
+1359026054	Exhaust Port Temperature 18 (Cense) (Eng2)	1735	-273	5
+1359026055	Right Bank #8 (Cense) (Eng2) (Deprecated/Removed)	1735	-273	5
+1359026056	Right Bank #9 (Cense) (Eng2) (Deprecated/Removed)	1735	-273	5
+1359026057	Intake Manifold Temperature 2 (Cense) (Eng2)	210	-40	5
+1359026058	Intake Manifold Temperature 3 (Cense) (Eng2)	210	-40	5
+1359026059	Intake Manifold Temperature 4 (Cense) (Eng2)	210	-40	5
+1359026060	Intake Manifold Temperature 5 (Cense) (Eng2)	210	-40	5
+1359026061	Intake Manifold Temperature 6 (Cense) (Eng2)	210	-40	5
+1359026062	Boost Pressure 3 (RB) (Cense) (Eng2)	8031.875	0	9
+1359026063	Engine Oil Temperature (Cense) (Eng2)	1735	-273	5
+1359026064	Average Exhaust Port Temperature (Cense) (Eng2)	1735	-273	5
+1359026065	Engine ECU Temperature (Cense) (Eng2)	273	-273	5
+1359026066	Intake Manifold Temperature (LBF) (Quantum) (Eng2)	210	-40	5
+1359026067	% Accelerator Pedal (Quantum) (Eng2)	100	0	25
+1359026068	% Engine Load (Quantum) (Eng2)	125	0	25
+1359026069	% Torque (Cense) (Eng2) (Deprecated/Removed)	125	-125	25
+1359026070	Engine Speed (Quantum) (Eng2)	8031.875	0	28
+1359026071	Engine Coolant Temperature (Quantum) (Eng2)	210	-40	5
+1359026072	Fuel Temperature (Quantum) (Eng2)	210	-40	5
+1359026073	Coolant Pressure (Quantum) (Eng2)	500	0	9
+1359026074	Crankcase Pressure (Quantum) (Eng2)	12.5	0	9
+1359026075	Engine Oil Rifle Pressure (Quantum) (Eng2)	1000	0	9
+1359026076	Injector Metering Rail Pressure (Cense) (Eng2) (Deprecated/Removed)	251	0	9
+1359026077	Barometric Pressure (Quantum) (Eng2)	125	0	9
+1359026078	Boost Pressure 1 (LB) (Cense) (Eng2) (Deprecated/Removed) 	8031.875	0	9
+1359026079	Battery Potential (Quantum) (Eng2)	3212.75	0	31
+1359026080	Injector Timing Rail Pressure (Cense) (Eng2) (Deprecated/Removed)	251	0	9
+1359026081	Fuel Rate (Quantum) (Eng2)	3212.75	0	13

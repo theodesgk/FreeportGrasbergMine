@@ -1,0 +1,21 @@
+Fatigue Status Plant Off	1510014977
+Fatigue Status Level 1	1510014978
+Fatigue Status Level 2	1510014979
+Fatigue Status Level 3	1510014980
+Fatigue Status Level 4	1510014981
+Fatigue Status No Level	1510014982
+Fatigue Status Cap Off	1510014983
+Fatigue Status No Cap	1510014984
+Fatigue Status Start Period	1510014985
+Fatigue Status Recently On	1510014986
+Fatigue Status Offline	1510014987
+Fatigue Status Incorrect Fit	1510014988
+Fatigue Status Level 3 Plus	1510014989
+Park Brake Enabled	1510014990
+Park Brake Disabled	1510014991
+USB Plugged	1510014992
+USB Unplugged	1510014993
+OEM Interface TimeOut	1510080480
+OEM Interface Normal	1510080481
+Driver Interface TimeOut	1510080482
+Driver Interface Normal	1510080483

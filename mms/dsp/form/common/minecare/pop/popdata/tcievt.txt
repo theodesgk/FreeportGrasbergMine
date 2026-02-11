@@ -1,0 +1,1288 @@
+OEM Interface Timeout	184680416
+OEM Interface Normal	184680417
+Driver Interface Timeout	184680418
+Driver Interface Normal	184680419
+PSC Comm Status (Off)	184614913
+PSC Comm Status (On)	184614914
+PSC TCI Comm Link (Off)	184614915
+PSC TCI Comm Link (On)	184614916
+Inverter Status Ok	184614917
+Inverter 2 Disabled	184614918
+Inverter 1 Disabled	184614919
+Both Inverters Disabled	184614920
+Drive Status Normal	184614922
+Retard And Propel Restricted	184614923
+Propel Restricted	184614924
+Inverter 1 Disabled & Speed Limited	184614925
+Inverter 2 Disabled & Speed Limited	184614926
+HP Restricted	184614927
+Speed Limited	184614928
+Ok - Not Active	184614929
+Load Box Mode	184614930
+Service BRK > 8mph	184614932
+Version Event	184614933
+Ground Fault	184615113
+Excessive Alternator Field Transiet	184615213
+GF Cutout Switch Active	184615313
+Propel Lockout Switch Is Active	184615314
+Propel Lockout Switch Error	184615315
+Drive System Over Temp - AFSE	184615413
+Drive System Over Temp - Auxiliary Inverter	184615414
+Drive System Over Temp - Auxiliary Phase Control	184615415
+Drive System Over Temp - Alternator	184615416
+Drive System Over Temp - Left Stator	184615417
+Drive System Over Temp - Left Rotor	184615418
+Drive System Over Temp - Right Stator	184615419
+Drive System Over Temp - Right Rotor	184615420
+Drive System Over Temp - Chopper GTO	184615421
+Drive System Over Temp - Chopper Diode	184615422
+Drive System Over Temp - Left GTO Module	184615423
+Drive System Over Temp - Left Diode	184615424
+Drive System Over Temp - Right GTO Module	184615425
+Drive System Over Temp - Right Diode	184615426
+Drive System Over Temp - Rectifier Diode	184615427
+Both INV Comms Failed	184615513
+DC Link Over Voltage - Not In Retard	184615713
+DC Link Over Voltage - In Retard	184615714
+DC Link Over Voltage - Instantaneous	184615715
+Alt Field Over Current - With Persistence	184615813
+Alt Field Over Current - Instantaneous	184615814
+Alt Field Over Current - With Persistence Due To Low Eng Speed	184615815
+Retard Lever - Voltage Too High	184616013
+Retard Lever - Voltage Too Low	184616014
+Retard Pedal Bad - Voltage Too High	184616113
+Retard Pedal Bad - Voltage Too Low	184616114
+Midvolt Test Failure	184616213
+FB143 Or FB173 Analog I/O Snsr Fault - Alt Field Amps	184616313
+FB143 Or FB173 Analog I/O Snsr Fault - Link Amps	184616314
+FB143 Or FB173 Analog I/O Snsr Fault - Load Box Ampx	184616315
+FB143 Or FB173 Analog I/O Snsr Fault - 3 Phase Alt Volts	184616316
+FB143 Or FB173 Analog I/O Snsr Fault - Alt Field Volts	184616317
+FB143 Or FB173 Analog I/O Snsr Fault - PSC Link Volts	184616322
+FB143 Or FB173 Analog I/O Snsr Fault - INV1 Link Volts	184616323
+FB143 Or FB173 Analog I/O Snsr Fault - INV2 Link Volts	184616324
+FB143 Or FB173 Analog I/O Snsr Fault - Ground Fault	184616325
+FB143 Or FB173 Analog I/O Snsr Fault - Gain Check	184616326
+FB143 Or FB173 Analog I/O Snsr Fault - Ground Fault Current	184616327
+FB143 Or FB173 Analog I/O Snsr Fault - ATOC Ma	184616328
+FB143 Or FB173 Analog I/O Snsr Fault - Blower 1 Amps	184616333
+FB143 Or FB173 Analog I/O Snsr Fault - Blower 2 Amps	184616334
+FB143 / FB173 Analog I/O Snsr Fault (Restrictive)	184616413
+FB143 / FB173 Analog I/O Snsr Fault (Restrictive) - Link Amp	184616414
+PSC CPU Card Fault (FB147 Or FB174) - Task 1	184616513
+PSC CPU Card Fault (FB147 Or FB174) - Task 2	184616514
+PSC CPU Card Fault (FB147 Or FB174) - Task 3	184616515
+PSC CPU Card Fault (FB147 Or FB174) - Task 4	184616516
+PSC CPU Card Fault (FB147 Or FB174) - Task 5	184616517
+PSC CPU Card Fault (FB147 Or FB174) - Task 6	184616518
+PSC CPU Card Fault (FB147 Or FB174) - Flash CRC	184616519
+PSC CPU Card Fault (FB147 Or FB174) - Maint Task	184616521
+PSC CPU Card Fault (FB147 Or FB174) - Excess Timeouts	184616522
+PSC CPU Card Fault (FB147 Or FB174) - Invalid Pointers	184616523
+PSC CPU Card Fault (FB147 Or FB174) - Bram CRC	184616524
+Sys Dig Card Fault (17FB104)	184616613
+Sys Analog Card Fault (17FB143) - Analog Card No Response	184616713
+Sys Analog Card Fault (17FB143) - Analog Card Timeout	184616714
+Riding Retard Pedal	184616813
+Lo Speed Hi Torque Timeout	184616913
+TCI Comm Fault	184617013
+TCI Comm Fault - Bad Tick	184617014
+TCI Comm Fault - Bad CRC	184617015
+TCI Comm Fault - Overflow	184617016
+TCI Comm Fault - Bad Start	184617017
+TCI Comm Fault - Bad Stop	184617018
+Persistent TCI Comm Fault	184617113
+Tertiery Over Current	184617213
+PSC GE Config File Incorrect - Conf File Not Loaded	184617313
+PSC GE Config File Incorrect - Conf File CRC Computation Failed	184617314
+PSC GE Config File Incorrect - Wrong Conf File Version Loaded	184617315
+PSC GE Config File Incorrect - Overspeed Settings Incorrect	184617316
+Blower System - Not Ok Or No Speed Feedback	184617413
+Blower System - Numerous Shutdowns	184617414
+Filter Cap Overpressure - Inverter 1	184617513
+Filter Cap Overpressure - Inverter 2	184617514
+Panel Not Connected At Power Up - CNFB	184617613
+Panel Not Connected At Power Up - CNI/CNX (3500 HP 150 Ton)	184617614
+Panel Not Connected At Power Up - Aux Blower Connector	184617615
+Direction Command Mismatch	184617813
+GF Contactor	184617913
+Battery Boost Circuit - GFR Failed To Open	184618013
+Battery Boost Circuit - GFR Failed To Close R1 Open Or AFSE SCR3 Fail	184618014
+Battery Boost Circuit - SCR3 Failed	184618015
+RP Contactor - RP1	184618113
+RP Contactor - RP2	184618114
+RP Contactor - RP3	184618115
+RP Or Choppper HP Balance	184618213
+Rtrd Pwr CRCt - Detected High Chopper % On (RP2 Not Closed)	184618313
+Rtrd Pwr CRCt - Over Volt Protection Active (RP2 Not Closed)	184618314
+Rtrd Pwr CRCt - Link Discharging Error (RP2 Not Closed)	184618315
+Retard Pwr Circuit - Choppers Stuck On	184618316
+Engine Speed Snsr Input	184618413
+GY19 Grid Blower - Grid Blower No. 1 Stalled	184618513
+GY19 Grid Blower - Grid Blower No. 2 Stalled	184618514
+GY19 Grid Blower - Grid Blower No. 1 Open	184618515
+GY19 Grid Blower - Grid Blower No. 2 Open	184618516
+GY19 Grid Blower - Blower 1 & 2 Delta Too Large	184618517
+Logic Power Supply - 5 Vdc Positive	184618613
+Logic Power Supply - 15 Vdc Positive	184618614
+Logic Power Supply - 15 Vdc Negative	184618615
+Snsr Power Supply - Volts 24 Positive	184618913
+Snsr Power Supply - Volts 24 Negative	184619013
+Direction Requested During Self-Load	184619113
+Drive System Battery Low 	184619213
+Drive System Battery High	184619313
+Chopper Open Circuit - Chopper 1	184619413
+Chopper Open Circuit - Chopper 2	184619414
+Retard Short Circuit	184619513
+Engine Stall	184619613
+Shorted Dc Link Or Batt Boost Failure During Startup	184619713
+Communication Card Fault - Card Reset Unexpectedly	184619813
+Communication Card Fault - Loss Of Comm - Vehicle-MBS CAN	184619814
+Communication Card Fault - Loss Of Comm - BMI CAN	184619815
+Communication Card Fault - Loss Of Comm - Engine CAN	184619816
+Communication Card Fault - Loss Of Comm - KAC CAN	184619817
+Tach Left Rear - Zero While Truck Mov	184620013
+Tach Left Rear - High While Truck Stop	184620014
+Tach Right Rear - Zero While Truck Mov 	184620113
+Tach Right Rear - High While Truck Stop	184620114
+Tach Left Front - Zero While Truck Mov	184620213
+Tach Left Front - High While Truck Stop	184620214
+Tach Left Front - Numerous Bad Pulses While Moving	184620215
+Tach Right Front - Zero While Truck Mov	184620313
+Tach Right Front - High While Truck Stop	184620314
+Tach Right Front - Numerous Bad Pulses While Moving	184620315
+Front Wheel Speed Snsrs	184620413
+Inv Software Version Incorrect - Inv #1	184620513
+Inv Software Version Incorrect - Inv #2	184620514
+Inv 1 Software Type Incorrect	184620613
+Inv 1 Software Type Incorrect	184620614
+Inv 2 Software Type Incorrect	184620713
+Inv 2 Software Type Incorrect	184620714
+Traction Motor Overspeed 	184621013
+Engine Load Signal - Analog Eng Load Signal Below Minimum	184621213
+Engine Load Signal - Analog Eng Load Signal Above Maximum	184621214
+Engine Load Signal - Pwm Eng Load Signal Failed Low	184621215
+Engine Load Signal - Pwm Eng Load Signal Failed High	184621216
+Eng Load Signal - Pwm Eng Load Signal Failed - Incorrect Period	184621217
+Eng Load Signal - Pwm Eng Load Signal - Inconsistant Readings	184621218
+Analogue Input Range Check - Afse Temp Snsr 	184621413
+Analogue Input Range Check - Aux Inv Temp Sens	184621414
+Analogue Input Range Check - Aux Pc Temp Snsr	184621415
+Analogue Input Range Check - Alternator 	184621416
+Analogue Input Range Check - Left Stator	184621417
+Analogue Input Range Check - Left Rotor	184621418
+Analogue Input Range Check - Right Stator	184621419
+Analogue Input Range Check - Right Rotor	184621420
+Analogue Input Range Check - Chopper Gto	184621421
+Analogue Input Range Check - Chopper Diode	184621422
+Analogue Input Range Check - Left Gto Module	184621423
+Analogue Input Range Check - Left Diode	184621424
+Analogue Input Range Check - Right Gto Module	184621425
+Analogue Input Range Check - Right Diode	184621426
+Analogue Input Range Check - Rectifier Diode	184621427
+Link Capacitance Low Caution	184621913
+Link Capacitance Low Warning	184622013
+Ground Fault Circt Problem	184622113
+Snsr Offset Reading High - Link I Snsr	184622213
+Inv1 Comm Failed - No Communication Inv #1	184622313
+Inv1 Comm Failed - Inv #1 Customer Option Bit	184622314
+Inv2 Comm Failed - No Communication Inv #2	184622413
+Inv2 Comm Failed - Inv #2 Customer Option Bit	184622414
+FB173 Card Failure (No Power) - Speed Fpga 	184622513
+FB173 Card Failure (No Power) - Speed While Running	184622514
+FB173 Card Failure (No Power) - Alternator Fpga	184622515
+FB173 Card Failure (No Power) - Ucontroller Download	184622516
+FB173 Card Failure (No Power) - Slow Task Timer	184622517
+FB173 Card Failure (No Power) - Medium Task Timer	184622518
+FB173 Card Failure (No Power) - Fast Task Timer	184622519
+FB173 Card Failure (No Power) - Failed Diode Task Timer	184622520
+FB173 Card Failure (No Power) - A3P Reading	184622521
+FB173 Card Failure (No Power) - Alt Fpga Timed Out	184622522
+FB173 Card Failure (No Power) - Ucontroller Reset	184622523
+Inv Failed Vi Test	184622613
+Inv Background Comm Failure - Inv #1	184622713
+Inv Background Comm Failure - Inv #2	184622714
+Inv Background Comm Failure - Inv1 - Could Not Set Op Word	184622715
+Inv Background Comm Failure - Inv2 - Could Not Set Op Word	184622716
+Inv Background Comm Failure - Inv1 - Could Not Set App Id	184622717
+Inv Background Comm Failure - Inv2 - Could Not Set App Id	184622718
+FB173 Card Failure (No Propel) - Speed Fpga 	184622813
+FB173 Card Failure (No Propel) - Speed While Running	184622814
+FB173 Card Failure (No Propel) - Alternator Fpga	184622815
+FB173 Card Failure (No Propel) - Ucontroller Download	184622816
+FB173 Card Failure (No Propel) - Slow Task Timer	184622817
+FB173 Card Failure (No Propel) - Medium Task Timer	184622818
+FB173 Card Failure (No Propel) - Fast Task Timer	184622819
+FB173 Card Failure (No Propel) - Failed Diode Task Timer	184622820
+FB173 Card Failure (No Propel) - A3P Reading	184622821
+Alt FPGA Timed Out 84 Control Power Switch Feedback	184622822
+Control Power Switch	184623313
+Auxiliary Cooling Fault - Auxrpmfb Input Ool 	184623414
+Auxiliary Cooling Fault - Auxrpm FB/Cmd Mismatch	184623415
+Auxiliary Cooling Fault - Abnormal Shutdown	184623416
+Hp Low	184623613
+Hp Limit - Engine May Stall	184623713
+Hp Limit - Engine May Stall	184623714
+Engine Speed Cmd - Rpm Does Not Match Command	184623814
+Inv 1 Is Cutout	184624013
+Inv 2 Is Cutout	184624113
+Illegal Limp Mode	184624313
+Bad Bram Battery	184624413
+Unexpected System Reset	184624513
+Ptu Data Store Command 	184624713
+Software Event 	184624813
+Inv 1 CPU Card [FB138/172/179]	184624913
+Inv 1 CPU Card [FB138/172/179] - Pattern Had Bad A B C Output	184624935
+Inv 1 CPU Card [FB138/172/179] - Expoltn Interrupt Not Running	184624941
+Inv 1 CPU Card [FB138/172/179] - Vector Interrupt Not Running	184624942
+Inv 1 CPU Card [FB138/172/179] - I Tic Interrupt Not Running	184624943
+Inv 1 CPU Card [FB138/172/179] - Non Maskable Inter Occurred	184624944
+Inv 1 CPU Card [FB138/172/179] - Background Not Running 	184624946
+Inv 1 CPU Card [FB138/172/179] - Pga Could Not Be Programmed	184624947
+Inv 1 CPU Card [FB138/172/179] - Pga Initialization Failed	184624950
+Inv 1 CPU Card [FB138/172/179] - Pga D/P Did Not Initialize	184624951
+Inv 1 CPU Card [FB138/172/179] - Parameter Not Found	184624952
+Inv 1 CPU Card [FB138/172/179] - Parameter Multiply Defined	184624953
+Inv 1 CPU Card [FB138/172/179] - Cam Isr Is Not Running	184624960
+Inv 1 CPU Card [FB138/172/179] - Peak Smpl Isr Is Not Running	184624961
+Inv 1 CPU Card [FB138/172/179] - Cam Ram Failed	184624962
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase A+ Cmd Not Off	184625013
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase A- Cmd Not Off	184625014
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase B+ Cmd Not Off	184625015
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase B- Cmd Not Off	184625016
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase C+ Cmd Not Off	184625017
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase C- Cmd Not Off	184625018
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase A+ Cmd Not On	184625019
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase A- Cmd Not On	184625020
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase B+ Cmd Not On	184625021
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase B- Cmd Not On	184625022
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase C+ Cmd Not On	184625023
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase C- Cmd Not On	184625024
+Inv 1 CPU Card [FB1xx] (NR) - Chppr 1 Intrrpt Not Running	184625025
+Inv 1 CPU Card [FB1xx) - Chppr 2 Intrrpt Not Running	184625026
+Inv 1 CPU Card [FB138/172/179] (NR) - Inv CPU Was Reset	184625028
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase A2+ Cmd Not Off	184625029
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase A2- Cmd Not Off	184625030
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase B2+ Cmd Not Off	184625031
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase B2- Cmd Not Off	184625032
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase C2+ Cmd Not Off	184625033
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase C2- Cmd Not Off	184625034
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase A2+ Cmd Not On	184625035
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase A2- Cmd Not On	184625036
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase B2+ Cmd Not On	184625037
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase B2- Cmd Not On	184625038
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase C2+ Cmd Not On	184625039
+Inv 1 CPU Card [FB138/172/179] (NR) - Phase C2- Cmd Not On	184625040
+Inv 1 I/O Card [FB134/172/179] 	184625113
+Inv 1 I/O Card [FB134/172/179] - Logic Ground Not Ok 	184625117
+Inv 1 I/O Card [FB134/172/179] - Could Not Access I/O Card	184625120
+Inv 1 I/O Card [FB134/172/179] - A/D Conversion Did Not Work	184625121
+Inv 1 I/O Card [FB1xx] - Rtrd On Too Long While Not Braking	184625122
+Inv 1 I/O Card [FBxx] - PTF A Overcurrent Signal Too Long	184625123
+Inv 1 I/O Card [FB1xx] - PTF B Overcurrent Signal Too Long	184625124
+Inv 1 I/O Card [FB1xx] - PTF C Overcurrent Signal Too Long	184625125
+Inv 1 I/O Card [FB134/172/179] - Current Ic Not Zero At Start Up	184625126
+Inv 1 I/O Card [FB134/172/179] - C Phase Current Too High	184625127
+Inv 1 I/O Card [FB1xx] - Protective Turn Off Circuit Not Ok	184625128
+Inv 1 I/O Card [FB1xx] - Phase A And B Currents Do Not Match	184625129
+Inv 1 I/O Card [FB1xx] - Phase A And C Currents Do Not Match	184625130
+Inv 1 I/O Card [FB1xx] - Phase A2 And B2 Currents Do Not Match	184625131
+Inv 1 I/O Card [FB1xx] - Phase A2 And C2 Currents Do Not Match	184625132
+Inv 1 I/O Card [FB134/172/179](NR) - Chopper 1 Cmd Not Off 	184625213
+Inv 1 I/O Card [FB134/172/179](NR) - Chopper 2 Cmd Not Off	184625214
+Inv 1 I/O Card [FB134/172/179](NR) - Chopper 1 Cmd Not On	184625215
+Inv 1 I/O Card [FB134/172/179](NR) - Chopper 2 Cmd Not On	184625216
+Inv 1 I/O Card [FB134/172/179](NR) - Volt Scale A Out Of Range	184625217
+Inv 1 I/O Card [FB134/172/179](NR) - Volt Scale B Out Of Range	184625218
+Inv 1 I/O Card [FB1xx](NR) - Link Volt Scale Out Of Range	184625219
+Inv 1 I/O Card [FB1xx](NR) - Current Scale A Out Of Range	184625220
+Inv 1 I/O Card [FB1xx](NR) - Current Scale B Out Of Range	184625221
+Inv 1 I/O Card [FB1xx](NR) - Input V Scale Out Of Range	184625222
+Inv 1 I/O Card [FB1xx](NR) - Hi Freq On VCO Vtest Chan	184625223
+Inv 1 I/O Card [FB1xx](NR) - Lo Freq On VCO Vtest Chan	184625224
+Inv 1 I/O Card [FB134/172/179](NR) - Hi Freq On Ia Channel	184625225
+Inv 1 I/O Card [FB134/172/179](NR) - Hi Freq On Ib Channel	184625226
+Inv 1 I/O Card [FB1xx](NR) - Hi Freq On Vco Link Channel	184625227
+Inv 1 I/O Card [FB134/172/179](NR) - Hi Freq On Vco In Channel	184625228
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ia Too Positive	184625229
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ia Too Negative	184625230
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ib Too Positive	184625231
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ib Too Negative	184625232
+Inv 1 I/O Card [FB134/172/179](NR) - Link Voltage Too High	184625233
+Inv 1 I/O Card [FB134/172/179](NR) - In Filter Voltage Too High	184625234
+Inv 1 I/O Card [FB1xx](NR) - Hi Freq On Vco Db Chopper 	184625235
+Inv 1 I/O Card [FB134/172/179](NR) - Db Chopper Volt Too Hi	184625236
+Inv 1 I/O Card [FB1xx](NR) - Hi Freq On Vco Va Channel	184625237
+Inv 1 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Vb Channel	184625238
+Inv 1 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Vc Channel	184625239
+Inv 1 I/O Card [FB134/172/179](NR) - Va Voltage Too High	184625240
+Inv 1 I/O Card [FB134/172/179](NR) - Vb Voltage Too High	184625241
+Inv 1 I/O Card [FB134/172/179](NR) - Volt Scale C Out Of Range	184625242
+Inv 1 I/O Card [FB134/172/179](NR) - Vc Voltage Too High	184625243
+Inv 1 I/O Card [FB134/172/179](NR) - Hep Loadv Too Hi	184625244
+Inv 1 I/O Card [FB134/172/179](NR) - Hep Loadv Scale Flt	184625245
+Inv 1 I/O Card [FB1xx](NR) - Hi Freq On Vco Ic1 Channel 	184625246
+Inv 1 I/O Card [FB134](NR) - Lo Freq On Vco Ic1 Channel	184625247
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ic1 Too High	184625248
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ic1 Too Low	184625249
+Inv 1 I/O Card [FB134](NR) - Hi Freq On Vco Hep Va Chan	184625250
+Inv 1 I/O Card [FB134](NR) - Lo Freq On Vco Hep Va Chan	184625251
+Inv 1 I/O Card [FB134](NR) - Hi Freq On Vco Hep Vb Chan	184625252
+Inv 1 I/O Card [FB134](NR) - Lo Freq On Vco Hep Vb Chan	184625253
+Inv 1 I/O Card [FB134](NR) - Hi Freq On Vco Hep Vc Chan	184625254
+Inv 1 I/O Card [FB134](NR) - Lo Freq On Vco Hep Vc Chan	184625255
+Inv 1 I/O Card [FB134](NR) - Hep Va Voltage Too High	184625256
+Inv 1 I/O Card [FB134](NR) - Hep Va Voltage Too Low	184625257
+Inv 1 I/O Card [FB134/172/179](NR) - Hep Vb Voltage Too High	184625258
+Inv 1 I/O Card [FB134/172/179](NR) - Hep Vb Voltage Too Low	184625259
+Inv 1 I/O Card [FB134/172/179](NR) - Hep Vc Voltage Too High	184625260
+Inv 1 I/O Card [FB134/172/179](NR) - Hep Vc Voltage Too Low	184625261
+Inv 1 I/O Card [FB134/172/179](NR) - Current Scale C! OORange	184625262
+Inv 1 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Ia2 Chan	184625263
+Inv 1 I/O Card [FB134/172/179](NR) - Lo Freq On Vco Ia2 Chan	184625264
+Inv 1 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Ib2 Chan	184625265
+Inv 1 I/O Card [FB134/172/179](NR) - Lo Freq On Vco Ib2 Chan	184625266
+Inv 1 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Ic2 Chan	184625267
+Inv 1 I/O Card [FB134/172/179](NR) - Lo Freq On Vco Ic2 Chan	184625268
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ia2 Too High	184625269
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ia2 Too Low	184625270
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ib2 Too High	184625271
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ib2 Too Low	184625272
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ic2 Too High	184625273
+Inv 1 I/O Card [FB134/172/179](NR) - Current Ic2 Too Low	184625274
+Inv 1 I/O Card [FB134/172/179](NR) - Current Scale A2 OORange	184625275
+Inv 1 I/O Card [FB134/172/179](NR) - Current Scale B2 OORange	184625276
+Inv 1 I/O Card [FB134/172/179](NR) - Current Scale C2 OORange	184625277
+Inv 1 Fiber Optic Card - Power Supply Monitor	184625313
+Inv 1 Fiber Optic Card - Disabled 	184625314
+Inv 1 Fiber Optic Card - Enabled And No Direction	184625315
+Inv 1 Power Supply - +5 Volt Not In Tolerance	184625413
+Inv 1 Power Supply - +15 Volt Not In Tolerance	184625414
+Inv 1 Power Supply - -15 Volt Not In Tolerance	184625415
+Inv 1 Power Supply - +24 Volt Not In Tolerance	184625418
+Inv 1 Power Supply - -24 Volt Not In Tolerance	184625419
+Inv 1 Power Supply - +24-2 Volt Not In Tolerance	184625420
+Inv 1 Power Supply - -24-2 Volt Not In Tolerance	184625421
+Inv 1 Dc Power Wiring - Dc Power Connection Open	184625513
+Inv 1 Dc Power Wiring - Link And Phase Voltage Mismatch	184625514
+Gdps1 Power Failure - Gate Drive Power Supply Off	184625613
+Gdps1 Power Failure - Gate Drive Pwr Supply Off With Enable	184625614
+Gdps1 Power Failure - Mult Phase Modules Not Off With Enable	184625615
+Inv 1 Link Voltage Snsr	184625813
+Inv 1 Input Filter Voltage Snsr - Filter Voltage Outside Limits	184626013
+Inv 1 Input Filter Voltage Snsr - Hep Voltage Outside Limits	184626014
+Inv 1 Inv General - Phase A+ Current Out Too High	184626213
+Inv 1 Inv General - Phase A- Current Out Too High	184626214
+Inv 1 Inv General - Phase B+ Current Out Too High	184626215
+Inv 1 Inv General - Phase B- Current Out Too High	184626216
+Inv 1 Inv General - Phase C+ Current Out Too High 	184626217
+Inv 1 Inv General - Phase C- Current Out Too High	184626218
+Inv 1 Inv General - Phase A+ Current Out Too Low	184626219
+Inv 1 Inv General - Phase A- Current Out Too Low	184626220
+Inv 1 Inv General - Phase B+ Current Out Too Low	184626221
+Inv 1 Inv General - Phase B- Current Out Too Low	184626222
+Inv 1 Inv General - Phase C+ Current Out Too Low	184626223
+Inv 1 Inv General - Phase C- Current Out Too Low	184626224
+Inv 1 Inv General - Phase A Current Not Zero	184626225
+Inv 1 Inv General - Phase B Current Not Zero	184626227
+Inv 1 Inv General - Phase A Volt Too High While Phase A- Is On	184626229
+Inv 1 Inv General - Phase A Volt Too Low While Phase A+ Is On	184626230
+Inv 1 Inv General - Phase A Volt Too High While Phase B- Is On 	184626231
+Inv 1 Inv General - Phase A Volt Too Low While Phase B+ Is On 	184626232
+Inv 1 Inv General - Phase A Volt Too High While Phase C- Is On	184626233
+Inv 1 Inv General - Phase A Volt Too Low While Phase C+ Is On	184626234
+Inv 1 Inv General - Phase B Volt Too High While Phase A- Is On	184626235
+Inv 1 Inv General - Phase B Volt Too Low While Phase A+ Is On	184626236
+Inv 1 Inv General - Phase B Volt Too High While Phase B- Is On	184626237
+Inv 1 Inv General - Phase B Volt Too Low While Phase B+ Is On	184626238
+Inv 1 Inv General - Phase B Volt Too High While Phase B- Is On	184626239
+Inv 1 Inv General - Phase B Volt Too Low While Phase C+ Is On	184626240
+Inv 1 Inv General - Phase C Volt Too High While Phase A- Is On	184626241
+Inv 1 Inv General - Phase C Volt Too Low While Phase A+ Is On	184626242
+Inv 1 Inv General - Phase C Volt Too High While Phase B- Is On	184626243
+Inv 1 Inv General - Phase C Volt Too Low While Phase B+ Is On	184626244
+Inv 1 Inv General - Phase C Volt Too High While Phase C- Is On	184626245
+Inv 1 Inv General - Phase C Volt Too Low While Phase C+ Is On	184626246
+Inv 1 Inv General - Phase A Fault Current When Phase A+ On 	184626247
+Inv 1 Inv General - Phase A Fault Current When Phase A- On 	184626248
+Inv 1 Inv General - Phase B Fault Current When Phase B+ On 	184626249
+Inv 1 Inv General - Phase B Fault Current When Phase B- On 	184626250
+Inv 1 Inv General - Phase C Fault Current When Phase C+ On 	184626251
+Inv 1 Inv General - Phase C Fault Current When Phase C- On 	184626252
+Inv 1 Inv General - Phase A Voltage High With All Gtos Off 	184626260
+Inv 1 Inv General - Phase A Voltage Low With All Gtos Off 	184626261
+Inv 1 Inv General - Phase B Voltage High With All Gtos Off 	184626262
+Inv 1 Inv General - Phase B Voltage Low With All Gtos Off	184626263
+Inv 1 Inv General - Phase C Voltage High With All Gtos Off	184626264
+Inv 1 Inv General - Phase C Voltage Low With All Gtos Off	184626265
+Inv 1 Inv General - Possible Phase To Dc+ Short 	184626266
+Inv 1 Inv General - Possible Phase To Dc- Short	184626267
+Inv 1 Inv General - Link Volts Above Ptl	184626272
+Inv 1 Inv General - Phase A Negative Current Low (Unbalance) 	184626282
+Inv 1 Inv General - Phase B Negative Current Low (Unbalance)	184626283
+Inv 1 Inv General - Phase C Negative Current Low (Unbalance)	184626284
+Inv 1 Inv General - Phase A Negative Current High (Unbalance)	184626285
+Inv 1 Inv General - Phase B Negative Current High (Unbalance)	184626286
+Inv 1 Inv General - Phase C Negative Current High (Unbalance)	184626287
+Inv 1 Inv General - Phase A Positive Current Low (Unbalance)	184626288
+Inv 1 Inv General - Phase B Positive Current Low (Unbalance)	184626289
+Inv 1 Inv General - Phase C Positive Current Low (Unbalance)	184626290
+Inv 1 Inv General - Phase A Positive Current High (Unbalance)	184626291
+Inv 1 Inv General - Phase B Positive Current High (Unbalance)	184626292
+Inv 1 Inv General - Phase C Positive Current High (Unbalance)	184626293
+Inv 1 Inv General - No Current While Running	184626294
+Inv 1 Inv General - Excessive Regen While In Motoring	184626295
+Inv 1 Inv General - Phase C Current Out Not Zero	184626296
+Inv 1 Inv General - Phase A2 Current Out Not Zero	184626297
+Inv 1 Inv General - Phase B2 Current Out Not Zero	184626298
+Inv 1 Inv General - Phase C2 Current Out Not Zero	184626299
+Inv 1 (NR) Inv General 	184626313
+Inv 1 (NR) Inv General - Low Frequency On Ia Channel 	184626334
+Inv 1 (NR) Inv General - Low Frequency On Ib Channel	184626336
+Inv 1 (NR) Inv General - Low Frequency On Vco Link Filter	184626338
+Inv 1 (NR) Inv General - Low Frequency On Vco In Filter	184626340
+Inv 1 (NR) Inv General - Link Voltage Too Low	184626350
+Inv 1 (NR) Inv General - Input Filter Voltage Too Low	184626352
+Inv 1 (NR) Inv General - Low Freq On Vco Chopper Channel	184626358
+Inv 1 (NR) Inv General - Chopper Voltage Too Low	184626360
+Inv 1 (NR) Inv General - Low Frequency On Vco Va Channel 	184626362
+Inv 1 (NR) Inv General - Low Frequency On Vco Vb Channel	184626364
+Inv 1 (NR) Inv General - Low Frequency On Vco Vc Channel	184626366
+Inv 1 (NR) Inv General - Va Voltage Too Low	184626368
+Inv 1 (NR) Inv General - Vb Voltage Too Low	184626370
+Inv 1 (NR) Inv General - Vc Voltage Too Low	184626373
+Inv 1 (NR) Inv General - Hep Voltage Too Low	184626375
+Inv 1 (NR) Inv General - Out Of Sat Cluster	184626378
+Inv 1 System - No Direction Called For	184626413
+Inv 1 System - Calling Forward Moving Backward	184626414
+Inv 1 System - Calling Backward Moving Foward	184626415
+Inv 1 System - Input Voltage Too Low	184626416
+Inv 1 System - Link Filter Voltage Too Low	184626417
+Inv 1 System - No High Speed Data From PSC	184626418
+Inv 1 System - Link Voltage Not Ok	184626419
+Inv 1 System - Line Current Not Ok	184626420
+Inv 1 System - System Communication Tic Not Updating	184626421
+Inv 1 System - Chopper Junction Too Hot	184626422
+Inv 1 System - Inv Junction Too Hot	184626423
+Inv 1 System - Vi Test Incomplete	184626424
+Inv 1 Phase A+/Phase A- - Phase A Module Did Not Turn Off	184626513
+Inv 1 Phase A+/Phase A- - Overcurrent On Phase A	184626514
+Inv 1 Phase A+/Phase A- - Igbt Saturation Flt On A+	184626516
+Inv 1 Phase A+/Phase A- - Igbt Saturation Flt On A-	184626517
+Inv 1 Phase A+ - Phase A+ Module Did Not Turn Off	184626613
+Inv 1 Phase A+ - Phase A+ Feedback Not Off	184626614
+Inv 1 Phase A+ - Phase A+ Module Failed 	184626615
+Inv 1 Phase A+ - Phae A+ And A- Modules On	184626616
+Inv 1 Phase A+ - Phase A+ Feedback Not On	184626617
+Inv 1 Phase A+ - Phase A+ Module Did Not Turn On	184626618
+Inv 1 Phase A+ - Igbt Ps Fault On A+	184626619
+Inv 1 Phase A+ (NR)  	184626713
+Inv 1 Phase A+ (NR) - Phase A+ Not Off With Enable/Dc Volts	184626718
+Inv 1 Phase A+ (NR) - A+ On/Off Edge Delay Out Of Range	184626719
+Inv 1 Phase A+ (NR) - A- On/Off Edge Delay Out Of Range	184626720
+Inv 1 Phase A- - Phase A- Module Did Not Turn Off	184626813
+Inv 1 Phase A- - Phase A- Feedback Not Off	184626814
+Inv 1 Phase A- - Phase A- Module Failed 	184626815
+Inv 1 Phase A- - Phase A+ And A- Modules On	184626816
+Inv 1 Phase A- - Phase A- Feedback Not On	184626817
+Inv 1 Phase A- - Phase A- Module Did Not Turn On	184626818
+Inv 1 Phase A- - Igbt Ps Fault On A-	184626819
+Inv 1 Phase A- (NR) 	184626913
+Inv 1 Phase A- (NR) - Phase A- Not Off With Enable/Dc Volts	184626918
+Inv 1 Phase A- (NR) - A- On/Off Edge Delay Out Of Range	184626919
+Inv 1 Phase A Current - Phase A Current Snsr Failed	184627013
+Inv 1 Phase A Current - Current Ia Not Zero At Startup	184627014
+Inv 1 Phase A Current - A Phase Current Too High	184627015
+Inv 1 Phase A Voltage - Phase A Voltage Snsr Failed	184627213
+Inv 1 Phase A Voltage - Phase A Voltage Too High	184627214
+Inv 1 Phase B+/Phase B- - Phase B Module Did Not Turn Off	184627413
+Inv 1 Phase B+/Phase B- - Overcurrent On Phase B	184627414
+Inv 1 Phase B+/Phase B- - Igbt Saturation Flt On B+	184627416
+Inv 1 Phase B+/Phase B- - Igbt Saturation Flt On B-	184627417
+Inv 1 Phase B+ - Phase B+ Module Did Not Turn Off	184627513
+Inv 1 Phase B+ - Phase B+ Feedback Not Off	184627514
+Inv 1 Phase B+ - Phase B+ Module Failed 	184627515
+Inv 1 Phase B+ - Phase B+ And B- Modules On	184627516
+Inv 1 Phase B+ - Phase B+ Feedback Not On	184627517
+Inv 1 Phase B+ - Phase B+ Module Did Not Turn On	184627518
+Inv 1 Phase B+ - Igbt Ps Fault On B+	184627519
+Inv 1 Phase B Positive (+) Non-Restrictive	184627613
+Inv 1 Phase B+ (NR) - Phase B+ Not Off With Enable/Dc Volts	184627618
+Inv 1 Phase B+ (NR) - B+ On/Off Edge Delay Out Of Range	184627619
+Inv 1 Phase B+ (NR) - B- On/Off Edge Delay Out Of Range	184627620
+Inv 1 Phase B- - Phase B- Module Did Not Turn Off	184627713
+Inv 1 Phase B- - Phase B- Feedback Not Off	184627714
+Inv 1 Phase B- - Phase B- Module Failed 	184627715
+Inv 1 Phase B- - Phase B+ And B- Modules On	184627716
+Inv 1 Phase B- - Phase B- Feedback Not On	184627717
+Inv 1 Phase B- - Phase B- Module Did Not Turn On	184627718
+Inv 1 Phase B- - Igbt Ps Fault On B-	184627719
+Inv 1 Phase B Negative (-) Non-Restrictive	184627813
+Inv 1 Phase B- (NR) - Phase B- Not Off With Enable/Dc Volts	184627818
+Inv 1 Phase B- (NR) - B- On/Off Edge Delay Out Of Range	184627819
+Inv 1 Phase B Current - Phase B Current Snsr Failed	184627913
+Inv 1 Phase B Current - Current Ib Not Zero At Startup	184627914
+Inv 1 Phase B Current - B Phase Current Too High	184627915
+Inv 1 Phase B Voltage - Phase B Voltage Snsr Failed	184628113
+Inv 1 Phase B Voltage - Phase B Voltage Too High	184628114
+Inv 1 Phase C+/Phase C- - Phase C Module Did Not Turn Off	184628313
+Inv 1 Phase C+/Phase C- - Overcurrent On Phase C	184628314
+Inv 1 Phase C+/Phase C- - Igbt Saturation Flt On C+	184628316
+Inv 1 Phase C+/Phase C- - Igbt Saturation Flt On C-	184628317
+Inv 1 Phase C+ - Phase C+ Module Did Not Turn Off	184628413
+Inv 1 Phase C+ - Phase C+ Feedback Not Off	184628414
+Inv 1 Phase C+ - Phase C+ Module Failed 	184628415
+Inv 1 Phase C+ - Phase C+ And C- Modules On	184628416
+Inv 1 Phase C+ - Phase C+ Feedback Not On	184628417
+Inv 1 Phase C+ - Phase C+ Module Did Not Turn On	184628418
+Inv 1 Phase C+ - Igbt Ps Fault On C+	184628419
+Inv 1 Phase C Positive (+) Non-Restrictive	184628513
+Inv 1 Phase C+ (NR) - Phase C+ Not Off With Enable/Dc Volts	184628518
+Inv 1 Phase C+ (NR) - C+ On/Off Edge Delay Out Of Range	184628519
+Inv 1 Phase C+ (NR) - C- On/Off Edge Delay Out Of Range	184628520
+Inv 1 Phase C- - Phase C- Module Did Not Turn Off	184628613
+Inv 1 Phase C- - Phase C- Feedback Not Off	184628614
+Inv 1 Phase C- - Phase C- Module Failed 	184628615
+Inv 1 Phase C- - Phase C+ And C- Modules On	184628616
+Inv 1 Phase C- - Phase C- Feedback Not On	184628617
+Inv 1 Phase C- - Phase C- Module Did Not Turn On	184628618
+Inv 1 Phase C- - Igbt Ps Fault On C-	184628619
+Inv 1 Phase C - (NR)	184628713
+Inv 1 Phase C- (NR) - Phase C- Not Off With Enable/Dc Volts	184628718
+Inv 1 Phase C Current - Phase C Current Snsr Failed	184628813
+Inv 1 Phase C Current - C Phase Current Too High	184628815
+Inv 1 Phase C Voltage - Phase C Voltage Snsr Failed	184629013
+Inv 1 Phase C Voltage - Phase C Voltage Too High	184629014
+Inv 1 Tach 1 - Tach 1 High Rate Of Speed 	184629213
+Inv 1 Tach 1 - Tach 1 No Frequency Input	184629214
+Inv 1 Tach 1 - Tach Intermittant	184629215
+Inv 1 Tach 1 Non-Restrictive	184629313
+Inv 1 Tach 2 Restrictive	184629413
+Inv 1 Tach 2 Non-Restrictive	184629513
+Inv 1 Chopper 1 - Chopper 1 Feedback Not Off	184629713
+Inv 1 Chopper 1 - Chopper 1 Feedback Not On	184629714
+Inv 1 Chopper 1 - Chopper 1 Not Off With Dc Volts	184629719
+Inv 1 Chopper 2 - Chopper 2 Feedback Not Off	184629913
+Inv 1 Chopper 2 - Chopper 2 Feedback Not On	184629914
+Inv 1 Chopper 2 - Chopper 2 Not Off With Dc Volts	184629919
+Inv 1 Tach Differential	184630013
+Inv 1 Motor Restrictive - Motor Connection Open	184630213
+Inv 1 Motor Restrictive - Motor Connection Short	184630214
+Inv 1 Motor Non-Restrictive - Motor Rotor Temperature High	184630313
+Inv 1 Motor Non-Restrictive - Motor Stator Temperature High	184630314
+Second Load Connection Open	184630413
+Inv 1 Chopper 3 - Chopper 3 Feedback Not Off	184631013
+Inv 1 Chopper 3 - Chopper 3 Feedback Not On	184631014
+Inv 1 Chopper 3 - Chopper 3 Not Off With Dc Volts	184631015
+Inv 1 Chopper 4 - Chopper 4 Feedback Not Off	184631213
+Inv 1 Chopper 4 - Chopper 4 Feedback Not On	184631214
+Inv 1 Chopper 4 - Chopper 4 Not Off With Dc Volts	184631215
+Inv 12 Phase A2+/A2- - Phase A2 Module Did Not Turn Off	184631313
+Inv 12 Phase A2+/A2- - Overcurrent On Phase A2	184631314
+Inv 12 Phase A2+/A2- - Igbt Saturation Flt On A2+	184631316
+Inv 12 Phase A2+/A2- - Igbt Saturation Flt On A2-	184631317
+Inv 12 Phase A2+ - Phase A2+ Module Did Not Turn Off	184631413
+Inv 12 Phase A2+ - Phase A2+ Feedback Not Off	184631414
+Inv 12 Phase A2+ - Phase A2+ Module Failed 	184631415
+Inv 12 Phase A2+ - Phae A2+ And A2- Modules On	184631416
+Inv 12 Phase A2+ - Phase A2+ Feedback Not On	184631417
+Inv 12 Phase A2+ - Phase A2+ Module Did Not Turn On	184631418
+Inv 12 Phase A2+ - Igbt Ps Fault On A2+	184631419
+Inv 12 Phase A2+ (NR)	184631513
+Inv 12 Phase A2+ (NR) - Phase A2+ Not Off With Enable/Dc Volts	184631518
+Inv 12 Phase A2- - Phase A2- Module Did Not Turn Off	184631613
+Inv 12 Phase A2- - Phase A2- Feedback Not Off	184631614
+Inv 12 Phase A2- - Phase A2- Module Failed 	184631615
+Inv 12 Phase A2- - Phase A2+ And A2- Modules On	184631616
+Inv 12 Phase A2- - Phase A2- Feedback Not On	184631617
+Inv 12 Phase A2- - Phase A2- Module Did Not Turn On	184631618
+Inv 12 Phase A2- - Igbt Ps Fault On A2-	184631619
+Inv 12 Phase A2- (NR)	184631713
+Inv 12 Phase A2- (NR) - Phase A2- Not Off With Enable/Dc Volts	184631718
+Inv 12 Phase A2 Current - Phase A2 Current Snsr Failed	184631813
+Inv 12 Phase A2 Current - Current Ia2 Not Zero At Startup	184631814
+Inv 12 Phase A2 Current - A2 Phase Current Too High	184631815
+Inv 12 Phase B2+/B2- - Phase B2 Module Did Not Turn Off	184632213
+Inv 12 Phase B2+/B2- - Overcurrent On Phase B2	184632214
+Inv 12 Phase B2+/B2- - Igbt Saturation Flt On B2+	184632216
+Inv 12 Phase B2+/B2- - Igbt Saturation Flt On B2-	184632217
+Inv 12 Phase B2+ - Phase B2+ Module Did Not Turn Off	184632313
+Inv 12 Phase B2+ - Phase B2+ Feedback Not Off	184632314
+Inv 12 Phase B2+ - Phase B2+ Module Failed 	184632315
+Inv 12 Phase B2+ - Phae B2+ And B2- Modules On	184632316
+Inv 12 Phase B2+ - Phase B2+ Feedback Not On	184632317
+Inv 12 Phase B2+ - Phase B2+ Module Did Not Turn On	184632318
+Inv 12 Phase B2+ - Igbt Ps Fault On B2+	184632319
+Inv 12 Phase B2+ (NR)	184632413
+Inv 12 Phase B2+ (NR) - Phase B2+ Not Off With Enable/Dc Volts	184632418
+Inv 12 Phase B2- - Phase B2- Module Did Not Turn Off	184632513
+Inv 12 Phase B2- - Phase B2- Feedback Not Off	184632514
+Inv 12 Phase B2- - Phase B2- Module Failed 	184632515
+Inv 12 Phase B2- - Phase B2+ And B2- Modules On	184632516
+Inv 12 Phase B2- - Phase B2- Feedback Not On	184632517
+Inv 12 Phase B2- - Phase B2- Module Did Not Turn On	184632518
+Inv 12 Phase B2- - Igbt Ps Fault On B2-	184632519
+Inv 12 Phase B2- (NR)	184632613
+Inv 12 Phase B2- (NR) - Phase B2- Not Off With Enable/Dc Volts	184632618
+Inv 12 Phase B2 Current - Phase B2 Current Snsr Failed	184632713
+Inv 12 Phase B2 Current - Current Ib2 Not Zero At Startup	184632714
+Inv 12 Phase B2 Current - B2 Phase Current Too High	184632715
+Inv 12 Phase C2+/C2- - Phase C2 Module Did Not Turn Off	184633113
+Inv 12 Phase C2+/C2- - Overcurrent On Phase C2	184633114
+Inv 12 Phase C2+/C2- - Igbt Saturation Flt On C2+	184633116
+Inv 12 Phase C2+/C2- - Igbt Saturation Flt On C2-	184633117
+Inv 12 Phase C2+ - Phase C2+ Module Did Not Turn Off	184633213
+Inv 12 Phase C2+ - Phase C2+ Feedback Not Off	184633214
+Inv 12 Phase C2+ - Phase C2+ Module Failed 	184633215
+Inv 12 Phase C2+ - Phae C2+ And C2- Modules On	184633216
+Inv 12 Phase C2+ - Phase C2+ Feedback Not On	184633217
+Inv 12 Phase C2+ - Phase C2+ Module Did Not Turn On	184633218
+Inv 12 Phase C2+ - Igbt Ps Fault On C2+	184633219
+Inv 12 Phase C2+ (NR)	184633313
+Inv 12 Phase C2+ (NR) - Phase C2+ Not Off With Enable/Dc Volts	184633318
+Inv 12 Phase C2- -Phase C2- Module Did Not Turn Off	184633413
+Inv 12 Phase C2- -Phase C2- Feedback Not Off	184633414
+Inv 12 Phase C2- -Phase C2- Module Failed 	184633415
+Inv 12 Phase C2- -Phase C2+ And C2- Modules On	184633416
+Inv 12 Phase C2- -Phase C2- Feedback Not On	184633417
+Inv 12 Phase C2- -Phase C2- Module Did Not Turn On	184633418
+Inv 12 Phase C2- -Igbt Ps Fault On C2-	184633419
+Inv 12 Phase C2- (NR)	184633513
+Inv 12 Phase C2- (NR) - Phase C2- Not Off With Enable/Dc Volts	184633518
+Inv 12 Phase C2 Current - Phase C2 Current Snsr Failed	184633613
+Inv 12 Phase C2 Current - Current Ic2 Not Zero At Startup	184633614
+Inv 12 Phase C2 Current - C2 Phase Current Too High	184633615
+Inv 2 CPU Card [FB138/172/179]	184634913
+Inv 2 CPU Card [FB138/172/179] - Pattern Had Bad A B C Output	184634935
+Inv 2 CPU Card [FB138/172/179] - Extrap Interrupt Not Running	184634941
+Inv 2 CPU Card [FB138/172/179] - Vector Interrupt Not Running	184634942
+Inv 2 CPU Card [FB138/172/179] - I Tic Interrupt Not Running	184634943
+Inv 2 CPU Card [FB138\] - Non Maskable Interrupt Occurred	184634944
+Inv 2 CPU Card [FB138/172/179] - Background Not Running 	184634946
+Inv 2 CPU Card [FB138/172/179] - Pga Could Not Be Programmed	184634947
+Inv 2 CPU Card [FB138/172/179] - Pga Initialization Failed	184634950
+Inv 2 CPU Card [FB138/172/179] - Pga D/P Did Not Initialize	184634951
+Inv 2 CPU Card [FB138/172/179] - Parameter Not Found	184634952
+Inv 2 CPU Card [FB138/172/179] - Parameter Multiply Defined	184634953
+Inv 2 CPU Card [FB138/172/179] - Cam Isr Is Not Running	184634960
+Inv 2 CPU Card [FB138] - Peak Sample Isr Is Not Running	184634961
+Inv 2 CPU Card [FB138/172/179] - Cam Ram Failed	184634962
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase A+ Cmd Not Off	184635013
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase A- Cmd Not Off	184635014
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase B+ Cmd Not Off	184635015
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase B- Cmd Not Off	184635016
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase C+ Cmd Not Off	184635017
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase C- Cmd Not Off	184635018
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase A+ Cmd Not On	184635019
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase A- Cmd Not On	184635020
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase B+ Cmd Not On	184635021
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase B- Cmd Not On	184635022
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase C+ Cmd Not On	184635023
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase C- Cmd Not On	184635024
+Inv 2 CPU Card [FB138] (NR) - Chopper 1 Interrupt Not Running	184635025
+Inv 2 CPU Card [FB138] (NR) - Chopper 2 Interrupt Not Running	184635026
+Inv 2 CPU Card [FB138/172/179] (NR) - Inv CPU Was Reset	184635028
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase A2+ Cmd Not Off	184635029
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase A2- Cmd Not Off	184635030
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase B2+ Cmd Not Off	184635031
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase B2- Cmd Not Off	184635032
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase C2+ Cmd Not Off	184635033
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase C2- Cmd Not Off	184635034
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase A2+ Cmd Not On	184635035
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase A2- Cmd Not On	184635036
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase B2+ Cmd Not On	184635037
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase B2- Cmd Not On	184635038
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase C2+ Cmd Not On	184635039
+Inv 2 CPU Card [FB138/172/179] (NR) - Phase C2- Cmd Not On	184635040
+Inv 2 I/O Card [FB134/172/179] 	184635113
+Inv 2 I/O Card [FB134/172/179] - Logic Ground Not Ok 	184635117
+Inv 2 I/O Card [FB134/172/179] - Could Not Access I/O Card	184635120
+Inv 2 I/O Card [FB134/172/179] - A/D Conversion Did Not Work	184635121
+Inv 2 I/O Card [FB134/172/179] - Retard On Too Long While Not Braking	184635122
+Inv 2 I/O Card [FB134] - Phase A Overcurrent Signal Too Long	184635123
+Inv 2 I/O Card [FB134] - Phase B Overcurrent Signal Too Long	184635124
+Inv 2 I/O Card [FB134] - Phase C Overcurrent Signal Too Long	184635125
+Inv 2 I/O Card [FB134/172/179] - Current Ic Not Zero At Start Up	184635126
+Inv 2 I/O Card [FB134/172/179] - C Phase Current Too High	184635127
+Inv 2 I/O Card [FB134] - Protective Turn Off Circuit Not Ok	184635128
+Inv 2 I/O Card [FB134] - Phase A And B Currents Do Not Match	184635129
+Inv 2 I/O Card [FB134] - Phase A And C Currents Do Not Match	184635130
+Inv 2 I/O Card [FB134] - Phase A2 And B2 Currents Do Not Match	184635131
+Inv 2 I/O Card [FB134] - Phase A2 And C2 Currents Do Not Match	184635132
+Inv 2 I/O Card [FB134](NR) - Chopper 1 Cmd Not Off 	184635213
+Inv 2 I/O Card [FB134](NR) - Chopper 2 Cmd Not Off	184635214
+Inv 2 I/O Card [FB134](NR) - Chopper 1 Cmd Not On	184635215
+Inv 2 I/O Card [FB134/172/179](NR) - Chopper 2 Cmd Not On	184635216
+Inv 2 I/O Card [FB134/172/179](NR) - Volt Scale A Out Of Range	184635217
+Inv 2 I/O Card [FB134/172/179](NR) - Volt Scale B Out Of Range	184635218
+Inv 2 I/O Card [FB134](NR) - Link Volt Scale Out Of Range	184635219
+Inv 2 I/O Card [FB134](NR) - Current Scale A Out Of Range	184635220
+Inv 2 I/O Card [FB134](NR) - Current Scale B Out Of Range	184635221
+Inv 2 I/O Card [FB134](NR) - Input V Scale Out Of Range	184635222
+Inv 2 I/O Card [FB134](NR) - High Freq On Vco Vtest Channel	184635223
+Inv 2 I/O Card [FB134](NR) - Low Freq On Vco Vtest Channel	184635224
+Inv 2 I/O Card [FB134](NR) - High Freq On Ia Channel	184635225
+Inv 2 I/O Card [FB134](NR) - High Freq On Ib Channel	184635226
+Inv 2 I/O Card [FB134](NR) - High Freq On Vco Link Channel	184635227
+Inv 2 I/O Card [FB134](NR) - High Freq On Vco In Channel	184635228
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ia Too Positive	184635229
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ia Too Negative	184635230
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ib Too Positive	184635231
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ib Too Negative	184635232
+Inv 2 I/O Card [FB134/172/179](NR) - Link Voltage Too High	184635233
+Inv 2 I/O Card [FB134](NR) - Input Filter Voltage Too High	184635234
+Inv 2 I/O Card [FB134](NR) - High Freqy On Vco Db Chopper 	184635235
+Inv 2 I/O Card [FB134/](NR) - Db Chopper Voltage Too H Igh	184635236
+Inv 2 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Va Channel	184635237
+Inv 2 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Vb Channel	184635238
+Inv 2 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Vc Channel	184635239
+Inv 2 I/O Card [FB134/172/179](NR) - Va Voltage Too High	184635240
+Inv 2 I/O Card [FB134/172/179](NR) - Vb Voltage Too High	184635241
+Inv 2 I/O Card [FB134/172/179](NR) - Volt Scale C Out Of Range	184635242
+Inv 2 I/O Card [FB134/172/179](NR) - Vc Voltage Too High	184635243
+Inv 2 I/O Card [FB134/172/179](NR) - Hep Loadv Too Hi	184635244
+Inv 2 I/O Card [FB134/172/179](NR) - Hep Loadv Scale Flt	184635245
+Inv 2 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Ic1 Chan 	184635246
+Inv 2 I/O Card [FB134/172/179](NR) - Lo Freq On Vco Ic1 Chan	184635247
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ic1 Too High	184635248
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ic1 Too Low	184635249
+Inv 2 I/O Card [FB134](NR) - Hi Freq On Vco Hep Va Channel	184635250
+Inv 2 I/O Card [FB134](NR) - Lo Freq On Vco Hep Va Channel	184635251
+Inv 2 I/O Card [FB134](NR) - Hi Freq On Vco Hep Vb Channel	184635252
+Inv 2 I/O Card [FB134](NR) - Lo Freq On Vco Hep Vb Channel	184635253
+Inv 2 I/O Card [FB134](NR) - Hi Freq On Vco Hep Vc Channel	184635254
+Inv 2 I/O Card [FB134](NR) - Lo Freq On Vco Hep Vc Channel	184635255
+Inv 2 I/O Card [FB134/172/179](NR) - Hep Va Voltage Too High	184635256
+Inv 2 I/O Card [FB134/172/179](NR) - Hep Va Voltage Too Low	184635257
+Inv 2 I/O Card [FB134/172/179](NR) - Hep Vb Voltage Too High	184635258
+Inv 2 I/O Card [FB134/172/179](NR) - Hep Vb Voltage Too Low	184635259
+Inv 2 I/O Card [FB134/172/179](NR) - Hep Vc Voltage Too High	184635260
+Inv 2 I/O Card [FB134/172/179](NR) - Hep Vc Voltage Too Low	184635261
+Inv 2 I/O Card [FB134](NR) - Current Scale C! Out Of Range	184635262
+Inv 2 I/O Card [FB134/172/179](NR) - Hi Freq On Vco Ia2 Chan	184635263
+Inv 2 I/O Card [FB134](NR) - Lo Freq On Vco Ia2 Channel	184635264
+Inv 2 I/O Card [FB134](NR) - Hi Freq On Vco Ib2 Channel	184635265
+Inv 2 I/O Card [FB134](NR) - Lo Freq On Vco Ib2 Channel	184635266
+Inv 2 I/O Card [FB134](NR) - Hi Freq On Vco Ic2 Channel	184635267
+Inv 2 I/O Card [FB134](NR) - Low Freq On Vco Ic2 Channel	184635268
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ia2 Too High	184635269
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ia2 Too Low	184635270
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ib2 Too High	184635271
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ib2 Too Low	184635272
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ic2 Too High	184635273
+Inv 2 I/O Card [FB134/172/179](NR) - Current Ic2 Too Low	184635274
+Inv 2 I/O Card [FB134](NR) - Current Scale A2 Out Of Range	184635275
+Inv 2 I/O Card [FB134](NR) - Current Scale B2 Out Of Range	184635276
+Inv 2 I/O Card [FB134](NR) - Current Scale C2 Out Of Range	184635277
+Inv 2 Fiber Optic Card Power Supply Monitor	184635313
+Inv 2 Fiber Optic Card Disabled 	184635314
+Inv 2 Fiber Optic Card Enabled And No Direction	184635315
+Inv 2 Power Supply - +5 Volt Not In Tolerance	184635413
+Inv 2 Power Supply - +15 Volt Not In Tolerance	184635414
+Inv 2 Power Supply - -15 Volt Not In Tolerance	184635415
+Inv 2 Power Supply - +24 Volt Not In Tolerance	184635418
+Inv 2 Power Supply - -24 Volt Not In Tolerance	184635419
+Inv 2 Power Supply - +24-2 Volt Not In Tolerance	184635420
+Inv 2 Power Supply - -24-2 Volt Not In Tolerance	184635421
+Inv 2 Dc Power Wiring - Dc Power Connection Open	184635513
+Inv 2 Dc Power Wiring - Link And Phase Voltage Mismatch	184635514
+Gdps2 Power Failure - Gate Drive Power Supply Off	184635613
+Gdps2 Pwr Failure - Gate Drive Pwr Supply Off With Enable	184635614
+Gdps2 Pwr Failure - Mult Phase Modules Not Off With Enable	184635615
+Inv 2 Link Voltage Snsr	184635813
+Inv 2 Input Filter Voltage Snsr - Filter Voltage Outside Limits	184636013
+Inv 2 Input Filter Voltage Snsr - Hep Voltage Outside Limits	184636014
+Inv 2 Inv General - Phase A+ Current Out Too High	184636213
+Inv 2 Inv General - Phase A- Current Out Too High	184636214
+Inv 2 Inv General - Phase B+ Current Out Too High	184636215
+Inv 2 Inv General - Phase B- Current Out Too High	184636216
+Inv 2 Inv General - Phase C+ Current Out Too High 	184636217
+Inv 2 Inv General - Phase C- Current Out Too High	184636218
+Inv 2 Inv General - Phase A+ Current Out Too Low	184636219
+Inv 2 Inv General - Phase A- Current Out Too Low	184636220
+Inv 2 Inv General - Phase B+ Current Out Too Low	184636221
+Inv 2 Inv General - Phase B- Current Out Too Low	184636222
+Inv 2 Inv General - Phase C+ Current Out Too Low	184636223
+Inv 2 Inv General - Phase C- Current Out Too Low	184636224
+Inv 2 Inv General - Phase A Current Not Zero	184636225
+Inv 2 Inv General - Phase B Current Not Zero	184636227
+Inv 2 Inv General - Phase A Volt Too High While Phase A- Is On	184636229
+Inv 2 Inv General - Phase A Volt Too Low While Phase A+ Is On	184636230
+Inv 2 Inv General - Phase A Volt Too High While Phase B- Is On 	184636231
+Inv 2 Inv General - Phase A Volt Too Low While Phase B+ Is On 	184636232
+Inv 2 Inv General - Phase A Volt Too High While Phase C- Is On	184636233
+Inv 2 Inv General - Phase A Volt Too Low While Phase C+ Is On	184636234
+Inv 2 Inv General - Phase B Volt Too High While Phase A- Is On	184636235
+Inv 2 Inv General - Phase B Volt Too Low While Phase A+ Is On	184636236
+Inv 2 Inv General - Phase B Volt Too High While Phase B- Is On	184636237
+Inv 2 Inv General - Phase B Volt Too Low While Phase B+ Is On	184636238
+Inv 2 Inv General - Phase B Volt Too High While Phase B- Is On	184636239
+Inv 2 Inv General - Phase B Volt Too Low While Phase C+ Is On	184636240
+Inv 2 Inv General - Phase C Voltage Too High While Phase A- Is On	184636241
+Inv 2 Inv General - Phase C Voltage Too Low While Phase A+ Is On	184636242
+Inv 2 Inv General - Phase C Voltage Too High While Phase B- Is On	184636243
+Inv 2 Inv General - Phase C Voltage Too Low While Phase B+ Is On	184636244
+Inv 2 Inv General - Phase C Voltage Too High While Phase C- Is On	184636245
+Inv 2 Inv General - Phase C Voltage Too Low While Phase C+ Is On	184636246
+Inv 2 Inv General - Phase A Fault Current When Phase A+ On 	184636247
+Inv 2 Inv General - Phase A Fault Current When Phase A- On 	184636248
+Inv 2 Inv General - Phase B Fault Current When Phase B+ On 	184636249
+Inv 2 Inv General - Phase B Fault Current When Phase B- On 	184636250
+Inv 2 Inv General - Phase C Fault Current When Phase C+ On 	184636251
+Inv 2 Inv General - Phase C Fault Current When Phase C- On 	184636252
+Inv 2 Inv General - Phase A Voltage High With All Gtos Off 	184636260
+Inv 2 Inv General - Phase A Voltage Low With All Gtos Off 	184636261
+Inv 2 Inv General - Phase B Voltage High With All Gtos Off 	184636262
+Inv 2 Inv General - Phase B Voltage Low With All Gtos Off	184636263
+Inv 2 Inv General - Phase C Voltage High With All Gtos Off	184636264
+Inv 2 Inv General - Phase C Voltage Low With All Gtos Off	184636265
+Inv 2 Inv General - Possible Phase To Dc+ Short 	184636266
+Inv 2 Inv General - Possible Phase To Dc- Short	184636267
+Inv 2 Inv General - Link Volts Above Ptl	184636272
+Inv 2 Inv General - Phase A Negative Current Low (Unbalance) 	184636282
+Inv 2 Inv General - Phase B Negative Current Low (Unbalance)	184636283
+Inv 2 Inv General - Phase C Negative Current Low (Unbalance)	184636284
+Inv 2 Inv General - Phase A Negative Current High(Unbalance)	184636285
+Inv 2 Inv General - Phase B Negative Current High(Unbalance)	184636286
+Inv 2 Inv General - Phase C Negative Current High(Unbalance)	184636287
+Inv 2 Inv General - Phase A Positive Current Low (Unbalance)	184636288
+Inv 2 Inv General - Phase B Positive Current Low (Unbalance)	184636289
+Inv 2 Inv General - Phase C Positive Current Low (Unbalance)	184636290
+Inv 2 Inv General - Phase A Positive Current High(Unbalance)	184636291
+Inv 2 Inv General - Phase B Positive Current High(Unbalance)	184636292
+Inv 2 Inv General - Phase C Positive Current High(Unbalance)	184636293
+Inv 2 Inv General - No Current While Running	184636294
+Inv 2 Inv General - Excessive Regen While In Motoring	184636295
+Inv 2 Inv General - Phase C Current Out Not Zero	184636296
+Inv 2 Inv General - Phase A2 Current Out Not Zero	184636297
+Inv 2 Inv General - Phase B2 Current Out Not Zero	184636298
+Inv 2 Inv General - Phase C2 Current Out Not Zero	184636299
+Inv 2 (NR) Inv General 	184636313
+Inv 2 (NR) Inv General - Low Frequency On Ia Channel 	184636334
+Inv 2 (NR) Inv General - Low Frequency On Ib Channel	184636336
+Inv 2 (NR) Inv General - Low Frequency On Vco Link Filter	184636338
+Inv 2 (NR) Inv General - Low Frequency On Vco In Filter	184636340
+Inv 2 (NR) Inv General - Link Voltage Too Low	184636350
+Inv 2 (NR) Inv General - Input Filter Voltage Too Low	184636352
+Inv 2 (NR) Inv General - Low Frequency On Vco Chopper Channel	184636358
+Inv 2 (NR) Inv General - Chopper Voltage Too Low	184636360
+Inv 2 (NR) Inv General - Low Frequency On Vco Va Channel 	184636362
+Inv 2 (NR) Inv General - Low Frequency On Vco Vb Channel	184636364
+Inv 2 (NR) Inv General - Low Frequency On Vco Vc Channel	184636366
+Inv 2 (NR) Inv General - Va Voltage Too Low	184636368
+Inv 2 (NR) Inv General - Vb Voltage Too Low	184636370
+Inv 2 (NR) Inv General - Vc Voltage Too Low	184636373
+Inv 2 (NR) Inv General - Hep Voltage Too Low	184636375
+Inv 2 (NR) Inv General - Out Of Sat Cluster	184636378
+Inv 2 System - No Direction Called For	184636413
+Inv 2 System - Calling Forward Moving Backward	184636414
+Inv 2 System - Calling Backward Moving Foward	184636415
+Inv 2 System - Input Voltage Too Low	184636416
+Inv 2 System - Link Filter Voltage Too Low	184636417
+Inv 2 System - No High Speed Data From PSC	184636418
+Inv 2 System - Link Voltage Not Ok	184636419
+Inv 2 System - Line Current Not Ok	184636420
+Inv 2 System - System Communication Tic Not Updating	184636421
+Inv 2 System - Chopper Junction Too Hot	184636422
+Inv 2 System - Inv Junction Too Hot	184636423
+Inv 2 System - Vi Test Incomplete	184636424
+Inv 2 Phase A+/Phase A- - Phase A Module Did Not Turn Off	184636513
+Inv 2 Phase A+/Phase A- - Overcurrent On Phase A	184636514
+Inv 2 Phase A+/Phase A- - Igbt Saturation Flt On A+	184636516
+Inv 2 Phase A+/Phase A- - Igbt Saturation Flt On A-	184636517
+Inv 2 Phase A+ - Phase A+ Module Did Not Turn Off	184636613
+Inv 2 Phase A+ - Phase A+ Feedback Not Off	184636614
+Inv 2 Phase A+ - Phase A+ Module Failed 	184636615
+Inv 2 Phase A+ - Phae A+ And A- Modules On	184636616
+Inv 2 Phase A+ - Phase A+ Feedback Not On	184636617
+Inv 2 Phase A+ - Phase A+ Module Did Not Turn On	184636618
+Inv 2 Phase A+ - Igbt Ps Fault On A+	184636619
+Inv 2 Phase A+ (NR)  	184636713
+Inv 2 Phase A+ (NR) - Phase A+ Not Off With Enable/Dc Volts	184636718
+Inv 2 Phase A+ (NR) - A+ On/Off Edge Delay Out Of Range	184636719
+Inv 2 Phase A+ (NR) - A- On/Off Edge Delay Out Of Range	184636720
+Inv 2 Phase A- - Phase A- Module Did Not Turn Off	184636813
+Inv 2 Phase A- - Phase A- Feedback Not Off	184636814
+Inv 2 Phase A- - Phase A- Module Failed 	184636815
+Inv 2 Phase A- - Phase A+ And A- Modules On	184636816
+Inv 2 Phase A- - Phase A- Feedback Not On	184636817
+Inv 2 Phase A- - Phase A- Module Did Not Turn On	184636818
+Inv 2 Phase A- - Igbt Ps Fault On A-	184636819
+Inv 2 Phase A- (NR) 	184636913
+Inv 2 Phase A- (NR) - Phase A- Not Off With Enable/Dc Volts	184636918
+Inv 2 Phase A- (NR) - A- On/Off Edge Delay Out Of Range	184636919
+Inv 2 Phase A Current - Phase A Current Snsr Failed	184637013
+Inv 2 Phase A Current - Current Ia Not Zero At Startup	184637014
+Inv 2 Phase A Current - A Phase Current Too High	184637015
+Inv 2 Phase A Voltage - Phase A Voltage Snsr Failed	184637213
+Inv 2 Phase A Voltage - Phase A Voltage Too High	184637214
+Inv 2 Phase B+/Phase B- - Phase B Module Did Not Turn Off	184637413
+Inv 2 Phase B+/Phase B- - Overcurrent On Phase B	184637414
+Inv 2 Phase B+/Phase B- - Igbt Saturation Flt On B+	184637416
+Inv 2 Phase B+/Phase B- - Igbt Saturation Flt On B-	184637417
+Inv 2 Phase B+ - Phase B+ Module Did Not Turn Off	184637513
+Inv 2 Phase B+ - Phase B+ Feedback Not Off	184637514
+Inv 2 Phase B+ - Phase B+ Module Failed 	184637515
+Inv 2 Phase B+ - Phase B+ And B- Modules On	184637516
+Inv 2 Phase B+ - Phase B+ Feedback Not On	184637517
+Inv 2 Phase B+ - Phase B+ Module Did Not Turn On	184637518
+Inv 2 Phase B+ - Igbt Ps Fault On B+	184637519
+Inv 2 Phase B Positive (+) Non-Restrictive	184637613
+Inv 2 Phase B+ (NR) - Phase B+ Not Off With Enable/Dc Volts	184637618
+Inv 2 Phase B+ (NR) - B+ On/Off Edge Delay Out Of Range	184637619
+Inv 2 Phase B+ (NR) - B- On/Off Edge Delay Out Of Range	184637620
+Inv 2 Phase B- - Phase B- Module Did Not Turn Off	184637713
+Inv 2 Phase B- - Phase B- Feedback Not Off	184637714
+Inv 2 Phase B- - Phase B- Module Failed 	184637715
+Inv 2 Phase B- - Phase B+ And B- Modules On	184637716
+Inv 2 Phase B- - Phase B- Feedback Not On	184637717
+Inv 2 Phase B- - Phase B- Module Did Not Turn On	184637718
+Inv 2 Phase B- - Igbt Ps Fault On B-	184637719
+Inv 2 Phase B Negative (-) Non-Restrictive	184637813
+Inv 2 Phase B- (NR) - Phase B- Not Off With Enable/Dc Volts	184637818
+Inv 2 Phase B- (NR) - B- On/Off Edge Delay Out Of Range	184637819
+Inv 2 Phase B Current - Phase B Current Snsr Failed	184637913
+Inv 2 Phase B Current - Current Ib Not Zero At Startup	184637914
+Inv 2 Phase B Current - B Phase Current Too High	184637915
+Inv 2 Phase B Voltage - Phase B Voltage Snsr Failed	184638113
+Inv 2 Phase B Voltage - Phase B Voltage Too High	184638114
+Inv 2 Phase C+/Phase C- - Phase C Module Did Not Turn Off	184638313
+Inv 2 Phase C+/Phase C- - Overcurrent On Phase C	184638314
+Inv 2 Phase C+/Phase C- - Igbt Saturation Flt On C+	184638316
+Inv 2 Phase C+/Phase C- - Igbt Saturation Flt On C-	184638317
+Inv 2 Phase C+ - Phase C+ Module Did Not Turn Off	184638413
+Inv 2 Phase C+ - Phase C+ Feedback Not Off	184638414
+Inv 2 Phase C+ - Phase C+ Module Failed 	184638415
+Inv 2 Phase C+ - Phase C+ And C- Modules On	184638416
+Inv 2 Phase C+ - Phase C+ Feedback Not On	184638417
+Inv 2 Phase C+ - Phase C+ Module Did Not Turn On	184638418
+Inv 2 Phase C+ - Igbt Ps Fault On C+	184638419
+Inv 2 Phase C Positive (+) Non-Restrictive	184638513
+Inv 2 Phase C+ (NR) - Phase C+ Not Off With Enable/Dc Volts	184638518
+Inv 2 Phase C+ (NR) - C+ On/Off Edge Delay Out Of Range	184638519
+Inv 2 Phase C+ (NR) - C- On/Off Edge Delay Out Of Range	184638520
+Inv 2 Phase C- - Phase C- Module Did Not Turn Off	184638613
+Inv 2 Phase C- - Phase C- Feedback Not Off	184638614
+Inv 2 Phase C- - Phase C- Module Failed 	184638615
+Inv 2 Phase C- - Phase C+ And C- Modules On	184638616
+Inv 2 Phase C- - Phase C- Feedback Not On	184638617
+Inv 2 Phase C- - Phase C- Module Did Not Turn On	184638618
+Inv 2 Phase C- - Igbt Ps Fault On C-	184638619
+Inv 2 Phase C Negative (-) Non-Restrictive	184638713
+Inv 2 Phase C- (NR) - Phase C- Not Off With Enable/Dc Volts	184638718
+Inv 2 Phase C- (NR) - C- On/Off Edge Delay Out Of Range	184638719
+Inv 2 Phase C Current - Phase C Current Snsr Failed	184638813
+Inv 2 Phase C Current - C Phase Current Too High	184638815
+Inv 2 Phase C Voltage - Phase C Voltage Snsr Failed	184639013
+Inv 2 Phase C Voltage - Phase C Voltage Too High	184639014
+Inv 2 Tach 1 - Tach 1 High Rate Of Speed 	184639213
+Inv 2 Tach 1 - Tach 1 No Frequency Input	184639214
+Inv 2 Tach 1 - Tach Intermittant	184639215
+Inv 2 Tach 1 Non-Restrictive	184639313
+Inv 2 Tach 2 Restrictive	184639413
+Inv 2 Tach 2 Non-Restrictive	184639513
+Inv 2 Chopper 1 - Chopper 1 Feedback Not Off	184639713
+Inv 2 Chopper 1 - Chopper 1 Feedback Not On	184639714
+Inv 2 Chopper 1 - Chopper 1 Not Off With Dc Volts	184639719
+Inv 2 Chopper 2 - Chopper 2 Feedback Not Off	184639913
+Inv 2 Chopper 2 - Chopper 2 Feedback Not On	184639914
+Inv 2 Chopper 2 - Chopper 2 Not Off With Dc Volts	184639919
+Inv 2 Tach Differential	184640013
+Inv 2 Motor Restrictive - Motor Connection Open	184640213
+Inv 2 Motor Restrictive - Motor Connection Short	184640214
+Inv 2 Motor Non-Restrictive - Motor Rotor Temperature High	184640313
+Inv 2 Motor Non-Restrictive - Motor Stator Temperature High	184640314
+Second Load Connection Open	184640413
+Inv 2 Chopper 3 - Chopper 3 Feedback Not Off	184641013
+Inv 2 Chopper 3 - Chopper 3 Feedback Not On	184641014
+Inv 2 Chopper 3 - Chopper 3 Not Off With Dc Volts	184641015
+Inv 2 Chopper 4 - Chopper 4 Feedback Not Off	184641213
+Inv 2 Chopper 4 - Chopper 4 Feedback Not On	184641214
+Inv 2 Chopper 4 - Chopper 4 Not Off With Dc Volts	184641215
+Inv 22 Phase A2+/A2- - Phase A2 Module Did Not Turn Off	184641313
+Inv 22 Phase A2+/A2- - Overcurrent On Phase A2	184641314
+Inv 22 Phase A2+/A2- - Igbt Saturation Flt On A2+	184641316
+Inv 22 Phase A2+/A2- - Igbt Saturation Flt On A2-	184641317
+Inv 22 Phase A2+ - Phase A2+ Module Did Not Turn Off	184641413
+Inv 22 Phase A2+ - Phase A2+ Feedback Not Off	184641414
+Inv 22 Phase A2+ - Phase A2+ Module Failed 	184641415
+Inv 22 Phase A2+ - Phae A2+ And A2- Modules On	184641416
+Inv 22 Phase A2+ - Phase A2+ Feedback Not On	184641417
+Inv 22 Phase A2+ - Phase A2+ Module Did Not Turn On	184641418
+Inv 22 Phase A2+ - Igbt Ps Fault On A2+	184641419
+Inv 22 Phase A2+ (NR)	184641513
+Inv 22 Phase A2+ (NR) - Phase A2+ Not Off With Enable/Dc Volts	184641518
+Inv 22 Phase A2- - Phase A2- Module Did Not Turn Off	184641613
+Inv 22 Phase A2- - Phase A2- Feedback Not Off	184641614
+Inv 22 Phase A2- - Phase A2- Module Failed 	184641615
+Inv 22 Phase A2- - Phase A2+ And A2- Modules On	184641616
+Inv 22 Phase A2- - Phase A2- Feedback Not On	184641617
+Inv 22 Phase A2- - Phase A2- Module Did Not Turn On	184641618
+Inv 22 Phase A2- - Igbt Ps Fault On A2-	184641619
+Inv 22 Phase A2- (NR)	184641713
+Inv 22 Phase A2- (NR) - Phase A2- Not Off With Enable/Dc Volts	184641718
+Inv 22 Phase A2 Current - Phase A2 Current Snsr Failed	184641813
+Inv 22 Phase A2 Current - Current Ia2 Not Zero At Startup	184641814
+Inv 22 Phase A2 Current - A2 Phase Current Too High	184641815
+Inv 22 Phase B2+/B2- - Phase B2 Module Did Not Turn Off	184642213
+Inv 22 Phase B2+/B2- - Overcurrent On Phase B2	184642214
+Inv 22 Phase B2+/B2- - Igbt Saturation Flt On B2+	184642216
+Inv 22 Phase B2+/B2- - Igbt Saturation Flt On B2-	184642217
+Inv 22 Phase B2+ - Phase B2+ Module Did Not Turn Off	184642313
+Inv 22 Phase B2+ - Phase B2+ Feedback Not Off	184642314
+Inv 22 Phase B2+ - Phase B2+ Module Failed 	184642315
+Inv 22 Phase B2+ - Phae B2+ And B2- Modules On	184642316
+Inv 22 Phase B2+ - Phase B2+ Feedback Not On	184642317
+Inv 22 Phase B2+ - Phase B2+ Module Did Not Turn On	184642318
+Inv 22 Phase B2+ - Igbt Ps Fault On B2+	184642319
+Inv 22 Phase B2+ (NR)	184642413
+Inv 22 Phase B2+ (NR) - Phase B2+ Not Off With Enable/Dc Volts	184642418
+Inv 22 Phase B2- - Phase B2- Module Did Not Turn Off	184642513
+Inv 22 Phase B2- - Phase B2- Feedback Not Off	184642514
+Inv 22 Phase B2- - Phase B2- Module Failed 	184642515
+Inv 22 Phase B2- - Phase B2+ And B2- Modules On	184642516
+Inv 22 Phase B2- - Phase B2- Feedback Not On	184642517
+Inv 22 Phase B2- - Phase B2- Module Did Not Turn On	184642518
+Inv 22 Phase B2- - Igbt Ps Fault On B2-	184642519
+Inv 22 Phase B2- (NR)	184642613
+Inv 22 Phase B2- (NR) - Phase B2- Not Off With Enable/Dc Volts	184642618
+Inv 22 Phase B2 Current - Phase B2 Current Snsr Failed	184642713
+Inv 22 Phase B2 Current - Current Ib2 Not Zero At Startup	184642714
+Inv 22 Phase B2 Current - B2 Phase Current Too High	184642715
+Inv 22 Phase C2+/C2- - Phase C2 Module Did Not Turn Off	184643113
+Inv 22 Phase C2+/C2- - Overcurrent On Phase C2	184643114
+Inv 22 Phase C2+/C2- - Igbt Saturation Flt On C2+	184643116
+Inv 22 Phase C2+/C2- - Igbt Saturation Flt On C2-	184643117
+Inv 22 Phase C2+ - Phase C2+ Module Did Not Turn Off	184643213
+Inv 22 Phase C2+ - Phase C2+ Feedback Not Off	184643214
+Inv 22 Phase C2+ - Phase C2+ Module Failed 	184643215
+Inv 22 Phase C2+ - Phae C2+ And C2- Modules On	184643216
+Inv 22 Phase C2+ - Phase C2+ Feedback Not On	184643217
+Inv 22 Phase C2+ - Phase C2+ Module Did Not Turn On	184643218
+Inv 22 Phase C2+ - Igbt Ps Fault On C2+	184643219
+Inv 22 Phase C2+ (NR)	184643313
+Inv 22 Phase C2+ (NR) - Phase C2+ Not Off With Enable/Dc Volts	184643318
+Inv 22 Phase C2- -Phase C2- Module Did Not Turn Off	184643413
+Inv 22 Phase C2- -Phase C2- Feedback Not Off	184643414
+Inv 22 Phase C2- -Phase C2- Module Failed 	184643415
+Inv 22 Phase C2- -Phase C2+ And C2- Modules On	184643416
+Inv 22 Phase C2- -Phase C2- Feedback Not On	184643417
+Inv 22 Phase C2- -Phase C2- Module Did Not Turn On	184643418
+Inv 22 Phase C2- -Igbt Ps Fault On C2-	184643419
+Inv 22 Phase C2- (NR)	184643513
+Inv 22 Phase C2- (NR) - Phase C2- Not Off With Enable/Dc Volts	184643518
+Inv 22 Phase C2 Current - Phase C2 Current Snsr Failed	184643613
+Inv 22 Phase C2 Current - Current Ic2 Not Zero At Startup	184643614
+Inv 22 Phase C2 Current - C2 Phase Current Too High	184643615
+TCI CPU Card Fault (17FB144/174) - 10Msec Task Failed To Init	184675013
+TCI CPU Card Fault (17FB144/174) - 20Msec Task Failed To Init	184675014
+TCI CPU Card Fault (17FB144/174) - 50Msec Task Failed To Init	184675015
+TCI CPU Card Fault (17FB144/174) - 100Msec Task Failed To Init	184675016
+TCI CPU Card Fault (17FB144/174) - 200Msec Task Failed To Init	184675017
+TCI CPU Card Fault (17FB144/174) - 50Msec Task Failed To Init	184675018
+TCI CPU Card Fault (17FB144/174) - Flash CRC	184675019
+TCI CPU Card Fault (17FB144/174) - Maint Task Failed To Init	184675021
+TCI CPU Card Fault (17FB144/174) - Excess Timeouts	184675022
+TCI CPU Card Fault (17FB144/174) - Invalid Pointers	184675023
+TCI CPU Card Fault (17FB144/174) - Bram CRC	184675024
+FB104 TCI Digital I/O Card	184675113
+FB160 TCI Analogue I/O Card	184675213
+PSC Communication Fault 	184675313
+TCI To PSC RS422 Comm - Bad Tick	184675314
+TCI To PSC RS422 Comm - Bad CRC	184675315
+TCI To PSC RS422 Comm - Fifo Overflow	184675316
+TCI To PSC RS422 Comm - Bad Start Bit	184675317
+TCI To PSC RS422 Comm - Bad Stop Bit	184675318
+Aux Comm Fault	184675413
+Volts +5 Out Of Limits   	184675613
+Volts +15 Out Of Limits  	184675713
+Volts -15 Out Of Limits  	184675813
+Pot Reference Out Of Limits	184675913
+Analog Input Out Of Limits - Ground 	184676213
+Analog Input Out Of Limits - Gainchk	184676214
+Battery Separate Contactor - Battery Separate Failure	184676313
+Battery Separate Contactor - Crank Battery > Control Battery	184676314
+Battery Separate Contactor - Control Battery > Crank Battery	184676315
+Direction Signal Mismatch	184676513
+Eng Start Req Denied - Eng Wrng Signal During Cranking	184676613
+Eng Start Req Denied - Eng Kill Signal During Cranking	184676614
+Engine Warn Received From Engine Controller (NR)	184676713
+Engine Warn Received From Engine Controller	184676813
+Engine Kill While Moving	184676913
+Parking Brake Fault - Command/Rsp Failure	184677113
+Parking Brake Fault - Set Above Max Speed 	184677114
+Hydraulic Brake Fluid Hot - Hydraulic Tank Temp Hot	184677213
+Hyd Brake Fluid Hot -Left Front Brake Cooling Outlet Temp	184677214
+Hyd Brake Fluid Hot - Right Front Brake Cooling Outlet Temp	184677215
+Hyd Brake Fluid Hot - Left Rear Brake Cooling Outlet Temp 	184677216
+Hyd Brake Fluid Hot - Right Rear Brake Cooling Outlet Temp	184677217
+Body Up And Payload Indication	184677313
+Dump Body Up While Moving	184677413
+Load Brake While Moving	184677513
+Batt Connected Out Of Limit - Control Battery Low	184677713
+Batt Connected Out Of Limit - Control Battery High	184677714
+Connected Batteries - Cranking Battery Volts Below 20 Vdc	184677715
+Connected Batteries - Cranking Battery Volts Above 32 Vdc	184677716
+Barometric Press Out Of Lim - Low	184677813
+Barometric Press Out Of Lim - High	184677814
+Motor Blower Pressure Low - Low Air Detected 	184677913
+Motor Blower Pressure Low - Snsr Bad - Voltage Low	184677914
+Motor Blower Pressure Low - Snsr Bad - Votlage High	184677915
+Motor Blower Pressure Low - Sense Reversed	184677916
+Motor Blower Pressure Low - Digital Snsr High With Engine Off	184677917
+Ambient Temp Out Of Limits - Low	184678013
+Ambient Temp Out Of Limits - High	184678014
+Configuration Data Not Valid - Ge Config File 	184678113
+Configuration Data Not Valid - Mine Config File 	184678114
+Configuration Data Not Valid - Version Incorrect	184678115
+TCI Bram Corrupted	184678213
+Truck Overloaded - Propel Inhibited     	184678313
+Truck Overloaded - Speed Limited	184678413
+Aux Inv Fault - No Fault Cond Initial State On App Of Ctrl Pwr	184678512
+Aux Inv Fault - Low Dc Bus Voltage Detected During Powerup	184678513
+Aux Inv Fault - High Dc Bus Voltage Detected During Operation	184678514
+Aux Inv Fault - Overcurrent Cond Detected During Operation	184678515
+Aux Inv Fault - High Dc Bus Voltage Detected During Operation	184678517
+Aux Inv Fault - High Dc Bus Volt After Phase Cntrller Powerup	184678518
+Aux Inv Fault - Low Dc Bus Vol After Phase Cntrller Powerup	184678519
+Aux Inv Fault - High Dc Bus Voltage Detected During Operation	184678520
+Aux Inv Fault - Overcurrent Cond After Phase Cntrller Powerup	184678521
+Aux Inv Fault - Sustained Current Overload Exists	184678522
+Aux Inv Fault - Overcurrent Fault Due To Low Dc Link Voltage	184678523
+Aux Inv Fault - Sustained Current Overld Fault (Low Dc Link Volt)	184678524
+Aux Inv Fault - Igbt Protection Circuit Detected Overcurrent	184678525
+Aux Inv Fault - Zero Input Voltage Detected	184678526
+Aux Link Hot Main Link Off 	184678613
+Engine Cranking Timeout	184678713
+Engine Start Request While Running	184678813
+Accel Pedal Too High	184678913
+Accel Pedal Too Low	184679013
+Engine Cranked Using Override Switch	184679113
+Control Group Blower Pressure Low - Low Air Detected	184679213
+Ctrl Group Blower Pressure Low - Snsr High With Engine Off	184679214
+Ctrl Group Blower Pressure Low - Control Group Cooling Air	184679215
+Control Group Heater Circuit - Hcr Failed Open	184679313
+Control Group Heater Circuit - Hcr Failed Close	184679314
+Ctrl Group Heater CRCt - Hr1 Did Not Close Or Blown Fuse	184679315
+Control Group Heater Circuit - Hr1 Failed Open	184679316
+Ctrl Group Heater CRCt - Hr2 Did Not Close Or Blown Fuse	184679317
+Control Group Heater Circuit - Hr2 Failed Open	184679318
+Ctrl Group Heater CRCt - Hr3 Did Not Close Or Blown Fuse	184679319
+Control Group Heater Circuit - Hr3 Failed Open	184679320
+Pre-Shift Brake Test (If Used) - Service Brake Test	184679413
+Pre-Shift Brake Test (If Used) - Parking Brake Test	184679414
+Pre-Shift Brake Test (If Used) - Retard Test Passed	184679415
+Pre-Shift Brake Test (If Used) - Retard Test Failed	184679416
+Pre-Shift Brake Test (If Used) - Momentary Switch Stuck	184679417
+E-Stop Pressed	184679513
+Service Brake @ Speed	184679613
+Pedal Calibration Needed - Accel Pedal 	184679913
+Pedal Calibration Needed - Retard Pedal Or Lever	184679914
+Pedal Calibration Needed - Full Hp Not Reached	184679915
+Pedal Calibration Needed - Startup Calibration Needed	184679916
+Truck Id Needs To Be Set	184680013
+Incorrect Did Panel Setup	184680113
+Parking Brake Switch - Inactive	184680114
+Parking Brake Switch - Active	184680115
+Engine Start Request - Inactive	184680122
+Engine Start Request - Active	184680123
+Control Power On - Inactive	184680124
+Control Power On - Active	184680125
+Data Store - Inactive	184680130
+Data Store - Active	184680131
+Engine Kill Switch - Inactive	184680132
+Engine Kill Switch - Active	184680133
+Rest Request - Inactive	184680136
+Rest Request - Active	184680137
+Engine Warning - Inactive	184680138
+Engine Warning - Active	184680139
+Engine Caution - Inactive	184680140
+Engine Caution - Active	184680141
+Load Brake - Inactive	184680142
+Load Brake - Active	184680143
+Axle Box Pressure Sensor - Inactive	184680144
+Axle Box Pressure Sensor - Active	184680145
+Reset / Dump Override Switch - Inactive	184680146
+Reset / Dump Override Switch - Active	184680147
+Lamp Test Switch - Inactive	184680148
+Lamp Test Switch - Active	184680149
+Over Payload - Inactive	184680152
+Over Payload - Active	184680153
+Engine Warm-up Mode Request - Inactive	184680154
+Engine Warm-up Mode Request - Active	184680155
+Control Pressure Sensor - Inactive	184680156
+Control Pressure Sensor - Active	184680157
+Brake Test Request - Inactive	184680160
+Brake Test Request - Active	184680161
+Engine Winter Mode Allowed (DDC) - Inactive	184680182
+Engine Winter Mode Allowed (DDC) - Active	184680183
+Engine Crank Output - Inactive	184680190
+Engine Crank Output - Active	184680191
+Parking Brake Commanded Off (GE Controlled PB) - Inactive	184680192
+Parking Brake Commanded Off (GE Controlled PB) - Active	184680193
+PSC Warning Light / Speed Limit - Inactive	184680194
+PSC Warning Light / Speed Limit - Active	184680195
+No Propel Light - Inactive	184680196
+No Propel Light - Active	184680197
+No Retard Light - Inactive	184680198
+No Retard Light - Active	184680199
+Temp Warning Light - Inactive	184680200
+Temp Warning Light - Active	184680201
+Battery Separate Contactor - Inactive	184680202
+Battery Separate Contactor - Active	184680203
+Hydraulic Brake Hot Light Or Heater Disable Command - Inactive	184680206
+Hydraulic Brake Hot Light Or Heater Disable Command - Active	184680207
+Link On - Inactive	184680208
+Link On - Active	184680209
+Retard At Continuous Level - Inactive	184680212
+Retard At Continuous Level - Active	184680213
+Reduced Propulsion Light - Inactive	184680214
+Reduced Propulsion Light - Active	184680215
+PSC Not Ready - Inactive	184680216
+PSC Not Ready - Active	184680217
+Reset Light - Inactive	184680218
+Reset Light - Active	184680219
+OEM Engine Speed Set - Inactive	184680220
+OEM Engine Speed Set - Active	184680221
+Battery Charge Not Ok - Inactive	184680222
+Battery Charge Not Ok - Active	184680223
+Brake Test Light - Inactive	184680224
+Brake Test Light - Active	184680225
+Aux Ok - Inactive	184680244
+Aux Ok - Active	184680245
+Sys Run - Inactive	184680246
+Sys Run - Active	184680247
+Powerup Tests Active - Inactive	184680248
+Powerup Tests Active - Active	184680249
+Test Mode - Inactive	184680250
+Test Mode - Active	184680251
+Rest Mode - Inactive	184680252
+Rest Mode - Active	184680253
+Inv1 Disabled Restriction - Inactive	184680258
+Inv1 Disabled Restriction - Active	184680259
+Inv2 Disabled Restriction - Inactive	184680260
+Inv2 Disabled Restriction - Active	184680261
+Engine Speed And RP1 Restriction - Inactive	184680262
+Engine Speed And RP1 Restriction - Active	184680263
+Key Switch And CPS Switch - Inactive	184680264
+Key Switch And CPS Switch - Active	184680265
+OEM Accel Inhibit Request - Inactive	184680266
+OEM Accel Inhibit Request - Active	184680267
+No Retard - Inactive	184680274
+No Retard - Active	184680275
+No Propel - Inactive	184680276
+No Propel - Active	184680277
+System Warning - Inactive	184680278
+System Warning - Active	184680279
+System Event - Inactive	184680280
+System Event - Active	184680281
+Startup Shutdown Mode - Inactive	184680298
+Startup Shutdown Mode - Active	184680299
+Link On - Inactive	184680300
+Link On - Active	184680301
+Self Load - Inactive	184680308
+Self Load - Active	184680309
+Speed Control Active - Inactive	184680310
+Speed Control Active - Active	184680311
+Brakes On - Inactive	184680312
+Brakes On - Active	184680313

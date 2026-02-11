@@ -1,0 +1,63 @@
+1291911169	Pulldown Pressure (Psi)	65535	0	42
+1291911170	Head Speed - Actual	65535	0	28
+1291911171	Bit Air Pressure (Psi)	65535	0	42
+1291911172	Rate Of Penetration	18.2041666666667	0	39
+1291911173	Total Metres (Actual)	65535	0	17
+1291911174	Depth Preset	6553.5	0	17
+1291911175	Depth Actual (Bit Position)	6553.5	0	17
+1291911176	Distance Actual	6553.5	0	17
+1291911177	Distance Preset	6553.5	0	17
+1291911178	Water Injection Flow (Litres Per Minut)	65535	0	37
+1291911179	Dust Water Level (0-100%)	100	0	25
+1291911180	Hammer Oil Level (0-100%)	100	0	25
+1291911181	Fuel Level (0-100%)	100	0	25
+1291911182	Compressor Air Tank Pressure (Psi)	65535	0	42
+1291911183	Engine Oil Pressure (Psi)	65535	0	42
+1291911184	Pump Drive Box Temperature (Celsius)	65535	0	5
+1291911185	Auto Lube Pressure (Psi)	65535	0	42
+1291911186	Hydraulic Oil Temperature (Celsius)	65535	0	5
+1291911187	Engine Coolant Temperature (Celsius)	65535	0	5
+1291911188	Compressor Air Temperature (Celsius)	65535	0	5
+1291911189	Compressor Oil Pressure (Psi)	65535	0	42
+1291911190	Side To Side Incline Angle	65535	0	4
+1291911191	Front To Rear Incline Angle	65535	0	4
+1291911192	Lube Pressure Setting (Psi)	65535	0	42
+1291911193	Rotation Pressure (Psi)	65535	0	42
+1291911194	Hyd Case Pressure (Psi)	65535	0	42
+1291911195	Right Tram Pressure (Psi)	65535	0	42
+1291911196	Right Hydraulic Charge Pressure (Psi)	65535	0	42
+1291911197	Aux Hydraulic Pressure (Psi)	65535	0	42
+1291911198	Hydraulic Charge Pressure (Psi)	65535	0	42
+1291911199	Dust Collector Hydraulic Presure (Psi)	65535	0	42
+1291911200	Actual Head Position (From Lazer)	65535	0	21
+1291911201	Max Depth Of Current Hole	6553.5	0	17
+1291911202	Actual Depth Stored (Max Depth)	6553.5	0	17
+1291911203	Hammer Oil Centi Litres Per Hour	655535	0	0
+1291911204	Air Conditioner High Presure (Psi)	65535	0	42
+1291911205	True Depth Of This Rod In Ground	6553.5	0	17
+1291911206	Laser Input (Touchscreen Display)	65535	0	0
+1291911207	Actual Right Fan Speed	65535	0	28
+1291911208	Actual Left Fan Speed	65535	0	28
+1291911209	Dust Collector Differential High (Psi)	65535	0	42
+1291911210	Dust Collector Differential Low (Psi)	65535	0	42
+1291911211	Pulldown Pressure	0	0	42
+1291911212	Front To Rear Raw Incline Angle	0	0	42
+1291911213	Dust Collector Differential Low Pressure	0	0	42
+1291911214	Dust Collector Differential High Pressure	0	0	42
+1291911215	Dust Collector Filter Differential Pressure	0	0	42
+1291911216	Calculated Rate Of Penetration	0	0	39
+1291911217	Pulldown Pressure	0	0	42
+1291911218	Bit Air Pressure	0	0	42
+1291911219	Hyd Case Pressure	0	0	42
+1291911220	Right Tram Pressure	0	0	42
+1291911221	Rotation Pressure	0	0	42
+1291911222	Aux Hydraulic Pressure	0	0	42
+1291911223	Hydraulic Charge Pressure	0	0	42
+1291911224	Dust Collector Hydraulic Presure	0	0	42
+1291911225	Compressor Air Tank Pressure	0	0	42
+1291911226	Auto Lube Pressure	0	0	42
+1291911227	Engine Oil Pressure	0	0	42
+1291911228	Compressor Oil Pressure	0	0	42
+1291911229	Water Injection Pressure	0	0	42
+1291911230	Right Hydraulic Charge Pressure	65535	0	42
+1291911231	Rod Counter	65535	0	0

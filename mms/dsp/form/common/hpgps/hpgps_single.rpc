@@ -1,0 +1,11 @@
+#     High Precision GPS rpcs
+0x1d0   GEO-NEED        dispatch        ddddddd         RADIO
+0x1d1   GEO-CONFIG      dispatch        dd[b]           RADIO
+0x1d2   GEO-POLYGON     dispatch        sbd[d]?s        RADIO
+0x1d3   GEO-ELEV        dispatch        ddddd[b]        RADIO
+0x1d5   GPS-SPOT        dispatch        dddd		RADIO
+0x1d6   PANFULL         dispatch        s[l]?s          RADIO
+0x1d7   GPS-LOC         dispatch        dddddbb         RADIO
+0x1d8   GPS-RAW         dispatch        lllbb           RADIO
+0x1d9   DIPPER          dispatch        d               RADIO
+0x1dc   HP-EQMT-PATH	dispatch	[bdddd]		RADIO

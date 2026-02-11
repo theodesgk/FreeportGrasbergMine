@@ -1,0 +1,197 @@
+1493237761	Truck Options - PSBT Option	1	0	0
+1493237762	Truck Options - Dispatch Speed	1	0	0
+1493237763	Software Versions - DSC Software Version	0	0	0
+1493237764	Software Versions - DSC OS Version	0	0	0
+1493237765	Software Versions - DSC IFS Version	0	0	0
+1493237766	Software Versions - Inverter 1 Version	0	0	0
+1493237767	Software Versions - Inverter 1 OS Version	0	0	0
+1493237768	Software Versions - Inverter 2 Version	0	0	0
+1493237769	Software Versions - Inverter 2 OS Version	0	0	0
+1493237770	Truck Speed - Truck Speed	10544.5815	0	11
+1493237771	Truck Speed - Active Truck Speed Limit	10544.5815	0	11
+1493237772	Truck Speed - OEM Requested Truck Speed Limit	10544.5815	0	11
+1493237773	Truck Speed - 10 Times 3rd Party Requested Speed Limit	10544.5815	0	11
+1493237774	Wheel Speeds - FL MPH	3276.8	-3276.8	11
+1493237775	Wheel Speeds - FR MPH	3276.8	-3276.8	11
+1493237776	Wheel Speeds - RL MPH	3276.8	-3276.8	11
+1493237777	Wheel Speeds - RR MPH	3276.8	-3276.8	11
+1493237778	Control - Accel Pct	255	0	25
+1493237779	Control - Retard Pct	255	0	25
+1493237780	Control - Direction	255	0	0
+1493237781	Control - State	255	0	0
+1493237782	Control - Inv Status	255	0	0
+1493237783	Control - Drive Status	255	0	0
+1493237784	Engine / Power-Engine Speed	65535	0	28
+1493237785	Engine / Power-HP Feedback - Alt In	48869.4495	0	12
+1493237786	Engine / Power-Retard HP	48869.4495	0	12
+1493237787	Engine / Power-Link Voltage	3276.8	-3276.8	31
+1493237788	Condition-Battery Voltage	3276.8	-3276.8	31
+1493237789	Condition-Cooling Blower Speed	65535	0	28
+1493237790	Condition-Gauge Temp	255	0	25
+1493237791	Condition-Cooling Temp	127	-127	5
+1493237792	Condition-Barometric Pressure	22592	-22592	9
+1493237793	Motor Power-Torque Feedback 1	444334	-444334	24
+1493237794	Motor Power-Torque Feedback 2	444334	-444334	24
+1493237795	Motor Power-Motor 1 Speed	65535	0	28
+1493237796	Motor Power-Motor 2 Speed	65535	0	28
+1493237797	Digital Input / Output #1-FB104 A DI A	255	0	0
+1493237798	Digital Input / Output #1-FB104 A DI B	255	0	0
+1493237799	Digital Input / Output #1-FB104 A DI C	255	0	0
+1493237800	Digital Input / Output #1-FB104 A DO A	255	0	0
+1493237801	Digital Input / Output #1-FB104 A DO B	255	0	0
+1493237802	Digital Input / Output #1-FB104 A DO C	255	0	0
+1493237803	Digital Input / Output #2-FB104 B DI A	255	0	0
+1493237804	Digital Input / Output #2-FB104 B DI B	255	0	0
+1493237805	Digital Input / Output #2-FB104 B DI C	255	0	0
+1493237806	Digital Input / Output #2-FB104 B DO A	255	0	0
+1493237807	Digital Input / Output #2-FB104 B DO B	255	0	0
+1493237808	Digital Input / Output #2-FB104 B DO C	255	0	0
+1493237809	Speed Settings-Max Speed Unloaded	410.295	0	11
+1493237810	Speed Settings-Max Speed Loaded	410.295	0	11
+1493237811	Speed Settings-Max Speed Overloaded	410.295	0	11
+1493237812	Speed Settings-Max Speed Reverse	410.295	0	11
+1493237813	Speed Settings-Max Speed - 2nd Speed Option	410.295	0	11
+1493237814	Speed Settings-Max Speed - Bed Up	410.295	0	11
+1493237815	Speed Settings-Max Speed Bed Up - With Override	410.295	0	11
+1493237861	Truck Options - PSBT Option	1	0	0
+1493237862	Truck Options - Dispatch Speed	1	0	0
+1493237863	Software Versions - DSC Software Version	0	0	0
+1493237864	Software Versions - DSC IFS Version	0	0	0
+1493237865	Software Versions - DSC OS Version	0	0	0
+1493237866	Software Versions - Inverter 1 Version	0	0	0
+1493237867	Software Versions - Inverter 1 OS Version	0	0	0
+1493237868	Software Versions - Inverter 2 Version	0	0	0
+1493237869	Software Versions - Inverter 2 OS Version	0	0	0
+1493237870	Truck Speed - Truck Speed	10544.5815	0	11
+1493237871	Truck Speed - Active Truck Speed Limit	10544.5815	0	11
+1493237872	Truck Speed - OEM Requested Truck Speed Limit	10544.5815	0	11
+1493237873	Truck Speed - 10 Times 3rd Party Requested Speed Limit	10544.5815	0	11
+1493237874	Wheel Speeds - FL MPH	3276.8	-3276.8	11
+1493237875	Wheel Speeds - FR MPH	3276.8	-3276.8	11
+1493237876	Wheel Speeds - RL MPH	3276.8	-3276.8	11
+1493237877	Wheel Speeds - RR MPH	3276.8	-3276.8	11
+1493237878	Control - Accel Pct	255	0	25
+1493237879	Control - Retard Pct	255	0	25
+1493237880	Control - Direction	255	0	0
+1493237881	Control - State	255	0	0
+1493237882	Control - Inv Status	255	0	0
+1493237883	Control - Drive Status	255	0	0
+1493237884	Engine / Power-Engine Speed	65535	0	28
+1493237885	Engine / Power-HP Feedback - Alt In	48869.4495	0	12
+1493237886	Engine / Power-Retard HP	48869.4495	0	12
+1493237887	Engine / Power-Link Voltage	3276.8	-3276.8	31
+1493237888	Condition-Battery Voltage	3276.8	-3276.8	31
+1493237889	Condition-Cooling Blower Speed	65535	0	28
+1493237890	Condition-Gauge Temp	255	0	25
+1493237891	Condition-Cooling Temp	127	-127	5
+1493237892	Condition-Barometric Pressure	22592	-22592	9
+1493237893	Motor Power-Torque Feedback 1	444334	-444334	24
+1493237894	Motor Power-Torque Feedback 2	444334	-444334	24
+1493237895	Motor Power-Motor 1 Speed	65535	0	28
+1493237896	Motor Power-Motor 2 Speed	65535	0	28
+1493237897	Digital Input / Output #1-FB104 A DI A	255	0	0
+1493237898	Digital Input / Output #1-FB104 A DI B	255	0	0
+1493237899	Digital Input / Output #1-FB104 A DI C	255	0	0
+1493237900	Digital Input / Output #1-FB104 A DO A	255	0	0
+1493237901	Digital Input / Output #1-FB104 A DO B	255	0	0
+1493237902	Digital Input / Output #1-FB104 A DO C	255	0	0
+1493237903	Digital Input / Output #2-FB104 B DI A	255	0	0
+1493237904	Digital Input / Output #2-FB104 B DI B	255	0	0
+1493237905	Digital Input / Output #2-FB104 B DI C	255	0	0
+1493237906	Digital Input / Output #2-FB104 B DO A	255	0	0
+1493237907	Digital Input / Output #2-FB104 B DO B	255	0	0
+1493237908	Digital Input / Output #2-FB104 B DO C	255	0	0
+1493237909	Speed Settings-Max Speed Unloaded	410.295	0	11
+1493237910	Speed Settings-Max Speed Loaded	410.295	0	11
+1493237911	Speed Settings-Max Speed Overloaded	410.295	0	11
+1493237912	Speed Settings-Max Speed Reverse	410.295	0	11
+1493237913	Speed Settings-Max Speed - 2nd Speed Option	410.295	0	11
+1493237914	Speed Settings-Max Speed - Bed Up	410.295	0	11
+1493237915	Speed Settings-Max Speed Bed Up - With Override	410.295	0	11
+1493237916	Control Power Switch Feedback	1	0	0
+1493237917	Key Switch	1	0	0
+1493237918	Power Supply OK	1	0	0
+1493237919	GF Contactor Feedback	1	0	0
+1493237920	GF Cutout Switch	1	0	0
+1493237921	Control Group Pressure Sensor Switch	1	0	0
+1493237922	Axle Box Pressure Sensor Switch	1	0	0
+1493237923	Parking Brake Request (If GE Controls Parking Brake 930E-1/2 And Some-3s)	1	0	0
+1493237924	Service Brake Feedback (Will Be N/A If On KRPC CAN Network)	1	0	0
+1493237925	Parking Brake Feedback	1	0	0
+1493237926	Payload Meter - Green Scoreboard Light (Connected To GE On Invertex/ABM Equipped Trucks)	1	0	0
+1493237927	Dump Body Down	1	0	0
+1493237928	Propulsion Lockout Switch	1	0	0
+1493237930	Selector Switch - Forward Request	1	0	0
+1493237931	Selector Switch - Reverse Request	1	0	0
+1493237932	Data Store Request	1	0	0
+1493237933	Retard Speed Control Switch	1	0	0
+1493237934	Dump Override / Weak Reset Switch	1	0	0
+1493237935	Rest Mode Request	1	0	0
+1493237936	Power Supply - Unregulated Output	1	0	0
+1493237937	ABM - Front Brake Pressure (Connected To GE On Invertex/2 Pedal Systems Equipped With ABM)	1	0	0
+1493237938	Engine Warning (Red Light) (Wil Be N/A If DSC Connected To J1939 CAN Network)	1	0	0
+1493237939	Pre-Shift Brake Test Request	1	0	0
+1493237948	Control Power Relay Command	1	0	0
+1493237950	Gate Drive Power Supply #1 Enable (GTO Trucks Only 930E-1/-2/-3/-3SE)	1	0	0
+1493237951	Alternator Field Static Exciter Enable	1	0	0
+1493237952	OEM Speed Set #1	1	0	0
+1493237953	OEM Speed Set #2	1	0	0
+1493237954	Retard Light (External)	1	0	0
+1493237955	Reverse Light	1	0	0
+1493237956	Generator Field Contactor Command	1	0	0
+1493237957	Generator Field Relay Command	1	0	0
+1493237958	Retard Contactor #1 Command	1	0	0
+1493237959	Retard Contactor #2 Command	1	0	0
+1493237960	Retard Contactor #3 Command (IF Equipped 960E/980E-4)	1	0	0
+1493237961	Battery Boost Enable	1	0	0
+1493237962	Chopper Module Control	1	0	0
+1493237963	Gate Drive Power Supply #2 Enable (For GTO Trucks Only 930E-1/-2/-3/-3SE)	1	0	0
+1493237965	System Run	1	0	0
+1493237966	Forward True	1	0	0
+1493237967	Reverse True	1	0	0
+1493237968	PSC Warning Light	1	0	0
+1493237969	No Propel Light	1	0	0
+1493237970	No Retard Light	1	0	0
+1493237971	Pre-Shift Brake Test Light	1	0	0
+1493237980	Engine Kill (Will Be N/A If On KRPC CAN Network)	1	0	0
+1493237981	Autonomous Mode Request (Will Be N/A If On KRPC CAN Network)	1	0	0
+1493237982	Engine Start Request (Will Be N/A If On KRPC CAN Network)	1	0	0
+1493237983	ABM - Lock Solenoid (Assisted Brake Management)	1	0	0
+1493237984	ABM - Power	1	0	0
+1493237985	ABM - Operator Lock Switch	1	0	0
+1493237989	Full Payload (Will Be N/A If On KRPC CAN Network)	1	0	0
+1493237990	OverPayload (Will Be N/A If On KRPC CAN Network)	1	0	0
+1493237991	Lamp Test Request (If Equipped)	1	0	0
+1493237992	Engine Speed Increase #1	1	0	0
+1493237993	Engine Speed Increae #2	1	0	0
+1493237994	Wheel Motor Heater Feedback 1 (If Equipped)	1	0	0
+1493237995	Wheel Motor Heater Feedback 2 (If Equipped)	1	0	0
+1493237996	Quad Chopper Hi Power Module Installed	1	0	0
+1493237998	OEM Accel Inhibit	1	0	0
+1493237999	Mine Reduced Speed Switch (If Equipped)	1	0	0
+1493238000	Mid Payload DI (Will Be N/A If On KRPC CAN Network)	1	0	0
+1493238002	Engine Warmup Switch	1	0	0
+1493238003	Engine Caution (Yellow Light)(Will Be N/A If DCS Is On CAN Network)	1	0	0
+1493238012	Retard Mode	1	0	0
+1493238013	Propel Mode	1	0	0
+1493238014	Auto Ground Check - Relay Output	1	0	0
+1493238016	ABM - Brake Command	1	0	0
+1493238020	Retard Light	1	0	0
+1493238021	Temperature Warning Light	1	0	0
+1493238022	DC Link ON Light	1	0	0
+1493238023	Retard Continuous Light	1	0	0
+1493238024	Reduced (Limp Mode) Light	1	0	0
+1493238025	PSC/DSC Not Ready Light	1	0	0
+1493238026	REST Mode Light	1	0	0
+1493238027	Wheel Motor Heater Commnad #1 (If Equipped)	1	0	0
+1493238028	Wheel Motor Heater Command #2 (If Equipped)	1	0	0
+1493238029	Heart Beat Signal (To Autonomous)	1	0	0
+1493238031	Engine Winter Mode Output	1	0	0
+1493238032	Engne Crank Command	1	0	0
+1493238033	Parking Brake ON (If GE Controls Parking Brake 930E-1/2 And Some-3s)	1	0	0
+1493238034	ABM - Inhibited Warning	1	0	0
+1493238035	ABM - Impending Brake Release Warning	1	0	0
+1493238036	Truck Type	4294967295	0	0
+1493238037	Truck ID	65535	0	0
+1493238038	Driver ID	65535	0	0
+1493238039	Truck Travel	4294967295	0	8

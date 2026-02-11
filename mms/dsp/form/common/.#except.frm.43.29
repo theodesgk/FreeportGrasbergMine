@@ -1,0 +1,923 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1995
+..               All Rights Reserved
+..  $RCSfile: .#except.frm.43.29,v $
+.. $Revision: 1.1 $
+..   $Author: zambetis $
+..     $Date: 2008/06/05 17:06:48 $
+..    $State: Exp $
+..
+..................................................
+..
+.. constants & macros
+..
+.key DO DSP$ACCEPT:=1
+.key ^J DSP$ACCEPT:=1
+.key F1 DSP$ACCEPT:=1
+.key F2 exit
+.. *** IMPORTANT NOTE ***
+.. act_switches and act_constants are 
+.. included in act_except.frm
+..
+.include sounds
+..
+.if FOREMAN_MODULE
+.include dispmod_foreman_except
+.else
+.expr FRMNACT() (
+      return("")
+      )
+.endif
+..
+.if DRILL_MODULE
+.include drill/drillexcept
+.endif
+..
+.if PROXIMITY_MODULE
+.include proximity/proximity_exception
+.endif
+..................................................
+..
+..
+..................................................
+..
+.. totals and variables
+..
+.vint DSPCODE{DSP$CODE<0? FMT(3) :DSP$CODE} 0 999 (
+      DSP$CODE:=DSPCODE
+      )
+.vstr BLNK{dictdef_confmsg}
+.vstr ARMESG{dictdef_armesg}
+..................................................
+..
+..
+..................................................
+..
+.. expresssions
+..
+.expr DISPTIME() (
+      (DSP$TIME+DSP$START)[%h]
+      )
+..
+.expr EQUIP() ( DSP$EQMT[%..2s] )
+..
+.expr OPER() (
+      case( int DSP$UNIT )
+      ..(
+        unit_truck : T$OPNAME.4 = FMT(3) ?
+                       (dictdef_nooper)[^[[5;31m%s^[[0m] :
+                       T$OPNAME.4 = T$OPNAME.2 ?
+                         ( T$OPNAME.4 )[^[[5;32m%s^[[0m] :
+                         ( T$OPNAME.4 )[^[[5;33m%s^[[0m]
+        unit_excav : E$OPNAME.4 = FMT(3) ?
+                       (dictdef_nooper)[^[[5;31m%s^[[0m] :
+                       E$OPNAME.4 = E$OPNAME.2 ?
+                         ( E$OPNAME.4 )[^[[5;32m%s^[[0m] :
+                         ( E$OPNAME.4 )[^[[5;33m%s^[[0m]
+        default    : A$OPNAME.4 = FMT(3) ?
+                       (dictdef_nooper)[^[[5;31m%s^[[0m] :
+                       A$OPNAME.4 = A$OPNAME.2 ?
+                         ( A$OPNAME.4 )[^[[5;32m%s^[[0m] :
+                         ( A$OPNAME.4 )[^[[5;33m%s^[[0m]
+        )
+      )
+..
+.expr EMERG() (
+      PRINTF("^G^[[1;5;31m^[#3###%{EQUIP} has an EMERGENCY.\n"),
+      PRINTF("^[[1;5;31m^[#4###%{EQUIP} has an EMERGENCY.^[[0m\n"),
+      PRINTF("^G^[[1;5;33m^[#3###%{EQUIP} has an EMERGENCY.\n"),
+      PRINTF("^[[1;5;33m^[#4###%{EQUIP} has an EMERGENCY.^[[0m\n"),
+      PRINTF("^G^[[1;5;35m^[#3###%{EQUIP} has an EMERGENCY.\n"),
+      PRINTF("^[[1;5;35m^[#4###%{EQUIP} has an EMERGENCY.^[[0m\n"),
+      nil
+      )
+..
+..................................................
+..
+..
+..................................................
+..
+.. ALARM exceptions
+..
+.menu ALARM_00
+!!!{DSP$VSMS} VSMS alarm received from {DSP$EQMT}.
+..................................................
+..
+..
+..................................................
+..
+.. ARRIVE exceptions
+..
+.menu ARRIVE_01
+!!!{DSP$EQMT} pressed Arrive.
+   {DSP$EXPECT}
+   Enter the Location of >T$ID>: <T$NEXT          !
+   Enter Material type in >T$ID>: <T$LOAD         !
+   Enter Ore Blast in >T$ID>:    <T$GRADE         !
+..
+.menu ARRIVE_02
+!!!{DSP$EQMT} pressed Arrive at UNKNOWN Location.
+   Enter the Location of >T$ID>:  <T$NEXT          !
+   Enter Material type in >T$ID>: <T$LOAD          !
+   Enter Ore Blast in >T$ID>:     <T$GRADE         !
+..
+.menu ARRIVE_03
+!!!{DSP$EQMT} pressed Arrive.
+   Only Trucks and Tramming Loaders may press Arrive.
+..
+.menu ARRIVE_04
+!!!{DSP$EQMT} pressed Arrive #{DSP$CODE} to arrive at unexpected Location.
+   {DSP$EXPECT}
+   Enter the Location of >T$ID>:  <T$NEXT          !
+   Enter Material type in >T$ID>: <T$LOAD          !
+   Enter Ore Blast in >T$ID>:     <T$GRADE         !
+..
+.menu ARRIVE_05
+!!!{DSP$EQMT} {OPER} pressed ARRIVE.
+   {DSP$EXPECT}
+   Enter location of >E$ID>: <E$LOC           !
+   Enter Material type in >E$ID>: <E$TRAMLOAD      !
+   Enter Ore Blast in >E$ID>:     <E$GRADE         !
+..
+.menu ARRIVE_06
+!!!{DSP$EQMT} {OPER} pressed ARRIVE #{DSP$CODE} to arrive at UNEXPECTED location.
+   {DSP$EXPECT}
+   Enter location of >E$ID>: <E$LOC           !
+   Enter Material type in >E$ID>: <E$TRAMLOAD      !
+   Enter Ore Blast in >E$ID>:     <E$GRADE         !
+..
+.menu ARRIVE_07
+!!!{DSP$EQMT} {OPER} pressed ARRIVE at UNKNOWN location.
+   Enter location of >E$ID>: <E$LOC           !
+   Enter Material type in >E$ID>: <E$TRAMLOAD      !
+   Enter Ore Blast in >E$ID>:     <E$GRADE         !
+..................................................
+..
+..
+..................................................
+..
+.. ASSIGN exceptions
+..
+.menu ASSIGN_01
+!!!{DSP$EQMT} pressed Assign.
+   {DSP$EXPECT}
+   Enter the Location of >T$ID>:  <T$LOC           !
+   Enter Material type in >T$ID>: <T$LOAD          !
+   Enter Ore Blast in >T$ID>:     <T$GRADE         !
+..
+.menu ASSIGN_02
+!!!{DSP$EQMT} pressed Assign at UNKNOWN Location.
+   Enter the Location of >T$ID>:  <T$LOC           !
+   Enter Material type in >T$ID>: <T$LOAD          !
+   Enter Ore Blast in >T$ID>:     <T$GRADE         !
+..
+.menu ASSIGN_03
+!!!{DSP$EQMT} pressed Assign.
+   Only Trucks and Tramming Loaders may press Assign.
+..
+.menu ASSIGN_04
+!!!Cannot assign {T$LOAD} {DSP$EQMT}.
+   {DSP$EQMT} is Spare at {T$LOC}.
+..
+.menu ASSIGN_05
+!!!{DSP$EQMT} pressed Assign to a Delayed Shovel
+   {DSP$EXPECT}
+   Enter the Location of >E$ID>:  <E$LOC           !
+   Enter Material type in >E$ID>: <E$LOAD          !
+   Enter Ore Blast in >E$ID>:     <E$GRADE         !
+..
+.menu ASSIGN_06
+!!!{DSP$EQMT} pressed Assign.
+   {DSP$EXPECT}
+   Enter the Location of >E$ID>:  <E$LOC           !
+   Enter Material type in >E$ID>: <E$TRAMLOAD      !
+   Enter Ore Blast in >E$ID>:     <E$GRADE         !
+..
+.menu ASSIGN_07
+!!!{DSP$EQMT} pressed Assign at UNKNOWN Location.
+   Enter the Location of >E$ID>:  <E$LOC           !
+   Enter Material type in >E$ID>: <E$TRAMLOAD      !
+   Enter Ore Blast in >E$ID>:     <E$GRADE         !
+..
+.menu ASSIGN_08
+!!!Cannot Assign {E$TRAMLOAD} {DSP$EQMT}.
+   {DSP$EQMT} is Spare at {E$LOC}.
+..
+.menu ASSIGN_09
+!!!{DSP$EQMT} Assigned to DELAYED {E$LOC}
+..................................................
+..
+..
+..................................................
+..
+.. DISPATCHER exceptions
+..
+.menu DISPATCHER_01
+!!!{DSP$EQMT} TMPH({T$TMPH}) exceeds maximum TMPH.
+..
+.menu DISPATCHER_02
+!!!{DSP$EQMT} lock to Shovel {T$ELOCK} ignored.
+   Enter New Assignment for >T$ID>: <T$ASSIGN        !
+..
+.menu DISPATCHER_03
+!!!{DSP$EQMT} lock to {T$DLOCK} ignored.
+   Enter New Assignment for >T$ID>: <T$ASSIGN        !
+..
+.menu DISPATCHER_04
+!!!{DSP$EQMT} pressed ASSIGN #{DSP$CODE} to {DSP$SHOP}.
+   Enter New Assignment for >T$ID>: <T$ASSIGN        !
+..
+.menu DISPATCHER_05
+!!!{DSP$EQMT} pressed ASSIGN #{DSP$CODE} to UNKNOWN shop.
+..
+.menu DISPATCHER_06
+.. DISPATCHER_06 is reserved for a potential TMPH exception in the future
+..
+.menu DISPATCHER_07
+!!!{DSP$EQMT} lock to {E$DIGLOCK} ignored.
+   Enter new assignment for >E$ID  >: <E$ASSIGN2              _
+..
+.menu DISPATCHER_08
+!!!{DSP$EQMT} lock to {E$DLOCK} ignored.
+   Enter new assignment for >E$ID  >: <E$ASSIGN2              _
+..
+.menu DISPATCHER_09
+!!!{DSP$EQMT} pressed ASSIGN #{DSP$CODE} to {DSP$SHOP}.
+   Enter new assignment for >E$ID  >: <E$ASSIGN2              _
+..
+.menu DISPATCHER_10
+!!!{DSP$EQMT} pressed ASSIGN #{DSP$CODE} to UNKNOWN Shop.
+..................................................
+..
+..
+..................................................
+..
+.. ERROR exceptions
+..
+.menu "BAD ALARM_00"
+!!!Can't talk to VSMS alarm processor in {DSP$EQMT}.
+..
+.menu "BAD KEYBD_00"
+!!!Can't talk to the keyboard processor in {DSP$EQMT}.
+..
+.menu BADPANEL_00
+!!!Unknown Field Panel {DSP$CODE} received from the field.
+..................................................
+..
+..
+..................................................
+..
+.. DELAY exceptions
+..
+.menu DELAY_00 (EXCEPT_SOUND_INTERACT,COLOR_EX)
+!!!{DSP$EQMT} is Delayed for {DSP$REASON}.
+   Enter Reason Code for the Delay:                <DSP$CODE_
+   Enter expected length of Delay (mins.)         <DSP$DELAY_
+   Enter Delay Comments:        <DSP$COMMENT                _
+   Enter Starting Time of Delay:                  <DSP$TTIME_
+..
+.menu DELAY_01 (COLOR_EX)
+###{DSP$EQMT} pressed Delay while not Ready or Delayed.
+..
+.menu DELAY_02 (COLOR_EX)
+###{DSP$EQMT} pressed Delay during LOAD, Delay ignored.
+..
+.menu DELAY_04 (COLOR_EX)
+..................................................
+..
+..
+..................................................
+..
+.. DOWN exceptions
+..
+.menu DOWN_00 (EXCEPT_SOUND_INTERACT,COLOR_EX)
+!!!{DSP$EQMT} is Down for {DSP$REASON}.
+   Enter Reason Code for the Down:             <DSP$CODE_
+   Enter Down Comments:        <DSP$COMMENT                _
+   Enter Starting Time of Down:                  <DSP$TTIME_
+..
+.menu DOWN_04 (COLOR_EX)
+###Enter Option before Downing {DSP$EQMT}.
+   Manually Assign a Truck:         <T$ID! to <       T$ASSIGN!
+   Ready Another Shovel:            <E$READY    _
+   Down >E$ID> and Leave Trucks:    <DSP$EDOWN.0_
+   Down >E$ID> and Reassign Trucks: <DSP$EDOWN.1_
+..................................................
+..
+..
+..................................................
+..
+.. Equipment Request exceptions
+..
+.menu "EQMT REQUEST_03" (EXCEPT_SOUND_MESSAGE)
+###{DSP$EQMT} ({OPER}) answered YES.
+..
+.menu "EQMT REQUEST_04" EXCEPT_SOUND_MESSAGE
+###{DSP$EQMT} ({OPER}) answered NO.
+.expr SPLITGRD() (
+      DSP$CODE = 0 ?
+        return("Grade") :
+        return((DSP$CODE)[Split %d])
+      )
+.expr EMATL() (
+      bkMatlByGrade ?
+        return(E$GRADE.(DSP$CODE)) :
+        return(E$LOAD.(DSP$CODE))
+      )
+.menu "EQMT REQUEST_05" EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} Requesting {SPLITGRD} Change to {DSP$COMMENT}
+   Current {SPLITGRD} is {EMATL}.
+   Accept {SPLITGRD} Change? <ARMESG                      <
+..
+.menu "EQMT REQUEST_06" EXCEPT_SOUND_INFORM
+###{DSP$EQMT} Changed {SPLITGRD} from {EMATL} to {DSP$COMMENT}.
+..
+.menu "EQMT REQUEST_07" EXCEPT_SOUND_INTERACT
+###{DSP$EQMT} wishes to Self-Assign to {DSP$COMMENT}.
+   Do you wish to allow this? <ARMESG                 <
+..
+.menu "EQMT REQUEST_08" EXCEPT_SOUND_INFORM
+###{DSP$EQMT} Self-Assigned to {DSP$COMMENT}.
+..
+.menu "EQMT REQUEST_09" EXCEPT_SOUND_INTERACT
+###{DSP$EQMT} wishes to change location to {DSP$COMMENT}.
+   Do you wish to allow this? <ARMESG                 <
+..
+.menu "EQMT REQUEST_10" EXCEPT_SOUND_INFORM
+###{DSP$EQMT} location changed to {DSP$COMMENT}.
+..
+.menu "EQMT REQUEST_11" EXCEPT_SOUND_INTERACT
+###{DSP$EQMT} wishes to Manually Set Truck {DSP$COMMENT} Loading.
+   Do you wish to allow this? <ARMESG                 <
+..
+.menu "EQMT REQUEST_12" EXCEPT_SOUND_INFORM
+###{DSP$EQMT} Manually Set {DSP$COMMENT} Loading.
+..
+.menu "EQMT REQUEST_50" EXCEPT_SOUND_INFORM
+!!!{DSP$EQMT} performed the following Action:
+   {FRMNACT}
+..
+.menu "EQMT REQUEST_51" EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} requests the following Action:
+   {FRMNACT}
+   Do you wish to Accept this Action? <ARMESG                 <
+..
+.menu "EQMT REQUEST_60" EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} is filling water at {A$LOC}
+   This location has more than one Water Quality Record
+   Please select a Water Quality for {A$ID[%..2s]}: <A$GRADE          _
+..
+.if !AUXTASK_EXTYPE
+.menu "EQMT REQUEST_70" EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} is starting the following task:
+   {DSP$COMMENT}
+.else
+.menu "EQMT REQUEST_70" EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} is starting the following task:
+   {DSP$COMMENT}
+   Do you wish to Accept this Action? <ARMESG                 <
+.endif
+..
+.. exception for when operator sends in operating hours
+.menu "EQMT REQUEST_100"
+###{DSP$EQMT} entered engine hour reading of {DSP$COMMENT}.
+   This is out of range of current reading of {DSP$CODE}.
+   Do you wish to Accept this hours? <ARMESG                 <
+..
+..................................................
+..
+..
+..................................................
+..
+.. FUEL exceptions
+..
+.menu FUEL_00
+###{DSP$EQMT} pressed fuel with {DSP$CODE} Gallons.
+   Enter Number of Gallons of Fuel: <DSP$CODE_
+..
+.menu FUEL_01
+!!!{DSP$EQMT} only has {DSP$CODE} Gallons of fuel remaining.
+..................................................
+..
+.. FULL exceptions
+..
+.menu FULL_01 (EXCEPT_SOUND_INTERACT)
+!!!{DSP$EQMT} pressed FULL with {DSP$MATL}.
+   {DSP$EXPECT}
+   Enter Truck JUST loaded by >E$ID>: <T$ID!
+..
+.menu FULL_02 EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} pressed FULL with {DSP$MATL} at UNKNOWN Location.
+   Enter current Location of >E$ID>: <E$LOC        !
+..
+.menu FULL_03 EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} entered UNKNOWN Grade #{DSP$CODE}.
+   Enter Grade for >E$ID>: <E$GRADE        !
+..
+.menu FULL_04
+!!!{DSP$EQMT} pressed {DSP$ACTION}.
+   Only Shovels may press {DSP$ACTION}.
+..
+.menu FULL_05
+###Delayed {DSP$EQMT} has finished loading his last Truck.
+..
+.menu FULL_06
+!!!{DSP$EQMT} pressed {DSP$ACTION}.
+   {DSP$EXPECT}
+   Enter location of >E$ID  >: <E$LOC                   _
+   Enter Material type to be loaded by >E$ID  >: <E$TRAMLOAD         _
+   Enter Ore Blast to be loaded by >E$ID  >:     <E$GRADE            _
+..
+.menu FULL_07
+.expr NEXTDIGLOC (E$ID, E$DIGLOCK ? E$DIGLOCK : "closest",E$DIGLOCK ? E$DIGLOCK[%..2s] : "blast or stockpile")[Or %s will load next at %a %a]
+###{DSP$EQMT} already completed Work Tramming Schedule {E$TRAMSCHED}
+   Assign new Tramming Schedule to {DSP$EQMT}
+   {NEXTDIGLOC}
+..
+.menu FULL_08
+###Inventory level of Grade {G$ID} is at {G$INV} tons.
+..
+.menu FULL_10
+!!!{DSP$EQMT} pressed {DSP$ACTION} with {DSP$COMMENT}
+   Dispatch grade is indicated as {E$GRADE}
+   Enter Correct Grade for >E$ID>: <E$GRADE        !
+..................................................
+.if HPGPS_EXCAV_CLIENT
+..
+..PANFULL Exceptions
+..................................................
+.vbool DUM{"Ok"} TRN$ACCEPT := 1
+.vstr TRKID
+.vstr GRDMATL
+.expr ParsePanfullArgs( sComments ) (
+    DECODE( sComments, "'%s' '%s'", TRKID, GRDMATL )
+)
+..
+.menu "HP PANFULL_01" ( ParsePanfullArgs( DSP$COMMENT ))
+!!!{E$ID} loaded {TRKID} with {E$GRADE}({E$LOAD}). GPS system
+   indicates material is {DSP$CODE}% {E$GLOC}({GRDMATL}). 
+   Please Re-assign {TRKID} to an appropriate dumping location.
+
+   Press Ok to Acknowledge: < DUM _
+..
+.endif
+..................................................
+..
+..
+..................................................
+..
+.. HELP exceptions
+..
+.menu HELP_00
+###{DSP$EQMT} is requesting HELP #{DSP$CODE}.
+..
+.menu HELP_911 EXCEPT_SOUND_EMERGENCY
+{EMERG}
+<BLNK                                         <
+..................................................
+..
+..
+..................................................
+..
+.. LATE exceptions
+..
+.menu LATE_00
+###{DSP$EQMT} is {DSP$LATE} minutes late.
+   {DSP$EXPECT}
+..
+.menu LATE_01
+###{DSP$EQMT} is {DSP$LATE} minutes late.
+   {DSP$EXPECT}
+..................................................
+..
+..
+..................................................
+..
+.. LOAD exceptions
+..
+.menu "FIRST BUCKET_01"
+!!!{DSP$EQMT} pressed Load.
+   {DSP$EXPECT}
+   Enter Shovel that is loading >T$ID>: <E$ID!
+..
+.menu "FIRST BUCKET_02"
+!!!{DSP$EQMT} pressed Load at UNKNOWN Shovel.
+   Enter Shovel that is loading >T$ID>: <E$ID!
+..
+.menu "FIRST BUCKET_03"
+!!!{DSP$EQMT} pressed Load.
+   Only Trucks or Tramming Loaders may press Load.
+..
+.menu "FIRST BUCKET_04"
+!!!{DSP$EQMT} pressed Load at {E$ID}.
+   {E$ID} is already loading {E$LOADING}.
+   Enter Shovel that is loading >T$ID>: <E$ID!
+..
+.menu "FIRST BUCKET_05"
+!!!{DSP$EQMT} pressed Load at {E$STATUS} Shovel {E$ID}.
+   Enter Shovel that is loading >T$ID>: <E$ID!
+..
+.menu "FIRST BUCKET_06"
+!!!{DSP$EQMT} pressed {DSP$ACTION}.
+   {DSP$EXPECT}
+   Enter location of >E$ID  >: <E$LOC                 _
+..
+.menu "FIRST BUCKET_07"
+!!!{DSP$EQMT} pressed LOAD in UNKNOWN location.
+   Enter location of >E$ID  >: <E$LOC                 _
+..
+.equ MD MaxGpsDistance
+..
+.menu "FIRST BUCKET_10"
+!!!{DSP$EQMT} pressed Load > MD> meters from Shovel.
+   Press REJECT or Accept:
+   Enter Shovel that is loading >T$ID>: <E$ID!
+..................................................
+..
+..
+..................................................
+..
+..
+..Interface exceptions
+..
+.vstr LEVEL
+.vstr EVENT
+.vstr DESC
+.expr ParseVimsComnt(comment) (
+      DECODE(comment,"%s-%s-%s",EVENT,LEVEL,DESC)
+      )
+.menu INTERFACE_70 (ParseVimsComnt(DSP$COMMENT),EXCEPT_SOUND_INTERACT,COLOR_EX)
+!!!{DSP$EQMT} Reported Activation of a Level {LEVEL} VIMS Event # {EVENT}
+   Description: {DESC}
+   <BLNK                                           <
+..
+.menu INTERFACE_80 EXCEPT_SOUND_INFORM
+!!!{DSP$EQMT} Reported VSM Alarm Event from Digital Channel {DSP$CODE}
+   Description: {DSP$COMMENT}
+..
+.menu INTERFACE_81 EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} Reported VSM Alarm Event from Digital Channel {DSP$CODE}
+   Description: {DSP$COMMENT}
+   <BLNK                                           <
+..
+.menu INTERFACE_83 EXCEPT_SOUND_INFORM
+!!!{DSP$EQMT} Reported Unknown or Unconfigured VSM Event
+   from Digital Channel {DSP$CODE}
+..
+.menu INTERFACE_82 EXCEPT_SOUND_INFORM
+!!!{DSP$EQMT} Reported the following VSM Channel has returned to NORMAL
+   {DSP$COMMENT}
+..
+.menu INTERFACE_428 EXCEPT_SOUND_INFORM
+!!!{DSP$EQMT} Reported a DeMag Interface Alarm
+{DSP$COMMENT}
+.menu INTERFACE_95 EXCEPT_SOUND_INFORM
+!!!{DSP$EQMT} Reported a VSMS Interface Alarm
+Alarm was digital input # %{DSP$CODE} - %{DSP$COMMENT}
+..
+.if INTF_TIRE
+.include tireintf/except_tire_include
+.endif
+..
+.if INTF_STATEX
+.include statex/statex_except
+.endif
+..
+.if INTF_MINECARE
+.include minecare/mc_except
+.endif
+..
+..................................................
+..
+..
+..................................................
+..
+.. Logon exceptions
+..
+.menu "LOGON_00"
+###{DSP$EQMT} pressed a button before operator OPER ID.
+   Have operator enter correct OPER ID.
+..
+.menu "LOGON_01"
+###{DSP$EQMT} pressed UNKNOWN OPER ID {DSP$CODE}.
+   Have operator enter correct OPER ID.
+..
+.menu "LOGON_02" EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} pressed {DSP$OPER.2} OPER ID {DSP$OPER.0}({DSP$OPER.1}).
+   {DSP$OPER.0} is not LINED UP on this equipment.
+   Accept OPER ID? <ARMESG                 _
+..
+.expr GetOperName() (
+      W$ID((CONFIG("WORKERFMT"),DSP$COMMENT)[%s])
+      )
+.menu LOGON_03 (GetOperName,EXCEPT_SOUND_INTERACT)
+!!! {W$NAME} attempted to LOGON on to {DSP$EQMT}.
+    This operator is not qualified to operate this equipment.
+    Accept this logon? <ARMESG                                <
+..
+..................................................
+..
+..
+..................................................
+..
+.. Maintenance exceptions
+..
+.menu MANASN_01
+!!!{DSP$EQMT} TMPH({T$TMPH}) exceeds maximum TMPH.
+..
+.menu MANASN_02
+!!!{DSP$EQMT} lock to Shovel {T$ELOCK} ignored.
+   Enter New Assignment for >T$ID>: <T$ASSIGN        _
+..
+.menu MANASN_03
+!!!{DSP$EQMT} lock to {T$DLOCK} ignored.
+   Enter New Assignment for >T$ID>: <T$ASSIGN        _
+..
+.menu MANASN_04
+!!!{DSP$EQMT} pressed ASSIGN #{DSP$CODE} to {DSP$SHOP}.
+   Enter New Assignment for >T$ID>: <T$ASSIGN        _
+..
+.menu MANASN_05
+!!!{DSP$EQMT} pressed ASSIGN #{DSP$CODE} to UNKNOWN shop.
+.menu MANASN_10
+!!! Can't assign {DSP$EQMT} to a Maintenance Shop.
+    Check Maintenance Shop Status and Queue Length, and
+    make sure a Maintenance Shop exists in Mine Database.
+.menu MANASN_11
+!!! {DSP$EQMT} is due for Maintenance. Check operating hours.
+    Check Service Date or Service Interval.
+.menu MANASN_12
+!!! {DSP$EQMT} is due for Maintenance. Check Service Date.
+.menu MANASN_13
+!!! {DSP$EQMT} is scheduled for Maintenance in {DSP$COMMENT} minutes.
+..................................................
+..
+..
+..................................................
+..
+.. COMMS exceptions
+..
+.menu "NO OK_00"
+!!!{DSP$EQMT} did not OK his message at {DSP$LOC}.
+..
+.menu "NO TALK_00"
+!!!Can't talk to {DSP$EQMT} at {DSP$LOC}.
+..................................................
+..
+..
+..................................................
+..
+.. Prestart exceptions
+..
+.menu PRESTART_00
+!!!{DSP$EQMT} failed the following Pre-Start Item
+   {DSP$COMMENT}
+..
+.menu PRESTART_01 EXCEPT_SOUND_INTERACT
+!!!{DSP$EQMT} failed critical Pre-Start items
+   {DSP$COMMENT}
+   Equipment should NOT be operated!
+   <BLNK                                       <
+..................................................
+..
+..
+..................................................
+..
+.. READY exceptions
+..
+.menu READY_01 (EXCEPT_SOUND_INTERACT,COLOR_EX)
+!!!{DSP$EQMT} pressed Ready at UNKNOWN Location.
+   Enter the Location of >T$ID>:   <T$LOC          !
+   Enter Material type in >T$ID>: <T$LOAD          !
+   Enter Ore Blast in >T$ID>:     <T$GRADE         !
+..
+.menu READY_02 (EXCEPT_SOUND_INTERACT,COLOR_EX)
+!!!{DSP$EQMT} pressed Ready at UNKNOWN Location.
+   Enter the Location of >E$ID>:           <E$LOC          !
+   Enter Material type >E$ID> is digging: <E$LOAD          !
+   Enter Ore Blast >E$ID> is digging:     <E$GRADE         !
+..
+.menu READY_03 (EXCEPT_SOUND_INTERACT,COLOR_EX)
+!!!{DSP$EQMT} pressed Ready at UNKNOWN Location.
+   Enter Location of >A$ID>: <A$LOC          !
+   Enter Time of Ready:      <DSP$TTIME_
+..
+.menu READY_04 (COLOR_EX)
+###Enter Option to Assign Trucks to {DSP$EQMT}.
+   Manually Assign a Truck to >E$ID>:          <E$ASSIGN!
+   Pick Truck from Nearby Shovel:              <E$PICK  !
+   Ready any Spare Trucks at >E$ID>:         <E$TREADY_
+..
+.menu READY_05 (EXCEPT_SOUND_INTERACT,COLOR_EX)
+!!!{DSP$EQMT} pressed Ready at {E$LOC}.
+   Enter the Location of >E$ID>:           <E$LOC          !
+   Enter Material type >E$ID> is digging: <E$LOAD          !
+   Enter Ore Blast >E$ID> is digging:     <E$GRADE         !
+..................................................
+..
+..
+..................................................
+..
+.. Sign Post Exceptions
+..
+.menu SIGNPOST_00
+!!!{DSP$LOAD} {DSP$EQMT} detected at a WRONG Location.
+..
+.menu BEACON_00
+!!!{DSP$LOAD} {DSP$EQMT} detected at a WRONG Location.
+..................................................
+..
+..
+..................................................
+..
+.. SPARE exceptions
+..
+.menu SPARE_00 (EXCEPT_SOUND_INTERACT,COLOR_EX)
+!!!{DSP$EQMT} is Spare for {DSP$REASON}.
+   Enter Spare Comments:       <DSP$COMMENT                _
+   Enter Starting Time of Spare:                 <DSP$TTIME_
+..
+.menu SPARE_04 (COLOR_EX)
+###Enter Option before making {DSP$EQMT} Spare.
+   Manually Assign a Truck:          <T$ID+ to <       T$ASSIGN!
+   Ready Another Shovel:             <E$READY    _
+   Spare >E$ID> and Leave Trucks:    <DSP$EDOWN.0_
+   Spare >E$ID> and Reassign Trucks: <DSP$EDOWN.1_
+..
+.menu STANDBY_00 (EXCEPT_SOUND_INTERACT,COLOR_EX)
+!!!{DSP$EQMT} is Spare for {DSP$REASON}
+   Enter Spare Comments:       <DSP$COMMENT                _
+   Enter Starting Time of Spare:                 <DSP$TTIME_
+..
+.menu STANDBY_04 (COLOR_EX)
+###Enter Option before making {DSP$EQMT} Spare.
+   Manually Assign a Truck:          <T$ID+ to <       T$ASSIGN!
+   Ready Another Shovel:             <E$READY    _
+   Spare >E$ID> and Leave Trucks:    <DSP$EDOWN.0_
+   Spare >E$ID> and Reassign Trucks: <DSP$EDOWN.1_
+..................................................
+..
+..
+..................................................
+..
+.. OTHER exceptions
+..
+.menu OTHER_02
+###{DSP$EQMT} does NOT have a DISPATCH panel.
+..
+.menu OTHER_03
+   Unlock all Trucks from Shovels? <DSP$UNLOCKb
+..
+.menu OTHER_04
+###Training {DSP$EQMT} pressed {DSP$ACTION}.
+   Only normal Trucks may press {DSP$ACTION}.
+..
+.menu OTHER_05
+###Trucks may start {BRK$ID} from NOW until {BRK$END}.
+..
+.menu OTHER_06
+.expr ST 100.0*(E$FEED.1/E$FEED.0)
+.expr DIS E$DISABLE ? "DISABLED" :""
+.equ EQ E$ID.(ST < 99.0)
+.expr LPQ 3600.0 * LP$QUEUE
+*** DISPATCH recommends {LP$THEOR} Trucks, 
+    allowing {LPQ} seconds queue at each Shovel.
+    You are currently operating {LP$ACTUAL}-{LP$SIZE} Ton Trucks.
+    DISPATCH is using {DIS} {E$LOAD} Shovel >EQ> at >ST> percent capacity.
+..
+.menu OTHER_07
+!!!Can't talk to {DSP$EQMT} at {DSP$LOC}.
+..
+.menu OTHER_08
+!!!Panel hardware diagnostic from {DSP$EQMT}: {DSP$COMMENT}
+..
+.menu OTHER_09
+!!!Keyboard EEPROM in {DSP$EQMT} is initialized.  Please download software.
+..
+.menu OTHER_10 EXCEPT_SOUND_INFORM
+!!!{DSP$EQMT} did not OK his message at {DSP$LOC}.
+..
+.menu OTHER_11
+!!!Can't talk to VSMS alarm processor in {DSP$EQMT}.
+..
+.menu OTHER_12
+!!!Can't talk to keyboard processor in {DSP$EQMT}.
+..
+.expr GM (MaxNoGpsSecs/60.0)[%5.1f]
+.menu OTHER_15
+!!!No GPS location change for {T$ID} for more than > GM> Minutes!
+..
+.menu OTHER_16
+!!!No GPS location change for {E$ID} for more than > GM> Minutes!
+..
+.menu OTHER_17
+!!!No GPS location change for {A$ID[%..2s]} for more than > GM> Minutes!
+..
+.menu OTHER_18
+!!!{DSP$EQMT} on route to {T$NEXT}.
+   {T$NEXT} cannot accept more loads.
+   Enter New Assignment for >T$ID>: <T$ASSIGN        !
+..
+.menu OTHER_20
+!!!Failure in connection between PSWD and network.
+..
+.menu OTHER_21
+!!!Connection between PSWD and network is alive.
+..
+.menu OTHER_22 (EXCEPT_SOUND_MESSAGE,COLOR_EX)
+!!! OTHER DISPATCH PROCESSES ARE RUNNING!
+
+    Exit Dispatch and restart immediately.
+     
+   <BLNK                                           <
+..
+.menu OTHER_23
+.expr ST 100.0*(E$FEED.1/E$FEED.0)
+.expr DIS E$DISABLE ? "DISABLED" :""
+.equ EQ E$ID.(ST < 99.0)
+.expr LPQ 3600.0 * LP$QUEUE
+*** LP calculation is at {LP$CAPACITY} percent capacity.
+    Please consider closing some dumps or routes and using locks
+..
+.menu OTHER_24
+!!! LP calculation is at {LP$CAPACITY} percent capacity!
+    You MUST start closing some dumps or routes, lock shovels to dumps,
+    or use bars to reduce the risk of DISPATCH exceeding its limit.
+    There are currently {LP$LPPATHS} paths and {LP$LPNODES} nodes
+..
+.menu OTHER_25
+!!! LP calculation is taking {LP$CALCTIME} seconds. You must reduce
+    the size of the optimization problem by closing dumps and/or
+    routes and using bars.
+..
+.menu OTHER_55 (EXCEPT_SOUND_MESSAGE,COLOR_EX)
+###A Message From {DSP$EQMT} ({OPER})
+!!! {DSP$COMMENT}
+   <BLNK                                           <
+..
+.menu OTHER_57
+!!!Unknown PKTNO
+..................................................
+..
+..
+..................................................
+..
+..      Slope Monitoring System messages
+..
+.vstr slopeMessage
+.expr SLOPE_DANGER  PRINTF(RED), PRINTF(REV), slopeMessage
+.expr SLOPE_WARNING PRINTF(YELLOW), slopeMessage 
+.expr SLOPE_WATCH   slopeMessage 
+..vstr ACKNOWLEDGE "Y|N"
+.menu OTHER_90
+!!!ATTENTION DISPATCHER         DANGEROUS SLOPE MOVEMENT !!!
+   A SLOPE MONITOR HAS REPORTED MOVEMENT EXCEEDING THE DANGER RATE !
+   Check the Slope Monitoring System transaction screen and
+   notify operators if necessary.
+ {SLOPE_DANGER}
+..   notify operators if necessary. (msg) < ACKNOWLEDGE_.
+.menu OTHER_91
+!!!Attention Dispatcher         Important Slope Message
+   The Slope Monitoring System has posted an important message.
+   Check the Slope Monitoring System transaction screen
+   for additional information.
+ {SLOPE_DANGER}
+..   for additional information.    (msg) < ACKNOWLEDGE_.
+.menu OTHER_92
+***                             Slope Movement Warning
+   A slope monitor has reported movement exceeding the warning rate.
+ {SLOPE_WARNING}
+..                                  (msg) < ACKNOWLEDGE_.
+.menu OTHER_93
+***                             Warning
+   The Slope Monitoring System has posted a warning message.
+ {SLOPE_WARNING}
+..                                  (msg) < ACKNOWLEDGE_.
+.menu OTHER_94
+---                             Slope Movement Watch 
+   A slope monitor has reported movement exceeding the watch rate.
+ {SLOPE_WATCH}
+..                                  (msg) < ACKNOWLEDGE_.
+..
+..................................................
+..
+..	include gpstool box exceptions
+..
+.include hpgps/gpstool_except
+..
+..................................................
+..
+.if language <> nil & language <> "english"
+.include DSP_LANGUAGE/except.frm
+.endif
+..
+..................................................
+..
+.. For client specific exceptions and overrides
+..
+.include client_except
+..
+..................................................
+..
+.. eof except.frm

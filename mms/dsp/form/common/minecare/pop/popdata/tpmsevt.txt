@@ -1,0 +1,21 @@
+OEM Interface Timeout	251789280
+OEM Interface Normal	251789281
+Driver Interface Timeout	251789282
+Driver Interface Normal	251789283
+Dipper Event	251723776
+Cycle Event	251723777
+Dump Event	251723778
+External Lamp Fault Active	251723779
+External Lamp Fault Inactive	251723780
+Memory Storage Fault Active	251723781
+Memory Storage Fault Inactive	251723782
+Pressure Sensor Fault Active	251723783
+Pressure Sensor Fault Inactive	251723784
+Strut Charge Fault Active	251723785
+Strut Charge Fault Inactive	251723786
+Battery Backup Fault Active	251723787
+Battery Backup Fault Inactive	251723788
+Bad Cycle Data Active	251723789
+Bad Cycle Data Inactive	251723790
+Dump Start	251723791
+Load	251723792

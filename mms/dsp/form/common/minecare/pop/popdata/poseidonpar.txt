@@ -1,0 +1,60 @@
+1342242816	Sweep Count	65535	0	0
+1342242817	Sample 1: Frequency	0	0	32
+1342242818	Sample 1: Magnitude	0	0	0
+1342242819	Sample 1: Phase	0	0	4
+1342242820	Sample 1: Temperature Post Reference	0	0	5
+1342242821	Sample 1: Temperature Post Sample	0	0	5
+1342242822	Sample 2: Frequency	0	0	32
+1342242823	Sample 2: Magnitude	0	0	0
+1342242824	Sample 2: Phase	0	0	4
+1342242825	Sample 2: Temperature Post Reference	0	0	5
+1342242826	Sample 2: Temperature Post Sample	0	0	5
+1342242827	Sample 3: Frequency	0	0	32
+1342242828	Sample 3: Magnitude	0	0	0
+1342242829	Sample 3: Phase	0	0	4
+1342242830	Sample 3: Temperature Post Reference	0	0	5
+1342242831	Sample 3: Temperature Post Sample	0	0	5
+1342242832	Sample 4: Frequency	0	0	32
+1342242833	Sample 4: Magnitude	0	0	0
+1342242834	Sample 4: Phase	0	0	4
+1342242835	Sample 4: Temperature Post Reference	0	0	5
+1342242836	Sample 4: Temperature Post Sample	0	0	5
+1342242837	Sample 5: Frequency	0	0	32
+1342242838	Sample 5: Magnitude	0	0	0
+1342242839	Sample 5: Phase	0	0	4
+1342242840	Sample 5: Temperature Post Reference	0	0	5
+1342242841	Sample 5: Temperature Post Sample	0	0	5
+1342242842	Raw Viscosity	0	0	0
+1342242843	Viscometer Temperature	0	0	5
+1342242844	Temperate Compensated Viscosity	0	0	5
+1342242845	Frames Sent - Master	65535	0	0
+1342242846	Frames Received - Master	65535	0	0
+1342242847	Modbus Frame Errors - Master	65535	0	0
+1342242848	Modbus Crc Errors - Master	65535	0	0
+1342242849	Modbus Illegal Functions Or Data Address - Master	65535	0	0
+1342242850	Modbus Illegal Data Value Or Slave Address - Master	65535	0	0
+1342242851	Modbus Slave Device Busy Or Parity Error - Master	65535	0	0
+1342242852	Modbus Gateway Path Unavailable Or Target Unavailable - Master	65535	0	0
+1342242854	Uptime	4294967295	0	29
+1342242860	Electronics Temperature	32767	-32768	5
+1342242868	Number Of Bytes In The Rw Filesystem	4294967295	0	0
+1342242869	Number Of Bytes Used In The Rw Filesystem	4294967295	0	0
+1342242870	Internal Io Error Count	65535	0	0
+1342242871	Configuration Error Count	65535	0	0
+1342242872	Number Of Times Free Ram Fell Below 5%	65535	0	0
+1342242873	Number Of Times Disk Utilization Exceeded 95%	65535	0	0
+1342242874	Number Of Times Board Temp Exceeded 65C	65535	0	0
+1342242875	Number Of Modbus Query Errors	65535	0	0
+1342242876	Number Of Internal Programming Errors	65535	0	0
+1342242877	Number Of Errors Related To Firmware Updates	65535	0	0
+1342242878	Number Of Errors In Bringing Up The Read/Write Filesystem	65535	0	0
+1342242879	Number Of Battery Failures	65535	0	0
+1342242880	Numer Of Times Clock Skew Was Detected	65535	0	0
+1342242881	Frames Sent - Slave	65535	0	0
+1342242882	Frames Received - Slave	65535	0	0
+1342242883	Modbus Frame Errors - Slave	65535	0	0
+1342242884	Modbus Crc Errors - Slave	65535	0	0
+1342242885	Modbus Illegal Functions Or Data Address - Slave	65535	0	0
+1342242886	Modbus Illegal Data Value Or Slave Address - Slave	65535	0	0
+1342242887	Modbus Slave Device Busy Or Parity Error - Slave	65535	0	0
+1342242888	Modbus Gateway Path Unavailable Or Target Unavailable - Slave	65535	0	0

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+DSP_CLIENT=/dsp/cli/rteajrm
+export DSP_CLIENT
+
+/dsp/bin/mms keypad batch pit=DSP_OPNS/pitdat << "EOF"
+    VERBOSE := MORE := 0
+    FORM := "sf_store"
+    exit
+EOF

@@ -1,0 +1,57 @@
+Oil Pressure Alarm Active	620822528
+Oil Pressure Alarm Inactive	620822529
+T4/P1 Alarm Active	620822530
+T4/P1 Alarm Inactive	620822531
+T1 Alarm Active	620822532
+T1 Alarm Inactive	620822533
+T2 Alarm Active	620822534
+T2 Alarm Inactive	620822535
+T3 Alarm Active	620822536
+T3 Alarm Inactive	620822537
+Low Water Alarm Active	620822538
+Low Water Alarm Inactive	620822539
+Aux 1 Alarm Active	620822540
+Aux 1 Alarm Inactive	620822541
+Aux 2 Alarm Active	620822542
+Aux 2 Alarm Inactive	620822543
+Engine Overspeed Alarm Active	620822544
+Engine Overspeed Alarm Inactive	620822545
+Other Alarm Active	620822546
+Other Alarm Inactive	620822547
+RPM/RUN Defect Active	620822548
+RPM/RUN Defect Inactive	620822549
+Oil Chan 1 Defect Active	620822550
+Oil Chan 1 Defect Inactive	620822551
+P1/T4 Chan 2 Defect Active	620822552
+P1/T4 Chan 2 Defect Inactive	620822553
+Chan 3 (T1) Defect Active	620822554
+Chan 3 (T1) Defect Inactive	620822555
+Chan 4 (T2) Defect Active	620822556
+Chan 4 (T2) Defect Inactive	620822557
+Chan 5 (T3) Defect Active	620822558
+Chan 5 (T3) Defect Inactive	620822559
+Idle Limit Alarm Active	620822560
+Idle Limit Alarm Inactive	620822561
+Awaiting Driver ID	620822562
+Driver ID Set	620822563
+System Override On	620822564
+System Override Off	620822565
+No Alarm - Ignition On	620822566
+Alarm Counter Cleared	620822567
+Shutdown Received	620822568
+Idle Limit Set	620822569
+Engine Hours Set	620822570
+User Service Hours zeroed	620822571
+Service Hours Interval Set	620822572
+RPM Calibrated	620822573
+Overspeed Set	620822574
+Date Set	620822575
+Time Set	620822576
+Pre Warn Set	620822577
+Service Overdue	620822578
+No alarm - Engine Running	620822579
+Engine not running	620822580
+OEM Interface Timeout	620888032
+OEM Interface Normal	620888033
+Driver Interface Timeout	620888034
+Driver Interface Normal	620888035

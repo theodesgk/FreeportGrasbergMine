@@ -1,0 +1,25 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/Actions.cfg Actions.cfg
+ln -sf ../English/Bays.cfg Bays.cfg
+ln -sf ../English/Down1.cfg Down1.cfg
+ln -sf ../English/Info.cfg Info.cfg
+ln -sf ../English/Kp.cfg Kp.cfg
+ln -sf ../English/Options.cfg Options.cfg
+ln -sf ../English/Standby1.cfg Standby1.cfg
+ln -sf ../English/Status.cfg Status.cfg
+ln -sf ../English/Trucks.cfg Trucks.cfg
+ln -sf ../English/WinMgr.cfg WinMgr.cfg
+ln -sf ../English/w0.Clock.cfg w0.Clock.cfg
+ln -sf ../English/w0.Sl1.cfg w0.Sl1.cfg
+ln -sf ../English/w0.Sl2.cfg w0.Sl2.cfg
+ln -sf ../English/w0.Text.cfg w0.Text.cfg
+ln -sf ../English/w0.Title.cfg w0.Title.cfg
+ln -sf ../English/w0.Trucks.cfg w0.Trucks.cfg
+ln -sf ../English/w0.cfg w0.cfg
+ln -sf ../English/w0.mb.cfg w0.mb.cfg
+ln -sf ../English/w0.v1.cfg w0.v1.cfg
+ln -sf ../English/w0.v2.cfg w0.v2.cfg
+ln -sf ../English/w0.v3.cfg w0.v3.cfg

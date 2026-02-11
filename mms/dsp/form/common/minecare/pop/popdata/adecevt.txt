@@ -1,0 +1,824 @@
+Yellow Indicator Lamp Status - Off	872480768
+Yellow Indicator Lamp Status - On	872480769
+Red Status Stop Lamp - Off	872480772
+Red Status Stop Lamp - On	872480773
+Engine Shutdown Override Switch - Off	872480776
+Engine Shutdown Override Switch - On	872480777
+Engine Wait To Start Lamp - Inactive	872480780
+Engine Wait To Start Lamp - Active	872480781
+Engine Protection Has Shutdown Engine - Inactive	872480784
+Engine Protection Has Shutdown Engine - Active	872480785
+Water In Fuel Indicator - No	872480788
+Water In Fuel Indicator - Yes	872480789
+Power Reduction Alarm - Inactive	872480792
+Power Reduction Alarm - Active	872480793
+Power Reduction Alarm - Sensor Defective	872480794
+Power Reduction Alarm - Missing Data	872480795
+Lube Oil Pressure Low - Inactive	872480796
+Lube Oil Pressure Low - Active	872480797
+Lube Oil Pressure Low - Sensor Defective	872480798
+Lube Oil Pressure Low - Missing Data	872480799
+Lube Oil Pressure Low Under Limit Value Critical - Inactive	872480800
+Lube Oil Pressure Low Under Limit Value Critical - Active	872480801
+Lube Oil Pressure Low Under Limit Value Critical - Sensor Defective	872480802
+Lube Oil Pressure Low Under Limit Value Critical - Missing Data	872480803
+Fuel Pressure Too Low (Sensor B34.1) - Inactive	872480804
+Fuel Pressure Too Low (Sensor B34.1) - Active	872480805
+Fuel Pressure Too Low (Sensor B34.1) - Sensor Defective	872480806
+Fuel Pressure Too Low (Sensor B34.1) - Missing Data	872480807
+Fuel Pressure Below Critical Limit (Sensor B34.1) - Inactive	872480808
+Fuel Pressure Below Critical Limit (Sensor B34.1) - Active	872480809
+Fuel Pressure Below Critical Limit (Sensor B34.1) - Sensor Defective	872480810
+Fuel Pressure Below Critical Limit (Sensor B34.1) - Missing Data	872480811
+Charge Air Pressure Too Low (Sensor B10) - Inactive	872480812
+Charge Air Pressure Too Low (Sensor B10) - Active	872480813
+Charge Air Pressure Too Low (Sensor B10) - Sensor Defective	872480814
+Charge Air Pressure Too Low (Sensor B10) - Missing Data	872480815
+Points Before After Oil Filter Deliver Too High Diff Oil Filter Clogged (Sensor F25) - Inactive	872480816
+Points Before After Oil Filter Deliver Too High Diff Oil Filter Clogged (Sensor F25) - Active	872480817
+Points Before After Oil Filter Deliver Too High Diff Oil Filter Clogged (Sensor F25) - Sensor Defect	872480818
+Points Before After Oil Filter Deliver Too High Diff Oil Filter Clogged (Sensor F25) - Missing Data	872480819
+Water Level Too Low - Refill Water (Sensor F33) - Inactive	872480820
+Water Level Too Low - Refill Water (Sensor F33) - Active	872480821
+Water Level Too Low - Refill Water (Sensor F33) - Sensor Defective	872480822
+Water Level Too Low - Refill Water (Sensor F33) - Missing Data	872480823
+Exhaust Turbo Charger Speed Too High (Sensor B44.1) - Inactive	872480824
+Exhaust Turbo Charger Speed Too High (Sensor B44.1) - Active	872480825
+Exhaust Turbo Charger Speed Too High (Sensor B44.1) - Sensor Defective	872480826
+Exhaust Turbo Charger Speed Too High (Sensor B44.1) - Missing Data	872480827
+High Fuel Pressure Too Low (Sensor B48) - Inactive	872480828
+High Fuel Pressure Too Low (Sensor B48) - Active	872480829
+High Fuel Pressure Too Low (Sensor B48) - Sensor Defective	872480830
+High Fuel Pressure Too Low (Sensor B48) - Missing Data	872480831
+High Fuel Pressure Too High (Sensor B48) - Inactive	872480832
+High Fuel Pressure Too High (Sensor B48) - Active	872480833
+High Fuel Pressure Too High (Sensor B48) - Sensor Defective	872480834
+High Fuel Pressure Too High (Sensor B48) - Missing Data	872480835
+Exhaust Turbo Charger Speed Exceeded A Critical Limit Power Reduct (Sensor B44.1) - Inactive	872480836
+Exhaust Turbo Charger Speed Exceeded A Critical Limit Power Reduct (Sensor B44.1) - Active	872480837
+Exhaust Turbo Charger Speed Exceeded A Critical Limit Power Reduct (Sensor B44.1) - Sensor Defective	872480838
+Exhaust Turbo Charger Speed Exceeded A Critical Limit Power Reduct (Sensor B44.1) - Missing Data	872480839
+Internal Malfunction Of The ADEC-Governor - Inactive	872480840
+Internal Malfunction Of The ADEC-Governor - Active	872480841
+Internal Malfunction Of The ADEC-Governor - Sensor Defective	872480842
+Internal Malfunction Of The ADEC-Governor - Missing Data	872480843
+Engine Speed Demand Signal Not Available - Inactive	872480844
+Engine Speed Demand Signal Not Available - Active	872480845
+Engine Speed Demand Signal Not Available - Sensor Defective	872480846
+Engine Speed Demand Signal Not Available - Missing Data	872480847
+24VDC Power Supply To Governor Too Low (<18VDC) - Inactive	872480848
+24VDC Power Supply To Governor Too Low (<18VDC) - Active	872480849
+24VDC Power Supply To Governor Too Low (<18VDC) - Sensor Defective	872480850
+24VDC Power Supply To Governor Too Low (<18VDC) - Missing Data	872480851
+24VDC Power Supply To Governor Too High (>32VDC) - Inactive	872480852
+24VDC Power Supply To Governor Too High (>32VDC) - Active	872480853
+24VDC Power Supply To Governor Too High (>32VDC) - Sensor Defective	872480854
+24VDC Power Supply To Governor Too High (>32VDC) - Missing Data	872480855
+Coolant Water Temperature Too High (Sensor B6) - Inactive	872480856
+Coolant Water Temperature Too High (Sensor B6) - Active	872480857
+Coolant Water Temperature Too High (Sensor B6) - Sensor Defective	872480858
+Coolant Water Temperature Too High (Sensor B6) - Missing Data	872480859
+Coolant Water Temperature Exceeded Critical Value (Sensor B6) - Inactive	872480860
+Coolant Water Temperature Exceeded Critical Value (Sensor B6) - Active	872480861
+Coolant Water Temperature Exceeded Critical Value (Sensor B6) - Sensor Defective	872480862
+Coolant Water Temperature Exceeded Critical Value (Sensor B6) - Missing Data	872480863
+Charge Air Temperature Too High (Sensor B9) - Inactive	872480864
+Charge Air Temperature Too High (Sensor B9) - Active	872480865
+Charge Air Temperature Too High (Sensor B9) - Sensor Defective	872480866
+Charge Air Temperature Too High (Sensor B9) - Missing Data	872480867
+Lube Oil Temperature Too High (Sensor B7) - Inactive	872480868
+Lube Oil Temperature Too High (Sensor B7) - Active	872480869
+Lube Oil Temperature Too High (Sensor B7) - Sensor Defective	872480870
+Lube Oil Temperature Too High (Sensor B7) - Missing Data	872480871
+Lube Oil Temperature Exceeds Critical Value (Sensor B7) - Inactive	872480872
+Lube Oil Temperature Exceeds Critical Value (Sensor B7) - Active	872480873
+Lube Oil Temperature Exceeds Critical Value (Sensor B7) - Sensor Defective	872480874
+Lube Oil Temperature Exceeds Critical Value (Sensor B7) - Missing Data	872480875
+Charge Air Temperature Exceeds Critical Value (Sensor B9) - Inactive	872480876
+Charge Air Temperature Exceeds Critical Value (Sensor B9) - Active	872480877
+Charge Air Temperature Exceeds Critical Value (Sensor B9) - Sensor Defective	872480878
+Charge Air Temperature Exceeds Critical Value (Sensor B9) - Missing Data	872480879
+Engine Speed Dropped Below Critical Value - Engine Stop By Governor - Inactive	872480880
+Engine Speed Dropped Below Critical Value - Engine Stop By Governor - Active	872480881
+Engine Speed Dropped Below Critical Value - Engine Stop By Governor - Sensor Defective	872480882
+Engine Speed Dropped Below Critical Value - Engine Stop By Governor - Missing Data	872480883
+An ADEC Internal Alarm Occurred - Inactive	872480884
+An ADEC Internal Alarm Occurred - Active	872480885
+An ADEC Internal Alarm Occurred - Sensor Defective	872480886
+An ADEC Internal Alarm Occurred - Missing Data	872480887
+Fuel Temperature Exceeded A Critical Value (Sensor B33) - Inactive	872480888
+Fuel Temperature Exceeded A Critical Value (Sensor B33) - Active	872480889
+Fuel Temperature Exceeded A Critical Value (Sensor B33) - Sensor Defective	872480890
+Fuel Temperature Exceeded A Critical Value (Sensor B33) - Missing Data	872480891
+24VDC Power Supply To ADEC Dropped Below Critical Value (UBat < 14VDC) - Inactive	872480892
+24VDC Power Supply To ADEC Dropped Below Critical Value (UBat < 14VDC) - Active	872480893
+24VDC Power Supply To ADEC Dropped Below Critical Value (UBat < 14VDC) - Sensor Defective	872480894
+24VDC Power Supply To ADEC Dropped Below Critical Value (UBat < 14VDC) - Missing Data	872480895
+24VDC Power Supply To ADEC Exceeds Critical Value (UBat >36VDC) - Inactive	872480896
+24VDC Power Supply To ADEC Exceeds Critical Value (UBat >36VDC) - Active	872480897
+24VDC Power Supply To ADEC Exceeds Critical Value (UBat >36VDC) - Sensor Defective	872480898
+24VDC Power Supply To ADEC Exceeds Critical Value (UBat >36VDC) - Missing Data	872480899
+Fuel Temperature Too High - Inactive	872480900
+Fuel Temperature Too High - Active	872480901
+Fuel Temperature Too High - Sensor Defective	872480902
+Fuel Temperature Too High - Missing Data	872480903
+Engine Overspeed - Inactive	872480904
+Engine Overspeed - Active	872480905
+Engine Overspeed - Sensor Defective	872480906
+Engine Overspeed - Missing Data	872480907
+External Stop Activated - Inactive	872480908
+External Stop Activated - Active	872480909
+External Stop Activated - Sensor Defective	872480910
+External Stop Activated - Missing Data	872480911
+Torque Limitation - Inactive	872480912
+Torque Limitation - Active	872480913
+Torque Limitation - Sensor Defective	872480914
+Torque Limitation - Missing Data	872480915
+Rpm Request Failure - Actual Speed Retained	872480916
+Rpm Request Failure - Substitute Value Used	872480917
+Rpm Request Failure - Sensor Defective	872480918
+Rpm Request Failure - Missing Data	872480919
+Preheat Temp Not Attained - Inactive	872480920
+Preheat Temp Not Attained - Active	872480921
+Preheat Temp Not Attained - Sensor Defective	872480922
+Preheat Temp Not Attained - Missing Data	872480923
+Crankcase Pressure High - Inactive	872480924
+Crankcase Pressure High - Active	872480925
+Crankcase Pressure High - Sensor Defective	872480926
+Crankcase Pressure High - Missing Data	872480927
+Crankcase Pressure Has Exceeded Limit - Inactive	872480928
+Crankcase Pressure Has Exceeded Limit - Active	872480929
+Crankcase Pressure Has Exceeded Limit - Sensor Defective	872480930
+Crankcase Pressure Has Exceeded Limit - Missing Data	872480931
+Coolant Pressure After Pump Low - Inactive	872480932
+Coolant Pressure After Pump Low - Active	872480933
+Coolant Pressure After Pump Low - Sensor Defective	872480934
+Coolant Pressure After Pump Low - Missing Data	872480935
+Coolant Pressure After Pump Has Fallen Below Limit - Inactive	872480936
+Coolant Pressure After Pump Has Fallen Below Limit - Active	872480937
+Coolant Pressure After Pump Has Fallen Below Limit - Sensor Defective	872480938
+Coolant Pressure After Pump Has Fallen Below Limit - Missing Data	872480939
+Coolant Pressure In Intercooler Low - Inactive	872480940
+Coolant Pressure In Intercooler Low - Active	872480941
+Coolant Pressure In Intercooler Low - Sensor Defective	872480942
+Coolant Pressure In Intercooler Low - Missing Data	872480943
+Coolant Pressure In Intercooler Has Fallen Below Limit - Inactive	872480944
+Coolant Pressure In Intercooler Has Fallen Below Limit - Active	872480945
+Coolant Pressure In Intercooler Has Fallen Below Limit - Sensor Defective	872480946
+Coolant Pressure In Intercooler Has Fallen Below Limit - Missing Data	872480947
+Coolant Temperature In Intercooler Too High - Inactive	872480948
+Coolant Temperature In Intercooler Too High - Active	872480949
+Coolant Temperature In Intercooler Too High - Sensor Defective	872480950
+Coolant Temperature In Intercooler Too High - Missing Data	872480951
+Pre-Lube Fault - Inactive	872480952
+Pre-Lube Fault - Active	872480953
+Pre-Lube Fault - Sensor Defective	872480954
+Pre-Lube Fault - Missing Data	872480955
+Preheating Temp Low - Inactive	872480956
+Preheating Temp Low - Active	872480957
+Preheating Temp Low - Sensor Defective	872480958
+Preheating Temp Low - Missing Data	872480959
+Preheating Temp Under Limit - Inactive	872480960
+Preheating Temp Under Limit - Active	872480961
+Preheating Temp Under Limit - Sensor Defective	872480962
+Preheating Temp Under Limit - Missing Data	872480963
+Air Filter Restriction - Inactive	872480964
+Air Filter Restriction - Active	872480965
+Air Filter Restriction - Sensor Defective	872480966
+Air Filter Restriction - Missing Data	872480967
+Fuel Filter Restriction - Inactive	872480968
+Fuel Filter Restriction - Active	872480969
+Fuel Filter Restriction - Sensor Defective	872480970
+Fuel Filter Restriction - Missing Data	872480971
+Speed Setting Limiter - Inactive	872480972
+Speed Setting Limiter - Active	872480973
+Speed Setting Limiter - Sensor Defective	872480974
+Speed Setting Limiter - Missing Data	872480975
+External Power Line Limitation - Inactive	872480976
+External Power Line Limitation - Active	872480977
+External Power Line Limitation - Sensor Defective	872480978
+External Power Line Limitation - Missing Data	872480979
+Speed Demand Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872480980
+Speed Demand Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872480981
+Speed Demand Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872480982
+Speed Demand Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872480983
+Torque Limit 1 Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872480984
+Torque Limit 1 Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872480985
+Torque Limit 1 Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872480986
+Torque Limit 1 Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872480987
+Torque Limit 2 Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872480988
+Torque Limit 2 Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872480989
+Torque Limit 2 Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872480990
+Torque Limit 2 Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872480991
+Override Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872480992
+Override Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872480993
+Override Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872480994
+Override Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872480995
+Start Interlock Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872480996
+Start Interlock Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872480997
+Start Interlock Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872480998
+Start Interlock Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872480999
+Engine Start Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872481000
+Engine Start Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872481001
+Engine Start Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872481002
+Engine Start Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872481003
+Engine Stop Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872481004
+Engine Stop Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872481005
+Engine Stop Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872481006
+Engine Stop Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872481007
+Alarm Reset Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872481008
+Alarm Reset Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872481009
+Alarm Reset Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872481010
+Alarm Reset Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872481011
+Lamp Test Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872481012
+Lamp Test Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872481013
+Lamp Test Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872481014
+Lamp Test Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872481015
+Speed Setting Limit Active Signal On External CAN-Bus Missing (J1939/CANopen) - Inactive	872481016
+Speed Setting Limit Active Signal On External CAN-Bus Missing (J1939/CANopen) - Active	872481017
+Speed Setting Limit Active Signal On External CAN-Bus Missing (J1939/CANopen) - Sensor Defective	872481018
+Speed Setting Limit Active Signal On External CAN-Bus Missing (J1939/CANopen) - Missing Data	872481019
+Reset Trip Fuel Counter Signal On The External CANBus Is Missing (J1939/CANopen) - Inactive	872481020
+Reset Trip Fuel Counter Signal On The External CANBus Is Missing (J1939/CANopen) - Active	872481021
+Reset Trip Fuel Counter Signal On The External CANBus Is Missing (J1939/CANopen) - Sensor Defective	872481022
+Reset Trip Fuel Counter Signal On The External CANBus Is Missing (J1939/CANopen) - Missing Data	872481023
+Ext Power Curve Limit Signal On The External CANBus Is Missing (J1939/CANopen) - Inactive	872481024
+Ext Power Curve Limit Signal On The External CANBus Is Missing (J1939/CANopen) - Active	872481025
+Ext Power Curve Limit Signal On The External CANBus Is Missing (J1939/CANopen) - Sensor Defective	872481026
+Ext Power Curve Limit Signal On The External CANBus Is Missing (J1939/CANopen) - Missing Data	872481027
+Park Break Interlock Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872481028
+Park Break Interlock Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872481029
+Park Break Interlock Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872481030
+Park Break Interlock Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872481031
+Neutral Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872481032
+Neutral Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872481033
+Neutral Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872481034
+Neutral Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872481035
+Alternate Minimum Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Inactive	872481036
+Alternate Minimum Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Active	872481037
+Alternate Minimum Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Sensor Defective	872481038
+Alternate Minimum Signal On The External CAN-Bus Is Missing (J1939/CANopen) - Missing Data	872481039
+Ext Preheating Disable Signal On The External CANBus Is Missing (J1939/CANopen) - Inactive	872481040
+Ext Preheating Disable Signal On The External CANBus Is Missing (J1939/CANopen) - Active	872481041
+Ext Preheating Disable Signal On The External CANBus Is Missing (J1939/CANopen) - Sensor Defective	872481042
+Ext Preheating Disable Signal On The External CANBus Is Missing (J1939/CANopen) - Missing Data	872481043
+Force Max Fan Speed Signal On The External CANBus Is Missing (J1939/CANopen) - Inactive	872481044
+Force Max Fan Speed Signal On The External CANBus Is Missing (J1939/CANopen) - Active	872481045
+Force Max Fan Speed Signal On The External CANBus Is Missing (J1939/CANopen) - Sensor Defective	872481046
+Force Max Fan Speed Signal On The External CANBus Is Missing (J1939/CANopen) - Missing Data	872481047
+Disable Cylinder Cut Out Signal On The External CANBus Is Missing (J1939/CANopen) - Inactive	872481048
+Disable Cylinder Cut Out Signal On The External CANBus Is Missing (J1939/CANopen) - Active	872481049
+Disable Cylinder Cut Out Signal On The External CANBus Is Missing (J1939/CANopen) - Sensor Defective	872481050
+Disable Cylinder Cut Out Signal On The External CANBus Is Missing (J1939/CANopen) - Missing Data	872481051
+Internal Failure Mode On The External CAN-Bus Converter Detected (J1939) - Inactive	872481052
+Internal Failure Mode On The External CAN-Bus Converter Detected (J1939) - Active	872481053
+Internal Failure Mode On The External CAN-Bus Converter Detected (J1939) - Sensor Defective	872481054
+Internal Failure Mode On The External CAN-Bus Converter Detected (J1939) - Missing Data	872481055
+Internal Failure Mode On The External CAN-Bus Converter Detected (CANopen) - Inactive	872481056
+Internal Failure Mode On The External CAN-Bus Converter Detected (CANopen) - Active	872481057
+Internal Failure Mode On The External CAN-Bus Converter Detected (CANopen) - Sensor Defective	872481058
+Internal Failure Mode On The External CAN-Bus Converter Detected (CANopen) - Missing Data	872481059
+Internal Failure Mode On The External CAN-Bus Converter Detected (Common Failure) - Inactive	872481060
+Internal Failure Mode On The External CAN-Bus Converter Detected (Common Failure) - Active	872481061
+Internal Failure Mode On The External CAN-Bus Converter Detected (Common Failure) - Sensor Defective	872481062
+Internal Failure Mode On The External CAN-Bus Converter Detected (Common Failure) - Missing Data	872481063
+Coolant Intercooler Temperature Exceeds Critical Value - Inactive	872481064
+Coolant Intercooler Temperature Exceeds Critical Value - Active	872481065
+Coolant Intercooler Temperature Exceeds Critical Value - Sensor Defective	872481066
+Coolant Intercooler Temperature Exceeds Critical Value - Missing Data	872481067
+Water Level For Intercoolant Circuit Too Low - Inactive	872481068
+Water Level For Intercoolant Circuit Too Low - Active	872481069
+Water Level For Intercoolant Circuit Too Low - Sensor Defective	872481070
+Water Level For Intercoolant Circuit Too Low - Missing Data	872481071
+Aux Engine Protection Exceeded Alarm Limit - Inactive	872481072
+Aux Engine Protection Exceeded Alarm Limit - Active	872481073
+Aux Engine Protection Exceeded Alarm Limit - Sensor Defective	872481074
+Aux Engine Protection Exceeded Alarm Limit - Missing Data	872481075
+Aux Engine Protection Has Been Activated - Inactive	872481076
+Aux Engine Protection Has Been Activated - Active	872481077
+Aux Engine Protection Has Been Activated - Sensor Defective	872481078
+Aux Engine Protection Has Been Activated - Missing Data	872481079
+Monitoring Of Fan 1 Control Circuit Detected A Broken Wire - Inactive	872481080
+Monitoring Of Fan 1 Control Circuit Detected A Broken Wire - Active	872481081
+Monitoring Of Fan 1 Control Circuit Detected A Broken Wire - Sensor Defective	872481082
+Monitoring Of Fan 1 Control Circuit Detected A Broken Wire - Missing Data	872481083
+Monitoring Of Fan 2 Control Circuit Detected A Broken Wire - Inactive	872481084
+Monitoring Of Fan 2 Control Circuit Detected A Broken Wire - Active	872481085
+Monitoring Of Fan 2 Control Circuit Detected A Broken Wire - Sensor Defective	872481086
+Monitoring Of Fan 2 Control Circuit Detected A Broken Wire - Missing Data	872481087
+Engine Fuel Leakage 1 - Inactive	872481088
+Engine Fuel Leakage 1 - Active	872481089
+Engine Fuel Leakage 1 - Sensor Defective	872481090
+Engine Fuel Leakage 1 - Missing Data	872481091
+Auxiliary Pressure 1 Too High (1st Limit Value) - Inactive	872481092
+Auxiliary Pressure 1 Too High (1st Limit Value) - Active	872481093
+Auxiliary Pressure 1 Too High (1st Limit Value) - Sensor Defective	872481094
+Auxiliary Pressure 1 Too High (1st Limit Value) - Missing Data	872481095
+Auxiliary Pressure 1 Too High (2nd Limit Value) - Inactive	872481096
+Auxiliary Pressure 1 Too High (2nd Limit Value) - Active	872481097
+Auxiliary Pressure 1 Too High (2nd Limit Value) - Sensor Defective	872481098
+Auxiliary Pressure 1 Too High (2nd Limit Value) - Missing Data	872481099
+Auxiliary Pressure 1 Too Low (1st Limit Value) - Inactive	872481100
+Auxiliary Pressure 1 Too Low (1st Limit Value) - Active	872481101
+Auxiliary Pressure 1 Too Low (1st Limit Value) - Sensor Defective	872481102
+Auxiliary Pressure 1 Too Low (1st Limit Value) - Missing Data	872481103
+Auxiliary Pressure 1 Too Low (2nd Limit Value) - Inactive	872481104
+Auxiliary Pressure 1 Too Low (2nd Limit Value) - Active	872481105
+Auxiliary Pressure 1 Too Low (2nd Limit Value) - Sensor Defective	872481106
+Auxiliary Pressure 1 Too Low (2nd Limit Value) - Missing Data	872481107
+Auxiliary Pressure 2 Too High (1st Limit Value) - Inactive	872481108
+Auxiliary Pressure 2 Too High (1st Limit Value) - Active	872481109
+Auxiliary Pressure 2 Too High (1st Limit Value) - Sensor Defective	872481110
+Auxiliary Pressure 2 Too High (1st Limit Value) - Missing Data	872481111
+Auxiliary Pressure 2 Too High (2nd Limit Value) - Inactive	872481112
+Auxiliary Pressure 2 Too High (2nd Limit Value) - Active	872481113
+Auxiliary Pressure 2 Too High (2nd Limit Value) - Sensor Defective	872481114
+Auxiliary Pressure 2 Too High (2nd Limit Value) - Missing Data	872481115
+Auxiliary Pressure 2 Too Low (1st Limit Value) - Inactive	872481116
+Auxiliary Pressure 2 Too Low (1st Limit Value) - Active	872481117
+Auxiliary Pressure 2 Too Low (1st Limit Value) - Sensor Defective	872481118
+Auxiliary Pressure 2 Too Low (1st Limit Value) - Missing Data	872481119
+Auxiliary Pressure 2 Too Low (2nd Limit Value) - Inactive	872481120
+Auxiliary Pressure 2 Too Low (2nd Limit Value) - Active	872481121
+Auxiliary Pressure 2 Too Low (2nd Limit Value) - Sensor Defective	872481122
+Auxiliary Pressure 2 Too Low (2nd Limit Value) - Missing Data	872481123
+Sensor Defect - Auxiliary Pressure 1 - Inactive	872481124
+Sensor Defect - Auxiliary Pressure 1 - Active	872481125
+Sensor Defect - Auxiliary Pressure 1 - Sensor Defective	872481126
+Sensor Defect - Auxiliary Pressure 1 - Missing Data	872481127
+Sensor Defect - Auxiliary Pressure 2 - Inactive	872481128
+Sensor Defect - Auxiliary Pressure 2 - Active	872481129
+Sensor Defect - Auxiliary Pressure 2 - Sensor Defective	872481130
+Sensor Defect - Auxiliary Pressure 2 - Missing Data	872481131
+Sensor Defect - T-Exhaust Temperature On A-Side - Inactive	872481132
+Sensor Defect - T-Exhaust Temperature On A-Side - Active	872481133
+Sensor Defect - T-Exhaust Temperature On A-Side - Sensor Defective	872481134
+Sensor Defect - T-Exhaust Temperature On A-Side - Missing Data	872481135
+Sensor Defect - T-Exhaust Temperature On B-Side - Inactive	872481136
+Sensor Defect - T-Exhaust Temperature On B-Side - Active	872481137
+Sensor Defect - T-Exhaust Temperature On B-Side - Sensor Defective	872481138
+Sensor Defect - T-Exhaust Temperature On B-Side - Missing Data	872481139
+T-Exhaust Temperature On A-Side Too High (1st Limit Value) - Inactive	872481140
+T-Exhaust Temperature On A-Side Too High (1st Limit Value) - Active	872481141
+T-Exhaust Temperature On A-Side Too High (1st Limit Value) - Sensor Defective	872481142
+T-Exhaust Temperature On A-Side Too High (1st Limit Value) - Missing Data	872481143
+T-Exhaust Temperature On A-Side Too High (2nd Limit Value) - Inactive	872481144
+T-Exhaust Temperature On A-Side Too High (2nd Limit Value) - Active	872481145
+T-Exhaust Temperature On A-Side Too High (2nd Limit Value) - Sensor Defective	872481146
+T-Exhaust Temperature On A-Side Too High (2nd Limit Value) - Missing Data	872481147
+T-Exhaust Temperature On B-Side Too High (1st Limit Value) - Inactive	872481148
+T-Exhaust Temperature On B-Side Too High (1st Limit Value) - Active	872481149
+T-Exhaust Temperature On B-Side Too High (1st Limit Value) - Sensor Defective	872481150
+T-Exhaust Temperature On B-Side Too High (1st Limit Value) - Missing Data	872481151
+T-Exhaust Temperature On B-Side Too High (2nd Limit Value) - Inactive	872481152
+T-Exhaust Temperature On B-Side Too High (2nd Limit Value) - Active	872481153
+T-Exhaust Temperature On B-Side Too High (2nd Limit Value) - Sensor Defective	872481154
+T-Exhaust Temperature On B-Side Too High (2nd Limit Value) - Missing Data	872481155
+Sensor Defect - Air Filter Restriction - Inactive	872481156
+Sensor Defect - Air Filter Restriction - Active	872481157
+Sensor Defect - Air Filter Restriction - Sensor Defective	872481158
+Sensor Defect - Air Filter Restriction - Missing Data	872481159
+Sensor Defect - Fuel Filter Restriction - Inactive	872481160
+Sensor Defect - Fuel Filter Restriction - Active	872481161
+Sensor Defect - Fuel Filter Restriction - Sensor Defective	872481162
+Sensor Defect - Fuel Filter Restriction - Missing Data	872481163
+Sensor Defect - Aux Engine Protection - Inactive	872481164
+Sensor Defect - Aux Engine Protection - Active	872481165
+Sensor Defect - Aux Engine Protection - Sensor Defective	872481166
+Sensor Defect - Aux Engine Protection - Missing Data	872481167
+Sensor Defect - Fuel Prefilter Differential Pressure - Inactive	872481168
+Sensor Defect - Fuel Prefilter Differential Pressure - Active	872481169
+Sensor Defect - Fuel Prefilter Differential Pressure - Sensor Defective	872481170
+Sensor Defect - Fuel Prefilter Differential Pressure - Missing Data	872481171
+Fuel Prefilter Differential Pressure Too High (1st Limit Value) - Inactive	872481172
+Fuel Prefilter Differential Pressure Too High (1st Limit Value) - Active	872481173
+Fuel Prefilter Differential Pressure Too High (1st Limit Value) - Sensor Defective	872481174
+Fuel Prefilter Differential Pressure Too High (1st Limit Value) - Missing Data	872481175
+Fuel Prefilter Differential Pressure Too High (2nd Limit Value) - Inactive	872481176
+Fuel Prefilter Differential Pressure Too High (2nd Limit Value) - Active	872481177
+Fuel Prefilter Differential Pressure Too High (2nd Limit Value) - Sensor Defective	872481178
+Fuel Prefilter Differential Pressure Too High (2nd Limit Value) - Missing Data	872481179
+Common Rail System Is Leaking - Inactive	872481264
+Common Rail System Is Leaking - Active	872481265
+Common Rail System Is Leaking - Sensor Defective	872481266
+Common Rail System Is Leaking - Missing Data	872481267
+Exhaust Temperature Of Cylinder A1 Too High (EMU) - Inactive	872481280
+Exhaust Temperature Of Cylinder A1 Too High (EMU) - Active	872481281
+Exhaust Temperature Of Cylinder A1 Too High (EMU) - Sensor Defective	872481282
+Exhaust Temperature Of Cylinder A1 Too High (EMU) - Missing Data	872481283
+Exhaust Temperature Of Cylinder A2 Too High (EMU) - Inactive	872481284
+Exhaust Temperature Of Cylinder A2 Too High (EMU) - Active	872481285
+Exhaust Temperature Of Cylinder A2 Too High (EMU) - Sensor Defective	872481286
+Exhaust Temperature Of Cylinder A2 Too High (EMU) - Missing Data	872481287
+Exhaust Temperature Of Cylinder A3 Too High (EMU) - Inactive	872481288
+Exhaust Temperature Of Cylinder A3 Too High (EMU) - Active	872481289
+Exhaust Temperature Of Cylinder A3 Too High (EMU) - Sensor Defective	872481290
+Exhaust Temperature Of Cylinder A3 Too High (EMU) - Missing Data	872481291
+Exhaust Temperature Of Cylinder A4 Too High (EMU) - Inactive	872481292
+Exhaust Temperature Of Cylinder A4 Too High (EMU) - Active	872481293
+Exhaust Temperature Of Cylinder A4 Too High (EMU) - Sensor Defective	872481294
+Exhaust Temperature Of Cylinder A4 Too High (EMU) - Missing Data	872481295
+Exhaust Temperature Of Cylinder A5 Too High (EMU) - Inactive	872481296
+Exhaust Temperature Of Cylinder A5 Too High (EMU) - Active	872481297
+Exhaust Temperature Of Cylinder A5 Too High (EMU) - Sensor Defective	872481298
+Exhaust Temperature Of Cylinder A5 Too High (EMU) - Missing Data	872481299
+Exhaust Temperature Of Cylinder A6 Too High (EMU) - Inactive	872481300
+Exhaust Temperature Of Cylinder A6 Too High (EMU) - Active	872481301
+Exhaust Temperature Of Cylinder A6 Too High (EMU) - Sensor Defective	872481302
+Exhaust Temperature Of Cylinder A6 Too High (EMU) - Missing Data	872481303
+Exhaust Temperature Of Cylinder A7 Too High (EMU) - Inactive	872481304
+Exhaust Temperature Of Cylinder A7 Too High (EMU) - Active	872481305
+Exhaust Temperature Of Cylinder A7 Too High (EMU) - Sensor Defective	872481306
+Exhaust Temperature Of Cylinder A7 Too High (EMU) - Missing Data	872481307
+Exhaust Temperature Of Cylinder A8 Too High (EMU) - Inactive	872481308
+Exhaust Temperature Of Cylinder A8 Too High (EMU) - Active	872481309
+Exhaust Temperature Of Cylinder A8 Too High (EMU) - Sensor Defective	872481310
+Exhaust Temperature Of Cylinder A8 Too High (EMU) - Sensor Defective	872481311
+Exhaust Temperature Of Cylinder A9 Too High (EMU) - Inactive	872481312
+Exhaust Temperature Of Cylinder A9 Too High (EMU) - Active	872481313
+Exhaust Temperature Of Cylinder A9 Too High (EMU) - Sensor Defective	872481314
+Exhaust Temperature Of Cylinder A9 Too High (EMU) - Missing Data	872481315
+Exhaust Temperature Of Cylinder A10 Too High (EMU) - Inactive	872481316
+Exhaust Temperature Of Cylinder A10 Too High (EMU) - Active	872481317
+Exhaust Temperature Of Cylinder A10 Too High (EMU) - Sensor Defective	872481318
+Exhaust Temperature Of Cylinder A10 Too High (EMU) - Missing Data	872481319
+Exhaust Temperature Of Cylinder B1 Too High (EMU) - Inactive	872481320
+Exhaust Temperature Of Cylinder B1 Too High (EMU) - Active	872481321
+Exhaust Temperature Of Cylinder B1 Too High (EMU) - Sensor Defective	872481322
+Exhaust Temperature Of Cylinder B1 Too High (EMU) - Missing Data	872481323
+Exhaust Temperature Of Cylinder B2 Too High (EMU) - Inactive	872481324
+Exhaust Temperature Of Cylinder B2 Too High (EMU) - Active	872481325
+Exhaust Temperature Of Cylinder B2 Too High (EMU) - Sensor Defective	872481326
+Exhaust Temperature Of Cylinder B2 Too High (EMU) - Missing Data	872481327
+Exhaust Temperature Of Cylinder B3 Too High (EMU) - Inactive	872481328
+Exhaust Temperature Of Cylinder B3 Too High (EMU) - Active	872481329
+Exhaust Temperature Of Cylinder B3 Too High (EMU) - Sensor Defective	872481330
+Exhaust Temperature Of Cylinder B3 Too High (EMU) - Missing Data	872481331
+Exhaust Temperature Of Cylinder B4 Too High (EMU) - Inactive	872481332
+Exhaust Temperature Of Cylinder B4 Too High (EMU) - Active	872481333
+Exhaust Temperature Of Cylinder B4 Too High (EMU) - Sensor Defective	872481334
+Exhaust Temperature Of Cylinder B4 Too High (EMU) - Missing Data	872481335
+Exhaust Temperature Of Cylinder B5 Too High (EMU) - Inactive	872481336
+Exhaust Temperature Of Cylinder B5 Too High (EMU) - Active	872481337
+Exhaust Temperature Of Cylinder B5 Too High (EMU) - Sensor Defective	872481338
+Exhaust Temperature Of Cylinder B5 Too High (EMU) - Missing Data	872481339
+Exhaust Temperature Of Cylinder B6 Too High (EMU) - Inactive	872481340
+Exhaust Temperature Of Cylinder B6 Too High (EMU) - Active	872481341
+Exhaust Temperature Of Cylinder B6 Too High (EMU) - Sensor Defective	872481342
+Exhaust Temperature Of Cylinder B6 Too High (EMU) - Missing Data	872481343
+Exhaust Temperature Of Cylinder B7 Too High (EMU) - Inactive	872481344
+Exhaust Temperature Of Cylinder B7 Too High (EMU) - Active	872481345
+Exhaust Temperature Of Cylinder B7 Too High (EMU) - Sensor Defective	872481346
+Exhaust Temperature Of Cylinder B7 Too High (EMU) - Missing Data	872481347
+Exhaust Temperature Of Cylinder B8 Too High (EMU) - Inactive	872481348
+Exhaust Temperature Of Cylinder B8 Too High (EMU) - Active	872481349
+Exhaust Temperature Of Cylinder B8 Too High (EMU) - Sensor Defective	872481350
+Exhaust Temperature Of Cylinder B8 Too High (EMU) - Missing Data	872481351
+Exhaust Temperature Of Cylinder B9 Too High (EMU) - Inactive	872481352
+Exhaust Temperature Of Cylinder B9 Too High (EMU) - Active	872481353
+Exhaust Temperature Of Cylinder B9 Too High (EMU) - Sensor Defective	872481354
+Exhaust Temperature Of Cylinder B9 Too High (EMU) - Missing Data	872481355
+Exhaust Temperature Of Cylinder B10 Too High (EMU) - Inactive	872481356
+Exhaust Temperature Of Cylinder B10 Too High (EMU) - Active	872481357
+Exhaust Temperature Of Cylinder B10 Too High (EMU) - Sensor Defective	872481358
+Exhaust Temperature Of Cylinder B10 Too High (EMU) - Missing Data	872481359
+Exhaust Temperature Of Cylinder A1 Too Low (EMU) - Inactive	872481360
+Exhaust Temperature Of Cylinder A1 Too Low (EMU) - Active	872481361
+Exhaust Temperature Of Cylinder A1 Too Low (EMU) - Sensor Defective	872481362
+Exhaust Temperature Of Cylinder A1 Too Low (EMU) - Missing Data	872481363
+Exhaust Temperature Of Cylinder A2 Too Low (EMU) - Inactive	872481364
+Exhaust Temperature Of Cylinder A2 Too Low (EMU) - Active	872481365
+Exhaust Temperature Of Cylinder A2 Too Low (EMU) - Sensor Defective	872481366
+Exhaust Temperature Of Cylinder A2 Too Low (EMU) - Missing Data	872481367
+Exhaust Temperature Of Cylinder A3 Too Low (EMU) - Inactive	872481368
+Exhaust Temperature Of Cylinder A3 Too Low (EMU) - Active	872481369
+Exhaust Temperature Of Cylinder A3 Too Low (EMU) - Sensor Defective	872481370
+Exhaust Temperature Of Cylinder A3 Too Low (EMU) - Missing Data	872481371
+Exhaust Temperature Of Cylinder A4 Too Low (EMU) - Inactive	872481372
+Exhaust Temperature Of Cylinder A4 Too Low (EMU) - Active	872481373
+Exhaust Temperature Of Cylinder A4 Too Low (EMU) - Sensor Defective	872481374
+Exhaust Temperature Of Cylinder A4 Too Low (EMU) - Missing Data	872481375
+Exhaust Temperature Of Cylinder A5 Too Low (EMU) - Inactive	872481376
+Exhaust Temperature Of Cylinder A5 Too Low (EMU) - Active	872481377
+Exhaust Temperature Of Cylinder A5 Too Low (EMU) - Sensor Defective	872481378
+Exhaust Temperature Of Cylinder A5 Too Low (EMU) - Missing Data	872481379
+Exhaust Temperature Of Cylinder A6 Too Low (EMU) - Inactive	872481380
+Exhaust Temperature Of Cylinder A6 Too Low (EMU) - Active	872481381
+Exhaust Temperature Of Cylinder A6 Too Low (EMU) - Sensor Defective	872481382
+Exhaust Temperature Of Cylinder A6 Too Low (EMU) - Missing Data	872481383
+Exhaust Temperature Of Cylinder A7 Too Low (EMU) - Inactive	872481384
+Exhaust Temperature Of Cylinder A7 Too Low (EMU) - Active	872481385
+Exhaust Temperature Of Cylinder A7 Too Low (EMU) - Sensor Defective	872481386
+Exhaust Temperature Of Cylinder A7 Too Low (EMU) - Missing Data	872481387
+Exhaust Temperature Of Cylinder A8 Too Low (EMU) - Inactive	872481388
+Exhaust Temperature Of Cylinder A8 Too Low (EMU) - Active	872481389
+Exhaust Temperature Of Cylinder A8 Too Low (EMU) - Sensor Defective	872481390
+Exhaust Temperature Of Cylinder A8 Too Low (EMU) - Missing Data	872481391
+Exhaust Temperature Of Cylinder A9 Too Low (EMU) - Inactive	872481392
+Exhaust Temperature Of Cylinder A9 Too Low (EMU) - Active	872481393
+Exhaust Temperature Of Cylinder A9 Too Low (EMU) - Sensor Defective	872481394
+Exhaust Temperature Of Cylinder A9 Too Low (EMU) - Missing Data	872481395
+Exhaust Temperature Of Cylinder A10 Too Low (EMU) - Inactive	872481396
+Exhaust Temperature Of Cylinder A10 Too Low (EMU) - Active	872481397
+Exhaust Temperature Of Cylinder A10 Too Low (EMU) - Sensor Defective	872481398
+Exhaust Temperature Of Cylinder A10 Too Low (EMU) - Missing Data	872481399
+Exhaust Temperature Of Cylinder B1 Too Low (EMU) - Inactive	872481400
+Exhaust Temperature Of Cylinder B1 Too Low (EMU) - Active	872481401
+Exhaust Temperature Of Cylinder B1 Too Low (EMU) - Sensor Defective	872481402
+Exhaust Temperature Of Cylinder B1 Too Low (EMU) - Missing Data	872481403
+Exhaust Temperature Of Cylinder B2 Too Low (EMU) - Inactive	872481404
+Exhaust Temperature Of Cylinder B2 Too Low (EMU) - Active	872481405
+Exhaust Temperature Of Cylinder B2 Too Low (EMU) - Sensor Defective	872481406
+Exhaust Temperature Of Cylinder B2 Too Low (EMU) - Missing Data	872481407
+Exhaust Temperature Of Cylinder B3 Too Low (EMU) - Inactive	872481408
+Exhaust Temperature Of Cylinder B3 Too Low (EMU) - Active	872481409
+Exhaust Temperature Of Cylinder B3 Too Low (EMU) - Sensor Defective	872481410
+Exhaust Temperature Of Cylinder B3 Too Low (EMU) - Missing Data	872481411
+Exhaust Temperature Of Cylinder B4 Too Low (EMU) - Inactive	872481412
+Exhaust Temperature Of Cylinder B4 Too Low (EMU) - Active	872481413
+Exhaust Temperature Of Cylinder B4 Too Low (EMU) - Sensor Defective	872481414
+Exhaust Temperature Of Cylinder B4 Too Low (EMU) - Missing Data	872481415
+Exhaust Temperature Of Cylinder B5 Too Low (EMU) - Inactive	872481416
+Exhaust Temperature Of Cylinder B5 Too Low (EMU) - Active	872481417
+Exhaust Temperature Of Cylinder B5 Too Low (EMU) - Sensor Defective	872481418
+Exhaust Temperature Of Cylinder B5 Too Low (EMU) - Missing Data	872481419
+Exhaust Temperature Of Cylinder B6 Too Low (EMU) - Inactive	872481420
+Exhaust Temperature Of Cylinder B6 Too Low (EMU) - Active	872481421
+Exhaust Temperature Of Cylinder B6 Too Low (EMU) - Sensor Defective	872481422
+Exhaust Temperature Of Cylinder B6 Too Low (EMU) - Missing Data	872481423
+Exhaust Temperature Of Cylinder B7 Too Low (EMU) - Inactive	872481424
+Exhaust Temperature Of Cylinder B7 Too Low (EMU) - Active	872481425
+Exhaust Temperature Of Cylinder B7 Too Low (EMU) - Sensor Defective	872481426
+Exhaust Temperature Of Cylinder B7 Too Low (EMU) - Missing Data	872481427
+Exhaust Temperature Of Cylinder B8 Too Low (EMU) - Inactive	872481428
+Exhaust Temperature Of Cylinder B8 Too Low (EMU) - Active	872481429
+Exhaust Temperature Of Cylinder B8 Too Low (EMU) - Sensor Defective	872481430
+Exhaust Temperature Of Cylinder B8 Too Low (EMU) - Missing Data	872481431
+Exhaust Temperature Of Cylinder B9 Too Low (EMU) - Inactive	872481432
+Exhaust Temperature Of Cylinder B9 Too Low (EMU) - Active	872481433
+Exhaust Temperature Of Cylinder B9 Too Low (EMU) - Sensor Defective	872481434
+Exhaust Temperature Of Cylinder B9 Too Low (EMU) - Missing Data	872481435
+Exhaust Temperature Of Cylinder B10 Too Low (EMU) - Inactive	872481436
+Exhaust Temperature Of Cylinder B10 Too Low (EMU) - Active	872481437
+Exhaust Temperature Of Cylinder B10 Too Low (EMU) - Sensor Defective	872481438
+Exhaust Temperature Of Cylinder B10 Too Low (EMU) - Missing Data	872481439
+Exhaust Temperature Monitoring Fail (EMU) - Inactive	872481440
+Exhaust Temperature Monitoring Fail (EMU) - Active	872481441
+Exhaust Temperature Monitoring Fail (EMU) - Sensor Defective	872481442
+Exhaust Temperature Monitoring Fail (EMU) - Missing Data	872481443
+Pressure Monitoing Fail (EMU) - Inactive	872481444
+Pressure Monitoing Fail (EMU) - Active	872481445
+Pressure Monitoing Fail (EMU) - Sensor Defective	872481446
+Pressure Monitoing Fail (EMU) - Missing Data	872481447
+Sensor Voltage For Temperature Measuring Out Of Range (EMU) (11V) - Inactive	872481448
+Sensor Voltage For Temperature Measuring Out Of Range (EMU) (11V) - Active	872481449
+Sensor Voltage For Temperature Measuring Out Of Range (EMU) (11V) - Sensor Defective	872481450
+Sensor Voltage For Temperature Measuring Out Of Range (EMU) (11V) - Missing Data	872481451
+Sensor Voltage For Temperature Measuring Out Of Range (EMU) (-7V) - Inactive	872481452
+Sensor Voltage For Temperature Measuring Out Of Range (EMU) (-7V) - Active	872481453
+Sensor Voltage For Temperature Measuring Out Of Range (EMU) (-7V) - Sensor Defective	872481454
+Sensor Voltage For Temperature Measuring Out Of Range (EMU) (-7V) - Missing Data	872481455
+Sensor Defective (Exhaust Temperature Cylinder A1) - Inactive	872481456
+Sensor Defective (Exhaust Temperature Cylinder A1) - Active	872481457
+Sensor Defective (Exhaust Temperature Cylinder A1) - Sensor Defective	872481458
+Sensor Defective (Exhaust Temperature Cylinder A1) - Missing Data	872481459
+Sensor Defective (Exhaust Temperature Cylinder A2) - Inactive	872481460
+Sensor Defective (Exhaust Temperature Cylinder A2) - Active	872481461
+Sensor Defective (Exhaust Temperature Cylinder A2) - Sensor Defective	872481462
+Sensor Defective (Exhaust Temperature Cylinder A2) - Missing Data	872481463
+Sensor Defective (Exhaust Temperature Cylinder A3) - Inactive	872481464
+Sensor Defective (Exhaust Temperature Cylinder A3) - Active	872481465
+Sensor Defective (Exhaust Temperature Cylinder A3) - Sensor Defective	872481466
+Sensor Defective (Exhaust Temperature Cylinder A3) - Missing Data	872481467
+Sensor Defective (Exhaust Temperature Cylinder A4) - Inactive	872481468
+Sensor Defective (Exhaust Temperature Cylinder A4) - Active	872481469
+Sensor Defective (Exhaust Temperature Cylinder A4) - Sensor Defective	872481470
+Sensor Defective (Exhaust Temperature Cylinder A4) - Missing Data	872481471
+Sensor Defective (Exhaust Temperature Cylinder A5) - Inactive	872481472
+Sensor Defective (Exhaust Temperature Cylinder A5) - Active	872481473
+Sensor Defective (Exhaust Temperature Cylinder A5) - Sensor Defective	872481474
+Sensor Defective (Exhaust Temperature Cylinder A5) - Missing Data	872481475
+Sensor Defective (Exhaust Temperature Cylinder A6) - Inactive	872481476
+Sensor Defective (Exhaust Temperature Cylinder A6) - Active	872481477
+Sensor Defective (Exhaust Temperature Cylinder A6) - Sensor Defective	872481478
+Sensor Defective (Exhaust Temperature Cylinder A6) - Missing Data	872481479
+Sensor Defective (Exhaust Temperature Cylinder A7) - Inactive	872481480
+Sensor Defective (Exhaust Temperature Cylinder A7) - Active	872481481
+Sensor Defective (Exhaust Temperature Cylinder A7) - Sensor Defective	872481482
+Sensor Defective (Exhaust Temperature Cylinder A7) - Missing Data	872481483
+Sensor Defective (Exhaust Temperature Cylinder A8) - Inactive	872481484
+Sensor Defective (Exhaust Temperature Cylinder A8) - Active	872481485
+Sensor Defective (Exhaust Temperature Cylinder A8) - Sensor Defective	872481486
+Sensor Defective (Exhaust Temperature Cylinder A8) - Missing Data	872481487
+Sensor Defective (Exhaust Temperature Cylinder A9) - Inactive	872481488
+Sensor Defective (Exhaust Temperature Cylinder A9) - Active	872481489
+Sensor Defective (Exhaust Temperature Cylinder A9) - Sensor Defective	872481490
+Sensor Defective (Exhaust Temperature Cylinder A9) - Missing Data	872481491
+Sensor Defective (Exhaust Temperature Cylinder A10) - Inactive	872481492
+Sensor Defective (Exhaust Temperature Cylinder A10) - Active	872481493
+Sensor Defective (Exhaust Temperature Cylinder A10) - Sensor Defective	872481494
+Sensor Defective (Exhaust Temperature Cylinder A10) - Missing Data	872481495
+Sensor Defective (Exhaust Temperature Cylinder B1) - Inactive	872481496
+Sensor Defective (Exhaust Temperature Cylinder B1) - Active	872481497
+Sensor Defective (Exhaust Temperature Cylinder B1) - Sensor Defective	872481498
+Sensor Defective (Exhaust Temperature Cylinder B1) - Missing Data	872481499
+Sensor Defective (Exhaust Temperature Cylinder B2) - Inactive	872481500
+Sensor Defective (Exhaust Temperature Cylinder B2) - Active	872481501
+Sensor Defective (Exhaust Temperature Cylinder B2) - Sensor Defective	872481502
+Sensor Defective (Exhaust Temperature Cylinder B2) - Missing Data	872481503
+Sensor Defective (Exhaust Temperature Cylinder B3) - Inactive	872481504
+Sensor Defective (Exhaust Temperature Cylinder B3) - Active	872481505
+Sensor Defective (Exhaust Temperature Cylinder B3) - Sensor Defective	872481506
+Sensor Defective (Exhaust Temperature Cylinder B3) - Missing Data	872481507
+Sensor Defective (Exhaust Temperature Cylinder B4) - Inactive	872481508
+Sensor Defective (Exhaust Temperature Cylinder B4) - Active	872481509
+Sensor Defective (Exhaust Temperature Cylinder B4) - Sensor Defective	872481510
+Sensor Defective (Exhaust Temperature Cylinder B4) - Missing Data	872481511
+Sensor Defective (Exhaust Temperature Cylinder B5) - Inactive	872481512
+Sensor Defective (Exhaust Temperature Cylinder B5) - Active	872481513
+Sensor Defective (Exhaust Temperature Cylinder B5) - Sensor Defective	872481514
+Sensor Defective (Exhaust Temperature Cylinder B5) - Missing Data	872481515
+Sensor Defective (Exhaust Temperature Cylinder B6) - Inactive	872481516
+Sensor Defective (Exhaust Temperature Cylinder B6) - Active	872481517
+Sensor Defective (Exhaust Temperature Cylinder B6) - Sensor Defective	872481518
+Sensor Defective (Exhaust Temperature Cylinder B6) - Missing Data	872481519
+Sensor Defective (Exhaust Temperature Cylinder B7) - Inactive	872481520
+Sensor Defective (Exhaust Temperature Cylinder B7) - Active	872481521
+Sensor Defective (Exhaust Temperature Cylinder B7) - Sensor Defective	872481522
+Sensor Defective (Exhaust Temperature Cylinder B7) - Missing Data	872481523
+Sensor Defective (Exhaust Temperature Cylinder B8) - Inactive	872481524
+Sensor Defective (Exhaust Temperature Cylinder B8) - Active	872481525
+Sensor Defective (Exhaust Temperature Cylinder B8) - Sensor Defective	872481526
+Sensor Defective (Exhaust Temperature Cylinder B8) - Missing Data	872481527
+Sensor Defective (Exhaust Temperature Cylinder B9) - Inactive	872481528
+Sensor Defective (Exhaust Temperature Cylinder B9) - Active	872481529
+Sensor Defective (Exhaust Temperature Cylinder B9) - Sensor Defective	872481530
+Sensor Defective (Exhaust Temperature Cylinder B9) - Missing Data	872481531
+Sensor Defective (Exhaust Temperature Cylinder B10) - Inactive	872481532
+Sensor Defective (Exhaust Temperature Cylinder B10) - Active	872481533
+Sensor Defective (Exhaust Temperature Cylinder B10) - Sensor Defective	872481534
+Sensor Defective (Exhaust Temperature Cylinder B10) - Missing Data	872481535
+Engine Running - Inactive	872481536
+Engine Running - Active	872481537
+Engine Running - Sensor Defective	872481538
+Engine Running - Missing Data	872481539
+Cylinder Cutout - Inactive	872481540
+Cylinder Cutout - Active	872481541
+Cylinder Cutout - Sensor Defective	872481542
+Cylinder Cutout - Missing Data	872481543
+Ready For Start - Inactive	872481544
+Ready For Start - Active	872481545
+Ready For Start - Sensor Defective	872481546
+Ready For Start - Missing Data	872481547
+Prelube System ON - Inactive	872481548
+Prelube System ON - Active	872481549
+Prelube System ON - Sensor Defective	872481550
+Prelube System ON - Missing Data	872481551
+Preheating High Temperature Is Switched On - Inactive	872481552
+Preheating High Temperature Is Switched On - Active	872481553
+Preheating High Temperature Is Switched On - Sensor Defective	872481554
+Preheating High Temperature Is Switched On - Missing Data	872481555
+Preheating Low Temperature Is Switched On - Inactive	872481556
+Preheating Low Temperature Is Switched On - Active	872481557
+Preheating Low Temperature Is Switched On - Sensor Defective	872481558
+Preheating Low Temperature Is Switched On - Missing Data	872481559
+Indicates If SAM Detects An Internal System Fault - Inactive	872481560
+Indicates If SAM Detects An Internal System Fault - Active	872481561
+Indicates If SAM Detects An Internal System Fault - Sensor Defective	872481562
+Indicates If SAM Detects An Internal System Fault - Missing Data	872481563
+Engine Speed Window 1 - Inactive	872481564
+Engine Speed Window 1 - Active	872481565
+Engine Speed Window 1 - Sensor Defective	872481566
+Engine Speed Window 1 - Missing Data	872481567
+Engine Speed Window 2 - Inactive	872481568
+Engine Speed Window 2 - Active	872481569
+Engine Speed Window 2 - Sensor Defective	872481570
+Engine Speed Window 2 - Missing Data	872481571
+Engine Stop Activated - Inactive	872481572
+Engine Stop Activated - Active	872481573
+Engine Stop Activated - Sensor Defective	872481574
+Engine Stop Activated - Missing Data	872481575
+Preheating System Running - Inactive	872481576
+Preheating System Running - Active	872481577
+Preheating System Running - Sensor Defective	872481578
+Preheating System Running - Missing Data	872481579
+CAN Connection Between SAM And ADEC Is Lost - Inactive	872481580
+CAN Connection Between SAM And ADEC Is Lost - Active	872481581
+CAN Connection Between SAM And ADEC Is Lost - Sensor Defective	872481582
+CAN Connection Between SAM And ADEC Is Lost - Missing Data	872481583
+T-Coolant Intercooler - Data Valid But Above Normal Operational Range	872481768
+Coolant Intercooler Temperature - Sensor Defect	872481779
+T-Coolant Intercooler - Data Valid But Above Normal Operating Range	872481783
+P-Fuel After Filter - Data Valid But Below Normal Operational Range	872481801
+Fuel Pressure (Sensor B34.1) - Sensor Defect	872481811
+P-Fuel After Filter - Data Valid But Below Normal Operating Range	872481817
+Fuel Filter Difference Pressure - Sensor Defect	872481843
+P-Oilfilter Difference - Data Valid But Above Normal Operating Range	872481847
+Lube Oil Differential Pressure - Sensor Defect	872481875
+Al P-Lube Oil Difference - Data Valid But Above Normal Operating Range	872481879
+P-Crankcase - Data Valid But Above Normal Operational Range	872481896
+Crankcase Pressure - Sensor Defect	872481907
+P-Crankcase - Data Valid But Above Normal Operating Range	872481911
+P-Charge Air - Data Valid But Below Normal Operating Range	872481945
+Etc1 - Data Valid But Above Normal Operational Range	872481960
+Exhaust Turbo Charger Speed (Sensor B44.1) - Sensor Defect	872481971
+Etc1 - Data Valid But Above Normal Operating Range	872481975
+P-Coolant - Data Valid But Below Normal Operational Range	872481993
+Coolant Pressure After Pump - Sensor Defect	872482003
+P-Coolant - Data Valid But Below Normal Operating Range	872482009
+T-Coolant Or Voltage Supply - Data Valid But Above Normal Operational Range	872482024
+Voltage Supply - Data Valid But Below Normal Operational Range	872482025
+Coolant Water Temperature (Sensor B6) - Sensor Defect	872482035
+T-Coolant - Data Valid But Above Normal Operating Range	872482039
+Fuel Pressure (Sensor B48) - Sensor Defect	872482067
+P-Fuel (Common Rail) - Data Valid But Above Normal Operating Range	872482071
+P-Fuel (Common Rail) - Data Valid But Below Normal Operating Range	872482073
+Power Supply - Data Valid But Above Normal Operating Range	872482103
+Supply Voltage - Data Valid But Below Normal Operating Range	872482105
+T-Fuel - Data Valid But Above Normal Operational Range	872482120
+Fuel Temperature (Sensor B33) - Sensor Defect	872482131
+T-Fuel - Data Valid But Above Normal Operating Range	872482135
+T-Lube Oil - Data Valid But Above Normal Operational Range	872482152
+Lube Oil Temperature (Sensor B7) - Sensor Defect	872482163
+T-Lube Oil - Data Valid But Above Normal Operating Range	872482167
+Ss OverSpeed - Data Valid But Above Normal Operational Range	872482184
+Engine Speed - Dropped Below Critical Value	872482185
+Engine Speed - Data Valid But Below Normal Operating Range	872482201
+Speed Demand Fail Mode - Root Cause Not Known	872482227
+T-Ecu - Data Valid But Above Normal Operating Range	872482263
+T-Exhaust A1 - Data Valid But Above Normal Operating Range	872482295
+T-Exhaust A1 - Data Valid But Below Normal Operating Range	872482297
+T-Exhaust A2 - Data Valid But Above Normal Operating Range	872482327
+T-Exhaust A2 - Data Valid But Below Normal Operating Range	872482329
+T-Exhaust A3 - Data Valid But Above Normal Operating Range	872482359
+T-Exhaust A3 - Data Valid But Below Normal Operating Range	872482361
+T-Exhaust A4 - Data Valid But Above Normal Operating Range	872482391
+T-Exhaust A4 - Data Valid But Below Normal Operating Range	872482393
+T-Exhaust A5 - Data Valid But Above Normal Operating Range	872482423
+T-Exhaust A5 - Data Valid But Below Normal Operating Range	872482425
+T-Exhaust A6 - Data Valid But Above Normal Operating Range	872482455
+T-Exhaust A6 - Data Valid But Below Normal Operating Range	872482457
+T-Exhaust B1 - Data Valid But Above Normal Operating Range	872482487
+T-Exhaust B1 - Data Valid But Below Normal Operating Range	872482489
+T-Exhaust B2 - Data Valid But Above Normal Operating Range	872482519
+T-Exhaust B2 - Data Valid But Below Normal Operating Range	872482521
+T-Exhaust B3 - Data Valid But Above Normal Operating Range	872482551
+T-Exhaust B3 - Data Valid But Below Normal Operating Range	872482553
+T-Exhaust B4 - Data Valid But Above Normal Operating Range	872482583
+T-Exhaust B4 - Data Valid But Below Normal Operating Range	872482585
+T-Exhaust B5 - Data Valid But Above Normal Operating Range	872482615
+T-Exhaust B5 - Data Valid But Below Normal Operating Range	872482617
+T-Exhaust B6 - Data Valid But Above Normal Operating Range	872482647
+T-Exhaust B6 - Data Valid But Below Normal Operating Range	872482649
+Etc2 - Data Valid But Above Normal Operational Range	872482664
+Etc2 - Data Valid But Above Normal Operating Range	872482679
+P-Coolant Intercooler - Data Valid But Below Normal Operational Range	872482697
+P-Coolant Intercooler Pressure - Sensor Defect	872482707
+P-Coolant Intercooler - Data Valid But Below Normal Operating Range	872482713
+P-Lube Oil - Data Valid But Below Normal Operational Range	872482729
+P-Lube Oil - Data Valid But Below Normal Operating Range	872482745
+Ss T-Exhaust Combined A - Data Valid But Above Normal Operational Range	872482760
+T-Exhaust Combined A - Data Valid But Above Normal Operating Range	872482775
+Ss T-Exhaust Combined B - Data Valid But Above Normal Operational Range	872482792
+T-Exhaust Combined B - Data Valid But Above Normal Operating Range	872482807
+T-Charge Air (A-Side) - Data Valid But Above Normal Operational Range	872482824
+T-Charge Air (A-Side) - Data Valid But Above Normal Operating Range	872482839
+Lub Oil Pressure (Sensor B5.1) - Below Critical Limit	872482857
+Lube Oil Pressure (Sensor B5.1) - Sensor Defect	872482867
+Lub Oil Pressure (Sensor B5.1) - Too Low	872482873
+Engine Turbocharger 1 Compressor Outlet Temperature - Sensor Defect	872482899
+Water Level - Below Critical Limit	872482921
+Water Level - Sensor Defect	872482931
+Water Level - Too Low	872482937
+24VDC Power Supply To ADEC - Exceeds Critical Value (UBat >36VDC)	872482952
+24VDC Power Supply To ADEC - Below Critical Value (UBat < 14VDC)	872482953
+24VDC Power Supply To ADEC - Sensor Defect	872482963
+24VDC Power Supply To Governor - Too High (>32VDC)	872482967
+24VDC Power Supply To Governor - Too Low (<18VDC)	872482969
+Engine Turbocharger 1 Speed - Sensor Defect	872482995
+Engine Intake Manifold 1 Temperature - Sensor Defect	872483027
+Exhaust Temperature Of Cylinder A7 - Too High (EMU)	872483063
+Exhaust Temperature Of Cylinder A7 - Too Low (EMU)	872483065
+Exhaust Temperature Of Cylinder A8 - Too High (EMU)	872483095
+Exhaust Temperature Of Cylinder A8 - Too Low (EMU)	872483097
+Exhaust Temperature Of Cylinder A9 - Too High (EMU)	872483127
+Exhaust Temperature Of Cylinder A9 - Too Low (EMU)	872483129
+Exhaust Temperature Of Cylinder A10 - Too High (EMU)	872483159
+Exhaust Temperature Of Cylinder A10 - Too Low (EMU)	872483161
+Exhaust Temperature Of Cylinder B7 - Too High (EMU)	872483191
+Exhaust Temperature Of Cylinder B7 - Too Low (EMU)	872483193
+Exhaust Temperature Of Cylinder B8 - Too High (EMU)	872483223
+Exhaust Temperature Of Cylinder B8 - Too Low (EMU)	872483225
+Exhaust Temperature Of Cylinder B9 - Too High (EMU)	872483255
+Exhaust Temperature Of Cylinder B9 - Too Low (EMU)	872483257
+Exhaust Temperature Of Cylinder B10 - Too High (EMU)	872483287
+Exhaust Temperature Of Cylinder B10 - Too Low (EMU)	872483289
+Engine Fuel Leakage 1 - Too High	872483319
+Engine Turbocharger Boost Pressure - Sensor Defect	872483347
+Engine Speed Camshaft - Sensor Defect	872483379
+Engine Speed Crankshaft - Sensor Defect	872483411
+Speed Demand Frequency - Sensor Defect	872483443
+OEM Interface Timeout	872546272
+OEM Interface Normal	872546273
+Driver Interface Timeout	872546274
+Driver Interface Normal	872546275

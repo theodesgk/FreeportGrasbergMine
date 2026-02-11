@@ -1,0 +1,6 @@
+OEM interface timeout	201457632
+OEM interface normal	201457633
+Driver interface timeout	201457634
+Driver interface normal	201457635
+Ground fault active	201392128
+Ground fault inactive	201392129

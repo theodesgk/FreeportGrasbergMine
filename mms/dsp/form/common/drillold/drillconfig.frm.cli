@@ -1,0 +1,151 @@
+..
+..DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: drillconfig.frm.cli,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:12 $
+..    $State: Exp $
+.. 
+.. this is the client specific drill utility configuration file which
+.. can override any generic definitions that are contained in the
+.. drill/drillconfig form. comments are available in drill/drillconfig
+.. make sure to define the macros such as 'PMANF_TABLE' if an enum
+.. table is included in THIS form. 
+..
+.def MAXPOINTS 200           .. maximum number of data points in profiles
+.def MAXLOAD 30              .. max number of different materials to track
+.def MAXPRO 8                .. max number of profiles stored per hole
+.def DEFAULT_HOLE_DEPTH 10.0 .. no hole depth rec'd from drill? assume this
+.def REDRILL_SUFFIX "Q"      .. when redrilling, add this suffix to hole no
+..                              after each <end hole> action
+.def DR_MOVEREASON 200       .. reason code for "moving between holes"
+..
+.. in this particular mine, the part numbers are prefixed with a three
+.. character code which can be related to both part type, part manufact.
+.. and part model plus part size
+..
+.def PMANF_TABLE
+.enum PMANF \
+  "Unknown,0"\
+  "Hughes,HU,1+2+4+8"\
+  "C.P.,CP,1+2+4+8"\
+  "Henderson,HE,1+2+4+8"\
+  "Reed,RE,1+2+4+8"\
+  "Smith/Gruner,SG,1+2+4+8"\
+  "Varel,VA,1+2+4+8"\
+  "Security,SE,1+2+4+8"\
+  "Williams,WI,1+2+4+8"\
+  "Kennedy,KE,1+2+4+8"\
+  "Walker/McDonald,WM,1+2+4+8"\
+  "Sandvick/Coromant,SC,1+2+4+8"\
+  "Other,OT"
+..
+.def PMODEL_TABLE
+.enum PMODEL \
+  "Unknown,0"\
+  "BH7,BH7,1"\
+  "BH8,BH8,1"\
+  "CM1,CM1,1"\
+  "CM2,CM2,1"\
+  "CH1,CH1,1"\
+  "CH2,CH2,1"\
+  "CS1,CS1,1"\
+  "CS2,CS2,1"\
+  "S8M,S8M,1"\
+  "H8M,H8M,1"\
+  "M8M,M8M,1"\
+  "Q61,Q61,1"\
+  "Q62,Q62,1"\
+  "Q63,Q63,1"\
+  "Q64,Q64,1"\
+  "M81,M81,1"\
+  "M60,M60,1"\
+  "SA1,SA1,2"\
+  "SA2,SA2,2"\
+  "SA3,SA3,2"\
+  "SA4,SA4,2"\
+  "ST1,ST1,4"\
+  "SU1,SU1,8"\
+  "Other,OTH"
+..
+.. the following enum tables set the relationship between part
+.. prefix and manufacturer and size. modify as required. these
+.. tables are used exclusively inside this form
+..
+.def MODMANF_TABLE
+.enum MODMANF \
+  "Unknown,0"\
+  "HU,BH7"\
+  "HU,BH8"\
+  "HU,CM1"\
+  "CP,CM2"\
+  "CP,CH1"\
+  "CP,CH2"\
+  "HE,CS1"\
+  "HE,CS2"\
+  "HE,S8M"\
+  "RE,H8M"\
+  "RE,M8M"\
+  "SG,Q61"\
+  "SG,Q62"\
+  "WI,Q63"\
+  "WI,Q64"\
+  "VA,M81"\
+  "VA,M60"\
+  "SC,SA1"\
+  "SC,ST1"\
+  "SC,SU1"\
+  "OT,Other"
+..
+.def MODSIZE_TABLE
+.enum MODSIZE \
+  "Unknown,0"\
+  "BA,BH7"\
+  "BA,BH8"\
+  "BA,CM1"\
+  "BA,CM2"\
+  "BA,CH1"\
+  "BA,CH2"\
+  "BA,CS1"\
+  "BA,CS2"\
+  "BA,S8M"\
+  "BA,H8M"\
+  "BA,M8M"\
+  "BA,Q61"\
+  "BA,Q62"\
+  "BA,Q63"\
+  "BA,Q64"\
+  "BA,M81"\
+  "BA,M60"\
+  "0,SA1"\
+  "SA,ST1"\
+  "0,SU1"\
+  "0,Other"
+..
+.def PSIZE_TABLE
+.enum PSIZE \
+  "Unknown,0"\
+  "12-1/4,BA,1"\
+  "9.7m,SA,4"\
+  "9.9m,SB,4"\
+  "Other,OT"
+..
+.def PCODE_TABLE
+.enum PCODE \
+  "Unknown,0"\
+  "Cone(s) Seized,1,1"\
+  "Carbs Broken,2,1"\
+  "Carbs Eroded,3,1"\
+  "Gge Row Carb,4,1"\
+  "Cored Out,5,1"\
+  "Shrt Tail Wear,6,1"\
+  "Leg(s) Snapped,7,1"\
+  "Thread Damage,8,1+2+4+8"\
+  "Blocked Air Flow,9,1"\
+  "Bent,10,2+4+8"\
+  "Worn Out,11,1+2+4+8"\
+..
+.expr drilllog_file "/dsp/cli/mwb/opns/drill.log"
+..

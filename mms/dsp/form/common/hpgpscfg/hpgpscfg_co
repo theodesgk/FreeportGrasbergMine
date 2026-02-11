@@ -1,0 +1,45 @@
+#!/bin/sh
+#
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-1994
+#               All Rights Reserved
+#  $RCSfile: hpgpscfg_co,v $
+# $Revision: 1.1 $
+#   $Author: olson $
+#     $Date: 2002/05/24 02:07:13 $
+#    $State: Exp $
+#
+# This script is used by the HP-GPS configuration system
+# to check out a specified file.
+#
+# $1 is the full path of the target directory,
+# $2 is the filename.
+#
+# If the target directory doesn't exist, the script
+# creates both it and an RCS subdirectory.
+
+. /dsp/sh/functions
+
+if [ ! -d $1 ]; then
+  echo "Creating $1 directory"
+  mkdir -p $1
+
+  # Don't create RCS directory at client sites:
+  if [ ! $linktest /dsp/client ]; then
+    echo "Creating $1/RCS directory"
+    mkdir $1/RCS
+  fi
+fi
+
+cd $1
+
+if [ -f $2 ]; then
+  if [ ! $linktest /dsp/client ]; then
+    co -l $2
+  else
+    echo "Setting permissions to write for "$2
+    chmod 664 $2
+  fi
+else
+  echo "$2 doesn't exist yet; can't co or chmod it."
+fi

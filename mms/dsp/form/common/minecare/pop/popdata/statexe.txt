@@ -1,0 +1,346 @@
+Statex OEM Interface Timeout	50462688
+Statex OEM Interface Normal	50462689
+Statex Driver Interface Timeout	50462690
+Statex Driver Interface Normal	50462691
+No Events Active	50397184
+Low Level Ground Fault	50397185
+High Level Ground Fault	50397186
+Pedal Accel	50397192
+Pedal Retard	50397193
+GF Contactor	50397194
+GFR Relay	50397195
+MF Contactor	50397196
+P1 Contactor	50397197
+P2 Contactor	50397198
+RP1 Contactor	50397201
+RP2 Contactor	50397202
+RP3 Contactor	50397203
+RP4 Contactor	50397204
+RP5 Contactor	50397205
+RP6 Contactor	50397206
+RP7 Contactor	50397207
+RP8 Contactor	50397208
+RP9 Contactor	50397209
+Forward Coil	50397210
+Reverse Coil	50397211
+Analog Output	50397214
+Frequency Output	50397215
+Analog Input	50397216
+Frequency Input	50397217
+Hardware Startup	50397221
+Illegal Comb Of MstCtrlSwitch Speed Reduc Contacts	50397225
+Trolley Line Volt Limit Exceeded	50397226
+Pantograph Operating Valve	50397228
+Diode Fault	50397229
+Motor #1 Overcurrent	50397230
+Motor #2 Overcurrent	50397231
+Motor Field Fault	50397232
+Motor Field Overcurrent	50397233
+Motor Stall	50397234
+Motor Spin	50397235
+Alternator Tertiary Overcurrent	50397236
+Motor Tertiary Overcurrent	50397237
++15 Power	50397238
+-15 Power	50397239
++19 Power	50397240
+Motor Polarity	50397241
+Analog Input-FB155 Card	50397242
+PTU Configuration	50397243
+RPx Bounce	50397244
+Grid Motor #1 Failure	50397245
+Grid Motor #2 Failure	50397246
+Low Axle Box Pressure	50397247
+Motor #1 Over Temperature	50397248
+Motor #2 Over Temperature	50397249
+Overspeed Retarding	50397250
+Overspeed Overshoot	50397251
+Retard OverCurrent	50397252
+Horsepower Low	50397253
+Horsepower Limit Exceeded	50397254
+Engine Overspeed Exceeded	50397255
+Engine Sensor Warning	50397256
+Engine Sensor Shutdown	50397257
+Stat Occurred	50397258
+Coolant Pressure Shutdown	50397259
+Crankcase Overpressure	50397260
+Grid Blower Failure	50397261
+Engine Service	50397262
+Engine Shutdown	50397263
+Engine Speed Retard	50397264
+Motor #1 Voltage Limit Exceeded	50397265
+Motor #2 Voltage Limit Exceeded	50397266
+Action Too Slow	50397267
+Trolley Notching Contactors	50397268
+Trolley Line Contactors	50397269
+Ground Interrupt Contactor	50397270
+Diesel/Trolley Field Switching Contactor	50397271
+Lamp	50397272
+Trolley Rejection	50397273
+Battery Volts Low	50397274
+Battery Volts High	50397275
+Bad Engine Sensor	50397276
+Motor Speed Sensor	50397277
+Leakage Current Fault	50397278
+Overcurrent Fault	50397279
+Grid Protection Fault	50397280
+Motor Overtemp While On Trolley In Reduced Notch	50397281
+Data Store	50397282
+Software	50397283
+Pedal Accel Voltage Too Low	50397985
+Pedal Accel Voltage Too High	50397986
+Pedal Retard Voltage Too Low	50398085
+Pedal Retard Voltage Too High	50398086
+GF Contactor Action Too Slow	50398185
+GF Contactor Moved No Command	50398186
+GF Contactor Action Too Slow	50398187
+GF Contactor Position Moved With No Command	50398188
+GFR Contactor Action Too Slow	50398285
+GFR Contactor Moved No Command	50398286
+GFR Contactor Action Too Slow	50398287
+GFR Contactor Position Moved With No Command	50398288
+MF Contactor Action Too Slow	50398385
+MF Contactor Moved No Command	50398386
+MF Contactor Action Too Slow	50398387
+MF Contactor Position Moved With No Command	50398388
+P1 Contactor Action Too Slow	50398485
+P1 Contactor Moved No Command	50398486
+P1 Contactor Action Too Slow	50398487
+P1 Contactor Position Moved With No Command	50398488
+P2 Contactor Action Too Slow	50398585
+P2 Contactor Moved No Command	50398586
+P2 Contactor Action Too Slow	50398587
+P2 Contactor Position Moved With No Command	50398588
+RP1 Contactor Action Too Slow	50398885
+RP1 Contactor Moved No Command	50398886
+RP1 Contactor Action Too Slow	50398887
+RP1 Contactor Position Moved With No Command	50398888
+RP2 Contactor Action Too Slow	50398985
+RP2 Contactor Moved No Command	50398986
+RP2 Contactor Action Too Slow	50398987
+RP2 Contactor Position Moved With No Command	50398988
+RP3 Contactor Action Too Slow	50399085
+RP3 Contactor Moved No Command	50399086
+RP3 Contactor Action Too Slow	50399087
+RP3 Contactor Position Moved With No Command	50399088
+RP4 Contactor Action Too Slow	50399185
+RP4 Contactor Moved No Command	50399186
+RP4 Contactor Action Too Slow	50399187
+RP4 Contactor Position Moved With No Command	50399188
+RP5 Contactor Action Too Slow	50399285
+RP5 Contactor Moved No Command	50399286
+RP5 Contactor Action Too Slow	50399287
+RP5 Contactor Position Moved With No Command	50399288
+RP6 Contactor Action Too Slow	50399385
+RP6 Contactor Moved No Command	50399386
+RP6 Contactor Action Too Slow	50399387
+RP6 Contactor Position Moved With No Command	50399388
+RP7 Contactor Action Too Slow	50399485
+RP7 Contactor Moved No Command	50399486
+RP7 Contactor Action Too Slow	50399487
+RP7 Contactor Position Moved With No Command	50399488
+RP8 Contactor Action Too Slow	50399585
+RP8 Contactor Moved No Command	50399586
+RP8 Contactor Action Too Slow	50399587
+RP8 Contactor Position Moved With No Command	50399588
+RP9 Contactor Action Too Slow	50399685
+RP9 Contactor Moved No Command	50399686
+RP9 Contactor Action Too Slow	50399687
+RP9 Contactor Position Moved With No Command	50399688
+FOR Contactor Action Too Slow	50399785
+FOR Contactor Moved No Command	50399786
+FOR Contactor Action Too Slow	50399787
+FOR Contactor Position Moved With No Command	50399788
+REV Contactor Action Too Slow	50399885
+REV Contactor Moved No Command	50399886
+REV Contactor Action Too Slow	50399887
+REV Contactor Position Moved With No Command	50399888
+Analog Output AF Current Ref	50400238
+Analog Output MF Current Err	50400239
+Analog Output BLKBLV	50400240
+Analog Output SIG8	50400241
+Analog Output MOTS	50400242
+Analog Output Truck Speed	50400243
+Analog Output Engine RPM	50400244
+Analog Output SIG1	50400245
+Analog Output SIG2	50400246
+Analog Output SIG3	50400247
+Analog Output SIG4	50400248
+Analog Output SIG5	50400249
+Frequency Output Engine Command Frequency	50400288
+Analog Input GND	50400402
+Analog Input GAINCHK	50400403
+Analog Input Ground Fault	50400404
+Analog Input M1 AMPS	50400405
+Analog Input M2 AMPS	50400406
+Analog Input MF AMPS	50400407
+Analog Input ALT F AMPS	50400408
+Analog Input Reserved 1	50400409
+Analog Input SRS	50400410
+Analog Input RPINHI	50400411
+Analog Input ALT F Voltage	50400412
+Analog Input ALT Out Voltage	50400413
+Analog Input M2 Volts	50400414
+Analog Input APINHI	50400415
+Analog Input Reserved 2	50400416
+Analog Input TMFSE	50400417
+Analog Input ATOC	50400418
+Analog Input MTOC	50400419
+Analog Input M1TS	50400420
+Analog Input M2TS	50400421
+Analog Input TAFSE	50400422
+Analog Input Reserved 3	50400423
+Analog Input Coolant Temperature	50400424
+Analog Input Coolant Pressure	50400425
+Analog Input Crankcase Pressure	50400426
+Analog Input Oil Pressure	50400427
+Analog Input Volts 15P	50400428
+Analog Input Volts 15N	50400429
+Analog Input Low Battery Voltage	50400430
+Analog Input High Battery Voltage	50400431
+Analog Input Volts 19P	50400432
+Analog Input TAMB	50400433
+Analog Input UNDEF3	50400434
+Frequency Input Engine Speed	50400535
+Frequency Input M1 Speed	50400536
+Frequency Input M2 Speed	50400537
+Hardware Startup EPROM CRC	50400885
+Hardware Startup Watchdog Test	50400886
+Hardware Startup Ready Timeout	50400887
+Hardware Startup Clock Interrupt	50400888
+Hardware Startup Flash CRC	50400889
+Hardware Startup SRAM TST	50400890
+Hardware Startup BRAM CRC	50400891
+Hardware Startup BRAM Battery	50400892
+Hardware Startup Real Clock	50400893
+Hardware Startup BUCK STK	50400894
+Hardware Startup UNRPT OVR	50400895
+Hardware Startup Watchdog	50400896
+Hardware Startup BADMEM	50400897
+Hardware Startup Manual Invoked	50400898
+Hardware Startup Analog Readback	50400899
+Hardware Startup Analog Atod Bad	50400900
+Hardware Startup Analog GND GAINCHK	50400901
+Hardware Startup FClock Status	50400902
+Hardware Startup FClockSequence	50400903
+Hardware Startup FClock Count	50400904
+Hardware Startup FPulse Status	50400905
+Hardware Startup FPulse Sequence	50400906
+Hardware Startup FPulse Count	50400907
+Hardware Startup Trolley Analog ATOD Bad	50400908
+Hardware Startup Trolley Analog GND GAINCHK	50400909
+Trolley Line Voltage Overvoltage	50401385
+Trolley Line Voltage Undervoltage	50401386
+M1 Overcurrent During Accel	50401785
+M1 Overcurrent During Retard	50401786
+M1 Overcurrent During Accel	50401787
+M1 Overcurrent During Retard	50401788
+M2 Overcurrent During Accel	50401885
+M2 Overcurrent During Retard	50401886
+M2 Overcurrent During Accel	50401887
+M2 Overcurrent During Retard	50401888
+MFLD & MARM AMPS BFLY MARM High	50401985
+MFLD & MARM AMPS BFLY MFLD Low	50401986
+MFLD & MARM AMPS BFLY MFLD High	50401987
+MFLD Overcurrent During Accel	50402085
+MFLD Overcurrent During Retard	50402086
+Motor Spin MOT1	50402285
+Motor Spin MOT2	50402286
+Trolley Analog Input GND1	50402985
+Trolley Analog Input GAINCHK 1	50402986
+Trolley Analog Input Leak AMPS	50402987
+Trolley Analog Input TRLY AMPS	50402988
+Trolley Analog Input SPANA1	50402989
+Trolley Analog Input TRLY VOLTS	50402990
+Trolley Analog Input Reserved	50402991
+PTU Configuration Set Truck ID & Calibrate Foot Pedals	50403085
+PTU Configuration Set Truck ID	50403086
+PTU Configuration Calibrate Foot Pedals	50403087
+PTU Configuration Bad CFG File	50403088
+RPx BOUNCE RP3	50403187
+RPx BOUNCE RP4	50403188
+RPx BOUNCE RP5	50403189
+RPx BOUNCE RP6	50403190
+RPx BOUNCE RP7	50403191
+RPx BOUNCE RP8	50403192
+RPx BOUNCE RP9	50403193
+Grid Motor1 Fail MOT1	50403285
+Grid Motor2 Fail MOT2	50403386
+BLOWER PRESSURE Low Pressure	50403485
+BLOWER PRESSURE Sensor Failure	50403486
+Retard OverCurrent MOT1	50403985
+Retard OverCurrent MOT2	50403986
+Horsepower Low During Accel	50404085
+Horsepower Low During Accel	50404087
+Horsepower High During Accel	50404185
+Horsepower High During Accel	50404187
+Engine Sensor Warn Coolant Pressure Low	50404385
+Engine Sensor Warn Oil Pressure Low	50404386
+Engine Sensor Warn Crankcase Pressure High	50404387
+Engine Sensor Warn Coolant Temperature High	50404388
+Engine Sensor Warn Over Speed	50404389
+Engine Sensor Warn Coolant Pressure High	50404390
+Engine Sensor Warn Oil Pressure High	50404391
+Engine Sensor SDWN Coolant Pressure Low	50404485
+Engine Sensor SDWN Oil Pressure Low	50404486
+Engine Sensor SDWN Crankcase Pressure High	50404487
+Engine Sensor SDWN Coolant Temperature High	50404488
+Engine Sensor SDWN Over Speed	50404489
+Engine Sensor SDWN Coolant Pressure High	50404490
+Engine Sensor SDWN Oil Pressure High	50404491
+Engine Sensor SDWN Coolant Pressure Bad Sensor	50404495
+Engine Sensor SDWN Oil Pressure Bad Sensor	50404496
+Engine Sensor SDWN Crankcase Pressure Bad Sensor	50404497
+Engine Sensor SDWN Coolant Temperature Bad Sensor	50404498
+STAT Occurred SRVBRK > 8 Mph	50404585
+STAT Occurred DBUP > 8mph	50404586
+STAT Occurred AS & Srv Brk	50404587
+STAT Occurred RS & Srv Brk	50404588
+STAT Occurred AS & Temp	50404589
+STAT Occurred AS & Prk Appl	50404590
+STAT Occurred PrkB Sw > 0.3 Mph	50404591
+AT Speed Spin ATS Activate	50404685
+AT Speed Spin ATS Terminate	50404686
+M1 Overvoltage During Accel	50405285
+M2 Overvoltage During Accel	50405385
+Action Too Slow Engine Speed Retard	50405485
+Action Too Slow ALTFAMPS Level	50405486
+Action Too Slow Blended Trans	50405487
+Action Too Slow Engine Speed Blend	50405488
+TRLY RC Contactor RC1 Action Too Slow	50405585
+TRLY RC Contactor RC2 Action Too Slow	50405586
+TRLY RC Contactor RC3 Action Too Slow	50405587
+TRLY RC Contactor RC4 Action Too Slow	50405588
+TRLY RC Contactor RC5 Action Too Slow	50405589
+TRLY RC Contactor RC6 Action Too Slow	50405590
+TRLY RC Contactor RC7 Action Too Slow	50405591
+TRLY RC Contactor RC8 Action Too Slow	50405592
+TRLY RC Contactor RC9 Action Too Slow	50405593
+TRLY RC Contactor RC1 Moved No Command	50405595
+TRLY RC Contactor RC2 Moved No Command	50405596
+TRLY RC Contactor RC3 Moved No Command	50405597
+TRLY RC Contactor RC4 Moved No Command	50405598
+TRLY RC Contactor RC5 Moved No Command	50405599
+TRLY RC Contactor RC6 Moved No Command	50405600
+TRLY RC Contactor RC7 Moved No Command	50405601
+TRLY RC Contactor RC8 Moved No Command	50405602
+TRLY RC Contactor RC9 Moved No Command	50405603
+TRLY TC Contactor TC1 Action Too Slow	50405685
+TRLY TC Contactor TC2 Action Too Slow	50405686
+TRLY TC Contactor TC1 Moved No Command	50405687
+TRLY TC Contactor TC2 Moved No Command	50405688
+GIC Contactor Failed To Open	50405785
+GIC Contactor Failed To Close	50405786
+GIC Contactor GIC Moved No Command	50405787
+DTS Contactor DTST Action Too Slow	50405885
+DTS Contactor DTSD Action Too Slow	50405886
+DTS Contactor DTST Moved No Command	50405887
+DTS Contactor DTSD Moved No Command	50405888
+Trolley Rejection Drove Off Trolley	50406085
+Trolley Rejection Dead Trolley Line	50406086
+Motor Speed Sensor MOT1	50406485
+Motor Speed Sensor MOT2	50406486
+Trolley W/M OverTemperature At Low Speed	50406885
+Trolley W/M OverTemperature At Medium Speed	50406886
+Trolley W/M OverTemperature At High Speed	50406887
+Internal Software Bad Fault	50407084
+Internal Software Fault Frames	50407086

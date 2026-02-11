@@ -1,0 +1,96 @@
+
+This utility currently involves the following interfaces:
+
+- 0 - GE Statex III (DC motors)
+- 1 - GE TCI (AC motors - 930E)
+- 2 - Old MTU monitoring
+- 3 - SuperDozer (NOTE: this is old code and will not be used)
+- 4 - PLM II (PLM II has a monitoring side to it besides being a 
+              "weighing system"; dipper and final load RPCs should
+              be handled in the same way we handle them today in 
+              act_dispatch.frm)
+- 5 - Demag (With an ETM on board)
+
+RPCs: They are part of the master rpc file /psw/etc/rpc
+
+Depending on which interface you are installing, add one or more of the lines
+below to your enum.c:
+
+For STATEX, TCI, and PLMII monitoring:
+  { act_other,     0x01C3, fmtint }, /* STATEX DATA */
+  { act_other,     0x01C1, fmtint }, /* STATEX ALARM */
+  { act_other,	   0x01CB, fmtint }, /* TCI DATA */
+  { act_other,	   0x01C9, fmtint }, /* TCI ALARM */
+  { act_other,	   0x0232, fmtint }, /* PLMII DATA */
+
+If you wish to use STATEX information to auto-assign a truck based on statex
+tray-up information. Note that if you wish to use this feature you must
+enable it at the interface level (refer to Chris Kardish's documentation on
+Statex).
+  { act_statextray,    0x01C2, fmtint }, /* STATEX TRAYUP */
+
+For old MTU interface:
+  { act_other,     0x0253, fmtint }, /* MTU DATA */
+  { act_other,     0x0250, fmtint }, /* MTU ALARM */
+
+For Demag interface:
+  { act_other,     0x0428, fmtint }, /* DEMAG ALARMS */
+
+Add to myenum.h:
+  #define act_statextray   MAXACTION+XX
+  /* XX is the proper number for the action */
+
+Add to /dsp/cli/xxx/form/enum_action.frm (again if AUTO ASSIGN is desired):
+  .equ act_statextray act_last+XX
+  ..XX is the proper number for the action
+
+The following have to be included  on act_dispatch:
+.include statex/act_statex
+
+To be included in ACT$RESTART:
+
+!DSP$ISSIM ? STATEX$OPEN
+
+To be included in ACT$OTHER:
+
+For STATEX, TCI and PLMII monitoring:
+0X01C1,
+0X01C9: ACT$STATEXDIAG
+0X01C3,
+0x01CB,
+0X0232: ACT$STATEXDATA
+
+For old MTU interface:
+0X0250: ACT$STATEXDIAG
+0X0253: ACT$STATEXDATA
+
+For Demag interface:
+0X428: ACT$STATEXDIAG
+
+To be included on ACT$TRUCK if auto assignment will be used based
+on STATEX tray-up input
+
+act_statextray: !DSP$CODE ?
+               (
+                TRN$SCREEN("Auto-assigning %{DSP$EQMT} by STATEX TRAY UP"),
+                T$ACTION := act_assign       .. Bed has been lowered, ASSIGN
+               ) :
+               "Use for the information that the bed is raised"
+
+
+Copy to DSP_OPNS:
+  /dsp/form/engl/statex/statexconfig.ddb
+
+Add to your client's .update file:
++ /dsp/form/engl/statex
+
+The statex utility mainmenu should be entered in an appropriate place
+calling "statex/statex_mainmenu"
+
+IF EXCEPTIONS ARE DESIRED (exceptions are available at this point for STATEX
+and DEMAG interfaces):
+In the end of except.frm add the following line:
+.include statex/statex_except
+
+For information on firmware loading and operation refer to our Intranet 
+documentation.

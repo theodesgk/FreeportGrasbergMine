@@ -1,0 +1,307 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1995
+..               All Rights Reserved
+..  $RCSfile: notes,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:12 $
+..    $State: Exp $
+..
+-------------
+OVERVIEW
+-------------
+
+  Currently, Goodyears's tire tag sends in tire data to Dispatch 
+  every 2.5 mins, and we record that data in an ascii file:
+ 
+             goodyear.YYMMDDlog
+  
+  This is all handled in act_goodyear.frm.
+  There is currently no reports for this data.
+
+  Data recorded for MINExpo demo included
+
+Time      Vehicle Tire   Tag Alarm Temp Pres          Tire  Last action
+07:00:07      114    1   4105    5   77  149   Left  Front    Standby
+                     B      D    B    B    B
+
+Next act.  Material          Destination  Mine E  Mine N  Elev Sta
+Ready         Empty           Shovel S02   25058  149984 20604  24
+
+  The values marked "B" (byte) and "D" (2 bytes) come up over the radio,
+  the others can be computed on the Dispatch workstation. For the
+  purposes of MINExpo GPS data was also sent up by radio. It would
+  be possible, though involved, to get this info from the GPS Path
+  database.
+
+-------------
+PERSONNEL
+-------------
+
+  MMS:
+    Andy Martin - project lead
+    Doug Todd - embedded work
+    Steve Chung - transaction screen
+
+  FCL:
+    Kim Barrowman   kim_barrowman@fording.ca Mine Superintendant
+    Dino Pilotto    dino_pilotto@fording.ca       Dispatch Engineer
+    Doug Payton     doug_payton@fording.ca        Cabling Help 
+    Masoud Sehabkar masoud_sahebkar@fording.ca    Sys. Admin.
+
+  GOODYEAR:
+    Darrin Landes   darrin_landes@goodyear.com    Project Lead
+    Hans Kessler    hkessler@custsys.com          Software analysis of data.
+    John Phelan     jphelan@phaseivengr.com       Embedded hardware & Software
+    
+
+-------------
+RPC's :
+-------------
+
+  in /psw/etc/rpc make sure the following rpcs are
+  defined :
+
+# Values for GOOODYEAR-DATA:
+#       Tire Position
+#       Tire tag ID number
+#       Alarm
+#       Temperature
+#       Pressure
+
+0x0650          GOODYEAR-DATA   goodyear        bdbbb
+
+  if they're not update the client with the latest /psw/etc/rpc
+  code, and restart the pswd.
+
+  The following RPC was added for MINExpo, to make it easy to
+  get GPS values X, Y, Z, and Status included with every data point.
+
+0x0651          GOODYEAR-DATA-POS       goodyear        bdbbbdddb
+
+-------------
+EMBEDDED WORK
+-------------
+
+   For MINExpo the following 2 lines are used in the Macro.cfg file
+   to get GPS info appended to the normal tire data:
+
+out bar 0x651 bdbbbdddb  sendto up
+in foo 0x650 bdbbb bar $1 $2 $3 $4 $5 $(GpsTruck x) $(GpsTruck y) $(GpsTruck z) $(GpsTruck status)
+
+   In the normal case
+
+	in GOODYEAR-DATA 0x650 bdbbb sendto up
+
+   is enough to route data upstream.
+
+   You will also need a serial port object running on the hub.
+
+   This info is under CVS at /microp/boot/Goodyear.
+
+   Also there is a Goodyear.cfg file
+
+	%!/psw/cpp
+	#include <Main/GspPort.h>
+	speed   19200
+	port    GSPPORT
+	hdwe    rs232
+ 
+   that is needed to properly configure a slip object for the serial port
+   that Goodyear uses to send over RPC's to the Hub.
+
+   This slip object gets instantiated in Main.cfg.
+
+   The command for getting the Goodyear files when loading a hub would
+   be similar to: 
+
+	net/Hub/Truck OPTIONS=Goodyear 
+
+   Cable: Farshad to provide details:
+
+-------------
+MINESITE CONNECTIVITY
+-------------
+
+   Qtip is not working at FCL. Doug Todd was able to get a Linux
+   laptop to connect there. 
+
+
+-------------
+SOFTWARE:
+-------------
+ 
+1. goodyear/act_goodyear.frm         - Handles incoming Goodyear-Data rpc
+   goodyear/act_goodyear	     - can be used to run act_goodyear.frm
+                                       as a background form. At FCL this is
+                                       started at boot time.
+   goodyear/goodyear_trans.frm	     - A tire transaction screen for
+
+   goodyear/expo_act_goodyear.frm    - A special version of act_goodyear.frm
+                                       to FTP info off site for MINExpo.
+
+-------------
+TESTING
+-------------
+
+   The rpcgen.frm can be used to generate upstream test RPC's.
+
+
+
+-------------
+TO DO
+-------------
+
+   1. Get data in database, not simple text log
+   2. Build reports as desired by mine.
+   3. Enhance transaction screen as desired by mine.
+   4. Goodyear may want data transfers over the mine LANs, both tag data
+      and historical data.
+   5. Tire data is coming in on radio every 2.5 minutes, one message per
+      tire. This will not scale too well to a full fleet (say 30 * 6 = 180
+      tires). Some sort of data compression is needed, especially for
+      tires that are running within normal temperature/pressure values.
+
+
+-------------
+FTP_FILE PROGRAM DESCRIPTION
+-------------
+
+  This was used at FCL to transfer data to Goodyear for MINExpo.
+  Unlikely it will be needed for production system.
+
+  Overview:
+
+    A shell script is available to aid in the automatic transfer of files
+    from a UNIX machine to an FTP site. The program is /dsp/sh/ftp_file.
+
+  Usage:
+
+    ftp_file [directory_loc] [file_name] [info_file]
+
+	directory_loc is the directory where the file being sent resides.
+	file_name is the file being sent. 
+	info_file is a small file that gives the key information needed
+		  to make the ftp connection, which includes ftp
+		  host address, username, password, and destination directory.
+
+		  For example, in info_file to place a file in the pub
+		  directory at mms is
+
+			ftphost="12.34.72.2"
+			username="ftp"
+			password="martin"
+			to_dir="/pub"
+
+	Example 1: To ftp the file /home/martin/misc/ftp/sample to
+		 the location given above:
+		/dsp/sh/ftp_file /home/martin/misc/ftp sample /home/martin/misc/ftp/info
+
+		Please delete the sample file after this test.
+
+	Example 2: FORMS code to ftp a truck.log file:
+		SPAWN("", (my_client, my_client)[/dsp/sh/ftp_file /dsp/cli/%s/opns truck.log dsp/cli/%s/com/ftp_truck_info], "/dev/null", "/dev/null"),
+
+		Note that all client specific information ends up in the
+		clients com directory, thus the form itself is generic,
+		and can reside in engl.
+
+
+  Warning: 
+
+    The ftp name and passwords are stored in the info_file in plaintext. In 
+    some cases it will be best to keep the info_file only at client sites.
+
+
+  To do:
+
+    Enhancing ftp_file to do a "get" as well as a "put" should be fairly
+    straightforward.
+
+
+-------------
+  NewTip
+-------------
+
+  When working on the Goodyear interface, Doug Todd had to investigate
+  a couple problems:
+
+	1. Is Goodyear sending us data ? 
+		(they were not for a few weeks)
+	2. Is the RPC in the format we expect ? 
+		(It was not - the tag id is 2 bytes, we expected 4)
+
+  He needed a Tip object to do this. One had been built some time ago,
+  but source was not easily available. Quickest solution was to recreate
+  the Tip object. Doug named it NewTip. His documentation is:
+  NewTip -- Embedded serial line debugger
+
+  NewTip is a terminal emulator program useful on the embedded systems.
+  It can be used to monitor a remote connection, as well as send data to and
+  from that connection. It dumps data as strings ( terminal mode ) or as hex
+  bytes ( hex mode). It accepts input strings for transmission downstream
+  to a target device.
+
+  NewTip is new to the src-2.6 code. It lives in CVS, and is created by
+  checking out the code, and issuing a make depend, make on the object.
+
+  It is not created by default.
+
+  NewTip can send escape characters. The method 'esc8' sends 8
+  sequential escape characters. The end of line character can be
+  changed, as well as a character string sent. The termination for a
+  string is the 'eol' character.
+
+  NewTip Methods
+
+
+  eol -- End of line character. Delineates the end of a frame.
+
+  send -- Send a string of characters. Downstream characters terminated
+  with the eol character.
+
+  esc8 -- Send a sequence of 8 escapes.
+
+  hexmode -- Intrperates upstream data as a string of hex digits,
+  rather than as a string of characters.
+
+  Newtip inherits from Serial Port , which sets the baud rate, line
+  speed and hardware device.
+
+  Example of Use
+
+  To see if vendor data is coming off a cable
+
+  bootme
+  module net/NewTip
+  object NewTip path:y speed:9600 port:scc1a hdwe:rs232 eol:0x0d set
+
+  This installs  a new tip object that looks for strings being passed upstream.
+
+  In order to see RPC's from a vendor:
+
+  bootme
+  module net/NewTip
+  object NewTip path:y speed:19200 port:scc1a hdwe:rs232 eol:0xc0 hexmode set
+
+  This sets up newtip to dump data bytes upstream. A vendor rpc may look like:
+
+  06 50 00 01 aa bb cc dd 55 11
+
+  In this case:
+
+
+  06 50 is the RPC number
+
+  00 01 is the Sequence Number
+
+  aa bb cc dd are the arguments to the RPC.
+
+  55 11 is the CRC for the RPC.
+
+  Please see the Vendor RPC documents for more information on RPC's.
+
+  To send a string issue:  send  now is the time for all
+  good men to come to the aid of the party.
+  will send the string downstream to the device.

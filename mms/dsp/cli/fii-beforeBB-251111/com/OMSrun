@@ -1,0 +1,5 @@
+#
+# services to start each time Dispatch is restarted
+#
+sleep 10
+sudo -u mms /dsp/sh/gps_data_monitor restart &

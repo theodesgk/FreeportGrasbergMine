@@ -1,0 +1,78 @@
+No Data From Gnss Receiver Active	1375797249
+No Data From Gnss Receiver Inactive	1375797250
+No Data From Uwb Node 1 Active	1375797251
+No Data From Uwb Node 1 Inactive	1375797252
+No Data From Uwb Node 2 Active	1375797253
+No Data From Uwb Node 2 Inactive	1375797254
+No Data From Uwb Node 3 Active	1375797255
+No Data From Uwb Node 3 Inactive	1375797256
+Gnss Receiver Has Valid Fix Active	1375797257
+Gnss Receiver Has Valid Fix Inactive	1375797258
+Vct Detects At Least 1 Neighbor Node Active	1375797259
+Vct Detects At Least 1 Neighbor Node Inactive	1375797260
+Collisionavoidance Receiving Bsm From At Least 1 Neighbor Node Active	1375797261
+Collisionavoidance Receiving Bsm From At Least 1 Neighbor Node Inactive	1375797262
+Visor Providing True Heading Active	1375797263
+Visor Providing True Heading Inactive	1375797264
+All Systems Go Active	1375797265
+All Systems Go Inactive	1375797266
+Alert Status 1 - Tow-Left - Inform Active	1375797267
+Alert Status 1 - Tow-Left - Inform Inactive	1375797268
+Alert Status 1 - Tow-Left - Warn Active	1375797269
+Alert Status 1 - Tow-Left - Warn Inactive	1375797270
+Alert Status 1 - Tow-Right - Inform Active	1375797271
+Alert Status 1 - Tow-Right - Inform Inactive	1375797272
+Alert Status 1 - Tow-Right - Warn Active	1375797273
+Alert Status 1 - Tow-Right - Warn Inactive	1375797274
+Alert Status 1 - Tow-Front - Inform Active	1375797275
+Alert Status 1 - Tow-Front - Inform Inactive	1375797276
+Alert Status 1 - Tow-Front - Warn Active	1375797277
+Alert Status 1 - Tow-Front - Warn Inactive	1375797278
+Alert Status 1 - Tow-Rear - Inform Active	1375797279
+Alert Status 1 - Tow-Rear - Inform Inactive	1375797280
+Alert Status 1 - Tow-Rear - Warn Active	1375797281
+Alert Status 1 - Tow-Rear - Warn Inactive	1375797282
+Alert Status 2 - Tow-Unknown - Inform Active	1375797283
+Alert Status 2 - Tow-Unknown - Inform Inactive	1375797284
+Alert Status 2 - Tow-Unknown - Warn Active	1375797285
+Alert Status 2 - Tow-Unknown - Warn Inactive	1375797286
+Alert Status 2 - Eebl - Inform Active	1375797287
+Alert Status 2 - Eebl - Inform Inactive	1375797288
+Alert Status 2 - Eebl - Warn Active	1375797289
+Alert Status 2 - Eebl - Warn Inactive	1375797290
+Alert Status 2 - Fcw - Inform Active	1375797291
+Alert Status 2 - Fcw - Inform Inactive	1375797292
+Alert Status 2 - Fcw - Warn Active	1375797293
+Alert Status 2 - Fcw - Warn Inactive	1375797294
+Alert Status 2 - Bsw-L - Inform Active	1375797295
+Alert Status 2 - Bsw-L - Inform Inactive	1375797296
+Alert Status 2 - Bsw-L - Warn Active	1375797297
+Alert Status 2 - Bsw-L - Warn Inactive	1375797298
+Alert Status 3 - Bsw-R - Inform Active	1375797299
+Alert Status 3 - Bsw-R - Inform Inactive	1375797300
+Alert Status 3 - Bsw-R - Warn Active	1375797301
+Alert Status 3 - Bsw-R - Warn Inactive	1375797302
+Alert Status 3 - Dnpw - Inform Active	1375797303
+Alert Status 3 - Dnpw - Inform Inactive	1375797304
+Alert Status 3 - Dnpw - Warn Active	1375797305
+Alert Status 3 - Dnpw - Warn Inactive	1375797306
+Alert Status 3 - Ima-Left - Inform Active	1375797307
+Alert Status 3 - Ima-Left - Inform Inactive	1375797308
+Alert Status 3 - Ima-Left - Warn Active	1375797309
+Alert Status 3 - Ima-Left - Warn Inactive	1375797310
+Alert Status 3 - Ima-Right - Inform Active	1375797311
+Alert Status 3 - Ima-Right - Inform Inactive	1375797312
+Alert Status 3 - Ima-Right - Warn Active	1375797313
+Alert Status 3 - Ima-Right - Warn Inactive	1375797314
+Alert Status 4 Supplemental Information - Hoc - Inform Active	1375797315
+Alert Status 4 Supplemental Information - Hoc - Inform Inactive	1375797316
+Alert Status 4 Supplemental Information - Hoc - Warn Active	1375797317
+Alert Status 4 Supplemental Information - Hoc - Warn Inactive	1375797318
+Alert Status 4 Supplemental Information - Slw - Inform Active	1375797319
+Alert Status 4 Supplemental Information - Slw - Inform Inactive	1375797320
+Alert Status 4 Supplemental Information - Slw - Warn Active	1375797321
+Alert Status 4 Supplemental Information - Slw - Warn Inactive	1375797322
+Tow Application Enabled Active	1375797323
+Tow Application Enabled Inactive	1375797324
+More Than 1 Threat Vehicle In The Tow Keep Out Zone Active	1375797325
+More Than 1 Threat Vehicle In The Tow Keep Out Zone Inactive	1375797326

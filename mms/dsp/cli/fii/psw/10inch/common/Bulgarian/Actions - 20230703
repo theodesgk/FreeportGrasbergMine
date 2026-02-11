@@ -1,0 +1,46 @@
+#!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-2011
+ *               All Rights Reserved
+ *  $RCSfile: Actions.cfg,v $
+ * $Revision: 1.7 $
+ *   $Author: dcitron $
+ *     $Date: 2013/10/11 20:47:13 $
+ *    $State: Exp $
+ * * * * * * * * * * * * * * * * * * *
+ */
+map	n
+#define	LANG_FILE	<10inch/common/LANGUAGE/Actions.cfg>
+#include LANG_FILE
+item	Dict_LogOn	doActLogOn
+item	Dict_LogOff	doLogOff
+#ifdef PSCHECK
+#	define PSACTION_FILE <PS/APP/Actions.cfg>
+#	include PSACTION_FILE
+#	ifndef NEXTGEN
+		item	Dict_PsReport	doPsReport
+#	endif
+#endif
+#ifdef PROD_CYCLE
+	item	Dict_Arrive	doActArrive
+	item	Dict_Assign	doActAssign
+	item	Dict_Load	doActLoad
+#endif
+#ifdef CAN_FUEL
+	item	Dict_Fuel	doActFuel
+#endif
+	item	Dict_EngHours	doEngHours
+#endif
+#define	APP_FILE	<10inch/APP/Actions.cfg>
+#include APP_FILE
+#define OBJECT Actions
+#include <Cfg/Options.cfg>
+item	Dict_Yes	doYes
+item	Dict_No		doNo
+item	Dict_ExitMenu	doActionsExit
+itemColor	Dict_Yes:Yes
+itemColor	Dict_No:No
+/* Eliminated by request from Marketing (TFS 170462) */
+/* itemColor	Dict_ExitMenu:Exit */

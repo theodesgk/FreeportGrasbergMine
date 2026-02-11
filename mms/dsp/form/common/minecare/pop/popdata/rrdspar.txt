@@ -1,0 +1,18 @@
+822149121	Acceleration in A-Axis	2	-2	41
+822149122	Acceleration in B-Axis	2	-2	41
+822149123	Acceleration in C-Axis	2	-2	41
+822149124	Maximum Acceleration in A-Axis	2	-2	41
+822149125	Minimum Acceleration in A-Axis	2	-2	41
+822149126	Median Acceleration in A-Axis	2	-2	41
+822149127	Maximum Acceleration in B-Axis	2	-2	41
+822149128	Minimum Acceleration in B-Axis	2	-2	41
+822149129	Median Acceleration in B-Axis	2	-2	41
+822149130	Maximum Acceleration in C-Axis	2	-2	41
+822149131	Minimum Acceleration in C-Axis	2	-2	41
+822149132	Median Acceleration in C-Axis	2	-2	41
+822149133	Pitch	0	0	4
+822149134	Roll	0	0	4
+822149135	X Position	0	0	23
+822149136	Y Position	0	0	23
+822149137	Z Position	0	0	17
+822149138	Velocity	0	0	39

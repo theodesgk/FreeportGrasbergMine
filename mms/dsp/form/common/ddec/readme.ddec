@@ -1,0 +1,102 @@
+DDEC INSTALLATION AND CONFIGURATION
+
+RPCs
+They are part of the master rpc file /psw/etc/rpc. The definition of the 
+DDEC-CONFIG rpc will be automatically changed on client.rpc when the DDEC 
+CONFIGURATION utility is accessed. The old version of the client.rpc will be 
+saved as client.rpc.save. The messages file and the console will show if for 
+some reason we could not modify the client.rpc file (it will be a permission 
+problem).
+
+DDEC 2.2.x and later
+
+To load a Ddec interface:
+- On a Hub use "OPTIONS=Ddec"
+- On a Gsp, bring the BOOT ROM and issue "net/Ddec/All", if the box
+  will be attached to a Black Box system, include "LOOP=19200".
+
+
+The object oriented DDEC code does not request its data set configuration
+every time it powers up. The configuration is saved in a file called Ddec.cfg,
+and saved in FLASH memory. This file is  located at /psw/boot/Ddec or 
+if you need specific configuration loaded it can be placed at 
+/dsp/cli/xyz/psw/Ddec. 
+If you have both types of firmware (the one which asks for the configuration 
+and the one which does not) or you only have the new firmware you will need to 
+define the data set to be sent by DDEC on the "DDEC Configuration Utility" to be
+exactly the same as in the Ddec.cfg file. If this is not done the FORMS based 
+application will not have any idea which parameters are coming in the data 
+array. 
+The current data set defined in /psw/boot/Ddec/Ddec.cfg can be used for both 
+DDEC II and DDEC III trucks. On DDEC II trucks three of the parameters only 
+available on DDEC III trucks will return 0. This is our recommended set and 
+there should be no reason for the client to define a custom set. This set 
+(which you should use in your configuration utility) is shown below.
+
+In order to set ddec-beacons for the trucks (beacons from which the truck
+will send a ddec-dataset), do the following:
+
+- Because this will be different for every mine you should copy the generic
+Ddec.cfg to /psw/cli/xyz/truck/Ddec.
+- Without modifying the "xmitset" line add the following line:
+beacons xxx,yyy,zzz
+
+where xxx, yyy, zzz are the beacon ids they from which they want to receive
+the dataset.
+
+After the Ddec,cfg file has been modifyed, they should connect to DDEC in the
+truck and do the following:
+
+DDEC Interface, vX.X.X> bootme (few returns)
+
+the boot rom prompt will come up:
+Boot Rom X.X.X>net/Ddec/Config
+
+
+
+FORMS CONFIGURATION:
+The following should be included in act_dispatch:
+.include ddec/act_ddec
+
+To be included in ACT$RESTART
+!DSP$ISSIM ? DDEC$OPEN
+
+To be included in ACT$OTHER
+    0X0142: ACT$DDECDIAG
+    0X0146: ACT$DDEC
+
+To be included in your enum.c:
+  { act_other,     0X0142, fmtint }, /* DDEC diag */
+  { act_other,     0X0146, fmtint }, /* DDEC data */
+
+Add to your client's .update file:
++ /dsp/form/engl/ddec
+
+Suggested initial configuration template (to be entered through
+the DDEC CONFIGURATION utility). The parameters should be defined in the order
+shown:
+
+Engine Speed1
+Pct Engine Load
+Coolant Temp
+Fuel Pressure
+Fuel Temperature
+Engine Oil Press
+Engine Oil Temp
+Rear Turbo Boost Press
+Front Turbo Boost Press
+Crankcase Pressure
+Total Fuel Used
+Engine Hrs
+PTO/Idle Hrs
+Coolant Level
+Engine Innercooler Temp           **
+Engine Oil Level                  **
+Coolant Pressure DIII             **
+Coolant Pressure                  ++
+
+** available only on DDEC III engines
+++ available only on DDEC II engines
+
+
+In order to access the ddec utility execute "ddec/ddec_mainmenu.frm."

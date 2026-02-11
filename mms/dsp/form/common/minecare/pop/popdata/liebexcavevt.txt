@@ -1,0 +1,1322 @@
+Grounding Of Engine Oil Pressure	486604801
++24V-Calculated Engine Oil Pressure	486604802
+Cable Break Engine Oil Pressure	486604803
+Grounding Of Water Level	486604804
++24V-Calculated Water Level	486604805
+Cable Break Water Level	486604806
+Grounding Of Water Temperature	486604807
++24V-Calculated Water Temperature	486604808
+Cable Break Water Temperature	486604809
+Grounding Of Hydraulic Oil Level	486604810
++24V-Calculated Hydraulics Oil Level	486604811
+Cable Break Hydraulic Oil Level	486604812
+Grounding Of Hydraulic Oil Temperature	486604813
++24V-Calculated Hydraulics Oil Temperature	486604814
+Cable Break Hydraulics Oil Temperature	486604815
+Grounding Of Transmission Temperature	486604816
++24V-Calculated Transmission Temperature	486604817
+Cable Break Transmission Temperature	486604818
+Reserve	486604819
+Reserve	486604820
+Reserve	486604821
+Grounding Of Diesel Rpm	486604822
++24V-Calculated Diesel Rpm	486604823
+Cable Break Diesel Rpm	486604824
+Reserve	486604825
+Reserve	486604826
+Cable Error Magnet Lr	486604827
+Reserve	486604828
+Reserve	486604829
+Cable Error Ev4 : Lime Cylinder	486604830
+Reserve	486604831
+Reserve	486604832
+Cable Error Ev5:Exhausts Combination Radiator / Water Cooler 994	486604833
+Reserve	486604834
+Reserve	486604835
+Cable Error Ev1 : Quantity 1	486604836
+Reserve	486604837
+Reserve	486604838
+Cable Error Ev2: Quantity 2	486604839
+Reserve	486604840
+Reserve	486604841
+Cable Error Ev3 : Quantity 3	486604842
+Reserve	486604843
+Reserve	486604844
+Cable Error Ev6	486604845
+Cable Error Swf-Motor	486604846
+Grounding Of Bst-Inlet A5	486604849
++24V-Calculated Bst-Inlet A5	486604850
+Cable Break Bst-Inlet A5	486604851
+Reserve	486604852
+Grounding Of Bst-Inlet A9	486604853
++24V-Calculated Bst-Inlet A9	486604854
+Cable Break Bst-Inlet A9	486604855
+Grounding Of Bst-Inlet A21	486604856
++24V-Calculated Bst-Inlet A21	486604857
+Cable Break Bst-Inlet A21	486604858
+Grounding Of Bst-Inlet A20	486604859
++24V-Calculated Bst-Inlet A20	486604860
+Cable Break Bst-Inlet A20	486604861
+Reserve	486604862
+Grounding Of Load Air Temperature	486604863
++24V-Calculated Load Air Temperature	486604864
+Cable Break Load Air Temperature	486604865
+Cable Error Potentiometer Dzv Compact?	486604866
+Cable Error Potentiometer Fine Regulation Komp?	486604867
+Inlet A8 Pwm Cummins To Small?	486604868
+Inlet A8 Pwm Cummins To Big ?	486604869
+Reserve	486604870
+Measured Load Air Pressure	486604871
++24V Calculated Load Air Pressure	486604872
+Cable Break Load Air Pressure	486604873
+Edc: Starter Time Out	486604874
+Edc: Starter Defective	486604875
+Edc: Control Member Alignment	486604876
+Edc: Output Stage Defective	486604877
+Edc: Hardware Error	486604878
+Edc: Software Error	486604879
+Edc: Deviation From Pump Target	486604880
+Rpm Sensor 1 Of Edc Defective	486604881
+Rpm Sensor 2 Of Edc Defective	486604882
+Edc Pump Feedback	486604883
+Edc: Fsa Error	486604884
+Edc: Fgk Monitoring	486604885
+Solenoid Valve Defective	486604886
+Rpm Difference	486604887
+Edc: Internal Air Pressure Sensor	486604888
+Reserve	486604889
+996: Cable Error Glb Rpm	486604890
+996: Cable Error Glb-Lr	486604891
+996: Cable Error Glb-Lr2	486604892
+Reserve	486604893
+Reserve	486604894
+Reserve	486604895
+Reserve	486604896
+Reserve	486604897
+Reserve	486604898
+Reserve	486604899
+Partly Covers With 996 For Engine 2	486604900
+Reserve	486605100
+Reserve	486605101
+Coding Plug Is Missing	486605102
+No Communication With Bst (With Bst1 With 996)	486605103
+No Communication With Bst2 With 996	486605104
+No Communication With Esp01	486605105
+No Communication With Esp02	486605106
+No Communication With Edc	486605107
+Display Does Not Have Communication With Keyboard (Can 2)	486605108
+Software Conditions Bbt/Display	486605109
+The Hard/Soft Identification Are Not Recognized Together	486605110
+No Communication With Cummins Translater	486605111
+No Communication With Io_994	486605112
+No Communication With Fsg-994	486605113
+Reserve	486605114
+Reserve	486605115
+Reserve	486605116
+Reserve	486605117
+Reserve	486605118
+Bst Detects Hardware Coding Not Compatible With This Type Excavator	486605119
+No Communication With J1939 From Cummins With 994	486605120
+Bst Contains An Unknown Quantity Well-Known Type Of Excavator	486605121
+The Hardware Coding Is Not Recognized By The Bst.	486605122
+Grounding Of Contrinex X18.2	486605211
+Reserve	486605212
++24V Or Break Contrinex X18.2	486605213
+Grounding Of Contrinex X18.3	486605214
+Reserve	486605215
++24V Or Break Contrinex X18.3	486605216
+Grounding Of Contrinex X18.5	486605217
+Reserve	486605218
++24V Or Break Contrinex X18.5	486605219
+Grounding Of Contrinex X18.4	486605220
+Reserve	486605221
++24V Or Break Contrinex X18.4	486605222
+Grounding Of Contrinex X19.2	486605223
+Reserve	486605224
++24V Or Break Contrinex X19.2	486605225
+Grounding Of Contrinex X19.3	486605226
+Reserve	486605227
++24V Or Break Contrinex X19.3	486605228
+Grounding Of Contrinex X19.5	486605229
+Reserve	486605230
++24V Or Break Contrinex X19.5	486605231
+Grounding Of Contrinex X19.4	486605232
+Reserve	486605233
++24V Or Break Contrinex X19.4	486605234
+Grounding Of Drive Pedal X.2	486605235
+Reserve	486605236
+To +24V Or Break Drive Pedal X9.2	486605237
+Grounding Of Drive Pedal X10.2	486605238
+Reserve	486605239
+To +24V Or Break Drive Pedal X10.2	486605240
+Reserve	486605241
++24V - Calculated Grasp 1	486605242
+Grounding Of Or Break Grasp 1	486605243
+Reserve	486605244
++24V - Calculated Grasp 2	486605245
+Grounding Of Or Break Grasp 2	486605246
+Reserve	486605247
+Reserve	486605248
+Reserve	486605249
+Reserve	486605250
+Reserve	486605251
+Reserve	486605252
+Reserve	486605253
++24V Calculated Turning Work Rpm	486605254
+Grounding Of Or Break Dw Rpm	486605255
+Grounding Of Fuel Tank Sensor	486605256
+Reserve	486605257
++24V- Calculated Or Break Fuel	486605258
+Engine Oil Pressure Alarm	486605301
+Water Level Alarm	486605302
+Water Temp Alarm	486605303
+Hydraulic Oil Level	486605304
+Hydraulic Oil Temperature	486605305
+Transmission Temperature	486605306
+High Pressure Filter	486605307
+Reflux Filter	486605308
+Flow Indicating Unit	486605309
+Accumulator Pressure	486605310
+Overvoltage (Bat)	486605311
+Undervoltage (Bat)	486605312
+Overspeed Edc	486605320
+Rpm Sensor Emergency Disconnection Edc	486605321
+Engine Oil Pressure Emergency Disconnection Edc	486605322
+Water Temp Emergency Disconnection Edc	486605323
+Load Air Temp Emergency Disconnection Edc	486605324
+Edc - Motor Error In Emergency Operation	486605325
+Water Pressure Mtu 995	486605340
+Engine Oil Temp Mtu 995	486605341
+Hydraulic Oil Level Super Mini (Ponton 995 - 996)	486605343
+Air Filter 1.1 Or 1	486605346
+Air Filter 1.2 Or 2	486605347
+Air Filter 2.1	486605348
+Air Filter 2.2	486605349
+Engine Oil Pressure Engine Alarm 1 996	486605350
+Engine Oil Pressure Engine Alarm 2 996	486605351
+Water Level Engine Alarm 1 996	486605352
+Water Level Engine Alarm 2 996	486605353
+Water Temp Engine Alarm 1 996	486605354
+Water Temp Engine Alarm 2 996	486605355
+Hydraulic Oil Level Alarm 996	486605356
+Hydraulic Oil Temp Alarm 996	486605357
+Transmission Oil Temp Engine Alarm 1 996	486605358
+Transmission Oil Temp Engine Alarm 2 996	486605359
+Transmission Oil Level Low Engine 1 996/995	486605362
+Transmission Oil Level Low Engine 2 996	486605363
+Transmission Oil Level High Engine 1 996/995	486605364
+Transmission Oil Level High Engine 2 996	486605365
+Pump Contamination 1.1 996	486605366
+Pump Contamination 1.2 996	486605367
+Pump Contamination 1.3 996	486605368
+Pump Contamination 1.4 996	486605369
+Swiveling Pump Contamination 1.1 996	486605370
+Swiveling Pump Contamination 1.2 996	486605371
+Pump Contamination 2.1 996	486605372
+Pump Contamination 2.2 996	486605373
+Pump Contamination 2.3 996	486605374
+Pump Contamination 2.4 996	486605375
+Swiveling Pump Contamination 2.1 996	486605376
+Swiveling Pump Contamination 2.2 996	486605377
+Pump Overheating 1.1 996	486605378
+Pump Overheating 1.2 996	486605379
+Pump Overheating 1.3 996	486605380
+Pump Overheating 1.4 996	486605381
+Swiveling Pump Overheating 1.1 996	486605382
+Swiveling Pump Overheating 1.2 996	486605383
+Pump Overheating 2.1 996	486605384
+Pump Overheating 2.2 996	486605385
+Pump Overheating 2.3 996	486605386
+Pump Overheating 2.4 996	486605387
+Swiveling Pump Overheating 2.1 996	486605388
+Swiveling Pump Overheating 2.2 996	486605389
+Tank Pre-Loading ...996/995/994B	486605390
+Transmission Oil Pressure 995/994B	486605391
+Cummins: Centinel Oil Level 994B	486605392
+Cummins: Fuel Temperature 994B	486605393
+Cummins: Fuel Pressure 994B	486605394
+Cummins: Blowby Pressure 994B	486605395
+Cummins: Engine Oil Level 994B	486605396
+Load Air Temperature Alarm 994B	486605397
+Cummins: Oil Change Demanded. 994B 994B	486605398
+Error Status Esp01	486605401
+Error Status Esp02	486605402
+Error Status Esp03	486605403
+B3 Sensor Engine Coolant Level: Accidental Ground	486608804
+B3 Sensor Engine Coolant Level: Accidental +	486608805
+B3 Sensor Engine Coolant Level: Wire Break	486608806
+B2 Sensor Engine Coolant Temperature: Accidental Ground	486608807
+B2 Sensor Engine Coolant Temperature: Accidental +	486608808
+B2 Sensor Engine Coolant Temperature: Wire Break	486608809
+B14 Sensor Hydraulique Oil Level: Accidental Ground	486608810
+B14 Sensor Hydraulique Oil Level: Accidental +	486608811
+B14 Sensor Hydraulique Oil Level: Wire Break	486608812
+B8 Sensor Hydraulic Oil Temperature: Accidental Ground	486608813
+B8 Sensor Hydraulic Oil Temperature: Accidental +	486608814
+B8 Sensor Hydraulic Oil Temperature: Wire Break	486608815
+B12 Sensor Engine Speed: Accidental Ground	486608822
+B12 Sensor Engine Speed: Accidental +	486608823
+B12 Sensor Engine Speed: Wire Break	486608824
+Yr4 Lr Solenoid: Wire Break	486608827
+Hydraulic Fan Solenoid: Wire Break	486608830
+Engine Coolant Fan Solenoid: Wire Break	486608833
+Ev1 Solenoid (Yr3_1): Wire Break	486608836
+Ev1 Solenoid (Yr3_2): Wire Break	486608839
+Ev1 Solenoid (Yr3_3): Wire Break	486608842
+Ev1 Solenoid (Lr2 Yr4_2): Wire Break	486608845
+Bst Failure (Frequency Range)	486608862
+Bst Failure (Memory Error)	486608863
+Bst Failure (Power Supply)	486608864
+Bst Failure (Can Communication)	486608870
+Eng Magnetic Speed/Po Lost Both Of 2 Signals - Data Erratic Intermittent Or Incorrect(R9400)	486608915
+Eng Oil Temp - Data Valid But Above Normal Oper Range - Most Severe Level(R9400)	486609014
+Electronic Calibration Code Incompatibility - Out Of Calibration(R9400)	486609034
+Can 1 Hardware Error	486609100
+Bbt: Coding Plug Failure	486609102
+Bbt: No Can Communication Between Bbt And Bst	486609103
+Bbt: No Can Communication Between Bbt And Esp01	486609105
+Display: No Communication Between Display And Bbt	486609108
+Bbt: No Data On Can Communication With U1036	486609111
+Bbt: No Can Communication With U1036	486609112
+Bbt: No Can Communication With A1020	486609113
+Bst: Hardware Coding Key Incompatible With Software	486609119
+Bbt: No Can Communication Between U1036 And Engine	486609120
+Bst: No Hardware Type Received From Btt	486609121
+Bst: Unknown Hardware Codierung	486609122
+Auxiliary Commanded Dual Output Shutdown - Special Instructions(R9400)	486609142
+Joystick Swing: Null Position Error	486609211
+Joystick Swing: I>21Ma Or I<3Ma	486609213
+Joystick Stick: Null Position Error	486609214
+Joystick Stick: I>21Ma Or I<3Ma	486609216
+Joystick Bucket: Null Position Error	486609217
+Water In Fuel Ind - Data Valid But Above Normal Ope Range - Least Severe Level(R9400)	486609218
+Joystick Bucket: I>21Ma Or I<3Ma	486609219
+Joystick Boom: Null Position Error	486609220
+Engine Oil Temp - Data Valid But Above Normal Ope Range - Mod Severe Level(R9400)	486609221
+Joysitck Boom: I>21 Ma Or I<3 Ma	486609222
+Pedal Travel Link: Null Position Error	486609223
+Pedal Travel Link: I>21Ma Or I<3Ma	486609225
+Pedal Travel Right: Null Position Error	486609226
+Pedal Travel Right: I>21Ma Or I<3Ma	486609228
+Pedal Flap Open: Null Position Error	486609229
+Pedal Flap Open: I>21Ma Or I<3Ma	486609231
+Pedal Flap Close: Null Position Error	486609232
+Pedal Flap Close: I>21Ma Or I<3Ma	486609234
+A1020 Coding Plug Unknown	486609235
+Pressure Sensor On Travel Brake Steering: I>21Ma Or I<3Ma	486609236
+Pressure Sensor Bucket: I>21Ma Or I<3Ma	486609237
+Pressure Sensor Boom: I>21Ma Or I<3Ma	486609238
+Pressure Sensor Stick: I>21Ma Or I<3Ma	486609239
+Battery 1 Voltage - Data Valid But Below Normal Operational Range - Most Severe Level(R9400)	486609241
+Battery 1 Voltage - Data Valid But Above Normal Operational Range - Most Severe Level(R9400)	486609242
+Injector Metering Rail Pres - Data Valid But Above Normal Ope Range - Most Severe Level(R9400)	486609249
+Sensor B53 (Swing Speed): Accidental +	486609253
+Sensor B53 (Swing Speed): Accidental Ground Or Wire Break	486609255
+Senor B1 (Fuel Level): Accidental +	486609256
+Sensor B1 (Fuel Level): Accidental Ground Or Wire Break	486609258
+Injector Solenoid Driver Electrical Problem	486609259
+Exhaust Gas Temp Dev Low Cylinder - Data Valid But Below Normal Ope Range -Least Sev Level(R9400)	486609260
+Intake Manifold Temperature Abnormal Rate Of Change(R9400)	486609263
+Exhaust Gas Temp Cylinder - Data Valid But Above Normal Ope Range -Mod Severe Level(R9400)	486609264
+B64_1: Accidental Ground	486609265
+B64_1: Accidental +	486609266
+B64_2: Accidental Ground	486609268
+B64_2: Accidental +	486609269
+B64_3: Accidental Ground	486609271
+B64_3: Accidental +	486609272
+B64_4: Accidental Ground	486609274
+B64_4: Accidental +	486609275
+B64_7/1: Accidental Ground	486609277
+B64_7/1: Accidental +	486609278
+B64_7/2: Accidental Ground	486609280
+B64_7/2: Accidental +	486609281
+B15: Accidental Ground	486609283
+B15: Accidental +	486609284
+B84: Accidental Ground	486609286
+B84: Accidental +	486609287
+B72: Accidental Ground	486609289
+B72: Accidental +	486609290
+B38: Accidental Ground	486609292
+B38: Accidental +	486609293
+Alarm: Engine Cold Start Occured	486609295
+Low Engine Oil Pressure	486609301
+Low Coolant Level	486609302
+Engine Coolant Overheat	486609303
+Low Hydraulic Oil Level	486609304
+High Hydraulic Oil Temperature	486609305
+Oil In Splitterbox Is Overheating	486609306
+Arlam Battery Overvoltage	486609311
+Greasing System Not Functional	486609315
+Alarm Network Monitoring 1 (Engine Motor)	486609330
+Alarm Network Monitoring 2 (Engine Motor)	486609331
+Power Reduce Due To High Coolant Temperature On Going	486609338
+Power Reduce Due To Low Hydraulic Oil Level On Going	486609339
+Engine Coolant Pressure	486609340
+To High Inclination	486609342
+Alarm Hydraylic Oil Level Too Low Pontoon	486609343
+Greasing System Error	486609344
+Alarm Greasing System Low Level	486609345
+Engine Air Filter 1	486609346
+Engine Air Filter 2	486609347
+High Coil Temperature 1 (Electric Excavator)	486609348
+High Coil Temperature 2 (Electric Excavator)	486609349
+High Bearing Temperature 1 (Electric Excavator)	486609350
+High Bearing Temperature 2 (Electric Excavator)	486609351
+Low Oil Level In Splitterbox	486609362
+High Oil Level In Splitterbox	486609364
+Pump 1 Is Contaminated	486609366
+Pump 2 Is Contaminated	486609367
+Pump 3 Is Contaminated	486609368
+Pump 4 Is Contaminated	486609369
+Swing Pump 1 Is Contaminated	486609372
+Swing Pump 2 Is Contaminated	486609373
+Main Pump 1 Overheat	486609378
+Main Pump 2 Overheat	486609379
+Main Pump 3 Overheat	486609380
+Main Pump 4 Overheat	486609381
+Swing Pump 1 Overheat	486609384
+Swing Pump 2 Overheat	486609385
+Low Hydraulic Tank Pressure	486609390
+Splitterbox Oil Pressure Low	486609391
+Low Oil Level In The Centinel System (Optional)	486609392
+High Fuel Temperature	486609393
+High Fuel Rail Pressure	486609394
+High Blow-By Pressure	486609395
+Low Engine Oil Level	486609396
+Manifold Overheat	486609397
+Oil Change Required	486609398
+(R9400)Damping Sensor Test Failure	486609399
+Esp01 Can Bus 2 Failure	486609401
+Engine Crankshaft Speed/Position - Data Erratic Intermittent Or Incorrect(R9400)	486609489
+At Least One Module Has A Least Severe Fault - Conditions Exists(R9400)	486610057
+Engine Oil Filter Diff Pres - Data Valid But Above Normal Ope Range - Mod Severe Level(R9400)	486610162
+At Least One Module Has A Most Severe Fault - Conditions Exists(R9400)	486610317
+At Least One Module Has A Most Severe Fault - Conditions Exists(R9400)	486610318
+At Least One Module Has A Moderately Severe Fault - Conditions Exists(R9400)	486610319
+Water In Fuel Ind - Data Valid But Above Normal Ope Range - Moderately Severe Level(R9400)	486610652
+Greasing System Error	486613344
+Greasing Tank Very Low Level	486613345
+Engine Air Filter Contamination (Engine 1)	486613346
+Engine Air Filter Contamination (Engine 2)	486613347
+Engine Oil Pressure Alarm (Engine 1)	486613350
+Engine Oil Pressure Alarm (Engine 2)	486613351
+Water Level Temperature Alarm (Engine 1)	486613352
+Water Level Temperature Alarm (Engine 2)	486613353
+Water Temperature Alarm (Engine 1)	486613354
+Water Temperature Alarm (Engine 2)	486613355
+Hydraulic Oil Level Alarm	486613356
+Hydraulic Oil Temperature Alarm	486613357
+Oil In Splitter Box Overheat (Power Pack 1)	486613358
+Oil In Splitter Box Is Overheat (Power Pack 2)	486613359
+Oil In Splitter Box Low Level (Power Pack 1)	486613362
+Oil In Splitter Box Low Level (Power Pack 2)	486613363
+Oil In Splitter Box High Level (Power Pack 1)	486613364
+Oil In Splitter Box High Level (Power Pack 2)	486613365
+Working Pump 1 Contamination Alarm (Power Pack 1)	486613366
+Working Pump 2 Contamination Alarm (Power Pack 1)	486613367
+Working Pump 3 Contamination Alarm (Power Pack 1)	486613368
+Working Pump 4 Contamination Alarm (Power Pack 1)	486613369
+Swing Pump 1 Contamination Alarm (Power Pack 1)	486613370
+Swing Pump 2 Contamination Alarm (Power Pack 1)	486613371
+Working Pump 1 Contamination Alarm (Power Pack 2)	486613372
+Working Pump 2 Contamination Alarm (Power Pack 2)	486613373
+Working Pump 3 Contamination Alarm (Power Pack 2)	486613374
+Working Pump 4 Contamination Alarm (Power Pack 2)	486613375
+Swing Pump 1 Contamination Alarm (Power Pack 2)	486613376
+Swing Pump 2 Contamination Alarm (Power Pack 2)	486613377
+Working Pump 1 Temperature Alarm (Power Pack 1)	486613378
+Working Pump 2 Temperature Alarm (Power Pack 1)	486613379
+Working Pump 3 Temperature Alarm (Power Pack 1)	486613380
+Working Pump 4 Temperature Alarm (Power Pack 1)	486613381
+Swing Pump 1 Temperature Alarm (Power Pack 1)	486613382
+Swing Pump 2 Temperature Alarm (Power Pack 1)	486613383
+Working Pump 1 Temperature Alarm (Power Pack 2)	486613384
+Working Pump 2 Temperature Alarm (Power Pack 2)	486613385
+Working Pump 3 Temperature Alarm (Power Pack 2)	486613386
+Working Pump 4 Temperature Alarm (Power Pack 2)	486613387
+Swing Pump 1 Temperature Alarm (Power Pack 2)	486613388
+Swing Pump 2 Temperature Alarm (Power Pack 2)	486613389
+Hydraulic Oil Pressure Alarm	486613390
+No Power Reduction Water Temperature Power Pack 1 98 DegC	486613392
+No Power Reduction Water Temperature Power Pack 2 98 DegC	486613393
+No Power Reduction Hydraulic Oil Temperature 80 DegC	486613394
+No Power Reduction Hydraulic Oil Temperature 85 DegC	486613395
+No To High Inclination	486613342
+Greasing System Error	486617344
+Greasing Tank Very Low Level	486617345
+Engine Air Filter Contamination (Engine 1)	486617346
+Engine Air Filter Contamination (Engine 2)	486617347
+Engine Oil Pressure Alarm (Engine 1)	486617350
+Engine Oil Pressure Alarm (Engine 2)	486617351
+Water Level Temperature Alarm (Engine 1)	486617352
+Water Level Temperature Alarm (Engine 2)	486617353
+Water Temperature Alarm (Engine 1)	486617354
+Water Temperature Alarm (Engine 2)	486617355
+Hydraulic Oil Level Alarm	486617356
+Hydraulic Oil Temperature Alarm	486617357
+Oil In Splitter Box Overheat (Power Pack 1)	486617358
+Oil In Splitter Box Is Overheat (Power Pack 2)	486617359
+Oil In Splitter Box Low Level (Power Pack 1)	486617362
+Oil In Splitter Box Low Level (Power Pack 2)	486617363
+Oil In Splitter Box High Level (Power Pack 1)	486617364
+Oil In Splitter Box High Level (Power Pack 2)	486617365
+Working Pump 1 Contamination Alarm (Power Pack 1)	486617366
+Working Pump 2 Contamination Alarm (Power Pack 1)	486617367
+Working Pump 3 Contamination Alarm (Power Pack 1)	486617368
+Working Pump 4 Contamination Alarm (Power Pack 1)	486617369
+Swing Pump 1 Contamination Alarm (Power Pack 1)	486617370
+Swing Pump 2 Contamination Alarm (Power Pack 1)	486617371
+Working Pump 1 Contamination Alarm (Power Pack 2)	486617372
+Working Pump 2 Contamination Alarm (Power Pack 2)	486617373
+Working Pump 3 Contamination Alarm (Power Pack 2)	486617374
+Working Pump 4 Contamination Alarm (Power Pack 2)	486617375
+Swing Pump 1 Contamination Alarm (Power Pack 2)	486617376
+Swing Pump 2 Contamination Alarm (Power Pack 2)	486617377
+Working Pump 1 Temperature Alarm (Power Pack 1)	486617378
+Working Pump 2 Temperature Alarm (Power Pack 1)	486617379
+Working Pump 3 Temperature Alarm (Power Pack 1)	486617380
+Working Pump 4 Temperature Alarm (Power Pack 1)	486617381
+Swing Pump 1 Temperature Alarm (Power Pack 1)	486617382
+Swing Pump 2 Temperature Alarm (Power Pack 1)	486617383
+Working Pump 1 Temperature Alarm (Power Pack 2)	486617384
+Working Pump 2 Temperature Alarm (Power Pack 2)	486617385
+Working Pump 3 Temperature Alarm (Power Pack 2)	486617386
+Working Pump 4 Temperature Alarm (Power Pack 2)	486617387
+Swing Pump 1 Temperature Alarm (Power Pack 2)	486617388
+Swing Pump 2 Temperature Alarm (Power Pack 2)	486617389
+Hydraulic Oil Pressure Alarm	486617390
+No Power Reduction Water Temperature Power Pack 1 98 DegC	486617392
+No Power Reduction Water Temperature Power Pack 2 98 DegC	486617393
+No Power Reduction Hydraulic Oil Temperature 80 DegC	486617394
+No Power Reduction Hydraulic Oil Temperature 85 DegC	486617395
+No To High Inclination	486617342
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR101) - M0010	486617800
+U48_A1 Internal electronic damage (Valve YR101) - M0011	486617801
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR105) - M0012	486617802
+U48_A1 Internal electronic damage (Valve YR105) - M0013	486617803
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR111) - M0014	486617804
+U48_A1 Internal electronic damage (Valve YR111) - M0015	486617805
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR116) - M0016	486617806
+U48_A1 Internal electronic damage (Valve YR116) - M0017	486617807
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR120) - M0018	486617808
+U48_A1 Internal electronic damage (Valve YR120) - M0019	486617809
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR125) - M001A	486617810
+U48_A1 Internal electronic damage (Valve YR125) - M001B	486617811
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR142) - M0020	486617812
+U48_A1 Internal electronic damage (Valve YR142) - M0021	486617813
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR143) - M0022	486617814
+U48_A1 Internal electronic damage (Valve YR143) - M0023	486617815
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR110) - M0024	486617816
+U48_A1 Internal electronic damage (Valve YR110) - M0025	486617817
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR115) - M0026	486617818
+U48_A1 Internal electronic damage (Valve YR115) - M0027	486617819
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR100) - M0028	486617820
+U48_A1 Internal electronic damage (Valve YR100) - M0029	486617821
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR128) - M002A	486617822
+U48_A1 Internal electronic damage (Valve YR128) - M002B	486617823
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR150_1) - M0030	486617824
+U105_A2 Internal electronic damage (Valve YR150_1) - M0031	486617825
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR155_1) - M0034	486617826
+U105_A2 Internal electronic damage (Valve YR155_1) - M0035	486617827
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR150_2) - M0038	486617828
+U105_A2 Internal electronic damage (Valve YR150_2) - M0039	486617829
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR155_2) - M003C	486617830
+U105_A2 Internal electronic damage (Valve YR155_2) - M003D	486617831
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR109_1) - M0040	486617832
+U105_A2 Internal electronic damage (Valve YR109_1) - M0041	486617833
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR109_2) - M0042	486617834
+U105_A2 Internal electronic damage (Valve YR109_2) - M0043	486617835
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR119_1) - M0044	486617836
+U105_A2 Internal electronic damage (Valve YR119_1) - M0045	486617837
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR119_2) - M0046	486617838
+U105_A2 Internal electronic damage (Valve YR119_2) - M0047	486617839
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y404_A) - M0050	486617840
+U46_D1 Internal electronic damage (Valve Y404_A) - M0051	486617841
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y405_B) - M0052	486617842
+U46_D1 Internal electronic damage (Valve Y405_B) - M0053	486617843
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y406_A) - M0054	486617844
+U46_D1 Internal electronic damage (Valve Y406_A) - M0055	486617845
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y407_B) - M0056	486617846
+U46_D1 Internal electronic damage (Valve Y407_B) - M0057	486617847
+Relay unplugged wiring shorted to low source or high source or solenoid damaged (Relay K98) - M0058	486617848
+U46_D1 Internal electronic damage (Relay K98) - M0059	486617849
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y400_A) - M0060	486617850
+U46_D1 Internal electronic damage (Valve Y400_A) - M0061	486617851
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y401_B) - M0062	486617852
+U46_D1 Internal electronic damage (Valve Y401_B) - M0063	486617853
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y402_A) - M0064	486617854
+U46_D1 Internal electronic damage (Valve Y402_A) - M0065	486617855
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y403_B) - M0066	486617856
+U46_D1 Internal electronic damage (Valve Y403_B) - M0067	486617857
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y408_A) - M0068	486617858
+U46_D1 Internal electronic damage (Valve Y408_A) - M0069	486617859
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y409_B) - M006A	486617860
+U46_D1 Internal electronic damage (Valve Y409_B) - M006B	486617861
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR121) - M0070	486617862
+U48_A2 Internal electronic damage (Valve YR121) - M0071	486617863
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR126) - M0072	486617864
+U48_A2 Internal electronic damage (Valve YR126) - M0073	486617865
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR112) - M0074	486617866
+U48_A2 Internal electronic damage (Valve YR112) - M0075	486617867
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR117) - M0076	486617868
+U48_A2 Internal electronic damage (Valve YR117) - M0077	486617869
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR102) - M0078	486617870
+U48_A2 Internal electronic damage (Valve YR102) - M0079	486617871
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR106) - M007A	486617872
+U48_A2 Internal electronic damage (Valve YR106) - M007B	486617873
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR130) - M0080	486617874
+U48_A2 Internal electronic damage (Valve YR130) - M0081	486617875
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR132) - M0082	486617876
+U48_A2 Internal electronic damage (Valve YR132) - M0083	486617877
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR122) - M0084	486617878
+U48_A2 Internal electronic damage (Valve YR122) - M0085	486617879
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR127) - M0086	486617880
+U48_A2 Internal electronic damage (Valve YR127) - M0087	486617881
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR103) - M0088	486617882
+U48_A2 Internal electronic damage (Valve YR103) - M0089	486617883
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR144) - M008A	486617884
+U48_A2 Internal electronic damage (Valve YR144) - M008B	486617885
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR140) - M0090	486617886
+U105_A1 Internal electronic damage (Valve YR140) - M0091	486617887
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR141) - M0092	486617888
+U105_A1 Internal electronic damage (Valve YR141) - M0093	486617889
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR113) - M0094	486617890
+U105_A1 Internal electronic damage (Valve YR113) - M0095	486617891
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR118) - M0096	486617892
+U105_A1 Internal electronic damage (Valve YR118) - M0097	486617893
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR104) - M0098	486617894
+U105_A1 Internal electronic damage (Valve YR104) - M0099	486617895
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR123) - M009A	486617896
+U105_A1 Internal electronic damage (Valve YR123) - M009B	486617897
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y150_1) - M00B0	486617898
+U46_D2 Internal electronic damage (Valve Y150_1) - M00B1	486617899
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y155_1) - M00B4	486617900
+U46_D2 Internal electronic damage (Valve Y155_1) - M00B5	486617901
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y150_2) - M00B8	486617902
+U46_D2 Internal electronic damage (Valve Y150_2) - M00B9	486617903
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y155_2) - M00BC	486617904
+U46_D2 Internal electronic damage (Valve Y155_2) - M00BD	486617905
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y109_1) - M00C0	486617906
+U46_D2 Internal electronic damage (Valve Y109_1) - M00C1	486617907
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y109_2) - M00C2	486617908
+U46_D2 Internal electronic damage (Valve Y109_2) - M00C3	486617909
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y119_1) - M00C4	486617910
+U46_D2 Internal electronic damage (Valve Y119_1) - M00C5	486617911
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv Y119_2) - M00C6	486617912
+U46_D2 Internal electronic damage (Valve Y119_2) - M00C7	486617913
+Hardware default (Module U48_A1) - M00D0	486617914
+Hardware default (Module U105_A2) - M00D1	486617915
+Hardware default (Module U46_D1) - M00D2	486617916
+Hardware default (Module U48_A2) - M00D3	486617917
+Hardware default (Module U105_A1) - M00D4	486617918
+Hardware default (Module U46_D2) - M00D5	486617919
+Module unplugged or not working (Module U48_A1) - M00D6	486617920
+Module unplugged or not working (Module U105_A2) - M00D7	486617921
+Module unplugged or not working (Module U46_D1) - M00D8	486617922
+Bus off problem (Module U47_B CAN Bus5B line) - M00D9	486617923
+Slave bus interrupted or data errors (Module U47_B CAN Bus5B) - M00DA	486617924
+Module unplugged or not working (Module U48_A2) - M00DB	486617925
+Module unplugged or not working (Module U105_A1) - M00DC	486617926
+Module unplugged or not working (Module U46_D2) - M00DD	486617927
+Bus off problem (Module U47_B CAN Bus4B line) - M00DE	486617928
+Slave bus interrupted or data errors (Module U47_B CAN Bus4B) - M00DF	486617929
+Module unplugged or not working (U20 Joystick right) - M00E0	486617930
+Module unplugged or not working (U21 Joystick left) - M00E1	486617931
+Module unplugged or not working (U23 Pedal right) - M00E2	486617932
+Module unplugged or not working (U22 Pedal left) - M00E3	486617933
+Bus off problem (Module U47_B CAN Bus3B line) - M00E4	486617934
+Slave bus interrupted or data errors (Module U47_B CAN Bus3B) - M00E5	486617935
+Hardware default (U20 Joystick right) - M00E6	486617936
+Hardware default (U21 Joystick left) - M00E7	486617937
+Hardware default (U23 Pedal right) - M00E8	486617938
+Hardware default (U22 Pedal left) - M00E9	486617939
+Hardware default (Module U47_B) - M00EA	486617940
+Unplugged wiring shorted to low source/high source/sensor damaged (Boom atte Sensor B115_1) - M00EB	486617941
+Unplugged wiring shorted to low source/high source/sensor damaged (Boom atte Sensor B115_2) - M00EC	486617942
+Unplugged wiring shorted to low source/high source/sensor damaged (Stk atte Sensor B116_1) - M00ED	486617943
+Unplugged wiring shorted to low source/high source/sensor damaged (Stk atte Sensor B116_2) - M00EE	486617944
+Unplugged wiring shorted to low source/high source/sensor damaged (Svl atte Sensor B117_1) - M00EF	486617945
+Unplugged wiring shorted to low source/high source/sensor damaged (Pressureless boom B76) - M00F0	486617946
+Unplugged wiring shorted to low source/high source/sensor damaged (Pressureless stick B75) - M00F1	486617947
+Unplugged wiring shorted to low source/high source/sensor damaged (Pressureless svl B197) - M00F2	486617948
+Unplugged wiring shorted to low source/high source/sensor damaged (Svl atte Sensor B117_2) - M00F3	486617949
+Unplugged wiring shorted to low source/high source/sensor damaged (Svl atte Sensor B117_3) - M00F4	486617950
+Unplugged wiring shorted to low source/high source/sensor damaged (Svl atte Sensor B117_4) - M00F5	486617951
+Unplugged wiring shorted to low source/high source/sensor damaged (Svl atte Sensor B118_1) - M00F6	486617952
+Unplugged wiring shorted to low source/high source/sensor damaged (Svl atte Sensor B118_2) - M00F7	486617953
+Unplugged wiring shorted to low source/high source/sensor damaged (Svl atte Sensor B118_3) - M00F8	486617954
+Unplugged wiring shorted to low source/high source/sensor damaged (Svl atte Sensor B118_4) - M00FA	486617955
+Lever pulled down as one Pedal or one Joystick signal > 10% - M00FB	486617956
+Solenoid unplugged wiring shorted to low source/high source/solenoid damaged (Vlv YR131) - M00FC	486617957
+U105_A1 Internal electronic damage (Valve YR131) - M00FD	486617958
+Engi Magne Speed/Position lost both of 2 signals - Data erra intermit or incorr (Engi 1) - M1/2001	486617959
+Intk Manifld 1 Pressure Sensor Circt - Volt abv normal or srted to high source (Engi 1) - M1/2002	486617960
+Intk Manifld 1 Pressure Sensor Circt - Volt blw normal or srted to high source (Engi 1) - M1/2003	486617961
+Intk Manifld 1 Pressure - Data valid but abv normal operat range - Mod severe lvl (Engi 1) - M1/2004	486617962
+Engi Oil Rifle Pressure 1 Sensor Circt - Volt abv normal or srtd to high source (Engi 1) - M1/2005	486617963
+Engi Oil Rifle Pressure 1 Sensor Circt - Volt blw normal or srtd to low source (Engi 1) - M1/2006	486617964
+Engi Oil Rifle Pressure - Data valid but blw normal operat range - Mod severe lvl (Engi 1) - M1/2007	486617965
+Engi Coolant Temp 1 Sensor Circt - Volt abv normal or srtd to high source (Engi 1) - M1/2008	486617966
+Engi Coolant Temp 1 Sensor Circt - Volt blw normal or srtd to low Source (Engi 1) - M1/2009	486617967
+Engi Coolant Temp - Data valid but abv normal operat range - Mod severe lvl (Engi 1) - M1/200A	486617968
+Engi Coolant Temp - Data valid but abv normal operat range - Most severe lvl (Engi 1) - M1/200B	486617969
+Intk Manifld 1 Temp Sensor Circt - Volt abv normal or srtd to high source (Engi 1) - M1/200C	486617970
+Intk Manifld 1 Temp Sensor Circt - Volt blw normal or srtd to low source (Engi 1) - M1/200D	486617971
+Intk Manifld 1 Temp - Data valid but abv normal operat range - Most severe lvl (Engine 1) - M1/200E	486617972
+Intk Manifld 2 Temp Sensor Circt - Volt abv normal or srtd to high source (Engi 1) - M1/200F	486617973
+Intk Manifld 2 Temp Sensor Circt - Volt blw normal or srtd to low source (Engi 1) - M1/2010	486617974
+Intk Manifld 2 Temp - Data valid but abv normal operat range - Most severe lvl (Engi 1) - M1/2011	486617975
+Intk Manifld 3 Temp Sensor Circt - Volt abv normal or srtd to high source (Engi 1) - M1/2012	486617976
+Intk Manifld 3 Temp Sensor Circt - Volt blw normal or srtd to low source (Engi 1) - M1/2013	486617977
+Intk Manifld 3 Temp - Data valid but abv normal operat range - Most severe lvl (Engi 1) - M1/2014	486617978
+Intk Manifld 4 Temp Sensor Circt - Volt abv normal or srtd to high source (Engi 1) - M1/2015	486617979
+Intk Manifld 4 Temp Sensor Circt - Volt blw normal or srtd to low source (Engi 1) - M1/2016	486617980
+Intk Manifld 4 Temp - Data valid but abv normal operat range - Most severe lvl (Engi 1) - M1/2017	486617981
+Sensor Supply 2 Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/2018	486617982
+Coolant Leve1Sensor 1 Circuit - Voltage above normal or shorted to high source (Engine 1) - M1/2019	486617983
+Coolant Leve1Sensor 1 Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/201A	486617984
+Coolant Leve1- Data valid but blw normal operat range - Mod severe lvl (Engi 1) - M1/201B	486617985
+Engi Oil Temp Sensor 1 Circt - Volt abv normal or srtd to high source (Engi 1) - M1/201C	486617986
+Engi Oil Temp Sensor 1 Circt - Volt blw normal or srtd to low source (Engi 1) - M1/201D	486617987
+Engi Oil Temp - Data valid but abv normal operat range - Most severe lvl (Engi 1) - M1/201E	486617988
+Barometric Pressure Sensor 1 Circt - Volt abv normal or srtd to high source (Engi 1) - M1/201F	486617989
+Barometric Pressure Sensor 1 Circt - Volt blw normal or srtd to low source (Engi 1) - M1/2020	486617990
+Engi Oil Burn Vlv Solenoid Driver Circt - Volt blw normal or srtd to low source (Engi 1) - M1/2021	486617991
+Engi Oil Burn Vlv Solenoid Driver Circt - Volt abv normal or srtd to high source (Engi 1) - M1/2022	486617992
+Sensor Supply 2 Circuit - Voltage above normal or shorted to high source (Engine 1) - M1/2023	486617993
+Coolant Pressure - Data valid but blw normal operat range - Most severe lvl (Engi 1) - M1/2024	486617994
+Coolant Pressure Sensor Circuit - Volt abv normal or srtd to high source (Engi 1) - M1/2025	486617995
+Coolant Pressure Sensor Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/2026	486617996
+Engi Cnksft Spd/Position - Data valid but abv normal operat range - Most sevr lvl (Engi 1) - M1/2027	486617997
+Coolant Level - Data valid but blw normal operat range - Most severe lvl (Engi 1) - M1/2028	486617998
+External Speed Cmd Input (Multiple Unit Sync) - Data erra intermit or incorr (Engi 1) - M1/2029	486617999
+Sensor Supply 3 Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/202A	486618000
+Fan Control Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/202B	486618001
+Exhaust Gas temp - Data valid but abv normal operat range - Mod severe lvl (Engi 1) - M1/202C	486618002
+Engi Fuel Temp High - Data valid but abv normal operat range - Mod severe lvl (Engi 1) - M1/202D	486618003
+Engi Fuel Temp Sensor 1 Circt - Volt abv normal or srtd to high source (Engi 1) - M1/202E	486618004
+Engi Fuel Temp Sensor 1 Circt - Volt blw normal or srtd to low source (Engi 1) - M1/202F	486618005
+Engi Fuel temp - Data valid but abv normal operat range - Most severe lvl (Engi 1) - M1/2030	486618006
+Fuel Pump Pressurizing Assembly 1 Circt - Volt blw normal or srtd to low source (Engi 1) - M1/2031	486618007
+Fuel Pump Pressurizing Assembly 1 Circt - Volt abv normal or srtd to high source (Engi 1) - M1/2032	486618008
+SAE J1939 Multiplexing PGN Timeout Error - Abnormal Update Rate (Engine 1) - M1/2033	486618009
+SAE J1939 Multiplexing Configuration Error - Out of calibration (Engine 1) - M1/2034	486618010
+Real Time Clock Power Interrupt - Data erratic intermittent or incorrect (Engine 1) - M1/2035	486618011
+lnjector Solenoid Driver Cylinder 1 Circt - Current blw normal or open circt (Engi 1) - M1/2036	486618012
+Injector Solenoid Driver Cylinder 5 Circt - Current blw normal or open circt (Engi 1) - M1/2037	486618013
+lnjector Solenoid Driver Cylinder 3 Circt - Current blw normal or open circt (Engi 1) - M1/2038	486618014
+lnjector Solenoid Driver Cylinder 6 Circt - Current blw normal or open circt (Engi 1) - M1/2039	486618015
+lnjector Solenoid Driver Cylinder 2 Circt - Current blw normal or open circt (Engi 1) - M1/203A	486618016
+lnjector Solenoid Driver Cylinder 4 Circt - Current blw normal or open circt (Engi 1) - M1/203B	486618017
+Electronic Calibration Code Incompatibility - Out of calibration (Engine 1) - M1/203C	486618018
+Engi Ctrl Module Warning Internal HW Failure - Bad intelligent device or cmpnt (Engi 1) - M1/203D	486618019
+Transm o/p Shaft Speed - Data valid but abv normal operat range - Mod severe lvl (Engi 1) - M1/203E	486618020
+lnjector Power Supply - Bad intelligent device or component (Engine 1) - M1/203F	486618021
+Sensor Supply 1 Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/2040	486618022
+Sensor Supply 1 Circuit - Voltage above normal or shorted to high source (Engine 1) - M1/2041	486618023
+Engi Oil Rifle Pressure - Data valid but blw normal operat range - Most sevr lvl (Engi 1) - M1/2042	486618024
+Water in Fuel Indicator - Data valid but abv normal operat range - Least sevr lvl (Engi 1) - M1/2043	486618025
+Engi Oil Temp - Data valid but abv normal operat range - Mod severe lvl (Engi 1) - M1/2044	486618026
+SAE J1939 Datalink - Data erratic intermittent or incorrect (Engine 1) - M1/2045	486618027
+Accelerator pedal or Lever Idle Validation - Data erra intermit or incorr (Engi 1) - M1/2046	486618028
+Accelerator pedal or Lever Idle Validation - Out of calibration (Engine 1) - M1/2047	486618029
+Battery 1 Volt - Data Valid but blw normal operation range - Mod severe lvl (Engi 1) - M1/2048	486618030
+Battery 1 Volt - Data Valid but abv normal operation range - Mod severe lvl (Engi 1) - M1/2049	486618031
+Inject Meter Rail 1 Pressr - Data Valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/204A	486618032
+Inject Meter Rail 1 Pressr Sensor Circt - Volt abv normal or srtd to high source (Engi 1) - M1/204B	486618033
+Inject Meter Rail 1 Pressr Sensor Circt - Volt blw normal or srtd to low source (Engi 1) - M1/204C	486618034
+Start Enbl Devc 1 Canstr Empty-Data vald but blw normal operat rng-Mod sevr lvl (Engi 1) - M1/204D	486618035
+Intk Manifld 1 Temp - Data valid but abv normal operat range - Mod sevr lvl (Engi 1) - M1/204E	486618036
+Transmsn O/p Shaft Speed - Data valid but blw normal operat range - Mod sevr lvl (Engi 1) - M1/204F	486618037
+Multiple Unit Synchronization Switch - Data erratic Intermittent or Incorrect (Engine 1) - M1/2050	486618038
+Aux Input/Output 2 Circt - Volt abv normal or srtd to high source (Engi 1) - M1/2051	486618039
+Aux Input/Output 3 Circt - Volt abv normal or srtd to high source (Engi 1) - M1/2052	486618040
+Fuel Delivery Pressure Sensor Circt - Volt abv normal or srtd to high source (Engi 1) - M1/2053	486618041
+Fuel Delivery Pressure Sensor Circt - Volt blw normal or srtd to low source (Engi 1) - M1/2054	486618042
+Crankcase Pressure - Data Valid but Abv Normal Operat Range - Most Sevr Lvl (Engi 1) - M1/2055	486618043
+Inject Meter Rail 1 Pressr-Data Valid but blw normal operat range-Mod sevr lvl (Engi 1) - M1/2056	486618044
+Auxiliary Commanded Dual Output Shutdown - Special instructions (Engine 1) - M1/2057	486618045
+Engine Shut Down Hot - Condition exists (Engine 1) - M1/2058	486618046
+Exhst Gas Temp Dev Low Cyldr 1-Data valid but blw normal operat range-Least sevr lvl(Engi 1)-M1/2059	486618047
+Exhst Gas Temp Dev Low Cyldr 3-Data valid but blw normal operat range-Least sevr lvl(Engi 1)-M1/205A	486618048
+Exhst Gas Temp Dev Low Cyldr 5-Data valid but blw normal operat range-Least sevr lvl(Engi 1)-M1/205B	486618049
+Exhst Gas Temp Dev Low Cyldr 7-Data valid but blw normal operat range-Least sevr lvl(Engi 1)-M1/205C	486618050
+Exhst Gas Temp Dev Low Cyldr 9-Data valid but blw normal operat range-Least sevr lvl(Engi 1)-M1/205D	486618051
+Exhst Gas Temp Dev Low Cyldr 11-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/205E	486618052
+Exhst Gas Temp Dev Low Cyldr 13-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/205F	486618053
+Exhst Gas Temp Dev Low Cyldr 15-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/2060	486618054
+Exhst Gas Temp Dev Low Cyldr 2-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/2061	486618055
+Exhst Gas Temp Dev Low Cyldr 4-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/2062	486618056
+Exhst Gas Temp Dev Low Cyldr 6-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/2063	486618057
+Exhst Gas Temp Dev Low Cyldr 8-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/2064	486618058
+Exhst Gas Temp Dev Low Cyldr 10-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/2065	486618059
+Exhst Gas Temp Dev Low Cyldr 12-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/2066	486618060
+Exhst Gas Temp Dev Low Cyldr 14-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/2067	486618061
+Exhst Gas Temp Dev Low Cyldr 16-Data valid but blw normal operat rng-Least sevr lvl(Engi 1)-M1/2068	486618062
+Exhst Gas Temp Sensr Circt Cyldr 1-Volt blw normal or srtd to low src (Engi 1) - M1/2069	486618063
+Exhst Gas Temp Sensr Circt Cyldr 3-Volt blw normal or srtd to low src (Engi 1) - M1/206A	486618064
+Exhst Gas Temp Sensr Circt Cyldr 5-Volt blw normal or srtd to low src (Engi 1) - M1/206B	486618065
+Exhst Gas Temp Sensr Circt Cyldr 7-Volt blw normal or srtd to low src (Engi 1) - M1/206C	486618066
+Exhst Gas Temp Sensr Circt Cyldr 9-Volt blw normal or srtd to low src (Engi 1) - M1/206D	486618067
+Exhst Gas Temp Sensr Circt Cyldr 11-Volt blw normal or srtd to low src (Engi 1) - M1/206E	486618068
+Exhst Gas Temp Sensr Circt Cyldr 13-Volt blw normal or srtd to low src (Engi 1) - M1/206F	486618069
+Exhst Gas Temp Sensr Circt Cyldr 15-Volt blw normal or srtd to low src (Engi 1) - M1/2070	486618070
+Engine Crankshaft Speed/Position - Data erratic intermittent or incorrect (Engine 1) - M1/2071	486618071
+Exhst Gas Temp Sensr Circt Cyldr 2-Volt blw normal or srtd to low src (Engi 1) - M1/2072	486618072
+Exhst Gas Temp Sensr Circt Cyldr 4-Volt blw normal or srtd to low src (Engi 1) - M1/2073	486618073
+Exhst Gas Temp Sensr Circt Cyldr 6-Volt blw normal or srtd to low src (Engi 1) - M1/2074	486618074
+Exhst Gas Temp Sensr Circt Cyldr 8-Volt blw normal or srtd to low src (Engi 1) - M1/2075	486618075
+Exhst Gas Temp Sensr Circt Cyldr 10-Volt blw normal or srtd to low src (Engi 1) - M1/2076	486618076
+Exhst Gas Temp Sensr Circt Cyldr 12-Volt blw normal or srtd to low src (Engi 1) - M1/2077	486618077
+Exhst Gas Temp Sensr Circt Cyldr 14-Volt blw normal or srtd to low src (Engi 1) - M1/2078	486618078
+Exhst Gas Temp Sensr Circt Cyldr 16-Volt blw normal or srtd to low src (Engi 1) - M1/2079	486618079
+Engi Speed/Pos Camshft & Crnkshft Misalign-Mech system not respond/out of adjustment(Engi 1)-M1/207A	486618080
+SAE J1939 Data Link 2 Engine Network - Abnormal update rate (Engine 1) - M1/207B	486618081
+Intake Manifold 1 Temperature - Abnormal rate of change (Engine 1) - M1/207C	486618082
+Power Supply Lost With Ignition On - Data erratic intermittent or incorrect (Engine 1) - M1/207D	486618083
+SAE J1939 Data Link 2 Engine Network - Abnormal update rate (Engine 1) - M1/207E	486618084
+Control Module Identification Input State Error - Data erra intermit or incorr (Engi 1) - M1/207F	486618085
+Control Module Identification Input State Error - Data erra intermit or incorr (Engi 1) - M1/2080	486618086
+Engi Oil Lvl Remote Reserv-Data engi oil level remote reserv-Data mod sevr lvl (Engi 1) - M1/2081	486618087
+Accel Pedal or Lever Position Sensor Circt-Volt abv normal or srtd to high source (Engi 1)-M1/2082	486618088
+Accel Pedal or Lever Position Sensor Circt-Volt blw normal or srtd to low source (Engi 1) - M1/2083	486618089
+Remote accel Pedal or Lvr Position Snsr Circt-Volt blw normal or srtd to low source (Engi 1)-M1/2084	486618090
+Engi Oil Filter Diff Pressure-Data Valid but Abv Normal Operat Range Mod Sevr Lvl (Engi 1)-M1/2085	486618091
+Intk Manifld 1 Pressure - Data valid but blw normal operat range - Least sevr lvl (Engi 1) - M1/2086	486618092
+Pre-Oil Filter Pressure Sensor Circt - Volt Abv Normal or Srtd to High Source (Engi 1) - M1/2087	486618093
+Pre-Oil Filter Pressure Sensor Circt - Volt Abv Normal or Srtd to High Source (Engi 1) - M1/2088	486618094
+Aux Temp Sensor Input 1 Circuit - Volt Abv Normal or Srtd to High Source (Engi 1) - M1/2089	486618095
+Aux Pressure Sensor Input 1 Circuit - Volt Abv Normal or Srtd to High Source (Engi 1) - M1/208A	486618096
+Aux Pressure Sensor Input 1 Circuit - Volt Abv Normal or Srtd to High Source (Engi 1) - M1/208B	486618097
+Start Enable Device 1 Circuit Error (Ether Injection) - Root cause not known (Engine 1) - M1/208C	486618098
+Engine Camshaft Speed/Position Sensor - Data erratic intermittent or incorrect (Engine 1) - M1/208D	486618099
+Post-Oil Filter Pressure Sensor Circuit - Voltage above normal or shor (Engine 1) - M1/208E	486618100
+Post-Oil Filter Pressure Sensor Circuit - Volt blw normal or srtd to low source (Engi 1) - M1/208F	486618101
+Auxiliary Temperature Sensor Input 1 - Special instructions (Engine 1) - M1/2090	486618102
+Intk Manifld 1 Pressure Sensor Circuit - Volt abv normal or srtd to high source (Engi 1) - M1/2091	486618103
+Intk Manifld 1 Pressure Sensor Circuit - Volt blw normal or srtd to low source (Engi 1) - M1/2092	486618104
+Intk Manifld 2 Pressure Sensor Circuit - Volt abv normal or srtd to high source (Engi 1) - M1/2093	486618105
+Intk Manifld 2 Pressure Sensor Circuit - Volt blw normal or srtd to low source (Engi 1) - M1/2094	486618106
+SAE J1939 Engine Commanded Shutdown - Condition exists (Engine 1) - M1/2095	486618107
+Generator O/p Freq Adjust Potenmtr Circt-Volt abv normal or srtd to high source (Engi 1)-M1/2096	486618108
+Droop Adjust Potenmtr Circt-Volt abv normal or srtd to high source (Engi 1) - M1/2097	486618109
+Gain Adjust Potenmtr Circt-Volt abv normal or srtd to high source (Engi 1) - M1/2098	486618110
+Overspeed Shutdown Relay Driver Diagnostic - Error detected - Condition exists (Engine 1) - M1/2099	486618111
+Low Oil Pressure Shtdwn Relay Driver Diag detected an error-Condition exists (Engi 1)-M1/209A	486618112
+High Engine Temp Shtdwn Relay Driver Diag detected an error - Condition exists (Engi 1) - M1/209B	486618113
+Pre-Low Oil Pressure Warning Relay Driver Diag detected error-Condition exists (Engi 1)-M1/209C	486618114
+Pre-High Engi Temp Warning Relay Driver Diag detected an error-Condition exists (Engi 1)-M1/209D	486618115
+Accel Pedal/Lvl Position Sensor 1 Circt Freq-Abnormal freq pulse width or period (Engi 1) - M1/209E	486618116
+At least One Module has a most Severe Fault - Condition exists (Engine 1) - M1/209F	486618117
+At least One Module has a moderately Severe Fault - Condition exists (Engine 1) - M1/20A0	486618118
+At least One Module has a least Severe Fault - Condition exists (Engine 1) - M1/20A1	486618119
+Exhst Gas Temp Sensor Circt Cyldr 3-Volt abv normal or srtd to high source (Engi 1) - M1/20A2	486618120
+Exhst Gas Temp Sensor Circt Cyldr 5-Volt abv normal or srtd to high source (Engi 1) - M1/20A3	486618121
+Exhst Gas Temp Sensor Circt Cyldr 7-Volt abv normal or srtd to high source (Engi 1) - M1/20A4	486618122
+Exhst Gas Temp Sensor Circt Cyldr 9-Volt abv normal or srtd to high source (Engi 1) - M1/20A5	486618123
+Exhst Gas Temp Sensor Circt Cyldr 11-Volt abv normal or srtd to high source (Engi 1) - M1/20A6	486618124
+Exhst Gas Temp Sensor Circt Cyldr 13-Volt abv normal or srtd to high source (Engi 1) - M1/20A7	486618125
+Exhst Gas Temp Sensor Circt Cyldr 15-Volt abv normal or srtd to high source (Engi 1) - M1/20A8	486618126
+Exhst Gas Temp Sensor Circt Cyldr 17-Volt abv normal or srtd to high source (Engi 1) - M1/20A9	486618127
+Exhst Gas Temp Sensor Circt Cyldr 2-Volt abv normal or srtd to high source (Engi 1) - M1/20AA	486618128
+Exhst Gas Temp Sensor Circt Cyldr 6-Volt abv normal or srtd to high source (Engi 1) - M1/20AB	486618129
+Exhst Gas Temp Sensor Circt Cyldr 8-Volt abv normal or srtd to high source (Engi 1) - M1/20AC	486618130
+Exhst Gas Temp Sensor Circt Cyldr 10-Volt abv normal or srtd to high source (Engi 1) - M1/20AD	486618131
+Exhst Gas Temp Sensor Circt Cyldr 12-Volt abv normal or srtd to high source (Engi 1) - M1/20AE	486618132
+Exhst Gas Temp Sensor Circt Cyldr 14-Volt abv normal or srtd to high source (Engi 1) - M1/20AF	486618133
+Exhst Gas Temp Sensor Circt Cyldr 16-Volt abv normal or srtd to high source (Engi 1) - M1/20B0	486618134
+Exhst Gas Temp Sensor Circt Cyldr 18-Volt abv normal or srtd to high source (Engi 1) - M1/20B1	486618135
+Aux Pressure Sensor Input 1 Circt - Volt abv normal or srtd to high source (Engi 1) - M1/20B2	486618136
+Aux Pressure Sensor Input 1 Circt - Volt blw normal or srtd to low source (Engi 1) - M1/20B3	486618137
+Auxiliary Pressure Sensor Input 1 - Special instructions (Engine 1) - M1/20B4	486618138
+Injector Solenoid Driver Cylinder 7 Circuit - Current blw normal or open circuit (Engi 1) - M1/20B5	486618139
+Injector Solenoid Driver Cylinder 8 Circuit - Current blw normal or open circuit (Engi 1) - M1/20B6	486618140
+Injector Solenoid Driver Cylinder 10 Circuit - Current blw normal or open circuit (Engi 1) - M1/20B7	486618141
+Injector Solenoid Driver Cylinder 11 Circuit - Current blw normal or open circuit (Engi 1) - M1/20B8	486618142
+Injector Solenoid Driver Cylinder 12 Circuit - Current blw normal or open circuit (Engi 1) - M1/20B9	486618143
+Injector Solenoid Driver Cylinder 13 Circuit - Current blw normal or open circuit (Engi 1) - M1/20BA	486618144
+Injector Solenoid Driver Cylinder 14 Circuit - Current blw normal or open circuit (Engi 1) - M1/20BB	486618145
+Injector Solenoid Driver Cylinder 15 Circuit - Current blw normal or open circuit (Engi 1) - M1/20BC	486618146
+Injector Solenoid Driver Cylinder 16 Circuit - Current blw normal or open circuit (Engi 1) - M1/20BD	486618147
+Injector Solenoid Driver Cylinder 17 Circuit - Current blw normal or open circuit (Engi 1) - M1/20BE	486618148
+Injector Solenoid Driver Cylinder 18 Circuit - Current blw normal or open circuit (Engi 1) - M1/20BF	486618149
+Remote Acce Pedal/Lvr Position Sensor Circt-Volt abv normal or srtd to high source (Engi 1)-M1/20C0	486618150
+Auxiliary Temp Sensor Input 1 Circuit-Volt blw normal or srtd to low Source (Engi 1) - M1/20C1	486618151
+Engi Ctrl Module Critical Internal Failure - Bad Intelligent Device/Component (Engi 1) - M1/20C2	486618152
+Exhst Gas Temp Sensor Circt Cyldr 1 - Volt abv normal or srtd to high source (Engi 1) - M1/20C3	486618153
+Exhst Gas Temp Sensor Circt Cyldr 4 - Volt abv normal or srtd to high source (Engi 1) - M1/20C4	486618154
+Injector Solenoid Driver Cyldr 9 Circt - Current blw normal or open circt (Engi 1) - M1/20C5	486618155
+Intake Manifold 2 Pressure-Data Valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20C6	486618156
+Intake Manifold 2 Pressure-Data Valid but abv normal operat range-Least sevr lvl (Engi 1) - M1/20C7	486618157
+Crankcase Pressure Circuit - Voltage above normal or shorted to high source (Engine 1) - M1/20C8	486618158
+Crankcase Pressure Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/20C9	486618159
+Water in Fuel indicator Sensor Circt-Volt abv normal or srtd to high source (Engi 1) - M1/20CA	486618160
+Water in Fuel indicator Sensor Circt-Volt blw normal or srtd to low source (Engi 1) - M1/20CB	486618161
+Engine Coolant Temperature - Special instructions (Engine 1) - M1/20CC	486618162
+Water in Fuel indicator - Data Valid but abv normal operat range-Mod sevr level (Engi 1) - M1/20CD	486618163
+SAE J1939 MUXd Acce Pedal/Level Sensor Sys-Received network data in error (Engi 1) - M1/20CE	486618164
+SAE J1939 MUXd Remote Acce Pedal/Lvr Sensor Sys-Received network data in err (Engi 1)-M1/20CF	486618165
+Engine Oil Change Interval - Condition exists (Engine 1) - M1/20D0	486618166
+Inject Meter Rail 1 Pressure-Data valid but abv normal operat range-Most sevr lvl (Engi 1) - M1/20D1	486618167
+Generator Speed/Load Governing Bias Circt-Volt abv normal or srtd to high source (Engi 1) - M1/20D2	486618168
+Generator Speed/Load Governing Bias Circt-Volt blw normal or srtd to low source (Engi 1) - M1/20D3	486618169
+Intk Manifld 2 Temp-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20D4	486618170
+Intk Manifld 3 Temp-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20D5	486618171
+Intk Manifld 4 Temp-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20D6	486618172
+Intk Manifld 5 Temp-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20D7	486618173
+Intk Manifld 6 Temp-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20D8	486618174
+Engi Crnkshft Speed/Position-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20D9	486618175
+Exhst Gas Temp Cyldr 1-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20DA	486618176
+Exhst Gas Temp Cyldr 3-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20DB	486618177
+Exhst Gas Temp Cyldr 5-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20DC	486618178
+Exhst Gas Temp Cyldr 7-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20DD	486618179
+Exhst Gas Temp Cyldr 9-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20DE	486618180
+Exhst Gas Temp Cyldr 11-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20DF	486618181
+Exhst Gas Temp Cyldr 13-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E0	486618182
+Exhst Gas Temp Cyldr 15-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E1	486618183
+Exhst Gas Temp Cyldr 17-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E2	486618184
+Exhst Gas Temp Cyldr 2-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E3	486618185
+Exhst Gas Temp Cyldr 4-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E4	486618186
+Exhst Gas Temp Cyldr 6-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E5	486618187
+Exhst Gas Temp Cyldr 8-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E6	486618188
+Exhst Gas Temp Cyldr 10-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E7	486618189
+Exhst Gas Temp Cyldr 12-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E8	486618190
+Exhst Gas Temp Cyldr 14-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20E9	486618191
+Exhst Gas Temp Cyldr 16-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20EA	486618192
+Exhst Gas Temp Cyldr 18-Data valid but abv normal operat range-Mod sevr lvl (Engi 1) - M1/20EB	486618193
+Exhst Gas Temp Sensor Circt Cyldr 17-Volt blw normal or srtd to low source (Engi 1) - M1/20EC	486618194
+Exhst Gas Temp Sensor Circt Cyldr 18-Volt blw normal or srtd to low source (Engi 1) - M1/20ED	486618195
+Exhst Gas Temp Devi Low 17-Data valid but blw normal operat range-Least sevr lvl (Engi 1) - M1/20EE	486618196
+Exhst Gas Temp Devi Low 18-Data valid but blw normal operat range-Least sevr lvl (Engi 1) - M1/20EF	486618197
+Intake Manifold 2 Temperature - Abnormal rate of change (Engine 1) - M1/20F0	486618198
+Intake Manifold 3 Temperature - Abnormal rate of change (Engine 1) - M1/20F1	486618199
+Intake Manifold 4 Temperature - Abnormal rate of change (Engine 1) - M1/20F2	486618200
+Sensor Supply 4 Circuit - Voltage above normal or shorted to high source (Engine 1) - M1/20F3	486618201
+Sensor Supply 4 Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/20F4	486618202
+Fuel Pump Delivery Pressure-Data Valid but blw normal operat range-Mod sevr lvl (Engi 1) - M1/20F5	486618203
+Intk Manifld 5 Temp-Data valid but abv normal operat range-Most sevr lvl (Engi 1) - M1/20F6	486618204
+Intk Manifld 5 Temp Circt-Volt abv normal or srtd to high source (Engi 1) - M1/20F7	486618205
+Intk Manifld 5 Temp Circt-Volt blw normal or srtd to low source (Engi 1) - M1/20F8	486618206
+Intake Manifold 5 Temperature - Abnormal rate of change (Engine 1) - M1/20F9	486618207
+Intk Manifld 6 Temp-Data valid but abv normal operat range-Most sevr lvl (Engi 1) - M1/20FA	486618208
+Intk Manifld 6 Temp Circt-Volt abv normal or srtd to high source (Engi 1) - M1/20FB	486618209
+Intk Manifld 6 Temp Circt-Volt blw normal or srtd to low source (Engi 1) - M1/20FC	486618210
+Intake Manifold 6 Temperature - Abnormal rate of change (Engine 1) - M1/20FD	486618211
+Fuel Pump Delivery Pressure-Data Valid but abv normal operat range-Least sevr lvl (Engi 1) - M1/20FE	486618212
+Fuel Pump Delivery Pressure-Data Valid but blw normal operat range-Mod sevr lvl (Engi 1) - M1/20FF	486618213
+Elct Lift Pump for Engi Fuel Supply Circt-Volt abv normal or srtd to high source (Engi 1) - M1/2100	486618214
+Engine Fuel Supply Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/2101	486618215
+Electronic Fuel Injection Control Valve Circuit - Condition exists (Engine 1) - M1/2102	486618216
+Engine Crankshaft Speed/Position - Data erratic intermittent or incorrect (Engine 1) - M1/2103	486618217
+Engine Camshaft Speed/Position Sensor - Data erratic intermittent or incorrect (Engine 1) - M1/2104	486618218
+Fan control Circuit - Voltage above normal or shorted to high source (Engine 1) - M1/2105	486618219
+Turbocharger 1 Speed - Data erratic intermittent or incorrect (Engine 1) - M1/2106	486618220
+Auxiliary PWM Driver 1 Circuit - Voltage above normal or shorted to high source (Engine 1) - M1/2107	486618221
+Auxiliary PWM Driver 1 Circuit - Voltage below normal or shorted to low source (Engine 1) - M1/2108	486618222
+Engi Exhst Gas Temp-Right Manifld Sensr Circt-Volt abv normal or srtd to high src (Engi 1) - M1/2109	486618223
+Engi Exhst Gas Temp-Right Manifld Sensr Circt-Volt blw normal or srtd to low src (Engi 1) - M1/210A	486618224
+Engi Exhst Gas Temp-Right Manfld-Data Valid bt abv normal operat rng-Mod sevr lvl (Engi 1) - M1/210B	486618225
+Engi Exhst Gas Temp-Right Manfld-Data Valid bt abv normal operat rng-Most sevr lvl (Engi 1)-M1/210C	486618226
+Engi Exhst Gas Temp-Left Manfld Sensor Circt-Volt abv normal or srtd to high source (Engi 1)-M1/210D	486618227
+Engi Exhst Gas Temp-Left Manfld Sensor Circt-Volt blw normal or srtd to low source (Engi 1)-M1/210E	486618228
+Engi Exhst Gas Temp-Left Manfld-Data Valid but abv normal operat range-Mod sevr lvl (Engi 1)-M1/210F	486618229
+Engi Exhst Gas Temp-Left Manfld-Data Valid but abv normal operat range-Most sevr lvl(Engi 1)-M1/2110	486618230
+At least One Unacknoledged Most Severe Fault - Condition exists (Engine 1) - M1/2111	486618231
+At least One Unacknoledged Moderately Severe Fault - Condition exists (Engine 1) - M1/2112	486618232
+Accelerator Pedal or Lever Idle Validation Circuit - out of calibration (Engine 1) - M1/2113	486618233
+SAE J1939 Data Link 2 Engine Network - Abnormal update rate (Engine 1) - M1/2114	486618234
+Strt Enbl Dvc 1 Cnstr Empty(Et Injct)-Data Vld bt blw nrmal opert rng-Least sevr lvl(Engi 1)-M1/2115	486618235
+Exhst Gas Temp Sensor 1 Circt-Volt abv normal or srtd to high source (Engi 1) - M1/2116	486618236
+Exhst Gas Temp Sensor 1 Circt-Volt blw normal or srtd to low source (Engi 1) - M1/2117	486618237
+Exhst Gas Temp Sensor 1 Circt-Data valid but abv normal operat range-Most sevr lvl (Engi 1)-M1/2118	486618238
+Engi Coolant Temp-Data valid but abv normal operat range-Least sevr lvl (Engi 1)-M1/2119	486618239
+Intk Manifold 1 Temp-Data valid but abv normal operat range-Least sevr lvl (Engi 1) - M1/211A	486618240
+No signal entering the module (Engine 1) - M1/2200	486618241
+No signal from starter 1 (Engine 1) - M1/2201	486618242
+No signal from starter 2 (Engine 1) - M1/2202	486618243
+Signal without steering (Engine 1) - M1/2203	486618244
+Signal without steering (Engine 1) - M1/2204	486618245
+Engine X in Warm Up / End of Warm Up (Engine 1) - M1/2205	486618246
+Engine X started with coolant temperature under low value (Engine 1) - M1/2206	486618247
+Engine X stalling detected (Engine 1) - M1/2207	486618248
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 temp Sensr B64_50/2.1 Swng Pmp 2)-M3000	486618249
+Swing Pump 2 overheating (PowerPack 1 temperature Sensor B64_50/2.1 Swing Pump 2) - M3001	486618250
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 temp Sensr B64_3.1 Pump 3) - M3002	486618251
+Pump 3 overheating (PowerPack 1 temperature Sensor B64_3.1 Pump 3) - M3003	486618252
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 temp Sensr B64_50/1.1 Swng Pmp 1)-M3004	486618253
+Swing pump 1 overheating (PowerPack 1 temperature Sensor B64_50/1.1 Swing Pump 1) - M3005	486618254
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 temp Sensr B64_2.1 Pump 2) - M3006	486618255
+Pump 2 overheating (PowerPack 1 temperature Sensor B64_2.1 Pump 2) - M3007	486618256
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 temp Sensr B64_5.1 Pump 5) - M3008	486618257
+Pump 5 overheating (PowerPack 1 temperature Sensor B64_5.1 Pump 5) - M3009	486618258
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 temp Sensr B64_1.1 Pump 1) - M300A	486618259
+Pump 1 overheating (PowerPack 1 temperature Sensor B64_1.1 Pump 1) - M300B	486618260
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 temp Sensr B64_4.1 Pump 4) - M300C	486618261
+Pump 4 overheating (PowerPack 1 temperature Sensor B64_4.1 Pump 4) - M300D	486618262
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 Steering pressure Sensr B84_1) - M300E	486618263
+Steering pressure below low level (PowerPack 1 Steering pressure Sensor B84_1) - M300F	486618264
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 Splitterbox temp Sensr B15.1) - M3010	486618265
+Splitterbox overheating (PowerPack 1 Splitterbox temperature Sensor B15.1) - M3011	486618266
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 1 Splitterbox pressr Sensr B72.1) - M3012	486618267
+Splitterbox pressure below low level (PowerPack 1 Splitterbox pressure Sensor B72.1) - M3013	486618268
+Swing Pump 2 contaminated (PowerPack 1 contamination Sensor B63_50/2.1 Swing Pump 2) - M3014	486618269
+Swing Pump 1 contaminated (PowerPack 1 contamination Sensor B63_50/1.1 Swing Pump 1) - M3015	486618270
+Pump 5 contaminated (PowerPack 1 contamination Sensor B63_5.1 Pump 5) - M3016	486618271
+Pump 4 contaminated (PowerPack 1 contamination Sensor B63_4.1 Pump 4) - M3017	486618272
+Pump 3 contaminated (PowerPack 1 contamination Sensor B63_3.1 Pump 3) - M3018	486618273
+Pump 2 contaminated (PowerPack 1 contamination Sensor B63_2.1 Pump 2) - M3019	486618274
+Splitterbox oil below low level (PowerPack 1 Splitterbox minimum level Sensor B66.1) - M301A	486618275
+Splitterbox oil above high level (PowerPack 1 Splitterbox maximum level Sensor B66.1) - M301B	486618276
+Pump 1 contaminated (PowerPack 1 contamination Sensor B63_1.1 Pump 1) - M301C	486618277
+Unplug wiring srtd to low src/high src (PwrPk 1 U104-1 Water/ HTC PWM signal) - M301D	486618278
+PowerPack 1 air filter restricted - M301E	486618279
+Unplug wiring srtd to low src/high src (PwrPk 1 U104-1 Intake manifold/LTC PWM signal) - M301F	486618280
+No power supply. Check F200.1 (PowerPack 1 contamination sensor B63_X.1) - M3020	486618281
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 temp Sensr B64_50/2.2 Swng Pmp 2)-M3021	486618282
+Swing Pump 2 overheating (PowerPack 2 temperature Sensor B64_50/2.2 Swing Pump 2) - M3022	486618283
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 temp Sensr B64_3.2 Pump 3) - M3023	486618284
+Pump 3 overheating (PowerPack 2 temperature Sensor B64_3.2 Pump 3) - M3024	486618285
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 temp Sensr B64_50/1.2 Swng Pmp 1)-M3025	486618286
+Swing pump 1 overheating (PowerPack 2 temperature Sensor B64_50/1.2 Swing Pump 1) - M3026	486618287
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 temp Sensr B64_2.2 Pump 2) - M3027	486618288
+Pump 2 overheating (PowerPack 2 temperature Sensor B64_2.2 Pump 2) - M3028	486618289
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 temp Sensr B64_5.2 Pump 5) - M3029	486618290
+Pump 5 overheating (PowerPack 2 temperature Sensor B64_5.2 Pump 5) - M302A	486618291
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 temp Sensr B64_1.2 Pump 1) - M302B	486618292
+Pump 1 overheating (PowerPack 2 temperature Sensor B64_1.2 Pump 1) - M302C	486618293
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 temp Sensr B64_4.2 Pump 4) - M302D	486618294
+Pump 4 overheating (PowerPack 2 temperature Sensor B64_4.2 Pump 4) - M302E	486618295
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 Steering pressure Sensor B84_2) - M302F	486618296
+Steering pressure below low level (PowerPack 2 Steering pressure Sensor B84_2) - M3030	486618297
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 Splitterbox temp Sensor B15.2) - M3031	486618298
+Splitterbox overheating (PowerPack 2 Splitterbox temperature Sensor B15.2) - M3032	486618299
+Unplug wiring srtd to low src/high src/sensr dmge (PwrPk 2 Splitterbox pressr Sensor B72.2) - M3033	486618300
+Splitterbox pressure below low level (PowerPack 2 Splitterbox pressure Sensor B72.2) - M3034	486618301
+Swing Pump 2 contaminated (PowerPack 2 contamination Sensor B63_50/2.2 Swing Pump 2) - M3035	486618302
+Swing Pump 1 contaminated (PowerPack 2 contamination Sensor B63_50/1.2 Swing Pump 1) - M3036	486618303
+Pump 5 contaminated (PowerPack 2 contamination Sensor B63_5.2 Pump 5) - M3037	486618304
+Pump 4 contaminated (PowerPack 2 contamination Sensor B63_4.2 Pump 4) - M3038	486618305
+Pump 3 contaminated (PowerPack 2 contamination Sensor B63_3.2 Pump 3) - M3039	486618306
+Pump 2 contaminated (PowerPack 2 contamination Sensor B63_2.2 Pump 2) - M303A	486618307
+Splitterbox oil below low level (PowerPack 2 Splitterbox minimum level Sensor B66.2) - M303B	486618308
+Splitterbox oil above high level (PowerPack 2 Splitterbox maximum level Sensor B66.2) - M303C	486618309
+Pump 1 contaminated (PowerPack 2 contamination Sensor B63_1.2 Pump 1) - M303D	486618310
+Unplug wiring srtd to low source/high source (PowerPack 2 U104-2 Water/ HTC PWM signal) - M303E	486618311
+PowerPack 2 air filter restricted - M303F	486618312
+Unplug wiring srtd to low source/high source (PwrPk 2 U104-2 Intake manifold/LTC PWM signal)-M3040	486618313
+No power supply. Check F202.1 (PowerPack 2 contamination sensor B63_X.2) - M3041	486618314
+Module not supplied or damaged (Greasing module U15 not working) - M3049	486618315
+Error code occuring on module U15 (Greasing module U15 Default message) - M304A	486618316
+Error code occuring on module U15 (Grease LL level reached U15 Default message) - M304B	486618317
+Oil level too low (Oil level travel gear sensor - dual lifetime - B147) - M304C	486618318
+Oil level too high (Oil level travel gear sensor - dual lifetime - B147) - M304D	486618319
+Unplug wiring srtd to low src/high src/sensr dmge (Speed travel accumultion press Sensr B144)-M3050	486618320
+Measure of increment out of range (Hydraulic oil level Sensor B14) - M3051	486618321
+Hydraulic oil below low level (Hydraulic oil level Sensor B14) - M3052	486618322
+Measure of increment out of range (Fuel level Sensor B1) - M3053	486618323
+Measure of increment out of range (PowerPack 1 Coolant level Sensor B3_1) - M3054	486618324
+Coolant below low level (PowerPack 1 Coolant level Sensor B3_1) - M3055	486618325
+Unplug wiring srtd to low src/high src/sensr dmge (Pumps aspiration pressure Sensor B186) - M3056	486618326
+Aspiration pressure below low level (Pumps aspiration pressure Sensor B186) - M3057	486618327
+Measure of increment out of range (PowerPack 2 Coolant level Sensor B3_2) - M3058	486618328
+Coolant below low level (PowerPack 2 Coolant level Sensor B3_2) - M3059	486618329
+Unplug wiring srtd to low src/high src/sensr dmge (Hydraulic oil temperature Sensor B67) - M305A	486618330
+Hydraulic oil overheating (Hydraulic oil temperature Sensor B67) - M305B	486618331
+Measure of increment out of range (Swing Engine speed check Sensor B53) - M305C	486618332
+Air filter on hydraulic tank must be cleaned (Hydraulic tank pressure Sensor B38) - M305D	486618333
+Hydraulic oil pressure low (Pump aspiration pressure sensor B186) - M305E	486618334
+Hardware default (Module U104_1) - M3061	486618335
+Hardware default (Module U104_2) - M3062	486618336
+Hardware default (Module U104_3) - M3063	486618337
+Hardware default (Module U104_4) - M3064	486618338
+Low level on Oil reserve system PP1 or PP2 - M3065	486618339
+Check safety lever S1 key and engines speeds (Track tensioning procedure aborted) - M3066	486618340
+Engi 1 running but B12.1 blw idle speed (Engi 1 state and speed sensor B12.1 inconsistency) - M3067	486618341
+Engi 1 running but B12.2 blw idle speed (Engi 2 state and speed sensor B12.2 inconsistency) - M3068	486618342
+Sensor unplug wiring srtd to low src/high src/sensor dmge (Engi 1 Speed Sensor B12.1) - M4000	486618343
+Solnd unplug wiring srtd to low src/high src/solnd dmge (PwrPk 1 Solnd Pwr LR Y4.1) - M4001	486618344
+Solnd unplug wiring srtd to low src/high src/solnd dmge (PwrPk 1 Solnd Fan Vent LTC Y10_.3.1)-M4004	486618345
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 1 Solnd Fn Vnt Hyd ol Y10_.2.1)-M4005	486618346
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 1 Solnd Fn Vnt HTC Y10_.1.1)-M4006	486618347
+Relay closed without KL61 signal (PowerPack 1 pump flow regulation K281.1 relay error) - M4007	486618348
+Relay closed without KL61 signal (PowerPack 1 pump flow regulation K282.1 relay error) - M4008	486618349
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 1 Solnd Flw regu Pmp 1 Y3_1.1)-M400A	486618350
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 1 Solnd Flw regu Pmp 2 Y3_2.1)-M400B	486618351
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 1 Solnd Flw regu Pmp 3 Y3_3.1)-M400C	486618352
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 1 Solnd Flw regu Pmp 4 Y3_4.1)-M400D	486618353
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 1 Solnd Flw regu Pmp 5 Y3_5.1)-M400E	486618354
+Sensr unplug wiring srtd to low src/high src/sensor dmge(Engi 2 Speed Sensor B12.2) - M4010	486618355
+Solnd unplug wiring srtd to low src/high src/solnd dmge (PwrPk 2 Solnd Power LR Y4.2) - M4011	486618356
+Solnd unplug wiring srtd to low src/high src/solnd dmge (PwrPk 2 Solnd Fn Vnt LTC Y10_.3.2)-M4014	486618357
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 2 Solnd Fn Vnt Hyd ol Y10_.2.2)-M4015	486618358
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 2 Solnd Fn Vent HTC Y10_.1.2)-M4016	486618359
+Relay closed without KL61 signal (PowerPack 2 pump flow regulation K281.1 relay error) - M4017	486618360
+Relay closed without KL61 signal (PowerPack 2 pump flow regulation K282.1 relay error) - M4018	486618361
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 2 Solnd Flw regu Pmp 1 Y3_1.2)-M401A	486618362
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 2 Solnd Flw regu Pmp 2 Y3_2.2)-M401B	486618363
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 2 Solnd Flw regu Pmp 3 Y3_3.2)-M401C	486618364
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 2 Solnd Flw regu Pmp 4 Y3_4.2)-M401D	486618365
+Solnd unplug wiring srtd to low src/high src/solnd dmge(PwrPk 2 Solnd Flw regu Pmp 5 Y3_5.2)-M401E	486618366
+Check X151.1 pin 16 (MTU) and X151.2 pin 13 (ELEC) (Modl U16_1.1 coding doesn’t match MCK)-M4100	486618367
+Check X153.1 pin 16 (MTU) and X154.1 pin 13 (ELEC) (Modl U16_2.1 coding doesn’t match MCK)-M4101	486618368
+Check X151.2 pin 16 (MTU) and X152.2 pin 13 (ELEC) (Modl U16_1.2 coding doesn’t match MCK)-M4102	486618369
+Check X153.2 pin 16 (MTU) and X154.2 pin 13 (ELEC) (Modl U16_2.2 coding doesn’t match MCK)-M4103	486618370
+Diff duty cycl measrd. HTC & LTC signals swapped(Modl U16_1.1 / U104_1 HTC signal inconsist)-M4104	486618371
+Diff duty cycl measrd. HTC & LTC signals swapped(Modl U16_2.1 / U104_1 LTC signal inconsist)-M4105	486618372
+Diff duty cycl measrd. HTC & LTC signals swapped(Modl U16_1.2 / U104_2 HTC signal inconsist)-M4106	486618373
+Diff duty cycl measrd. HTC & LTC signals swapped(Modl U16_2.2 / U104_2 LTC signal inconsist)-M4107	486618374
+Module unplugged or not working. CAN line interrupted (Module U16_1.1 CAN1) - M5000	486618375
+Module unplugged or not working. CAN line interrupted (Module U16_2.1 CAN1) - M5001	486618376
+Module unplugged or not working. CAN line interrupted (Module U16_1.2 CAN1) - M5002	486618377
+Module unplugged or not working. CAN line interrupted (Module U16_2.2 CAN1) - M5003	486618378
+Module unplugged or not working. CAN line interrupted (Module U47_B CAN1) - M5004	486618379
+Module unplugged or not working. CAN line interrupted (Module U104_1 CAN2) - M5010	486618380
+Module unplugged or not working. CAN line interrupted (Module U104_2 CAN2) - M5011	486618381
+Module unplugged or not working. CAN line interrupted (Module U104_3 CAN2) - M5012	486618382
+Module unplugged or not working. CAN line interrupted (Module U104_4 CAN2) - M5013	486618383
+Module unplugged or not working. CAN line interrupted (Module A160 CAN2) - M5014	486618384
+Module unplugged or not working. CAN line interrupted (Module A161 CAN2) - M5015	486618385
+Module unplugged or not working. CAN line interrupted (Module A65 CAN2) - M5016	486618386
+Module unplugged or not working. CAN line interrupted (Module A168 CAN3) - M5020	486618387
+Module unplugged or not working. CAN line interrupted (Module A169 CAN3) - M5021	486618388
+Module unplugged or not working. CAN line interrupted (Module A170 CAN3) - M5022	486618389
+Module unplugged or not working. CAN line interrupted (Module A171 CAN3) - M5023	486618390
+Module unplugged or not working. CAN line interrupted (Module A172 CAN3) - M5024	486618391
+Module unplugged or not working. CAN line interrupted (Module U107 CAN3) - M5025	486618392
+Module unplugged or not working. CAN line interrupted (Engine 1 CAN J1939_1) - M5026	486618393
+Module unplugged or not working. CAN line interrupted (Engine 2 CAN J1939_2) - M5027	486618394
+Module unplugged or not working. CAN line interrupted (Module U104_5 CAN 2A) - M5028	486618395
+Module unplugged or not working. CAN line interrupted (Module U104_6 CAN 2A) - M5029	486618396
+Autonomous mode active (Module U16_1.1) - M6000	486618397
+Autonomous mode active (Module U16_2.1) - M6001	486618398
+Autonomous mode active (Module U16_1.2) - M6002	486618399
+Autonomous mode active (Module U16_2.2) - M6003	486618400
+Attachment Damping disabled / active - M6004	486618401
+Excavator timer - M6005	486618402
+Engine 1: Button Reset Shutdown Timer pressed to stop engine quickly - M6006	486618403
+Engine 2: Button Reset Shutdown Timer pressed to stop engine quickly - M6007	486618404
+Engine type different between Master and U107 - M6008	486618405
+Boom down with pressure is active - M6009	486618406
+Excavator type changed (Excavator type Parameter) - M7000	486618407
+Database reseted (Excavator type Parameter) - M7002	486618408
+Excavator type changing engaged (Excavator type Parameter) - M7003	486618409
+Database reseting engaged (Excavator type Parameter) - M7005	486618410
+Timers reseted (Engine 1 timers) - M7010	486618411
+Timers reseted (Engine 2 timers) - M7011	486618412
+Excavator software version changing engaged Part 1 (Excavator software version) - M7020	486618413
+Excavator software version changing engaged Part 2 (Excavator software version) - M7021	486618414
+Excavator software version changed (Excavator software version) - M7025	486618415
+Excavator software version changed (Excavator software version) - M7026	486618416
+Safety Power active (Event logging) - M7050	486618417
+Safety Flow active (Event logging) - M7051	486618418
+Safety Brake active (Event logging) - M7052	486618419
+Safety Start active (Event logging) - M7053	486618420
+Bucket charging movement Cut off (Event logging) - M7055	486618421
+Qmin failure forcing (Event logging) - M7056	486618422
+Boom down with pressure (Event logging) - M7057	486618423
+Boom down with pressure plus travelling or rotating (Event logging) - M7058	486618424
+B3 Sensor Engine Coolant Level: Accidental Ground	486620804
+B3 Sensor Engine Coolant Level: Accidental +	486620805
+B3 Sensor Engine Coolant Level: Wire Break	486620806
+B2 Sensor Engine Coolant Temperature: Accidental Ground	486620807
+B2 Sensor Engine Coolant Temperature: Accidental +	486620808
+B2 Sensor Engine Coolant Temperature: Wire Break	486620809
+B14 Sensor Hydraulique Oil Level: Accidental Ground	486620810
+B14 Sensor Hydraulique Oil Level: Accidental +	486620811
+B14 Sensor Hydraulique Oil Level: Wire Break	486620812
+B8 Sensor Hydraulic Oil Temperature: Accidental Ground	486620813
+B8 Sensor Hydraulic Oil Temperature: Accidental +	486620814
+B8 Sensor Hydraulic Oil Temperature: Wire Break	486620815
+B12 Sensor Engine Speed: Accidental Ground	486620822
+B12 Sensor Engine Speed: Accidental +	486620823
+B12 Sensor Engine Speed: Wire Break	486620824
+Yr4 Lr Solenoid: Wire Break	486620827
+Hydraulic Fan Solenoid: Wire Break	486620830
+Engine Coolant Fan Solenoid: Wire Break	486620833
+Ev1 Solenoid (Yr3_1): Wire Break	486620836
+Ev1 Solenoid (Yr3_2): Wire Break	486620839
+Ev1 Solenoid (Yr3_3): Wire Break	486620842
+Ev1 Solenoid (Lr2 Yr4_2): Wire Break	486620845
+Bst Failure (Frequency Range)	486620862
+Bst Failure (Memory Error)	486620863
+Bst Failure (Power Supply)	486620864
+Bst Failure (Can Communication)	486620870
+Eng Magnetic Speed/Po Lost Both Of 2 Signals - Data Erratic Intermittent Or Incorrect(R9400)	486620915
+Eng Oil Temp - Data Valid But Above Normal Oper Range - Most Severe Level(R9400)	486621014
+Engine Crankshaft Speed Position - Data Valid But Above Normal Oper Range - Most Severe Lvl(R9400)	486621034
+Can 1 Hardware Error	486621100
+Bbt: Coding Plug Failure	486621102
+Bbt: No Can Communication Between Bbt And Bst	486621103
+Bbt: No Can Communication Between Bbt And Esp01	486621105
+Display: No Communication Between Display And Bbt	486621108
+Bbt: No Data On Can Communication With U1036	486621111
+Bbt: No Can Communication With U1036	486621112
+Bbt: No Can Communication With A1020	486621113
+Bst: Hardware Coding Key Incompatible With Software	486621119
+Bbt: No Can Communication Between U1036 And Engine	486621120
+Bst: No Hardware Type Received From Btt	486621121
+Bst: Unknown Hardware Codierung	486621122
+Electronic Calibration Code Incompatibility - Out Of Calibration(R9400)	486621142
+Joystick Swing: Null Position Error	486621211
+Joystick Swing: I>21Ma Or I<3Ma	486621213
+Joystick Stick: Null Position Error	486621214
+Joystick Stick: I>21Ma Or I<3Ma	486621216
+Joystick Bucket: Null Position Error	486621217
+Water In Fuel Ind - Data Valid But Above Normal Ope Range - Least Severe Level(R9400)	486621218
+Joystick Bucket: I>21Ma Or I<3Ma	486621219
+Joystick Boom: Null Position Error	486621220
+Engine Oil Temp - Data Valid But Above Normal Ope Range - Mod Severe Level(R9400)	486621221
+Joysitck Boom: I>21 Ma Or I<3 Ma	486621222
+Pedal Travel Link: Null Position Error	486621223
+Pedal Travel Link: I>21Ma Or I<3Ma	486621225
+Pedal Travel Right: Null Position Error	486621226
+Pedal Travel Right: I>21Ma Or I<3Ma	486621228
+Pedal Flap Open: Null Position Error	486621229
+Pedal Flap Open: I>21Ma Or I<3Ma	486621231
+Pedal Flap Close: Null Position Error	486621232
+Pedal Flap Close: I>21Ma Or I<3Ma	486621234
+A1020 Coding Plug Unknown	486621235
+Pressure Sensor On Travel Brake Steering: I>21Ma Or I<3Ma	486621236
+Pressure Sensor Bucket: I>21Ma Or I<3Ma	486621237
+Pressure Sensor Boom: I>21Ma Or I<3Ma	486621238
+Pressure Sensor Stick: I>21Ma Or I<3Ma	486621239
+Battery 1 Voltage - Data Valid But Below Normal Operational Range - Most Severe Level(R9400)	486621241
+Battery 1 Voltage - Data Valid But Above Normal Operational Range - Most Severe Level(R9400)	486621242
+Injector Metering Rail Pres - Data Valid But Above Normal Ope Range - Most Severe Level(R9400)	486621249
+Sensor B53 (Swing Speed): Accidental +	486621253
+Sensor B53 (Swing Speed): Accidental Ground Or Wire Break	486621255
+Senor B1 (Fuel Level): Accidental +	486621256
+Sensor B1 (Fuel Level): Accidental Ground Or Wire Break	486621258
+Injector Solenoid Driver Electrical Problem	486621259
+Exhaust Gas Temp Dev Low Cylinder - Data Valid But Below Normal Ope Range -Least Sev Level(R9400)	486621260
+Intake Manifold Temperature Abnormal Rate Of Change(R9400)	486621263
+Exhaust Gas Temp Cylinder - Data Valid But Above Normal Ope Range -Mod Severe Level(R9400)	486621264
+B64_1: Accidental Ground	486621265
+B64_1: Accidental +	486621266
+B64_2: Accidental Ground	486621268
+B64_2: Accidental +	486621269
+B64_3: Accidental Ground	486621271
+B64_3: Accidental +	486621272
+B64_4: Accidental Ground	486621274
+B64_4: Accidental +	486621275
+B64_7/1: Accidental Ground	486621277
+B64_7/1: Accidental +	486621278
+B64_7/2: Accidental Ground	486621280
+B64_7/2: Accidental +	486621281
+B15: Accidental Ground	486621283
+B15: Accidental +	486621284
+B84: Accidental Ground	486621286
+B84: Accidental +	486621287
+B72: Accidental Ground	486621289
+B72: Accidental +	486621290
+B38: Accidental Ground	486621292
+B38: Accidental +	486621293
+Alarm: Engine Cold Start Occured	486621295
+Low Engine Oil Pressure	486621301
+Low Coolant Level	486621302
+Engine Coolant Overheat	486621303
+Low Hydraulic Oil Level	486621304
+High Hydraulic Oil Temperature	486621305
+Oil In Splitterbox Is Overheating	486621306
+Arlam Battery Overvoltage	486621311
+Greasing System Not Functional	486621315
+Alarm Network Monitoring 1 (Engine Motor)	486621330
+Alarm Network Monitoring 2 (Engine Motor)	486621331
+Power Reduce Due To High Coolant Temperature On Going	486621338
+Power Reduce Due To Low Hydraulic Oil Level On Going	486621339
+Engine Coolant Pressure	486621340
+To High Inclination	486621342
+Alarm Hydraylic Oil Level Too Low Pontoon	486621343
+Greasing System Error	486621344
+Alarm Greasing System Low Level	486621345
+Engine Air Filter 1	486621346
+Engine Air Filter 2	486621347
+High Coil Temperature 1 (Electric Excavator)	486621348
+High Coil Temperature 2 (Electric Excavator)	486621349
+High Bearing Temperature 1 (Electric Excavator)	486621350
+High Bearing Temperature 2 (Electric Excavator)	486621351
+Low Oil Level In Splitterbox	486621362
+High Oil Level In Splitterbox	486621364
+Pump 1 Is Contaminated	486621366
+Pump 2 Is Contaminated	486621367
+Pump 3 Is Contaminated	486621368
+Pump 4 Is Contaminated	486621369
+Swing Pump 1 Is Contaminated	486621372
+Swing Pump 2 Is Contaminated	486621373
+Main Pump 1 Overheat	486621378
+Main Pump 2 Overheat	486621379
+Main Pump 3 Overheat	486621380
+Main Pump 4 Overheat	486621381
+Swing Pump 1 Overheat	486621384
+Swing Pump 2 Overheat	486621385
+Low Hydraulic Tank Pressure	486621390
+Splitterbox Oil Pressure Low	486621391
+Low Oil Level In The Centinel System (Optional)	486621392
+High Fuel Temperature	486621393
+High Fuel Rail Pressure	486621394
+High Blow-By Pressure	486621395
+Low Engine Oil Level	486621396
+Manifold Overheat	486621397
+Oil Change Required	486621398
+Damping Sensor Test Failure	486621399
+Auxiliary Commanded Dual Output Shutdown - Special Instructions(R9400)	486621400
+Esp01 Can Bus 2 Failure	486621401
+Engine Crankshaft Speed/Position - Data Erratic Intermittent Or Incorrect(R9400)	486621489
+At Least One Intake Manifold Temperature - Abnormal Rate Of Change(R9400)	486622057
+Engine Oil Filter Diff Pres - Data Valid But Above Normal Ope Range - Mod Severe Level(R9400)	486622162
+At Least One Module Has A Most Severe Fault - Conditions Exists(R9400)	486622317
+At Least One Module Has A Moderately Severe Fault - Conditions Exists(R9400)	486622318
+At Least One Module Has A Least Severe Fault - Conditions Exists(R9400)	486622319
+Water In Fuel Ind - Data Valid But Above Normal Ope Range - Moderately Severe Level(R9400)	486622652
+Greasing System Error	486625344
+Greasing Tank Very Low Level	486625345
+Engine Air Filter Contamination (Engine 1)	486625346
+Engine Air Filter Contamination (Engine 2)	486625347
+Engine Oil Pressure Alarm (Engine 1)	486625350
+Engine Oil Pressure Alarm (Engine 2)	486625351
+Water Level Temperature Alarm (Engine 1)	486625352
+Water Level Temperature Alarm (Engine 2)	486625353
+Water Temperature Alarm (Engine 1)	486625354
+Water Temperature Alarm (Engine 2)	486625355
+Hydraulic Oil Level Alarm	486625356
+Hydraulic Oil Temperature Alarm	486625357
+Oil In Splitter Box Overheat (Power Pack 1)	486625358
+Oil In Splitter Box Is Overheat (Power Pack 2)	486625359
+Oil In Splitter Box Low Level (Power Pack 1)	486625362
+Oil In Splitter Box Low Level (Power Pack 2)	486625363
+Oil In Splitter Box High Level (Power Pack 1)	486625364
+Oil In Splitter Box High Level (Power Pack 2)	486625365
+Working Pump 1 Contamination Alarm (Power Pack 1)	486625366
+Working Pump 2 Contamination Alarm (Power Pack 1)	486625367
+Working Pump 3 Contamination Alarm (Power Pack 1)	486625368
+Working Pump 4 Contamination Alarm (Power Pack 1)	486625369
+Swing Pump 1 Contamination Alarm (Power Pack 1)	486625370
+Swing Pump 2 Contamination Alarm (Power Pack 1)	486625371
+Working Pump 1 Contamination Alarm (Power Pack 2)	486625372
+Working Pump 2 Contamination Alarm (Power Pack 2)	486625373
+Working Pump 3 Contamination Alarm (Power Pack 2)	486625374
+Working Pump 4 Contamination Alarm (Power Pack 2)	486625375
+Swing Pump 1 Contamination Alarm (Power Pack 2)	486625376
+Swing Pump 2 Contamination Alarm (Power Pack 2)	486625377
+Working Pump 1 Temperature Alarm (Power Pack 1)	486625378
+Working Pump 2 Temperature Alarm (Power Pack 1)	486625379
+Working Pump 3 Temperature Alarm (Power Pack 1)	486625380
+Working Pump 4 Temperature Alarm (Power Pack 1)	486625381
+Swing Pump 1 Temperature Alarm (Power Pack 1)	486625382
+Swing Pump 2 Temperature Alarm (Power Pack 1)	486625383
+Working Pump 1 Temperature Alarm (Power Pack 2)	486625384
+Working Pump 2 Temperature Alarm (Power Pack 2)	486625385
+Working Pump 3 Temperature Alarm (Power Pack 2)	486625386
+Working Pump 4 Temperature Alarm (Power Pack 2)	486625387
+Swing Pump 1 Temperature Alarm (Power Pack 2)	486625388
+Swing Pump 2 Temperature Alarm (Power Pack 2)	486625389
+Hydraulic Oil Pressure Alarm	486625390
+No Power Reduction Water Temperature Power Pack 1 98 DegC	486625392
+No Power Reduction Water Temperature Power Pack 2 98 DegC	486625393
+No Power Reduction Hydraulic Oil Temperature 80 DegC	486625394
+No Power Reduction Hydraulic Oil Temperature 85 DegC	486625395
+No To High Inclination	486625342
+OEM Interface Timeout	486670304
+OEM Interface Normal	486670305
+Driver Interface Timeout	486670306
+Driver Interface Normal	486670307

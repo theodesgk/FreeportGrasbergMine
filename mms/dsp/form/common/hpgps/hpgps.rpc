@@ -1,0 +1,52 @@
+#     High Precision GPS rpcs
+0x1d0   GEO-NEED        hpgps	ddldddd         RADIO
+0x1d1   GEO-CONFIG      hpgps	dd[b]           RADIO
+0x1d2   GEO-POLYGON     hpgps	sbd[d]?s        RADIO
+0x1d3   GEO-ELEV        hpgps	ddddd[b]        RADIO
+0x1d5   GPS-SPOT        hpgps	dddd		RADIO
+#
+#
+# HP Full Signal - loading units only
+# An array of 6 coordinate values in mine units multiplied
+# by a scaling factor of 100 (resulting in centimeter measurement
+# on metric mines)
+# Arguments :
+# 0 = Center X
+# 1 = Center Y
+# 2 = Center Z
+# 3 = Bucket X
+# 4 = Bucket Y
+# 5 = Bucket Z
+#
+0x1d6   PANFULL         hpgps	[l]		RADIO
+
+0x1d7   GPS-LOC         hpgps	lllll           RADIO
+0x1dc	HP-EQMT-PATH	hpgps	llld[bdddddd]	  RADIO
+0x1de   HP-EQMT-PATH-DEBUG	hpgps        llld[dddbb]      RADIO
+0x1dd   HPLOAD          hpgps	ss              RADIO
+0x1d8   HP-DISPLAY-PATH	hpgps	lllld[dddd]			RADIO
+#
+#GEO-NEED requests polygon and elevations from central sends current position as args.
+#GPS-SPOT was used to send dipper info and truck location info to GC; now it is obsolete since its done in the embedded side with GPS-LOC
+#GEO-POLYGON receives polygons and passes them to the onboard DB
+#GEO-ELEV receives elevations and passes themto the onboard DB
+#HPLOAD for start of load
+#HP-EQMT-PATH sends position information and heading as well as interest points to central
+# Debugging rpcs
+0x1e8	HP-GC-GET-FREQ	hpgps	v,ddd		RADIO
+0x1eb	HP-DEBUG-START	hpgps	ddddbss		RADIO
+0x1ec	HP-DEBUG-STOP	hpgps	dddd		RADIO
+0x1ed	HP-HUB-GET-FREQ	hpgps	v,d		RADIO
+#
+# System status rpcs
+0x1e6	HPGPS-QUERY	hpgps	v,s		RADIO
+0x1e7	HPEXCAV-QUERY	hpgps	v,s		RADIO
+#
+# Masterlink-specific RPCs
+#
+# GPS-INFO-CGC
+# Reports Shovel/Dozer/Loader/DrillComMgr data to central at preset (default 2s) intervals
+0x1e8	GPS-INFO	hpgps	s?[s]		RADIO
+0x1e9	NEW-PROJECT	hpgps	b?sssssss	RADIO
+0xa19	REQ-PROJECT	hpgps	s		RADIO
+0xa20	HP-EQMT-PATH-ML	hpgps	lllld[bddddddd]?l	RADIO

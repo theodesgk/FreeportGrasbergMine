@@ -1,0 +1,15 @@
+805371905	Current Position of Drill Bit	0	0	17
+805371906	Angle of Body Roll	0	0	4
+805371907	Angle of Body Pitch	0	0	4
+805371908	Angle of the Mast	0	0	4
+805371909	Hole ID Number	0	0	0
+805371910	Penetration Rate	0	0	39
+805371911	Rotational  Speed of Drill Bit	0	0	28
+805371912	Torque at Drill Bit	0	0	24
+805371913	Pulldown Force	0	0	40
+805371914	Flushing Air Pressure	0	0	9
+805371915	Depth of Last Hole	0	0	17
+805371916	Average Penetration Rate of the last hole	0	0	39
+805371917	Current Status of Drill	0	0	0
+805371918	Carousel Stowed Position	0	0	33
+805371919	Bit Position	0	0	17

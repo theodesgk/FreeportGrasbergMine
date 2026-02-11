@@ -1,0 +1,474 @@
+Oem Interface Timeout	1241645024
+Oem Interface Normal	1241645025
+Driver Interface Timeout	1241645026
+Driver Interface Normal	1241645027
+Engine / Retarder Torque Mode - Low Idle Governor/No Request (Default Mode)	1241579520
+Engine / Retarder Torque Mode - Accelerator Pedal/Operator Selection	1241579521
+Engine / Retarder Torque Mode - Cruise Control	1241579522
+Engine / Retarder Torque Mode - PTO Governor	1241579523
+Engine / Retarder Torque Mode - Road Speed Governor	1241579524
+Engine / Retarder Torque Mode - ASR Control	1241579525
+Engine / Retarder Torque Mode - Transmission Control	1241579526
+Engine / Retarder Torque Mode - ABS Control	1241579527
+Engine / Retarder Torque Mode - Torque Limiting	1241579528
+Engine / Retarder Torque Mode - High Speed Governor	1241579529
+Engine / Retarder Torque Mode - Braking System	1241579530
+Engine / Retarder Torque Mode - Remote Accelerator	1241579531
+Engine / Retarder Torque Mode - Not Defined/Not Available	1241579532
+AP Low Idle Switch - Not In Low Idle Condition	1241579776
+AP Low Idle Switch - In Low Idle Condition	1241579777
+AP Low Idle Switch - Not Configured	1241579779
+AP Kickdown Switch - Kickdown Passive	1241580032
+AP Kickdown Switch - Kickdown Active	1241580033
+AP Kickdown Switch - Not Configured	1241580035
+Engine Has Not Shutdown By Idle Shutdown	1241580288
+Engine Has Shutdown By Idle Shutdown	1241580289
+Driver Alert Mode - Inactive	1241580544
+Driver Alert Mode - Active	1241580545
+Idle Shutdown Timer Override - Inactive	1241580800
+Idle Shutdown Timer Override - Active	1241580801
+Idle Shutdown Timer State - Inactive	1241581056
+Idle Shutdown Timer State - Active	1241581057
+Idle Shutdown Timer Function - Disabled In Calibration	1241581312
+Idle Shutdown Timer Function - Enabled In Calibration	1241581313
+Engine Has Shutdown By Engine Protection System - Not Shutdown	1241581568
+Engine Has Shutdown By Engine Protection System - Has Shutdown	1241581569
+Engine Protection Shutdown Override Off	1241581824
+Engine Protection Shutdown Override On	1241581825
+Engine Protection Shutdown Timer State - Timer Not Active	1241582080
+Engine Protection Shutdown Timer State - Timer Active	1241582081
+Engine Protection System Configured - Not Enabled In Calibration	1241582336
+Engine Protection System Configured - Enabled In Calibration	1241582337
+PTO Enable Switch - Switch Off	1241582592
+PTO Enable Switch - Switch On	1241582593
+PTO Enable Switch - Not Configured	1241582595
+Remote PTO Preprogrammed Speed Control Switch - Switch Off	1241582848
+Remote PTO Preprogrammed Speed Control Switch - Switch On	1241582849
+Remote PTO Preprogrammed Speed Control Switch - Not Configured	1241582851
+PTO Set Switch - Switch Off	1241583104
+PTO Set Switch - Switch On	1241583105
+PTO Set Switch - Not Configured	1241583107
+PTO Coast/Decelerate Switch - Switch Off	1241583360
+PTO Coast/Decelerate Switch - Switch On	1241583361
+PTO Coast/Decelerate Switch - Not Configured	1241583363
+PTO Resume Switch - Switch Off	1241583616
+PTO Resume Switch - Switch On	1241583617
+PTO Resume Switch - Not Configured	1241583619
+PTO Accelerate Switch - Switch Off	1241583872
+PTO Accelerate Switch - Switch On	1241583873
+PTO Accelerate Switch - Not Configured	1241583875
+Parking Brake Switch - Park Brake Not Set	1241584128
+Parking Brake Switch - Park Brake Set	1241584129
+Parking Brake Switch - Not Configured	1241584131
+Cruise Control Active - Cruise Control Off	1241584384
+Cruise Control Active - Cruise Control On	1241584385
+Cruise Control Active - Not Configured	1241584387
+Cruise Control Enable Switch - Cruise Control Disabled	1241584640
+Cruise Control Enable Switch - Cruise Control Enabled	1241584641
+Cruise Control Enable Switch - Not Configured	1241584643
+Brake Switch - Brake Pedal Released	1241584896
+Brake Switch - Brake Pedal Depressed	1241584897
+Brake Switch - Not Configured	1241584899
+Clutch Switch - Clutch Pedal Released	1241585152
+Clutch Switch - Clutch Pedal Depressed	1241585153
+Clutch Switch - Not Configured	1241585155
+Cruise Control Set Switch - Set Switch Off	1241585408
+Cruise Control Set Switch - Set Switch On	1241585409
+Cruise Control Set Switch - Not Configured	1241585411
+Cruise Control Coast Switch - Coast Switch Off	1241585664
+Cruise Control Coast Switch - Coast Switch On	1241585665
+Cruise Control Coast Switch - Not Configured	1241585667
+Cruise Control Resume Switch - Resume Switch Off	1241585920
+Cruise Control Resume Switch - Resume Switch On	1241585921
+Cruise Control Resume Switch - Not Configured	1241585923
+Cruise Control Accelerate Switch - Accelerate Switch Off	1241586176
+Cruise Control Accelerate Switch - Accelerate Switch On	1241586177
+Cruise Control Accelerate Switch - Not Configured	1241586179
+Cruise Control State - Off/Disabled	1241586432
+Cruise Control State - Hold	1241586433
+Cruise Control State - Accelerate	1241586434
+Cruise Control State - Decelerate/Coast	1241586435
+Cruise Control State - Resume	1241586436
+Cruise Control State - Set	1241586437
+Cruise Control State - Accelerator Override	1241586438
+Cruise Control State - Not Available	1241586439
+Fan Drive State - Fan Off	1241586688
+Fan Drive State - Engine System - General	1241586689
+Fan Drive State - Excessive Engine Air Temperature	1241586690
+Fan Drive State - Excessive Engine Oil Temperature	1241586691
+Fan Drive State - Excessive Engine Coolant Temperature	1241586692
+Fan Drive State - Not Defined	1241586693
+Fan Drive State - Manual Control	1241586697
+Fan Drive State - Transmission Retarder	1241586698
+Fan Drive State - A/C System	1241586699
+Fan Drive State - Timer	1241586700
+Fan Drive State - Engine Brake	1241586701
+Fan Drive State - Other/Not Available	1241586702
+Engine / Retarder Torque Mode - ERC1 - Low Idle Governor/No Request (Default Mode)	1241586944
+Engine / Retarder Torque Mode - ERC1 - Accelerator Pedal/Operator Selection	1241586945
+Engine / Retarder Torque Mode - ERC1 - Cruise Control	1241586946
+Engine / Retarder Torque Mode - ERC1 - PTO Governor	1241586947
+Engine / Retarder Torque Mode - ERC1 - Road Speed Governor	1241586948
+Engine / Retarder Torque Mode - ERC1 - ASR Control	1241586949
+Engine / Retarder Torque Mode - ERC1 - Transmission Control	1241586950
+Engine / Retarder Torque Mode - ERC1 - ABS Control	1241586951
+Engine / Retarder Torque Mode - ERC1 - Torque Limiting	1241586952
+Engine / Retarder Torque Mode - ERC1 - High Speed Governor	1241586953
+Engine / Retarder Torque Mode - ERC1 - Braking System	1241586954
+Engine / Retarder Torque Mode - ERC1 - Remote Accelerator	1241586955
+Engine / Retarder Torque Mode - ERC1 - Not Defined/Not Available	1241586956
+Retarder Type - Compression Release (Engine Retarder)	1241587203
+Retarder Type - Exhaust	1241587204
+Retarder Location - Primary Engine Retarder For Compression Brakes	1241587456
+Retarder Location - Primary Engine Retarder For Exhaust Brakes	1241587457
+Retarder Control Method - DVB	1241587712
+Retarder Control Method - Konstantdrossel	1241587713
+Retarder Control Method - Low/High Compression	1241587714
+Retarder Control Method - Low/Med/High Compression	1241587715
+Retarder Control Method - Not Configured	1241587967
+Adaptive Cruise Control State - Error	1241587974
+Adaptive Cruise Control State - Not Available	1241587975
+Driveline Engaged - Driveline Disengaged	1241588224
+Driveline Engaged - Driveline Engaged	1241588225
+Driveline Engaged - N/A	1241588227
+Shift In Progress - Shift Is Not In Process	1241588480
+Shift In Progress - Shift In Process	1241588481
+Shift In Progress - N/A	1241588483
+Momentary Engine Overspeed Is Disabled	1241588736
+Momentary Engine Overspeed Is Enabled	1241588737
+Momentary Engine Overspeed - N/A	1241588739
+Progressive Shift Is Not Disabled	1241588992
+Progressive Shift Is Disabled	1241588993
+Progressive Shift Disabled - N/A	1241588995
+Power Reduction Active - False	1241589248
+Power Reduction Active - True	1241589249
+Power Reduction Active - Sensor Defect	1241589250
+Power Reduction Active - Missing Data	1241589251
+LO P-Lube Oil - False	1241589504
+LO P-Lube Oil - True	1241589505
+LO P-Lube Oil - Sensor Defect	1241589506
+LO P-Lube Oil - Missing Data	1241589507
+LOLO P-Lube Oil - False	1241589760
+LOLO P-Lube Oil - True	1241589761
+LOLO P-Lube Oil - Sensor Defect	1241589762
+LOLO P-Lube Oil - Missing Data	1241589763
+LO P-Fuel - False	1241590016
+LO P-Fuel - True	1241590017
+LO P-Fuel - Sensor Defect	1241590018
+LO P-Fuel - Missing Data	1241590019
+LOLO P-Fuel - False	1241590272
+LOLO P-Fuel - True	1241590273
+LOLO P-Fuel - Sensor Defect	1241590274
+LOLO P-Fuel - Missing Data	1241590275
+LO P-Charge Air - False	1241590528
+LO P-Charge Air - True	1241590529
+LO P-Charge Air - Sensor Defect	1241590530
+LO P-Charge Air - Missing Data	1241590531
+HI P-Lube Oil Differential - False	1241590784
+HI P-Lube Oil Differential - True	1241590785
+HI P-Lube Oil Differential - Sensor Defect	1241590786
+HI P-Lube Oil Differential - Missing Data	1241590787
+LO Coolant Level - False	1241591040
+LO Coolant Level - True	1241591041
+LO Coolant Level - Sensor Defect	1241591042
+LO Coolant Level - Missing Data	1241591043
+HI Charger Speed ETC1 - False	1241591296
+HI Charger Speed ETC1 - True	1241591297
+HI Charger Speed ETC1 - Sensor Defect	1241591298
+HI Charger Speed ETC1 - Missing Data	1241591299
+LO P-Fuel (Common Rail) - False	1241591552
+LO P-Fuel (Common Rail) - True	1241591553
+LO P-Fuel (Common Rail) - Sensor Defect	1241591554
+LO P-Fuel (Common Rail) - Missing Data	1241591555
+HI P-Fuel (Common Rail) - False	1241591808
+HI P-Fuel (Common Rail) - True	1241591809
+HI P-Fuel (Common Rail) - Sensor Defect	1241591810
+HI P-Fuel (Common Rail) - Missing Data	1241591811
+HIHI Charger Speed ETC1 - False	1241592064
+HIHI Charger Speed ETC1 - True	1241592065
+HIHI Charger Speed ETC1 - Sensor Defect	1241592066
+HIHI Charger Speed ETC1 - Missing Data	1241592067
+AL ECU Defect - False	1241592320
+AL ECU Defect - True	1241592321
+AL ECU Defect - Sensor Defect	1241592322
+AL ECU Defect - Missing Data	1241592323
+AL Speed Demand Defect - False	1241592576
+AL Speed Demand Defect - True	1241592577
+AL Speed Demand Defect - Sensor Defect	1241592578
+AL Speed Demand Defect - Missing Data	1241592579
+LO Power Supply - False	1241592832
+LO Power Supply - True	1241592833
+LO Power Supply - Sensor Defect	1241592834
+LO Power Supply - Missing Data	1241592835
+HI Power Supply - False	1241593088
+HI Power Supply - True	1241593089
+HI Power Supply - Sensor Defect	1241593090
+HI Power Supply - Missing Data	1241593091
+HI T-Coolant - False	1241593344
+HI T-Coolant - True	1241593345
+HI T-Coolant - Sensor Defect	1241593346
+HI T-Coolant - Missing Data	1241593347
+HIHI T-Coolant - False	1241593600
+HIHI T-Coolant - True	1241593601
+HIHI T-Coolant - Sensor Defect	1241593602
+HIHI T-Coolant - Missing Data	1241593603
+HI T-Charge Air - False	1241593856
+HI T-Charge Air - True	1241593857
+HI T-Charge Air - Sensor Defect	1241593858
+HI T-Charge Air - Missing Data	1241593859
+HI T-Lube Oil - False	1241594112
+HI T-Lube Oil - True	1241594113
+HI T-Lube Oil - Sensor Defect	1241594114
+HI T-Lube Oil - Missing Data	1241594115
+HIHI T-Lube Oil - False	1241594368
+HIHI T-Lube Oil - True	1241594369
+HIHI T-Lube Oil - Sensor Defect	1241594370
+HIHI T-Lube Oil - Missing Data	1241594371
+HIHI T-Charge Air - False	1241594624
+HIHI T-Charge Air - True	1241594625
+HIHI T-Charge Air - Sensor Defect	1241594626
+HIHI T-Charge Air - Missing Data	1241594627
+SS Engine Speed Low - False	1241594880
+SS Engine Speed Low - True	1241594881
+SS Engine Speed Low - Sensor Defect	1241594882
+SS Engine Speed Low - Missing Data	1241594883
+AL Check ECU Error Code - False	1241595136
+AL Check ECU Error Code - True	1241595137
+AL Check ECU Error Code - Sensor Defect	1241595138
+AL Check ECU Error Code - Missing Data	1241595139
+AL Common Rail Leakage - False	1241595392
+AL Common Rail Leakage - True	1241595393
+AL Common Rail Leakage - Sensor Defect	1241595394
+AL Common Rail Leakage - Missing Data	1241595395
+HIHI T-Fuel - False	1241595648
+HIHI T-Fuel - True	1241595649
+HIHI T-Fuel - Sensor Defect	1241595650
+HIHI T-Fuel - Missing Data	1241595651
+LOLO ECU Power Supply Voltage - False	1241595904
+LOLO ECU Power Supply Voltage - True	1241595905
+LOLO ECU Power Supply Voltage - Sensor Defect	1241595906
+LOLO ECU Power Supply Voltage - Missing Data	1241595907
+HIHI ECU Power Supply Voltage - False	1241596160
+HIHI ECU Power Supply Voltage - True	1241596161
+HIHI ECU Power Supply Voltage - Sensor Defect	1241596162
+HIHI ECU Power Supply Voltage - Missing Data	1241596163
+HI T-Fuel - False	1241596416
+HI T-Fuel - True	1241596417
+HI T-Fuel - Sensor Defect	1241596418
+HI T-Fuel - Missing Data	1241596419
+SS Overspeed - False	1241596672
+SS Overspeed - True	1241596673
+SS Overspeed - Sensor Defect	1241596674
+SS Overspeed - Missing Data	1241596675
+HI T-Exhaust A1 - False	1241596928
+HI T-Exhaust A1 - True	1241596929
+HI T-Exhaust A1 - Sensor Defect	1241596930
+HI T-Exhaust A1 - Missing Data	1241596931
+HI T-Exhaust A2 - False	1241597184
+HI T-Exhaust A2 - True	1241597185
+HI T-Exhaust A2 - Sensor Defect	1241597186
+HI T-Exhaust A2 - Missing Data	1241597187
+HI T-Exhaust A3 - False	1241597440
+HI T-Exhaust A3 - True	1241597441
+HI T-Exhaust A3 - Sensor Defect	1241597442
+HI T-Exhaust A3 - Missing Data	1241597443
+HI T-Exhaust A4 - False	1241597696
+HI T-Exhaust A4 - True	1241597697
+HI T-Exhaust A4 - Sensor Defect	1241597698
+HI T-Exhaust A4 - Missing Data	1241597699
+HI T-Exhaust A5 - False	1241597952
+HI T-Exhaust A5 - True	1241597953
+HI T-Exhaust A5 - Sensor Defect	1241597954
+HI T-Exhaust A5 - Missing Data	1241597955
+HI T-Exhaust A6 - False	1241598208
+HI T-Exhaust A6 - True	1241598209
+HI T-Exhaust A6 - Sensor Defect	1241598210
+HI T-Exhaust A6 - Missing Data	1241598211
+HI T-Exhaust A7 - False	1241598464
+HI T-Exhaust A7 - True	1241598465
+HI T-Exhaust A7 - Sensor Defect	1241598466
+HI T-Exhaust A7 - Missing Data	1241598467
+HI T-Exhaust A8 - False	1241598720
+HI T-Exhaust A8 - True	1241598721
+HI T-Exhaust A8 - Sensor Defect	1241598722
+HI T-Exhaust A8 - Missing Data	1241598723
+HI T-Exhaust A9 - False	1241598976
+HI T-Exhaust A9 - True	1241598977
+HI T-Exhaust A9 - Sensor Defect	1241598978
+HI T-Exhaust A9 - Missing Data	1241598979
+HI T-Exhaust A10 - False	1241599232
+HI T-Exhaust A10 - True	1241599233
+HI T-Exhaust A10 - Sensor Defect	1241599234
+HI T-Exhaust A10 - Missing Data	1241599235
+HI T-Exhaust B1 - False	1241599488
+HI T-Exhaust B1 - True	1241599489
+HI T-Exhaust B1 - Sensor Defect	1241599490
+HI T-Exhaust B1 - Missing Data	1241599491
+HI T-Exhaust B2 - False	1241599744
+HI T-Exhaust B2 - True	1241599745
+HI T-Exhaust B2 - Sensor Defect	1241599746
+HI T-Exhaust B2 - Missing Data	1241599747
+HI T-Exhaust B3 - False	1241600000
+HI T-Exhaust B3 - True	1241600001
+HI T-Exhaust B3 - Sensor Defect	1241600002
+HI T-Exhaust B3 - Missing Data	1241600003
+HI T-Exhaust B4 - False	1241600256
+HI T-Exhaust B4 - True	1241600257
+HI T-Exhaust B4 - Sensor Defect	1241600258
+HI T-Exhaust B4 - Missing Data	1241600259
+HI T-Exhaust B5 - False	1241600512
+HI T-Exhaust B5 - True	1241600513
+HI T-Exhaust B5 - Sensor Defect	1241600514
+HI T-Exhaust B5 - Missing Data	1241600515
+HI T-Exhaust B6 - False	1241600768
+HI T-Exhaust B6 - True	1241600769
+HI T-Exhaust B6 - Sensor Defect	1241600770
+HI T-Exhaust B6 - Missing Data	1241600771
+HI T-Exhaust B7 - False	1241601024
+HI T-Exhaust B7 - True	1241601025
+HI T-Exhaust B7 - Sensor Defect	1241601026
+HI T-Exhaust B7 - Missing Data	1241601027
+HI T-Exhaust B8 - False	1241601280
+HI T-Exhaust B8 - True	1241601281
+HI T-Exhaust B8 - Sensor Defect	1241601282
+HI T-Exhaust B8 - Missing Data	1241601283
+HI T-Exhaust B9 - False	1241601536
+HI T-Exhaust B9 - True	1241601537
+HI T-Exhaust B9 - Sensor Defect	1241601538
+HI T-Exhaust B9 - Missing Data	1241601539
+HI T-Exhaust B10 - False	1241601792
+HI T-Exhaust B10 - True	1241601793
+HI T-Exhaust B10 - Sensor Defect	1241601794
+HI T-Exhaust B10 - Missing Data	1241601795
+LO T-Exhaust A1 - False	1241602048
+LO T-Exhaust A1 - True	1241602049
+LO T-Exhaust A1 - Sensor Defect	1241602050
+LO T-Exhaust A1 - Missing Data	1241602051
+LO T-Exhaust A2 - False	1241602304
+LO T-Exhaust A2 - True	1241602305
+LO T-Exhaust A2 - Sensor Defect	1241602306
+LO T-Exhaust A2 - Missing Data	1241602307
+LO T-Exhaust A3 - False	1241602560
+LO T-Exhaust A3 - True	1241602561
+LO T-Exhaust A3 - Sensor Defect	1241602562
+LO T-Exhaust A3 - Missing Data	1241602563
+LO T-Exhaust A4 - False	1241602816
+LO T-Exhaust A4 - True	1241602817
+LO T-Exhaust A4 - Sensor Defect	1241602818
+LO T-Exhaust A4 - Missing Data	1241602819
+LO T-Exhaust A5 - False	1241603072
+LO T-Exhaust A5 - True	1241603073
+LO T-Exhaust A5 - Sensor Defect	1241603074
+LO T-Exhaust A5 - Missing Data	1241603075
+LO T-Exhaust A6 - False	1241603328
+LO T-Exhaust A6 - True	1241603329
+LO T-Exhaust A6 - Sensor Defect	1241603330
+LO T-Exhaust A6 - Missing Data	1241603331
+LO T-Exhaust A7 - False	1241603584
+LO T-Exhaust A7 - True	1241603585
+LO T-Exhaust A7 - Sensor Defect	1241603586
+LO T-Exhaust A7 - Missing Data	1241603587
+LO T-Exhaust A8 - False	1241603840
+LO T-Exhaust A8 - True	1241603841
+LO T-Exhaust A8 - Sensor Defect	1241603842
+LO T-Exhaust A8 - Missing Data	1241603843
+LO T-Exhaust A9 - False	1241604096
+LO T-Exhaust A9 - True	1241604097
+LO T-Exhaust A9 - Sensor Defect	1241604098
+LO T-Exhaust A9 - Missing Data	1241604099
+LO T-Exhaust A10 - False	1241604352
+LO T-Exhaust A10 - True	1241604353
+LO T-Exhaust A10 - Sensor Defect	1241604354
+LO T-Exhaust A10 - Missing Data	1241604355
+LO T-Exhaust B1 - False	1241604608
+LO T-Exhaust B1 - True	1241604609
+LO T-Exhaust B1 - Sensor Defect	1241604610
+LO T-Exhaust B1 - Missing Data	1241604611
+LO T-Exhaust B2 - False	1241604864
+LO T-Exhaust B2 - True	1241604865
+LO T-Exhaust B2 - Sensor Defect	1241604866
+LO T-Exhaust B2 - Missing Data	1241604867
+LO T-Exhaust B3 - False	1241605120
+LO T-Exhaust B3 - True	1241605121
+LO T-Exhaust B3 - Sensor Defect	1241605122
+LO T-Exhaust B3 - Missing Data	1241605123
+LO T-Exhaust B4 - False	1241605376
+LO T-Exhaust B4 - True	1241605377
+LO T-Exhaust B4 - Sensor Defect	1241605378
+LO T-Exhaust B4 - Missing Data	1241605379
+LO T-Exhaust B5 - False	1241605632
+LO T-Exhaust B5 - True	1241605633
+LO T-Exhaust B5 - Sensor Defect	1241605634
+LO T-Exhaust B5 - Missing Data	1241605635
+LO T-Exhaust B6 - False	1241605888
+LO T-Exhaust B6 - True	1241605889
+LO T-Exhaust B6 - Sensor Defect	1241605890
+LO T-Exhaust B6 - Missing Data	1241605891
+LO T-Exhaust B7 - False	1241606144
+LO T-Exhaust B7 - True	1241606145
+LO T-Exhaust B7 - Sensor Defect	1241606146
+LO T-Exhaust B7 - Missing Data	1241606147
+LO T-Exhaust B8 - False	1241606400
+LO T-Exhaust B8 - True	1241606401
+LO T-Exhaust B8 - Sensor Defect	1241606402
+LO T-Exhaust B8 - Missing Data	1241606403
+LO T-Exhaust B9 - False	1241606656
+LO T-Exhaust B9 - True	1241606657
+LO T-Exhaust B9 - Sensor Defect	1241606658
+LO T-Exhaust B9 - Missing Data	1241606659
+LO T-Exhaust B10 - False	1241606912
+LO T-Exhaust B10 - True	1241606913
+LO T-Exhaust B10 - Sensor Defect	1241606914
+LO T-Exhaust B10 - Missing Data	1241606915
+HI P-Crankcase - False	1241607168
+HI P-Crankcase - True	1241607169
+HI P-Crankcase - Sensor Defect	1241607170
+HI P-Crankcase - Missing Data	1241607171
+HIHI P-Crankcase - False	1241607424
+HIHI P-Crankcase - True	1241607425
+HIHI P-Crankcase - Sensor Defect	1241607426
+HIHI P-Crankcase - Missing Data	1241607427
+LO P-Coolant After Pump - False	1241607680
+LO P-Coolant After Pump - True	1241607681
+LO P-Coolant After Pump - Sensor Defect	1241607682
+LO P-Coolant After Pump - Missing Data	1241607683
+LOLO P-Coolant After Pump - False	1241607936
+LOLO P-Coolant After Pump - True	1241607937
+LOLO P-Coolant After Pump - Sensor Defect	1241607938
+LOLO P-Coolant After Pump - Missing Data	1241607939
+LO P-Coolant Intercooler - False	1241608192
+LO P-Coolant Intercooler - True	1241608193
+LO P-Coolant Intercooler - Sensor Defect	1241608194
+LO P-Coolant Intercooler - Missing Data	1241608195
+LOLO P-Coolant Intercooler - False	1241608448
+LOLO P-Coolant Intercooler - True	1241608449
+LOLO P-Coolant Intercooler - Sensor Defect	1241608450
+LOLO P-Coolant Intercooler - Missing Data	1241608451
+LO Intercoolant Level - False	1241608704
+LO Intercoolant Level - True	1241608705
+LO Intercoolant Level - Sensor Defect	1241608706
+LO Intercoolant Level - Missing Data	1241608707
+HI T-Coolant Intercooler - False	1241608960
+HI T-Coolant Intercooler - True	1241608961
+HI T-Coolant Intercooler - Sensor Defect	1241608962
+HI T-Coolant Intercooler - Missing Data	1241608963
+AL Prelubrication Fault - False	1241609216
+AL Prelubrication Fault - True	1241609217
+AL Prelubrication Fault - Sensor Defect	1241609218
+AL Prelubrication Fault - Missing Data	1241609219
+LO T-Preheat - False	1241609472
+LO T-Preheat - True	1241609473
+LO T-Preheat - Sensor Defect	1241609474
+LO T-Preheat - Missing Data	1241609475
+LOLO T-Preheat - False	1241609728
+LOLO T-Preheat - True	1241609729
+LOLO T-Preheat - Sensor Defect	1241609730
+LOLO T-Preheat - Missing Data	1241609731
+HI Air Filter Restr - False	1241609984
+HI Air Filter Restr - True	1241609985
+HI Air Filter Restr - Sensor Defect	1241609986
+HI Air Filter Restr - Missing Data	1241609987
+HI Fuel Filter Restr - False	1241610240
+HI Fuel Filter Restr - True	1241610241
+HI Fuel Filter Restr - Sensor Defect	1241610242
+HI Fuel Filter Restr - Missing Data	1241610243

@@ -1,0 +1,86 @@
+Hitachi Oem Interface Timeout	167903200
+Hitachi Oem Interface Normal	167903201
+Hitachi Driver Interface Timeout	167903202
+Hitachi Driver Interface Normal	167903203
+Alternator Charge (Off)	167837696
+Alternator Charge (On)	167837697
+Engine Running [R] (Off)	167837698
+Engine Running[R] (On)	167837699
+Engine Running [L] (Off)	167837700
+Engine Running[L] (On)	167837701
+Operating (Off)	167837702
+Operating (On)	167837703
+Traveling (Off)	167837704
+Traveling (On)	167837705
+Swinging (Off)	167837706
+Swinging (On)	167837707
+Alternator Charge Fault (Off)	167837708
+Alternator Charge Fault (On)	167837709
+Coolant Level Low [R] (Off)	167837710
+Coolant Level Low [R] (On)	167837711
+Coolant Level Low [L] (Off)	167837712
+Coolant Level Low [L] (On)	167837713
+Coolant Temp Overheat R (Off)	167837714
+Coolant Temp Overheat R (On)	167837715
+Coolant Temp Overheat L (Off)	167837716
+Coolant Temp Overheat L (On)	167837717
+Hyd Oil Level Low (Off)	167837718
+Hyd Oil Level Low (On)	167837719
+Hyd Oil Temp Overheat (Off)	167837720
+Hyd Oil Temp Overheat (On)	167837721
+Engine Oil Press Low R (Off)	167837722
+Engine Oil Press Low R (On)	167837723
+Engine Oil Press Low L (Off)	167837724
+Engine Oil Press Low L (On)	167837725
+Pump Trans Oil Press Low R (Off)	167837726
+Pump Trans Oil Press Low R (On)	167837727
+Pump Trans Oil Press Low L (Off)	167837728
+Pump Trans Oil Press Low L (On)	167837729
+Emergency Stop (Off)	167837730
+Emergency Stop (On)	167837731
+Buzzer Stop (Off)	167837732
+Buzzer Stop (On)	167837733
+Fuel Level Low (Off)	167837734
+Fuel Level Low (On)	167837735
+Pump Contamination (Off)	167837736
+Pump Contamination (On)	167837737
+Air Cleaner Restriction (Off)	167837738
+Air Cleaner Restriction (On)	167837739
+Auto-Lubrication Fault (Off)	167837740
+Auto-Lubrication Fault (On)	167837741
+Engine Controller Fault (Off)	167837742
+Engine Controller Fault (On)	167837743
+Key On (Off)	167837744
+Key On (On)	167837745
+Engine On (Off)	167837746
+Engine On (On)	167837747
+Lamp Check (Off)	167837748
+Lamp Check (On)	167837749
+Exhaust Temp. High (Off)	167837750
+Exhaust Temp. High (On)	167837751
+Engine Warning Stop Sig. (Off)	167837752
+Engine Warning Stop Sig.(On)	167837753
+Engine Warning Speed Derate (Off)	167837754
+Engine Warning Speed Derate.(On)	167837755
+Engine Warning Torque Derate (Off)	167837756
+Engine Warning Torque Derate(On)	167837757
+Engine Warning Stop Lamp [R] (Off)	167837758
+Engine Warning Stop Lamp [R] (On)	167837759
+Engine Warning Stop Lamp [L] (Off)	167837760
+Engine Warning Stop Lamp [L] (On)	167837761
+Engine Warning Protection Lamp [R] (Off)	167837762
+Engine Warning Protection Lamp [R] (On)	167837763
+Engine Warning Protection Lamp [L] (Off)	167837764
+Engine Warning Protection Lamp [L] (On)	167837765
+System Fault 1 (Off)	167837896
+System Fault 1 (On)	167837897
+System Fault 2 (Off)	167837898
+System Fault 2 (On)	167837899
+System Fault 3 (Off)	167837900
+System Fault 3 (On)	167837901
+System Fault 4 (Off)	167837902
+System Fault 4 (On)	167837903
+System Fault 5 (Off)	167837904
+System Fault 5 (On)	167837905
+System Fault 6 (Off)	167837906
+System Fault 6 (On)	167837907

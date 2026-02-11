@@ -1,0 +1,48 @@
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: gps_status_report_display_frm,v $
+.. $Revision: 1.2 $
+..   $Author: latum $
+..     $Date: 2004/08/05 14:57:24 $
+..    $State: Exp $
+..   Purpose: Prepare GPS status report.
+..................................................................................................................
+.if PRINTERS = nil
+.init CURRENT ? guiMainTitle((INPF- ".ddb" - "gps")[Last Reported GPS Status in %s Shift]) :
+                guiMainTitle((INPF- ".ddb" - "gps")[GPS Status Report for %s Shift])
+.cleanup guiPreviousTitle
+.else
+.form CURRENT ? center((INPF- ".ddb" - "gps")[`Last Reported GPS Status in %s Shift@], sub_meter ? 90 : 80 ) :
+                center((INPF- ".ddb" - "gps")[`GPS Status Report for %s Shift@], sub_meter ? 90 : 80 )
+.endif
+.form PC ? center( "`                    ----------------Percent of Total--------------------------@", sub_meter ? 90 : 80) : center("", sub_meter ? 90 : 80)
+.ins
+.if sub_meter
+    Equip     Last Ty    Sub Meter       --Differential--      -Non Differential-
+    `Name_  `    Data_ `pe_  ` cm_  ` dm_  ` 2D_     ` 3D_  ` 2D_ ` AS` `ASB`      ` 3D_  ` 2D_  ` AS`  `ASB`    `Other` `Total_ ` `
+.scroll
+.wild T("name").selectTr
+  >  T.ID>  >    TIME>>  S>> T.S4>> T.S3>> T.S2>   > T.D3>> T.D2>>  TCx>  TDx    > T.N3>> T.AH>>  TASx>  TABx    >  TOTx>  T.TL>
+.wild T("name").selectEx
+  >  T.ID>  >    TIME>>  S>> T.S4>> T.S3>> T.S2>   > T.D3>> T.D2>>  TCx>  TDx    > T.N3>> T.AH>>  TASx>  TABx    >  TOTx>  T.TL>
+.wild T("name").selectOt
+  >  T.ID>  >    TIME>>  S>> T.S4>> T.S3>> T.S2>   > T.D3>> T.D2>>  TCx>  TDx    > T.N3>> T.AH>>  TASx>  TABx    >  TOTx>  T.TL>
+
+  >  G.ID>             > G.S4>> G.S3>> G.S2>   > G.D3>> G.D2>> G.Cx> G.Dx    > G.N3>> G.AH>> G.ASx> G.ABx    > G.OTx>  G.TL>
+.else
+    Equip     Last Ty    --Differential--      -Non Differential-
+    `Name_  `    Data_ `pe_    ` 3D_  ` 2D_ ` AS` `ASB`      ` 3D_  ` 2D_  ` AS`  `ASB`    `Other` `Total_ ` `
+.scroll
+.wild T("name").selectTr
+  >  T.ID>  >    TIME>>  S>  > T.D3>> T.D2>>  TCx>  TDx    > T.N3>> T.AH>>  TASx>  TABx    >  TOTx>  T.TL>
+.wild T("name").selectEx
+  >  T.ID>  >    TIME>>  S>  > T.D3>> T.D2>>  TCx>  TDx    > T.N3>> T.AH>>  TASx>  TABx    >  TOTx>  T.TL>
+.wild T("name").selectOt
+  >  T.ID>  >    TIME>>  S>  > T.D3>> T.D2>>  TCx>  TDx    > T.N3>> T.AH>>  TASx>  TABx    >  TOTx>  T.TL>
+
+  >  G.ID>               > G.D3>> G.D2>> G.Cx> G.Dx    > G.N3>> G.AH>> G.ASx> G.ABx    > G.OTx>  G.TL>
+.endif
+
+    Notes: AS = Acquiring Satellites, ASB = Acquiring Satellites, Bad Almanac
+

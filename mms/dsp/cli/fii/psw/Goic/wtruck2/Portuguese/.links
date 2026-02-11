@@ -1,0 +1,17 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/Actions.cfg Actions.cfg
+ln -sf ../English/Conditions.cfg Conditions.cfg
+ln -sf ../English/Direction.cfg Direction.cfg
+ln -sf ../English/KpMinus.cfg KpMinus.cfg
+ln -sf ../English/Macro.cfg Macro.cfg
+ln -sf ../English/Precip.cfg Precip.cfg
+ln -sf ../English/Sky.cfg Sky.cfg
+ln -sf ../English/Spray.cfg Spray.cfg
+ln -sf ../English/Spray2.cfg Spray2.cfg
+ln -sf ../English/WinMgr.cfg WinMgr.cfg
+ln -sf ../English/Wind.cfg Wind.cfg
+ln -sf ../English/w1.cfg w1.cfg
+ln -sf ../English/w1.mb.cfg w1.mb.cfg

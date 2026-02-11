@@ -1,0 +1,57 @@
+Swing Load	1644232705
+Final Load	1644232706
+Early Estimate	1644232707
+Haul Cycle	1644232708
+Remaining Load (OLS)	1644232709
+Empty	1644233728
+Loading	1644233729
+Maneuvering	1644233730
+Tare Zone	1644233731
+Final Zone	1644233733
+Dumping	1644233735
+After Dump	1644233736
+Hauling	1644233737
+Left Front Sensor Malfunction - Signal High / Left Front Suspension Pressure High	1644234753
+Left Front Sensor Malfunction - Signal Low / Left Front Suspension Pressure Low	1644234754
+Right Front Sensor Malfunction - Signal High / Right Front Suspension Pressure High	1644234755
+Right Front Sensor Malfunction - Signal Low / Right Front Suspension Pressure Low	1644234756
+Left Rear Sensor Malfunction - Signal High / Left Rear Suspension Pressure High	1644234757
+Left Rear Sensor Malfunction - Signal Low / Left Rear Suspension Pressure Low	1644234758
+Right Rear Sensor Malfunction - Signal High / Right Rear Suspension Pressure High	1644234759
+Right Rear Sensor Malfunction - Signal Low / Right Rear Suspension Pressure Low	1644234760
+Inclinometer Malfunction - Signal High / Inclinometer Input High	1644234761
+Inclinometer Malfunction - Signal Low / Inclinometer Input Low	1644234762
+Speed Input Failure	1644234763
+Brake Lock Input Failure	1644234764
+Body-Up Input/Switch Failure	1644234765
+Checksum Failure	1644234766
+Memory Write Failure	1644234768
+Memory Read Failure	1644234769
+Rear Right Suspension Flat	1644234770
+Rear Left Suspension Flat	1644234771
+Time Change	1644234772
+Tare Value Reset	1644234773
+Excessive Carryback/Carry Back Threshold Exceeded	1644234774
+User Switch Fault - SELECT	1644234778
+User Switch Fault - SET/CLEAR	1644234779
+Continuous Loading (A)	1644235776
+Loading To Dumping (B)	1644235777
+No Final Load (C)	1644235778
+Maneuvering To Dumping (D)	1644235779
+Average Load (E)	1644235780
+Final Zone To Dumping (F)	1644235781
+False Body Up Signal (H)	1644235782
+Body Up Signal Failed (I)	1644235783
+Speed Sensor Failed (J)	1644235784
+New Tare Not Calculated (K)	1644235785
+Incomplete Haul Cycle (L)	1644235786
+Haul Cycle Too Long (M)	1644235787
+Sensor Input Error (N)	1644235788
+False Swingload (O)	1644235789
+Truck Overloaded (Z)	1644235790
+Frame Torque Exceeded	1644236801
+Sprung Weight Exceeded	1644236802
+OEM Interface Timeout	1644298208
+OEM Interface Normal	1644298209
+Driver Interface Timeout	1644298210
+Driver Interface Normal	1644298211

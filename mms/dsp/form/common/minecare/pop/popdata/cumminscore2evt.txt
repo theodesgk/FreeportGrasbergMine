@@ -1,0 +1,1328 @@
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258356771
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258356772
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Abnormal Frequency Pulsewidth/Period (Qsk19)	1258356776
+Sae J1939 Multiplexed Accelerator Pedal - Received Network Data In Error (Qsk19)	1258356787
+Fuel Delivery Press Sensor Ckt - Data Valid Abv Normal Operating Range - Most Severe Level (Qsk19)	1258356800
+Fuel Delivery Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258356803
+Fuel Delivery Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258356804
+Fuel Pump Delivery Press-Data Valid Above Normal Operational Range - Moderately Severe Level (Qsk19)	1258356815
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Most Severe Level (Qsk19)	1258356816
+Fuel Pump Delivery Press-Data Valid Below Normal Operational Range - Least Severe Level (Qsk19)	1258356817
+Fuel Pump Delivery Press-Data Valid Below Normal Operational Range - Moderately Severe Level (Qsk19)	1258356818
+Water In Fuel Indicator - Data Valid But Above Normal Operating Range - Most Severe Level (Qsk19)	1258356832
+Water In Fuel Indicator Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258356835
+Water In Fuel Indicator Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258356836
+Water In Fuel Indicator - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk19)	1258356847
+Water In Fuel Indicator - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk19)	1258356848
+Eng Oil Rifle Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk19)	1258356897
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258356899
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258356900
+Eng Oil Rifle Press - Data Valid Below Normal Operational Range - Moderately Severe Level (Qsk19)	1258356914
+Crankcase Press - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk19)	1258356928
+Crankcase Press Ckt - Volt Abv Normal Or Shorted To High Src (Qsk19)	1258356931
+Crankcase Press Ckt - Volt Below Normal Or Shorted To Low Src (Qsk19)	1258356932
+Crankcase Press - Data Valid Abv Normal Operating Range - Moderately Severe Level (Qsk19)	1258356944
+Intake Manifold 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258356963
+Intake Manifold 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258356964
+Intake Manifold 1 Press - Data Valid Below Normal Operational Range - Least Severe Level (Qsk19)	1258356977
+Turbocharger 1 Speed - Data Erratic/Intermittent/Incorrect (Qsk19)	1258356994
+Turbocharger 1 Speed - Data Valid But Above Normal Operating Range - Moderately Severe Level (Qsk19)	1258357008
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk19)	1258357024
+Intake Manifold 1 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258357027
+Intake Manifold 1 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258357028
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk19)	1258357039
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk19)	1258357040
+Barometric Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258357059
+Barometric Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258357060
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk19)	1258357120
+Eng Cool Temp 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258357123
+Eng Cool Temp 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258357124
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk19)	1258357135
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk19)	1258357136
+Cool Level - Data Validbelow Normal Operational Range - Most Severe Level (Qsk19)	1258357153
+Cool Level Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258357155
+Cool Level Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258357156
+Cool Level - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk19)	1258357170
+Injector Metering Rail 1 Press - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk19)	1258357184
+Injector Metering Rail 1 Press - Data Below Normal Oper Range - Most Severe Level (Qsk19)	1258357185
+Injector Metering Rail 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258357187
+Injector Metering Rail 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258357188
+Injector Metering Rail 1 Press-Data Validbelow Normal Oper Range - Moderately Severe Level (Qsk19)	1258357202
+Battery 1 Volt - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk19)	1258357232
+Battery 1 Volt - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk19)	1258357234
+Eng Fuel Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk19)	1258357248
+Eng Fuel Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258357251
+Eng Fuel Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258357252
+Eng Fuel Temp - Data Valid Above Normal Operational Range - Moderately Severe Level (Qsk19)	1258357264
+Eng Crankshaft Speed/Pos - Data Validabv Normal Operational Range - Most Severe Level (Qsk19)	1258357312
+Eng Crankshaft Speed/Pos - Data Erratic Intermittent Or Incorrect (Qsk19)	1258357314
+Engine Speed Crank Sync - Abnormal Rate Of Change (Qsk19)	1258357322
+Engine Crankshaft Speed/Position - Data Valid Above Normal Oper Range - Moder Severe Level (Qsk19)	1258357328
+Transmission Output Shaft Speed-Data Validabv Normal Oper Range - Moderately Severe Level (Qsk19)	1258357360
+Transmission Output Shaft Speed-Data Validbelow Normal Oper Range - Moderately Severe Level (Qsk19)	1258357362
+Real Time Clock Power Interrupt - Data Erratic/Intermittent/Incorrect (Qsk19)	1258357378
+Auxiliary Temp Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258357411
+Auxiliary Temp Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258357412
+Auxiliary Temp Sensor Input 1 - Special Instructions (Qsk19)	1258357422
+Accelerator Pedal Or Lever Idle Validation Switch - Data Erratic/Intermittent/Incorrect (Qsk19)	1258357442
+Accelerator Pedal Or Lever Idle Validation Ckt - Out Of Calibration (Qsk19)	1258357453
+Eng Magnetic Speed/Pos Lost Both Of Two Signals - Data Erratic/Intermittent/Incorrect (Qsk19)	1258357474
+Start Enable Device 1 Ckt (Ether Injection) - Root Cause Not Known (Qsk19)	1258357515
+Start Enable Device 1(Ether Injection)-Data Validbelow Normal Oper Range-Least Severe Level (Qsk19)	1258357521
+Power Lost With Ignition On - Data Erratic/Intermittent/Incorrect (Qsk19)	1258357538
+Injector Power Supply - Bad Intelligent Device Or Component (Qsk19)	1258357548
+Eng Control Module Warning Internal Hardware Failure - Bad Intelligent Device Or Component (Qsk19)	1258357580
+At Least One Unacknowledged Most Severe Fault - Condition Exists (Qsk19)	1258357599
+Electronic Fuel Injection Control Valve Ckt - Condition Exists (Qsk19)	1258357663
+J1939 Network #1 - Data Erratic Intermittent or Incorrect (Qsk19)	1258357666
+Sae J1939 Multiplexing Pgn Timeout Error - Abnormal Update Rate (Qsk19)	1258357673
+Sae J1939 Multiplexing Configuration Error - Out Of Calibration (Qsk19)	1258357677
+Auxiliary Commanded Dual Output Shutdown - Special Instructions (Qsk19)	1258357710
+Fan Control Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258357731
+Fan Control Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258357732
+Injector Solenoid Driver Cylinder 1 Ckt - Current Below Normal/Open Ckt (Qsk19)	1258357765
+Injector Solenoid Driver Cylinder 2 Ckt - Current Below Normal/Open Ckt (Qsk19)	1258357797
+Injector Solenoid Driver Cylinder 3 Ckt - Current Below Normal/Open Ckt (Qsk19)	1258357829
+Injector Solenoid Driver Cylinder 4 Ckt - Current Below Normal/Open Ckt (Qsk19)	1258357861
+Injector Solenoid Driver Cylinder 5 Ckt - Current Below Normal/Open Ckt (Qsk19)	1258357893
+Injector Solenoid Driver Cylinder 6 Ckt - Current Below Normal/Open Ckt (Qsk19)	1258357925
+Auxiliary Pwm Driver 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258358275
+Auxiliary Pwm Driver 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258358276
+Auxiliary Input/Output 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258358307
+Auxiliary Input/Output 3 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258358339
+Eng Camshaft Speed/Pos Sensor-Data Erratic Intermittent Or Incorrect (Qsk19)	1258358370
+Eng Speed/Pos Camshaft And Crankshaft Misalignment - Mechanical System Not Responding (Qsk19)	1258358375
+Engine Camshaft Speed/Position Sensor - Abnormal Rate Of Change (Qsk19)	1258358378
+Remote Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258358403
+Remote Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258358404
+Sae J1939 Multiplexing Remote Accelerator Pedal - Received Network Data In Error (Qsk19)	1258358419
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258358435
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258358436
+Sae J1939 Data Link 2 Engine Network - Special Instructions (Qsk19)	1258359150
+Sae J1939 Data Link 2 Engine Network No Data Received - Condition Exists (Qsk19)	1258359167
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258359171
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258359172
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258359715
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258359716
+Multiple Unit Synchronization Switch - Data Erratic/Intermittent/Incorrect (Qsk19)	1258359746
+Eng Oil Change Interval - Condition Exists (Qsk19)	1258359807
+Eng Oil Level Remote Reservoir - Data Validbelow Normal - Moderately Severe Level (Qsk19)	1258359826
+Eng Shut Down Hot - Condition Exists (Qsk19)	1258359871
+Sae J1939 Eng Commanded Shutdown - Condition Exists (Qsk19)	1258359903
+Auxiliary Press Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258359907
+Auxiliary Press Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258359908
+Auxiliary Press Sensor Input 1 - Special Instructions (Qsk19)	1258359918
+Control Module Identification Input State Error - Special Instructions (Qsk19)	1258359982
+Sensor Supply 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258360003
+Sensor Supply 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258360004
+Sensor Supply 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258360035
+Sensor Supply 2 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258360036
+Sensor Supply 3 Ckt - Volt Above Normal/Shorted to High Src (Qsk19)	1258360067
+Sensor Supply 3 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258360068
+Sensor Supply 4 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19)	1258360099
+Sensor Supply 4 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19)	1258360100
+Exhaust Gas Temp Bank Imbal - Data Valid But Abv Normal Operating Range - Most Severe Level (Qsk19)	1258360160
+Exhaust Gas Temp Bank Imbal-Data Valid But Abv Normal Operating Range-Moder Severe Level (Qsk19)	1258360176
+Eng Intake Manifold Press Bank Imbal - Data Valid But Abv Normal Range - Most Severe Level (Qsk19)	1258360192
+Eng Intake Manifold Press Bank Imbal - Data Valid But Abv Normal Range - Moderate Severe Lvl (Qsk19)	1258360208
+Water In Fuel Indicator 2 - Data Valid But Above Normal Operating Range - Most Severe Level (Qsk19)	1258360224
+Water in Fuel Indicator 2 Sensor Circuit - Volt Above Normal/Shorted to High Source (Qsk19)	1258360227
+Water in Fuel Indicator 2 Sensor Circuit - Volt Below Normal/Shorted to Low Source (Qsk19)	1258360228
+Water In Fuel Indicator 2 - Data Valid But Above Normal Operating Range - Least Severe Level (Qsk19)	1258360239
+Water In Fuel Indicator 2 - Data Valid But Above Normal Range - Moderately Severe Level (Qsk19)	1258360240
+Transmission Oil Temp - Data Valid But Above Normal Operating Range - Moder Severe Level (Qsk19)	1258360336
+External Speed Command Input (Multiple Unit Synchronization) - Data Erratic/Incorrect (Qsk19)	1258360354
+Power Lost With Ignition On - Data Erratic Intermittent or Incorrect (Qsk19)	1258360450
+Injector Power Supply - Bad Intelligent Device or Component (Qsk19)	1258360460
+Engine Air Shutoff - Mechanical System Not Responding or Out of Adjustment (Qsk19)	1258360487
+Generator Speed/ Load Governing Bias Circuit - Volt Above Norm/Shorted to High Source (Qsk19)	1258360515
+Generator Speed/ Load Governing Bias Circuit - Volt Below Norm/Shorted to Low Source (Qsk19)	1258360516
+Generator Output Frequency Potentiometer Circuit - Volt Above Norm/Shorted to High Source (Qsk19)	1258360547
+Droop Adjust Potentiometer Circuit - Voltage Above Normal or Shorted to High Source (Qsk19)	1258360579
+Overspeed Shutdown Relay Driver Diagnostic has detected an error - Condition Exists (Qsk19)	1258360639
+Low Oil Pressure (LOP) Shutdown Relay Driver Diag detected an error - Condition Exists (Qsk19)	1258360671
+High Engine Temp (HET) Shutdown Relay Driver Diag detected an error - Condition Exists (Qsk19)	1258360703
+Pre-Low Oil Pressure Warning Relay Driver Diag detected an error - Condition Exists (Qsk19)	1258360735
+Pre-High EngTemperature Warning Relay Driver Diag detected an error - Condition Exists (Qsk19)	1258360767
+Injector Metering Rail 1 Press - Data Valid Abv Normal Oper Range - Moder Severe Level (Qsk19)	1258361376
+Eng Control Module Critical Internal Failure - Bad Intelligent Device Or Component (Qsk19)	1258361377
+Fuel Pump Delivery Pressure - Data Valid but Above Normal Oper Range - Most Severe Level (Qsk19)	1258361381
+Engine Control Module Critical Internal Failure - Bad Intelligent Device or Component (Qsk19)	1258361382
+At Least One Unacknowledged Moderately Severe Fault - Condition Exists (Qsk19)	1258361383
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361571
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361572
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Abnormal Frequency Pulsewidth/Period (Qsk19Eng2)	1258361576
+Sae J1939 Multiplexed Accelerator Pedal - Received Network Data In Error (Qsk19Eng2)	1258361587
+Fuel Delivery Press Sensor Ckt - Data Valid Abv Normal Oper Range - Most Severe Level (Qsk19Eng2)	1258361600
+Fuel Delivery Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361603
+Fuel Delivery Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361604
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Moderately Severe Level (Qsk19Eng2)	1258361615
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Most Severe Level (Qsk19Eng2)	1258361616
+Fuel Pump Delivery Press-Data Valid Below Normal Operational Range - Least Severe Level (Qsk19Eng2)	1258361617
+Fuel Pump Delivery Press-Data Valid Below Normal Oper Range - Moderately Severe Level (Qsk19Eng2)	1258361618
+Water In Fuel Indicator - Data Valid But Above Normal Oper Range - Most Severe Level (Qsk19Eng2)	1258361632
+Water In Fuel Indicator Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361635
+Water In Fuel Indicator Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361636
+Water In Fuel Indicator - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk19Eng2)	1258361647
+Water In Fuel Indicator - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk19Eng2)	1258361648
+Eng Oil Rifle Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk19Eng2)	1258361697
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361699
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361700
+Eng Oil Rifle Press - Data Valid Below Normal Oper Range - Moderately Severe Level (Qsk19Eng2)	1258361714
+Crankcase Press - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk19Eng2)	1258361728
+Crankcase Press Ckt - Volt Abv Normal Or Shorted To High Src (Qsk19Eng2)	1258361731
+Crankcase Press Ckt - Volt Below Normal Or Shorted To Low Src (Qsk19Eng2)	1258361732
+Crankcase Press - Data Valid Abv Normal Operating Range - Moderately Severe Level (Qsk19Eng2)	1258361744
+Intake Manifold 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361763
+Intake Manifold 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361764
+Intake Manifold 1 Press - Data Valid Below Normal Operational Range - Least Severe Level (Qsk19Eng2)	1258361777
+Turbocharger 1 Speed - Data Erratic/Intermittent/Incorrect (Qsk19Eng2)	1258361794
+Turbocharger 1 Speed - Data Valid But Above Normal Oper Range - Moderately Severe Level (Qsk19Eng2)	1258361808
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk19Eng2)	1258361824
+Intake Manifold 1 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361827
+Intake Manifold 1 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361828
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk19Eng2)	1258361839
+Intake Manifold 1 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk19Eng2)	1258361840
+Barometric Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361859
+Barometric Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361860
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk19Eng2)	1258361920
+Eng Cool Temp 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361923
+Eng Cool Temp 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361924
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk19Eng2)	1258361935
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk19Eng2)	1258361936
+Cool Level - Data Validbelow Normal Operational Range - Most Severe Level (Qsk19Eng2)	1258361953
+Cool Level Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361955
+Cool Level Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361956
+Cool Level - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk19Eng2)	1258361970
+Injector Metering Rail 1 Press-Data Valid Abv Normal Oper Range-Most Severe Level (Qsk19Eng2)	1258361984
+Injector Metering Rail 1 Press - Data Below Normal Oper Range - Most Severe Level (Qsk19Eng2)	1258361985
+Injector Metering Rail 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258361987
+Injector Metering Rail 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258361988
+Injector Metering Rail 1 Press-Data Valid Below Normal Oper Range - Moder Severe Level (Qsk19Eng2)	1258362002
+Battery 1 Volt - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk19Eng2)	1258362032
+Battery 1 Volt - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk19Eng2)	1258362034
+Eng Fuel Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk19Eng2)	1258362048
+Eng Fuel Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258362051
+Eng Fuel Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258362052
+Eng Fuel Temp - Data Valid Above Normal Operational Range - Moderately Severe Level (Qsk19Eng2)	1258362064
+Eng Crankshaft Speed/Pos - Data Validabv Normal Operational Range - Most Severe Level (Qsk19Eng2)	1258362112
+Eng Crankshaft Speed/Pos - Data Erratic Intermittent Or Incorrect (Qsk19Eng2)	1258362114
+Engine Speed Crank Sync - Abnormal Rate Of Change (Qsk19Eng2)	1258362122
+Engine Crankshaft Speed/Pos - Data Valid Above Norm Oper Range - Moderately Severe Level (Qsk19Eng2)	1258362128
+Transmission Output Shaft Speed-Data Valid Abv Normal Oper Range - Moder Severe Level (Qsk19Eng2)	1258362160
+Transmission Output Shaft Speed-Data Valid Below Normal Oper Range - Moder Severe Level (Qsk19Eng2)	1258362162
+Real Time Clock Power Interrupt - Data Erratic/Intermittent/Incorrect (Qsk19Eng2)	1258362178
+Auxiliary Temp Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258362211
+Auxiliary Temp Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258362212
+Auxiliary Temp Sensor Input 1 - Special Instructions (Qsk19Eng2)	1258362222
+Accelerator Pedal Or Lever Idle Validation Switch - Data Erratic/Intermittent/Incorrect (Qsk19Eng2)	1258362242
+Accelerator Pedal Or Lever Idle Validation Ckt - Out Of Calibration (Qsk19Eng2)	1258362253
+Eng Magnetic Speed/Pos Lost Both Of Two Signals - Data Erratic/Intermittent/Incorrect (Qsk19Eng2)	1258362274
+Start Enable Device 1 Ckt (Ether Injection) - Root Cause Not Known (Qsk19Eng2)	1258362315
+Start Enable Dev1 (Ether Injec)-Data Valid Below Normal Oper Range-Least Severe Level (Qsk19Eng2)	1258362321
+Power Lost With Ignition On - Data Erratic/Intermittent/Incorrect (Qsk19Eng2)	1258362338
+Injector Power Supply - Bad Intelligent Device Or Component (Qsk19Eng2)	1258362348
+Eng Control Module Warning Internal Hardware Fail-Bad Intelligent Device Or Component (Qsk19Eng2)	1258362380
+At Least One Unacknowledged Most Severe Fault - Condition Exists (Qsk19Eng2)	1258362399
+Electronic Fuel Injection Control Valve Ckt - Condition Exists (Qsk19Eng2)	1258362463
+J1939 Network #1 - Data Erratic Intermittent or Incorrect (Qsk19Eng2)	1258362466
+Sae J1939 Multiplexing Pgn Timeout Error - Abnormal Update Rate (Qsk19Eng2)	1258362473
+Sae J1939 Multiplexing Configuration Error - Out Of Calibration (Qsk19Eng2)	1258362477
+Auxiliary Commanded Dual Output Shutdown - Special Instructions (Qsk19Eng2)	1258362510
+Fan Control Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258362531
+Fan Control Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258362532
+Injector Solenoid Driver Cylinder 1 Ckt - Current Below Normal/Open Ckt (Qsk19Eng2)	1258362565
+Injector Solenoid Driver Cylinder 2 Ckt - Current Below Normal/Open Ckt (Qsk19Eng2)	1258362597
+Injector Solenoid Driver Cylinder 3 Ckt - Current Below Normal/Open Ckt (Qsk19Eng2)	1258362629
+Injector Solenoid Driver Cylinder 4 Ckt - Current Below Normal/Open Ckt (Qsk19Eng2)	1258362661
+Injector Solenoid Driver Cylinder 5 Ckt - Current Below Normal/Open Ckt (Qsk19Eng2)	1258362693
+Injector Solenoid Driver Cylinder 6 Ckt - Current Below Normal/Open Ckt (Qsk19Eng2)	1258362725
+Auxiliary Pwm Driver 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258363075
+Auxiliary Pwm Driver 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258363076
+Auxiliary Input/Output 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258363107
+Auxiliary Input/Output 3 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258363139
+Eng Camshaft Speed/Pos Sensor-Data Erratic Intermittent Or Incorrect (Qsk19Eng2)	1258363170
+Eng Speed/Pos Camshaft And Crankshaft Misalignment - Mechanical System Not Responding (Qsk19Eng2)	1258363175
+Engine Camshaft Speed/Position Sensor - Abnormal Rate Of Change (Qsk19Eng2)	1258363178
+Remote Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258363203
+Remote Accel Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258363204
+Sae J1939 Multiplexing Remote Accelerator Pedal - Received Network Data In Error (Qsk19Eng2)	1258363219
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258363235
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258363236
+Sae J1939 Data Link 2 Engine Network - Special Instructions (Qsk19Eng2)	1258363950
+Sae J1939 Data Link 2 Engine Network No Data Received - Condition Exists (Qsk19Eng2)	1258363967
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258363971
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258363972
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258364515
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258364516
+Multiple Unit Synchronization Switch - Data Erratic/Intermittent/Incorrect (Qsk19Eng2)	1258364546
+Eng Oil Change Interval - Condition Exists (Qsk19Eng2)	1258364607
+Eng Oil Level Remote Reservoir - Data Validbelow Normal - Moderately Severe Level (Qsk19Eng2)	1258364626
+Eng Shut Down Hot - Condition Exists (Qsk19Eng2)	1258364671
+Sae J1939 Eng Commanded Shutdown - Condition Exists (Qsk19Eng2)	1258364703
+Auxiliary Press Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258364707
+Auxiliary Press Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258364708
+Auxiliary Press Sensor Input 1 - Special Instructions (Qsk19Eng2)	1258364718
+Control Module Identification Input State Error - Special Instructions (Qsk19Eng2)	1258364782
+Sensor Supply 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258364803
+Sensor Supply 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258364804
+Sensor Supply 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258364835
+Sensor Supply 2 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258364836
+Sensor Supply 3 Ckt - Volt Above Normal/Shorted to High Src (Qsk19Eng2)	1258364867
+Sensor Supply 3 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258364868
+Sensor Supply 4 Ckt - Volt Abv Normal/Shorted To High Src (Qsk19Eng2)	1258364899
+Sensor Supply 4 Ckt - Volt Below Normal/Shorted To Low Src (Qsk19Eng2)	1258364900
+Exhaust Gas Temp Bank Imbal - Data Valid But Abv Normal Oper Range - Most Severe Level (Qsk19Eng2)	1258364960
+Exhaust Gas Temp Bank Imbal-Data Valid But Abv Normal Operating Range-Moder Severe Level (Qsk19Eng2)	1258364976
+Eng Intake Manifold Press Bank Imbal-Data Valid But Abv Normal Range-Most Severe Level (Qsk19Eng2)	1258364992
+Eng Intake Manifold Press Bank Imbal-Data Valid But Abv Normal Range-Moder Severe Lvl (Qsk19Eng2)	1258365008
+Water In Fuel Indicator 2 - Data Valid But Above Normal Oper Range - Most Severe Level (Qsk19Eng2)	1258365024
+Water in Fuel Indicator 2 Sensor Circuit - Volt Above Normal/Shorted to High Source (Qsk19Eng2)	1258365027
+Water in Fuel Indicator 2 Sensor Circuit - Volt Below Normal/Shorted to Low Source (Qsk19Eng2)	1258365028
+Water In Fuel Indicator 2 - Data Valid But Above Normal Oper Range - Least Severe Level (Qsk19Eng2)	1258365039
+Water In Fuel Indicator 2 - Data Valid But Above Normal Range - Moderately Severe Level (Qsk19Eng2)	1258365040
+Transmission Oil Temp - Data Valid But Above Norm Oper Range - Moder Severe Level (Qsk19Eng2)	1258365136
+External Speed Command Input (Multiple Unit Syn) - Data Erratic Intermittent Incorrect (Qsk19Eng2)	1258365154
+Power Lost With Ignition On - Data Erratic Intermittent or Incorrect (Qsk19Eng2)	1258365250
+Injector Power Supply - Bad Intelligent Device or Component (Qsk19Eng2)	1258365260
+Engine Air Shutoff - Mechanical System Not Responding or Out of Adjustment (Qsk19Eng2)	1258365287
+Generator Speed/ Load Governing Bias Circuit - Voltage Above Norm/Shorted to High Source (Qsk19Eng2)	1258365315
+Generator Speed/ Load Governing Bias Circuit - Volt Below Normal/Shorted to Low Source (Qsk19Eng2)	1258365316
+Generator Output Freq Adjust Potentio Circuit - Volt Above Norm/Short to High Source (Qsk19Eng2)	1258365347
+Droop Adjust Potentiometer Circuit - Voltage Above Normal or Shorted to High Source (Qsk19Eng2)	1258365379
+Overspeed Shutdown Relay Driver Diagnostic has detected an error - Condition Exists (Qsk19Eng2)	1258365439
+Low Oil Pressure (LOP) Shutdown Relay Driver Diag detected an error - Condition Exists (Qsk19Eng2)	1258365471
+High Engine Temp (HET) Shutdown Relay Driver Diag detected an error - Condition Exists (Qsk19Eng2)	1258365503
+Pre-Low Oil Pressure Warning Relay Driver Diag detected an error - Condition Exists (Qsk19Eng2)	1258365535
+Pre-High Engine Temp Warning Relay Driver Diag detected an error - Condition Exists (Qsk19Eng2)	1258365567
+Injector Metering Rail 1 Press - Data Valid Abv Normal Oper Range - Moder Severe Level (Qsk19Eng2)	1258366176
+Eng Control Module Critical Internal Failure - Bad Intelligent Device Or Component (Qsk19Eng2)	1258366177
+Fuel Pump Delivery Pressure - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk19Eng2)	1258366181
+Engine Control Module Critical Internal Failure - Bad Intelligent Device or Component (Qsk19Eng2)	1258366182
+At Least One Unacknowledged Moderately Severe Fault - Condition Exists (Qsk19Eng2)	1258366183
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366371
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366372
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Abnormal Frequency Pulsewidth/Period (Qsk38)	1258366376
+Sae J1939 Multiplexed Accelerator Pedal - Received Network Data In Error (Qsk38)	1258366387
+Eng Fuel Delivery Press - Data Valid But Above Normal Oper Range - Most Severe Level (Qsk38)	1258366400
+Fuel Delivery Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366403
+Fuel Delivery Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366404
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Moderately Severe Level (Qsk38)	1258366415
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Most Severe Level (Qsk38)	1258366416
+Fuel Pump Delivery Press-Data Valid Below Normal Operational Range - Least Severe Level (Qsk38)	1258366417
+Fuel Pump Delivery Press-Data Valid Below Normal Oper Range - Moderately Severe Level (Qsk38)	1258366418
+Water In Fuel Indicator - Data Valid Above Normal Oper Range - Most Severe Level (Qsk38)	1258366432
+Water In Fuel Indicator Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366435
+Water In Fuel Indicator Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366436
+Water In Fuel Indicator - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk38)	1258366447
+Water In Fuel Indicator - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38)	1258366448
+Eng Oil Filter Press - Data Valid Abv Normal Oper Range - Most Severe Level (Qsk38)	1258366464
+Eng Oil Filter Press - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk38)	1258366480
+Eng Oil Rifle Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk38)	1258366497
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366499
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366500
+Eng Oil Rifle Press - Data Valid Below Normal Operational Range - Moderately Severe Level (Qsk38)	1258366514
+Crankcase Press - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk38)	1258366528
+Crankcase Press Ckt - Volt Abv Normal Or Shorted To High Src (Qsk38)	1258366531
+Crankcase Press Ckt - Volt Below Normal Or Shorted To Low Src (Qsk38)	1258366532
+Crankcase Press - Data Valid Abv Normal Operating Range - Moderately Severe Level (Qsk38)	1258366544
+Intake Manifold 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366563
+Intake Manifold 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366564
+Intake Manifold 1 Press - Data Valid Below Normal Operational Range - Least Severe Level (Qsk38)	1258366577
+Turbocharger 1 Speed - Data Erratic/Intermittent/Incorrect (Qsk38)	1258366594
+Turbocharger 1 Speed - Data Valid But Above Normal Operating Range - Moderately Severe Level (Qsk38)	1258366608
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk38)	1258366624
+Intake Manifold 1 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366627
+Intake Manifold 1 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366628
+Intake Manifold 1 Temp - Abnormal Rate Of Change (Qsk38)	1258366634
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk38)	1258366639
+Intake Manifold 1 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38)	1258366640
+Barometric Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366659
+Barometric Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366660
+Cool Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk38)	1258366689
+Cool Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366691
+Cool Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366692
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk38)	1258366720
+Eng Cool Temp 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366723
+Eng Cool Temp 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366724
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk38)	1258366735
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk38)	1258366736
+Cool Level - Data Validbelow Normal Operational Range - Most Severe Level (Qsk38)	1258366753
+Cool Level Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366755
+Cool Level Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366756
+Cool Level - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk38)	1258366770
+Injector Metering Rail 1 Press - Data Valid Abv Normal Oper Range - Most Severe Level (Qsk38)	1258366784
+Injector Metering Rail 1 Press - Data Below Normal Oper Range - Most Severe Level (Qsk38)	1258366785
+Injector Metering Rail 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366787
+Injector Metering Rail 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366788
+Injector Metering Rail 1 Press-Data Valid Below Normal Oper Range - Moder Severe Level (Qsk38)	1258366802
+Battery 1 Volt - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk38)	1258366832
+Battery 1 Volt - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk38)	1258366834
+Eng Fuel Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38)	1258366848
+Eng Fuel Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366851
+Eng Fuel Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366852
+Eng Fuel Temp - Data Valid Above Normal Operational Range - Moderately Severe Level (Qsk38)	1258366864
+Eng Oil Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38)	1258366880
+Eng Oil Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258366883
+Eng Oil Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258366884
+Eng Oil Temp - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk38)	1258366896
+Eng Crankshaft Speed/Pos - Data Validabv Normal Operational Range - Most Severe Level (Qsk38)	1258366912
+Engine Crankshaft Speed/Position - Data Erratic Intermittent Or Incorrect (Qsk38)	1258366914
+Engine Speed Crank Sync - Abnormal Rate Of Change (Qsk38)	1258366922
+Engine Crankshaft Speed/Position - Data Valid Above Norm Oper Range - Moder Severe Level (Qsk38)	1258366928
+Transmission Output Shaft Speed-Data Valid Abv Normal Oper Range - Moder Severe Level (Qsk38)	1258366960
+Transmission Output Shaft Speed-Data Valid Below Normal Oper Range - Moder Severe Level (Qsk38)	1258366962
+Real Time Clock Power Interrupt - Data Erratic/Intermittent/Incorrect (Qsk38)	1258366978
+Auxiliary Temp Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258367011
+Auxiliary Temp Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258367012
+Auxiliary Temp Sensor Input 1 - Special Instructions (Qsk38)	1258367022
+Accelerator Pedal Or Lever Idle Validation Switch - Data Erratic/Intermittent/Incorrect (Qsk38)	1258367042
+Accelerator Pedal Or Lever Idle Validation Ckt - Out Of Calibration (Qsk38)	1258367053
+Eng Magnetic Speed/Pos Lost Both Of Two Signals - Data Erratic/Intermittent/Incorrect (Qsk38)	1258367074
+Start Enable Device 1 Ckt (Ether Injection) - Root Cause Not Known (Qsk38)	1258367115
+Start Enable Dev 1(Ether Injection)-Data Valid Blw Normal Oper Range-Least Severe Level (Qsk38)	1258367121
+Power Lost With Ignition On - Data Erratic/Intermittent/Incorrect (Qsk38)	1258367138
+Injector Power Supply - Bad Intelligent Device Or Component (Qsk38)	1258367148
+Eng Control Module Warning Internal Hardware Failure - Bad Intelligent Device Or Comp (Qsk38)	1258367180
+At Least One Unacknowledged Most Severe Fault - Condition Exists (Qsk38)	1258367199
+Electronic Calibration Code Incompatibilty - Out Of Calibration (Qsk38)	1258367213
+Electronic Fuel Injection Control Valve Ckt - Condition Exists (Qsk38)	1258367263
+J1939 Network #1 - Data Erratic Intermittent or Incorrect (Qsk38)	1258367266
+Sae J1939 Multiplexing Pgn Timeout Error - Abnormal Update Rate (Qsk38)	1258367273
+Sae J1939 Multiplexing Configuration Error - Out Of Calibration (Qsk38)	1258367277
+Auxiliary Commanded Dual Output Shutdown - Special Instructions (Qsk38)	1258367310
+Fan Control Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258367331
+Fan Control Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258367332
+Injector Solenoid Driver Cylinder 1 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367365
+Injector Solenoid Driver Cylinder 2 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367397
+Injector Solenoid Driver Cylinder 3 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367429
+Injector Solenoid Driver Cylinder 4 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367461
+Injector Solenoid Driver Cylinder 5 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367493
+Injector Solenoid Driver Cylinder 6 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367525
+Injector Solenoid Driver Cylinder 7 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367557
+Injector Solenoid Driver Cylinder 8 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367589
+Injector Solenoid Driver Cylinder 9 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367621
+Injector Solenoid Driver Cylinder 10 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367653
+Injector Solenoid Driver Cylinder 11 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367685
+Injector Solenoid Driver Cylinder 12 Ckt - Current Below Normal/Open Ckt (Qsk38)	1258367717
+Auxiliary Pwm Driver 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258367875
+Auxiliary Pwm Driver 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258367876
+Auxiliary Input/Output 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258367907
+Auxiliary Input/Output 3 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258367939
+Engine Camshaft Speed / Position Sensor - Data Erratic Intermittent Or Incorrect (Qsk38)	1258367970
+Eng Speed/Pos Camshaft And Crankshaft Misalignment - Mechanical System Not Responding (Qsk38)	1258367975
+Engine Camshaft Speed/Position Sensor-Abnormal Rate Of Change (Qsk38)	1258367978
+Remote Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258368003
+Remote Accel Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258368004
+Sae J1939 Multiplexing Remote Accelerator Pedal - Received Network Data In Error (Qsk38)	1258368019
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258368035
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258368036
+Intake Manifold 2 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258368067
+Intake Manifold 2 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258368068
+Intake Manifold 2 Press - Data Validbelow Normal Operational Range - Least Severe Level (Qsk38)	1258368081
+Intake Manifold 2 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38)	1258368096
+Intake Manifold 2 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258368099
+Intake Manifold 2 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258368100
+Intake Manifold 2 Temp - Abnormal Rate Of Change (Qsk38)	1258368106
+Intake Manifold 2 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38)	1258368112
+Intake Manifold 3 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38)	1258368128
+Intake Manifold 3 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258368131
+Intake Manifold 3 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258368132
+Intake Manifold 3 Temp - Abnormal Rate Of Change (Qsk38)	1258368138
+Intake Manifold 3 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38)	1258368144
+Intake Manifold 4 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38)	1258368160
+Intake Manifold 4 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258368163
+Intake Manifold 4 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258368164
+Intake Manifold 4 Temp - Abnormal Rate Of Change (Qsk38)	1258368170
+Intake Manifold 4 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38)	1258368176
+Pre-Oil Filter Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258368707
+Pre-Oil Filter Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258368708
+Sae J1939 Data Link 2 Eng Network - Abnormal Update Rate (Qsk38)	1258368745
+Sae J1939 Data Link 2 Engine Network - Special Instructions (Qsk38)	1258368750
+Sae J1939 Data Link 2 Engine Network No Data Received - Condition Exists (Qsk38)	1258368767
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258368771
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258368772
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258369315
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258369316
+Multiple Unit Synchronization Switch - Data Erratic/Intermittent/Incorrect (Qsk38)	1258369346
+Eng Oil Change Interval - Condition Exists (Qsk38)	1258369407
+Eng Oil Level Remote Reservoir - Data Validbelow Normal - Moderately Severe Level (Qsk38)	1258369426
+Eng Shut Down Hot - Condition Exists (Qsk38)	1258369471
+Sae J1939 Eng Commanded Shutdown - Condition Exists (Qsk38)	1258369503
+Auxiliary Press Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258369507
+Auxiliary Press Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258369508
+Auxiliary Press Sensor Input 1 - Special Instructions (Qsk38)	1258369518
+At Least One Module Has A Most Severe Fault - Condition Exists (Qsk38)	1258369567
+Control Module Id Input State Error-Data Erratic/Inter/Incorrect-Moder Severe Level (Qsk38)	1258369570
+Control Module Identification Input State Error - Special Instructions (Qsk38)	1258369582
+Sensor Supply 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258369603
+Sensor Supply 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258369604
+Sensor Supply 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258369635
+Sensor Supply 2 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258369636
+Sensor Supply 3 Ckt - Volt Above Normal/Shorted to High Src (Qsk38)	1258369667
+Sensor Supply 3 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258369668
+Sensor Supply 4 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38)	1258369699
+Sensor Supply 4 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38)	1258369700
+Exhaust Gas Temp Bank Imbal-Data Valid Above Normal Operating Range-Most Severe Level (Qsk38)	1258369760
+Exhaust Gas Temp Bank Imbal-Data Valid Above Normal Oper Range-Moderately Severe Level (Qsk38)	1258369776
+Eng Intake Mani Press Bank Imbal-Data Valid Above Normal Oper Range-Most Severe Level (Qsk38)	1258369792
+Eng Intake Mani Press Bank Imbal-Data Valid Above Normal Oper Range-Moder Severe Level (Qsk38)	1258369808
+Water In Fuel Indicator 2 - Data Valid But Above Normal Oper Range - Most Severe Level (Qsk38)	1258369824
+Water in Fuel Indicator 2 Sensor Circuit - Volt Above Normal/Shorted to High Source (Qsk38)	1258369827
+Water in Fuel Indicator 2 Sensor Circuit - Volt Below Normal/Shorted to Low Source (Qsk38)	1258369828
+Water In Fuel Indicator 2 - Data Valid But Above Normal Oper Range - Least Severe Level (Qsk38)	1258369839
+Water In Fuel Indicator 2-Data Valid Above Normal Oper Range-Moderately Severe Level (Qsk38)	1258369840
+Exhaust Gas Temperature - Data Valid but Above Normal Operational Range - Most Severe Level (Qsk38)	1258369888
+Engine Exhaust Gas Temperature - Data Erratic Intermittent or Incorrect (Qsk38)	1258369890
+Exhaust Gas Temperature Sensor 1 Circuit - Voltage Above Normal or Shorted to High Source (Qsk38)	1258369891
+Exhaust Gas Temperature Sensor 1 Circuit - Voltage Below Normal or Shorted to Low Source (Qsk38)	1258369892
+Exhaust Gas Temperature - Data Valid but Above Norm Oper Range - Moderately Severe Level (Qsk38)	1258369904
+Transmission Oil Temp - Data Valid But Above Norm Oper Range - Most Severe Level (Qsk38)	1258369920
+Transmission Oil Temp - Data Valid But Above Norm Oper Range - Moderately Severe Level (Qsk38)	1258369936
+External Speed Command Input (Multiple Unit Sync) - Data Erratic Intermittent or Incorrect (Qsk38)	1258369954
+Engine EGT - Right Manifold - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk38)	1258369984
+Engine Exhaust Manifold Bank 2 Temperature 1 - Data Erratic Intermittent or Incorrect (Qsk38)	1258369986
+Engine EGT - Right Manifold Sensor Circuit - Voltage Above Normal or Shorted to High Source (Qsk38)	1258369987
+Engine EGT - Right Manifold Sensor Circuit - Voltage Below Normal or Shorted to Low Source (Qsk38)	1258369988
+Engine EGT - Right Manifold - Data Valid but Above Norm Oper Range - Moderately Severe Level (Qsk38)	1258370000
+Engine EGT - Left Manifold - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk38)	1258370016
+Engine Exhaust Manifold Bank 1 Temperature 1 - Data Erratic Intermittent or Incorrect (Qsk38)	1258370018
+Engine EGT - Left Manifold Sensor Circuit - Voltage Above Normal or Shorted to High Source (Qsk38)	1258370019
+Engine EGT - Left Manifold Sensor Circuit - Voltage Below Normal or Shorted to Low Source (Qsk38)	1258370020
+Engine EGT - Left Manifold - Data Valid but Above Norm Oper Range - Moderately Severe Level (Qsk38)	1258370032
+Power Lost With Ignition On - Data Erratic Intermittent or Incorrect (Qsk38)	1258370050
+Injector Power Supply - Bad Intelligent Device or Component (Qsk38)	1258370060
+Engine Air Shutoff - Mechanical System Not Responding or Out of Adjustment (Qsk38)	1258370087
+Generator Speed/ Load Governing Bias Circuit - Volt Above Normal or Shorted to High Source (Qsk38)	1258370115
+Generator Speed/ Load Governing Bias Circuit - Voltage Below Normal or Shorted to Low Source (Qsk38)	1258370116
+Generator Output Freq Adjust Potentiometer Circuit - Volt Above Norm/Shorted to High Source (Qsk38)	1258370147
+Droop Adjust Potentiometer Circuit - Voltage Above Normal or Shorted to High Source (Qsk38)	1258370179
+Overspeed Shutdown Relay Driver Diagnostic has detected an error - Condition Exists (Qsk38)	1258370239
+Low Oil Pressure (LOP) Shutdown Relay Driver Diag detected an error - Condition Exists (Qsk38)	1258370271
+High Engine Temp (HET) Shutdown Relay Driver Diag detected an error - Condition Exists (Qsk38)	1258370303
+Pre-Low Oil Pressure Warning Relay Driver Diag detected an error - Condition Exists (Qsk38)	1258370335
+Pre-High Engine Temperature Warning Relay Driver Diag detected an error - Condition Exists (Qsk38)	1258370367
+Fuel Pump Oil Pressure Sensor Circuit - Voltage Below Normal or Shorted to Low Source (Qsk38)	1258370372
+Engine Fuel Pump Oil Pressure - Data Valid but Below Norm Oper Range - Moder Severe Level (Qsk38)	1258370386
+Marine Low Load Protection - Condition Exists (Qsk38)	1258370431
+Marine Overload Protection - Special Instructions (Qsk38)	1258370446
+Marine Overload Protection - Condition Exists (Qsk38)	1258370463
+Electronic Chip Detector Sensor - Data Valid but Below Norm Oper Range - Most Severe Level (Qsk38)	1258370465
+Electronic Chip Detector Sensor - Data Valid but Below Norm Oper Range - Moder Severe Level (Qsk38)	1258370482
+Injector Metering Rail 1 Press - Data Valid Abv Normal Oper Range - Moder Severe Level (Qsk38)	1258370976
+Eng Control Module Critical Internal Failure - Bad Intelligent Device Or Component (Qsk38)	1258370977
+At Least One Module Has A Moderately Severe Fault - Condition Exists (Qsk38)	1258370978
+At Least One Module Has A Least Severe Fault - Condition Exists (Qsk38)	1258370979
+Control Module Id Input State Error-Data Erratic/Inter/Incorrect-Most Severe Level (Qsk38)	1258370980
+Fuel Pump Delivery Pressure - Data Valid but Above Norm Operating Range - Most Severe Level (Qsk38)	1258370981
+Engine Control Module Critical Internal Failure - Bad Intelligent Device or Component (Qsk38)	1258370982
+At Least One Unacknowledged Moderately Severe Fault - Condition Exists (Qsk38)	1258370983
+SAE J1939 Data Link 2 Engine Network - Abnormal update rate (Qsk38)	1258370984
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371171
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371172
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Abnormal Frequency Pulsewidth/Period (Qsk38Eng2)	1258371176
+Sae J1939 Multiplexed Accelerator Pedal - Received Network Data In Error (Qsk38Eng2)	1258371187
+Eng Fuel Delivery Press - Data Valid But Above Normal Oper Range - Most Severe Level (Qsk38Eng2)	1258371200
+Fuel Delivery Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371203
+Fuel Delivery Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371204
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Moderately Severe Level (Qsk38Eng2)	1258371215
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Most Severe Level (Qsk38Eng2)	1258371216
+Fuel Pump Delivery Press-Data Valid Below Normal Operational Range - Least Severe Level (Qsk38Eng2)	1258371217
+Fuel Pump Delivery Press-Data Valid Below Normal Oper Range - Moderately Severe Level (Qsk38Eng2)	1258371218
+Water In Fuel Indicator - Data Valid Above Normal Oper Range - Most Severe Level (Qsk38Eng2)	1258371232
+Water In Fuel Indicator Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371235
+Water In Fuel Indicator Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371236
+Water In Fuel Indicator - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk38Eng2)	1258371247
+Water In Fuel Indicator - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38Eng2)	1258371248
+Eng Oil Filter Press - Data Valid Abv Normal Oper Range - Most Severe Level (Qsk38Eng2)	1258371264
+Eng Oil Filter Press - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk38Eng2)	1258371280
+Eng Oil Rifle Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258371297
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371299
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371300
+Eng Oil Rifle Press - Data Valid Below Norm Operational Range - Moderately Severe Level (Qsk38Eng2)	1258371314
+Crankcase Press - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258371328
+Crankcase Press Ckt - Volt Abv Normal Or Shorted To High Src (Qsk38Eng2)	1258371331
+Crankcase Press Ckt - Volt Below Normal Or Shorted To Low Src (Qsk38Eng2)	1258371332
+Crankcase Press - Data Valid Abv Normal Operating Range - Moderately Severe Level (Qsk38Eng2)	1258371344
+Intake Manifold 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371363
+Intake Manifold 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371364
+Intake Manifold 1 Press - Data Valid Below Normal Operational Range - Least Severe Level (Qsk38Eng2)	1258371377
+Turbocharger 1 Speed - Data Erratic/Intermittent/Incorrect (Qsk38Eng2)	1258371394
+Turbocharger 1 Speed - Data Valid But Above Norm Oper Range - Moderately Severe Level (Qsk38Eng2)	1258371408
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258371424
+Intake Manifold 1 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371427
+Intake Manifold 1 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371428
+Intake Manifold 1 Temp - Abnormal Rate Of Change (Qsk38Eng2)	1258371434
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk38Eng2)	1258371439
+Intake Manifold 1 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38Eng2)	1258371440
+Barometric Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371459
+Barometric Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371460
+Cool Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258371489
+Cool Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371491
+Cool Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371492
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258371520
+Eng Cool Temp 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371523
+Eng Cool Temp 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371524
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk38Eng2)	1258371535
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk38Eng2)	1258371536
+Cool Level - Data Validbelow Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258371553
+Cool Level Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371555
+Cool Level Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371556
+Cool Level - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk38Eng2)	1258371570
+Injector Metering Rail 1 Press - Data Valid Abv Normal Oper Range - Most Severe Level (Qsk38Eng2)	1258371584
+Injector Metering Rail 1 Press - Data Below Normal Oper Range - Most Severe Level (Qsk38Eng2)	1258371585
+Injector Metering Rail 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371587
+Injector Metering Rail 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371588
+Injector Metering Rail 1 Press-Data Valid Below Normal Oper Range - Moder Severe Level (Qsk38Eng2)	1258371602
+Battery 1 Volt - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk38Eng2)	1258371632
+Battery 1 Volt - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk38Eng2)	1258371634
+Eng Fuel Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258371648
+Eng Fuel Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371651
+Eng Fuel Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371652
+Eng Fuel Temp - Data Valid Above Normal Operational Range - Moderately Severe Level (Qsk38Eng2)	1258371664
+Eng Oil Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258371680
+Eng Oil Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371683
+Eng Oil Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371684
+Eng Oil Temp - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk38Eng2)	1258371696
+Eng Crankshaft Speed/Pos - Data Validabv Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258371712
+Engine Crankshaft Speed/Position - Data Erratic Intermittent Or Incorrect (Qsk38Eng2)	1258371714
+Engine Speed Crank Sync - Abnormal Rate Of Change (Qsk38Eng2)	1258371722
+Engine Crankshaft Speed/Position - Data Valid Above Norm Oper Range - Moder Severe Level (Qsk38Eng2)	1258371728
+Transmission Output Shaft Speed-Data Valid Abv Normal Oper Range - Moder Severe Level (Qsk38Eng2)	1258371760
+Transmission Output Shaft Speed-Data Valid Below Normal Oper Range - Moder Severe Level (Qsk38Eng2)	1258371762
+Real Time Clock Power Interrupt - Data Erratic/Intermittent/Incorrect (Qsk38Eng2)	1258371778
+Auxiliary Temp Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258371811
+Auxiliary Temp Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258371812
+Auxiliary Temp Sensor Input 1 - Special Instructions (Qsk38Eng2)	1258371822
+Accelerator Pedal Or Lever Idle Validation Switch - Data Erratic/Intermittent/Incorrect (Qsk38Eng2)	1258371842
+Accelerator Pedal Or Lever Idle Validation Ckt - Out Of Calibration (Qsk38Eng2)	1258371853
+Eng Magnetic Speed/Pos Lost Both Of Two Signals - Data Erratic/Intermittent/Incorrect (Qsk38Eng2)	1258371874
+Start Enable Device 1 Ckt (Ether Injection) - Root Cause Not Known (Qsk38Eng2)	1258371915
+Start Enable Dev 1(Ether Injection)-Data Valid Blw Normal Oper Range-Least Severe Level (Qsk38Eng2)	1258371921
+Power Lost With Ignition On - Data Erratic/Intermittent/Incorrect (Qsk38Eng2)	1258371938
+Injector Power Supply - Bad Intelligent Device Or Component (Qsk38Eng2)	1258371948
+Eng Control Module Warning Internal Hardware Failure - Bad Intelligent Device Or Comp (Qsk38Eng2)	1258371980
+At Least One Unacknowledged Most Severe Fault - Condition Exists (Qsk38Eng2)	1258371999
+Electronic Calibration Code Incompatibilty - Out Of Calibration (Qsk38Eng2)	1258372013
+Electronic Fuel Injection Control Valve Ckt - Condition Exists (Qsk38Eng2)	1258372063
+J1939 Network #1 - Data Erratic Intermittent or Incorrect (Qsk38Eng2)	1258372066
+Sae J1939 Multiplexing Pgn Timeout Error - Abnormal Update Rate (Qsk38Eng2)	1258372073
+Sae J1939 Multiplexing Configuration Error - Out Of Calibration (Qsk38Eng2)	1258372077
+Auxiliary Commanded Dual Output Shutdown - Special Instructions (Qsk38Eng2)	1258372110
+Fan Control Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372131
+Fan Control Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258372132
+Injector Solenoid Driver Cylinder 1 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372165
+Injector Solenoid Driver Cylinder 2 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372197
+Injector Solenoid Driver Cylinder 3 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372229
+Injector Solenoid Driver Cylinder 4 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372261
+Injector Solenoid Driver Cylinder 5 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372293
+Injector Solenoid Driver Cylinder 6 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372325
+Injector Solenoid Driver Cylinder 7 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372357
+Injector Solenoid Driver Cylinder 8 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372389
+Injector Solenoid Driver Cylinder 9 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372421
+Injector Solenoid Driver Cylinder 10 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372453
+Injector Solenoid Driver Cylinder 11 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372485
+Injector Solenoid Driver Cylinder 12 Ckt - Current Below Normal/Open Ckt (Qsk38Eng2)	1258372517
+Auxiliary Pwm Driver 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372675
+Auxiliary Pwm Driver 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258372676
+Auxiliary Input/Output 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372707
+Auxiliary Input/Output 3 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372739
+Engine Camshaft Speed / Position Sensor - Data Erratic Intermittent Or Incorrect (Qsk38Eng2)	1258372770
+Eng Speed/Pos Camshaft And Crankshaft Misalignment - Mechanical System Not Responding (Qsk38Eng2)	1258372775
+Engine Camshaft Speed/Position Sensor-Abnormal Rate Of Change (Qsk38Eng2)	1258372778
+Remote Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372803
+Remote Accel Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258372804
+Sae J1939 Multiplexing Remote Accelerator Pedal - Received Network Data In Error (Qsk38Eng2)	1258372819
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372835
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258372836
+Intake Manifold 2 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372867
+Intake Manifold 2 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258372868
+Intake Manifold 2 Press - Data Validbelow Normal Operational Range - Least Severe Level (Qsk38Eng2)	1258372881
+Intake Manifold 2 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258372896
+Intake Manifold 2 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372899
+Intake Manifold 2 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258372900
+Intake Manifold 2 Temp - Abnormal Rate Of Change (Qsk38Eng2)	1258372906
+Intake Manifold 2 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38Eng2)	1258372912
+Intake Manifold 3 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258372928
+Intake Manifold 3 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372931
+Intake Manifold 3 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258372932
+Intake Manifold 3 Temp - Abnormal Rate Of Change (Qsk38Eng2)	1258372938
+Intake Manifold 3 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38Eng2)	1258372944
+Intake Manifold 4 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk38Eng2)	1258372960
+Intake Manifold 4 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258372963
+Intake Manifold 4 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258372964
+Intake Manifold 4 Temp - Abnormal Rate Of Change (Qsk38Eng2)	1258372970
+Intake Manifold 4 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk38Eng2)	1258372976
+Pre-Oil Filter Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258373507
+Pre-Oil Filter Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258373508
+Sae J1939 Data Link 2 Eng Network - Abnormal Update Rate (Qsk38Eng2)	1258373545
+Sae J1939 Data Link 2 Engine Network - Special Instructions (Qsk38Eng2)	1258373550
+Sae J1939 Data Link 2 Engine Network No Data Received - Condition Exists (Qsk38Eng2)	1258373567
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258373571
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258373572
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258374115
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258374116
+Multiple Unit Synchronization Switch - Data Erratic/Intermittent/Incorrect (Qsk38Eng2)	1258374146
+Eng Oil Change Interval - Condition Exists (Qsk38Eng2)	1258374207
+Eng Oil Level Remote Reservoir - Data Validbelow Normal - Moderately Severe Level (Qsk38Eng2)	1258374226
+Eng Shut Down Hot - Condition Exists (Qsk38Eng2)	1258374271
+Sae J1939 Eng Commanded Shutdown - Condition Exists (Qsk38Eng2)	1258374303
+Auxiliary Press Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258374307
+Auxiliary Press Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258374308
+Auxiliary Press Sensor Input 1 - Special Instructions (Qsk38Eng2)	1258374318
+At Least One Module Has A Most Severe Fault - Condition Exists (Qsk38Eng2)	1258374367
+Control Module Id Input State Error-Data Erratic/Inter/Incorrect-Moder Severe Level (Qsk38Eng2)	1258374370
+Control Module Identification Input State Error - Special Instructions (Qsk38Eng2)	1258374382
+Sensor Supply 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258374403
+Sensor Supply 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258374404
+Sensor Supply 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258374435
+Sensor Supply 2 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258374436
+Sensor Supply 3 Ckt - Volt Above Normal/Shorted to High Src (Qsk38Eng2)	1258374467
+Sensor Supply 3 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258374468
+Sensor Supply 4 Ckt - Volt Abv Normal/Shorted To High Src (Qsk38Eng2)	1258374499
+Sensor Supply 4 Ckt - Volt Below Normal/Shorted To Low Src (Qsk38Eng2)	1258374500
+Exhaust Gas Temp Bank Imbal-Data Valid Above Normal Operating Range-Most Severe Level (Qsk38Eng2)	1258374560
+Exhaust Gas Temp Bank Imbal-Data Valid Above Normal Oper Range-Moderately Severe Level (Qsk38Eng2)	1258374576
+Eng Intake Mani Press Bank Imbal-Data Valid Above Normal Oper Range-Most Severe Level (Qsk38Eng2)	1258374592
+Eng Intake Mani Press Bank Imbal-Data Valid Above Normal Oper Range-Moder Severe Level (Qsk38Eng2)	1258374608
+Water In Fuel Indicator 2 - Data Valid But Above Normal Oper Range - Most Severe Level (Qsk38Eng2)	1258374624
+Water in Fuel Indicator 2 Sensor Circuit - Volt Above Normal/Shorted to High Source (Qsk38Eng2)	1258374627
+Water in Fuel Indicator 2 Sensor Circuit - Volt Below Normal/Shorted to Low Source (Qsk38Eng2)	1258374628
+Water In Fuel Indicator 2 - Data Valid But Above Normal Oper Range - Least Severe Level (Qsk38Eng2)	1258374639
+Water In Fuel Indicator 2-Data Valid Above Normal Oper Range-Moderately Severe Level (Qsk38Eng2)	1258374640
+Exhaust Gas Temperature - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk38Eng2)	1258374688
+Engine Exhaust Gas Temperature - Data Erratic Intermittent or Incorrect (Qsk38Eng2)	1258374690
+Exhaust Gas Temperature Sensor 1 Circuit - Voltage Above Normal/Shorted to High Source (Qsk38Eng2)	1258374691
+Exhaust Gas Temperature Sensor 1 Circuit - Voltage Below Normal/Shorted to Low Source (Qsk38Eng2)	1258374692
+Exhaust Gas Temperature - Data Valid but Above Norm OperRange - Moderately Severe Level (Qsk38Eng2)	1258374704
+Transmission Oil Temp - Data Valid But Above Norm Oper Range - Most Severe Level (Qsk38Eng2)	1258374720
+Transmission Oil Temp - Data Valid But Above Norm Oper Range - Moderately Severe Level (Qsk38Eng2)	1258374736
+External Speed Command Input (Multiple Unit Sync) - Data Erratic Intermittent Incorrect (Qsk38Eng2)	1258374754
+Engine EGT - Right Manifold - Data Valid but Above Norm Operl Range - Most Severe Level (Qsk38Eng2)	1258374784
+Engine Exhaust Manifold Bank 2 Temperature 1 - Data Erratic Intermittent or Incorrect (Qsk38Eng2)	1258374786
+Engine EGT - Right Manifold Sensor Circuit - Volt Above Norm or Shorted to High Source (Qsk38Eng2)	1258374787
+Engine EGT - Right Manifold Sensor Circuit - Volt Below Norm or Shorted to Low Source (Qsk38Eng2)	1258374788
+Engine EGT - Right Manifold - Data Valid but Above Norm Oper Range - Moder Severe Level (Qsk38Eng2)	1258374800
+Engine EGT - Left Manifold - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk38Eng2)	1258374816
+Engine Exhaust Manifold Bank 1 Temperature 1 - Data Erratic Intermittent or Incorrect (Qsk38Eng2)	1258374818
+Engine EGT - Left Manifold Sensor Circuit - Volt Above Normal or Shorted to High Source (Qsk38Eng2)	1258374819
+Engine EGT - Left Manifold Sensor Circuit - Volt Below Normal or Shorted to Low Source (Qsk38Eng2)	1258374820
+Engine EGT - Left Manifold - Data Valid but Above Norm Oper Range - Moder Severe Level (Qsk38Eng2)	1258374832
+Power Lost With Ignition On - Data Erratic Intermittent or Incorrect (Qsk38Eng2)	1258374850
+Injector Power Supply - Bad Intelligent Device or Component (Qsk38Eng2)	1258374860
+Engine Air Shutoff - Mechanical System Not Responding or Out of Adjustment (Qsk38Eng2)	1258374887
+Generator Speed/ Load Governing Bias Circuit - Volt Above Norm/Shorted to High Source (Qsk38Eng2)	1258374915
+Generator Speed/ Load Governing Bias Circuit - Volt Below Norm/Shorted to Low Source (Qsk38Eng2)	1258374916
+Generator Output Freq Adjust Potentio Circuit - Volt Above Norm/Shorted to High Source (Qsk38Eng2)	1258374947
+Droop Adjust Potentiometer Circuit - Voltage Above Normal or Shorted to High Source (Qsk38Eng2)	1258374979
+Overspeed Shutdown Relay Driver Diagnostic has detected an error - Condition Exists (Qsk38Eng2)	1258375039
+Low Oil Pressure (LOP) Shutdown Relay Driver Diag detected an error - Condition Exists (Qsk38Eng2)	1258375071
+High Engine Tempe (HET) Shutdown Relay Driver Diagdetected an error - Condition Exists (Qsk38Eng2)	1258375103
+Pre-Low Oil Pressure Warning Relay Driver Diag detected an error - Condition Exists (Qsk38Eng2)	1258375135
+Pre-High Engine Temp Warning Relay Driver Diag detected an error - Condition Exists (Qsk38Eng2)	1258375167
+Fuel Pump Oil Pressure Sensor Circuit - Voltage Below Normal or Shorted to Low Source (Qsk38Eng2)	1258375172
+Engine Fuel Pump Oil Pressure - Data Valid but Below Norm Oper Range - Moder Severe Lvl (Qsk38Eng2)	1258375186
+Marine Low Load Protection - Condition Exists (Qsk38Eng2)	1258375231
+Marine Overload Protection - Special Instructions (Qsk38Eng2)	1258375246
+Marine Overload Protection - Condition Exists (Qsk38Eng2)	1258375263
+Electronic Chip Detect Sensor - Data Valid but Below Norm Oper Range - Most Severe Lvl (Qsk38Eng2)	1258375265
+Electronic Chip Detect Sensor - Data Valid but Below Norm Oper Range - Moder Severe Lvl (Qsk38Eng2)	1258375282
+Injector Metering Rail 1 Press - Data Valid Abv Normal Oper Range - Moder Severe Level (Qsk38Eng2)	1258375776
+Eng Control Module Critical Internal Failure - Bad Intelligent Device Or Component (Qsk38Eng2)	1258375777
+At Least One Module Has A Moderately Severe Fault - Condition Exists (Qsk38Eng2)	1258375778
+At Least One Module Has A Least Severe Fault - Condition Exists (Qsk38Eng2)	1258375779
+Control Module Id Input State Error-Data Erratic/Inter/Incorrect-Most Severe Level (Qsk38Eng2)	1258375780
+Fuel Pump Delivery Pressure - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk38Eng2)	1258375781
+Engine Control Module Critical Internal Failure - Bad Intelligent Device or Component (Qsk38Eng2)	1258375782
+At Least One Unacknowledged Moderately Severe Fault - Condition Exists (Qsk38Eng2)	1258375783
+SAE J1939 Data Link 2 Engine Network - Abnormal update rate (Qsk38Eng2)	1258375784
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258375971
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258375972
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Abnormal Frequency Pulsewidth/Period (Qsk50_60)	1258375976
+Sae J1939 Multiplexed Accelerator Pedal - Received Network Data In Error (Qsk50_60)	1258375987
+Eng Fuel Delivery Press-Data Valid But Above Normal Oper Range - Most Severe Level (Qsk50_60)	1258376000
+Fuel Delivery Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376003
+Fuel Delivery Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376004
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Moderately Severe Level (Qsk50_60)	1258376015
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Most Severe Level (Qsk50_60)	1258376016
+Fuel Pump Delivery Press-Data Valid Below Normal Oper Range - Least Severe Level (Qsk50_60)	1258376017
+Fuel Pump Delivery Press-Data Valid Below Normal Oper Range - Moderately Severe Level (Qsk50_60)	1258376018
+Water In Fuel Indicator - Data Valid But Above Normal Oper Range - Most Severe Level (Qsk50_60)	1258376032
+Water In Fuel Indicator Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376035
+Water In Fuel Indicator Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376036
+Water In Fuel Indicator - Data Valid Abv Normal Oper Range - Least Severe Level (Qsk50_60)	1258376047
+Water In Fuel Indicator - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60)	1258376048
+Eng Oil Filter Press - Data Valid Abv Normal Oper Range - Most Severe Level (Qsk50_60)	1258376064
+Eng Oil Filter Press - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60)	1258376080
+Eng Oil Rifle Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk50_60)	1258376097
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376099
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376100
+Eng Oil Rifle Press - Data Valid Below Normal Operational Range - Moderately Severe Level (Qsk50_60)	1258376114
+Crankcase Press - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk50_60)	1258376128
+Crankcase Press Ckt - Volt Abv Normal Or Shorted To High Src (Qsk50_60)	1258376131
+Crankcase Press Ckt - Volt Below Normal Or Shorted To Low Src (Qsk50_60)	1258376132
+Crankcase Press - Data Valid Abv Normal Operating Range - Moderately Severe Level (Qsk50_60)	1258376144
+Intake Manifold 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376163
+Intake Manifold 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376164
+Intake Manifold 1 Press - Data Valid Below Normal Oper Range - Least Severe Level (Qsk50_60)	1258376177
+Turbocharger 1 Speed - Data Erratic/Intermittent/Incorrect (Qsk50_60)	1258376194
+Turbocharger 1 Speed - Data Valid But Above Norm Oper Range - Moderately Severe Level (Qsk50_60)	1258376208
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk50_60)	1258376224
+Intake Manifold 1 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376227
+Intake Manifold 1 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376228
+Intake Manifold 1 Temp - Abnormal Rate Of Change (Qsk50_60)	1258376234
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk50_60)	1258376239
+Intake Manifold 1 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60)	1258376240
+Barometric Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376259
+Barometric Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376260
+Cool Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk50_60)	1258376289
+Cool Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376291
+Cool Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376292
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk50_60)	1258376320
+Eng Cool Temp 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376323
+Eng Cool Temp 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376324
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk50_60)	1258376335
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk50_60)	1258376336
+Cool Level - Data Validbelow Normal Operational Range - Most Severe Level (Qsk50_60)	1258376353
+Cool Level Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376355
+Cool Level Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376356
+Cool Level - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk50_60)	1258376370
+Injector Metering Rail 1 Press - Data Above Normal Oper Range - Most Severe Level (Qsk50_60)	1258376384
+Injector Metering Rail 1 Press - Data Below Normal Oper Range - Most Severe Level (Qsk50_60)	1258376385
+Injector Metering Rail 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376387
+Injector Metering Rail 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376388
+Injector Metering Rail 1 Press-Data Below Normal Oper Range - Moderately Severe Level (Qsk50_60)	1258376402
+Battery 1 Volt - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk50_60)	1258376432
+Battery 1 Volt - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk50_60)	1258376434
+Eng Fuel Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60)	1258376448
+Eng Fuel Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376451
+Eng Fuel Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376452
+Eng Fuel Temp - Data Valid Above Normal Operational Range - Moderately Severe Level (Qsk50_60)	1258376464
+Eng Oil Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60)	1258376480
+Eng Oil Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376483
+Eng Oil Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376484
+Eng Oil Temp - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk50_60)	1258376496
+Eng Crankshaft Speed/Pos - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60)	1258376512
+Engine Crankshaft Speed/Position - Data Erratic Intermittent Or Incorrect (Qsk50_60)	1258376514
+Engine Speed Crank Sync - Abnormal Rate Of Change (Qsk50_60)	1258376522
+Engine Crankshaft Speed/Position - Data Valid Above Norm Oper Range - Moder Severe Level (Qsk50_60)	1258376528
+Transmission Output Shaft Speed-Data Valid Abv Normal Oper Range-Moder Severe Level (Qsk50_60)	1258376560
+Transmission Output Shaft Speed-Data Below Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258376562
+Real Time Clock Power Interrupt - Data Erratic/Intermittent/Incorrect (Qsk50_60)	1258376578
+Auxiliary Temp Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376611
+Auxiliary Temp Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376612
+Auxiliary Temp Sensor Input 1 - Special Instructions (Qsk50_60)	1258376622
+Accelerator Pedal Or Lever Idle Validation Sw-Data Erratic/Intermittent/Incorrect (Qsk50_60)	1258376642
+Accelerator Pedal Or Lever Idle Validation Ckt - Out Of Calibration (Qsk50_60)	1258376653
+Eng Magnetic Speed/Pos Lost Both Of Two Signals - Data Erratic/Intermittent/Incorrect (Qsk50_60)	1258376674
+Start Enable Device 1 Ckt (Ether Injection) - Root Cause Not Known (Qsk50_60)	1258376715
+Start Enable Dev 1(Ether Injection)-Data Below Normal Oper Range-Least Severe Level (Qsk50_60)	1258376721
+Power Lost With Ignition On - Data Erratic/Intermittent/Incorrect (Qsk50_60)	1258376738
+Injector Power Supply - Bad Intelligent Device Or Component (Qsk50_60)	1258376748
+Eng Control Module Warning Internal Hardware Failure - Bad Intelligent Device (Qsk50_60)	1258376780
+At Least One Unacknowledged Most Severe Fault - Condition Exists (Qsk50_60)	1258376799
+Electronic Calibration Code Incompatibilty - Out Of Calibration (Qsk50_60)	1258376813
+Electronic Fuel Injection Control Valve Ckt - Condition Exists (Qsk50_60)	1258376863
+J1939 Network #1 - Data Erratic Intermittent or Incorrect (Qsk50_60)	1258376866
+Sae J1939 Multiplexing Pgn Timeout Error - Abnormal Update Rate (Qsk50_60)	1258376873
+Sae J1939 Multiplexing Configuration Error - Out Of Calibration (Qsk50_60)	1258376877
+Auxiliary Commanded Dual Output Shutdown - Special Instructions (Qsk50_60)	1258376910
+Fan Control Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258376931
+Fan Control Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258376932
+Injector Solenoid Driver Cylinder 1 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258376965
+Injector Solenoid Driver Cylinder 2 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258376997
+Injector Solenoid Driver Cylinder 3 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377029
+Injector Solenoid Driver Cylinder 4 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377061
+Injector Solenoid Driver Cylinder 5 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377093
+Injector Solenoid Driver Cylinder 6 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377125
+Injector Solenoid Driver Cylinder 7 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377157
+Injector Solenoid Driver Cylinder 8 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377189
+Injector Solenoid Driver Cylinder 9 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377221
+Injector Solenoid Driver Cylinder 10 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377253
+Injector Solenoid Driver Cylinder 11 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377285
+Injector Solenoid Driver Cylinder 12 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377317
+Injector Solenoid Driver Cylinder 13 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377349
+Injector Solenoid Driver Cylinder 14 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377381
+Injector Solenoid Driver Cylinder 15 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377413
+Injector Solenoid Driver Cylinder 16 Ckt - Current Below Normal/Open Ckt (Qsk50_60)	1258377445
+Auxiliary Pwm Driver 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377475
+Auxiliary Pwm Driver 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377476
+Auxiliary Input/Output 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377507
+Auxiliary Input/Output 3 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377539
+Engine Camshaft Speed / Position Sensor - Data Erratic Intermittent Or Incorrect (Qsk50_60)	1258377570
+Eng Speed/Pos Camshaft And Crankshaft Misalignment - Mechanical System Not Responding (Qsk50_60)	1258377575
+Engine Camshaft Speed/Position Sensor - Abnormal Rate Of Change (Qsk50_60)	1258377578
+Remote Accel Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377603
+Remote Accel Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377604
+Sae J1939 Multiplexing Remote Accelerator Pedal - Received Network Data In Error (Qsk50_60)	1258377619
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377635
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377636
+Intake Manifold 2 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377667
+Intake Manifold 2 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377668
+Intake Manifold 2 Press - Data Valid Below Normal Oper Range - Least Severe Level (Qsk50_60)	1258377681
+Intake Manifold 2 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60)	1258377696
+Intake Manifold 2 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377699
+Intake Manifold 2 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377700
+Intake Manifold 2 Temp - Abnormal Rate Of Change (Qsk50_60)	1258377706
+Intake Manifold 2 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60)	1258377712
+Intake Manifold 3 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60)	1258377728
+Intake Manifold 3 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377731
+Intake Manifold 3 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377732
+Intake Manifold 3 Temp - Abnormal Rate Of Change (Qsk50_60)	1258377738
+Intake Manifold 3 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60)	1258377744
+Intake Manifold 4 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60)	1258377760
+Intake Manifold 4 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377763
+Intake Manifold 4 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377764
+Intake Manifold 4 Temp - Abnormal Rate Of Change (Qsk50_60)	1258377770
+Intake Manifold 4 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60)	1258377776
+Exhaust Gas Temp Sensor Ckt Cylinder 1 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377795
+Exhaust Gas Temp Sensor Ckt Cylinder 1 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377796
+Exhaust Gas Temp Cylinder 1-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258377808
+Exhaust Gas Temp Sensor Ckt Cylinder 2 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377827
+Exhaust Gas Temp Sensor Ckt Cylinder 2 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377828
+Exhaust Gas Temp Cylinder 2-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258377840
+Exhaust Gas Temp Sensor Ckt Cylinder 3 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377859
+Exhaust Gas Temp Sensor Ckt Cylinder 3 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377860
+Exhaust Gas Temp Cylinder 3-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258377872
+Exhaust Gas Temp Sensor Ckt Cylinder 4 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377891
+Exhaust Gas Temp Sensor Ckt Cylinder 4 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377892
+Exhaust Gas Temp Cylinder 4-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258377904
+Exhaust Gas Temp Sensor Ckt Cylinder 5 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377923
+Exhaust Gas Temp Sensor Ckt Cylinder 5 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377924
+Exhaust Gas Temp Cylinder 5-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258377936
+Exhaust Gas Temp Sensor Ckt Cylinder 6 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377955
+Exhaust Gas Temp Sensor Ckt Cylinder 6 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377956
+Exhaust Gas Temp Cylinder 6-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258377968
+Exhaust Gas Temp Sensor Ckt Cylinder 7 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258377987
+Exhaust Gas Temp Sensor Ckt Cylinder 7 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258377988
+Exhaust Gas Temp Cylinder 7-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378000
+Exhaust Gas Temp Sensor Ckt Cylinder 8 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378019
+Exhaust Gas Temp Sensor Ckt Cylinder 8 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378020
+Exhaust Gas Temp Cylinder 8-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378032
+Exhaust Gas Temp Sensor Ckt Cylinder 9 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378051
+Exhaust Gas Temp Sensor Ckt Cylinder 9 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378052
+Exhaust Gas Temp Cylinder 9-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378064
+Exhaust Gas Temp Sensor Ckt Cylinder 10 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378083
+Exhaust Gas Temp Sensor Ckt Cylinder 10 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378084
+Exhaust Gas Temp Cylinder 10-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378096
+Exhaust Gas Temp Sensor Ckt Cylinder 11 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378115
+Exhaust Gas Temp Sensor Ckt Cylinder 11 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378116
+Exhaust Gas Temp Cylinder 11-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378128
+Exhaust Gas Temp Sensor Ckt Cylinder 12 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378147
+Exhaust Gas Temp Sensor Ckt Cylinder 12 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378148
+Exhaust Gas Temp Cylinder 12-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378160
+Exhaust Gas Temp Sensor Ckt Cylinder 13 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378179
+Exhaust Gas Temp Sensor Ckt Cylinder 13 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378180
+Exhaust Gas Temp Cylinder 13-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378192
+Exhaust Gas Temp Sensor Ckt Cylinder 14 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378211
+Exhaust Gas Temp Sensor Ckt Cylinder 14 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378212
+Exhaust Gas Temp Cylinder 14-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378224
+Exhaust Gas Temp Sensor Ckt Cylinder 15 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378243
+Exhaust Gas Temp Sensor Ckt Cylinder 15 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378244
+Exhaust Gas Temp Cylinder 15-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378256
+Exhaust Gas Temp Sensor Ckt Cylinder 16 - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378275
+Exhaust Gas Temp Sensor Ckt Cylinder 16 - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378276
+Exhaust Gas Temp Cylinder 16-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60)	1258378288
+Pre-Oil Filter Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378307
+Pre-Oil Filter Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378308
+Sae J1939 Data Link 2 Eng Network - Abnormal Update Rate (Qsk50_60)	1258378345
+Sae J1939 Data Link 2 Engine Network - Special Instructions (Qsk50_60)	1258378350
+Sae J1939 Data Link 2 Engine Network No Data Received - Condition Exists (Qsk50_60)	1258378367
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378371
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378372
+Exhaust Gas Temp Deviation Low For Cyl 1 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378417
+Exhaust Gas Temp Deviation Low For Cyl 2 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378449
+Exhaust Gas Temp Deviation Low For Cyl 3 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378481
+Exhaust Gas Temp Deviation Low For Cyl 4 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378513
+Exhaust Gas Temp Deviation Low For Cyl 5 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378545
+Exhaust Gas Temp Deviation Low For Cyl 6 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378577
+Exhaust Gas Temp Deviation Low For Cyl 7 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378609
+Exhaust Gas Temp Deviation Low For Cyl 8 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378641
+Exhaust Gas Temp Deviation Low For Cyl 9 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378673
+Exhaust Gas Temp Deviation Low For Cyl 10 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378705
+Exhaust Gas Temp Deviation Low For Cyl 11 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378737
+Exhaust Gas Temp Deviation Low For Cyl 12 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378769
+Exhaust Gas Temp Deviation Low For Cyl 13 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378801
+Exhaust Gas Temp Deviation Low For Cyl 14 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378833
+Exhaust Gas Temp Deviation Low For Cyl 15 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378865
+Exhaust Gas Temp Deviation Low For Cyl 16 - Data Below Normal - Least Severe Level (Qsk50_60)	1258378897
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258378915
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258378916
+Multiple Unit Synchronization Switch - Data Erratic/Intermittent/Incorrect (Qsk50_60)	1258378946
+Eng Oil Change Interval - Condition Exists (Qsk50_60)	1258379007
+Eng Oil Level Remote Reservoir - Data Validbelow Normal - Moderately Severe Level (Qsk50_60)	1258379026
+Eng Shut Down Hot - Condition Exists (Qsk50_60)	1258379071
+Sae J1939 Eng Commanded Shutdown - Condition Exists (Qsk50_60)	1258379103
+Auxiliary Press Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258379107
+Auxiliary Press Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258379108
+Auxiliary Press Sensor Input 1 - Special Instructions (Qsk50_60)	1258379118
+At Least One Module Has A Most Severe Fault - Condition Exists (Qsk50_60)	1258379167
+Control Module Id Input State Error-Data Erratic/Inter/Incorrect-Moder Severe Level (Qsk50_60)	1258379170
+Control Module Identification Input State Error - Special Instructions (Qsk50_60)	1258379182
+Sensor Supply 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258379203
+Sensor Supply 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258379204
+Sensor Supply 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258379235
+Sensor Supply 2 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258379236
+Sensor Supply 3 Ckt - Volt Above Normal/Shorted to High Src (Qsk50_60)	1258379267
+Sensor Supply 3 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258379268
+Sensor Supply 4 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258379299
+Sensor Supply 4 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258379300
+Post-Oil Filter Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60)	1258379331
+Post-Oil Filter Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60)	1258379332
+Exhaust Gas Temp Bank Imbal-Data Valid Above Normal Oper Range - Most Severe Level (Qsk50_60)	1258379360
+Exhaust Gas Temp Bank Imbal-Data Valid Above Normal Oper Range - Moder Severe Level (Qsk50_60)	1258379376
+Eng Intake Manifold Pres Bank Imbal-Data Valid Abv Normal Oper Range-Most Severe Lvl (Qsk50_60)	1258379392
+Eng Intake Man Press Bank Imbal-Data Valid Abv Normal Oper Range-Moder Severe Level (Qsk50_60)	1258379408
+Water In Fuel Indicator 2 - Data Valid Above Normal Oper Range - Most Severe Level (Qsk50_60)	1258379424
+Water in Fuel Indicator 2 Sensor Circuit - Volt Above Normal/Shorted to High Source (Qsk50_60)	1258379427
+Water in Fuel Indicator 2 Sensor Circuit - Volt Below Normal/Shorted to Low Source (Qsk50_60)	1258379428
+Water In Fuel Indicator 2 - Data Valid Above Normal Oper Range - Least Severe Level (Qsk50_60)	1258379439
+Water In Fuel Indicator 2 - Data Valid Above Normal Oper Range - Moder Severe Level (Qsk50_60)	1258379440
+Engine Oil Level - Data Valid but Below Normal Operating Range - Most Severe Level (Qsk50_60)	1258379457
+Engine Oil Level Sensor Circuit - Voltage Above Normal or Shorted to High Source (Qsk50_60)	1258379459
+Engine Oil Level Sensor Circuit - Voltage Below Normal or Shorted to Low Source (Qsk50_60)	1258379460
+Exhaust Gas Temperature - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk50_60)	1258379488
+Engine Exhaust Gas Temperature - Data Erratic Intermittent or Incorrect (Qsk50_60)	1258379490
+Exhaust Gas Temperature Sensor 1 Circuit - Voltage Above Normal or Shorted to High Source (Qsk50_60)	1258379491
+Exhaust Gas Temperature Sensor 1 Circuit - Voltage Below Normal or Shorted to Low Source (Qsk50_60)	1258379492
+Exhaust Gas Temperature - Data Valid but Above Norm Oper Range - Moderately Severe Level (Qsk50_60)	1258379504
+Transmission Oil Temp - Data Valid But Above Norm Oper Range - Most Severe Level (Qsk50_60)	1258379520
+Transmission Oil Temp - Data Valid But Above Norm Oper Range - Moderately Severe Level (Qsk50_60)	1258379536
+External Speed Command Input (Multiple Unit Sync) - Data Erratic Intermittent Incorrect (Qsk50_60)	1258379554
+Engine EGT - Right Manifold - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk50_60)	1258379584
+Engine Exhaust Manifold Bank 2 Temperature 1 - Data Erratic Intermittent or Incorrect (Qsk50_60)	1258379586
+Engine EGT - Right Manifold Sensor Circuit - Volt Above Norm/Shorted to High Source (Qsk50_60)	1258379587
+Engine EGT - Right Manifold Sensor Circuit - Volt Below Norm/Shorted to Low Source (Qsk50_60)	1258379588
+Engine EGT - Right Manifold - Data Valid but Above Norm Oper Range - Moder Severe Level (Qsk50_60)	1258379600
+Engine EGT - Left Manifold - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk50_60)	1258379616
+Engine Exhaust Manifold Bank 1 Temperature 1 - Data Erratic Intermittent or Incorrect (Qsk50_60)	1258379618
+Engine EGT - Left Manifold Sensor Circuit - Voltage Above Norm/Shorted to High Source (Qsk50_60)	1258379619
+Engine EGT - Left Manifold Sensor Circuit - Voltage Below Norm/Shorted to Low Source (Qsk50_60)	1258379620
+Engine EGT - Left Manifold - Data Valid but Above Norm Oper Range - Moder Severe Level (Qsk50_60)	1258379632
+Power Lost With Ignition On - Data Erratic Intermittent or Incorrect (Qsk50_60)	1258379650
+Injector Power Supply - Bad Intelligent Device or Component (Qsk50_60)	1258379660
+Engine Air Shutoff - Mechanical System Not Responding or Out of Adjustment (Qsk50_60)	1258379687
+Generator Speed/ Load Governing Bias Circuit - Volt Above Norm/Shorted to High Source (Qsk50_60)	1258379715
+Generator Speed/ Load Governing Bias Circuit - Volt Below Norm/Shorted to Low Source (Qsk50_60)	1258379716
+Generator Output Freq Adjust Potentio Circuit - Volt Above Norm/Shorted to High Source (Qsk50_60)	1258379747
+Droop Adjust Potentiometer Circuit - Voltage Above Normal or Shorted to High Source (Qsk50_60)	1258379779
+Overspeed Shutdown Relay Driver Diagnostic has detected an error - Condition Exists (Qsk50_60)	1258379839
+Low Oil Pressure (LOP) Shutdown Relay Driver Diag detected an error - Condition Exists (Qsk50_60)	1258379871
+High Engine Temp (HET) Shutdown Relay Driver Diag detected an error - Condition Exists (Qsk50_60)	1258379903
+Pre-Low Oil Pressure Warning Relay Driver Diag detected an error - Condition Exists (Qsk50_60)	1258379935
+Pre-High Engine Temp Warning Relay Driver Diag detected an error - Condition Exists (Qsk50_60)	1258379967
+Engine Fuel Pump Oil Pressure - Data Valid but Below Norm Oper Range - Most Severe Level (Qsk50_60)	1258379969
+Fuel Pump Oil Pressure Sensor Circuit - Voltage Above Normal or Shorted to High Source (Qsk50_60)	1258379971
+Fuel Pump Oil Pressure Sensor Circuit - Voltage Below Normal or Shorted to Low Source (Qsk50_60)	1258379972
+Engine Fuel Pump Oil Pressure - Data Valid but Below Norm Oper Range - Moder Severe Level (Qsk50_60)	1258379986
+Marine Low Load Protection - Condition Exists (Qsk50_60)	1258380031
+Marine Overload Protection - Special Instructions (Qsk50_60)	1258380046
+Marine Overload Protection - Condition Exists (Qsk50_60)	1258380063
+Electronic Chip Detect Sensor - Data Valid but Below Norm Oper Range - Most Severe Level (Qsk50_60)	1258380065
+Electronic Chip Detect Sensor - Data Valid but Below Norm Oper Range - Moder Severe Level (Qsk50_60)	1258380082
+Injector Metering Rail 1 Press-Data Valid Abv Normal Oper Range-Moder Severe Level (Qsk50_60)	1258380576
+Eng Control Module Critical Internal Failure - Bad Intelligent Device Or Component (Qsk50_60)	1258380577
+At Least One Module Has A Moderately Severe Fault - Condition Exists (Qsk50_60)	1258380578
+At Least One Module Has A Least Severe Fault - Condition Exists (Qsk50_60)	1258380579
+Control Module Id Input State Error-Data Erratic/Inter/Incorrect-Most Severe Level (Qsk50_60)	1258380580
+Fuel Pump Delivery Pressure - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk50_60)	1258380581
+Engine Control Module Critical Internal Failure - Bad Intelligent Device or Component (Qsk50_60)	1258380582
+At Least One Unacknowledged Moderately Severe Fault - Condition Exists (Qsk50_60)	1258380583
+SAE J1939 Data Link 2 Engine Network - Abnormal update rate (Qsk50_60)	1258380584
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258380771
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258380772
+Accelerator Pedal Or Lever Pos Sensor 1 Ckt - Abnormal Frequency Pulsewidth/Period (Qsk50_60Eng2)	1258380776
+Sae J1939 Multiplexed Accelerator Pedal - Received Network Data In Error (Qsk50_60Eng2)	1258380787
+Eng Fuel Delivery Press-Data Valid But Above Normal Oper Range - Most Severe Level (Qsk50_60Eng2)	1258380800
+Fuel Delivery Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258380803
+Fuel Delivery Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258380804
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258380815
+Fuel Pump Delivery Press-Data Valid Above Normal Oper Range - Most Severe Level (Qsk50_60Eng2)	1258380816
+Fuel Pump Delivery Press-Data Valid Below Normal Oper Range - Least Severe Level (Qsk50_60Eng2)	1258380817
+Fuel Pump Delivery Press-Data Valid Below Normal Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258380818
+Water In Fuel Indicator - Data Valid But Above Normal Oper Range - Most Severe Level (Qsk50_60Eng2)	1258380832
+Water In Fuel Indicator Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258380835
+Water In Fuel Indicator Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258380836
+Water In Fuel Indicator - Data Valid Abv Normal Oper Range - Least Severe Level (Qsk50_60Eng2)	1258380847
+Water In Fuel Indicator - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258380848
+Eng Oil Filter Press - Data Valid Abv Normal Oper Range - Most Severe Level (Qsk50_60Eng2)	1258380864
+Eng Oil Filter Press - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258380880
+Eng Oil Rifle Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258380897
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258380899
+Eng Oil Rifle Press 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258380900
+Eng Oil Rifle Press - Data Valid Below Norm Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258380914
+Crankcase Press - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258380928
+Crankcase Press Ckt - Volt Abv Normal Or Shorted To High Src (Qsk50_60Eng2)	1258380931
+Crankcase Press Ckt - Volt Below Normal Or Shorted To Low Src (Qsk50_60Eng2)	1258380932
+Crankcase Press - Data Valid Abv Normal Operating Range - Moderately Severe Level (Qsk50_60Eng2)	1258380944
+Intake Manifold 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258380963
+Intake Manifold 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258380964
+Intake Manifold 1 Press - Data Valid Below Normal Oper Range - Least Severe Level (Qsk50_60Eng2)	1258380977
+Turbocharger 1 Speed - Data Erratic/Intermittent/Incorrect (Qsk50_60Eng2)	1258380994
+Turbocharger 1 Speed - Data Valid But Above Norm Oper Range - Moder Severe Level (Qsk50_60Eng2)	1258381008
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258381024
+Intake Manifold 1 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381027
+Intake Manifold 1 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381028
+Intake Manifold 1 Temp - Abnormal Rate Of Change (Qsk50_60Eng2)	1258381034
+Intake Manifold 1 Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk50_60Eng2)	1258381039
+Intake Manifold 1 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258381040
+Barometric Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381059
+Barometric Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381060
+Cool Press - Data Valid Below Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258381089
+Cool Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381091
+Cool Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381092
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258381120
+Eng Cool Temp 1 Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381123
+Eng Cool Temp 1 Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381124
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Least Severe Level (Qsk50_60Eng2)	1258381135
+Eng Cool Temp - Data Valid Abv Normal Operational Range - Moderately Severe Level (Qsk50_60Eng2)	1258381136
+Cool Level - Data Validbelow Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258381153
+Cool Level Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381155
+Cool Level Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381156
+Cool Level - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk50_60Eng2)	1258381170
+Injector Metering Rail 1 Press - Data Above Normal Oper Range - Most Severe Level (Qsk50_60Eng2)	1258381184
+Injector Metering Rail 1 Press - Data Below Normal Oper Range - Most Severe Level (Qsk50_60Eng2)	1258381185
+Injector Metering Rail 1 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381187
+Injector Metering Rail 1 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381188
+Injector Metering Rail 1 Press-Data Below Normal Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258381202
+Battery 1 Volt - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk50_60Eng2)	1258381232
+Battery 1 Volt - Data Validbelow Normal Operational Range - Moderately Severe Level (Qsk50_60Eng2)	1258381234
+Eng Fuel Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258381248
+Eng Fuel Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381251
+Eng Fuel Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381252
+Eng Fuel Temp - Data Valid Above Normal Operational Range - Moderately Severe Level (Qsk50_60Eng2)	1258381264
+Eng Oil Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258381280
+Eng Oil Temp Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381283
+Eng Oil Temp Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381284
+Eng Oil Temp - Data Validabv Normal Operational Range - Moderately Severe Level (Qsk50_60Eng2)	1258381296
+Eng Crankshaft Speed/Pos - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258381312
+Engine Crankshaft Speed/Position - Data Erratic Intermittent Or Incorrect (Qsk50_60Eng2)	1258381314
+Engine Speed Crank Sync - Abnormal Rate Of Change (Qsk50_60Eng2)	1258381322
+Engine Crankshaft Speed/Position - Data Valid Above Norm Oper Range - Moder Severe (Qsk50_60Eng2)	1258381328
+Transmission Output Shaft Speed-Data Valid Abv Normal Oper Range-Moder Severe Level (Qsk50_60Eng2)	1258381360
+Transmission Output Shaft Speed-Data Below Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258381362
+Real Time Clock Power Interrupt - Data Erratic/Intermittent/Incorrect (Qsk50_60Eng2)	1258381378
+Auxiliary Temp Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381411
+Auxiliary Temp Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381412
+Auxiliary Temp Sensor Input 1 - Special Instructions (Qsk50_60Eng2)	1258381422
+Accelerator Pedal Or Lever Idle Validation Sw-Data Erratic/Intermittent/Incorrect (Qsk50_60Eng2)	1258381442
+Accelerator Pedal Or Lever Idle Validation Ckt - Out Of Calibration (Qsk50_60Eng2)	1258381453
+Eng Magnetic Speed/Pos Lost Both Of Two Signals - Data Erratic/Intermittent/Incorrect (Qsk50_60Eng2)	1258381474
+Start Enable Device 1 Ckt (Ether Injection) - Root Cause Not Known (Qsk50_60Eng2)	1258381515
+Start Enable Dev 1(Ether Injection)-Data Below Normal Oper Range-Least Severe Level (Qsk50_60Eng2)	1258381521
+Power Lost With Ignition On - Data Erratic/Intermittent/Incorrect (Qsk50_60Eng2)	1258381538
+Injector Power Supply - Bad Intelligent Device Or Component (Qsk50_60Eng2)	1258381548
+Eng Control Module Warning Internal Hardware Failure - Bad Intelligent Device (Qsk50_60Eng2)	1258381580
+At Least One Unacknowledged Most Severe Fault - Condition Exists (Qsk50_60Eng2)	1258381599
+Electronic Calibration Code Incompatibilty - Out Of Calibration (Qsk50_60Eng2)	1258381613
+Electronic Fuel Injection Control Valve Ckt - Condition Exists (Qsk50_60Eng2)	1258381663
+J1939 Network #1 - Data Erratic Intermittent or Incorrect (Qsk50_60Eng2)	1258381666
+Sae J1939 Multiplexing Pgn Timeout Error - Abnormal Update Rate (Qsk50_60Eng2)	1258381673
+Sae J1939 Multiplexing Configuration Error - Out Of Calibration (Qsk50_60Eng2)	1258381677
+Auxiliary Commanded Dual Output Shutdown - Special Instructions (Qsk50_60Eng2)	1258381710
+Fan Control Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258381731
+Fan Control Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258381732
+Injector Solenoid Driver Cylinder 1 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258381765
+Injector Solenoid Driver Cylinder 2 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258381797
+Injector Solenoid Driver Cylinder 3 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258381829
+Injector Solenoid Driver Cylinder 4 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258381861
+Injector Solenoid Driver Cylinder 5 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258381893
+Injector Solenoid Driver Cylinder 6 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258381925
+Injector Solenoid Driver Cylinder 7 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258381957
+Injector Solenoid Driver Cylinder 8 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258381989
+Injector Solenoid Driver Cylinder 9 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258382021
+Injector Solenoid Driver Cylinder 10 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258382053
+Injector Solenoid Driver Cylinder 11 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258382085
+Injector Solenoid Driver Cylinder 12 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258382117
+Injector Solenoid Driver Cylinder 13 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258382149
+Injector Solenoid Driver Cylinder 14 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258382181
+Injector Solenoid Driver Cylinder 15 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258382213
+Injector Solenoid Driver Cylinder 16 Ckt - Current Below Normal/Open Ckt (Qsk50_60Eng2)	1258382245
+Auxiliary Pwm Driver 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382275
+Auxiliary Pwm Driver 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382276
+Auxiliary Input/Output 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382307
+Auxiliary Input/Output 3 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382339
+Engine Camshaft Speed / Position Sensor - Data Erratic Intermittent Or Incorrect (Qsk50_60Eng2)	1258382370
+Eng Speed/Pos Camshaft And Crankshaft Misalignment - Mechanical System Not Responding (Qsk50_60Eng2)	1258382375
+Engine Camshaft Speed/Position Sensor - Abnormal Rate Of Change (Qsk50_60Eng2)	1258382378
+Remote Accel Pedal Or Lever Pos Sensor 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382403
+Remote Accel Pedal Or Lever Pos Sensor 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382404
+Sae J1939 Multiplexing Remote Accelerator Pedal - Received Network Data In Error (Qsk50_60Eng2)	1258382419
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382435
+Electric Lift Pump For Eng Fuel Supply Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382436
+Intake Manifold 2 Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382467
+Intake Manifold 2 Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382468
+Intake Manifold 2 Press - Data Valid Below Normal Oper Range - Least Severe Level (Qsk50_60Eng2)	1258382481
+Intake Manifold 2 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258382496
+Intake Manifold 2 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382499
+Intake Manifold 2 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382500
+Intake Manifold 2 Temp - Abnormal Rate Of Change (Qsk50_60Eng2)	1258382506
+Intake Manifold 2 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258382512
+Intake Manifold 3 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258382528
+Intake Manifold 3 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382531
+Intake Manifold 3 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382532
+Intake Manifold 3 Temp - Abnormal Rate Of Change (Qsk50_60Eng2)	1258382538
+Intake Manifold 3 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258382544
+Intake Manifold 4 Temp - Data Validabv Normal Operational Range - Most Severe Level (Qsk50_60Eng2)	1258382560
+Intake Manifold 4 Temp Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382563
+Intake Manifold 4 Temp Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382564
+Intake Manifold 4 Temp - Abnormal Rate Of Change (Qsk50_60Eng2)	1258382570
+Intake Manifold 4 Temp - Data Valid Abv Normal Oper Range - Moderately Severe Level (Qsk50_60Eng2)	1258382576
+Exhaust Gas Temp Sensor Ckt Cylinder 1 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382595
+Exhaust Gas Temp Sensor Ckt Cylinder 1 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382596
+Exhaust Gas Temp Cylinder 1-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382608
+Exhaust Gas Temp Sensor Ckt Cylinder 2 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382627
+Exhaust Gas Temp Sensor Ckt Cylinder 2 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382628
+Exhaust Gas Temp Cylinder 2-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382640
+Exhaust Gas Temp Sensor Ckt Cylinder 3 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382659
+Exhaust Gas Temp Sensor Ckt Cylinder 3 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382660
+Exhaust Gas Temp Cylinder 3-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382672
+Exhaust Gas Temp Sensor Ckt Cylinder 4 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382691
+Exhaust Gas Temp Sensor Ckt Cylinder 4 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382692
+Exhaust Gas Temp Cylinder 4-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382704
+Exhaust Gas Temp Sensor Ckt Cylinder 5 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382723
+Exhaust Gas Temp Sensor Ckt Cylinder 5 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382724
+Exhaust Gas Temp Cylinder 5-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382736
+Exhaust Gas Temp Sensor Ckt Cylinder 6 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382755
+Exhaust Gas Temp Sensor Ckt Cylinder 6 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382756
+Exhaust Gas Temp Cylinder 6-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382768
+Exhaust Gas Temp Sensor Ckt Cylinder 7 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382787
+Exhaust Gas Temp Sensor Ckt Cylinder 7 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382788
+Exhaust Gas Temp Cylinder 7-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382800
+Exhaust Gas Temp Sensor Ckt Cylinder 8 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382819
+Exhaust Gas Temp Sensor Ckt Cylinder 8 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382820
+Exhaust Gas Temp Cylinder 8-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382832
+Exhaust Gas Temp Sensor Ckt Cylinder 9 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382851
+Exhaust Gas Temp Sensor Ckt Cylinder 9 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382852
+Exhaust Gas Temp Cylinder 9-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382864
+Exhaust Gas Temp Sensor Ckt Cylinder 10 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382883
+Exhaust Gas Temp Sensor Ckt Cylinder 10 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382884
+Exhaust Gas Temp Cylinder 10-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382896
+Exhaust Gas Temp Sensor Ckt Cylinder 11 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382915
+Exhaust Gas Temp Sensor Ckt Cylinder 11 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382916
+Exhaust Gas Temp Cylinder 11-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382928
+Exhaust Gas Temp Sensor Ckt Cylinder 12 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382947
+Exhaust Gas Temp Sensor Ckt Cylinder 12 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382948
+Exhaust Gas Temp Cylinder 12-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382960
+Exhaust Gas Temp Sensor Ckt Cylinder 13 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258382979
+Exhaust Gas Temp Sensor Ckt Cylinder 13 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258382980
+Exhaust Gas Temp Cylinder 13-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258382992
+Exhaust Gas Temp Sensor Ckt Cylinder 14 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258383011
+Exhaust Gas Temp Sensor Ckt Cylinder 14 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258383012
+Exhaust Gas Temp Cylinder 14-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258383024
+Exhaust Gas Temp Sensor Ckt Cylinder 15 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258383043
+Exhaust Gas Temp Sensor Ckt Cylinder 15 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258383044
+Exhaust Gas Temp Cylinder 15-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258383056
+Exhaust Gas Temp Sensor Ckt Cylinder 16 - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258383075
+Exhaust Gas Temp Sensor Ckt Cylinder 16 - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258383076
+Exhaust Gas Temp Cylinder 16-Data Above Normal Oper Range-Moderately Severe Level (Qsk50_60Eng2)	1258383088
+Pre-Oil Filter Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258383107
+Pre-Oil Filter Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258383108
+Sae J1939 Data Link 2 Eng Network - Abnormal Update Rate (Qsk50_60Eng2)	1258383145
+Sae J1939 Data Link 2 Engine Network - Special Instructions (Qsk50_60Eng2)	1258383150
+Sae J1939 Data Link 2 Engine Network No Data Received - Condition Exists (Qsk50_60Eng2)	1258383167
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258383171
+Eng Oil Burn Valve Solenoid Driver Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258383172
+Exhaust Gas Temp Deviation Low For Cyl 1 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383217
+Exhaust Gas Temp Deviation Low For Cyl 2 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383249
+Exhaust Gas Temp Deviation Low For Cyl 3 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383281
+Exhaust Gas Temp Deviation Low For Cyl 4 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383313
+Exhaust Gas Temp Deviation Low For Cyl 5 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383345
+Exhaust Gas Temp Deviation Low For Cyl 6 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383377
+Exhaust Gas Temp Deviation Low For Cyl 7 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383409
+Exhaust Gas Temp Deviation Low For Cyl 8 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383441
+Exhaust Gas Temp Deviation Low For Cyl 9 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383473
+Exhaust Gas Temp Deviation Low For Cyl 10 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383505
+Exhaust Gas Temp Deviation Low For Cyl 11 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383537
+Exhaust Gas Temp Deviation Low For Cyl 12 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383569
+Exhaust Gas Temp Deviation Low For Cyl 13 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383601
+Exhaust Gas Temp Deviation Low For Cyl 14 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383633
+Exhaust Gas Temp Deviation Low For Cyl 15 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383665
+Exhaust Gas Temp Deviation Low For Cyl 16 - Data Below Normal - Least Severe Level (Qsk50_60Eng2)	1258383697
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258383715
+Fuel Pump Pressurizing Assembly 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258383716
+Multiple Unit Synchronization Switch - Data Erratic/Intermittent/Incorrect (Qsk50_60Eng2)	1258383746
+Eng Oil Change Interval - Condition Exists (Qsk50_60Eng2)	1258383807
+Eng Oil Level Remote Reservoir - Data Validbelow Normal - Moderately Severe Level (Qsk50_60Eng2)	1258383826
+Eng Shut Down Hot - Condition Exists (Qsk50_60Eng2)	1258383871
+Sae J1939 Eng Commanded Shutdown - Condition Exists (Qsk50_60Eng2)	1258383903
+Auxiliary Press Sensor Input 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258383907
+Auxiliary Press Sensor Input 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258383908
+Auxiliary Press Sensor Input 1 - Special Instructions (Qsk50_60Eng2)	1258383918
+At Least One Module Has A Most Severe Fault - Condition Exists (Qsk50_60Eng2)	1258383967
+Control Module Identification Input State Error - Data Erratic/Intermittent/Incorrect (Qsk50_60Eng2)	1258383970
+Control Module Identification Input State Error - Special Instructions (Qsk50_60Eng2)	1258383982
+Sensor Supply 1 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258384003
+Sensor Supply 1 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258384004
+Sensor Supply 2 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258384035
+Sensor Supply 2 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258384036
+Sensor Supply 3 Ckt - Volt Above Normal/Shorted to High Src (Qsk50_60Eng2)	1258384067
+Sensor Supply 3 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258384068
+Sensor Supply 4 Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258384099
+Sensor Supply 4 Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258384100
+Post-Oil Filter Press Sensor Ckt - Volt Abv Normal/Shorted To High Src (Qsk50_60Eng2)	1258384131
+Post-Oil Filter Press Sensor Ckt - Volt Below Normal/Shorted To Low Src (Qsk50_60Eng2)	1258384132
+Exhaust Gas Temp Bank Imbal-Data Valid Above Normal Oper Range - Most Severe Level (Qsk50_60Eng2)	1258384160
+Exhaust Gas Temp Bank Imbal-Data Valid Above Normal Oper Range - Moder Severe Level (Qsk50_60Eng2)	1258384176
+Eng Intake Manifold Pres Bank Imbal-Data Valid Abv Normal Oper Range-Most Severe Lvl (Qsk50_60Eng2)	1258384192
+Eng Intake Man Press Bank Imbal-Data Valid Abv Normal Oper Range-Moder Severe Level (Qsk50_60Eng2)	1258384208
+Water In Fuel Indicator 2 - Data Valid Above Normal Oper Range - Most Severe Level (Qsk50_60Eng2)	1258384224
+Water in Fuel Indicator 2 Sensor Circuit - Volt Above Normal/Shorted to High Source (Qsk50_60Eng2)	1258384227
+Water in Fuel Indicator 2 Sensor Circuit - Volt Below Normal/Shorted to Low Source (Qsk50_60Eng2)	1258384228
+Water In Fuel Indicator 2 - Data Valid Above Normal Oper Range - Least Severe Level (Qsk50_60Eng2)	1258384239
+Water In Fuel Indicator 2 - Data Valid Above Normal Oper Range - Moder Severe Level (Qsk50_60Eng2)	1258384240
+Engine Oil Level - Data Valid but Below Normal Operating Range - Most Severe Level (Qsk50_60Eng2)	1258384257
+Engine Oil Level Sensor Circuit - Voltage Above Normal or Shorted to High Source (Qsk50_60Eng2)	1258384259
+Engine Oil Level Sensor Circuit - Voltage Below Normal or Shorted to Low Source (Qsk50_60Eng2)	1258384260
+Exhaust Gas Temperature - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk50_60Eng2)	1258384288
+Engine Exhaust Gas Temperature - Data Erratic Intermittent or Incorrect (Qsk50_60Eng2)	1258384290
+Exhaust Gas Temperature Sensor 1 Circuit - Volt Above Norm/Shorted to High Source (Qsk50_60Eng2)	1258384291
+Exhaust Gas Temperature Sensor 1 Circuit - Volt Below Norm/Shorted to Low Source (Qsk50_60Eng2)	1258384292
+Exhaust Gas Temperature - Data Valid but Above Norm Oper Range - Moder Severe Level (Qsk50_60Eng2)	1258384304
+Transmission Oil Temp - Data Valid But Above Norm Oper Range - Most Severe Level (Qsk50_60Eng2)	1258384320
+Transmission Oil Temp - Data Valid But Above Norm Oper Range - Moder Severe Level (Qsk50_60Eng2)	1258384336
+External Speed Command Input (Multiple Unit Sync) - Data Erratic Incorrect (Qsk50_60Eng2)	1258384354
+Engine EGT - Right Manifold - Data Valid but Above Norm Oper Range - Most Severe Lvl (Qsk50_60Eng2)	1258384384
+Engine Exhaust Manifold Bank 2 Temperature 1 - Data Erratic Intermittent or Incorrect (Qsk50_60Eng2)	1258384386
+Engine EGT - Right Manifold Sensor Circuit - Volt Above Norm/Shorted to High Source (Qsk50_60Eng2)	1258384387
+Engine EGT - Right Manifold Sensor Circuit - Volt Below Norm/Shorted to Low Source (Qsk50_60Eng2)	1258384388
+Engine EGT - Right Manifold - Data Valid but Above Norm Oper Range - Moder Severe Lvl (Qsk50_60Eng2)	1258384400
+Engine EGT - Left Manifold - Data Valid but Above Norm Oper Range - Most Severe Lvl (Qsk50_60Eng2)	1258384416
+Engine Exhaust Manifold Bank 1 Temperature 1 - Data Erratic Intermittent or Incorrect (Qsk50_60Eng2)	1258384418
+Engine EGT - Left Manifold Sensor Circuit - Volt Above Norm/Shorted to High Source (Qsk50_60Eng2)	1258384419
+Engine EGT - Left Manifold Sensor Circuit - Volt Below Norm/Shorted to Low Source (Qsk50_60Eng2)	1258384420
+Engine EGT - Left Manifold - Data Valid but Above Norm Oper Range - Moder Severe Lvl (Qsk50_60Eng2)	1258384432
+Power Lost With Ignition On - Data Erratic Intermittent or Incorrect (Qsk50_60Eng2)	1258384450
+Injector Power Supply - Bad Intelligent Device or Component (Qsk50_60Eng2)	1258384460
+Engine Air Shutoff - Mechanical System Not Responding or Out of Adjustment (Qsk50_60Eng2)	1258384487
+Generator Speed/ Load Governing Bias Circuit - Volt Above Norm/Shorted to High Source (Qsk50_60Eng2)	1258384515
+Generator Speed/ Load Governing Bias Circuit - Volt Below Norm/Shorted to Low Source (Qsk50_60Eng2)	1258384516
+Generator Output Freq Adjust Potentio Circuit - Volt Above Norm/Shorted High Source (Qsk50_60Eng2)	1258384547
+Droop Adjust Potentiometer Circuit - Voltage Above Normal or Shorted to High Source (Qsk50_60Eng2)	1258384579
+Overspeed Shutdown Relay Driver Diagnostic has detected an error - Condition Exists (Qsk50_60Eng2)	1258384639
+Low Oil Pressure (LOP) Shutdown Relay Driver Diag detected error - Condition Exists (Qsk50_60Eng2)	1258384671
+High Engine Temp (HET) Shutdown Relay Driver Diag detected error - Condition Exists (Qsk50_60Eng2)	1258384703
+Pre-Low Oil Pressure Warning Relay Driver Diag detected an error - Condition Exists (Qsk50_60Eng2)	1258384735
+Pre-High Engine Temp Warning Relay Driver Diag detected an error - Condition Exists (Qsk50_60Eng2)	1258384767
+Engine Fuel Pump Oil Pressure - Data Valid but Below Norm Oper Range - Most Severe (Qsk50_60Eng2)	1258384769
+Fuel Pump Oil Pressure Sensor Circuit - Voltage Above Norm/Shorted to High Source (Qsk50_60Eng2)	1258384771
+Fuel Pump Oil Pressure Sensor Circuit - Voltage Below Norm/Shorted to Low Source (Qsk50_60Eng2)	1258384772
+Engine Fuel Pump Oil Pressure - Data Valid but Below Norm Oper Range - Moder Severe (Qsk50_60Eng2)	1258384786
+Marine Low Load Protection - Condition Exists (Qsk50_60Eng2)	1258384831
+Marine Overload Protection - Special Instructions (Qsk50_60Eng2)	1258384846
+Marine Overload Protection - Condition Exists (Qsk50_60Eng2)	1258384863
+Electronic Chip Detect Sensor - Data Valid but Below Norm Oper Range - Most Severe (Qsk50_60Eng2)	1258384865
+Electronic Chip Detect Sensor - Data Valid but Below Norm Oper Range - Moder Severe (Qsk50_60Eng2)	1258384882
+Injector Metering Rail 1 Press-Data Valid Abv Normal Oper Range-Moder Severe Level (Qsk50_60Eng2)	1258385376
+Eng Control Module Critical Internal Failure - Bad Intelligent Device Or Component (Qsk50_60Eng2)	1258385377
+At Least One Module Has A Moderately Severe Fault - Condition Exists (Qsk50_60Eng2)	1258385378
+At Least One Module Has A Least Severe Fault - Condition Exists (Qsk50_60Eng2)	1258385379
+Control Module Id Input State Error-Data Erratic/Inter/Incorrect-Most Severe Level (Qsk50_60Eng2)	1258385380
+Fuel Pump Deliver Pressure - Data Valid but Above Norm Oper Range - Most Severe Level (Qsk50_60Eng2)	1258385381
+Engine Control Module Critical Internal Failure - Bad Intelligent Device or Component (Qsk50_60Eng2)	1258385382
+At Least One Unacknowledged Moderately Severe Fault - Condition Exists (Qsk50_60Eng2)	1258385383
+SAE J1939 Data Link 2 Engine Network - Abnormal update rate (Qsk50_60Eng2)	1258385384
+OEM Interface Timeout	1258422240
+OEM Interface Normal	1258422241
+Driver Interface Timeout	1258422242
+Driver Interface Normal	1258422243

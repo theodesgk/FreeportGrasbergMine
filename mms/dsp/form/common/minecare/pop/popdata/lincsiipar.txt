@@ -1,0 +1,1721 @@
+1073808361	Bucket Load Weight (L-950)	0	0	19
+1073808362	Truck Load Weight (L-950)	0	0	19
+1073808363	Engine Running (L-950)	0	0	0
+1073808364	Vehicle Tramming (L-950)	0	0	0
+1073808365	Service Brakes Applied (L-950)	0	0	0
+1073808366	Accessory Pump Pressure (L-950)	0	0	9
+1073808367	Ambient Temperature (L-950)	0	0	5
+1073808368	Autolube Grease Pressure (L-950)	0	0	9
+1073808369	Autolube Sol Off/On (L-950)	0	0	0
+1073808370	Autolube Switches Released/Pressed (L-950)	0	0	0
+1073808371	Aux Fan Enable Sol Off/On (L-950)	0	0	0
+1073808372	Aux Steer Enable Off/On (L-950)	0	0	0
+1073808373	Steer Supply Pressure Switch Normal/Low (L-950)	0	0	0
+1073808374	Backup Lights & Alarm Off/On (L-950)	0	0	0
+1073808375	Battery Voltage (L-950)	0	0	31
+1073808376	Beacon Off/On (L-950)	0	0	0
+1073808377	Bellcrank To Lift Arm Degree (L-950)	0	0	4
+1073808378	Bellcrank To Lift Arm Raw Voltage (L-950)	0	0	31
+1073808379	Blower Rpm (L-950)	0	0	28
+1073808380	Blower Pump Pressure (L-950)	0	0	9
+1073808381	Blower Control Sol Percentage (L-950)	0	0	25
+1073808382	Bucket Cyl Ext Distance (L-950)	0	0	17
+1073808383	Bucket Dump Pilot Sol Percentage (L-950)	0	0	25
+1073808384	Bucket Load Payload (L-950)	0	0	19
+1073808385	Bucket Cyl Ext Dig Target Distance (L-950)	0	0	17
+1073808386	Bucket Rollback Pilot Sol Percentage (L-950)	0	0	25
+1073808387	Bucket Position Degree (L-950)	0	0	4
+1073808388	Cab Audible Alarm Off/On (L-950)	0	0	0
+1073808389	Cab E-Stop Switch Pressed/Released (L-950)	0	0	0
+1073808390	Cab Light Bar Lights Off/On (L-950)	0	0	0
+1073808391	Clamshell Close Pilot Sol Percentage (L-950)	0	0	25
+1073808392	Clamshell Cyl Ext Degree (L-950)	0	0	4
+1073808393	Clamshell Cyl Ext Raw Voltage (L-950)	0	0	31
+1073808394	Clamshell Open Pilot Sol Percentage (L-950)	0	0	25
+1073808395	Vcu Chassis Temperature (L-950)	0	0	5
+1073808396	Vcu / Hmi Keep Alive Off/On (L-950)	0	0	0
+1073808397	Digital Output Power Off/On (L-950)	0	0	0
+1073808398	Drive Cool Pump 1 Cmd Percentage (L-950)	0	0	25
+1073808399	Drive Cool Pump 1 Speed Percentage (L-950)	0	0	25
+1073808400	Drive Cool Pump 2 Cmd Percentage (L-950)	0	0	25
+1073808401	Drive Cool Pump 2 Speed Percentage (L-950)	0	0	25
+1073808402	Drive Cool Reservoir Level Sw Low/Normal (L-950)	0	0	0
+1073808403	Max Dump Pressure Sol Off/On (L-950)	0	0	0
+1073808404	Machine Hours (L-950)	0	0	7
+1073808405	Engine: Rpm (L-950)	0	0	28
+1073808406	Engine:Barometric Pressure (L-950)	0	0	9
+1073808407	Engine:Blue Lamp On/Off (L-950)	0	0	0
+1073808408	Engine:Coolant Temperature (L-950)	0	0	5
+1073808409	Engine:Coolant Pressure (L-950)	0	0	9
+1073808410	Engine:Crankcase Pressure (L-950)	0	0	9
+1073808411	Engine:Exhaust 1 Temperature (L-950)	0	0	5
+1073808412	Engine:Exhaust 10 Temperature (L-950)	0	0	5
+1073808413	Engine:Exhaust 11 Temperature (L-950)	0	0	5
+1073808414	Engine:Exhaust 12 Temperature (L-950)	0	0	5
+1073808415	Engine:Exhaust 13 Temperature (L-950)	0	0	5
+1073808416	Engine:Exhaust 14 Temperature (L-950)	0	0	5
+1073808417	Engine:Exhaust 15 Temperature (L-950)	0	0	5
+1073808418	Engine:Exhaust 16 Temperature (L-950)	0	0	5
+1073808419	Engine:Exhaust 2 Temperature (L-950)	0	0	5
+1073808420	Engine:Exhaust 3 Temperature (L-950)	0	0	5
+1073808421	Engine:Exhaust 4 Temperature (L-950)	0	0	5
+1073808422	Engine:Exhaust 5 Temperature (L-950)	0	0	5
+1073808423	Engine:Exhaust 6 Temperature (L-950)	0	0	5
+1073808424	Engine:Exhaust 7 Temperature (L-950)	0	0	5
+1073808425	Engine:Exhaust 8 Temperature (L-950)	0	0	5
+1073808426	Engine:Exhaust 9 Temperature (L-950)	0	0	5
+1073808427	Engine:Fuel Temperature (L-950)	0	0	5
+1073808428	Engine:Fuel Pressure (L-950)	0	0	9
+1073808429	Engine:Fuel Rate (L-950)	0	0	13
+1073808430	Engine:Ignition Off/On (L-950)	0	0	0
+1073808431	Engine:Injector Rail Pressure (L-950)	0	0	9
+1073808432	Engine:Intake 1 Temperature (L-950)	0	0	5
+1073808433	Engine:Intake 2 Temperature (L-950)	0	0	5
+1073808434	Engine:Intake 3 Temperature (L-950)	0	0	5
+1073808435	Engine:Intake 4 Temperature (L-950)	0	0	5
+1073808436	Engine:Intercooler Temperature (L-950)	0	0	5
+1073808437	Engine:Intercooler Pressure (L-950)	0	0	9
+1073808438	Engine:Lb Boost Pressure (L-950)	0	0	9
+1073808439	Engine:Load Percentage (L-950)	0	0	25
+1073808440	Engine:Oil Temperature (L-950)	0	0	5
+1073808441	Engine:Oil Pressure (L-950)	0	0	9
+1073808442	Engine:Oil Filter Pressure (L-950)	0	0	9
+1073808443	Engine:Oil Level Percentage (L-950)	0	0	25
+1073808444	Engine:Rb Boost Pressure (L-950)	0	0	9
+1073808445	Engine:Safety Filters Normal/Restricted (L-950)	0	0	0
+1073808446	Engine:Speed Cmd Rpm (L-950)	0	0	28
+1073808447	Engine:Start Cmd Off/On (L-950)	0	0	0
+1073808448	Engine:Red Lamp On/Off (L-950)	0	0	0
+1073808449	Engine:Supply Voltage (L-950)	0	0	31
+1073808450	Engine:Torque Percentage (L-950)	0	0	25
+1073808451	Engine:Turbo Temperature (L-950)	0	0	5
+1073808452	Engine:Turbo Rpm (L-950)	0	0	28
+1073808453	Engine:Yellow Lamp On/Off (L-950)	0	0	0
+1073808454	Fire System Status Active/Inactive (L-950)	0	0	0
+1073808455	Hv Bus Isolation Resistance (L-950)	0	0	43
+1073808456	Hv Bus Isolation Raw Voltage (L-950)	0	0	31
+1073808457	Front Driver Lube Flow Switch Low/Normal (L-950)	0	0	0
+1073808458	Front Park Brakes Pressure (L-950)	0	0	9
+1073808459	Front Service Brakes Pressure (L-950)	0	0	9
+1073808460	Front Washer Pump Off/On (L-950)	0	0	0
+1073808461	Front Wiper High Off/On (L-950)	0	0	0
+1073808462	Front Wiper Low Off/On (L-950)	0	0	0
+1073808463	Fuel Level Percentage (L-950)	0	0	25
+1073808464	Genmst:Braking Status Motoring/Braking (L-950)	0	0	0
+1073808465	Genmst:Bus Voltage (L-950)	0	0	31
+1073808466	Genmst:Drive Mode   (L-950)	0	0	0
+1073808467	Genmst:Drive Mode Cmd   (L-950)	0	0	0
+1073808468	Genmst:Drive State   (L-950)	0	0	0
+1073808469	Genmst:Fault Status Ok/Faulted (L-950)	0	0	0
+1073808470	Genmst:Greatest Igbt Temperature (L-950)	0	0	5
+1073808471	Genmst:Motor Temperature (L-950)	0	0	5
+1073808472	Genmst:Motor Rpm (L-950)	0	0	28
+1073808473	Genmst:Phase 1 Current (L-950)	0	0	2
+1073808474	Genmst:Phase 2 Current (L-950)	0	0	2
+1073808475	Genmst:Phase 3 Current (L-950)	0	0	2
+1073808476	Genmst:Primary Cmd   (L-950)	0	0	0
+1073808477	Genmst:Secondary Cmd   (L-950)	0	0	0
+1073808478	Genmst:Tertiary Cmd   (L-950)	0	0	0
+1073808479	Genmst:Torque Percentage (L-950)	0	0	25
+1073808480	Genslv1:Bus Voltage (L-950)	0	0	31
+1073808481	Genslv1:Data Link Status   (L-950)	0	0	0
+1073808482	Genslv1:Greatest Igbt Temperature (L-950)	0	0	5
+1073808483	Hmi Power Sense Off/On (L-950)	0	0	0
+1073808484	Hoist Cyl Base Pressure (L-950)	0	0	9
+1073808485	Hoist Cyl Ext Distance (L-950)	0	0	17
+1073808486	Hoist Cyl Ext Detent Target Distance (L-950)	0	0	17
+1073808487	Hoist Lower Pilot Sol Percentage (L-950)	0	0	25
+1073808488	Hoist Raise Pilot Sol Percentage (L-950)	0	0	25
+1073808489	Horn Sol Off/On (L-950)	0	0	0
+1073808490	Hpd Gearbox Oil Temperature (L-950)	0	0	5
+1073808491	Hpd Gearbox Pressure (L-950)	0	0	9
+1073808492	Hv Cabinet Door Switch Open/Closed (L-950)	0	0	0
+1073808493	Hv Cabinet E-Stop Switch Pressed/Released (L-950)	0	0	0
+1073808494	Hyd Reservoir Oil Temperature (L-950)	0	0	5
+1073808495	Hyd Reservoir Pressure (L-950)	0	0	9
+1073808496	Hyd Reservoir E-Stop Sw Pressed/Released (L-950)	0	0	0
+1073808497	Hyd Reservoir Level Sw Low/Normal (L-950)	0	0	0
+1073808498	Ignition Keep Alive Output Off/On (L-950)	0	0	0
+1073808499	Jstickl:Acknowledge Switch Released/Pressed (L-950)	0	0	0
+1073808500	Jstickl:Cruise Decrease   (L-950)	0	0	0
+1073808501	Jstickl:Cruise Increase   (L-950)	0	0	0
+1073808502	Jstickl:Direction Switch   (L-950)	0	0	0
+1073808503	Jstickl:Left Steer Percentage (L-950)	0	0	25
+1073808504	Jstickl:Left Turn Switch Released/Pressed (L-950)	0	0	0
+1073808505	Jstickl:Right Steer Percentage (L-950)	0	0	25
+1073808506	Jstickl:Right Turn Switch Released/Pressed (L-950)	0	0	0
+1073808507	Jstickr:Bdrag/Kback Switch Released/Pressed (L-950)	0	0	0
+1073808508	Jstickr:Dump Stick Percentage (L-950)	0	0	25
+1073808509	Jstickr:Dump Wheel Percentage (L-950)	0	0	25
+1073808510	Jstickr:Hoist Detent Switch Released/Pressed (L-950)	0	0	0
+1073808511	Jstickr:Horn Switch Released/Pressed (L-950)	0	0	0
+1073808512	Jstickr:Lower Hoist Percentage (L-950)	0	0	25
+1073808513	Jstickr:Raise Hoist Percentage (L-950)	0	0	25
+1073808514	Jstickr:Return To Dig Switch Released/Pressed (L-950)	0	0	0
+1073808515	Jstickr:Rollback Stick Percentage (L-950)	0	0	25
+1073808516	Jstickr:Rollback Wheel Percentage (L-950)	0	0	25
+1073808517	Keyswitch:Crank Switch Off/On (L-950)	0	0	0
+1073808518	Keyswitch:Ignition Off/On (L-950)	0	0	0
+1073808519	Klenz:1 Sol Timer (L-950)	0	0	29
+1073808520	Klenz:2 Sol Timer (L-950)	0	0	29
+1073808521	Klenz:3 Sol Timer (L-950)	0	0	29
+1073808522	Klenz:4 Sol Timer (L-950)	0	0	29
+1073808523	Klenz:5 Sol Timer (L-950)	0	0	29
+1073808524	Spare:Digital S4C31 Di32 Percentage (L-950)	0	0	25
+1073808525	Klenz:Enable Switch Off/On (L-950)	0	0	0
+1073808526	Klenz:Filter Delta Pressure (L-950)	0	0	9
+1073808527	Klenz:Reservoir Air Pressure (L-950)	0	0	9
+1073808528	Kpad:Alt Height Led1 Percentage (L-950)	0	0	25
+1073808529	Kpad:Alt Speed Switch   (L-950)	0	0	0
+1073808530	Kpad:Alt Speed Led1 Percentage (L-950)	0	0	25
+1073808531	Kpad:Alt Torque Led1 Percentage (L-950)	0	0	25
+1073808532	Kpad:Alt Torque Switch   (L-950)	0	0	0
+1073808533	Kpad:Auto Level Led1 Percentage (L-950)	0	0	25
+1073808534	Kpad:Auto Level Switch   (L-950)	0	0	0
+1073808535	Kpad:Autolube Led1 Percentage (L-950)	0	0	25
+1073808536	Kpad:Autolube Switch   (L-950)	0	0	0
+1073808537	Kpad:Backlight Percentage (L-950)	0	0	25
+1073808538	Kpad:Beacon Led1 Percentage (L-950)	0	0	25
+1073808539	Kpad:Beacon Switch   (L-950)	0	0	0
+1073808540	Kpad:Cowl Lts Led3 Percentage (L-950)	0	0	25
+1073808541	Kpad:Cruise Led1 Percentage (L-950)	0	0	25
+1073808542	Kpad:Cruise Led2 Percentage (L-950)	0	0	25
+1073808543	Kpad:Cruise Switch   (L-950)	0	0	0
+1073808544	Kpad:Drive Enable Switch   (L-950)	0	0	0
+1073808545	Kpad:Drive Enable Led1 Percentage (L-950)	0	0	25
+1073808546	Kpad:Drive Enable Led2 Percentage (L-950)	0	0	25
+1073808547	Kpad:Drive Enable Led3 Percentage (L-950)	0	0	25
+1073808548	Kpad:Alt Height Switch   (L-950)	0	0	0
+1073808549	Kpad:Drive Enable Led4 Percentage (L-950)	0	0	25
+1073808550	Kpad:F Wiper High Led Percentage (L-950)	0	0	25
+1073808551	Kpad:F Wiper Low Led Percentage (L-950)	0	0	25
+1073808552	Kpad:F Wiper Med Led Percentage (L-950)	0	0	25
+1073808553	Kpad:Front Wash Switch   (L-950)	0	0	0
+1073808554	Kpad:Front Wiper Switch   (L-950)	0	0	0
+1073808555	Kpad:Hazard Lts Led1 Percentage (L-950)	0	0	25
+1073808556	Kpad:Hazard Switch   (L-950)	0	0	0
+1073808557	Kpad:High Throttle Led3 Percentage (L-950)	0	0	25
+1073808558	Kpad:Light Bar Lts Led2 Percentage (L-950)	0	0	25
+1073808559	Kpad:Light Switch   (L-950)	0	0	0
+1073808560	Kpad:Low Throttle Led1 Percentage (L-950)	0	0	25
+1073808561	Kpad:Med Throttle Led2 Percentage (L-950)	0	0	25
+1073808562	Kpad:Pole Lts Led1 Percentage (L-950)	0	0	25
+1073808563	Kpad:R Wiper High Led Percentage (L-950)	0	0	25
+1073808564	Kpad:R Wiper Low Led Percentage (L-950)	0	0	25
+1073808565	Kpad:R Wiper Med Led Percentage (L-950)	0	0	25
+1073808566	Kpad:Rear Wash Switch   (L-950)	0	0	0
+1073808567	Kpad:Rear Wiper Switch   (L-950)	0	0	0
+1073808568	Kpad:Spare1 Switch   (L-950)	0	0	0
+1073808569	Kpad:Throttle Switch   (L-950)	0	0	0
+1073808570	Ladder Position Switch Down/Up (L-950)	0	0	0
+1073808571	Left Turn Signal Off/On (L-950)	0	0	0
+1073808572	Left Rear E-Stop Switch Pressed/Released (L-950)	0	0	0
+1073808573	Lf Mst:Braking Status Motoring/Braking (L-950)	0	0	0
+1073808574	Lf Mst:Bus Voltage (L-950)	0	0	31
+1073808575	Lf Mst:Drive Mode   (L-950)	0	0	0
+1073808576	Lf Mst:Drive Mode Cmd   (L-950)	0	0	0
+1073808577	Lf Mst:Drive State   (L-950)	0	0	0
+1073808578	Lf Mst:Fault Status Ok/Faulted (L-950)	0	0	0
+1073808579	Lf Mst:Greatest Igbt Temperature (L-950)	0	0	5
+1073808580	Lf Mst:Motor Temperature (L-950)	0	0	5
+1073808581	Lf Mst:Motor Rpm (L-950)	0	0	28
+1073808582	Lf Mst:Phase 1 Current (L-950)	0	0	2
+1073808583	Lf Mst:Phase 2 Current (L-950)	0	0	2
+1073808584	Lf Mst:Phase 3 Current (L-950)	0	0	2
+1073808585	Lf Mst:Primary Cmd   (L-950)	0	0	0
+1073808586	Lf Mst:Secondary Cmd   (L-950)	0	0	0
+1073808587	Lf Mst:Tertiary Cmd   (L-950)	0	0	0
+1073808588	Lf Mst:Torque Percentage (L-950)	0	0	25
+1073808589	Lift Arm Position Degree (L-950)	0	0	4
+1073808590	Lift Arm Position Raw Voltage (L-950)	0	0	31
+1073808591	Lr Mst:Braking Status Motoring/Braking (L-950)	0	0	0
+1073808592	Lr Mst:Bus Voltage (L-950)	0	0	31
+1073808593	Lr Mst:Drive Mode   (L-950)	0	0	0
+1073808594	Lr Mst:Drive Mode Cmd   (L-950)	0	0	0
+1073808595	Lr Mst:Drive State   (L-950)	0	0	0
+1073808596	Lr Mst:Fault Status Ok/Faulted (L-950)	0	0	0
+1073808597	Lr Mst:Greatest Igbt Temperature (L-950)	0	0	5
+1073808598	Lr Mst:Motor Temperature (L-950)	0	0	5
+1073808599	Lr Mst:Motor Rpm (L-950)	0	0	28
+1073808600	Lr Mst:Phase 1 Current (L-950)	0	0	2
+1073808601	Lr Mst:Phase 2 Current (L-950)	0	0	2
+1073808602	Lr Mst:Phase 3 Current (L-950)	0	0	2
+1073808603	Lr Mst:Primary Cmd   (L-950)	0	0	0
+1073808604	Lr Mst:Secondary Cmd   (L-950)	0	0	0
+1073808605	Lr Mst:Tertiary Cmd   (L-950)	0	0	0
+1073808606	Lr Mst:Torque Percentage (L-950)	0	0	25
+1073808607	Fast Hoist Pump Pressure (L-950)	0	0	9
+1073808608	Hoist / Bucket Pump A Pressure (L-950)	0	0	9
+1073808609	Hoist / Bucket Pump B Pressure (L-950)	0	0	9
+1073808610	Oil Cooler Bypass Sol Off/On (L-950)	0	0	0
+1073808611	Park Brake Intrlock Output Off/On (L-950)	0	0	0
+1073808612	Park Brake Switch In/Out (L-950)	0	0	0
+1073808613	Park Brake Switch Light Off/On (L-950)	0	0	0
+1073808614	Greatest Pilot Cmd Pressure (L-950)	0	0	9
+1073808615	Pilot Supply Pressure (L-950)	0	0	9
+1073808616	Pole Work Lights Off/On (L-950)	0	0	0
+1073808617	Progress Bar Percentage (L-950)	0	0	25
+1073808618	Radiator Fan Pump Pressure (L-950)	0	0	9
+1073808619	Radiator Fan Rpm (L-950)	0	0	28
+1073808620	Radiator Fan Control Sol Percentage (L-950)	0	0	25
+1073808621	Rear Cowl Lights Off/On (L-950)	0	0	0
+1073808622	Rear Driver Lube Flow Switch Low/Normal (L-950)	0	0	0
+1073808623	Rear Park Brakes Pressure (L-950)	0	0	9
+1073808624	Rear Service Brakes Pressure (L-950)	0	0	9
+1073808625	Rear Washer Pump Off/On (L-950)	0	0	0
+1073808626	Rear Wiper Low Output Off/On (L-950)	0	0	0
+1073808627	Red Alarm Light Percentage (L-950)	0	0	25
+1073808628	Hoist Cyl Ext Dig Target Distance (L-950)	0	0	17
+1073808629	Rf Mst:Braking Status Motoring/Braking (L-950)	0	0	0
+1073808630	Rf Mst:Bus Voltage (L-950)	0	0	31
+1073808631	Rf Mst:Drive Mode   (L-950)	0	0	0
+1073808632	Rf Mst:Drive Mode Cmd   (L-950)	0	0	0
+1073808633	Rf Mst:Drive State   (L-950)	0	0	0
+1073808634	Rf Mst:Fault Status Ok/Faulted (L-950)	0	0	0
+1073808635	Rf Mst:Geatest Igbt Temperature (L-950)	0	0	5
+1073808636	Rf Mst:Motor Temperature (L-950)	0	0	5
+1073808637	Rf Mst:Motor Rpm (L-950)	0	0	28
+1073808638	Rf Mst:Phase 1 Current (L-950)	0	0	2
+1073808639	Rf Mst:Phase 2 Current (L-950)	0	0	2
+1073808640	Rf Mst:Phase 3 Current (L-950)	0	0	2
+1073808641	Rf Mst:Primary Cmd   (L-950)	0	0	0
+1073808642	Rf Mst:Secondary Cmd   (L-950)	0	0	0
+1073808643	Rf Mst:Tertiary Cmd   (L-950)	0	0	0
+1073808644	Rf Mst:Torque Percentage (L-950)	0	0	25
+1073808645	Right Turn Signal Off/On (L-950)	0	0	0
+1073808646	Right Rear E-Stop Switch Pressed/Released (L-950)	0	0	0
+1073808647	Rr Mst:Braking Status Motoring/Braking (L-950)	0	0	0
+1073808648	Rr Mst:Bus Voltage (L-950)	0	0	31
+1073808649	Rr Mst:Drive Mode   (L-950)	0	0	0
+1073808650	Rr Mst:Drive Mode Cmd   (L-950)	0	0	0
+1073808651	Rr Mst:Drive State   (L-950)	0	0	0
+1073808652	Rr Mst:Fault Status Ok/Faulted (L-950)	0	0	0
+1073808653	Rr Mst:Greatest Igbt Temperature (L-950)	0	0	5
+1073808654	Rr Mst:Motor Temperature (L-950)	0	0	5
+1073808655	Rr Mst:Motor Rpm (L-950)	0	0	28
+1073808656	Rr Mst:Phase 1 Current (L-950)	0	0	2
+1073808657	Rr Mst:Phase 2 Current (L-950)	0	0	2
+1073808658	Rr Mst:Phase 3 Current (L-950)	0	0	2
+1073808659	Rr Mst:Primary Cmd   (L-950)	0	0	0
+1073808660	Rr Mst:Secondary Cmd   (L-950)	0	0	0
+1073808661	Rr Mst:Tertiary Cmd   (L-950)	0	0	0
+1073808662	Rr Mst:Torque Percentage (L-950)	0	0	25
+1073808663	Shutdown Timer   (L-950)	0	0	29
+1073808664	Spare:0-40V S2C4 Ai5 Voltage (L-950)	0	0	31
+1073808665	Spare:4-20Ma S3C13 Ai46 Percentage (L-950)	0	0	25
+1073808666	Spare:4-20Ma S3C14 Ai47 Percentage (L-950)	0	0	25
+1073808667	Spare:4-20Ma S3C15 Ai48 Percentage (L-950)	0	0	25
+1073808668	Spare:0-40V S2C5 Ai6 Voltage (L-950)	0	0	31
+1073808669	Spare:0-40V S2C6 Ai7 Voltage (L-950)	0	0	31
+1073808670	Spare:Digital S4C29 Di30 Percentage (L-950)	0	0	25
+1073808671	Spare:Digital S4C8 Di9 Percentage (L-950)	0	0	25
+1073808672	Spare:Digital S4C4 Di5 Percentage (L-950)	0	0	25
+1073808673	Spare:Frequency S4C3 Di4 Frequency (L-950)	0	0	32
+1073808674	Drive Sw Power Output Off/On (L-950)	0	0	0
+1073808675	Spd Control Pedal Percentage (L-950)	0	0	25
+1073808676	Spd Control Pedal Raw Voltage (L-950)	0	0	31
+1073808677	Spd Control Pedal Supply Voltage (L-950)	0	0	31
+1073808678	Starter Isolation Switch Off/On (L-950)	0	0	0
+1073808679	Steer Left Output Percentage (L-950)	0	0	25
+1073808680	Steer Position Degree (L-950)	0	0	4
+1073808681	Steer Position Raw Voltage (L-950)	0	0	31
+1073808682	Steer Pump A Pressure (L-950)	0	0	9
+1073808683	Steer Right Output Percentage (L-950)	0	0	25
+1073808684	System Air Pressure (L-950)	0	0	9
+1073808685	Tail Lights Percentage (L-950)	0	0	25
+1073808686	Load Bank Power (L-950)	0	0	12
+1073808687	Vehicle Speed (L-950)	0	0	11
+1073808688	Yellow Warning Light Percentage (L-950)	0	0	25
+1073808689	Spare 4-20Ma: S3C7 Ai40 Voltage (L-950)	0	0	31
+1073808690	Hoist Cyl Rod Pressure (L-950)	0	0	9
+1073808691	Spare: 4-20Ma S3C9 Ai42 Voltage (L-950)	0	0	31
+1073808692	Bucket Cyl Rod Pressure (L-950)	0	0	9
+1073808693	Pump Pressure Control Sol Percentage (L-950)	0	0	25
+1073809361	Bucket Load Weight (L-1150)	0	0	19
+1073809362	Truck Load Weight (L-1150)	0	0	19
+1073809363	Engine Running (L-1150)	0	0	0
+1073809364	Vehicle Tramming (L-1150)	0	0	0
+1073809365	Service Brakes Applied (L-1150)	0	0	0
+1073809366	Accessory Pump Pressure (L-1150)	0	0	9
+1073809367	Ambient Temperature (L-1150)	0	0	5
+1073809368	Autolube Grease Pressure (L-1150)	0	0	9
+1073809369	Autolube Sol Off/On (L-1150)	0	0	0
+1073809370	Autolube Switches Released/Pressed (L-1150)	0	0	0
+1073809371	Aux Fan Enable Sol Off/On (L-1150)	0	0	0
+1073809372	Aux Steer Enable Off/On (L-1150)	0	0	0
+1073809373	Steer Supply Pressure Switch Normal/Low (L-1150)	0	0	0
+1073809374	Backup Lights & Alarm Off/On (L-1150)	0	0	0
+1073809375	Battery Voltage (L-1150)	0	0	31
+1073809376	Beacon Off/On (L-1150)	0	0	0
+1073809377	Bellcrank To Lift Arm Degree (L-1150)	0	0	4
+1073809378	Bellcrank To Lift Arm Raw Voltage (L-1150)	0	0	31
+1073809379	Blower Rpm (L-1150)	0	0	28
+1073809380	Blower Pump Pressure (L-1150)	0	0	9
+1073809381	Blower Control Sol Percentage (L-1150)	0	0	25
+1073809382	Bucket Cyl Ext Distance (L-1150)	0	0	17
+1073809383	Bucket Dump Pilot Sol Percentage (L-1150)	0	0	25
+1073809384	Bucket Load Payload (L-1150)	0	0	19
+1073809385	Bucket Cyl Ext Dig Target Distance (L-1150)	0	0	17
+1073809386	Bucket Rollback Pilot Sol Percentage (L-1150)	0	0	25
+1073809387	Bucket Position Degree (L-1150)	0	0	4
+1073809388	Cab Audible Alarm Off/On (L-1150)	0	0	0
+1073809389	Cab E-Stop Switch Pressed/Released (L-1150)	0	0	0
+1073809390	Cab Light Bar Lights Off/On (L-1150)	0	0	0
+1073809391	Clamshell Close Pilot Sol Percentage (L-1150)	0	0	25
+1073809392	Clamshell Cyl Ext Degree (L-1150)	0	0	4
+1073809393	Clamshell Cyl Ext Raw Voltage (L-1150)	0	0	31
+1073809394	Clamshell Open Pilot Sol Percentage (L-1150)	0	0	25
+1073809395	Vcu Chassis Temperature (L-1150)	0	0	5
+1073809396	Vcu / Hmi Keep Alive Off/On (L-1150)	0	0	0
+1073809397	Digital Output Power Off/On (L-1150)	0	0	0
+1073809398	Drive Cool Pump 1 Cmd Percentage (L-1150)	0	0	25
+1073809399	Drive Cool Pump 1 Speed Percentage (L-1150)	0	0	25
+1073809400	Drive Cool Pump 2 Cmd Percentage (L-1150)	0	0	25
+1073809401	Drive Cool Pump 2 Speed Percentage (L-1150)	0	0	25
+1073809402	Drive Cool Reservoir Level Sw Low/Normal (L-1150)	0	0	0
+1073809403	Max Dump Pressure Sol Off/On (L-1150)	0	0	0
+1073809404	Machine Hours (L-1150)	0	0	7
+1073809405	Engine: Rpm (L-1150)	0	0	28
+1073809406	Engine:Barometric Pressure (L-1150)	0	0	9
+1073809407	Engine:Blue Lamp On/Off (L-1150)	0	0	0
+1073809408	Engine:Coolant Temperature (L-1150)	0	0	5
+1073809409	Engine:Coolant Pressure (L-1150)	0	0	9
+1073809410	Engine:Crankcase Pressure (L-1150)	0	0	9
+1073809411	Engine:Exhaust 1 Temperature (L-1150)	0	0	5
+1073809412	Engine:Exhaust 10 Temperature (L-1150)	0	0	5
+1073809413	Engine:Exhaust 11 Temperature (L-1150)	0	0	5
+1073809414	Engine:Exhaust 12 Temperature (L-1150)	0	0	5
+1073809415	Engine:Exhaust 13 Temperature (L-1150)	0	0	5
+1073809416	Engine:Exhaust 14 Temperature (L-1150)	0	0	5
+1073809417	Engine:Exhaust 15 Temperature (L-1150)	0	0	5
+1073809418	Engine:Exhaust 16 Temperature (L-1150)	0	0	5
+1073809419	Engine:Exhaust 2 Temperature (L-1150)	0	0	5
+1073809420	Engine:Exhaust 3 Temperature (L-1150)	0	0	5
+1073809421	Engine:Exhaust 4 Temperature (L-1150)	0	0	5
+1073809422	Engine:Exhaust 5 Temperature (L-1150)	0	0	5
+1073809423	Engine:Exhaust 6 Temperature (L-1150)	0	0	5
+1073809424	Engine:Exhaust 7 Temperature (L-1150)	0	0	5
+1073809425	Engine:Exhaust 8 Temperature (L-1150)	0	0	5
+1073809426	Engine:Exhaust 9 Temperature (L-1150)	0	0	5
+1073809427	Engine:Fuel Temperature (L-1150)	0	0	5
+1073809428	Engine:Fuel Pressure (L-1150)	0	0	9
+1073809429	Engine:Fuel Rate (L-1150)	0	0	13
+1073809430	Engine:Ignition Off/On (L-1150)	0	0	0
+1073809431	Engine:Injector Rail Pressure (L-1150)	0	0	9
+1073809432	Engine:Intake 1 Temperature (L-1150)	0	0	5
+1073809433	Engine:Intake 2 Temperature (L-1150)	0	0	5
+1073809434	Engine:Intake 3 Temperature (L-1150)	0	0	5
+1073809435	Engine:Intake 4 Temperature (L-1150)	0	0	5
+1073809436	Engine:Intercooler Temperature (L-1150)	0	0	5
+1073809437	Engine:Intercooler Pressure (L-1150)	0	0	9
+1073809438	Engine:Lb Boost Pressure (L-1150)	0	0	9
+1073809439	Engine:Load Percentage (L-1150)	0	0	25
+1073809440	Engine:Oil Temperature (L-1150)	0	0	5
+1073809441	Engine:Oil Pressure (L-1150)	0	0	9
+1073809442	Engine:Oil Filter Pressure (L-1150)	0	0	9
+1073809443	Engine:Oil Level Percentage (L-1150)	0	0	25
+1073809444	Engine:Rb Boost Pressure (L-1150)	0	0	9
+1073809445	Engine:Safety Filters Normal/Restricted (L-1150)	0	0	0
+1073809446	Engine:Speed Cmd Rpm (L-1150)	0	0	28
+1073809447	Engine:Start Cmd Off/On (L-1150)	0	0	0
+1073809448	Engine:Red Lamp On/Off (L-1150)	0	0	0
+1073809449	Engine:Supply Voltage (L-1150)	0	0	31
+1073809450	Engine:Torque Percentage (L-1150)	0	0	25
+1073809451	Engine:Turbo Temperature (L-1150)	0	0	5
+1073809452	Engine:Turbo Rpm (L-1150)	0	0	28
+1073809453	Engine:Yellow Lamp On/Off (L-1150)	0	0	0
+1073809454	Fire System Status Active/Inactive (L-1150)	0	0	0
+1073809455	Hv Bus Isolation Resistance (L-1150)	0	0	43
+1073809456	Hv Bus Isolation Raw Voltage (L-1150)	0	0	31
+1073809457	Front Driver Lube Flow Switch Low/Normal (L-1150)	0	0	0
+1073809458	Front Park Brakes Pressure (L-1150)	0	0	9
+1073809459	Front Service Brakes Pressure (L-1150)	0	0	9
+1073809460	Front Washer Pump Off/On (L-1150)	0	0	0
+1073809461	Front Wiper High Off/On (L-1150)	0	0	0
+1073809462	Front Wiper Low Off/On (L-1150)	0	0	0
+1073809463	Fuel Level Percentage (L-1150)	0	0	25
+1073809464	Genmst:Braking Status Motoring/Braking (L-1150)	0	0	0
+1073809465	Genmst:Bus Voltage (L-1150)	0	0	31
+1073809466	Genmst:Drive Mode   (L-1150)	0	0	0
+1073809467	Genmst:Drive Mode Cmd   (L-1150)	0	0	0
+1073809468	Genmst:Drive State   (L-1150)	0	0	0
+1073809469	Genmst:Fault Status Ok/Faulted (L-1150)	0	0	0
+1073809470	Genmst:Greatest Igbt Temperature (L-1150)	0	0	5
+1073809471	Genmst:Motor Temperature (L-1150)	0	0	5
+1073809472	Genmst:Motor Rpm (L-1150)	0	0	28
+1073809473	Genmst:Phase 1 Current (L-1150)	0	0	2
+1073809474	Genmst:Phase 2 Current (L-1150)	0	0	2
+1073809475	Genmst:Phase 3 Current (L-1150)	0	0	2
+1073809476	Genmst:Primary Cmd   (L-1150)	0	0	0
+1073809477	Genmst:Secondary Cmd   (L-1150)	0	0	0
+1073809478	Genmst:Tertiary Cmd   (L-1150)	0	0	0
+1073809479	Genmst:Torque Percentage (L-1150)	0	0	25
+1073809480	Genslv1:Bus Voltage (L-1150)	0	0	31
+1073809481	Genslv1:Data Link Status   (L-1150)	0	0	0
+1073809482	Genslv1:Greatest Igbt Temperature (L-1150)	0	0	5
+1073809483	Hmi Power Sense Off/On (L-1150)	0	0	0
+1073809484	Hoist Cyl Base Pressure (L-1150)	0	0	9
+1073809485	Hoist Cyl Ext Distance (L-1150)	0	0	17
+1073809486	Hoist Cyl Ext Detent Target Distance (L-1150)	0	0	17
+1073809487	Hoist Lower Pilot Sol Percentage (L-1150)	0	0	25
+1073809488	Hoist Raise Pilot Sol Percentage (L-1150)	0	0	25
+1073809489	Horn Sol Off/On (L-1150)	0	0	0
+1073809490	Hpd Gearbox Oil Temperature (L-1150)	0	0	5
+1073809491	Hpd Gearbox Pressure (L-1150)	0	0	9
+1073809492	Hv Cabinet Door Switch Open/Closed (L-1150)	0	0	0
+1073809493	Hv Cabinet E-Stop Switch Pressed/Released (L-1150)	0	0	0
+1073809494	Hyd Reservoir Oil Temperature (L-1150)	0	0	5
+1073809495	Hyd Reservoir Pressure (L-1150)	0	0	9
+1073809496	Hyd Reservoir E-Stop Sw Pressed/Released (L-1150)	0	0	0
+1073809497	Hyd Reservoir Level Sw Low/Normal (L-1150)	0	0	0
+1073809498	Ignition Keep Alive Output Off/On (L-1150)	0	0	0
+1073809499	Jstickl:Acknowledge Switch Released/Pressed (L-1150)	0	0	0
+1073809500	Jstickl:Cruise Decrease   (L-1150)	0	0	0
+1073809501	Jstickl:Cruise Increase   (L-1150)	0	0	0
+1073809502	Jstickl:Direction Switch   (L-1150)	0	0	0
+1073809503	Jstickl:Left Steer Percentage (L-1150)	0	0	25
+1073809504	Jstickl:Left Turn Switch Released/Pressed (L-1150)	0	0	0
+1073809505	Jstickl:Right Steer Percentage (L-1150)	0	0	25
+1073809506	Jstickl:Right Turn Switch Released/Pressed (L-1150)	0	0	0
+1073809507	Jstickr:Bdrag/Kback Switch Released/Pressed (L-1150)	0	0	0
+1073809508	Jstickr:Dump Stick Percentage (L-1150)	0	0	25
+1073809509	Jstickr:Dump Wheel Percentage (L-1150)	0	0	25
+1073809510	Jstickr:Hoist Detent Switch Released/Pressed (L-1150)	0	0	0
+1073809511	Jstickr:Horn Switch Released/Pressed (L-1150)	0	0	0
+1073809512	Jstickr:Lower Hoist Percentage (L-1150)	0	0	25
+1073809513	Jstickr:Raise Hoist Percentage (L-1150)	0	0	25
+1073809514	Jstickr:Return To Dig Switch Released/Pressed (L-1150)	0	0	0
+1073809515	Jstickr:Rollback Stick Percentage (L-1150)	0	0	25
+1073809516	Jstickr:Rollback Wheel Percentage (L-1150)	0	0	25
+1073809517	Keyswitch:Crank Switch Off/On (L-1150)	0	0	0
+1073809518	Keyswitch:Ignition Off/On (L-1150)	0	0	0
+1073809519	Klenz:1 Sol Timer (L-1150)	0	0	29
+1073809520	Klenz:2 Sol Timer (L-1150)	0	0	29
+1073809521	Klenz:3 Sol Timer (L-1150)	0	0	29
+1073809522	Klenz:4 Sol Timer (L-1150)	0	0	29
+1073809523	Klenz:5 Sol Timer (L-1150)	0	0	29
+1073809524	Spare:Digital S4C31 Di32 Percentage (L-1150)	0	0	25
+1073809525	Klenz:Enable Switch Off/On (L-1150)	0	0	0
+1073809526	Klenz:Filter Delta Pressure (L-1150)	0	0	9
+1073809527	Klenz:Reservoir Air Pressure (L-1150)	0	0	9
+1073809528	Kpad:Alt Height Led1 Percentage (L-1150)	0	0	25
+1073809529	Kpad:Alt Speed Switch   (L-1150)	0	0	0
+1073809530	Kpad:Alt Speed Led1 Percentage (L-1150)	0	0	25
+1073809531	Kpad:Alt Torque Led1 Percentage (L-1150)	0	0	25
+1073809532	Kpad:Alt Torque Switch   (L-1150)	0	0	0
+1073809533	Kpad:Auto Level Led1 Percentage (L-1150)	0	0	25
+1073809534	Kpad:Auto Level Switch   (L-1150)	0	0	0
+1073809535	Kpad:Autolube Led1 Percentage (L-1150)	0	0	25
+1073809536	Kpad:Autolube Switch   (L-1150)	0	0	0
+1073809537	Kpad:Backlight Percentage (L-1150)	0	0	25
+1073809538	Kpad:Beacon Led1 Percentage (L-1150)	0	0	25
+1073809539	Kpad:Beacon Switch   (L-1150)	0	0	0
+1073809540	Kpad:Cowl Lts Led3 Percentage (L-1150)	0	0	25
+1073809541	Kpad:Cruise Led1 Percentage (L-1150)	0	0	25
+1073809542	Kpad:Cruise Led2 Percentage (L-1150)	0	0	25
+1073809543	Kpad:Cruise Switch   (L-1150)	0	0	0
+1073809544	Kpad:Drive Enable Switch   (L-1150)	0	0	0
+1073809545	Kpad:Drive Enable Led1 Percentage (L-1150)	0	0	25
+1073809546	Kpad:Drive Enable Led2 Percentage (L-1150)	0	0	25
+1073809547	Kpad:Drive Enable Led3 Percentage (L-1150)	0	0	25
+1073809548	Kpad:Alt Height Switch   (L-1150)	0	0	0
+1073809549	Kpad:Drive Enable Led4 Percentage (L-1150)	0	0	25
+1073809550	Kpad:F Wiper High Led Percentage (L-1150)	0	0	25
+1073809551	Kpad:F Wiper Low Led Percentage (L-1150)	0	0	25
+1073809552	Kpad:F Wiper Med Led Percentage (L-1150)	0	0	25
+1073809553	Kpad:Front Wash Switch   (L-1150)	0	0	0
+1073809554	Kpad:Front Wiper Switch   (L-1150)	0	0	0
+1073809555	Kpad:Hazard Lts Led1 Percentage (L-1150)	0	0	25
+1073809556	Kpad:Hazard Switch   (L-1150)	0	0	0
+1073809557	Kpad:High Throttle Led3 Percentage (L-1150)	0	0	25
+1073809558	Kpad:Light Bar Lts Led2 Percentage (L-1150)	0	0	25
+1073809559	Kpad:Light Switch   (L-1150)	0	0	0
+1073809560	Kpad:Low Throttle Led1 Percentage (L-1150)	0	0	25
+1073809561	Kpad:Med Throttle Led2 Percentage (L-1150)	0	0	25
+1073809562	Kpad:Pole Lts Led1 Percentage (L-1150)	0	0	25
+1073809563	Kpad:R Wiper High Led Percentage (L-1150)	0	0	25
+1073809564	Kpad:R Wiper Low Led Percentage (L-1150)	0	0	25
+1073809565	Kpad:R Wiper Med Led Percentage (L-1150)	0	0	25
+1073809566	Kpad:Rear Wash Switch   (L-1150)	0	0	0
+1073809567	Kpad:Rear Wiper Switch   (L-1150)	0	0	0
+1073809568	Kpad:Spare1 Switch   (L-1150)	0	0	0
+1073809569	Kpad:Throttle Switch   (L-1150)	0	0	0
+1073809570	Ladder Position Switch Down/Up (L-1150)	0	0	0
+1073809571	Left Turn Signal Off/On (L-1150)	0	0	0
+1073809572	Left Rear E-Stop Switch Pressed/Released (L-1150)	0	0	0
+1073809573	Lf Mst:Braking Status Motoring/Braking (L-1150)	0	0	0
+1073809574	Lf Mst:Bus Voltage (L-1150)	0	0	31
+1073809575	Lf Mst:Drive Mode   (L-1150)	0	0	0
+1073809576	Lf Mst:Drive Mode Cmd   (L-1150)	0	0	0
+1073809577	Lf Mst:Drive State   (L-1150)	0	0	0
+1073809578	Lf Mst:Fault Status Ok/Faulted (L-1150)	0	0	0
+1073809579	Lf Mst:Greatest Igbt Temperature (L-1150)	0	0	5
+1073809580	Lf Mst:Motor Temperature (L-1150)	0	0	5
+1073809581	Lf Mst:Motor Rpm (L-1150)	0	0	28
+1073809582	Lf Mst:Phase 1 Current (L-1150)	0	0	2
+1073809583	Lf Mst:Phase 2 Current (L-1150)	0	0	2
+1073809584	Lf Mst:Phase 3 Current (L-1150)	0	0	2
+1073809585	Lf Mst:Primary Cmd   (L-1150)	0	0	0
+1073809586	Lf Mst:Secondary Cmd   (L-1150)	0	0	0
+1073809587	Lf Mst:Tertiary Cmd   (L-1150)	0	0	0
+1073809588	Lf Mst:Torque Percentage (L-1150)	0	0	25
+1073809589	Lift Arm Position Degree (L-1150)	0	0	4
+1073809590	Lift Arm Position Raw Voltage (L-1150)	0	0	31
+1073809591	Lr Mst:Braking Status Motoring/Braking (L-1150)	0	0	0
+1073809592	Lr Mst:Bus Voltage (L-1150)	0	0	31
+1073809593	Lr Mst:Drive Mode   (L-1150)	0	0	0
+1073809594	Lr Mst:Drive Mode Cmd   (L-1150)	0	0	0
+1073809595	Lr Mst:Drive State   (L-1150)	0	0	0
+1073809596	Lr Mst:Fault Status Ok/Faulted (L-1150)	0	0	0
+1073809597	Lr Mst:Greatest Igbt Temperature (L-1150)	0	0	5
+1073809598	Lr Mst:Motor Temperature (L-1150)	0	0	5
+1073809599	Lr Mst:Motor Rpm (L-1150)	0	0	28
+1073809600	Lr Mst:Phase 1 Current (L-1150)	0	0	2
+1073809601	Lr Mst:Phase 2 Current (L-1150)	0	0	2
+1073809602	Lr Mst:Phase 3 Current (L-1150)	0	0	2
+1073809603	Lr Mst:Primary Cmd   (L-1150)	0	0	0
+1073809604	Lr Mst:Secondary Cmd   (L-1150)	0	0	0
+1073809605	Lr Mst:Tertiary Cmd   (L-1150)	0	0	0
+1073809606	Lr Mst:Torque Percentage (L-1150)	0	0	25
+1073809607	Fast Hoist Pump Pressure (L-1150)	0	0	9
+1073809608	Hoist / Bucket Pump A Pressure (L-1150)	0	0	9
+1073809609	Hoist / Bucket Pump B Pressure (L-1150)	0	0	9
+1073809610	Oil Cooler Bypass Sol Off/On (L-1150)	0	0	0
+1073809611	Park Brake Intrlock Output Off/On (L-1150)	0	0	0
+1073809612	Park Brake Switch In/Out (L-1150)	0	0	0
+1073809613	Park Brake Switch Light Off/On (L-1150)	0	0	0
+1073809614	Greatest Pilot Cmd Pressure (L-1150)	0	0	9
+1073809615	Pilot Supply Pressure (L-1150)	0	0	9
+1073809616	Pole Work Lights Off/On (L-1150)	0	0	0
+1073809617	Progress Bar Percentage (L-1150)	0	0	25
+1073809618	Radiator Fan Pump Pressure (L-1150)	0	0	9
+1073809619	Radiator Fan Rpm (L-1150)	0	0	28
+1073809620	Radiator Fan Control Sol Percentage (L-1150)	0	0	25
+1073809621	Rear Cowl Lights Off/On (L-1150)	0	0	0
+1073809622	Rear Driver Lube Flow Switch Low/Normal (L-1150)	0	0	0
+1073809623	Rear Park Brakes Pressure (L-1150)	0	0	9
+1073809624	Rear Service Brakes Pressure (L-1150)	0	0	9
+1073809625	Rear Washer Pump Off/On (L-1150)	0	0	0
+1073809626	Rear Wiper Low Output Off/On (L-1150)	0	0	0
+1073809627	Red Alarm Light Percentage (L-1150)	0	0	25
+1073809628	Hoist Cyl Ext Dig Target Distance (L-1150)	0	0	17
+1073809629	Rf Mst:Braking Status Motoring/Braking (L-1150)	0	0	0
+1073809630	Rf Mst:Bus Voltage (L-1150)	0	0	31
+1073809631	Rf Mst:Drive Mode   (L-1150)	0	0	0
+1073809632	Rf Mst:Drive Mode Cmd   (L-1150)	0	0	0
+1073809633	Rf Mst:Drive State   (L-1150)	0	0	0
+1073809634	Rf Mst:Fault Status Ok/Faulted (L-1150)	0	0	0
+1073809635	Rf Mst:Geatest Igbt Temperature (L-1150)	0	0	5
+1073809636	Rf Mst:Motor Temperature (L-1150)	0	0	5
+1073809637	Rf Mst:Motor Rpm (L-1150)	0	0	28
+1073809638	Rf Mst:Phase 1 Current (L-1150)	0	0	2
+1073809639	Rf Mst:Phase 2 Current (L-1150)	0	0	2
+1073809640	Rf Mst:Phase 3 Current (L-1150)	0	0	2
+1073809641	Rf Mst:Primary Cmd   (L-1150)	0	0	0
+1073809642	Rf Mst:Secondary Cmd   (L-1150)	0	0	0
+1073809643	Rf Mst:Tertiary Cmd   (L-1150)	0	0	0
+1073809644	Rf Mst:Torque Percentage (L-1150)	0	0	25
+1073809645	Right Turn Signal Off/On (L-1150)	0	0	0
+1073809646	Right Rear E-Stop Switch Pressed/Released (L-1150)	0	0	0
+1073809647	Rr Mst:Braking Status Motoring/Braking (L-1150)	0	0	0
+1073809648	Rr Mst:Bus Voltage (L-1150)	0	0	31
+1073809649	Rr Mst:Drive Mode   (L-1150)	0	0	0
+1073809650	Rr Mst:Drive Mode Cmd   (L-1150)	0	0	0
+1073809651	Rr Mst:Drive State   (L-1150)	0	0	0
+1073809652	Rr Mst:Fault Status Ok/Faulted (L-1150)	0	0	0
+1073809653	Rr Mst:Greatest Igbt Temperature (L-1150)	0	0	5
+1073809654	Rr Mst:Motor Temperature (L-1150)	0	0	5
+1073809655	Rr Mst:Motor Rpm (L-1150)	0	0	28
+1073809656	Rr Mst:Phase 1 Current (L-1150)	0	0	2
+1073809657	Rr Mst:Phase 2 Current (L-1150)	0	0	2
+1073809658	Rr Mst:Phase 3 Current (L-1150)	0	0	2
+1073809659	Rr Mst:Primary Cmd   (L-1150)	0	0	0
+1073809660	Rr Mst:Secondary Cmd   (L-1150)	0	0	0
+1073809661	Rr Mst:Tertiary Cmd   (L-1150)	0	0	0
+1073809662	Rr Mst:Torque Percentage (L-1150)	0	0	25
+1073809663	Shutdown Timer   (L-1150)	0	0	29
+1073809664	Spare:0-40V S2C4 Ai5 Voltage (L-1150)	0	0	31
+1073809665	Spare:4-20Ma S3C13 Ai46 Percentage (L-1150)	0	0	25
+1073809666	Spare:4-20Ma S3C14 Ai47 Percentage (L-1150)	0	0	25
+1073809667	Spare:4-20Ma S3C15 Ai48 Percentage (L-1150)	0	0	25
+1073809668	Spare:0-40V S2C5 Ai6 Voltage (L-1150)	0	0	31
+1073809669	Spare:0-40V S2C6 Ai7 Voltage (L-1150)	0	0	31
+1073809670	Spare:Digital S4C29 Di30 Percentage (L-1150)	0	0	25
+1073809671	Spare:Digital S4C8 Di9 Percentage (L-1150)	0	0	25
+1073809672	Spare:Digital S4C4 Di5 Percentage (L-1150)	0	0	25
+1073809673	Spare:Frequency S4C3 Di4 Frequency (L-1150)	0	0	32
+1073809674	Drive Sw Power Output Off/On (L-1150)	0	0	0
+1073809675	Spd Control Pedal Percentage (L-1150)	0	0	25
+1073809676	Spd Control Pedal Raw Voltage (L-1150)	0	0	31
+1073809677	Spd Control Pedal Supply Voltage (L-1150)	0	0	31
+1073809678	Starter Isolation Switch Off/On (L-1150)	0	0	0
+1073809679	Steer Left Output Percentage (L-1150)	0	0	25
+1073809680	Steer Position Degree (L-1150)	0	0	4
+1073809681	Steer Position Raw Voltage (L-1150)	0	0	31
+1073809682	Steer Pump A Pressure (L-1150)	0	0	9
+1073809683	Steer Right Output Percentage (L-1150)	0	0	25
+1073809684	System Air Pressure (L-1150)	0	0	9
+1073809685	Tail Lights Percentage (L-1150)	0	0	25
+1073809686	Load Bank Power (L-1150)	0	0	12
+1073809687	Vehicle Speed (L-1150)	0	0	11
+1073809688	Yellow Warning Light Percentage (L-1150)	0	0	25
+1073809689	Spare 4-20Ma: S3C7 Ai40 Voltage (L-1150)	0	0	31
+1073809690	Hoist Cyl Rod Pressure (L-1150)	0	0	9
+1073809691	Spare: 4-20Ma S3C9 Ai42 Voltage (L-1150)	0	0	31
+1073809692	Bucket Cyl Rod Pressure (L-1150)	0	0	9
+1073809693	Pump Pressure Control Sol Percentage (L-1150)	0	0	25
+1073810361	Bucket Load Weight (L-1350)	0	0	19
+1073810362	Truck Load Weight (L-1350)	0	0	19
+1073810363	Engine Running (L-1350)	0	0	0
+1073810364	Vehicle Tramming (L-1350)	0	0	0
+1073810365	Service Brakes Applied (L-1350)	0	0	0
+1073810366	Accessory Pump Pressure (L-1350)	0	0	9
+1073810367	Ambient Temperature (L-1350)	0	0	5
+1073810368	Autolube Grease Pressure (L-1350)	0	0	9
+1073810369	Autolube Sol Off/On (L-1350)	0	0	0
+1073810370	Autolube Switches Released/Pressed (L-1350)	0	0	0
+1073810371	Aux Fan Enable Sol Off/On (L-1350)	0	0	0
+1073810372	Aux Steer Enable Off/On (L-1350)	0	0	0
+1073810373	Steer Supply Pressure Switch Normal/Low (L-1350)	0	0	0
+1073810374	Backup Lights & Alarm Off/On (L-1350)	0	0	0
+1073810375	Battery Voltage (L-1350)	0	0	31
+1073810376	Beacon Off/On (L-1350)	0	0	0
+1073810377	Bellcrank To Lift Arm Degree (L-1350)	0	0	4
+1073810378	Bellcrank To Lift Arm Raw Voltage (L-1350)	0	0	31
+1073810379	Blower Rpm (L-1350)	0	0	28
+1073810380	Blower Pump Pressure (L-1350)	0	0	9
+1073810381	Blower Control Sol Percentage (L-1350)	0	0	25
+1073810382	Bucket Cyl Ext Distance (L-1350)	0	0	17
+1073810383	Bucket Dump Pilot Sol Percentage (L-1350)	0	0	25
+1073810384	Bucket Load Payload (L-1350)	0	0	19
+1073810385	Bucket Cyl Ext Dig Target Distance (L-1350)	0	0	17
+1073810386	Bucket Rollback Pilot Sol Percentage (L-1350)	0	0	25
+1073810387	Bucket Position Degree (L-1350)	0	0	4
+1073810388	Cab Audible Alarm Off/On (L-1350)	0	0	0
+1073810389	Cab E-Stop Switch Pressed/Released (L-1350)	0	0	0
+1073810390	Cab Light Bar Lights Off/On (L-1350)	0	0	0
+1073810391	Clamshell Close Pilot Sol Percentage (L-1350)	0	0	25
+1073810392	Clamshell Cyl Ext Degree (L-1350)	0	0	4
+1073810393	Clamshell Cyl Ext Raw Voltage (L-1350)	0	0	31
+1073810394	Clamshell Open Pilot Sol Percentage (L-1350)	0	0	25
+1073810395	Vcu Chassis Temperature (L-1350)	0	0	5
+1073810396	Vcu / Hmi Keep Alive Off/On (L-1350)	0	0	0
+1073810397	Digital Output Power Off/On (L-1350)	0	0	0
+1073810398	Drive Cool Pump 1 Cmd Percentage (L-1350)	0	0	25
+1073810399	Drive Cool Pump 1 Speed Percentage (L-1350)	0	0	25
+1073810400	Drive Cool Pump 2 Cmd Percentage (L-1350)	0	0	25
+1073810401	Drive Cool Pump 2 Speed Percentage (L-1350)	0	0	25
+1073810402	Drive Cool Reservoir Level Sw Low/Normal (L-1350)	0	0	0
+1073810403	Max Dump Pressure Sol Off/On (L-1350)	0	0	0
+1073810404	Machine Hours (L-1350)	0	0	7
+1073810405	Engine: Rpm (L-1350)	0	0	28
+1073810406	Engine:Barometric Pressure (L-1350)	0	0	9
+1073810407	Engine:Blue Lamp On/Off (L-1350)	0	0	0
+1073810408	Engine:Coolant Temperature (L-1350)	0	0	5
+1073810409	Engine:Coolant Pressure (L-1350)	0	0	9
+1073810410	Engine:Crankcase Pressure (L-1350)	0	0	9
+1073810411	Engine:Exhaust 1 Temperature (L-1350)	0	0	5
+1073810412	Engine:Exhaust 10 Temperature (L-1350)	0	0	5
+1073810413	Engine:Exhaust 11 Temperature (L-1350)	0	0	5
+1073810414	Engine:Exhaust 12 Temperature (L-1350)	0	0	5
+1073810415	Engine:Exhaust 13 Temperature (L-1350)	0	0	5
+1073810416	Engine:Exhaust 14 Temperature (L-1350)	0	0	5
+1073810417	Engine:Exhaust 15 Temperature (L-1350)	0	0	5
+1073810418	Engine:Exhaust 16 Temperature (L-1350)	0	0	5
+1073810419	Engine:Exhaust 2 Temperature (L-1350)	0	0	5
+1073810420	Engine:Exhaust 3 Temperature (L-1350)	0	0	5
+1073810421	Engine:Exhaust 4 Temperature (L-1350)	0	0	5
+1073810422	Engine:Exhaust 5 Temperature (L-1350)	0	0	5
+1073810423	Engine:Exhaust 6 Temperature (L-1350)	0	0	5
+1073810424	Engine:Exhaust 7 Temperature (L-1350)	0	0	5
+1073810425	Engine:Exhaust 8 Temperature (L-1350)	0	0	5
+1073810426	Engine:Exhaust 9 Temperature (L-1350)	0	0	5
+1073810427	Engine:Fuel Temperature (L-1350)	0	0	5
+1073810428	Engine:Fuel Pressure (L-1350)	0	0	9
+1073810429	Engine:Fuel Rate (L-1350)	0	0	13
+1073810430	Engine:Ignition Off/On (L-1350)	0	0	0
+1073810431	Engine:Injector Rail Pressure (L-1350)	0	0	9
+1073810432	Engine:Intake 1 Temperature (L-1350)	0	0	5
+1073810433	Engine:Intake 2 Temperature (L-1350)	0	0	5
+1073810434	Engine:Intake 3 Temperature (L-1350)	0	0	5
+1073810435	Engine:Intake 4 Temperature (L-1350)	0	0	5
+1073810436	Engine:Intercooler Temperature (L-1350)	0	0	5
+1073810437	Engine:Intercooler Pressure (L-1350)	0	0	9
+1073810438	Engine:Lb Boost Pressure (L-1350)	0	0	9
+1073810439	Engine:Load Percentage (L-1350)	0	0	25
+1073810440	Engine:Oil Temperature (L-1350)	0	0	5
+1073810441	Engine:Oil Pressure (L-1350)	0	0	9
+1073810442	Engine:Oil Filter Pressure (L-1350)	0	0	9
+1073810443	Engine:Oil Level Percentage (L-1350)	0	0	25
+1073810444	Engine:Rb Boost Pressure (L-1350)	0	0	9
+1073810445	Engine:Safety Filters Normal/Restricted (L-1350)	0	0	0
+1073810446	Engine:Speed Cmd Rpm (L-1350)	0	0	28
+1073810447	Engine:Start Cmd Off/On (L-1350)	0	0	0
+1073810448	Engine:Red Lamp On/Off (L-1350)	0	0	0
+1073810449	Engine:Supply Voltage (L-1350)	0	0	31
+1073810450	Engine:Torque Percentage (L-1350)	0	0	25
+1073810451	Engine:Turbo Temperature (L-1350)	0	0	5
+1073810452	Engine:Turbo Rpm (L-1350)	0	0	28
+1073810453	Engine:Yellow Lamp On/Off (L-1350)	0	0	0
+1073810454	Fire System Status Active/Inactive (L-1350)	0	0	0
+1073810455	Float Sol Off/On (L-1350)	0	0	0
+1073810456	Hv Bus Isolation Resistance (L-1350)	0	0	43
+1073810457	Hv Bus Isolation Raw Voltage (L-1350)	0	0	31
+1073810458	Front Driver Lube Flow Switch Low/Normal (L-1350)	0	0	0
+1073810459	Front Park Brakes Pressure (L-1350)	0	0	9
+1073810460	Front Service Brakes Pressure (L-1350)	0	0	9
+1073810461	Front Washer Pump Off/On (L-1350)	0	0	0
+1073810462	Front Wiper High Off/On (L-1350)	0	0	0
+1073810463	Front Wiper Low Off/On (L-1350)	0	0	0
+1073810464	Fuel Level Percentage (L-1350)	0	0	25
+1073810465	Genmst:Braking Status Motoring/Braking (L-1350)	0	0	0
+1073810466	Genmst:Bus Voltage (L-1350)	0	0	31
+1073810467	Genmst:Drive Mode   (L-1350)	0	0	0
+1073810468	Genmst:Drive Mode Cmd   (L-1350)	0	0	0
+1073810469	Genmst:Drive State   (L-1350)	0	0	0
+1073810470	Genmst:Fault Status Ok/Faulted (L-1350)	0	0	0
+1073810471	Genmst:Greatest Igbt Temperature (L-1350)	0	0	5
+1073810472	Genmst:Motor Temperature (L-1350)	0	0	5
+1073810473	Genmst:Motor Rpm (L-1350)	0	0	28
+1073810474	Genmst:Phase 1 Current (L-1350)	0	0	2
+1073810475	Genmst:Phase 2 Current (L-1350)	0	0	2
+1073810476	Genmst:Phase 3 Current (L-1350)	0	0	2
+1073810477	Genmst:Primary Cmd   (L-1350)	0	0	0
+1073810478	Genmst:Secondary Cmd   (L-1350)	0	0	0
+1073810479	Genmst:Tertiary Cmd   (L-1350)	0	0	0
+1073810480	Genmst:Torque Percentage (L-1350)	0	0	25
+1073810481	Genslv1:Bus Voltage (L-1350)	0	0	31
+1073810482	Genslv1:Data Link Status   (L-1350)	0	0	0
+1073810483	Genslv1:Greatest Igbt Temperature (L-1350)	0	0	5
+1073810484	Genslv2:Bus Voltage (L-1350)	0	0	31
+1073810485	Genslv2:Data Link Status   (L-1350)	0	0	0
+1073810486	Genslv2:Greatest Igbt Temperature (L-1350)	0	0	5
+1073810487	Hmi Power Sense Off/On (L-1350)	0	0	0
+1073810488	Hoist Cyl Base Pressure (L-1350)	0	0	9
+1073810489	Hoist Cyl Ext Distance (L-1350)	0	0	17
+1073810490	Hoist Cyl Ext Detent Target Distance (L-1350)	0	0	17
+1073810491	Hoist Lower Pilot Sol Percentage (L-1350)	0	0	25
+1073810492	Hoist Raise Pilot Sol Percentage (L-1350)	0	0	25
+1073810493	Horn Sol Off/On (L-1350)	0	0	0
+1073810494	Hpd Gearbox Oil Temperature (L-1350)	0	0	5
+1073810495	Hpd Gearbox Pressure (L-1350)	0	0	9
+1073810496	Hv Cabinet Door Switch Open/Closed (L-1350)	0	0	0
+1073810497	Hv Cabinet E-Stop Switch Pressed/Released (L-1350)	0	0	0
+1073810498	Hyd Reservoir Oil Temperature (L-1350)	0	0	5
+1073810499	Hyd Reservoir Pressure (L-1350)	0	0	9
+1073810500	Hyd Reservoir E-Stop Sw Pressed/Released (L-1350)	0	0	0
+1073810501	Hyd Reservoir Level Sw Low/Normal (L-1350)	0	0	0
+1073810502	Ignition Keep Alive Output Off/On (L-1350)	0	0	0
+1073810503	Jstickl:Acknowledge Switch Released/Pressed (L-1350)	0	0	0
+1073810504	Jstickl:Cruise Decrease   (L-1350)	0	0	0
+1073810505	Jstickl:Cruise Increase   (L-1350)	0	0	0
+1073810506	Jstickl:Direction Switch   (L-1350)	0	0	0
+1073810507	Jstickl:Left Steer Percentage (L-1350)	0	0	25
+1073810508	Jstickl:Left Turn Switch Released/Pressed (L-1350)	0	0	0
+1073810509	Jstickl:Right Steer Percentage (L-1350)	0	0	25
+1073810510	Jstickl:Right Turn Switch Released/Pressed (L-1350)	0	0	0
+1073810511	Jstickr:Bdrag/Kback Switch Released/Pressed (L-1350)	0	0	0
+1073810512	Jstickr:Dump Stick Percentage (L-1350)	0	0	25
+1073810513	Jstickr:Dump Wheel Percentage (L-1350)	0	0	25
+1073810514	Jstickr:Hoist Detent Switch Released/Pressed (L-1350)	0	0	0
+1073810515	Jstickr:Horn Switch Released/Pressed (L-1350)	0	0	0
+1073810516	Jstickr:Lower Hoist Percentage (L-1350)	0	0	25
+1073810517	Jstickr:Raise Hoist Percentage (L-1350)	0	0	25
+1073810518	Jstickr:Return To Dig Switch Released/Pressed (L-1350)	0	0	0
+1073810519	Jstickr:Rollback Stick Percentage (L-1350)	0	0	25
+1073810520	Jstickr:Rollback Wheel Percentage (L-1350)	0	0	25
+1073810521	Keyswitch:Crank Switch Off/On (L-1350)	0	0	0
+1073810522	Keyswitch:Ignition Off/On (L-1350)	0	0	0
+1073810523	Klenz:1 Sol Timer (L-1350)	0	0	29
+1073810524	Klenz:2 Sol Timer (L-1350)	0	0	29
+1073810525	Klenz:3 Sol Timer (L-1350)	0	0	29
+1073810526	Klenz:4 Sol Timer (L-1350)	0	0	29
+1073810527	Klenz:5 Sol Timer (L-1350)	0	0	29
+1073810528	Klenz:6 Sol Timer (L-1350)	0	0	29
+1073810529	Spare:Digital S4C31 Di32 Percentage (L-1350)	0	0	25
+1073810530	Klenz:Enable Switch Off/On (L-1350)	0	0	0
+1073810531	Klenz:Filter Delta Pressure (L-1350)	0	0	9
+1073810532	Klenz:Reservoir Air Pressure (L-1350)	0	0	9
+1073810533	Kpad:Alt Height Led1 Percentage (L-1350)	0	0	25
+1073810534	Kpad:Alt Speed Switch   (L-1350)	0	0	0
+1073810535	Kpad:Alt Speed Led1 Percentage (L-1350)	0	0	25
+1073810536	Kpad:Alt Torque Led1 Percentage (L-1350)	0	0	25
+1073810537	Kpad:Alt Torque Switch   (L-1350)	0	0	0
+1073810538	Kpad:Auto Level Led1 Percentage (L-1350)	0	0	25
+1073810539	Kpad:Auto Level Switch   (L-1350)	0	0	0
+1073810540	Kpad:Autolube Led1 Percentage (L-1350)	0	0	25
+1073810541	Kpad:Autolube Switch   (L-1350)	0	0	0
+1073810542	Kpad:Backlight Percentage (L-1350)	0	0	25
+1073810543	Kpad:Beacon Led1 Percentage (L-1350)	0	0	25
+1073810544	Kpad:Beacon Switch   (L-1350)	0	0	0
+1073810545	Kpad:Cowl Lts Led3 Percentage (L-1350)	0	0	25
+1073810546	Kpad:Cruise Led1 Percentage (L-1350)	0	0	25
+1073810547	Kpad:Cruise Led2 Percentage (L-1350)	0	0	25
+1073810548	Kpad:Cruise Switch   (L-1350)	0	0	0
+1073810549	Kpad:Drive Enable Switch   (L-1350)	0	0	0
+1073810550	Kpad:Drive Enable Led1 Percentage (L-1350)	0	0	25
+1073810551	Kpad:Drive Enable Led2 Percentage (L-1350)	0	0	25
+1073810552	Kpad:Drive Enable Led3 Percentage (L-1350)	0	0	25
+1073810553	Kpad:Alt Height Switch   (L-1350)	0	0	0
+1073810554	Kpad:Drive Enable Led4 Percentage (L-1350)	0	0	25
+1073810555	Kpad:F Wiper High Led Percentage (L-1350)	0	0	25
+1073810556	Kpad:F Wiper Low Led Percentage (L-1350)	0	0	25
+1073810557	Kpad:F Wiper Med Led Percentage (L-1350)	0	0	25
+1073810558	Kpad:Front Wash Switch   (L-1350)	0	0	0
+1073810559	Kpad:Front Wiper Switch   (L-1350)	0	0	0
+1073810560	Kpad:Hazard Lts Led1 Percentage (L-1350)	0	0	25
+1073810561	Kpad:Hazard Switch   (L-1350)	0	0	0
+1073810562	Kpad:High Throttle Led3 Percentage (L-1350)	0	0	25
+1073810563	Kpad:Light Bar Lts Led2 Percentage (L-1350)	0	0	25
+1073810564	Kpad:Light Switch   (L-1350)	0	0	0
+1073810565	Kpad:Low Throttle Led1 Percentage (L-1350)	0	0	25
+1073810566	Kpad:Med Throttle Led2 Percentage (L-1350)	0	0	25
+1073810567	Kpad:Pole Lts Led1 Percentage (L-1350)	0	0	25
+1073810568	Kpad:R Wiper High Led Percentage (L-1350)	0	0	25
+1073810569	Kpad:R Wiper Low Led Percentage (L-1350)	0	0	25
+1073810570	Kpad:R Wiper Med Led Percentage (L-1350)	0	0	25
+1073810571	Kpad:Rear Wash Switch   (L-1350)	0	0	0
+1073810572	Kpad:Rear Wiper Switch   (L-1350)	0	0	0
+1073810573	Kpad:Spare1 Switch   (L-1350)	0	0	0
+1073810574	Kpad:Throttle Switch   (L-1350)	0	0	0
+1073810575	Ladder Position Switch Down/Up (L-1350)	0	0	0
+1073810576	Left Turn Signal Off/On (L-1350)	0	0	0
+1073810577	Left Rear E-Stop Switch Pressed/Released (L-1350)	0	0	0
+1073810578	Lf Mst:Braking Status Motoring/Braking (L-1350)	0	0	0
+1073810579	Lf Mst:Bus Voltage (L-1350)	0	0	31
+1073810580	Lf Mst:Drive Mode   (L-1350)	0	0	0
+1073810581	Lf Mst:Drive Mode Cmd   (L-1350)	0	0	0
+1073810582	Lf Mst:Drive State   (L-1350)	0	0	0
+1073810583	Lf Mst:Fault Status Ok/Faulted (L-1350)	0	0	0
+1073810584	Lf Mst:Greatest Igbt Temperature (L-1350)	0	0	5
+1073810585	Lf Mst:Motor Temperature (L-1350)	0	0	5
+1073810586	Lf Mst:Motor Rpm (L-1350)	0	0	28
+1073810587	Lf Mst:Phase 1 Current (L-1350)	0	0	2
+1073810588	Lf Mst:Phase 2 Current (L-1350)	0	0	2
+1073810589	Lf Mst:Phase 3 Current (L-1350)	0	0	2
+1073810590	Lf Mst:Primary Cmd   (L-1350)	0	0	0
+1073810591	Lf Mst:Secondary Cmd   (L-1350)	0	0	0
+1073810592	Lf Mst:Tertiary Cmd   (L-1350)	0	0	0
+1073810593	Lf Mst:Torque Percentage (L-1350)	0	0	25
+1073810594	Lift Arm Position Degree (L-1350)	0	0	4
+1073810595	Lift Arm Position Raw Voltage (L-1350)	0	0	31
+1073810596	Lr Mst:Braking Status Motoring/Braking (L-1350)	0	0	0
+1073810597	Lr Mst:Bus Voltage (L-1350)	0	0	31
+1073810598	Lr Mst:Drive Mode   (L-1350)	0	0	0
+1073810599	Lr Mst:Drive Mode Cmd   (L-1350)	0	0	0
+1073810600	Lr Mst:Drive State   (L-1350)	0	0	0
+1073810601	Lr Mst:Fault Status Ok/Faulted (L-1350)	0	0	0
+1073810602	Lr Mst:Greatest Igbt Temperature (L-1350)	0	0	5
+1073810603	Lr Mst:Motor Temperature (L-1350)	0	0	5
+1073810604	Lr Mst:Motor Rpm (L-1350)	0	0	28
+1073810605	Lr Mst:Phase 1 Current (L-1350)	0	0	2
+1073810606	Lr Mst:Phase 2 Current (L-1350)	0	0	2
+1073810607	Lr Mst:Phase 3 Current (L-1350)	0	0	2
+1073810608	Lr Mst:Primary Cmd   (L-1350)	0	0	0
+1073810609	Lr Mst:Secondary Cmd   (L-1350)	0	0	0
+1073810610	Lr Mst:Tertiary Cmd   (L-1350)	0	0	0
+1073810611	Lr Mst:Torque Percentage (L-1350)	0	0	25
+1073810612	Fast Hoist Pump Pressure (L-1350)	0	0	9
+1073810613	Hoist / Bucket Pump A Pressure (L-1350)	0	0	9
+1073810614	Hoist / Bucket Pump B Pressure (L-1350)	0	0	9
+1073810615	Oil Cooler Bypass Sol Off/On (L-1350)	0	0	0
+1073810616	Park Brake Intrlock Output Off/On (L-1350)	0	0	0
+1073810617	Park Brake Switch In/Out (L-1350)	0	0	0
+1073810618	Park Brake Switch Light Off/On (L-1350)	0	0	0
+1073810619	Greatest Pilot Cmd Pressure (L-1350)	0	0	9
+1073810620	Pilot Supply Pressure (L-1350)	0	0	9
+1073810621	Pole Work Lights Off/On (L-1350)	0	0	0
+1073810622	Progress Bar Percentage (L-1350)	0	0	25
+1073810623	Radiator Fan Pump Pressure (L-1350)	0	0	9
+1073810624	Radiator Fan Rpm (L-1350)	0	0	28
+1073810625	Radiator Fan Control Sol Percentage (L-1350)	0	0	25
+1073810626	Rear Cowl Lights Off/On (L-1350)	0	0	0
+1073810627	Rear Driver Lube Flow Switch Low/Normal (L-1350)	0	0	0
+1073810628	Rear Park Brakes Pressure (L-1350)	0	0	9
+1073810629	Rear Service Brakes Pressure (L-1350)	0	0	9
+1073810630	Rear Washer Pump Off/On (L-1350)	0	0	0
+1073810631	Rear Wiper Low Output Off/On (L-1350)	0	0	0
+1073810632	Red Alarm Light Percentage (L-1350)	0	0	25
+1073810633	Hoist Cyl Ext Dig Target Distance (L-1350)	0	0	17
+1073810634	Rf Mst:Braking Status Motoring/Braking (L-1350)	0	0	0
+1073810635	Rf Mst:Bus Voltage (L-1350)	0	0	31
+1073810636	Rf Mst:Drive Mode   (L-1350)	0	0	0
+1073810637	Rf Mst:Drive Mode Cmd   (L-1350)	0	0	0
+1073810638	Rf Mst:Drive State   (L-1350)	0	0	0
+1073810639	Rf Mst:Fault Status Ok/Faulted (L-1350)	0	0	0
+1073810640	Rf Mst:Geatest Igbt Temperature (L-1350)	0	0	5
+1073810641	Rf Mst:Motor Temperature (L-1350)	0	0	5
+1073810642	Rf Mst:Motor Rpm (L-1350)	0	0	28
+1073810643	Rf Mst:Phase 1 Current (L-1350)	0	0	2
+1073810644	Rf Mst:Phase 2 Current (L-1350)	0	0	2
+1073810645	Rf Mst:Phase 3 Current (L-1350)	0	0	2
+1073810646	Rf Mst:Primary Cmd   (L-1350)	0	0	0
+1073810647	Rf Mst:Secondary Cmd   (L-1350)	0	0	0
+1073810648	Rf Mst:Tertiary Cmd   (L-1350)	0	0	0
+1073810649	Rf Mst:Torque Percentage (L-1350)	0	0	25
+1073810650	Right Turn Signal Off/On (L-1350)	0	0	0
+1073810651	Right Rear E-Stop Switch Pressed/Released (L-1350)	0	0	0
+1073810652	Rr Mst:Braking Status Motoring/Braking (L-1350)	0	0	0
+1073810653	Rr Mst:Bus Voltage (L-1350)	0	0	31
+1073810654	Rr Mst:Drive Mode   (L-1350)	0	0	0
+1073810655	Rr Mst:Drive Mode Cmd   (L-1350)	0	0	0
+1073810656	Rr Mst:Drive State   (L-1350)	0	0	0
+1073810657	Rr Mst:Fault Status Ok/Faulted (L-1350)	0	0	0
+1073810658	Rr Mst:Greatest Igbt Temperature (L-1350)	0	0	5
+1073810659	Rr Mst:Motor Temperature (L-1350)	0	0	5
+1073810660	Rr Mst:Motor Rpm (L-1350)	0	0	28
+1073810661	Rr Mst:Phase 1 Current (L-1350)	0	0	2
+1073810662	Rr Mst:Phase 2 Current (L-1350)	0	0	2
+1073810663	Rr Mst:Phase 3 Current (L-1350)	0	0	2
+1073810664	Rr Mst:Primary Cmd   (L-1350)	0	0	0
+1073810665	Rr Mst:Secondary Cmd   (L-1350)	0	0	0
+1073810666	Rr Mst:Tertiary Cmd   (L-1350)	0	0	0
+1073810667	Rr Mst:Torque Percentage (L-1350)	0	0	25
+1073810668	Shutdown Timer   (L-1350)	0	0	29
+1073810669	Spare:0-40V S2C4 Ai5 Voltage (L-1350)	0	0	31
+1073810670	Spare:4-20Ma S3C13 Ai46 Percentage (L-1350)	0	0	25
+1073810671	Spare:4-20Ma S3C14 Ai47 Percentage (L-1350)	0	0	25
+1073810672	Spare:4-20Ma S3C15 Ai48 Percentage (L-1350)	0	0	25
+1073810673	Spare:0-40V S2C5 Ai6 Voltage (L-1350)	0	0	31
+1073810674	Spare:0-40V S2C6 Ai7 Voltage (L-1350)	0	0	31
+1073810675	Spare:Digital S4C29 Di30 Percentage (L-1350)	0	0	25
+1073810676	Spare:Digital S4C8 Di9 Percentage (L-1350)	0	0	25
+1073810677	Spare:Digital S4C4 Di5 Percentage (L-1350)	0	0	25
+1073810678	Spare:Frequency S4C3 Di4 Frequency (L-1350)	0	0	32
+1073810679	Drive Sw Power Output Off/On (L-1350)	0	0	0
+1073810680	Spd Control Pedal Percentage (L-1350)	0	0	25
+1073810681	Spd Control Pedal Raw Voltage (L-1350)	0	0	31
+1073810682	Spd Control Pedal Supply Voltage (L-1350)	0	0	31
+1073810683	Starter Isolation Switch Off/On (L-1350)	0	0	0
+1073810684	Steer Left Output Percentage (L-1350)	0	0	25
+1073810685	Steer Position Degree (L-1350)	0	0	4
+1073810686	Steer Position Raw Voltage (L-1350)	0	0	31
+1073810687	Steer Pump A Pressure (L-1350)	0	0	9
+1073810688	Steer Pump B Pressure (L-1350)	0	0	9
+1073810689	Steer Right Output Percentage (L-1350)	0	0	25
+1073810690	System Air Pressure (L-1350)	0	0	9
+1073810691	Tail Lights Percentage (L-1350)	0	0	25
+1073810692	Load Bank Power (L-1350)	0	0	12
+1073810693	Vehicle Speed (L-1350)	0	0	11
+1073810694	Yellow Warning Light Percentage (L-1350)	0	0	25
+1073810695	Spare 4-20Ma: S3C7 Ai40 Voltage (L-1350)	0	0	31
+1073810696	Hoist Cyl Rod Pressure (L-1350)	0	0	9
+1073810697	Spare: 4-20Ma S3C9 Ai42 Voltage (L-1350)	0	0	31
+1073810698	Bucket Cyl Rod Pressure (L-1350)	0	0	9
+1073810699	Pump Pressure Control Sol Percentage (L-1350)	0	0	25
+1073811361	Bucket Load Weight (L-1850)	0	0	19
+1073811362	Truck Load Weight (L-1850)	0	0	19
+1073811363	Engine Running (L-1850)	0	0	0
+1073811364	Vehicle Tramming (L-1850)	0	0	0
+1073811365	Service Brakes Applied (L-1850)	0	0	0
+1073811366	Accessory Pump Pressure (L-1850)	0	0	9
+1073811367	Ambient Temperature (L-1850)	0	0	5
+1073811368	Autolube Grease Pressure (L-1850)	0	0	9
+1073811369	Autolube Sol Off/On (L-1850)	0	0	0
+1073811370	Autolube Switches Released/Pressed (L-1850)	0	0	0
+1073811371	Aux Fan Enable Sol Off/On (L-1850)	0	0	0
+1073811372	Aux Steer Enable Off/On (L-1850)	0	0	0
+1073811373	Steer Supply Pressure Switch Normal/Low (L-1850)	0	0	0
+1073811374	Backup Lights & Alarm Off/On (L-1850)	0	0	0
+1073811375	Battery Voltage (L-1850)	0	0	31
+1073811376	Beacon Off/On (L-1850)	0	0	0
+1073811377	Bellcrank To Lift Arm Degree (L-1850)	0	0	4
+1073811378	Bellcrank To Lift Arm Raw Voltage (L-1850)	0	0	31
+1073811379	Blower Rpm (L-1850)	0	0	28
+1073811380	Blower Pump Pressure (L-1850)	0	0	9
+1073811381	Blower Control Sol Percentage (L-1850)	0	0	25
+1073811382	Bucket Cyl Ext Distance (L-1850)	0	0	17
+1073811383	Bucket Dump Pilot Sol Percentage (L-1850)	0	0	25
+1073811384	Bucket Load Payload (L-1850)	0	0	19
+1073811385	Bucket Cyl Ext Dig Target Distance (L-1850)	0	0	17
+1073811386	Bucket Rollback Pilot Sol Percentage (L-1850)	0	0	25
+1073811387	Bucket Position Degree (L-1850)	0	0	4
+1073811388	Cab Audible Alarm Off/On (L-1850)	0	0	0
+1073811389	Cab E-Stop Switch Pressed/Released (L-1850)	0	0	0
+1073811390	Cab Light Bar Lights Off/On (L-1850)	0	0	0
+1073811391	Clamshell Close Pilot Sol Percentage (L-1850)	0	0	25
+1073811392	Clamshell Cyl Ext Degree (L-1850)	0	0	4
+1073811393	Clamshell Cyl Ext Raw Voltage (L-1850)	0	0	31
+1073811394	Clamshell Open Pilot Sol Percentage (L-1850)	0	0	25
+1073811395	Vcu Chassis Temperature (L-1850)	0	0	5
+1073811396	Vcu / Hmi Keep Alive Off/On (L-1850)	0	0	0
+1073811397	Digital Output Power Off/On (L-1850)	0	0	0
+1073811398	Drive Cool Pump 1 Cmd Percentage (L-1850)	0	0	25
+1073811399	Drive Cool Pump 1 Speed Percentage (L-1850)	0	0	25
+1073811400	Drive Cool Pump 2 Cmd Percentage (L-1850)	0	0	25
+1073811401	Drive Cool Pump 2 Speed Percentage (L-1850)	0	0	25
+1073811402	Drive Cool Pump 3 Cmd Percentage (L-1850)	0	0	25
+1073811403	Drive Cool Pump 3 Speed Percentage (L-1850)	0	0	25
+1073811404	Drive Cool Reservoir Level Sw Low/Normal (L-1850)	0	0	0
+1073811405	Max Dump Pressure Sol Off/On (L-1850)	0	0	0
+1073811406	Machine Hours (L-1850)	0	0	7
+1073811407	Engine: Rpm (L-1850)	0	0	28
+1073811408	Engine:Barometric Pressure (L-1850)	0	0	9
+1073811409	Engine:Blue Lamp On/Off (L-1850)	0	0	0
+1073811410	Engine:Coolant Temperature (L-1850)	0	0	5
+1073811411	Engine:Coolant Pressure (L-1850)	0	0	9
+1073811412	Engine:Crankcase Pressure (L-1850)	0	0	9
+1073811413	Engine:Exhaust 1 Temperature (L-1850)	0	0	5
+1073811414	Engine:Exhaust 10 Temperature (L-1850)	0	0	5
+1073811415	Engine:Exhaust 11 Temperature (L-1850)	0	0	5
+1073811416	Engine:Exhaust 12 Temperature (L-1850)	0	0	5
+1073811417	Engine:Exhaust 13 Temperature (L-1850)	0	0	5
+1073811418	Engine:Exhaust 14 Temperature (L-1850)	0	0	5
+1073811419	Engine:Exhaust 15 Temperature (L-1850)	0	0	5
+1073811420	Engine:Exhaust 16 Temperature (L-1850)	0	0	5
+1073811421	Engine:Exhaust 2 Temperature (L-1850)	0	0	5
+1073811422	Engine:Exhaust 3 Temperature (L-1850)	0	0	5
+1073811423	Engine:Exhaust 4 Temperature (L-1850)	0	0	5
+1073811424	Engine:Exhaust 5 Temperature (L-1850)	0	0	5
+1073811425	Engine:Exhaust 6 Temperature (L-1850)	0	0	5
+1073811426	Engine:Exhaust 7 Temperature (L-1850)	0	0	5
+1073811427	Engine:Exhaust 8 Temperature (L-1850)	0	0	5
+1073811428	Engine:Exhaust 9 Temperature (L-1850)	0	0	5
+1073811429	Engine:Fuel Temperature (L-1850)	0	0	5
+1073811430	Engine:Fuel Pressure (L-1850)	0	0	9
+1073811431	Engine:Fuel Rate (L-1850)	0	0	13
+1073811432	Engine:Ignition Off/On (L-1850)	0	0	0
+1073811433	Engine:Injector Rail Pressure (L-1850)	0	0	9
+1073811434	Engine:Intake 1 Temperature (L-1850)	0	0	5
+1073811435	Engine:Intake 2 Temperature (L-1850)	0	0	5
+1073811436	Engine:Intake 3 Temperature (L-1850)	0	0	5
+1073811437	Engine:Intake 4 Temperature (L-1850)	0	0	5
+1073811438	Engine:Intercooler Temperature (L-1850)	0	0	5
+1073811439	Engine:Intercooler Pressure (L-1850)	0	0	9
+1073811440	Engine:Lb Boost Pressure (L-1850)	0	0	9
+1073811441	Engine:Load Percentage (L-1850)	0	0	25
+1073811442	Engine:Oil Temperature (L-1850)	0	0	5
+1073811443	Engine:Oil Pressure (L-1850)	0	0	9
+1073811444	Engine:Oil Filter Pressure (L-1850)	0	0	9
+1073811445	Engine:Oil Level Percentage (L-1850)	0	0	25
+1073811446	Engine:Rb Boost Pressure (L-1850)	0	0	9
+1073811447	Engine:Safety Filters Normal/Restricted (L-1850)	0	0	0
+1073811448	Engine:Speed Cmd Rpm (L-1850)	0	0	28
+1073811449	Engine:Start Cmd Off/On (L-1850)	0	0	0
+1073811450	Engine:Red Lamp On/Off (L-1850)	0	0	0
+1073811451	Engine:Supply Voltage (L-1850)	0	0	31
+1073811452	Engine:Torque Percentage (L-1850)	0	0	25
+1073811453	Engine:Turbo Temperature (L-1850)	0	0	5
+1073811454	Engine:Turbo Rpm (L-1850)	0	0	28
+1073811455	Engine:Yellow Lamp On/Off (L-1850)	0	0	0
+1073811456	Fire System Status Active/Inactive (L-1850)	0	0	0
+1073811457	Float Sol Off/On (L-1850)	0	0	0
+1073811458	Hv Bus Isolation Resistance (L-1850)	0	0	43
+1073811459	Hv Bus Isolation Raw Voltage (L-1850)	0	0	31
+1073811460	Front Driver Lube Flow Switch Low/Normal (L-1850)	0	0	0
+1073811461	Front Park Brakes Pressure (L-1850)	0	0	9
+1073811462	Front Service Brakes Pressure (L-1850)	0	0	9
+1073811463	Front Washer Pump Off/On (L-1850)	0	0	0
+1073811464	Front Wiper High Off/On (L-1850)	0	0	0
+1073811465	Front Wiper Low Off/On (L-1850)	0	0	0
+1073811466	Fuel Level Percentage (L-1850)	0	0	25
+1073811467	Genmst:Braking Status Motoring/Braking (L-1850)	0	0	0
+1073811468	Genmst:Bus Voltage (L-1850)	0	0	31
+1073811469	Genmst:Drive Mode   (L-1850)	0	0	0
+1073811470	Genmst:Drive Mode Cmd   (L-1850)	0	0	0
+1073811471	Genmst:Drive State   (L-1850)	0	0	0
+1073811472	Genmst:Fault Status Ok/Faulted (L-1850)	0	0	0
+1073811473	Genmst:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811474	Genmst:Motor Temperature (L-1850)	0	0	5
+1073811475	Genmst:Motor Rpm (L-1850)	0	0	28
+1073811476	Genmst:Phase 1 Current (L-1850)	0	0	2
+1073811477	Genmst:Phase 2 Current (L-1850)	0	0	2
+1073811478	Genmst:Phase 3 Current (L-1850)	0	0	2
+1073811479	Genmst:Primary Cmd   (L-1850)	0	0	0
+1073811480	Genmst:Secondary Cmd   (L-1850)	0	0	0
+1073811481	Genmst:Tertiary Cmd   (L-1850)	0	0	0
+1073811482	Genmst:Torque Percentage (L-1850)	0	0	25
+1073811483	Genslv1:Bus Voltage (L-1850)	0	0	31
+1073811484	Genslv1:Data Link Status   (L-1850)	0	0	0
+1073811485	Genslv1:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811486	Genslv2:Bus Voltage (L-1850)	0	0	31
+1073811487	Genslv2:Data Link Status   (L-1850)	0	0	0
+1073811488	Genslv2:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811489	Genslv3:Bus Voltage (L-1850)	0	0	31
+1073811490	Genslv3:Data Link Status   (L-1850)	0	0	0
+1073811491	Genslv3:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811492	Hmi Power Sense Off/On (L-1850)	0	0	0
+1073811493	Hoist Cyl Base Pressure (L-1850)	0	0	9
+1073811494	Hoist Cyl Ext Distance (L-1850)	0	0	17
+1073811495	Hoist Cyl Ext Detent Target Distance (L-1850)	0	0	17
+1073811496	Hoist Lower Pilot Sol Percentage (L-1850)	0	0	25
+1073811497	Hoist Raise Pilot Sol Percentage (L-1850)	0	0	25
+1073811498	Horn Sol Off/On (L-1850)	0	0	0
+1073811499	Hpd Gearbox Oil Temperature (L-1850)	0	0	5
+1073811500	Hpd Gearbox Pressure (L-1850)	0	0	9
+1073811501	Hv Cabinet Door Switch Open/Closed (L-1850)	0	0	0
+1073811502	Hv Cabinet E-Stop Switch Pressed/Released (L-1850)	0	0	0
+1073811503	Hyd Reservoir Oil Temperature (L-1850)	0	0	5
+1073811504	Hyd Reservoir Pressure (L-1850)	0	0	9
+1073811505	Hyd Reservoir E-Stop Sw Pressed/Released (L-1850)	0	0	0
+1073811506	Hyd Reservoir Level Sw Low/Normal (L-1850)	0	0	0
+1073811507	Ignition Keep Alive Output Off/On (L-1850)	0	0	0
+1073811508	Jstickl:Acknowledge Switch Released/Pressed (L-1850)	0	0	0
+1073811509	Jstickl:Cruise Decrease   (L-1850)	0	0	0
+1073811510	Jstickl:Cruise Increase   (L-1850)	0	0	0
+1073811511	Jstickl:Direction Switch   (L-1850)	0	0	0
+1073811512	Jstickl:Left Steer Percentage (L-1850)	0	0	25
+1073811513	Jstickl:Left Turn Switch Released/Pressed (L-1850)	0	0	0
+1073811514	Jstickl:Right Steer Percentage (L-1850)	0	0	25
+1073811515	Jstickl:Right Turn Switch Released/Pressed (L-1850)	0	0	0
+1073811516	Jstickr:Bdrag/Kback Switch Released/Pressed (L-1850)	0	0	0
+1073811517	Jstickr:Dump Stick Percentage (L-1850)	0	0	25
+1073811518	Jstickr:Dump Wheel Percentage (L-1850)	0	0	25
+1073811519	Jstickr:Hoist Detent Switch Released/Pressed (L-1850)	0	0	0
+1073811520	Jstickr:Horn Switch Released/Pressed (L-1850)	0	0	0
+1073811521	Jstickr:Lower Hoist Percentage (L-1850)	0	0	25
+1073811522	Jstickr:Raise Hoist Percentage (L-1850)	0	0	25
+1073811523	Jstickr:Return To Dig Switch Released/Pressed (L-1850)	0	0	0
+1073811524	Jstickr:Rollback Stick Percentage (L-1850)	0	0	25
+1073811525	Jstickr:Rollback Wheel Percentage (L-1850)	0	0	25
+1073811526	Keyswitch:Crank Switch Off/On (L-1850)	0	0	0
+1073811527	Keyswitch:Ignition Off/On (L-1850)	0	0	0
+1073811528	Klenz:1 Sol Timer (L-1850)	0	0	29
+1073811529	Klenz:2 Sol Timer (L-1850)	0	0	29
+1073811530	Klenz:3 Sol Timer (L-1850)	0	0	29
+1073811531	Klenz:4 Sol Timer (L-1850)	0	0	29
+1073811532	Klenz:5 Sol Timer (L-1850)	0	0	29
+1073811533	Klenz:6 Sol Timer (L-1850)	0	0	29
+1073811534	Klenz:7 Sol Timer (L-1850)	0	0	29
+1073811535	Spare:Digital S4C31 Di32 Percentage (L-1850)	0	0	25
+1073811536	Klenz:Enable Switch Off/On (L-1850)	0	0	0
+1073811537	Klenz:Filter Delta Pressure (L-1850)	0	0	9
+1073811538	Klenz:Reservoir Air Pressure (L-1850)	0	0	9
+1073811539	Kpad:Alt Height Led1 Percentage (L-1850)	0	0	25
+1073811540	Kpad:Alt Speed Switch   (L-1850)	0	0	0
+1073811541	Kpad:Alt Speed Led1 Percentage (L-1850)	0	0	25
+1073811542	Kpad:Alt Torque Led1 Percentage (L-1850)	0	0	25
+1073811543	Kpad:Alt Torque Switch   (L-1850)	0	0	0
+1073811544	Kpad:Auto Level Led1 Percentage (L-1850)	0	0	25
+1073811545	Kpad:Auto Level Switch   (L-1850)	0	0	0
+1073811546	Kpad:Autolube Led1 Percentage (L-1850)	0	0	25
+1073811547	Kpad:Autolube Switch   (L-1850)	0	0	0
+1073811548	Kpad:Backlight Percentage (L-1850)	0	0	25
+1073811549	Kpad:Beacon Led1 Percentage (L-1850)	0	0	25
+1073811550	Kpad:Beacon Switch   (L-1850)	0	0	0
+1073811551	Kpad:Cowl Lts Led3 Percentage (L-1850)	0	0	25
+1073811552	Kpad:Cruise Led1 Percentage (L-1850)	0	0	25
+1073811553	Kpad:Cruise Led2 Percentage (L-1850)	0	0	25
+1073811554	Kpad:Cruise Switch   (L-1850)	0	0	0
+1073811555	Kpad:Drive Enable Switch   (L-1850)	0	0	0
+1073811556	Kpad:Drive Enable Led1 Percentage (L-1850)	0	0	25
+1073811557	Kpad:Drive Enable Led2 Percentage (L-1850)	0	0	25
+1073811558	Kpad:Drive Enable Led3 Percentage (L-1850)	0	0	25
+1073811559	Kpad:Alt Height Switch   (L-1850)	0	0	0
+1073811560	Kpad:Drive Enable Led4 Percentage (L-1850)	0	0	25
+1073811561	Kpad:F Wiper High Led Percentage (L-1850)	0	0	25
+1073811562	Kpad:F Wiper Low Led Percentage (L-1850)	0	0	25
+1073811563	Kpad:F Wiper Med Led Percentage (L-1850)	0	0	25
+1073811564	Kpad:Front Wash Switch   (L-1850)	0	0	0
+1073811565	Kpad:Front Wiper Switch   (L-1850)	0	0	0
+1073811566	Kpad:Hazard Lts Led1 Percentage (L-1850)	0	0	25
+1073811567	Kpad:Hazard Switch   (L-1850)	0	0	0
+1073811568	Kpad:High T7Ottle Led3 Percentage (L-1850)	0	0	25
+1073811569	Kpad:Light Bar Lts Led2 Percentage (L-1850)	0	0	25
+1073811570	Kpad:Light Switch   (L-1850)	0	0	0
+1073811571	Kpad:Low T7Ottle Led1 Percentage (L-1850)	0	0	25
+1073811572	Kpad:Med T7Ottle Led2 Percentage (L-1850)	0	0	25
+1073811573	Kpad:Pole Lts Led1 Percentage (L-1850)	0	0	25
+1073811574	Kpad:R Wiper High Led Percentage (L-1850)	0	0	25
+1073811575	Kpad:R Wiper Low Led Percentage (L-1850)	0	0	25
+1073811576	Kpad:R Wiper Med Led Percentage (L-1850)	0	0	25
+1073811577	Kpad:Rear Wash Switch   (L-1850)	0	0	0
+1073811578	Kpad:Rear Wiper Switch   (L-1850)	0	0	0
+1073811579	Kpad:Spare1 Switch   (L-1850)	0	0	0
+1073811580	Kpad:T7Ottle Switch   (L-1850)	0	0	0
+1073811581	Ladder Position Switch Down/Up (L-1850)	0	0	0
+1073811582	Left Turn Signal Off/On (L-1850)	0	0	0
+1073811583	Left Rear E-Stop Switch Pressed/Released (L-1850)	0	0	0
+1073811584	Lf Mst:Braking Status Motoring/Braking (L-1850)	0	0	0
+1073811585	Lf Mst:Bus Voltage (L-1850)	0	0	31
+1073811586	Lf Mst:Drive Mode   (L-1850)	0	0	0
+1073811587	Lf Mst:Drive Mode Cmd   (L-1850)	0	0	0
+1073811588	Lf Mst:Drive State   (L-1850)	0	0	0
+1073811589	Lf Mst:Fault Status Ok/Faulted (L-1850)	0	0	0
+1073811590	Lf Mst:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811591	Lf Mst:Motor Temperature (L-1850)	0	0	5
+1073811592	Lf Mst:Motor Rpm (L-1850)	0	0	28
+1073811593	Lf Mst:Phase 1 Current (L-1850)	0	0	2
+1073811594	Lf Mst:Phase 2 Current (L-1850)	0	0	2
+1073811595	Lf Mst:Phase 3 Current (L-1850)	0	0	2
+1073811596	Lf Mst:Primary Cmd   (L-1850)	0	0	0
+1073811597	Lf Mst:Secondary Cmd   (L-1850)	0	0	0
+1073811598	Lf Mst:Tertiary Cmd   (L-1850)	0	0	0
+1073811599	Lf Mst:Torque Percentage (L-1850)	0	0	25
+1073811600	Lf Slv:Bus Voltage (L-1850)	0	0	31
+1073811601	Lf Slv:Data Link Status   (L-1850)	0	0	0
+1073811602	Lf Slv:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811603	Lift Arm Position Degree (L-1850)	0	0	4
+1073811604	Lift Arm Position Raw Voltage (L-1850)	0	0	31
+1073811605	Lr Mst:Braking Status Motoring/Braking (L-1850)	0	0	0
+1073811606	Lr Mst:Bus Voltage (L-1850)	0	0	31
+1073811607	Lr Mst:Drive Mode   (L-1850)	0	0	0
+1073811608	Lr Mst:Drive Mode Cmd   (L-1850)	0	0	0
+1073811609	Lr Mst:Drive State   (L-1850)	0	0	0
+1073811610	Lr Mst:Fault Status Ok/Faulted (L-1850)	0	0	0
+1073811611	Lr Mst:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811612	Lr Mst:Motor Temperature (L-1850)	0	0	5
+1073811613	Lr Mst:Motor Rpm (L-1850)	0	0	28
+1073811614	Lr Mst:Phase 1 Current (L-1850)	0	0	2
+1073811615	Lr Mst:Phase 2 Current (L-1850)	0	0	2
+1073811616	Lr Mst:Phase 3 Current (L-1850)	0	0	2
+1073811617	Lr Mst:Primary Cmd   (L-1850)	0	0	0
+1073811618	Lr Mst:Secondary Cmd   (L-1850)	0	0	0
+1073811619	Lr Mst:Tertiary Cmd   (L-1850)	0	0	0
+1073811620	Lr Mst:Torque Percentage (L-1850)	0	0	25
+1073811621	Lr Slv:Bus Voltage (L-1850)	0	0	31
+1073811622	Lr Slv:Data Link Status   (L-1850)	0	0	0
+1073811623	Lr Slv:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811624	Fast Hoist Pump Pressure (L-1850)	0	0	9
+1073811625	Hoist / Bucket Pump A Pressure (L-1850)	0	0	9
+1073811626	Hoist / Bucket Pump B Pressure (L-1850)	0	0	9
+1073811627	Hoist / Bucket Pump C Pressure (L-1850)	0	0	9
+1073811628	Oil Cooler Bypass Sol Off/On (L-1850)	0	0	0
+1073811629	Park Brake Intrlock Output Off/On (L-1850)	0	0	0
+1073811630	Park Brake Switch In/Out (L-1850)	0	0	0
+1073811631	Park Brake Switch Light Off/On (L-1850)	0	0	0
+1073811632	Greatest Pilot Cmd Pressure (L-1850)	0	0	9
+1073811633	Pilot Supply Pressure (L-1850)	0	0	9
+1073811634	Pole Work Lights Off/On (L-1850)	0	0	0
+1073811635	Progress Bar Percentage (L-1850)	0	0	25
+1073811636	Radiator Fan Pump Pressure (L-1850)	0	0	9
+1073811637	Radiator Fan Rpm (L-1850)	0	0	28
+1073811638	Radiator Fan Control Sol Percentage (L-1850)	0	0	25
+1073811639	Rear Cowl Lights Off/On (L-1850)	0	0	0
+1073811640	Rear Driver Lube Flow Switch Low/Normal (L-1850)	0	0	0
+1073811641	Rear Park Brakes Pressure (L-1850)	0	0	9
+1073811642	Rear Service Brakes Pressure (L-1850)	0	0	9
+1073811643	Rear Washer Pump Off/On (L-1850)	0	0	0
+1073811644	Rear Wiper Low Output Off/On (L-1850)	0	0	0
+1073811645	Red Alarm Light Percentage (L-1850)	0	0	25
+1073811646	Hoist Cyl Ext Dig Target Distance (L-1850)	0	0	17
+1073811647	Rf Mst:Braking Status Motoring/Braking (L-1850)	0	0	0
+1073811648	Rf Mst:Bus Voltage (L-1850)	0	0	31
+1073811649	Rf Mst:Drive Mode   (L-1850)	0	0	0
+1073811650	Rf Mst:Drive Mode Cmd   (L-1850)	0	0	0
+1073811651	Rf Mst:Drive State   (L-1850)	0	0	0
+1073811652	Rf Mst:Fault Status Ok/Faulted (L-1850)	0	0	0
+1073811653	Rf Mst:Geatest Igbt Temperature (L-1850)	0	0	5
+1073811654	Rf Mst:Motor Temperature (L-1850)	0	0	5
+1073811655	Rf Mst:Motor Rpm (L-1850)	0	0	28
+1073811656	Rf Mst:Phase 1 Current (L-1850)	0	0	2
+1073811657	Rf Mst:Phase 2 Current (L-1850)	0	0	2
+1073811658	Rf Mst:Phase 3 Current (L-1850)	0	0	2
+1073811659	Rf Mst:Primary Cmd   (L-1850)	0	0	0
+1073811660	Rf Mst:Secondary Cmd   (L-1850)	0	0	0
+1073811661	Rf Mst:Tertiary Cmd   (L-1850)	0	0	0
+1073811662	Rf Mst:Torque Percentage (L-1850)	0	0	25
+1073811663	Rf Slv:Bus Voltage (L-1850)	0	0	31
+1073811664	Rf Slv:Data Link Status   (L-1850)	0	0	0
+1073811665	Rf Slv:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811666	Right Turn Signal Off/On (L-1850)	0	0	0
+1073811667	Right Rear E-Stop Switch Pressed/Released (L-1850)	0	0	0
+1073811668	Rr Mst:Braking Status Motoring/Braking (L-1850)	0	0	0
+1073811669	Rr Mst:Bus Voltage (L-1850)	0	0	31
+1073811670	Rr Mst:Drive Mode   (L-1850)	0	0	0
+1073811671	Rr Mst:Drive Mode Cmd   (L-1850)	0	0	0
+1073811672	Rr Mst:Drive State   (L-1850)	0	0	0
+1073811673	Rr Mst:Fault Status Ok/Faulted (L-1850)	0	0	0
+1073811674	Rr Mst:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811675	Rr Mst:Motor Temperature (L-1850)	0	0	5
+1073811676	Rr Mst:Motor Rpm (L-1850)	0	0	28
+1073811677	Rr Mst:Phase 1 Current (L-1850)	0	0	2
+1073811678	Rr Mst:Phase 2 Current (L-1850)	0	0	2
+1073811679	Rr Mst:Phase 3 Current (L-1850)	0	0	2
+1073811680	Rr Mst:Primary Cmd   (L-1850)	0	0	0
+1073811681	Rr Mst:Secondary Cmd   (L-1850)	0	0	0
+1073811682	Rr Mst:Tertiary Cmd   (L-1850)	0	0	0
+1073811683	Rr Mst:Torque Percentage (L-1850)	0	0	25
+1073811684	Rr Slv:Bus Voltage (L-1850)	0	0	31
+1073811685	Rr Slv:Data Link Status   (L-1850)	0	0	0
+1073811686	Rr Slv:Greatest Igbt Temperature (L-1850)	0	0	5
+1073811687	Shutdown Timer   (L-1850)	0	0	29
+1073811688	Spare:0-40V S2C4 Ai5 Voltage (L-1850)	0	0	31
+1073811689	Spare:4-20Ma S3C13 Ai46 Percentage (L-1850)	0	0	25
+1073811690	Spare:4-20Ma S3C14 Ai47 Percentage (L-1850)	0	0	25
+1073811691	Spare:4-20Ma S3C15 Ai48 Percentage (L-1850)	0	0	25
+1073811692	Spare:0-40V S2C5 Ai6 Voltage (L-1850)	0	0	31
+1073811693	Spare:0-40V S2C6 Ai7 Voltage (L-1850)	0	0	31
+1073811694	Spare:Digital S4C29 Di30 Percentage (L-1850)	0	0	25
+1073811695	Spare:Digital S4C8 Di9 Percentage (L-1850)	0	0	25
+1073811696	Spare:Digital S4C4 Di5 Percentage (L-1850)	0	0	25
+1073811697	Spare:Frequency S4C3 Di4 Frequency (L-1850)	0	0	32
+1073811698	Drive Sw Power Output Off/On (L-1850)	0	0	0
+1073811699	Spd Control Pedal Percentage (L-1850)	0	0	25
+1073811700	Spd Control Pedal Raw Voltage (L-1850)	0	0	31
+1073811701	Spd Control Pedal Supply Voltage (L-1850)	0	0	31
+1073811702	Starter Isolation Switch Off/On (L-1850)	0	0	0
+1073811703	Steer Left Output Percentage (L-1850)	0	0	25
+1073811704	Steer Position Degree (L-1850)	0	0	4
+1073811705	Steer Position Raw Voltage (L-1850)	0	0	31
+1073811706	Steer Pump A Pressure (L-1850)	0	0	9
+1073811707	Steer Pump B Pressure (L-1850)	0	0	9
+1073811708	Steer Right Output Percentage (L-1850)	0	0	25
+1073811709	System Air Pressure (L-1850)	0	0	9
+1073811710	Tail Lights Percentage (L-1850)	0	0	25
+1073811711	Load Bank Power (L-1850)	0	0	12
+1073811712	Vehicle Speed (L-1850)	0	0	11
+1073811713	Yellow Warning Light Percentage (L-1850)	0	0	25
+1073811714	Spare 4-20Ma: S3C7 Ai40 Voltage (L-1850)	0	0	31
+1073811715	Hoist Cyl Rod Pressure (L-1850)	0	0	9
+1073811716	Spare: 4-20Ma S3C9 Ai42 Voltage (L-1850)	0	0	31
+1073811717	Bucket Cyl Rod Pressure (L-1850)	0	0	9
+1073811718	Pump Pressure Control Sol Percentage (L-1850)	0	0	25
+1073812361	Bucket Load Weight (L-2350)	0	0	19
+1073812362	Truck Load Weight (L-2350)	0	0	19
+1073812363	Engine Running (L-2350)	0	0	0
+1073812364	Vehicle Tramming (L-2350)	0	0	0
+1073812365	Service Brakes Applied (L-2350)	0	0	0
+1073812366	Accessory Pump Pressure (L-2350)	0	0	9
+1073812367	Ambient Temperature (L-2350)	0	0	5
+1073812368	Autolube Grease Pressure (L-2350)	0	0	9
+1073812369	Autolube Sol Off/On (L-2350)	0	0	0
+1073812370	Autolube Switches Released/Pressed (L-2350)	0	0	0
+1073812371	Aux Fan Enable Sol Off/On (L-2350)	0	0	0
+1073812372	Aux Steer Enable Off/On (L-2350)	0	0	0
+1073812373	Steer Supply Pressure Switch Normal/Low (L-2350)	0	0	0
+1073812374	Backup Lights & Alarm Off/On (L-2350)	0	0	0
+1073812375	Battery Voltage (L-2350)	0	0	31
+1073812376	Beacon Off/On (L-2350)	0	0	0
+1073812377	Bellcrank To Lift Arm Degree (L-2350)	0	0	4
+1073812378	Bellcrank To Lift Arm Raw Voltage (L-2350)	0	0	31
+1073812379	Blower Rpm (L-2350)	0	0	28
+1073812380	Blower Pump Pressure (L-2350)	0	0	9
+1073812381	Blower Control Sol Percentage (L-2350)	0	0	25
+1073812382	Bucket Cyl Ext Distance (L-2350)	0	0	17
+1073812383	Bucket Dump Pilot Sol Percentage (L-2350)	0	0	25
+1073812384	Bucket Load Payload (L-2350)	0	0	19
+1073812385	Bucket Cyl Ext Dig Target Distance (L-2350)	0	0	17
+1073812386	Bucket Rollback Pilot Sol Percentage (L-2350)	0	0	25
+1073812387	Bucket Position Degree (L-2350)	0	0	4
+1073812388	Cab Audible Alarm Off/On (L-2350)	0	0	0
+1073812389	Cab E-Stop Switch Pressed/Released (L-2350)	0	0	0
+1073812390	Cab Light Bar Lights Off/On (L-2350)	0	0	0
+1073812391	Clamshell Close Pilot Sol Percentage (L-2350)	0	0	25
+1073812392	Clamshell Cyl Ext Degree (L-2350)	0	0	4
+1073812393	Clamshell Cyl Ext Raw Voltage (L-2350)	0	0	31
+1073812394	Clamshell Open Pilot Sol Percentage (L-2350)	0	0	25
+1073812395	Vcu Chassis Temperature (L-2350)	0	0	5
+1073812396	Vcu / Hmi Keep Alive Off/On (L-2350)	0	0	0
+1073812397	Digital Output Power Off/On (L-2350)	0	0	0
+1073812398	Drive Cool Pump 1 Cmd Percentage (L-2350)	0	0	25
+1073812399	Drive Cool Pump 1 Speed Percentage (L-2350)	0	0	25
+1073812400	Drive Cool Pump 2 Cmd Percentage (L-2350)	0	0	25
+1073812401	Drive Cool Pump 2 Speed Percentage (L-2350)	0	0	25
+1073812402	Drive Cool Pump 3 Cmd Percentage (L-2350)	0	0	25
+1073812403	Drive Cool Pump 3 Speed Percentage (L-2350)	0	0	25
+1073812404	Drive Cool Reservoir Level Sw Low/Normal (L-2350)	0	0	0
+1073812405	Max Dump Pressure Sol Off/On (L-2350)	0	0	0
+1073812406	Machine Hours (L-2350)	0	0	7
+1073812407	Engine: Rpm (L-2350)	0	0	28
+1073812408	Engine:Barometric Pressure (L-2350)	0	0	9
+1073812409	Engine:Blue Lamp On/Off (L-2350)	0	0	0
+1073812410	Engine:Coolant Temperature (L-2350)	0	0	5
+1073812411	Engine:Coolant Pressure (L-2350)	0	0	9
+1073812412	Engine:Crankcase Pressure (L-2350)	0	0	9
+1073812413	Engine:Exhaust 1 Temperature (L-2350)	0	0	5
+1073812414	Engine:Exhaust 10 Temperature (L-2350)	0	0	5
+1073812415	Engine:Exhaust 11 Temperature (L-2350)	0	0	5
+1073812416	Engine:Exhaust 12 Temperature (L-2350)	0	0	5
+1073812417	Engine:Exhaust 13 Temperature (L-2350)	0	0	5
+1073812418	Engine:Exhaust 14 Temperature (L-2350)	0	0	5
+1073812419	Engine:Exhaust 15 Temperature (L-2350)	0	0	5
+1073812420	Engine:Exhaust 16 Temperature (L-2350)	0	0	5
+1073812421	Engine:Exhaust 2 Temperature (L-2350)	0	0	5
+1073812422	Engine:Exhaust 3 Temperature (L-2350)	0	0	5
+1073812423	Engine:Exhaust 4 Temperature (L-2350)	0	0	5
+1073812424	Engine:Exhaust 5 Temperature (L-2350)	0	0	5
+1073812425	Engine:Exhaust 6 Temperature (L-2350)	0	0	5
+1073812426	Engine:Exhaust 7 Temperature (L-2350)	0	0	5
+1073812427	Engine:Exhaust 8 Temperature (L-2350)	0	0	5
+1073812428	Engine:Exhaust 9 Temperature (L-2350)	0	0	5
+1073812429	Engine:Fuel Temperature (L-2350)	0	0	5
+1073812430	Engine:Fuel Pressure (L-2350)	0	0	9
+1073812431	Engine:Fuel Rate (L-2350)	0	0	13
+1073812432	Engine:Ignition Off/On (L-2350)	0	0	0
+1073812433	Engine:Injector Rail Pressure (L-2350)	0	0	9
+1073812434	Engine:Intake 1 Temperature (L-2350)	0	0	5
+1073812435	Engine:Intake 2 Temperature (L-2350)	0	0	5
+1073812436	Engine:Intake 3 Temperature (L-2350)	0	0	5
+1073812437	Engine:Intake 4 Temperature (L-2350)	0	0	5
+1073812438	Engine:Intercooler Temperature (L-2350)	0	0	5
+1073812439	Engine:Intercooler Pressure (L-2350)	0	0	9
+1073812440	Engine:Lb Boost Pressure (L-2350)	0	0	9
+1073812441	Engine:Load Percentage (L-2350)	0	0	25
+1073812442	Engine:Oil Temperature (L-2350)	0	0	5
+1073812443	Engine:Oil Pressure (L-2350)	0	0	9
+1073812444	Engine:Oil Filter Pressure (L-2350)	0	0	9
+1073812445	Engine:Oil Level Percentage (L-2350)	0	0	25
+1073812446	Engine:Rb Boost Pressure (L-2350)	0	0	9
+1073812447	Engine:Safety Filters Normal/Restricted (L-2350)	0	0	0
+1073812448	Engine:Speed Cmd Rpm (L-2350)	0	0	28
+1073812449	Engine:Start Cmd Off/On (L-2350)	0	0	0
+1073812450	Engine:Red Lamp On/Off (L-2350)	0	0	0
+1073812451	Engine:Supply Voltage (L-2350)	0	0	31
+1073812452	Engine:Torque Percentage (L-2350)	0	0	25
+1073812453	Engine:Turbo Temperature (L-2350)	0	0	5
+1073812454	Engine:Turbo Rpm (L-2350)	0	0	28
+1073812455	Engine:Yellow Lamp On/Off (L-2350)	0	0	0
+1073812456	Fire System Status Active/Inactive (L-2350)	0	0	0
+1073812457	Float Sol Off/On (L-2350)	0	0	0
+1073812458	Hv Bus Isolation Resistance (L-2350)	0	0	43
+1073812459	Hv Bus Isolation Raw Voltage (L-2350)	0	0	31
+1073812460	Front Driver Lube Flow Switch Low/Normal (L-2350)	0	0	0
+1073812461	Front Park Brakes Pressure (L-2350)	0	0	9
+1073812462	Front Service Brakes Pressure (L-2350)	0	0	9
+1073812463	Front Washer Pump Off/On (L-2350)	0	0	0
+1073812464	Front Wiper High Off/On (L-2350)	0	0	0
+1073812465	Front Wiper Low Off/On (L-2350)	0	0	0
+1073812466	Fuel Level Percentage (L-2350)	0	0	25
+1073812467	Genmst:Braking Status Motoring/Braking (L-2350)	0	0	0
+1073812468	Genmst:Bus Voltage (L-2350)	0	0	31
+1073812469	Genmst:Drive Mode   (L-2350)	0	0	0
+1073812470	Genmst:Drive Mode Cmd   (L-2350)	0	0	0
+1073812471	Genmst:Drive State   (L-2350)	0	0	0
+1073812472	Genmst:Fault Status Ok/Faulted (L-2350)	0	0	0
+1073812473	Genmst:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812474	Genmst:Motor Temperature (L-2350)	0	0	5
+1073812475	Genmst:Motor Rpm (L-2350)	0	0	28
+1073812476	Genmst:Phase 1 Current (L-2350)	0	0	2
+1073812477	Genmst:Phase 2 Current (L-2350)	0	0	2
+1073812478	Genmst:Phase 3 Current (L-2350)	0	0	2
+1073812479	Genmst:Primary Cmd   (L-2350)	0	0	0
+1073812480	Genmst:Secondary Cmd   (L-2350)	0	0	0
+1073812481	Genmst:Tertiary Cmd   (L-2350)	0	0	0
+1073812482	Genmst:Torque Percentage (L-2350)	0	0	25
+1073812483	Genslv1:Bus Voltage (L-2350)	0	0	31
+1073812484	Genslv1:Data Link Status   (L-2350)	0	0	0
+1073812485	Genslv1:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812486	Genslv2:Bus Voltage (L-2350)	0	0	31
+1073812487	Genslv2:Data Link Status   (L-2350)	0	0	0
+1073812488	Genslv2:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812489	Genslv3:Bus Voltage (L-2350)	0	0	31
+1073812490	Genslv3:Data Link Status   (L-2350)	0	0	0
+1073812491	Genslv3:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812492	Hmi Power Sense Off/On (L-2350)	0	0	0
+1073812493	Hoist Cyl Base Pressure (L-2350)	0	0	9
+1073812494	Hoist Cyl Ext Distance (L-2350)	0	0	17
+1073812495	Hoist Cyl Ext Detent Target Distance (L-2350)	0	0	17
+1073812496	Hoist Lower Pilot Sol Percentage (L-2350)	0	0	25
+1073812497	Hoist Raise Pilot Sol Percentage (L-2350)	0	0	25
+1073812498	Horn Sol Off/On (L-2350)	0	0	0
+1073812499	Hpd Gearbox Oil Temperature (L-2350)	0	0	5
+1073812500	Hpd Gearbox Pressure (L-2350)	0	0	9
+1073812501	Hv Cabinet Door Switch Open/Closed (L-2350)	0	0	0
+1073812502	Hv Cabinet E-Stop Switch Pressed/Released (L-2350)	0	0	0
+1073812503	Hyd Reservoir Oil Temperature (L-2350)	0	0	5
+1073812504	Hyd Reservoir Pressure (L-2350)	0	0	9
+1073812505	Hyd Reservoir E-Stop Sw Pressed/Released (L-2350)	0	0	0
+1073812506	Hyd Reservoir Level Sw Low/Normal (L-2350)	0	0	0
+1073812507	Ignition Keep Alive Output Off/On (L-2350)	0	0	0
+1073812508	Jstickl:Acknowledge Switch Released/Pressed (L-2350)	0	0	0
+1073812509	Jstickl:Cruise Decrease   (L-2350)	0	0	0
+1073812510	Jstickl:Cruise Increase   (L-2350)	0	0	0
+1073812511	Jstickl:Direction Switch   (L-2350)	0	0	0
+1073812512	Jstickl:Left Steer Percentage (L-2350)	0	0	25
+1073812513	Jstickl:Left Turn Switch Released/Pressed (L-2350)	0	0	0
+1073812514	Jstickl:Right Steer Percentage (L-2350)	0	0	25
+1073812515	Jstickl:Right Turn Switch Released/Pressed (L-2350)	0	0	0
+1073812516	Jstickr:Bdrag/Kback Switch Released/Pressed (L-2350)	0	0	0
+1073812517	Jstickr:Dump Stick Percentage (L-2350)	0	0	25
+1073812518	Jstickr:Dump Wheel Percentage (L-2350)	0	0	25
+1073812519	Jstickr:Hoist Detent Switch Released/Pressed (L-2350)	0	0	0
+1073812520	Jstickr:Horn Switch Released/Pressed (L-2350)	0	0	0
+1073812521	Jstickr:Lower Hoist Percentage (L-2350)	0	0	25
+1073812522	Jstickr:Raise Hoist Percentage (L-2350)	0	0	25
+1073812523	Jstickr:Return To Dig Switch Released/Pressed (L-2350)	0	0	0
+1073812524	Jstickr:Rollback Stick Percentage (L-2350)	0	0	25
+1073812525	Jstickr:Rollback Wheel Percentage (L-2350)	0	0	25
+1073812526	Keyswitch:Crank Switch Off/On (L-2350)	0	0	0
+1073812527	Keyswitch:Ignition Off/On (L-2350)	0	0	0
+1073812528	Klenz:1 Sol Timer (L-2350)	0	0	29
+1073812529	Klenz:2 Sol Timer (L-2350)	0	0	29
+1073812530	Klenz:3 Sol Timer (L-2350)	0	0	29
+1073812531	Klenz:4 Sol Timer (L-2350)	0	0	29
+1073812532	Klenz:5 Sol Timer (L-2350)	0	0	29
+1073812533	Klenz:6 Sol Timer (L-2350)	0	0	29
+1073812534	Klenz:7 Sol Timer (L-2350)	0	0	29
+1073812535	Spare:Digital S4C31 Di32 Percentage (L-2350)	0	0	25
+1073812536	Klenz:Enable Switch Off/On (L-2350)	0	0	0
+1073812537	Klenz:Filter Delta Pressure (L-2350)	0	0	9
+1073812538	Klenz:Reservoir Air Pressure (L-2350)	0	0	9
+1073812539	Kpad:Alt Height Led1 Percentage (L-2350)	0	0	25
+1073812540	Kpad:Alt Speed Switch   (L-2350)	0	0	0
+1073812541	Kpad:Alt Speed Led1 Percentage (L-2350)	0	0	25
+1073812542	Kpad:Alt Torque Led1 Percentage (L-2350)	0	0	25
+1073812543	Kpad:Alt Torque Switch   (L-2350)	0	0	0
+1073812544	Kpad:Auto Level Led1 Percentage (L-2350)	0	0	25
+1073812545	Kpad:Auto Level Switch   (L-2350)	0	0	0
+1073812546	Kpad:Autolube Led1 Percentage (L-2350)	0	0	25
+1073812547	Kpad:Autolube Switch   (L-2350)	0	0	0
+1073812548	Kpad:Backlight Percentage (L-2350)	0	0	25
+1073812549	Kpad:Beacon Led1 Percentage (L-2350)	0	0	25
+1073812550	Kpad:Beacon Switch   (L-2350)	0	0	0
+1073812551	Kpad:Cowl Lts Led3 Percentage (L-2350)	0	0	25
+1073812552	Kpad:Cruise Led1 Percentage (L-2350)	0	0	25
+1073812553	Kpad:Cruise Led2 Percentage (L-2350)	0	0	25
+1073812554	Kpad:Cruise Switch   (L-2350)	0	0	0
+1073812555	Kpad:Drive Enable Switch   (L-2350)	0	0	0
+1073812556	Kpad:Drive Enable Led1 Percentage (L-2350)	0	0	25
+1073812557	Kpad:Drive Enable Led2 Percentage (L-2350)	0	0	25
+1073812558	Kpad:Drive Enable Led3 Percentage (L-2350)	0	0	25
+1073812559	Kpad:Alt Height Switch   (L-2350)	0	0	0
+1073812560	Kpad:Drive Enable Led4 Percentage (L-2350)	0	0	25
+1073812561	Kpad:F Wiper High Led Percentage (L-2350)	0	0	25
+1073812562	Kpad:F Wiper Low Led Percentage (L-2350)	0	0	25
+1073812563	Kpad:F Wiper Med Led Percentage (L-2350)	0	0	25
+1073812564	Kpad:Front Wash Switch   (L-2350)	0	0	0
+1073812565	Kpad:Front Wiper Switch   (L-2350)	0	0	0
+1073812566	Kpad:Hazard Lts Led1 Percentage (L-2350)	0	0	25
+1073812567	Kpad:Hazard Switch   (L-2350)	0	0	0
+1073812568	Kpad:High Throttle Led3 Percentage (L-2350)	0	0	25
+1073812569	Kpad:Light Bar Lts Led2 Percentage (L-2350)	0	0	25
+1073812570	Kpad:Light Switch   (L-2350)	0	0	0
+1073812571	Kpad:Low Throttle Led1 Percentage (L-2350)	0	0	25
+1073812572	Kpad:Med Throttle Led2 Percentage (L-2350)	0	0	25
+1073812573	Kpad:Pole Lts Led1 Percentage (L-2350)	0	0	25
+1073812574	Kpad:R Wiper High Led Percentage (L-2350)	0	0	25
+1073812575	Kpad:R Wiper Low Led Percentage (L-2350)	0	0	25
+1073812576	Kpad:R Wiper Med Led Percentage (L-2350)	0	0	25
+1073812577	Kpad:Rear Wash Switch   (L-2350)	0	0	0
+1073812578	Kpad:Rear Wiper Switch   (L-2350)	0	0	0
+1073812579	Kpad:Spare1 Switch   (L-2350)	0	0	0
+1073812580	Kpad:Throttle Switch   (L-2350)	0	0	0
+1073812581	Ladder Position Switch Down/Up (L-2350)	0	0	0
+1073812582	Left Turn Signal Off/On (L-2350)	0	0	0
+1073812583	Left Rear E-Stop Switch Pressed/Released (L-2350)	0	0	0
+1073812584	Lf Mst:Braking Status Motoring/Braking (L-2350)	0	0	0
+1073812585	Lf Mst:Bus Voltage (L-2350)	0	0	31
+1073812586	Lf Mst:Drive Mode   (L-2350)	0	0	0
+1073812587	Lf Mst:Drive Mode Cmd   (L-2350)	0	0	0
+1073812588	Lf Mst:Drive State   (L-2350)	0	0	0
+1073812589	Lf Mst:Fault Status Ok/Faulted (L-2350)	0	0	0
+1073812590	Lf Mst:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812591	Lf Mst:Motor Temperature (L-2350)	0	0	5
+1073812592	Lf Mst:Motor Rpm (L-2350)	0	0	28
+1073812593	Lf Mst:Phase 1 Current (L-2350)	0	0	2
+1073812594	Lf Mst:Phase 2 Current (L-2350)	0	0	2
+1073812595	Lf Mst:Phase 3 Current (L-2350)	0	0	2
+1073812596	Lf Mst:Primary Cmd   (L-2350)	0	0	0
+1073812597	Lf Mst:Secondary Cmd   (L-2350)	0	0	0
+1073812598	Lf Mst:Tertiary Cmd   (L-2350)	0	0	0
+1073812599	Lf Mst:Torque Percentage (L-2350)	0	0	25
+1073812600	Lf Slv:Bus Voltage (L-2350)	0	0	31
+1073812601	Lf Slv:Data Link Status   (L-2350)	0	0	0
+1073812602	Lf Slv:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812603	Lift Arm Position Degree (L-2350)	0	0	4
+1073812604	Lift Arm Position Raw Voltage (L-2350)	0	0	31
+1073812605	Lr Mst:Braking Status Motoring/Braking (L-2350)	0	0	0
+1073812606	Lr Mst:Bus Voltage (L-2350)	0	0	31
+1073812607	Lr Mst:Drive Mode   (L-2350)	0	0	0
+1073812608	Lr Mst:Drive Mode Cmd   (L-2350)	0	0	0
+1073812609	Lr Mst:Drive State   (L-2350)	0	0	0
+1073812610	Lr Mst:Fault Status Ok/Faulted (L-2350)	0	0	0
+1073812611	Lr Mst:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812612	Lr Mst:Motor Temperature (L-2350)	0	0	5
+1073812613	Lr Mst:Motor Rpm (L-2350)	0	0	28
+1073812614	Lr Mst:Phase 1 Current (L-2350)	0	0	2
+1073812615	Lr Mst:Phase 2 Current (L-2350)	0	0	2
+1073812616	Lr Mst:Phase 3 Current (L-2350)	0	0	2
+1073812617	Lr Mst:Primary Cmd   (L-2350)	0	0	0
+1073812618	Lr Mst:Secondary Cmd   (L-2350)	0	0	0
+1073812619	Lr Mst:Tertiary Cmd   (L-2350)	0	0	0
+1073812620	Lr Mst:Torque Percentage (L-2350)	0	0	25
+1073812621	Lr Slv:Bus Voltage (L-2350)	0	0	31
+1073812622	Lr Slv:Data Link Status   (L-2350)	0	0	0
+1073812623	Lr Slv:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812624	Fast Hoist Pump Pressure (L-2350)	0	0	9
+1073812625	Hoist / Bucket Pump A Pressure (L-2350)	0	0	9
+1073812626	Hoist / Bucket Pump B Pressure (L-2350)	0	0	9
+1073812627	Hoist / Bucket Pump C Pressure (L-2350)	0	0	9
+1073812628	Oil Cooler Bypass Sol Off/On (L-2350)	0	0	0
+1073812629	Park Brake Intrlock Output Off/On (L-2350)	0	0	0
+1073812630	Park Brake Switch In/Out (L-2350)	0	0	0
+1073812631	Park Brake Switch Light Off/On (L-2350)	0	0	0
+1073812632	Greatest Pilot Cmd Pressure (L-2350)	0	0	9
+1073812633	Pilot Supply Pressure (L-2350)	0	0	9
+1073812634	Pole Work Lights Off/On (L-2350)	0	0	0
+1073812635	Progress Bar Percentage (L-2350)	0	0	25
+1073812636	Radiator Fan Pump Pressure (L-2350)	0	0	9
+1073812637	Radiator Fan Rpm (L-2350)	0	0	28
+1073812638	Radiator Fan Control Sol Percentage (L-2350)	0	0	25
+1073812639	Rear Cowl Lights Off/On (L-2350)	0	0	0
+1073812640	Rear Driver Lube Flow Switch Low/Normal (L-2350)	0	0	0
+1073812641	Rear Park Brakes Pressure (L-2350)	0	0	9
+1073812642	Rear Service Brakes Pressure (L-2350)	0	0	9
+1073812643	Rear Washer Pump Off/On (L-2350)	0	0	0
+1073812644	Rear Wiper Low Output Off/On (L-2350)	0	0	0
+1073812645	Red Alarm Light Percentage (L-2350)	0	0	25
+1073812646	Hoist Cyl Ext Dig Target Distance (L-2350)	0	0	17
+1073812647	Rf Mst:Braking Status Motoring/Braking (L-2350)	0	0	0
+1073812648	Rf Mst:Bus Voltage (L-2350)	0	0	31
+1073812649	Rf Mst:Drive Mode   (L-2350)	0	0	0
+1073812650	Rf Mst:Drive Mode Cmd   (L-2350)	0	0	0
+1073812651	Rf Mst:Drive State   (L-2350)	0	0	0
+1073812652	Rf Mst:Fault Status Ok/Faulted (L-2350)	0	0	0
+1073812653	Rf Mst:Geatest Igbt Temperature (L-2350)	0	0	5
+1073812654	Rf Mst:Motor Temperature (L-2350)	0	0	5
+1073812655	Rf Mst:Motor Rpm (L-2350)	0	0	28
+1073812656	Rf Mst:Phase 1 Current (L-2350)	0	0	2
+1073812657	Rf Mst:Phase 2 Current (L-2350)	0	0	2
+1073812658	Rf Mst:Phase 3 Current (L-2350)	0	0	2
+1073812659	Rf Mst:Primary Cmd   (L-2350)	0	0	0
+1073812660	Rf Mst:Secondary Cmd   (L-2350)	0	0	0
+1073812661	Rf Mst:Tertiary Cmd   (L-2350)	0	0	0
+1073812662	Rf Mst:Torque Percentage (L-2350)	0	0	25
+1073812663	Rf Slv:Bus Voltage (L-2350)	0	0	31
+1073812664	Rf Slv:Data Link Status   (L-2350)	0	0	0
+1073812665	Rf Slv:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812666	Right Turn Signal Off/On (L-2350)	0	0	0
+1073812667	Right Rear E-Stop Switch Pressed/Released (L-2350)	0	0	0
+1073812668	Rr Mst:Braking Status Motoring/Braking (L-2350)	0	0	0
+1073812669	Rr Mst:Bus Voltage (L-2350)	0	0	31
+1073812670	Rr Mst:Drive Mode   (L-2350)	0	0	0
+1073812671	Rr Mst:Drive Mode Cmd   (L-2350)	0	0	0
+1073812672	Rr Mst:Drive State   (L-2350)	0	0	0
+1073812673	Rr Mst:Fault Status Ok/Faulted (L-2350)	0	0	0
+1073812674	Rr Mst:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812675	Rr Mst:Motor Temperature (L-2350)	0	0	5
+1073812676	Rr Mst:Motor Rpm (L-2350)	0	0	28
+1073812677	Rr Mst:Phase 1 Current (L-2350)	0	0	2
+1073812678	Rr Mst:Phase 2 Current (L-2350)	0	0	2
+1073812679	Rr Mst:Phase 3 Current (L-2350)	0	0	2
+1073812680	Rr Mst:Primary Cmd   (L-2350)	0	0	0
+1073812681	Rr Mst:Secondary Cmd   (L-2350)	0	0	0
+1073812682	Rr Mst:Tertiary Cmd   (L-2350)	0	0	0
+1073812683	Rr Mst:Torque Percentage (L-2350)	0	0	25
+1073812684	Rr Slv:Bus Voltage (L-2350)	0	0	31
+1073812685	Rr Slv:Data Link Status   (L-2350)	0	0	0
+1073812686	Rr Slv:Greatest Igbt Temperature (L-2350)	0	0	5
+1073812687	Shutdown Timer   (L-2350)	0	0	29
+1073812688	Spare:0-40V S2C4 Ai5 Voltage (L-2350)	0	0	31
+1073812689	Spare:4-20Ma S3C13 Ai46 Percentage (L-2350)	0	0	25
+1073812690	Spare:4-20Ma S3C14 Ai47 Percentage (L-2350)	0	0	25
+1073812691	Spare:4-20Ma S3C15 Ai48 Percentage (L-2350)	0	0	25
+1073812692	Spare:0-40V S2C5 Ai6 Voltage (L-2350)	0	0	31
+1073812693	Spare:0-40V S2C6 Ai7 Voltage (L-2350)	0	0	31
+1073812694	Spare:Digital S4C29 Di30 Percentage (L-2350)	0	0	25
+1073812695	Spare:Digital S4C8 Di9 Percentage (L-2350)	0	0	25
+1073812696	Spare:Digital S4C4 Di5 Percentage (L-2350)	0	0	25
+1073812697	Spare:Frequency S4C3 Di4 Frequency (L-2350)	0	0	32
+1073812698	Drive Sw Power Output Off/On (L-2350)	0	0	0
+1073812699	Spd Control Pedal Percentage (L-2350)	0	0	25
+1073812700	Spd Control Pedal Raw Voltage (L-2350)	0	0	31
+1073812701	Spd Control Pedal Supply Voltage (L-2350)	0	0	31
+1073812702	Starter Isolation Switch Off/On (L-2350)	0	0	0
+1073812703	Steer Left Output Percentage (L-2350)	0	0	25
+1073812704	Steer Position Degree (L-2350)	0	0	4
+1073812705	Steer Position Raw Voltage (L-2350)	0	0	31
+1073812706	Steer Pump A Pressure (L-2350)	0	0	9
+1073812707	Steer Pump B Pressure (L-2350)	0	0	9
+1073812708	Steer Right Output Percentage (L-2350)	0	0	25
+1073812709	System Air Pressure (L-2350)	0	0	9
+1073812710	Tail Lights Percentage (L-2350)	0	0	25
+1073812711	Load Bank Power (L-2350)	0	0	12
+1073812712	Vehicle Speed (L-2350)	0	0	11
+1073812713	Yellow Warning Light Percentage (L-2350)	0	0	25
+1073812714	Spare 4-20Ma: S3C7 Ai40 Voltage (L-2350)	0	0	31
+1073812715	Hoist Cyl Rod Pressure (L-2350)	0	0	9
+1073812716	Spare: 4-20Ma S3C9 Ai42 Voltage (L-2350)	0	0	31
+1073812717	Bucket Cyl Rod Pressure (L-2350)	0	0	9
+1073812718	Pump Pressure Control Sol Percentage (L-2350)	0	0	25

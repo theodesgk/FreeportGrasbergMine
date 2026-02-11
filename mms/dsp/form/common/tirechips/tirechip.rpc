@@ -1,0 +1,19 @@
+#
+#     Tire Chip rpcs
+#
+#
+## MICH-TIRE-WARNING [=] Sent from tirechips/tire_transactiom.frm. 
+##                       whenever any of the alarms are needed to
+##                       be sent to the exception screen. The rpc
+##                       is picked-up by act_psw.frm, which then 
+##                       routes the information to thye exception
+##                       screen.
+##                 s [=] Flag that tells act_psw if it's going to
+##                       to be an action or informational exception
+##
+##                 s [=] String containing the Truck, and Tire position
+##                       that's reporting the alarm
+##
+##                 s [=] A comma delimited string with the alarm data 
+##
+0x0642  MICH-TIRE-WARNING    dispatch        sss

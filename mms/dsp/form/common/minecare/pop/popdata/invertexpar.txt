@@ -1,0 +1,106 @@
+1040252929	Truck Speed	105445.815	0	11
+1040252930	Link Voltage	65535	0	31
+1040252931	Engine Speed	65535	0	28
+1040252932	Cooling Blower Speed	65535	0	28
+1040252933	Accelerator Pedal	65535	0	25
+1040252934	Retard Speed Control	65535	0	25
+1040252935	Cooling Air Temperature	65535	0	5
+1040252936	Barometric Pressure	451536.15	0	9
+1040252937	Pot Ref	65535	0	31
+1040252938	Control Battery	65535	0	31
+1040252939	Crank Battery	65535	0	31
+1040252940	PSC Comm Channel	65535	0	0
+1040252941	Hydraulic Brake Temperature	65535	0	5
+1040252942	HP Feedback	49151.25	0	12
+1040252943	Driver Id	65535	0	0
+1040252944	PSC Temperature	65535	0	25
+1040252945	DC Link Current	65535	0	1
+1040252946	Torque Feedback 1	89127.6	0	24
+1040252947	Torque Feedback 2	89127.6	0	24
+1040252948	Motor 1 Speed	65535	0	28
+1040252949	Motor 2 Speed	65535	0	28
+1040252950	Event Flags	65535	0	0
+1040252951	Left Front Speed	65535	0	28
+1040252952	Right Front Speed	65535	0	28
+1040252953	Motor Pressure Sensor	65535	0	31
+1040252954	Plus 5V Volt	65535	0	31
+1040252955	Plus 15 Volt	65535	0	31
+1040252956	Minus 15 Volts	65535	0	31
+1040252957	State	65535	0	0
+1040252958	Auxiliary Error Code	65535	0	0
+1040252959	Auxiliary DC Linkv	65535	0	31
+1040252960	Net HP	49151.25	0	12
+1040252961	RP1 Contactor	1	0	0
+1040252962	RP2 Contactor	1	0	0
+1040252963	RP3 Contactor	1	0	0
+1040252964	Kilometers Travelled	65535	0	8
+1040253078	Parking Brake Switch	1	0	0
+1040253079	Parking Brake Feedback	1	0	0
+1040253080	Mid Payload	1	0	0
+1040253081	Body Down	1	0	0
+1040253082	Engine Start Request	1	0	0
+1040253083	Control Power On	1	0	0
+1040253084	Forward Request	1	0	0
+1040253085	Reverse Request	1	0	0
+1040253086	Data Store	1	0	0
+1040253087	Engine Kill Switch	1	0	0
+1040253088	RSC Input	1	0	0
+1040253089	Rest Request	1	0	0
+1040253090	Engine Warning	1	0	0
+1040253091	Engine Caution	1	0	0
+1040253092	Load Brake	1	0	0
+1040253093	Axle Box Pressure Sensor	1	0	0
+1040253094	Reset / Dump Override Switch	1	0	0
+1040253095	Lamp Test Switch	1	0	0
+1040253096	Full Payload	1	0	0
+1040253097	Over Payload	1	0	0
+1040253098	Engine Warm-up Mode Request	1	0	0
+1040253099	Control Pressure Sensor	1	0	0
+1040253101	Brake Test Request	1	0	0
+1040253112	Engine Winter Mode Allowed (DDC)	1	0	0
+1040253113	Reverse Light	1	0	0
+1040253114	OEM Speed Set 2	1	0	0
+1040253115	OEM Speed Set 1	1	0	0
+1040253116	Engine Crank Output	1	0	0
+1040253117	Parking Brake Commanded Off (GE Controlled PB)	1	0	0
+1040253118	PSC Warning Light / Speed Limit	1	0	0
+1040253119	No Propel Light	1	0	0
+1040253120	No Retard Light	1	0	0
+1040253121	Temp Warning Light	1	0	0
+1040253122	Battery Separate Contactor	1	0	0
+1040253123	Retard Light	1	0	0
+1040253124	Hyd Brake Hot Light Or Heater Disable Command	1	0	0
+1040253125	Link On	1	0	0
+1040253126	External Retard Light	1	0	0
+1040253127	Retard At Continuous Level	1	0	0
+1040253128	Reduced Propulsion Light	1	0	0
+1040253129	PSC Not Ready	1	0	0
+1040253130	Rest Light	1	0	0
+1040253131	OEM Engine Speed Set	1	0	0
+1040253132	Battery Charge Not Ok	1	0	0
+1040253133	Brake Test Light	1	0	0
+1040253143	Aux Ok	1	0	0
+1040253144	Sys Run	1	0	0
+1040253145	Powerup Tests Active	1	0	0
+1040253146	Test Mode	1	0	0
+1040253147	Rest Mode	1	0	0
+1040253150	Inv1 Disabled Restriction	1	0	0
+1040253151	Inv2 Disabled Restriction	1	0	0
+1040253152	Engine Speed And RP1 Restriction	1	0	0
+1040253153	Key Switch And CPS Switch	1	0	0
+1040253154	OEM Accel Inhibit Request	1	0	0
+1040253158	No Retard	1	0	0
+1040253159	No Propel	1	0	0
+1040253160	System Warning	1	0	0
+1040253161	System Event	1	0	0
+1040253167	Retard Mode	1	0	0
+1040253168	Propel Mode	1	0	0
+1040253169	Ready Mode	1	0	0
+1040253170	Startup Shutdown Mode	1	0	0
+1040253171	Link On	1	0	0
+1040253173	Reverse	1	0	0
+1040253174	Forward	1	0	0
+1040253175	Self Load	1	0	0
+1040253176	Speed Control Active	1	0	0
+1040253177	Brakes On	1	0	0
+1040253190	Spin-Slide Active	1	0	0

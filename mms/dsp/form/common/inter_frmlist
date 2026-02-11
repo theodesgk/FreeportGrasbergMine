@@ -1,0 +1,16 @@
+#!/bin/sh -x
+#
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-1994
+#               All Rights Reserved
+#  $RCSfile: inter_frmlist,v $
+# $Revision: 1.1 $
+#   $Author: olson $
+#     $Date: 2002/05/24 02:07:07 $
+#    $State: Exp $
+#   Purpose: End of shift command procedures
+#
+#           $1 [=] Standard form directory
+
+cd $1
+ls *.frm > frmlist

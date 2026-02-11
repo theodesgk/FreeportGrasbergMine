@@ -1,0 +1,208 @@
+OEM Interface Timeout	838991840
+OEM Interface Normal	838991841
+Driver Interface Timeout	838991842
+Driver Interface Normal	838991843
+Tire 1 Pressure Normal	838926336
+Tire 1 Pressure Loss >= 12.5%	838926337
+Tire 1 Pressure Loss >= 25%	838926338
+Tire 1 New Air	838926339
+Tire 1 New Magnet	838926340
+Tire 1 Sensor Low Battery	838926341
+Tire 2 Pressure Normal	838926342
+Tire 2 Pressure Loss >= 12.5%	838926343
+Tire 2 Pressure Loss >= 25%	838926344
+Tire 2 New Air	838926345
+Tire 2 New Magnet	838926346
+Tire 2 Sensor Low Battery	838926347
+Tire 3 Pressure Normal	838926348
+Tire 3 Pressure Loss >= 12.5%	838926349
+Tire 3 Pressure Loss >= 25%	838926350
+Tire 3 New Air	838926351
+Tire 3 New Magnet	838926352
+Tire 3 Sensor Low Battery	838926353
+Tire 4 Pressure Normal	838926354
+Tire 4 Pressure Loss >= 12.5%	838926355
+Tire 4 Pressure Loss >= 25%	838926356
+Tire 4 New Air	838926357
+Tire 4 New Magnet	838926358
+Tire 4 Sensor Low Battery	838926359
+Tire 5 Pressure Normal	838926360
+Tire 5 Pressure Loss >= 12.5%	838926361
+Tire 5 Pressure Loss >= 25%	838926362
+Tire 5 New Air	838926363
+Tire 5 New Magnet	838926364
+Tire 5 Sensor Low Battery	838926365
+Tire 6 Pressure Normal	838926366
+Tire 6 Pressure Loss >= 12.5%	838926367
+Tire 6 Pressure Loss >= 25%	838926368
+Tire 6 New Air	838926369
+Tire 6 New Magnet	838926370
+Tire 6 Sensor Low Battery	838926371
+Tire 7 Pressure Normal	838926372
+Tire 7 Pressure Loss >= 12.5%	838926373
+Tire 7 Pressure Loss >= 25%	838926374
+Tire 7 New Air	838926375
+Tire 7 New Magnet	838926376
+Tire 7 Sensor Low Battery	838926377
+Tire 8 Pressure Normal	838926378
+Tire 8 Pressure Loss >= 12.5%	838926379
+Tire 8 Pressure Loss >= 25%	838926380
+Tire 8 New Air	838926381
+Tire 8 New Magnet	838926382
+Tire 8 Sensor Low Battery	838926383
+Tire 9 Pressure Normal	838926384
+Tire 9 Pressure Loss >= 12.5%	838926385
+Tire 9 Pressure Loss >= 25%	838926386
+Tire 9 New Air	838926387
+Tire 9 New Magnet	838926388
+Tire 9 Sensor Low Battery	838926389
+Tire 10 Pressure Normal	838926390
+Tire 10Pressure Loss >= 12.5%	838926391
+Tire 10 Pressure Loss >= 25%	838926392
+Tire 10 New Air	838926393
+Tire 10 New Magnet	838926394
+Tire 10 Sensor Low Battery	838926395
+Tire 11 Pressure Normal	838926396
+Tire 11 Pressure Loss >= 12.5%	838926397
+Tire 11 Pressure Loss >= 25%	838926398
+Tire 11 New Air	838926399
+Tire 11 New Magnet	838926400
+Tire 11 Sensor Low Battery	838926401
+Tire 12 Pressure Normal	838926402
+Tire 12 Pressure Loss >= 12.5%	838926403
+Tire 12 Pressure Loss >= 25%	838926404
+Tire 12 New Air	838926405
+Tire 12 New Magnet	838926406
+Tire 12 Sensor Low Battery	838926407
+Tire 13 Pressure Normal	838926408
+Tire 13 Pressure Loss >= 12.5%	838926409
+Tire 13 Pressure Loss >= 25%	838926410
+Tire 13 New Air	838926411
+Tire 13 New Magnet	838926412
+Tire 13 Sensor Low Battery	838926413
+Tire 14 Pressure Normal	838926414
+Tire 14 Pressure Loss >= 12.5%	838926415
+Tire 14 Pressure Loss >= 25%	838926416
+Tire 14 New Air	838926417
+Tire 14 New Magnet	838926418
+Tire 14 Sensor Low Battery	838926419
+Tire 15 Pressure Normal	838926420
+Tire 15 Pressure Loss >= 12.5%	838926421
+Tire 15 Pressure Loss >= 25%	838926422
+Tire 15 New Air	838926423
+Tire 15 New Magnet	838926424
+Tire 15 Sensor Low Battery	838926425
+Tire 16 Pressure Normal	838926426
+Tire 16 Pressure Loss >= 12.5%	838926427
+Tire 16 Pressure Loss >= 25%	838926428
+Tire 16 New Air	838926429
+Tire 16 New Magnet	838926430
+Tire 16 Sensor Low Battery	838926431
+Tire 17 Pressure Normal	838926432
+Tire 17 Pressure Loss >= 12.5%	838926433
+Tire 17 Pressure Loss >= 25%	838926434
+Tire 17 New Air	838926435
+Tire 17 New Magnet	838926436
+Tire 17 Sensor Low Battery	838926437
+Tire 18 Pressure Normal	838926438
+Tire 18 Pressure Loss >= 12.5%	838926439
+Tire 18 Pressure Loss >= 25%	838926440
+Tire 18 New Air	838926441
+Tire 18 New Magnet	838926442
+Tire 18 Sensor Low Battery	838926443
+Tire 19 Pressure Normal	838926444
+Tire 19 Pressure Loss >= 12.5%	838926445
+Tire 19 Pressure Loss >= 25%	838926446
+Tire 19 New Air	838926447
+Tire 19 New Magnet	838926448
+Tire 19 Sensor Low Battery	838926449
+Tire 20 Pressure Normal	838926450
+Tire 20Pressure Loss >= 12.5%	838926451
+Tire 20 Pressure Loss >= 25%	838926452
+Tire 20 New Air	838926453
+Tire 20 New Magnet	838926454
+Tire 20 Sensor Low Battery	838926455
+Tire 21 Pressure Normal	838926456
+Tire 21 Pressure Loss >= 12.5%	838926457
+Tire 21 Pressure Loss >= 25%	838926458
+Tire 21 New Air	838926459
+Tire 21 New Magnet	838926460
+Tire 21 Sensor Low Battery	838926461
+Tire 22 Pressure Normal	838926462
+Tire 22 Pressure Loss >= 12.5%	838926463
+Tire 22 Pressure Loss >= 25%	838926464
+Tire 22 New Air	838926465
+Tire 22 New Magnet	838926466
+Tire 22 Sensor Low Battery	838926467
+Tire 23 Pressure Normal	838926468
+Tire 23 Pressure Loss >= 12.5%	838926469
+Tire 23 Pressure Loss >= 25%	838926470
+Tire 23 New Air	838926471
+Tire 23 New Magnet	838926472
+Tire 23 Sensor Low Battery	838926473
+Tire 24 Pressure Normal	838926474
+Tire 24 Pressure Loss >= 12.5%	838926475
+Tire 24 Pressure Loss >= 25%	838926476
+Tire 24 New Air	838926477
+Tire 24 New Magnet	838926478
+Tire 24 Sensor Low Battery	838926479
+Tire 25 Pressure Normal	838926480
+Tire 25 Pressure Loss >= 12.5%	838926481
+Tire 25 Pressure Loss >= 25%	838926482
+Tire 25 New Air	838926483
+Tire 25 New Magnet	838926484
+Tire 25 Sensor Low Battery	838926485
+Tire 26 Pressure Normal	838926486
+Tire 26 Pressure Loss >= 12.5%	838926487
+Tire 26 Pressure Loss >= 25%	838926488
+Tire 26 New Air	838926489
+Tire 26 New Magnet	838926490
+Tire 26 Sensor Low Battery	838926491
+Tire 27 Pressure Normal	838926492
+Tire 27 Pressure Loss >= 12.5%	838926493
+Tire 27 Pressure Loss >= 25%	838926494
+Tire 27 New Air	838926495
+Tire 27 New Magnet	838926496
+Tire 27 Sensor Low Battery	838926497
+Tire 28 Pressure Normal	838926498
+Tire 28 Pressure Loss >= 12.5%	838926499
+Tire 28 Pressure Loss >= 25%	838926500
+Tire 28 New Air	838926501
+Tire 28 New Magnet	838926502
+Tire 28 Sensor Low Battery	838926503
+Tire 29 Pressure Normal	838926504
+Tire 29 Pressure Loss >= 12.5%	838926505
+Tire 29 Pressure Loss >= 25%	838926506
+Tire 29 New Air	838926507
+Tire 29 New Magnet	838926508
+Tire 29 Sensor Low Battery	838926509
+Tire 30 Pressure Normal	838926510
+Tire 30Pressure Loss >= 12.5%	838926511
+Tire 30 Pressure Loss >= 25%	838926512
+Tire 30 New Air	838926513
+Tire 30 New Magnet	838926514
+Tire 30 Sensor Low Battery	838926515
+Tire 31 Pressure Normal	838926516
+Tire 31 Pressure Loss >= 12.5%	838926517
+Tire 31 Pressure Loss >= 25%	838926518
+Tire 31 New Air	838926519
+Tire 31 New Magnet	838926520
+Tire 31 Sensor Low Battery	838926521
+Tire 32 Pressure Normal	838926522
+Tire 32 Pressure Loss >= 12.5%	838926523
+Tire 32 Pressure Loss >= 25%	838926524
+Tire 32 New Air	838926525
+Tire 32 New Magnet	838926526
+Tire 32 Sensor Low Battery	838926527
+Tire 33 Pressure Normal	838926528
+Tire 33 Pressure Loss >= 12.5%	838926529
+Tire 33 Pressure Loss >= 25%	838926530
+Tire 33 New Air	838926531
+Tire 33 New Magnet	838926532
+Tire 33 Sensor Low Battery	838926533
+Tire 34 Pressure Normal	838926534
+Tire 34 Pressure Loss >= 12.5%	838926535
+Tire 34 Pressure Loss >= 25%	838926536
+Tire 34 New Air	838926537
+Tire 34 New Magnet	838926538
+Tire 34 Sensor Low Battery	838926539

@@ -1,0 +1,704 @@
+1258356737	Accelerator Interlock Switch (Qsk19)	1	0	33
+1258356738	Engine Derate Switch (Qsk19)	1	0	33
+1258356739	Auxiliary Engine Shutdown Switch (Qsk19)	1	0	33
+1258356740	Remote Accelerator Enable Switch (Qsk19)	1	0	33
+1258356741	Engine Retarder Selection (Qsk19)	100	0	25
+1258356742	Torque Converter Lockup Engaged (Qsk19)	1	0	33
+1258356743	Output Shaft Speed (Qsk19)	8031.875	0	28
+1258356744	Momentary Engine Overspeed Enable (Qsk19)	3	0	33
+1258356745	Ap Low Idle Switch (Qsk19)	1	0	33
+1258356746	Accelerator Pedal (Ap) Position (Qsk19)	100	0	25
+1258356747	Remote Accelerator (Qsk19)	100	0	25
+1258356748	Ap Kickdown Switch (Qsk19)	1	0	33
+1258356749	Percent Load At Current Speed (Qsk19)	125	0	25
+1258356750	Engine Torque Mode (Qsk19)	14	0	33
+1258356751	Driver Demand Engine - Percent Torque (Qsk19)	125	-125	25
+1258356752	Actual Engine - Percent Torque (Qsk19)	125	-125	25
+1258356753	Engine Speed (Qsk19)	8031.875	0	28
+1258356754	Source Address Of Controlling Device (Qsk19)	253	0	0
+1258356755	Engine Demand - Percent Torque (Qsk19)	125	-125	25
+1258356756	Engine Operating State (Qsk19)	15	0	33
+1258356757	Operator Primary Intermediate Speed Select (Qsk19)	15	0	33
+1258356758	Auxiliary Governor Switch (Qsk19)	3	0	33
+1258356759	Multi Unit Sync On / Off Switch (Qsk19)	3	0	33
+1258356760	Alternate Low Idle Switch (Qsk19)	3	0	33
+1258356761	Alternate Rating Select (Qsk19)	255	0	33
+1258356762	Alternate Droop Accelerator 1 Select (Qsk19)	15	0	33
+1258356763	Alternate Droop Accelerator 2 Select (Qsk19)	15	0	33
+1258356764	Alternate Droop Remote Accelerator Select (Qsk19)	15	0	33
+1258356765	Alternate Droop Auxiliary Input Select (Qsk19)	15	0	33
+1258356766	Engine Oil Level Remote Reservoir (Qsk19)	100	0	25
+1258356767	Fuel Supply Pump Inlet Pressure (Qsk19)	500	0	9
+1258356768	Pre-Filter Oil Pressure (Qsk19)	1000	0	9
+1258356769	Instantaneous Estimated Brake Power (Qsk19)	32127.5	0	12
+1258356780	Exhaust Gas Port 5 Temperature (Qsk19)	1735	-273	5
+1258356781	Exhaust Gas Port 6 Temperature (Qsk19)	1735	-273	5
+1258356784	Exhaust Gas Port 1 Temperature (Qsk19)	1735	-273	5
+1258356785	Exhaust Gas Port 2 Temperature (Qsk19)	1735	-273	5
+1258356786	Exhaust Gas Port 3 Temperature (Qsk19)	1735	-273	5
+1258356787	Exhaust Gas Port 4 Temperature (Qsk19)	1735	-273	5
+1258356788	Engine Ecu Temperature (Qsk19)	273	-273	5
+1258356789	Intake Manifold 2 Temperature (Qsk19)	210	-40	5
+1258356790	Intake Manifold 3 Temperature (Qsk19)	210	-40	5
+1258356791	Intake Manifold 4 Temperature (Qsk19)	210	-40	5
+1258356792	Turbocharger 1 Boost Pressure (Qsk19)	8031.875	0	9
+1258356793	Turbocharger 2 Boost Pressure (Qsk19)	8031.875	0	9
+1258356794	Total Ecu Run Time (Qsk19)	210554060.8	0	7
+1258356795	Estimated Percent Fan Speed (Qsk19)	100	0	25
+1258356796	Fan Drive State (Qsk19)	14	0	0
+1258356797	Fan Speed (Qsk19)	100	0	25
+1258356798	Rated Engine Power (Qsk19)	32127.5	0	12
+1258356799	Rated Engine Speed (Qsk19)	8031.875	0	28
+1258356800	Active Trouble Codes (Qsk19)	255	0	33
+1258356801	Previously Active Diagnostic Trouble Codes (Qsk19)	255	0	33
+1258356802	Obd Compliance (Qsk19)	255	0	33
+1258356803	Continuously Monitored Systems Support/Status (Qsk19)	255	0	33
+1258356804	Non-Continuously Monitored Systems Support (Qsk19)	65535	0	33
+1258356805	Non-Continuously Monitored Systems Status (Qsk19)	65535	0	33
+1258356806	Software Identification (Qsk19)	0	0	33
+1258356807	Injector Metering Rail 1 Pressure (Qsk19)	251	0	22
+1258356808	Total Idle Fuel Used (Qsk19)	2105540608	0	14
+1258356809	Total Idle Hours (Qsk19)	210554060.8	0	7
+1258356810	Turbocharger 1 Speed (Qsk19)	257020	0	28
+1258356811	Nominal Friction - Percent Torque (Qsk19)	125	-125	25
+1258356812	Engines Dsired Operating Speed (Qsk19)	8031.875	0	28
+1258356813	Engine Operating Speed Asymmetry Adjustment (Qsk19)	250	0	33
+1258356814	Total Engine Hours (Qsk19)	210554060.8	0	7
+1258356815	Total Engine Revolutions (Qsk19)	1000000000	0	27
+1258356816	Trip Fuel (Qsk19)	2105540608	0	14
+1258356817	Total Fuel Used (Qsk19)	2105540608	0	14
+1258356818	Vehicle Identification (Qsk19)	0	0	33
+1258356819	Engine Coolant Temperature (Qsk19)	210	-40	5
+1258356820	Fuel Temperature (Qsk19)	210	-40	5
+1258356821	Engine Oil Temperature 1 (Qsk19)	1735	-273	5
+1258356822	Fuel Delivery Pressure (Qsk19)	1000	0	9
+1258356823	Engine Oil Pressure (Qsk19)	1000	0	9
+1258356824	Crankcase Pressure (Qsk19)	251.99	-250	9
+1258356825	Coolant Pressure (Qsk19)	500	0	9
+1258356826	Coolant Level (Qsk19)	500	0	9
+1258356827	Power Takeoff Oil Temperature (Qsk19)	210	-40	5
+1258356828	Power Takeoff Speed (Qsk19)	8031.875	0	28
+1258356829	Power Takeoff Set Speed (Qsk19)	8031.875	0	28
+1258356830	Pto Enable Switch (Qsk19)	1	0	33
+1258356831	Remote Pto Preprogrammed Switch (Qsk19)	1	0	33
+1258356832	Remote Pto Variable Speed (Qsk19)	1	0	33
+1258356833	Pto Set Switch (Qsk19)	1	0	33
+1258356834	Pto Coast/Decelerate (Qsk19)	1	0	33
+1258356835	Pto Resume Switch (Qsk19)	1	0	33
+1258356836	Pto Accelerate Switch (Qsk19)	1	0	33
+1258356837	Fuel Rate (Qsk19)	3212.75	0	13
+1258356838	Instantaneous Fuel Economy (Qsk19)	125.5	0	15
+1258356839	Average Fuel Economy (Qsk19)	125.5	0	15
+1258356840	Barometric Pressure (Qsk19)	125	0	9
+1258356841	Boost Pressure (Qsk19)	500	0	9
+1258356842	Intake Manifold Temperature (Qsk19)	210	-40	5
+1258356843	Exhaust Gas Temperature (Qsk19)	1735	-273	5
+1258356844	Electrical Potential (Voltage) (Qsk19)	3212.75	0	31
+1258356845	Engine Oil Filter Differential Pressure (Qsk19)	125	0	9
+1258356846	Water In Fuel Indicator (Qsk19)	1	0	33
+1258356847	Post-Oil Filter Pressure (Qsk19)	1000	0	9
+1258356848	Auxiliary I/O #1 (Qsk19)	1	0	33
+1258356849	Idle Increment Switch (Qsk19)	1	0	33
+1258356850	Idle Decrement Switch (Qsk19)	1	0	33
+1258356851	Engine Test Mode Switch (Qsk19)	1	0	33
+1258356852	Engine Shutdown Override Switch (Qsk19)	1	0	33
+1258356853	Engine Oil Pressure (High Resolution) (Qsk19)	6425.5	0	9
+1258356854	Engine Fuel Delivery Pressure (High Resolution) (Qsk19)	6425.5	0	9
+1258356855	Pre-Filter Oil Pressure (High Resolution) (Qsk19)	6425.5	0	9
+1258356856	Engine Oil Filter Differential Pressure (Extended Range) (Qsk19)	1250	0	9
+1258356857	Fuel Supply Pump Inlet Pressure (Extended Range) (Qsk19)	1250	0	9
+1258356858	Engine Total Average Fuel Rate (Qsk19)	3212.75	0	13
+1258356859	Engine Coolant Temperature (High Resolution) (Qsk19)	1735	-273	5
+1258356860	Engine Charge Air Cooler 1 Outlet Temperature (Qsk19)	1735	-273	5
+1258358737	Accelerator Interlock Switch (Qsk19Eng2)	1	0	33
+1258358738	Engine Derate Switch (Qsk19Eng2)	1	0	33
+1258358739	Auxiliary Engine Shutdown Switch (Qsk19Eng2)	1	0	33
+1258358740	Remote Accelerator Enable Switch (Qsk19Eng2)	1	0	33
+1258358741	Engine Retarder Selection (Qsk19Eng2)	100	0	25
+1258358742	Torque Converter Lockup Engaged (Qsk19Eng2)	1	0	33
+1258358743	Output Shaft Speed (Qsk19Eng2)	8031.875	0	28
+1258358744	Momentary Engine Overspeed Enable (Qsk19Eng2)	3	0	33
+1258358745	Ap Low Idle Switch (Qsk19Eng2)	1	0	33
+1258358746	Accelerator Pedal (Ap) Position (Qsk19Eng2)	100	0	25
+1258358747	Remote Accelerator (Qsk19Eng2)	100	0	25
+1258358748	Ap Kickdown Switch (Qsk19Eng2)	1	0	33
+1258358749	Percent Load At Current Speed (Qsk19Eng2)	125	0	25
+1258358750	Engine Torque Mode (Qsk19Eng2)	14	0	33
+1258358751	Driver Demand Engine - Percent Torque (Qsk19Eng2)	125	-125	25
+1258358752	Actual Engine - Percent Torque (Qsk19Eng2)	125	-125	25
+1258358753	Engine Speed (Qsk19Eng2)	8031.875	0	28
+1258358754	Source Address Of Controlling Device (Qsk19Eng2)	253	0	0
+1258358755	Engine Demand - Percent Torque (Qsk19Eng2)	125	-125	25
+1258358756	Engine Operating State (Qsk19Eng2)	15	0	33
+1258358757	Operator Primary Intermediate Speed Select (Qsk19Eng2)	15	0	33
+1258358758	Auxiliary Governor Switch (Qsk19Eng2)	3	0	33
+1258358759	Multi Unit Sync On / Off Switch (Qsk19Eng2)	3	0	33
+1258358760	Alternate Low Idle Switch (Qsk19Eng2)	3	0	33
+1258358761	Alternate Rating Select (Qsk19Eng2)	255	0	33
+1258358762	Alternate Droop Accelerator 1 Select (Qsk19Eng2)	15	0	33
+1258358763	Alternate Droop Accelerator 2 Select (Qsk19Eng2)	15	0	33
+1258358764	Alternate Droop Remote Accelerator Select (Qsk19Eng2)	15	0	33
+1258358765	Alternate Droop Auxiliary Input Select (Qsk19Eng2)	15	0	33
+1258358766	Engine Oil Level Remote Reservoir (Qsk19Eng2)	100	0	25
+1258358767	Fuel Supply Pump Inlet Pressure (Qsk19Eng2)	500	0	9
+1258358768	Pre-Filter Oil Pressure (Qsk19Eng2)	1000	0	9
+1258358769	Instantaneous Estimated Brake Power (Qsk19Eng2)	32127.5	0	12
+1258358780	Exhaust Gas Port 5 Temperature (Qsk19Eng2)	1735	-273	5
+1258358781	Exhaust Gas Port 6 Temperature (Qsk19Eng2)	1735	-273	5
+1258358784	Exhaust Gas Port 1 Temperature (Qsk19Eng2)	1735	-273	5
+1258358785	Exhaust Gas Port 2 Temperature (Qsk19Eng2)	1735	-273	5
+1258358786	Exhaust Gas Port 3 Temperature (Qsk19Eng2)	1735	-273	5
+1258358787	Exhaust Gas Port 4 Temperature (Qsk19Eng2)	1735	-273	5
+1258358788	Engine Ecu Temperature (Qsk19Eng2)	273	-273	5
+1258358789	Intake Manifold 2 Temperature (Qsk19Eng2)	210	-40	5
+1258358790	Intake Manifold 3 Temperature (Qsk19Eng2)	210	-40	5
+1258358791	Intake Manifold 4 Temperature (Qsk19Eng2)	210	-40	5
+1258358792	Turbocharger 1 Boost Pressure (Qsk19Eng2)	8031.875	0	9
+1258358793	Turbocharger 2 Boost Pressure (Qsk19Eng2)	8031.875	0	9
+1258358794	Total Ecu Run Time (Qsk19Eng2)	210554060.8	0	7
+1258358795	Estimated Percent Fan Speed (Qsk19Eng2)	100	0	25
+1258358796	Fan Drive State (Qsk19Eng2)	14	0	0
+1258358797	Fan Speed (Qsk19Eng2)	100	0	25
+1258358798	Rated Engine Power (Qsk19Eng2)	32127.5	0	12
+1258358799	Rated Engine Speed (Qsk19Eng2)	8031.875	0	28
+1258358800	Active Trouble Codes (Qsk19Eng2)	255	0	33
+1258358801	Previously Active Diagnostic Trouble Codes (Qsk19Eng2)	255	0	33
+1258358802	Obd Compliance (Qsk19Eng2)	255	0	33
+1258358803	Continuously Monitored Systems Support/Status (Qsk19Eng2)	255	0	33
+1258358804	Non-Continuously Monitored Systems Support (Qsk19Eng2)	65535	0	33
+1258358805	Non-Continuously Monitored Systems Status (Qsk19Eng2)	65535	0	33
+1258358806	Software Identification (Qsk19Eng2)	0	0	33
+1258358807	Injector Metering Rail 1 Pressure (Qsk19Eng2)	251	0	22
+1258358808	Total Idle Fuel Used (Qsk19Eng2)	2105540608	0	14
+1258358809	Total Idle Hours (Qsk19Eng2)	210554060.8	0	7
+1258358810	Turbocharger 1 Speed (Qsk19Eng2)	257020	0	28
+1258358811	Nominal Friction - Percent Torque (Qsk19Eng2)	125	-125	25
+1258358812	Engine Desired Operating Speed (Qsk19Eng2)	8031.875	0	28
+1258358813	Engine Operating Speed Asymmetry Adjustment (Qsk19Eng2)	250	0	33
+1258358814	Total Engine Hours (Qsk19Eng2)	210554060.8	0	7
+1258358815	Total Engine Revolutions (Qsk19Eng2)	1000000000	0	27
+1258358816	Trip Fuel (Qsk19Eng2)	2105540608	0	14
+1258358817	Total Fuel Used (Qsk19Eng2)	2105540608	0	14
+1258358818	Vehicle Identification (Qsk19Eng2)	0	0	33
+1258358819	Engine Coolant Temperature (Qsk19Eng2)	210	-40	5
+1258358820	Fuel Temperature (Qsk19Eng2)	210	-40	5
+1258358821	Engine Oil Temperature 1 (Qsk19Eng2)	1735	-273	5
+1258358822	Fuel Delivery Pressure (Qsk19Eng2)	1000	0	9
+1258358823	Engine Oil Pressure (Qsk19Eng2)	1000	0	9
+1258358824	Crankcase Pressure (Qsk19Eng2)	251.99	-250	9
+1258358825	Coolant Pressure (Qsk19Eng2)	500	0	9
+1258358826	Coolant Level (Qsk19Eng2)	500	0	9
+1258358827	Power Takeoff Oil Temperature (Qsk19Eng2)	210	-40	5
+1258358828	Power Takeoff Speed (Qsk19Eng2)	8031.875	0	28
+1258358829	Power Takeoff Set Speed (Qsk19Eng2)	8031.875	0	28
+1258358830	Pto Enable Switch (Qsk19Eng2)	1	0	33
+1258358831	Remote Pto Preprogrammed Switch (Qsk19Eng2)	1	0	33
+1258358832	Remote Pto Variable Speed (Qsk19Eng2)	1	0	33
+1258358833	Pto Set Switch (Qsk19Eng2)	1	0	33
+1258358834	Pto Coast/Decelerate (Qsk19Eng2)	1	0	33
+1258358835	Pto Resume Switch (Qsk19Eng2)	1	0	33
+1258358836	Pto Accelerate Switch (Qsk19Eng2)	1	0	33
+1258358837	Fuel Rate (Qsk19Eng2)	3212.75	0	13
+1258358838	Instantaneous Fuel Economy (Qsk19Eng2)	125.5	0	15
+1258358839	Average Fuel Economy (Qsk19Eng2)	125.5	0	15
+1258358840	Barometric Pressure (Qsk19Eng2)	125	0	9
+1258358841	Boost Pressure (Qsk19Eng2)	500	0	9
+1258358842	Intake Manifold Temperature (Qsk19Eng2)	210	-40	5
+1258358843	Exhaust Gas Temperature (Qsk19Eng2)	1735	-273	5
+1258358844	Electrical Potential (Voltage) (Qsk19Eng2)	3212.75	0	31
+1258358845	Engine Oil Filter Differential Pressure (Qsk19Eng2)	125	0	9
+1258358846	Water In Fuel Indicator (Qsk19Eng2)	1	0	33
+1258358847	Post-Oil Filter Pressure (Qsk19Eng2)	1000	0	9
+1258358848	Auxiliary I/O #1 (Qsk19Eng2)	1	0	33
+1258358849	Idle Increment Switch (Qsk19Eng2)	1	0	33
+1258358850	Idle Decrement Switch (Qsk19Eng2)	1	0	33
+1258358851	Engine Test Mode Switch (Qsk19Eng2)	1	0	33
+1258358852	Engine Shutdown Override Switch (Qsk19Eng2)	1	0	33
+1258358853	Engine Oil Pressure (High Resolution) (Qsk19Eng2)	6425.5	0	9
+1258358854	Engine Fuel Delivery Pressure (High Resolution) (Qsk19Eng2)	6425.5	0	9
+1258358855	Pre-Filter Oil Pressure (High Resolution) (Qsk19Eng2)	6425.5	0	9
+1258358856	Engine Oil Filter Differential Pressure (Extended Range) (Qsk19Eng2)	1250	0	9
+1258358857	Fuel Supply Pump Inlet Pressure (Extended Range) (Qsk19Eng2)	1250	0	9
+1258358858	Engine Total Average Fuel Rate (Qsk19Eng2)	3212.75	0	13
+1258358859	Engine Coolant Temperature (High Resolution) (Qsk19Eng2)	1735	-273	5
+1258358860	Engine Charge Air Cooler 1 Outlet Temperature (Qsk19Eng2)	1735	-273	5
+1258360737	Accelerator Interlock Switch (Qsk38)	1	0	33
+1258360738	Engine Derate Switch (Qsk38)	1	0	33
+1258360739	Auxiliary Engine Shutdown Switch (Qsk38)	1	0	33
+1258360740	Remote Accelerator Enable Switch (Qsk38)	1	0	33
+1258360741	Engine Retarder Selection (Qsk38)	100	0	25
+1258360742	Torque Converter Lockup Engaged (Qsk38)	1	0	33
+1258360743	Output Shaft Speed (Qsk38)	8031.875	0	28
+1258360744	Momentary Engine Overspeed Enable (Qsk38)	3	0	33
+1258360745	Ap Low Idle Switch (Qsk38)	1	0	33
+1258360746	Accelerator Pedal (Ap) Position (Qsk38)	100	0	25
+1258360747	Remote Accelerator (Qsk38)	100	0	25
+1258360748	Ap Kickdown Switch (Qsk38)	1	0	33
+1258360749	Percent Load At Current Speed (Qsk38)	125	0	25
+1258360750	Engine Torque Mode (Qsk38)	14	0	33
+1258360751	Driver Demand Engine - Percent Torque (Qsk38)	125	-125	25
+1258360752	Actual Engine - Percent Torque (Qsk38)	125	-125	25
+1258360753	Engine Speed (Qsk38)	8031.875	0	28
+1258360754	Source Address Of Controlling Device (Qsk38)	253	0	0
+1258360755	Engine Demand - Percent Torque (Qsk38)	125	-125	25
+1258360756	Engine Operating State (Qsk38)	15	0	33
+1258360757	Operator Primary Intermediate Speed Select (Qsk38)	15	0	33
+1258360758	Auxiliary Governor Switch (Qsk38)	3	0	33
+1258360759	Multi Unit Sync On / Off Switch (Qsk38)	3	0	33
+1258360760	Alternate Low Idle Switch (Qsk38)	3	0	33
+1258360761	Alternate Rating Select (Qsk38)	255	0	33
+1258360762	Alternate Droop Accelerator 1 Select (Qsk38)	15	0	33
+1258360763	Alternate Droop Accelerator 2 Select (Qsk38)	15	0	33
+1258360764	Alternate Droop Remote Accelerator Select (Qsk38)	15	0	33
+1258360765	Alternate Droop Auxiliary Input Select (Qsk38)	15	0	33
+1258360766	Engine Oil Level Remote Reservoir (Qsk38)	100	0	25
+1258360767	Fuel Supply Pump Inlet Pressure (Qsk38)	500	0	9
+1258360768	Pre-Filter Oil Pressure (Qsk38)	1000	0	9
+1258360769	Instantaneous Estimated Brake Power (Qsk38)	32127.5	0	12
+1258360776	Exhaust Gas Port 9 Temperature (Qsk38)	1735	-273	5
+1258360777	Exhaust Gas Port 10 Temperature (Qsk38)	1735	-273	5
+1258360778	Exhaust Gas Port 11 Temperature (Qsk38)	1735	-273	5
+1258360779	Exhaust Gas Port 12 Temperature (Qsk38)	1735	-273	5
+1258360780	Exhaust Gas Port 5 Temperature (Qsk38)	1735	-273	5
+1258360781	Exhaust Gas Port 6 Temperature (Qsk38)	1735	-273	5
+1258360782	Exhaust Gas Port 7 Temperature (Qsk38)	1735	-273	5
+1258360783	Exhaust Gas Port 8 Temperature (Qsk38)	1735	-273	5
+1258360784	Exhaust Gas Port 1 Temperature (Qsk38)	1735	-273	5
+1258360785	Exhaust Gas Port 2 Temperature (Qsk38)	1735	-273	5
+1258360786	Exhaust Gas Port 3 Temperature (Qsk38)	1735	-273	5
+1258360787	Exhaust Gas Port 4 Temperature (Qsk38)	1735	-273	5
+1258360788	Engine Ecu Temperature (Qsk38)	273	-273	5
+1258360789	Intake Manifold 2 Temperature (Qsk38)	210	-40	5
+1258360790	Intake Manifold 3 Temperature (Qsk38)	210	-40	5
+1258360791	Intake Manifold 4 Temperature (Qsk38)	210	-40	5
+1258360792	Turbocharger 1 Boost Pressure (Qsk38)	8031.875	0	9
+1258360793	Turbocharger 2 Boost Pressure (Qsk38)	8031.875	0	9
+1258360794	Total Ecu Run Time (Qsk38)	210554060.8	0	7
+1258360795	Estimated Percent Fan Speed (Qsk38)	100	0	25
+1258360796	Fan Drive State (Qsk38)	14	0	0
+1258360797	Fan Speed (Qsk38)	100	0	25
+1258360798	Rated Engine Power (Qsk38)	32127.5	0	12
+1258360799	Rated Engine Speed (Qsk38)	8031.875	0	28
+1258360800	Active Trouble Codes (Qsk38)	255	0	33
+1258360801	Previously Active Diagnostic Trouble Codes (Qsk38)	255	0	33
+1258360802	Obd Compliance (Qsk38)	255	0	33
+1258360803	Continuously Monitored Systems Support/Status (Qsk38)	255	0	33
+1258360804	Non-Continuously Monitored Systems Support (Qsk38)	65535	0	33
+1258360805	Non-Continuously Monitored Systems Status (Qsk38)	65535	0	33
+1258360806	Software Identification (Qsk38)	0	0	33
+1258360807	Injector Metering Rail 1 Pressure (Qsk38)	251	0	22
+1258360808	Total Idle Fuel Used (Qsk38)	2105540608	0	14
+1258360809	Total Idle Hours (Qsk38)	210554060.8	0	7
+1258360810	Turbocharger 1 Speed (Qsk38)	257020	0	28
+1258360811	Nominal Friction - Percent Torque (Qsk38)	125	-125	25
+1258360812	Engines Dsired Operating Speed (Qsk38)	8031.875	0	28
+1258360813	Engine Operating Speed Asymmetry Adjustment (Qsk38)	250	0	33
+1258360814	Total Engine Hours (Qsk38)	210554060.8	0	7
+1258360815	Total Engine Revolutions (Qsk38)	1000000000	0	27
+1258360816	Trip Fuel (Qsk38)	2105540608	0	14
+1258360817	Total Fuel Used (Qsk38)	2105540608	0	14
+1258360818	Vehicle Identification (Qsk38)	0	0	33
+1258360819	Engine Coolant Temperature (Qsk38)	210	-40	5
+1258360820	Fuel Temperature (Qsk38)	210	-40	5
+1258360821	Engine Oil Temperature 1 (Qsk38)	1735	-273	5
+1258360822	Fuel Delivery Pressure (Qsk38)	1000	0	9
+1258360823	Engine Oil Pressure (Qsk38)	1000	0	9
+1258360824	Crankcase Pressure (Qsk38)	251.99	-250	9
+1258360825	Coolant Pressure (Qsk38)	500	0	9
+1258360826	Coolant Level (Qsk38)	500	0	9
+1258360827	Power Takeoff Oil Temperature (Qsk38)	210	-40	5
+1258360828	Power Takeoff Speed (Qsk38)	8031.875	0	28
+1258360829	Power Takeoff Set Speed (Qsk38)	8031.875	0	28
+1258360830	Pto Enable Switch (Qsk38)	1	0	33
+1258360831	Remote Pto Preprogrammed Switch (Qsk38)	1	0	33
+1258360832	Remote Pto Variable Speed (Qsk38)	1	0	33
+1258360833	Pto Set Switch (Qsk38)	1	0	33
+1258360834	Pto Coast/Decelerate (Qsk38)	1	0	33
+1258360835	Pto Resume Switch (Qsk38)	1	0	33
+1258360836	Pto Accelerate Switch (Qsk38)	1	0	33
+1258360837	Fuel Rate (Qsk38)	3212.75	0	13
+1258360838	Instantaneous Fuel Economy (Qsk38)	125.5	0	15
+1258360839	Average Fuel Economy (Qsk38)	125.5	0	15
+1258360840	Barometric Pressure (Qsk38)	125	0	9
+1258360841	Boost Pressure (Qsk38)	500	0	9
+1258360842	Intake Manifold Temperature (Qsk38)	210	-40	5
+1258360843	Exhaust Gas Temperature (Qsk38)	1735	-273	5
+1258360844	Electrical Potential (Voltage) (Qsk38)	3212.75	0	31
+1258360845	Engine Oil Filter Differential Pressure (Qsk38)	125	0	9
+1258360846	Water In Fuel Indicator (Qsk38)	1	0	33
+1258360847	Post-Oil Filter Pressure (Qsk38)	1000	0	9
+1258360848	Auxiliary I/O #1 (Qsk38)	1	0	33
+1258360849	Idle Increment Switch (Qsk38)	1	0	33
+1258360850	Idle Decrement Switch (Qsk38)	1	0	33
+1258360851	Engine Test Mode Switch (Qsk38)	1	0	33
+1258360852	Engine Shutdown Override Switch (Qsk38)	1	0	33
+1258360853	Engine Oil Pressure (High Resolution) (Qsk38)	6425.5	0	9
+1258360854	Engine Fuel Delivery Pressure (High Resolution) (Qsk38)	6425.5	0	9
+1258360855	Pre-Filter Oil Pressure (High Resolution) (Qsk38)	6425.5	0	9
+1258360856	Engine Oil Filter Differential Pressure (Extended Range) (Qsk38)	1250	0	9
+1258360857	Fuel Supply Pump Inlet Pressure (Extended Range) (Qsk38)	1250	0	9
+1258360858	Engine Total Average Fuel Rate (Qsk38)	3212.75	0	13
+1258360859	Engine Coolant Temperature (High Resolution) (Qsk38)	1735	-273	5
+1258360860	Engine Charge Air Cooler 1 Outlet Temperature (Qsk38)	1735	-273	5
+1258362737	Accelerator Interlock Switch (Qsk38Eng2)	1	0	33
+1258362738	Engine Derate Switch (Qsk38Eng2)	1	0	33
+1258362739	Auxiliary Engine Shutdown Switch (Qsk38Eng2)	1	0	33
+1258362740	Remote Accelerator Enable Switch (Qsk38Eng2)	1	0	33
+1258362741	Engine Retarder Selection (Qsk38Eng2)	100	0	25
+1258362742	Torque Converter Lockup Engaged (Qsk38Eng2)	1	0	33
+1258362743	Output Shaft Speed (Qsk38Eng2)	8031.875	0	28
+1258362744	Momentary Engine Overspeed Enable (Qsk38Eng2)	3	0	33
+1258362745	Ap Low Idle Switch (Qsk38Eng2)	1	0	33
+1258362746	Accelerator Pedal (Ap) Position (Qsk38Eng2)	100	0	25
+1258362747	Remote Accelerator (Qsk38Eng2)	100	0	25
+1258362748	Ap Kickdown Switch (Qsk38Eng2)	1	0	33
+1258362749	Percent Load At Current Speed (Qsk38Eng2)	125	0	25
+1258362750	Engine Torque Mode (Qsk38Eng2)	14	0	33
+1258362751	Driver Demand Engine - Percent Torque (Qsk38Eng2)	125	-125	25
+1258362752	Actual Engine - Percent Torque (Qsk38Eng2)	125	-125	25
+1258362753	Engine Speed (Qsk38Eng2)	8031.875	0	28
+1258362754	Source Address Of Controlling Device (Qsk38Eng2)	253	0	0
+1258362755	Engine Demand - Percent Torque (Qsk38Eng2)	125	-125	25
+1258362756	Engine Operating State (Qsk38Eng2)	15	0	33
+1258362757	Operator Primary Intermediate Speed Select (Qsk38Eng2)	15	0	33
+1258362758	Auxiliary Governor Switch (Qsk38Eng2)	3	0	33
+1258362759	Multi Unit Sync On / Off Switch (Qsk38Eng2)	3	0	33
+1258362760	Alternate Low Idle Switch (Qsk38Eng2)	3	0	33
+1258362761	Alternate Rating Select (Qsk38Eng2)	255	0	33
+1258362762	Alternate Droop Accelerator 1 Select (Qsk38Eng2)	15	0	33
+1258362763	Alternate Droop Accelerator 2 Select (Qsk38Eng2)	15	0	33
+1258362764	Alternate Droop Remote Accelerator Select (Qsk38Eng2)	15	0	33
+1258362765	Alternate Droop Auxiliary Input Select (Qsk38Eng2)	15	0	33
+1258362766	Engine Oil Level Remote Reservoir (Qsk38Eng2)	100	0	25
+1258362767	Fuel Supply Pump Inlet Pressure (Qsk38Eng2)	500	0	9
+1258362768	Pre-Filter Oil Pressure (Qsk38Eng2)	1000	0	9
+1258362769	Instantaneous Estimated Brake Power (Qsk38Eng2)	32127.5	0	12
+1258362776	Exhaust Gas Port 9 Temperature (Qsk38Eng2)	1735	-273	5
+1258362777	Exhaust Gas Port 10 Temperature (Qsk38Eng2)	1735	-273	5
+1258362778	Exhaust Gas Port 11 Temperature (Qsk38Eng2)	1735	-273	5
+1258362779	Exhaust Gas Port 12 Temperature (Qsk38Eng2)	1735	-273	5
+1258362780	Exhaust Gas Port 5 Temperature (Qsk38Eng2)	1735	-273	5
+1258362781	Exhaust Gas Port 6 Temperature (Qsk38Eng2)	1735	-273	5
+1258362782	Exhaust Gas Port 7 Temperature (Qsk38Eng2)	1735	-273	5
+1258362783	Exhaust Gas Port 8 Temperature (Qsk38Eng2)	1735	-273	5
+1258362784	Exhaust Gas Port 1 Temperature (Qsk38Eng2)	1735	-273	5
+1258362785	Exhaust Gas Port 2 Temperature (Qsk38Eng2)	1735	-273	5
+1258362786	Exhaust Gas Port 3 Temperature (Qsk38Eng2)	1735	-273	5
+1258362787	Exhaust Gas Port 4 Temperature (Qsk38Eng2)	1735	-273	5
+1258362788	Engine Ecu Temperature (Qsk38Eng2)	273	-273	5
+1258362789	Intake Manifold 2 Temperature (Qsk38Eng2)	210	-40	5
+1258362790	Intake Manifold 3 Temperature (Qsk38Eng2)	210	-40	5
+1258362791	Intake Manifold 4 Temperature (Qsk38Eng2)	210	-40	5
+1258362792	Turbocharger 1 Boost Pressure (Qsk38Eng2)	8031.875	0	9
+1258362793	Turbocharger 2 Boost Pressure (Qsk38Eng2)	8031.875	0	9
+1258362794	Total Ecu Run Time (Qsk38Eng2)	210554060.8	0	7
+1258362795	Estimated Percent Fan Speed (Qsk38Eng2)	100	0	25
+1258362796	Fan Drive State (Qsk38Eng2)	14	0	0
+1258362797	Fan Speed (Qsk38Eng2)	100	0	25
+1258362798	Rated Engine Power (Qsk38Eng2)	32127.5	0	12
+1258362799	Rated Engine Speed (Qsk38Eng2)	8031.875	0	28
+1258362800	Active Trouble Codes (Qsk38Eng2)	255	0	33
+1258362801	Previously Active Diagnostic Trouble Codes (Qsk38Eng2)	255	0	33
+1258362802	Obd Compliance (Qsk38Eng2)	255	0	33
+1258362803	Continuously Monitored Systems Support/Status (Qsk38Eng2)	255	0	33
+1258362804	Non-Continuously Monitored Systems Support (Qsk38Eng2)	65535	0	33
+1258362805	Non-Continuously Monitored Systems Status (Qsk38Eng2)	65535	0	33
+1258362806	Software Identification (Qsk38Eng2)	0	0	33
+1258362807	Injector Metering Rail 1 Pressure (Qsk38Eng2)	251	0	22
+1258362808	Total Idle Fuel Used (Qsk38Eng2)	2105540608	0	14
+1258362809	Total Idle Hours (Qsk38Eng2)	210554060.8	0	7
+1258362810	Turbocharger 1 Speed (Qsk38Eng2)	257020	0	28
+1258362811	Nominal Friction - Percent Torque (Qsk38Eng2)	125	-125	25
+1258362812	Engine Desired Operating Speed (Qsk38Eng2)	8031.875	0	28
+1258362813	Engine Operating Speed Asymmetry Adjustment (Qsk38Eng2)	250	0	33
+1258362814	Total Engine Hours (Qsk38Eng2)	210554060.8	0	7
+1258362815	Total Engine Revolutions (Qsk38Eng2)	1000000000	0	27
+1258362816	Trip Fuel (Qsk38Eng2)	2105540608	0	14
+1258362817	Total Fuel Used (Qsk38Eng2)	2105540608	0	14
+1258362818	Vehicle Identification (Qsk38Eng2)	0	0	33
+1258362819	Engine Coolant Temperature (Qsk38Eng2)	210	-40	5
+1258362820	Fuel Temperature (Qsk38Eng2)	210	-40	5
+1258362821	Engine Oil Temperature 1 (Qsk38Eng2)	1735	-273	5
+1258362822	Fuel Delivery Pressure (Qsk38Eng2)	1000	0	9
+1258362823	Engine Oil Pressure (Qsk38Eng2)	1000	0	9
+1258362824	Crankcase Pressure (Qsk38Eng2)	251.99	-250	9
+1258362825	Coolant Pressure (Qsk38Eng2)	500	0	9
+1258362826	Coolant Level (Qsk38Eng2)	500	0	9
+1258362827	Power Takeoff Oil Temperature (Qsk38Eng2)	210	-40	5
+1258362828	Power Takeoff Speed (Qsk38Eng2)	8031.875	0	28
+1258362829	Power Takeoff Set Speed (Qsk38Eng2)	8031.875	0	28
+1258362830	Pto Enable Switch (Qsk38Eng2)	1	0	33
+1258362831	Remote Pto Preprogrammed Switch (Qsk38Eng2)	1	0	33
+1258362832	Remote Pto Variable Speed (Qsk38Eng2)	1	0	33
+1258362833	Pto Set Switch (Qsk38Eng2)	1	0	33
+1258362834	Pto Coast/Decelerate (Qsk38Eng2)	1	0	33
+1258362835	Pto Resume Switch (Qsk38Eng2)	1	0	33
+1258362836	Pto Accelerate Switch (Qsk38Eng2)	1	0	33
+1258362837	Fuel Rate (Qsk38Eng2)	3212.75	0	13
+1258362838	Instantaneous Fuel Economy (Qsk38Eng2)	125.5	0	15
+1258362839	Average Fuel Economy (Qsk38Eng2)	125.5	0	15
+1258362840	Barometric Pressure (Qsk38Eng2)	125	0	9
+1258362841	Boost Pressure (Qsk38Eng2)	500	0	9
+1258362842	Intake Manifold Temperature (Qsk38Eng2)	210	-40	5
+1258362843	Exhaust Gas Temperature (Qsk38Eng2)	1735	-273	5
+1258362844	Electrical Potential (Voltage) (Qsk38Eng2)	3212.75	0	31
+1258362845	Engine Oil Filter Differential Pressure (Qsk38Eng2)	125	0	9
+1258362846	Water In Fuel Indicator (Qsk38Eng2)	1	0	33
+1258362847	Post-Oil Filter Pressure (Qsk38Eng2)	1000	0	9
+1258362848	Auxiliary I/O #1 (Qsk38Eng2)	1	0	33
+1258362849	Idle Increment Switch (Qsk38Eng2)	1	0	33
+1258362850	Idle Decrement Switch (Qsk38Eng2)	1	0	33
+1258362851	Engine Test Mode Switch (Qsk38Eng2)	1	0	33
+1258362852	Engine Shutdown Override Switch (Qsk38Eng2)	1	0	33
+1258362853	Engine Oil Pressure (High Resolution) (Qsk38Eng2)	6425.5	0	9
+1258362854	Engine Fuel Delivery Pressure (High Resolution) (Qsk38Eng2)	6425.5	0	9
+1258362855	Pre-Filter Oil Pressure (High Resolution) (Qsk38Eng2)	6425.5	0	9
+1258362856	Engine Oil Filter Differential Pressure (Extended Range) (Qsk38Eng2)	1250	0	9
+1258362857	Fuel Supply Pump Inlet Pressure (Extended Range) (Qsk38Eng2)	1250	0	9
+1258362858	Engine Total Average Fuel Rate (Qsk38Eng2)	3212.75	0	13
+1258362859	Engine Coolant Temperature (High Resolution) (Qsk38Eng2)	1735	-273	5
+1258362860	Engine Charge Air Cooler 1 Outlet Temperature (Qsk38Eng2)	1735	-273	5
+1258364737	Accelerator Interlock Switch (Qsk50_60)	1	0	33
+1258364738	Engine Derate Switch (Qsk50_60)	1	0	33
+1258364739	Auxiliary Engine Shutdown Switch (Qsk50_60)	1	0	33
+1258364740	Remote Accelerator Enable Switch (Qsk50_60)	1	0	33
+1258364741	Engine Retarder Selection (Qsk50_60)	100	0	25
+1258364742	Torque Converter Lockup Engaged (Qsk50_60)	1	0	33
+1258364743	Output Shaft Speed (Qsk50_60)	8031.875	0	28
+1258364744	Momentary Engine Overspeed Enable (Qsk50_60)	3	0	33
+1258364745	Ap Low Idle Switch (Qsk50_60)	1	0	33
+1258364746	Accelerator Pedal (Ap) Position (Qsk50_60)	100	0	25
+1258364747	Remote Accelerator (Qsk50_60)	100	0	25
+1258364748	Ap Kickdown Switch (Qsk50_60)	1	0	33
+1258364749	Percent Load At Current Speed (Qsk50_60)	125	0	25
+1258364750	Engine Torque Mode (Qsk50_60)	14	0	33
+1258364751	Driver Demand Engine - Percent Torque (Qsk50_60)	125	-125	25
+1258364752	Actual Engine - Percent Torque (Qsk50_60)	125	-125	25
+1258364753	Engine Speed (Qsk50_60)	8031.875	0	28
+1258364754	Source Address Of Controlling Device (Qsk50_60)	253	0	0
+1258364755	Engine Demand - Percent Torque (Qsk50_60)	125	-125	25
+1258364756	Engine Operating State (Qsk50_60)	15	0	33
+1258364757	Operator Primary Intermediate Speed Select (Qsk50_60)	15	0	33
+1258364758	Auxiliary Governor Switch (Qsk50_60)	3	0	33
+1258364759	Multi Unit Sync On / Off Switch (Qsk50_60)	3	0	33
+1258364760	Alternate Low Idle Switch (Qsk50_60)	3	0	33
+1258364761	Alternate Rating Select (Qsk50_60)	255	0	33
+1258364762	Alternate Droop Accelerator 1 Select (Qsk50_60)	15	0	33
+1258364763	Alternate Droop Accelerator 2 Select (Qsk50_60)	15	0	33
+1258364764	Alternate Droop Remote Accelerator Select (Qsk50_60)	15	0	33
+1258364765	Alternate Droop Auxiliary Input Select (Qsk50_60)	15	0	33
+1258364766	Engine Oil Level Remote Reservoir (Qsk50_60)	100	0	25
+1258364767	Fuel Supply Pump Inlet Pressure (Qsk50_60)	500	0	9
+1258364768	Pre-Filter Oil Pressure (Qsk50_60)	1000	0	9
+1258364769	Instantaneous Estimated Brake Power (Qsk50_60)	32127.5	0	12
+1258364772	Exhaust Gas Port 13 Temperature (Qsk50_60)	1735	-273	5
+1258364773	Exhaust Gas Port 14 Temperature (Qsk50_60)	1735	-273	5
+1258364774	Exhaust Gas Port 15 Temperature (Qsk50_60)	1735	-273	5
+1258364775	Exhaust Gas Port 16 Temperature (Qsk50_60)	1735	-273	5
+1258364776	Exhaust Gas Port 9 Temperature (Qsk50_60)	1735	-273	5
+1258364777	Exhaust Gas Port 10 Temperature (Qsk50_60)	1735	-273	5
+1258364778	Exhaust Gas Port 11 Temperature (Qsk50_60)	1735	-273	5
+1258364779	Exhaust Gas Port 12 Temperature (Qsk50_60)	1735	-273	5
+1258364780	Exhaust Gas Port 5 Temperature (Qsk50_60)	1735	-273	5
+1258364781	Exhaust Gas Port 6 Temperature (Qsk50_60)	1735	-273	5
+1258364782	Exhaust Gas Port 7 Temperature (Qsk50_60)	1735	-273	5
+1258364783	Exhaust Gas Port 8 Temperature (Qsk50_60)	1735	-273	5
+1258364784	Exhaust Gas Port 1 Temperature (Qsk50_60)	1735	-273	5
+1258364785	Exhaust Gas Port 2 Temperature (Qsk50_60)	1735	-273	5
+1258364786	Exhaust Gas Port 3 Temperature (Qsk50_60)	1735	-273	5
+1258364787	Exhaust Gas Port 4 Temperature (Qsk50_60)	1735	-273	5
+1258364788	Engine Ecu Temperature (Qsk50_60)	273	-273	5
+1258364789	Intake Manifold 2 Temperature (Qsk50_60)	210	-40	5
+1258364790	Intake Manifold 3 Temperature (Qsk50_60)	210	-40	5
+1258364791	Intake Manifold 4 Temperature (Qsk50_60)	210	-40	5
+1258364792	Turbocharger 1 Boost Pressure (Qsk50_60)	8031.875	0	9
+1258364793	Turbocharger 2 Boost Pressure (Qsk50_60)	8031.875	0	9
+1258364794	Total Ecu Run Time (Qsk50_60)	210554060.8	0	7
+1258364795	Estimated Percent Fan Speed (Qsk50_60)	100	0	25
+1258364796	Fan Drive State (Qsk50_60)	14	0	0
+1258364797	Fan Speed (Qsk50_60)	100	0	25
+1258364798	Rated Engine Power (Qsk50_60)	32127.5	0	12
+1258364799	Rated Engine Speed (Qsk50_60)	8031.875	0	28
+1258364800	Active Trouble Codes (Qsk50_60)	255	0	33
+1258364801	Previously Active Diagnostic Trouble Codes (Qsk50_60)	255	0	33
+1258364802	Obd Compliance (Qsk50_60)	255	0	33
+1258364803	Continuously Monitored Systems Support/Status (Qsk50_60)	255	0	33
+1258364804	Non-Continuously Monitored Systems Support (Qsk50_60)	65535	0	33
+1258364805	Non-Continuously Monitored Systems Status (Qsk50_60)	65535	0	33
+1258364806	Software Identification (Qsk50_60)	0	0	33
+1258364807	Injector Metering Rail 1 Pressure (Qsk50_60)	251	0	22
+1258364808	Total Idle Fuel Used (Qsk50_60)	2105540608	0	14
+1258364809	Total Idle Hours (Qsk50_60)	210554060.8	0	7
+1258364810	Turbocharger 1 Speed (Qsk50_60)	257020	0	28
+1258364811	Nominal Friction - Percent Torque (Qsk50_60)	125	-125	25
+1258364812	Engines Dsired Operating Speed (Qsk50_60)	8031.875	0	28
+1258364813	Engine Operating Speed Asymmetry Adjustment (Qsk50_60)	250	0	33
+1258364814	Total Engine Hours (Qsk50_60)	210554060.8	0	7
+1258364815	Total Engine Revolutions (Qsk50_60)	1000000000	0	27
+1258364816	Trip Fuel (Qsk50_60)	2105540608	0	14
+1258364817	Total Fuel Used (Qsk50_60)	2105540608	0	14
+1258364818	Vehicle Identification (Qsk50_60)	0	0	33
+1258364819	Engine Coolant Temperature (Qsk50_60)	210	-40	5
+1258364820	Fuel Temperature (Qsk50_60)	210	-40	5
+1258364821	Engine Oil Temperature 1 (Qsk50_60)	1735	-273	5
+1258364822	Fuel Delivery Pressure (Qsk50_60)	1000	0	9
+1258364823	Engine Oil Pressure (Qsk50_60)	1000	0	9
+1258364824	Crankcase Pressure (Qsk50_60)	251.99	-250	9
+1258364825	Coolant Pressure (Qsk50_60)	500	0	9
+1258364826	Coolant Level (Qsk50_60)	500	0	9
+1258364827	Power Takeoff Oil Temperature (Qsk50_60)	210	-40	5
+1258364828	Power Takeoff Speed (Qsk50_60)	8031.875	0	28
+1258364829	Power Takeoff Set Speed (Qsk50_60)	8031.875	0	28
+1258364830	Pto Enable Switch (Qsk50_60)	1	0	33
+1258364831	Remote Pto Preprogrammed Switch (Qsk50_60)	1	0	33
+1258364832	Remote Pto Variable Speed (Qsk50_60)	1	0	33
+1258364833	Pto Set Switch (Qsk50_60)	1	0	33
+1258364834	Pto Coast/Decelerate (Qsk50_60)	1	0	33
+1258364835	Pto Resume Switch (Qsk50_60)	1	0	33
+1258364836	Pto Accelerate Switch (Qsk50_60)	1	0	33
+1258364837	Fuel Rate (Qsk50_60)	3212.75	0	13
+1258364838	Instantaneous Fuel Economy (Qsk50_60)	125.5	0	15
+1258364839	Average Fuel Economy (Qsk50_60)	125.5	0	15
+1258364840	Barometric Pressure (Qsk50_60)	125	0	9
+1258364841	Boost Pressure (Qsk50_60)	500	0	9
+1258364842	Intake Manifold Temperature (Qsk50_60)	210	-40	5
+1258364843	Exhaust Gas Temperature (Qsk50_60)	1735	-273	5
+1258364844	Electrical Potential (Voltage) (Qsk50_60)	3212.75	0	31
+1258364845	Engine Oil Filter Differential Pressure (Qsk50_60)	125	0	9
+1258364846	Water In Fuel Indicator (Qsk50_60)	1	0	33
+1258364847	Post-Oil Filter Pressure (Qsk50_60)	1000	0	9
+1258364848	Auxiliary I/O #1 (Qsk50_60)	1	0	33
+1258364849	Idle Increment Switch (Qsk50_60)	1	0	33
+1258364850	Idle Decrement Switch (Qsk50_60)	1	0	33
+1258364851	Engine Test Mode Switch (Qsk50_60)	1	0	33
+1258364852	Engine Shutdown Override Switch (Qsk50_60)	1	0	33
+1258364853	Engine Oil Pressure (High Resolution) (Qsk50_60)	6425.5	0	9
+1258364854	Engine Fuel Delivery Pressure (High Resolution) (Qsk50_60)	6425.5	0	9
+1258364855	Pre-Filter Oil Pressure (High Resolution) (Qsk50_60)	6425.5	0	9
+1258364856	Engine Oil Filter Differential Pressure (Extended Range) (Qsk50_60)	1250	0	9
+1258364857	Fuel Supply Pump Inlet Pressure (Extended Range) (Qsk50_60)	1250	0	9
+1258364858	Engine Total Average Fuel Rate (Qsk50_60)	3212.75	0	13
+1258364859	Engine Coolant Temperature (High Resolution) (Qsk50_60)	1735	-273	5
+1258364860	Engine Charge Air Cooler 1 Outlet Temperature (Qsk50_60)	1735	-273	5
+1258366737	Accelerator Interlock Switch (Qsk50_60Eng2)	1	0	33
+1258366738	Engine Derate Switch (Qsk50_60Eng2)	1	0	33
+1258366739	Auxiliary Engine Shutdown Switch (Qsk50_60Eng2)	1	0	33
+1258366740	Remote Accelerator Enable Switch (Qsk50_60Eng2)	1	0	33
+1258366741	Engine Retarder Selection (Qsk50_60Eng2)	100	0	25
+1258366742	Torque Converter Lockup Engaged (Qsk50_60Eng2)	1	0	33
+1258366743	Output Shaft Speed (Qsk50_60Eng2)	8031.875	0	28
+1258366744	Momentary Engine Overspeed Enable (Qsk50_60Eng2)	3	0	33
+1258366745	Ap Low Idle Switch (Qsk50_60Eng2)	1	0	33
+1258366746	Accelerator Pedal (Ap) Position (Qsk50_60Eng2)	100	0	25
+1258366747	Remote Accelerator (Qsk50_60Eng2)	100	0	25
+1258366748	Ap Kickdown Switch (Qsk50_60Eng2)	1	0	33
+1258366749	Percent Load At Current Speed (Qsk50_60Eng2)	125	0	25
+1258366750	Engine Torque Mode (Qsk50_60Eng2)	14	0	33
+1258366751	Driver Demand Engine - Percent Torque (Qsk50_60Eng2)	125	-125	25
+1258366752	Actual Engine - Percent Torque (Qsk50_60Eng2)	125	-125	25
+1258366753	Engine Speed (Qsk50_60Eng2)	8031.875	0	28
+1258366754	Source Address Of Controlling Device (Qsk50_60Eng2)	253	0	0
+1258366755	Engine Demand - Percent Torque (Qsk50_60Eng2)	125	-125	25
+1258366756	Engine Operating State (Qsk50_60Eng2)	15	0	33
+1258366757	Operator Primary Intermediate Speed Select (Qsk50_60Eng2)	15	0	33
+1258366758	Auxiliary Governor Switch (Qsk50_60Eng2)	3	0	33
+1258366759	Multi Unit Sync On / Off Switch (Qsk50_60Eng2)	3	0	33
+1258366760	Alternate Low Idle Switch (Qsk50_60Eng2)	3	0	33
+1258366761	Alternate Rating Select (Qsk50_60Eng2)	255	0	33
+1258366762	Alternate Droop Accelerator 1 Select (Qsk50_60Eng2)	15	0	33
+1258366763	Alternate Droop Accelerator 2 Select (Qsk50_60Eng2)	15	0	33
+1258366764	Alternate Droop Remote Accelerator Select (Qsk50_60Eng2)	15	0	33
+1258366765	Alternate Droop Auxiliary Input Select (Qsk50_60Eng2)	15	0	33
+1258366766	Engine Oil Level Remote Reservoir (Qsk50_60Eng2)	100	0	25
+1258366767	Fuel Supply Pump Inlet Pressure (Qsk50_60Eng2)	500	0	9
+1258366768	Pre-Filter Oil Pressure (Qsk50_60Eng2)	1000	0	9
+1258366769	Instantaneous Estimated Brake Power (Qsk50_60Eng2)	32127.5	0	12
+1258366772	Exhaust Gas Port 13 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366773	Exhaust Gas Port 14 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366774	Exhaust Gas Port 15 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366775	Exhaust Gas Port 16 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366776	Exhaust Gas Port 9 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366777	Exhaust Gas Port 10 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366778	Exhaust Gas Port 11 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366779	Exhaust Gas Port 12 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366780	Exhaust Gas Port 5 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366781	Exhaust Gas Port 6 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366782	Exhaust Gas Port 7 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366783	Exhaust Gas Port 8 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366784	Exhaust Gas Port 1 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366785	Exhaust Gas Port 2 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366786	Exhaust Gas Port 3 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366787	Exhaust Gas Port 4 Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366788	Engine Ecu Temperature (Qsk50_60Eng2)	273	-273	5
+1258366789	Intake Manifold 2 Temperature (Qsk50_60Eng2)	210	-40	5
+1258366790	Intake Manifold 3 Temperature (Qsk50_60Eng2)	210	-40	5
+1258366791	Intake Manifold 4 Temperature (Qsk50_60Eng2)	210	-40	5
+1258366792	Turbocharger 1 Boost Pressure (Qsk50_60Eng2)	8031.875	0	9
+1258366793	Turbocharger 2 Boost Pressure (Qsk50_60Eng2)	8031.875	0	9
+1258366794	Total Ecu Run Time (Qsk50_60Eng2)	210554060.8	0	7
+1258366795	Estimated Percent Fan Speed (Qsk50_60Eng2)	100	0	25
+1258366796	Fan Drive State (Qsk50_60Eng2)	14	0	0
+1258366797	Fan Speed (Qsk50_60Eng2)	100	0	25
+1258366798	Rated Engine Power (Qsk50_60Eng2)	32127.5	0	12
+1258366799	Rated Engine Speed (Qsk50_60Eng2)	8031.875	0	28
+1258366800	Active Trouble Codes (Qsk50_60Eng2)	255	0	33
+1258366801	Previously Active Diagnostic Trouble Codes (Qsk50_60Eng2)	255	0	33
+1258366802	Obd Compliance (Qsk50_60Eng2)	255	0	33
+1258366803	Continuously Monitored Systems Support/Status (Qsk50_60Eng2)	255	0	33
+1258366804	Non-Continuously Monitored Systems Support (Qsk50_60Eng2)	65535	0	33
+1258366805	Non-Continuously Monitored Systems Status (Qsk50_60Eng2)	65535	0	33
+1258366806	Software Identification (Qsk50_60Eng2)	0	0	33
+1258366807	Injector Metering Rail 1 Pressure (Qsk50_60Eng2)	251	0	22
+1258366808	Total Idle Fuel Used (Qsk50_60Eng2)	2105540608	0	14
+1258366809	Total Idle Hours (Qsk50_60Eng2)	210554060.8	0	7
+1258366810	Turbocharger 1 Speed (Qsk50_60Eng2)	257020	0	28
+1258366811	Nominal Friction - Percent Torque (Qsk50_60Eng2)	125	-125	25
+1258366812	Engine Desired Operating Speed (Qsk50_60Eng2)	8031.875	0	28
+1258366813	Engine Operating Speed Asymmetry Adjustment (Qsk50_60Eng2)	250	0	33
+1258366814	Total Engine Hours (Qsk50_60Eng2)	210554060.8	0	7
+1258366815	Total Engine Revolutions (Qsk50_60Eng2)	1000000000	0	27
+1258366816	Trip Fuel (Qsk50_60Eng2)	2105540608	0	14
+1258366817	Total Fuel Used (Qsk50_60Eng2)	2105540608	0	14
+1258366818	Vehicle Identification (Qsk50_60Eng2)	0	0	33
+1258366819	Engine Coolant Temperature (Qsk50_60Eng2)	210	-40	5
+1258366820	Fuel Temperature (Qsk50_60Eng2)	210	-40	5
+1258366821	Engine Oil Temperature 1 (Qsk50_60Eng2)	1735	-273	5
+1258366822	Fuel Delivery Pressure (Qsk50_60Eng2)	1000	0	9
+1258366823	Engine Oil Pressure (Qsk50_60Eng2)	1000	0	9
+1258366824	Crankcase Pressure (Qsk50_60Eng2)	251.99	-250	9
+1258366825	Coolant Pressure (Qsk50_60Eng2)	500	0	9
+1258366826	Coolant Level (Qsk50_60Eng2)	500	0	9
+1258366827	Power Takeoff Oil Temperature (Qsk50_60Eng2)	210	-40	5
+1258366828	Power Takeoff Speed (Qsk50_60Eng2)	8031.875	0	28
+1258366829	Power Takeoff Set Speed (Qsk50_60Eng2)	8031.875	0	28
+1258366830	Pto Enable Switch (Qsk50_60Eng2)	1	0	33
+1258366831	Remote Pto Preprogrammed Switch (Qsk50_60Eng2)	1	0	33
+1258366832	Remote Pto Variable Speed (Qsk50_60Eng2)	1	0	33
+1258366833	Pto Set Switch (Qsk50_60Eng2)	1	0	33
+1258366834	Pto Coast/Decelerate (Qsk50_60Eng2)	1	0	33
+1258366835	Pto Resume Switch (Qsk50_60Eng2)	1	0	33
+1258366836	Pto Accelerate Switch (Qsk50_60Eng2)	1	0	33
+1258366837	Fuel Rate (Qsk50_60Eng2)	3212.75	0	13
+1258366838	Instantaneous Fuel Economy (Qsk50_60Eng2)	125.5	0	15
+1258366839	Average Fuel Economy (Qsk50_60Eng2)	125.5	0	15
+1258366840	Barometric Pressure (Qsk50_60Eng2)	125	0	9
+1258366841	Boost Pressure (Qsk50_60Eng2)	500	0	9
+1258366842	Intake Manifold Temperature (Qsk50_60Eng2)	210	-40	5
+1258366843	Exhaust Gas Temperature (Qsk50_60Eng2)	1735	-273	5
+1258366844	Electrical Potential (Voltage) (Qsk50_60Eng2)	3212.75	0	31
+1258366845	Engine Oil Filter Differential Pressure (Qsk50_60Eng2)	125	0	9
+1258366846	Water In Fuel Indicator (Qsk50_60Eng2)	1	0	33
+1258366847	Post-Oil Filter Pressure (Qsk50_60Eng2)	1000	0	9
+1258366848	Auxiliary I/O #1 (Qsk50_60Eng2)	1	0	33
+1258366849	Idle Increment Switch (Qsk50_60Eng2)	1	0	33
+1258366850	Idle Decrement Switch (Qsk50_60Eng2)	1	0	33
+1258366851	Engine Test Mode Switch (Qsk50_60Eng2)	1	0	33
+1258366852	Engine Shutdown Override Switch (Qsk50_60Eng2)	1	0	33
+1258366853	Engine Oil Pressure (High Resolution) (Qsk50_60Eng2)	6425.5	0	9
+1258366854	Engine Fuel Delivery Pressure (High Resolution) (Qsk50_60Eng2)	6425.5	0	9
+1258366855	Pre-Filter Oil Pressure (High Resolution) (Qsk50_60Eng2)	6425.5	0	9
+1258366856	Engine Oil Filter Differential Pressure (Extended Range) (Qsk50_60Eng2)	1250	0	9
+1258366857	Fuel Supply Pump Inlet Pressure (Extended Range) (Qsk50_60Eng2)	1250	0	9
+1258366858	Engine Total Average Fuel Rate (Qsk50_60Eng2)	3212.75	0	13
+1258366859	Engine Coolant Temperature (High Resolution) (Qsk50_60Eng2)	1735	-273	5
+1258366860	Engine Charge Air Cooler 1 Outlet Temperature (Qsk50_60Eng2)	1735	-273	5

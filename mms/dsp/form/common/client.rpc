@@ -1,0 +1,68 @@
+#
+# * * * * * * * * * * * * * * * * * *
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-1994
+#               All Rights Reserved
+#  $RCSfile: client.rpc,v $
+# $Revision: 1.14 $
+#   $Author: schultes $
+#     $Date: 2019/08/22 21:03:16 $
+#    $State: Exp $
+#   Purpose: 
+# * * * * * * * * * * * * * * * * * *
+#
+
+0x0001  ASSIGN          dispatch        d?[s][s]
+0x0002  ARRIVE          dispatch        d?[s][s]
+0x0003  LOAD            dispatch        d?[s][s]
+0x0004  LOGON           dispatch        s
+0x0005  FUEL            dispatch        d?d
+0x0006  HELP            dispatch        d
+0x0007  DELAY           dispatch        d?[s]
+0x0008  DOWN            dispatch        d?[s]
+0x0009  READY           dispatch        d?[s]
+0x000A  STANDBY         dispatch        d?[s]
+0x000B  RECALL          dispatch        v
+0x000C	GCDO		dispatch	s
+0x0027	TOHUB		dispatch	s?s
+0x000E  DEFECT          dispatch        d
+0x000F  SELFASN         dispatch        s
+0x0010  FULL		dispatch	s?s[s][s]
+0x0019  MESSAGE         dispatch        s?s
+0x0030	EQ-REQ		dispatch	s?[s]
+0x0031	PRESTART	dispatch	ds[b]
+0x0032  KSTATE2		dispatch	b?ssssss
+0x0033  KSTATE3         dispatch        b?ssssss
+0x0041  KSTATE          oip             b?ssssss
+0x001F  KCOLOR          oip	        sss
+0x0044  KMATL   	oip	        sb
+0x0046	KACK		oip		b?s
+0x0060	KAUDIO		oip		s
+0x0061	KMENU2		oip		s[s]
+0x0062	KMENCLR		oip		ss[s]
+0x0063	MESSAGE-IN	oip		s?s
+0x0039	EXCEPT_REPLY	except		s
+0x004C	KTABLE2		oip		ssd[s]
+0x078a	KMENU_NEW	dispatch	s[s]
+
+# Drill Rpcs
+0x0020	COMPONENT	dispatch	bsb
+0x0021	STARTHOLE	dispatch	ssssss
+0x0022	ENDHOLE		dispatch	s
+0x0025	PATTERN		dispatch	s
+0x0055	KVAR		oip		ss?db
+
+# Foreman Rpcs
+0x0291  REPT-REP        dispatch	ss
+0x0212	KEQMT		dispatch 	s
+
+# ISI Dragline Monitor Rpc's
+0x0680  ISI-SHDATA     dispatch   [d][l][d]?[b]         RADIO
+0x0681  ISI-DIGDATA    dispatch    b[l]                 RADIO
+0x0682  ISI-DTDATA     dispatch    [d]l                 RADIO
+0x0683  ISI-SADATA     dispatch    [l]                  RADIO
+0x0684  ISI-SWDATA     dispatch    d[l]                 RADIO
+0x0685  ISI-ENDBLOCK   dispatch    [d]                  RADI0
+0x0686  ISI-ACK         isi         b                  RADIO
+
+0x016c  VIMS-DATA       dispatch        [d]

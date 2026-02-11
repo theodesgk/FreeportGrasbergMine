@@ -1,0 +1,161 @@
+419495937	Bucket Load	0	0	19
+419495938	Cycle Time In Seconds	0	0	29
+419495939	Truck Load	0	0	19
+419495940	Tons Per Hour	0	0	19
+419495941	Active Alarms	0	0	0
+419495942	Active Warnings	0	0	0
+419495943	Unreviewed P.M.Alerts	0	0	0
+419495944	Accesory Pump Pressure	0	0	9
+419495945	Air Dryer Heater Power Supply	0	0	30
+419495946	Air Inlet Temperature	0	0	5
+419495947	Air Pressure Gauge	0	0	30
+419495948	Alternator	0	0	30
+419495949	(Ambient Air) Barometric Pres	0	0	9
+419495950	Ambient Air Temperature	0	0	5
+419495951	Armature Converter 1 Temp	0	0	5
+419495952	Armature Converter 2 Temp	0	0	5
+419495953	Armature Converter 3 Temp	0	0	5
+419495954	Armature Converter 4 Temp	0	0	5
+419495955	Armature Current 1 (IA1)	0	0	1
+419495956	Armature Current 2 (IA2)	0	0	1
+419495957	Armature Current 3 (IA3)	0	0	1
+419495958	Armature Current 4 (IA4)	0	0	1
+419495959	Autolube Solenoid	0	0	30
+419495960	Aux Oil Cooler Inlet Temp	0	0	5
+419495961	Aux Oil Cooler Outlet Temp	0	0	5
+419495962	Aux Steer Motor 1 Voltage	0	0	30
+419495963	Aux Steer Motor 2 Voltage	0	0	30
+419495964	Aux Steer Pump Pressure	0	0	9
+419495965	Battery Voltage	0	0	30
+419495966	Bipolar Motor 1 Speed	0	0	28
+419495967	Bipolar Motor 2 Speed	0	0	28
+419495968	Bipolar Motor 3 Speed	0	0	28
+419495969	Bipolar Motor 4 Speed	0	0	28
+419495970	Blower Speed (RPM)	0	0	28
+419495971	(LB Intake Man) Boost Pressure	0	0	9
+419495972	(RB Intake Man) Boost Pressure	0	0	9
+419495973	Bucket Cylinder Base Pressure	0	0	9
+419495974	Bucket Cylinder Rod Pressure	0	0	9
+419495975	Bucket Roll Back Pilot Pressure	0	0	9
+419495976	Bucket Roll Fwd Pilot Pressure	0	0	9
+419495977	Circulating Pump Gearbox Pres	0	0	9
+419495978	(LB Rear) Compressor Inlet Temp	0	0	5
+419495979	Coolant Level	0	0	25
+419495980	Coolant Pressure	0	0	9
+419495981	Coolant Temperature	0	0	5
+419495982	Cooling Blower Pump Pressure	0	0	9
+419495983	Crankcase Pressure	0	0	9
+419495984	Cummulative Steer Press	0	0	9
+419495985	Desired Hydraulic Temp	0	0	5
+419495986	Direction Reverse	0	0	0
+419495987	Driver Lube Flow Front	0	0	30
+419495988	Driver Lube Flow Rear	0	0	30
+419495989	LF Driver Oil Filter Pressure	0	0	9
+419495990	LR Driver Oil Filter Pressure	0	0	9
+419495991	RF Driver Oil Filter Pressure	0	0	9
+419495992	RR Driver Oil Filter Pressure	0	0	9
+419495993	LF Driver Oil Temperature	0	0	5
+419495994	LR Driver Oil Temperature	0	0	5
+419495995	RF Driver Oil Temperature	0	0	5
+419495996	RR Driver Oil Temperature	0	0	5
+419495997	Electrical Horsepower	0	0	12
+419495998	Engine Oil Filter Dif Press	0	0	9
+419495999	Engine Oil Level	0	0	25
+419496000	Engine Oil Pressure	0	0	9
+419496001	Engine Oil Temperature	0	0	5
+419496002	Engine Percent Torque	0	0	25
+419496003	Engine Speed	0	0	28
+419496004	Engine Speed Limit	0	0	28
+419496005	Field Converter Temperature	0	0	5
+419496006	Field Current (IF)	0	0	1
+419496007	Float Switch	0	0	30
+419496008	Foot Pot	0	0	25
+419496009	Forward Direction Command	0	0	30
+419496010	Front Axle Static Air Pressure	0	0	9
+419496011	Fuel Delivery Pressure	0	0	9
+419496012	Fuel Level	0	0	14
+419496013	(Fuel Rail) Injector Meter Pres	0	0	9
+419496014	Fuel Rate	0	0	13
+419496015	Fuel Temperature	0	0	5
+419496016	Gearbox Temperature	0	0	5
+419496017	Gen Temp FeedBack Voltage	0	0	30
+419496018	Generator Frequency (VH)	0	0	28
+419496019	Generator Temp 1 (Selected)	0	0	5
+419496020	Generator Temperature 1 (Input)	0	0	30
+419496021	Generator Volts	0	0	31
+419496022	Greatest Motor Speed (RPM)	0	0	28
+419496023	High Idle Command	0	0	30
+419496024	Hoist Cylinder Base Pressure	0	0	9
+419496025	Hoist Cylinder Rod Pressure	0	0	9
+419496026	Hoist Down Cmd	0	0	9
+419496027	Hoist Lower Valve	0	0	30
+419496028	Hoist Raise Valve	0	0	30
+419496029	Hoist Up Cmd	0	0	9
+419496030	Hour Meter	0	0	30
+419496031	Hyd Circulation Pump Pressure	0	0	9
+419496032	Hydraulic Tank Air Pressure	0	0	1
+419496033	Hydraulic Tank Level	0	0	30
+419496034	Hydraulic Temperature	0	0	5
+419496035	Injection Control Pressure	0	0	9
+419496036	(LB Rear) Intake Manifold Temp	0	0	5
+419496037	(RB Front) Intake Manifold Temp	0	0	5
+419496038	(RB Rear) Intake Manifold Temp	0	0	5
+419496039	Intake Manifold Temperature	0	0	5
+419496040	Intercooler Temperature	0	0	5
+419496041	Klenz System Air Pressure	0	0	9
+419496042	Klenz System Power Switch	0	0	30
+419496043	Lift Arm Angle	0	0	4
+419496044	Limit Steer Left	0	0	25
+419496045	Limit Steer Right	0	0	25
+419496046	Load Weight	0	0	18
+419496047	Main Oil Cooler Inlet Temp	0	0	5
+419496048	Main Oil Cooler Outlet Temp	0	0	5
+419496049	Main Pump 1 Pressure	0	0	9
+419496050	Main Pump 2 Pressure	0	0	9
+419496051	Main Pump 3 Pressure	0	0	9
+419496052	Main Pump 4 Pressure	0	0	9
+419496053	Motor 1 Speed	0	0	28
+419496054	Motor 1 Voltage (VM1)	0	0	30
+419496055	Motor 2 Speed	0	0	28
+419496056	Motor 2 Voltage (VM2)	0	0	30
+419496057	Motor 3 Speed	0	0	28
+419496058	Motor 3 Voltage (VM3)	0	0	30
+419496059	Motor 4 Speed	0	0	28
+419496060	Motor 4 Voltage (VM4)	0	0	30
+419496061	Motor Temperature LF	0	0	5
+419496062	Motor Temperature LR	0	0	5
+419496063	Motor Temperature RF	0	0	5
+419496064	Motor Temperature RR	0	0	5
+419496065	Park Brake On Switch	0	0	30
+419496066	Park Brake Pressure Front	0	0	9
+419496067	Park Brake Pressure Rear	0	0	9
+419496068	Percent Engine Load	0	0	25
+419496069	Percent Throttle	0	0	25
+419496070	Pilot Pres Pump Motor Voltage	0	0	30
+419496071	Pilot Pressure (Bckt Back)	0	0	9
+419496072	Pilot Pressure (Bckt Dump)	0	0	9
+419496073	Pilot Pressure (Hoist Lower)	0	0	9
+419496074	Pilot Pressure (Hoist Raise)	0	0	9
+419496075	Pilot Pressure Pump Motor Sol	0	0	9
+419496076	Radiator Fan Pressure	0	0	9
+419496077	Rear Axle Static Air Pressure	0	0	9
+419496078	Requested Engine Speed (VHC)	0	0	28
+419496079	Retard Light	0	0	30
+419496080	Rotor Current	0	0	1
+419496081	Service Brake Press	0	0	9
+419496082	Service Brake Press Front	0	0	9
+419496083	Service Brake Press Rear	0	0	9
+419496084	Service Brakes	0	0	28
+419496085	Speed Command Voltage (VAW)	0	0	30
+419496086	Steer Angle	0	0	4
+419496087	Steer Pump Pressure Front	0	0	9
+419496088	Steer Pump Pressure Rear	0	0	9
+419496089	Steer Rate Left	0	0	28
+419496090	Steer Rate Right	0	0	28
+419496091	System Air Pressure	0	0	9
+419496092	Tons Per Hour (Display)	0	0	25
+419496093	Tons Per Hour Target	0	0	25
+419496094	Turbo Boost Pressure Mst	0	0	9
+419496095	Turbo Boost Pressure Rec	0	0	9
+419496096	Vehicle Speed	0	0	11
+419496097	Voltage Regulator Temperature	0	0	5

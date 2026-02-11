@@ -1,0 +1,2144 @@
+25-SEP-98 -- MMS DISPATCH Report System -- 12:42:19
+
+                25-SEP-98   VIMS Channel Query Report   12:42:19           
+                       Activity: 25-SEP-98n for Truck ALL                       
+
+ Truck        Date/Time       Channel           Channel Query Results           
+ 43612   25-SEP-98 09:48:57   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              62.4 psi
+                              000100   Engine RPM              1668.5 RPM
+                              000450   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000451   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000459   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 09:49:08   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              63.9 psi
+                              000100   Engine RPM              1907.0 RPM
+                              000450   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000451   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000459   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:15:13   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              62.1 psi
+                              000100   Engine RPM              1823.5 RPM
+                              000250   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000251   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000001   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000260   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000261   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000262   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000263   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+ 43612   25-SEP-98 13:15:31   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              62.8 psi
+                              000100   Engine RPM              1971.5 RPM
+                              000250   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000251   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000001   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000260   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000261   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000262   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000263   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+ 43612   25-SEP-98 13:15:48   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              34.9 psi
+                              000100   Engine RPM               674.5 RPM
+                              000250   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000251   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000001   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000260   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000261   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000262   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+                              000263   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+ 43612   25-SEP-98 13:17:48   000450   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000451   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+ 43612   25-SEP-98 13:17:59   000450   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000451   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+ 43612   25-SEP-98 13:20:47   000140   System Voltage            26.7 Volts
+                              000131   Eng Oil Pres              39.2 psi
+                              000100   Engine RPM               678.5 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              39.2 psi
+ 43612   25-SEP-98 13:20:49   000140   System Voltage            26.7 Volts
+                              000131   Eng Oil Pres              42.2 psi
+                              000100   Engine RPM               711.5 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              42.2 psi
+ 43612   25-SEP-98 13:20:51   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              41.0 psi
+                              000100   Engine RPM               703.5 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              41.0 psi
+ 43612   25-SEP-98 13:20:53   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              40.9 psi
+                              000100   Engine RPM               701.5 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              40.9 psi
+ 43612   25-SEP-98 13:20:57   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              40.7 psi
+                              000100   Engine RPM               700.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              40.7 psi
+ 43612   25-SEP-98 13:20:59   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              40.2 psi
+                              000100   Engine RPM               700.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              40.2 psi
+ 43612   25-SEP-98 13:21:01   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              41.2 psi
+                              000100   Engine RPM               701.5 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              41.2 psi
+ 43612   25-SEP-98 13:21:03   000140   System Voltage            26.7 Volts
+                              000131   Eng Oil Pres              38.7 psi
+                              000100   Engine RPM               681.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              38.7 psi
+ 43612   25-SEP-98 13:21:05   000140   System Voltage            27.0 Volts
+                              000131   Eng Oil Pres              53.7 psi
+                              000100   Engine RPM               908.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              53.7 psi
+ 43612   25-SEP-98 13:21:08   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.0 psi
+                              000100   Engine RPM              1004.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                203.0 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              56.0 psi
+ 43612   25-SEP-98 13:21:11   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.4 psi
+                              000100   Engine RPM              1364.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                204.8 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              58.4 psi
+ 43612   25-SEP-98 13:21:14   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              61.5 psi
+                              000100   Engine RPM              1712.5 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                206.6 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              61.8 psi
+ 43612   25-SEP-98 13:21:16   000140   System Voltage            27.7 Volts
+                              000131   Eng Oil Pres              66.7 psi
+                              000100   Engine RPM              1920.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                206.6 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              66.7 psi
+ 43612   25-SEP-98 13:21:22   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.0 psi
+                              000100   Engine RPM              1355.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              58.0 psi
+ 43612   25-SEP-98 13:21:26   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              57.6 psi
+                              000100   Engine RPM              1403.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              57.6 psi
+ 43612   25-SEP-98 13:21:28   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.5 psi
+                              000100   Engine RPM              1858.5 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              61.5 psi
+ 43612   25-SEP-98 13:21:30   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.9 psi
+                              000100   Engine RPM              1457.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              58.9 psi
+ 43612   25-SEP-98 13:21:32   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.2 psi
+                              000100   Engine RPM              1559.5 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              59.2 psi
+ 43612   25-SEP-98 13:21:34   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              59.7 psi
+                              000100   Engine RPM              1695.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              59.7 psi
+ 43612   25-SEP-98 13:21:36   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              60.3 psi
+                              000100   Engine RPM              1830.0 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              60.3 psi
+ 43612   25-SEP-98 13:21:38   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              59.2 psi
+                              000100   Engine RPM              1393.5 RPM
+                              000135   Coolant Temp             192.2 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              59.2 psi
+ 43612   25-SEP-98 13:21:46   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.0 psi
+                              000100   Engine RPM              1496.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                210.2 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              59.0 psi
+ 43612   25-SEP-98 13:21:49   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.6 psi
+                              000100   Engine RPM              1620.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                210.2 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              58.6 psi
+ 43612   25-SEP-98 13:21:54   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.3 psi
+                              000100   Engine RPM              1722.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              59.3 psi
+ 43612   25-SEP-98 13:21:58   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              59.9 psi
+                              000100   Engine RPM              1668.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                210.2 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              59.9 psi
+ 43612   25-SEP-98 13:22:01   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.1 psi
+                              000100   Engine RPM              1536.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                210.2 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              58.1 psi
+ 43612   25-SEP-98 13:22:05   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.3 psi
+                              000100   Engine RPM              1497.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              58.3 psi
+ 43612   25-SEP-98 13:22:07   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              60.2 psi
+                              000100   Engine RPM              1603.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              60.2 psi
+ 43612   25-SEP-98 13:22:09   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              63.4 psi
+                              000100   Engine RPM              1724.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              63.4 psi
+ 43612   25-SEP-98 13:22:12   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              66.0 psi
+                              000100   Engine RPM              1889.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              66.0 psi
+ 43612   25-SEP-98 13:22:14   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              62.6 psi
+                              000100   Engine RPM              1581.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              62.6 psi
+ 43612   25-SEP-98 13:22:16   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              63.7 psi
+                              000100   Engine RPM              1768.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              63.7 psi
+ 43612   25-SEP-98 13:22:18   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              66.8 psi
+                              000100   Engine RPM              1924.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              66.8 psi
+ 43612   25-SEP-98 13:22:20   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              67.0 psi
+                              000100   Engine RPM              1974.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                210.2 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              67.0 psi
+ 43612   25-SEP-98 13:22:22   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              65.5 psi
+                              000100   Engine RPM              1912.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              65.5 psi
+ 43612   25-SEP-98 13:22:24   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              62.8 psi
+                              000100   Engine RPM              1854.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              62.8 psi
+ 43612   25-SEP-98 13:22:29   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.0 psi
+                              000100   Engine RPM              1750.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              61.0 psi
+ 43612   25-SEP-98 13:22:35   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.2 psi
+                              000100   Engine RPM              1651.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              60.2 psi
+ 43612   25-SEP-98 13:22:37   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.0 psi
+                              000100   Engine RPM              1591.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000136   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000325   Diff Temp                208.4 Deg. F
+                              000326   * TRUCK VERSION DOES NOT CONTAIN CHANNEL
+                              000130   Eng Oil Level              0.0  
+                              000131   Eng Oil Pres              59.0 psi
+ 43612   25-SEP-98 13:25:18   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              56.6 psi
+                              000100   Engine RPM              1664.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:25:20   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              55.5 psi
+                              000100   Engine RPM              1364.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:25:25   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              59.5 psi
+                              000100   Engine RPM              1807.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:25:28   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.1 psi
+                              000100   Engine RPM              1438.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:25:30   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.9 psi
+                              000100   Engine RPM              1806.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:25:33   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              55.4 psi
+                              000100   Engine RPM              1111.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:25:35   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              45.7 psi
+                              000100   Engine RPM               824.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:25:37   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              54.5 psi
+                              000100   Engine RPM              1037.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:25:39   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              55.4 psi
+                              000100   Engine RPM              1198.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:25:48   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.1 psi
+                              000100   Engine RPM              1501.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:25:59   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              58.3 psi
+                              000100   Engine RPM              1661.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:02   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              54.1 psi
+                              000100   Engine RPM              1127.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:05   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.1 psi
+                              000100   Engine RPM              1220.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:06   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              51.8 psi
+                              000100   Engine RPM              1017.0 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:10   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              55.7 psi
+                              000100   Engine RPM              1298.0 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          197.6 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:20   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              55.8 psi
+                              000100   Engine RPM              1188.0 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          197.6 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:22   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              44.5 psi
+                              000100   Engine RPM               839.0 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                204.8 Deg. F
+                              000350   TRANS LUBE TEMP          199.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:24   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              46.5 psi
+                              000100   Engine RPM               867.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                204.8 Deg. F
+                              000350   TRANS LUBE TEMP          201.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:26   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              54.1 psi
+                              000100   Engine RPM              1109.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                204.8 Deg. F
+                              000350   TRANS LUBE TEMP          201.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:29   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              53.8 psi
+                              000100   Engine RPM              1023.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                204.8 Deg. F
+                              000350   TRANS LUBE TEMP          203.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:31   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              55.4 psi
+                              000100   Engine RPM              1340.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          203.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:33   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.3 psi
+                              000100   Engine RPM              1971.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          203.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:35   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              63.1 psi
+                              000100   Engine RPM              1967.0 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          204.8 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:26:37   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.3 psi
+                              000100   Engine RPM              1962.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          206.6 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:26:42   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              63.1 psi
+                              000100   Engine RPM              1971.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          204.8 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:26:47   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.5 psi
+                              000100   Engine RPM              1954.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          203.0 Deg. F
+                              000460   LF Brake Temp            188.6 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:26:49   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              62.8 psi
+                              000100   Engine RPM              1979.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          201.2 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:26:51   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              62.2 psi
+                              000100   Engine RPM              1962.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          199.4 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            185.0 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:26:54   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              57.9 psi
+                              000100   Engine RPM              1459.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          199.4 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            185.0 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:26:55   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              37.0 psi
+                              000100   Engine RPM               741.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          199.4 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            185.0 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:02   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              36.0 psi
+                              000100   Engine RPM               716.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                203.0 Deg. F
+                              000350   TRANS LUBE TEMP          199.4 Deg. F
+                              000460   LF Brake Temp            185.0 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            183.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:04   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              43.9 psi
+                              000100   Engine RPM               814.0 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          197.6 Deg. F
+                              000460   LF Brake Temp            183.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:06   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              40.2 psi
+                              000100   Engine RPM               759.0 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          197.6 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:08   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              33.4 psi
+                              000100   Engine RPM               663.0 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:10   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              54.8 psi
+                              000100   Engine RPM              1076.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:12   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.1 psi
+                              000100   Engine RPM              1198.0 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:14   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.3 psi
+                              000100   Engine RPM              1500.5 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:17   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              64.2 psi
+                              000100   Engine RPM              1968.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            183.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:23   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.7 psi
+                              000100   Engine RPM              1806.0 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            183.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:25   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              57.6 psi
+                              000100   Engine RPM              1730.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            185.0 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            183.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:27   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.2 psi
+                              000100   Engine RPM              1718.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            185.0 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:30   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.7 psi
+                              000100   Engine RPM              1662.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            185.0 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:34   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              58.4 psi
+                              000100   Engine RPM              1739.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            185.0 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:37   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.3 psi
+                              000100   Engine RPM              1420.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:40   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.9 psi
+                              000100   Engine RPM              1631.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:43   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              59.3 psi
+                              000100   Engine RPM              1720.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:46   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.0 psi
+                              000100   Engine RPM              1754.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:50   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              57.1 psi
+                              000100   Engine RPM              1755.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            188.6 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:53   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              60.5 psi
+                              000100   Engine RPM              1625.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            188.6 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:27:55   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              59.5 psi
+                              000100   Engine RPM              1475.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            188.6 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:00   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              58.9 psi
+                              000100   Engine RPM              1335.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:01   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.7 psi
+                              000100   Engine RPM              1462.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:04   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              60.2 psi
+                              000100   Engine RPM              1531.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:08   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.5 psi
+                              000100   Engine RPM              1618.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:10   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.9 psi
+                              000100   Engine RPM              1585.5 RPM
+                              000135   Coolant Temp             197.6 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:13   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.5 psi
+                              000100   Engine RPM              1651.0 RPM
+                              000135   Coolant Temp             197.6 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:15   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              61.2 psi
+                              000100   Engine RPM              1692.5 RPM
+                              000135   Coolant Temp             197.6 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:24   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.8 psi
+                              000100   Engine RPM              1742.0 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:26   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              62.4 psi
+                              000100   Engine RPM              1877.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:28:28   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              63.5 psi
+                              000100   Engine RPM              1879.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            195.8 Deg. F
+ 43612   25-SEP-98 13:28:31   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              61.6 psi
+                              000100   Engine RPM              1845.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            195.8 Deg. F
+                              000461   LR Brake Temp            197.6 Deg. F
+                              000462   RF Brake Temp            194.0 Deg. F
+                              000463   RR BRAKE TEMP            199.4 Deg. F
+ 43612   25-SEP-98 13:28:33   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              60.8 psi
+                              000100   Engine RPM              1902.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            194.0 Deg. F
+                              000461   LR Brake Temp            197.6 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            199.4 Deg. F
+ 43612   25-SEP-98 13:28:36   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              62.9 psi
+                              000100   Engine RPM              1967.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            194.0 Deg. F
+                              000461   LR Brake Temp            197.6 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            199.4 Deg. F
+ 43612   25-SEP-98 13:28:39   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              61.5 psi
+                              000100   Engine RPM              1929.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            195.8 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            197.6 Deg. F
+ 43612   25-SEP-98 13:28:43   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              60.9 psi
+                              000100   Engine RPM              1872.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            195.8 Deg. F
+ 43612   25-SEP-98 13:28:45   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.3 psi
+                              000100   Engine RPM              1849.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            195.8 Deg. F
+ 43612   25-SEP-98 13:28:48   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              62.5 psi
+                              000100   Engine RPM              1902.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            195.8 Deg. F
+ 43612   25-SEP-98 13:28:57   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.6 psi
+                              000100   Engine RPM              1874.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            195.8 Deg. F
+ 43612   25-SEP-98 13:28:59   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              56.8 psi
+                              000100   Engine RPM              1522.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            194.0 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:05   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.7 psi
+                              000100   Engine RPM              1453.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            194.0 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:07   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              58.4 psi
+                              000100   Engine RPM              1553.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:09   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              58.7 psi
+                              000100   Engine RPM              1689.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:12   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              62.5 psi
+                              000100   Engine RPM              1765.5 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:16   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              61.5 psi
+                              000100   Engine RPM              1798.5 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:18   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              62.2 psi
+                              000100   Engine RPM              1727.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:23   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.8 psi
+                              000100   Engine RPM              1667.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:26   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              58.0 psi
+                              000100   Engine RPM              1326.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:28   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              58.4 psi
+                              000100   Engine RPM              1292.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            192.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:29:30   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              59.3 psi
+                              000100   Engine RPM              1414.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            195.8 Deg. F
+                              000461   LR Brake Temp            195.8 Deg. F
+                              000462   RF Brake Temp            195.8 Deg. F
+                              000463   RR BRAKE TEMP            197.6 Deg. F
+ 43612   25-SEP-98 13:29:32   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              59.2 psi
+                              000100   Engine RPM              1398.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            199.4 Deg. F
+                              000461   LR Brake Temp            197.6 Deg. F
+                              000462   RF Brake Temp            197.6 Deg. F
+                              000463   RR BRAKE TEMP            199.4 Deg. F
+ 43612   25-SEP-98 13:29:34   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              57.4 psi
+                              000100   Engine RPM              1325.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            201.2 Deg. F
+                              000461   LR Brake Temp            199.4 Deg. F
+                              000462   RF Brake Temp            195.8 Deg. F
+                              000463   RR BRAKE TEMP            199.4 Deg. F
+ 43612   25-SEP-98 13:29:36   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              60.9 psi
+                              000100   Engine RPM              1741.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            199.4 Deg. F
+                              000461   LR Brake Temp            199.4 Deg. F
+                              000462   RF Brake Temp            195.8 Deg. F
+                              000463   RR BRAKE TEMP            199.4 Deg. F
+ 43612   25-SEP-98 13:29:38   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              58.3 psi
+                              000100   Engine RPM              1312.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            197.6 Deg. F
+                              000461   LR Brake Temp            197.6 Deg. F
+                              000462   RF Brake Temp            194.0 Deg. F
+                              000463   RR BRAKE TEMP            199.4 Deg. F
+ 43612   25-SEP-98 13:29:40   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              58.3 psi
+                              000100   Engine RPM              1359.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            195.8 Deg. F
+                              000461   LR Brake Temp            197.6 Deg. F
+                              000462   RF Brake Temp            194.0 Deg. F
+                              000463   RR BRAKE TEMP            197.6 Deg. F
+ 43612   25-SEP-98 13:29:45   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              43.4 psi
+                              000100   Engine RPM               789.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            195.8 Deg. F
+                              000461   LR Brake Temp            195.8 Deg. F
+                              000462   RF Brake Temp            194.0 Deg. F
+                              000463   RR BRAKE TEMP            197.6 Deg. F
+ 43612   25-SEP-98 13:29:48   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              36.5 psi
+                              000100   Engine RPM               698.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            194.0 Deg. F
+                              000461   LR Brake Temp            195.8 Deg. F
+                              000462   RF Brake Temp            194.0 Deg. F
+                              000463   RR BRAKE TEMP            197.6 Deg. F
+ 43612   25-SEP-98 13:29:51   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              36.8 psi
+                              000100   Engine RPM               698.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            194.0 Deg. F
+                              000461   LR Brake Temp            195.8 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            195.8 Deg. F
+ 43612   25-SEP-98 13:29:58   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              36.7 psi
+                              000100   Engine RPM               699.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            194.0 Deg. F
+                              000461   LR Brake Temp            195.8 Deg. F
+                              000462   RF Brake Temp            192.2 Deg. F
+                              000463   RR BRAKE TEMP            195.8 Deg. F
+ 43612   25-SEP-98 13:30:00   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              37.3 psi
+                              000100   Engine RPM               704.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:02   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              37.0 psi
+                              000100   Engine RPM               701.5 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            185.0 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:05   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              38.0 psi
+                              000100   Engine RPM               699.5 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            186.8 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            185.0 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:08   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              38.0 psi
+                              000100   Engine RPM               699.5 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            185.0 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:10   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              37.4 psi
+                              000100   Engine RPM               701.0 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            185.0 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:12   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              38.3 psi
+                              000100   Engine RPM               700.0 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            183.2 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:14   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              38.1 psi
+                              000100   Engine RPM               701.0 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            179.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:16   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              38.4 psi
+                              000100   Engine RPM               699.0 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            177.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:22   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              37.4 psi
+                              000100   Engine RPM               700.0 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            177.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:33   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              38.0 psi
+                              000100   Engine RPM               700.5 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            177.8 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            176.0 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:30:40   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              48.6 psi
+                              000100   Engine RPM               849.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            176.0 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            174.2 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:30:44   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.5 psi
+                              000100   Engine RPM              1631.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            176.0 Deg. F
+                              000461   LR Brake Temp            190.4 Deg. F
+                              000462   RF Brake Temp            174.2 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:30:49   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.2 psi
+                              000100   Engine RPM              1540.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            176.0 Deg. F
+                              000461   LR Brake Temp            190.4 Deg. F
+                              000462   RF Brake Temp            176.0 Deg. F
+                              000463   RR BRAKE TEMP            190.4 Deg. F
+ 43612   25-SEP-98 13:30:54   000140   System Voltage            27.0 Volts
+                              000131   Eng Oil Pres              37.1 psi
+                              000100   Engine RPM               693.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            179.6 Deg. F
+                              000461   LR Brake Temp            190.4 Deg. F
+                              000462   RF Brake Temp            177.8 Deg. F
+                              000463   RR BRAKE TEMP            190.4 Deg. F
+ 43612   25-SEP-98 13:30:56   000140   System Voltage            26.6 Volts
+                              000131   Eng Oil Pres              38.3 psi
+                              000100   Engine RPM               704.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:31:00   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              47.1 psi
+                              000100   Engine RPM               802.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            183.2 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            181.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:31:03   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              55.1 psi
+                              000100   Engine RPM              1006.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            183.2 Deg. F
+                              000461   LR Brake Temp            190.4 Deg. F
+                              000462   RF Brake Temp            179.6 Deg. F
+                              000463   RR BRAKE TEMP            190.4 Deg. F
+ 43612   25-SEP-98 13:31:21   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              51.8 psi
+                              000100   Engine RPM               881.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            190.4 Deg. F
+                              000462   RF Brake Temp            177.8 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:31:25   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              40.3 psi
+                              000100   Engine RPM               699.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            190.4 Deg. F
+                              000462   RF Brake Temp            177.8 Deg. F
+                              000463   RR BRAKE TEMP            190.4 Deg. F
+ 43612   25-SEP-98 13:31:29   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              39.3 psi
+                              000100   Engine RPM               700.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            190.4 Deg. F
+                              000462   RF Brake Temp            177.8 Deg. F
+                              000463   RR BRAKE TEMP            190.4 Deg. F
+ 43612   25-SEP-98 13:31:32   000140   System Voltage            26.7 Volts
+                              000131   Eng Oil Pres              39.6 psi
+                              000100   Engine RPM               701.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            179.6 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            177.8 Deg. F
+                              000463   RR BRAKE TEMP            190.4 Deg. F
+ 43612   25-SEP-98 13:31:41   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              39.6 psi
+                              000100   Engine RPM               699.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            177.8 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            176.0 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:31:44   000140   System Voltage            26.7 Volts
+                              000131   Eng Oil Pres              40.3 psi
+                              000100   Engine RPM               699.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            176.0 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            172.4 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:31:46   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              40.6 psi
+                              000100   Engine RPM               711.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            174.2 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            172.4 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:31:48   000140   System Voltage            26.7 Volts
+                              000131   Eng Oil Pres              40.0 psi
+                              000100   Engine RPM               702.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            174.2 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            172.4 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:31:50   000140   System Voltage            26.7 Volts
+                              000131   Eng Oil Pres              39.7 psi
+                              000100   Engine RPM               701.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            172.4 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            170.6 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:31:52   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              40.0 psi
+                              000100   Engine RPM               700.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            172.4 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            170.6 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:31:54   000140   System Voltage            26.7 Volts
+                              000131   Eng Oil Pres              40.3 psi
+                              000100   Engine RPM               700.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            172.4 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            170.6 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:31:56   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              39.9 psi
+                              000100   Engine RPM               699.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            172.4 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            170.6 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:31:58   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              40.7 psi
+                              000100   Engine RPM               700.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            172.4 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            170.6 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:32:00   000140   System Voltage            27.1 Volts
+                              000131   Eng Oil Pres              39.7 psi
+                              000100   Engine RPM               701.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            172.4 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            170.6 Deg. F
+                              000463   RR BRAKE TEMP            188.6 Deg. F
+ 43612   25-SEP-98 13:32:02   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              40.3 psi
+                              000100   Engine RPM               699.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            170.6 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            168.8 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:05   000140   System Voltage            27.2 Volts
+                              000131   Eng Oil Pres              39.6 psi
+                              000100   Engine RPM               699.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            170.6 Deg. F
+                              000461   LR Brake Temp            188.6 Deg. F
+                              000462   RF Brake Temp            168.8 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:07   000140   System Voltage            26.8 Volts
+                              000131   Eng Oil Pres              40.5 psi
+                              000100   Engine RPM               701.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            170.6 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            168.8 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:10   000140   System Voltage            26.7 Volts
+                              000131   Eng Oil Pres              39.4 psi
+                              000100   Engine RPM               699.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            170.6 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            168.8 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:14   000140   System Voltage            27.0 Volts
+                              000131   Eng Oil Pres              54.2 psi
+                              000100   Engine RPM               909.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          188.6 Deg. F
+                              000460   LF Brake Temp            170.6 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            168.8 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:18   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              57.0 psi
+                              000100   Engine RPM              1268.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            170.6 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            168.8 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:28   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              59.0 psi
+                              000100   Engine RPM              1719.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            168.8 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            168.8 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:31   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              58.9 psi
+                              000100   Engine RPM              1736.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            176.0 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            174.2 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:34   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              61.8 psi
+                              000100   Engine RPM              1724.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            177.8 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            176.0 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:42   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.9 psi
+                              000100   Engine RPM              1610.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            177.8 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            177.8 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:32:51   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.7 psi
+                              000100   Engine RPM              1563.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            179.6 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            177.8 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:33:28   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              61.5 psi
+                              000100   Engine RPM              1747.0 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            181.4 Deg. F
+                              000461   LR Brake Temp            186.8 Deg. F
+                              000462   RF Brake Temp            179.6 Deg. F
+                              000463   RR BRAKE TEMP            186.8 Deg. F
+ 43612   25-SEP-98 13:33:30   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              59.0 psi
+                              000100   Engine RPM              1625.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            194.0 Deg. F
+                              000461   LR Brake Temp            199.4 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            203.0 Deg. F
+ 43612   25-SEP-98 13:33:43   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              57.9 psi
+                              000100   Engine RPM              1557.5 RPM
+                              000135   Coolant Temp             194.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            197.6 Deg. F
+                              000461   LR Brake Temp            201.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            204.8 Deg. F
+ 43612   25-SEP-98 13:33:54   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              57.0 psi
+                              000100   Engine RPM              1517.0 RPM
+                              000135   Coolant Temp             195.8 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            188.6 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            195.8 Deg. F
+ 43612   25-SEP-98 13:33:56   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              56.0 psi
+                              000100   Engine RPM              1422.0 RPM
+                              000135   Coolant Temp             197.6 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:34:03   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.2 psi
+                              000100   Engine RPM              1823.5 RPM
+                              000135   Coolant Temp             197.6 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            186.8 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:34:06   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              55.5 psi
+                              000100   Engine RPM              1392.5 RPM
+                              000135   Coolant Temp             197.6 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:34:09   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.1 psi
+                              000100   Engine RPM              1282.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:34:11   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              57.0 psi
+                              000100   Engine RPM              1599.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:34:13   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              57.1 psi
+                              000100   Engine RPM              1604.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:34:19   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              60.5 psi
+                              000100   Engine RPM              1676.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:34:22   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              57.0 psi
+                              000100   Engine RPM              1683.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:34:28   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              61.0 psi
+                              000100   Engine RPM              1709.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:34:34   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              60.5 psi
+                              000100   Engine RPM              1746.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:34:38   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.8 psi
+                              000100   Engine RPM              1712.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:34:40   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.0 psi
+                              000100   Engine RPM              1762.0 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:34:50   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              58.6 psi
+                              000100   Engine RPM              1790.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:34:53   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.4 psi
+                              000100   Engine RPM              1343.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:34:56   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              57.7 psi
+                              000100   Engine RPM              1462.0 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:05   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              56.7 psi
+                              000100   Engine RPM              1518.0 RPM
+                              000135   Coolant Temp             203.0 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:08   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.7 psi
+                              000100   Engine RPM              1582.5 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:10   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.3 psi
+                              000100   Engine RPM              1514.0 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:13   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              56.3 psi
+                              000100   Engine RPM              1452.5 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:16   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              54.8 psi
+                              000100   Engine RPM              1382.0 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:19   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.0 psi
+                              000100   Engine RPM              1398.0 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:27   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              56.7 psi
+                              000100   Engine RPM              1538.5 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:30   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.9 psi
+                              000100   Engine RPM              1591.5 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:34   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              57.1 psi
+                              000100   Engine RPM              1485.5 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:35:37   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              59.6 psi
+                              000100   Engine RPM              1811.5 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:36:02   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              57.3 psi
+                              000100   Engine RPM              1436.0 RPM
+                              000135   Coolant Temp             204.8 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:36:04   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              58.0 psi
+                              000100   Engine RPM              1550.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:36:13   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              58.3 psi
+                              000100   Engine RPM              1551.5 RPM
+                              000135   Coolant Temp             201.2 Deg. F
+                              000325   Diff Temp                210.2 Deg. F
+                              000350   TRANS LUBE TEMP          192.2 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:36:23   000140   System Voltage            27.6 Volts
+                              000131   Eng Oil Pres              61.2 psi
+                              000100   Engine RPM              1769.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:36:30   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              58.1 psi
+                              000100   Engine RPM              1660.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:36:33   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              53.8 psi
+                              000100   Engine RPM              1081.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:36:44   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              50.8 psi
+                              000100   Engine RPM               913.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                208.4 Deg. F
+                              000350   TRANS LUBE TEMP          190.4 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            192.2 Deg. F
+                              000462   RF Brake Temp            190.4 Deg. F
+                              000463   RR BRAKE TEMP            192.2 Deg. F
+ 43612   25-SEP-98 13:36:50   000140   System Voltage            27.5 Volts
+                              000131   Eng Oil Pres              60.9 psi
+                              000100   Engine RPM              1839.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:36:54   000140   System Voltage            27.4 Volts
+                              000131   Eng Oil Pres              56.8 psi
+                              000100   Engine RPM              1559.5 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          194.0 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:36:57   000140   System Voltage            27.3 Volts
+                              000131   Eng Oil Pres              54.5 psi
+                              000100   Engine RPM              1188.0 RPM
+                              000135   Coolant Temp             199.4 Deg. F
+                              000325   Diff Temp                206.6 Deg. F
+                              000350   TRANS LUBE TEMP          195.8 Deg. F
+                              000460   LF Brake Temp            190.4 Deg. F
+                              000461   LR Brake Temp            194.0 Deg. F
+                              000462   RF Brake Temp            188.6 Deg. F
+                              000463   RR BRAKE TEMP            194.0 Deg. F
+ 43612   25-SEP-98 13:37:15   000000   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+ 43612   25-SEP-98 13:37:24   000000   * REQUESTED CHANNEL NOT IN CHANNEL TABLE
+         
+

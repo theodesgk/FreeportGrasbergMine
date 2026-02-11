@@ -1,0 +1,10 @@
+1459683329	Axle #1 Weight	99.9	0	19
+1459683330	Axle #2 Weight	99.9	0	19
+1459683331	Axle #3 Weight	99.9	0	19
+1459683332	Total Truck Weight	999	0	19
+1459683333	Truck Payload	999	0	19
+1459683334	Axle #4 Weight	99.9	0	19
+1459683335	Axle #5 Weight	99.9	0	19
+1459683336	Axle #6 Weight	99.9	0	19
+1459683337	Total Trailer Weight	999	0	19
+1459683338	Trailer Payload	999	0	19

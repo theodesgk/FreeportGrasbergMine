@@ -1,0 +1,8 @@
+#! bin/sh
+
+if [ "$DSP_STDFORM" = "/mms/dsp/form/engl" ]; then
+DSP_STDFORM=/dsp/form/generic
+export DSP_STDFORM
+fi
+DSP_FORM=$DSP_CLIENT/hack:$DSP_CLIENT/form:$DSP_STDFORM
+export DSP_FORM 

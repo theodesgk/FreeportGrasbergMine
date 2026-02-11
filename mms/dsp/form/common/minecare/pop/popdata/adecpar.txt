@@ -1,0 +1,75 @@
+872480769	Speed/Speed Limitation Requested By Engine	8031.875	0	28
+872480770	Percentage Load At Current Speed	250	0	25
+872480771	Engine Speed	8031.875	0	28
+872480772	Engine Alternative Lowest Idle Switch	3	0	33
+872480773	Eng Turbo Charger 1 Compressor Outlet Temperature	1734.96875	-273	5
+872480774	Engine Coolant Additional Pressure	1000	0	9
+872480775	Engine Running Time - Eng Speed Greater Than 0	210554060.75	0	7
+872480776	Trip Odometer Idle Speed Time	210554060.75	0	7
+872480777	Avg Engine Running Fuel Consumption	3212.75	0	13
+872480778	Estimated Fan Speed In Percent	100	0	25
+872480779	Transmission Neutral Switch	3	0	33
+872480780	Turbocharger 1 Rpm	257020	0	28
+872480781	Engine Too Cold To Start	3	0	33
+872480782	Total Operating Hours	210554060.75	0	7
+872480783	Fuel Consumption For One Trip	2105540607.5	0	14
+872480784	Total Accumulated Fuel Consumption	2105540607.5	0	14
+872480785	Coolant Temperature	210	-40	5
+872480786	Fuel Temperature	210	-40	5
+872480787	Engine Oil Temperature 1	1734.96875	-273	5
+872480788	Engine Intercooler Temperature	210	-40	5
+872480789	Engine Coolant Pressure	500	0	9
+872480790	Parke Brake Switch	3	0	33
+872480791	Engine Shutdown Override Switch	3	0	33
+872480792	Fuel Flow Rate	3212.75	0	13
+872480793	Turbocharger Charge Pressure	500	0	9
+872480794	Intake Pipe Air Temperature	210	-40	5
+872480795	Battery Power Voltage	3212.75	0	31
+872480796	Torque Limitation Active	3	0	33
+872480797	Preheating High Temp	3	0	33
+872480798	Preheating Low Temp	3	0	33
+872480799	Selected Rpm Request	8031.875	0	28
+872480800	Actual Rpm Request	8031.875	0	28
+872480801	Optimum Load Signal	125	-125	25
+872480802	Requested Torque	64255	0	24
+872480803	Permitted Rpm Difference	160.6375	0	25
+872480804	Speed Setting Limiter Active	3	0	33
+872480805	External Power Line Limitation	3	0	33
+872480806	Activate External Preheating	3	0	33
+872480807	Max Torque Limit 1	64255	0	24
+872480808	Max Torque Limit 2	64255	0	24
+872480809	Engine Oil Pressure	1000	0	9
+872480810	Actual Failure Codes Pgn	64255	0	0
+872480811	Engine Exhaust Exhaust Gas Temperature - Right Manifold (B)	2007.96875	0	
+872480812	Engine Exhaust Exhaust Gas Temperature - Left Manifold (A)	2007.96875	0	
+872480813	Auxiliary Pressure #1	4000	0	
+872480814	Auxiliary Pressure #2	4000	0	
+872480815	Engine Exhaust Gas Port 17 Temperature (B7)	1734.96875	-273	
+872480816	Engine Exhaust Gas Port 18 Temperature (B8)	1734.96875	-273	
+872480817	Engine Exhaust Gas Port 19 Temperature (B9)	1734.96875	-273	
+872480818	Engine Exhaust Gas Port 20 Temperature (B10)	1734.96875	-273	
+872480819	Engine Exhaust Gas Port 13 Temperature (B3)	1734.96875	-273	
+872480820	Engine Exhaust Gas Port 14 Temperature (B4)	1734.96875	-273	
+872480821	Engine Exhaust Gas Port 15 Temperature (B5)	1734.96875	-273	
+872480822	Engine Exhaust Gas Port 16 Temperature (B6)	1734.96875	-273	
+872480823	Engine Exhaust Gas Port 9 Temperature (A9)	1734.96875	-273	
+872480824	Engine Exhaust Gas Port 10 Temperature (A10)	1734.96875	-273	
+872480825	Engine Exhaust Gas Port 11 Temperature (B1)	1734.96875	-273	
+872480826	Engine Exhaust Gas Port 12 Temperature (B2)	1734.96875	-273	
+872480827	Engine Exhaust Gas Port 5 Temperature (A5)	2007.96875	0	
+872480828	Engine Exhaust Gas Port 6 Temperature (A6)	2007.96875	0	
+872480829	Engine Exhaust Gas Port 7 Temperature (A7)	2007.96875	0	
+872480830	Engine Exhaust Gas Port 8 Temperature (A8)	2007.96875	0	
+872480831	Engine Exhaust Gas Port 1 Temperature (A1)	1734.96875	-273	
+872480832	Engine Exhaust Gas Port 2 Temperature (A2)	1734.96875	-273	
+872480833	Engine Exhaust Gas Port 3 Temperature (A3)	1734.96875	-273	
+872480834	Engine Exhaust Gas Port 4 Temperature (A4)	1734.96875	-273	
+872480835	Software Identification	0	0	
+872480836	Engine Fuel Delivery Pressure	1000	0	
+872480837	Engine Crankcase Pressure	251.9921875	-250	
+872480838	Engine Air Filter 1 Differential Pressure	12.5	0	
+872480839	Engine Fuel Filter Differential Pressure	500	0	
+872480840	Analog Fan Control 1 Percentage	160.6375	0	
+872480841	Analog Fan Control 2 Percentage	160.6375	0	
+872480842	Actual Droop	160.6375	0	
+				

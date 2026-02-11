@@ -1,0 +1,281 @@
+1526792193	Percent Accelerator Pedal  - Parent (General)	100	0	25
+1526792194	Percent Engine Load - Parent (General)	125	0	25
+1526792195	Percent Engine Torque (Actual) - Parent (General)	125	-125	25
+1526792196	Percent Engine Torque (Demanded) - Parent (General)	125	-125	25
+1526792197	Average Exhaust Port Temperature (General)	1735	-273	5
+1526792198	Barometric Pressure - Parent (General)	125	0	9
+1526792199	Battery Potential (Voltage) Switched (General)	3212.75	0	31
+1526792200	Battery Potential (Voltage) Switched - Parent (General)	3212.75	0	31
+1526792201	Bhp (General)	65535	0	9
+1526792202	Boost Pressure 1 (L/B Front) - Parent (General)	500	0	9
+1526792203	Boost Pressure 3 (R/B Rear) (General)	8031.875	0	9
+1526792204	Crankcase Blow-By Pressure (General)	12.5	0	9
+1526792205	Engine Coolant Pressure - Parent (General)	500	0	9
+1526792206	Engine Coolant Temperature - Parent (General)	210	-40	5
+1526792207	Engine Ecu Temperature (General)	273	-273	5
+1526792208	Engine Oil Filter Differential Pressure (General)	255	0	9
+1526792209	Engine Oil Pressure (General)	65535	0	9
+1526792210	Engine Oil Temperature (General)	1735	-273	5
+1526792211	Engine Speed - Parent (General)	8031.875	0	28
+1526792212	Engine Torque Mode - Parent (General)	14	0	33
+1526792213	Exhaust Port Temperature 1 (General)	1735	-273	5
+1526792214	Exhaust Port Temperature 2 (General)	1735	-273	5
+1526792215	Exhaust Port Temperature 3 (General)	1735	-273	5
+1526792216	Exhaust Port Temperature 4 (General)	1735	-273	5
+1526792217	Exhaust Port Temperature 5 (General)	1735	-273	5
+1526792218	Exhaust Port Temperature 6 (General)	1735	-273	5
+1526792219	Exhaust Port Temperature 7 (General)	1735	-273	5
+1526792220	Exhaust Port Temperature 8 (General)	1735	-273	5
+1526792221	Exhaust Port Temperature 9 (General)	1735	-273	5
+1526792222	Exhaust Port Temperature 10 (General)	1735	-273	5
+1526792223	Exhaust Port Temperature 11 (General)	1735	-273	5
+1526792224	Exhaust Port Temperature 12 (General)	1735	-273	5
+1526792225	Exhaust Port Temperature 13 (General)	1735	-273	5
+1526792226	Exhaust Port Temperature 14 (General)	1735	-273	5
+1526792227	Exhaust Port Temperature 15 (General)	1735	-273	5
+1526792228	Exhaust Port Temperature 16 (General)	1735	-273	5
+1526792229	Exhaust Port Temperature 17 (General)	1735	-273	5
+1526792230	Exhaust Port Temperature 18 (General)	1735	-273	5
+1526792231	Fuel Delivery Pressure (General)	65535	0	9
+1526792232	Fuel Rate - Parent (General)	3212.75	0	13
+1526792233	Fuel Supply Pump Inlet Pressure (General)	255	0	9
+1526792234	Fuel Temperature - Parent (General)	210	-40	5
+1526792235	Fuel Used (Total Since Last Reset) - Parent (General)	2105540607.5	0	14
+1526792236	Idle Fuel Used (Total Since Last Reset) (General)	2105540607.5	0	14
+1526792237	Idle Hours (Total Since Last) (General)	210554060.75	0	7
+1526792238	Instantaneous Fuel Economy (General)	125.5	0	15
+1526792239	Intake Manifold Temperature 1 (L/B Front) - Parent (General)	210	-40	5
+1526792240	Intake Manifold Temperature 2 (L/B Rear) (General)	210	-40	5
+1526792241	Intake Manifold Temperature 3 (R/B Front) (General)	210	-40	5
+1526792242	Intake Manifold Temperature 4 (R/B Rear) (General)	210	-40	5
+1526792243	Intake Manifold Temperature 5 (L/B Middle) (General)	210	-40	5
+1526792244	Intake Manifold Temperature 6 (R/B Middle) (General)	210	-40	5
+1526792245	Left Bank Rear Compressor Inlet Temperature 2 (General)	1735	-273	5
+1526792246	Lube Oil Filter Restriction (General)	125	0	9
+1526792247	Post-Filter Oil Pressure (General)	1000	0	9
+1526792248	Pre-Filter Oil Pressure (High Resolution) (General)	1000	0	9
+1526792249	Software Identification  (General)	0	0	33
+1526792250	Total Engine Hours (General)	210554060.75	0	7
+1526792251	Pre-Filter Oil Pressure (General)	1000	0	9
+1526792252	Engine Total Average Fuel Rate (General)	3212.75	0	13
+1526792253	SCR Operator Inducement Override Switch - Parent  (General)	3	0	0
+1526792254	Calibration Verification Number - Parent  (General)	0	0	0
+1526792255	Calibration Identification - Parent  (General)	0	0	0
+1526792256	Calibration Verification Number - Child1  (General)	0	0	0
+1526792257	Calibration Identification - Child1  (General)	0	0	0
+1526792258	Remote Accelerator Enable Switch - Parent  (General)	3	0	0
+1526792259	Remote Accelerator Enable Switch - Child1  (General)	3	0	0
+1526792260	Accelerator Pedal 1 Low Idle Switch - Parent  (General)	3	0	0
+1526792261	Accelerator Pedal Kickdown Switch - Parent  (General)	3	0	0
+1526792262	Remote Accelerator Pedal Position - Parent  (General)	100	0	25
+1526792263	Actual Maximum Available Engine - Percent Torque - Parent  (General)	100	0	25
+1526792264	Actual Engine - Percent Torque High Resolution - Parent  (General)	1.875	0	25
+1526792265	Source Address of Controlling Device for Engine Control - Parent  (General)	250	0	0
+1526792266	Engine Starter Mode - Parent  (General)	15	0	0
+1526792267	Engine Demand - Percent Torque - Parent  (General)	125	-125	25
+1526792268	Aftertreatment 1 Intake NOx - Parent  (General)	3012.75	-200	0
+1526792269	Aftertreatment 1 Intake Nox - Child1  (General)	3012.75	-200	0
+1526792270	Aftertreatment 1 Outlet NOx - Parent  (General)	3012.75	-200	0
+1526792271	Aftertreatment 1 Outlet NOx - Child1  (General)	3012.75	-200	0
+1526792272	Diesel Exhaust Fluid Frozen Time - Parent  (General)	4211081215	0	29
+1526792273	Total Engine Energy - Parent  (General)	4211081215	0	34
+1526792274	Total Engine Energy - Child1  (General)	4211081215	0	34
+1526792275	SCR System Cleaning Lamp Command - Parent  (General)	7	0	0
+1526792276	SCR Operator Inducement Override Enable - Parent  (General)	3	0	0
+1526792277	Engine Oil Pressure (High Resolution/Extended Range) - Parent  (General)	6425.5	0	9
+1526792278	Engine Fuel Delivery Pressure (High Resolution/Extended Range) - Parent  (General)	6425.5	0	9
+1526792279	Commanded Engine Fuel Rail Pressure - Parent  (General)	250.99609375	0	22
+1526792280	Commanded Engine Fuel Rail Pressure - Child1  (General)	250.99609375	0	22
+1526792281	Aftertreatment 1 SCR Catalyst Intake Gas Temperature - Parent  (General)	1734.96875	-273	5
+1526792282	Aftertreatment 1 SCR Catalyst Intake Gas Temperature - Child1  (General)	1734.96875	-273	5
+1526792283	Aftertreatment 1 SCR Catalyst Outlet Gas Temperature - Parent  (General)	1734.96875	-273	5
+1526792284	Aftertreatment 1 SCR Catalyst Outlet Gas Temperature - Child1  (General)	1734.96875	-273	5
+1526792285	Engine Operating State - Parent  (General)	15	0	0
+1526792286	Engine Desired Torque Request - Parent  (General)	125	-125	25
+1526792287	Aftertreatment 1 Diesel Exhaust Fluid Concentration - Parent  (General)	62.5	0	25
+1526792288	Engine Operator Primary Intermediate Speed Select - Parent  (General)	15	0	0
+1526792289	Engine Auxiliary Governor Switch - Parent  (General)	3	0	0
+1526792290	Engine Alternate Low Idle Switch - Parent  (General)	3	0	0
+1526792291	Engine Alternate Rating Select - Parent  (General)	250	0	0
+1526792292	Engine Alternate Droop Accelerator 1 Select - Parent  (General)	15	0	0
+1526792293	Aftertreatment 1 Diesel Exhaust Fluid Tank 1 Level - Parent  (General)	100	0	25
+1526792294	Aftertreatment 1 Diesel Exhaust Fluid Tank 1 Temperature - Parent  (General)	210	-40	5
+1526792295	Aftertreatment 1 Diesel Exhaust Fluid Tank 1 Low Level Indicator - Parent  (General)	7	0	0
+1526792296	Aftertreatment SCR Operator Inducement Severity - Parent  (General)	7	0	0
+1526792297	Engine oil level remote reservoir - Parent  (General)	100	0	25
+1526792298	Instantaneous Estimated Brake Power - Parent  (General)	32127.5	0	12
+1526792299	Instantaneous Estimated Brake Power - Child1  (General)	32127.5	0	12
+1526792300	Engine Turbocharger 1 Compressor Intake Temperature - Parent  (General)	1734.96875	-273	5
+1526792301	Engine ECU Temperature - Parent  (General)	1734.96875	-273	5
+1526792302	Engine ECU Temperature - Child1  (General)	1734.96875	-273	5
+1526792303	Intake Manifold 2 Temperature - Child1  (General)	210	-40	5
+1526792304	Turbocharger 1 Boost Pressure - Parent  (General)	8031.875	0	9
+1526792305	Turbocharger 2 Boost Pressure - Child1  (General)	8031.875	0	9
+1526792306	Total ECU Run Time - Parent  (General)	210554060.75	0	7
+1526792307	Estimated Percent Fan Speed - Parent  (General)	100	0	25
+1526792308	Fan Drive State - Parent  (General)	15	0	0
+1526792309	Engine Rated Power - Parent  (General)	32127.5	0	12
+1526792310	Engine Rated Power - Child1  (General)	32127.5	0	12
+1526792311	Number of Software Identification Fields - Parent  (General)	250	0	0
+1526792312	Software Identification - Parent  (General)	0	0	0
+1526792313	Number of Software Identification Fields - Child1  (General)	250	0	0
+1526792314	Software Identification - Child1  (General)	0	0	0
+1526792315	Engine Injector Metering Rail 1 Pressure - Parent  (General)	250.99609375	0	22
+1526792316	Engine Total Idle Fuel Used - Parent  (General)	2105540607.5	0	14
+1526792317	Engine Total Idle Hours - Parent  (General)	210554060.75	0	7
+1526792318	Nominal Friction - Percent Torque - Parent  (General)	125	-125	25
+1526792319	Engines Desired Operating Speed - Parent  (General)	8031.875	0	28
+1526792320	Engines Desired Operating Speed Asymmetry Adjustment - Parent  (General)	250	0	0
+1526792321	Estimated Engine Parasitic Losses - Percent Torque - Parent  (General)	125	-125	25
+1526792322	Engine Speed At Idle Point 1 (Engine Configuration) - Parent  (General)	8031.875	0	28
+1526792323	Engine Percent Torque At Idle Point 1 (Engine Configuration) - Parent  (General)	125	-125	25
+1526792324	Engine Speed At Point 2 (Engine Configuration) - Parent  (General)	8031.875	0	28
+1526792325	Engine Percent Torque At Point 2 (Engine Configuration) - Parent  (General)	125	-125	25
+1526792326	Engine Speed At Point 3 (Engine Configuration) - Parent  (General)	8031.875	0	28
+1526792327	Engine Percent Torque At Point 3 (Engine Configuration) - Parent  (General)	125	-125	25
+1526792328	Engine Speed At Point 4 (Engine Configuration) - Parent  (General)	8031.875	0	28
+1526792329	Engine Percent Torque At Point 4 (Engine Configuration) - Parent  (General)	125	-125	25
+1526792330	Engine Speed At Point 5 (Engine Configuration) - Parent  (General)	8031.875	0	28
+1526792331	Engine Percent Torque At Point 5 (Engine Configuration) - Parent  (General)	125	-125	25
+1526792332	Engine Speed At High Idle Point 6 (Engine Configuration) - Parent  (General)	8031.875	0	28
+1526792333	Engine Reference Torque (Engine Configuration) - Parent  (General)	64255	0	24
+1526792334	Engine Requested Speed Control Range Lower Limit - Parent  (General)	2500	0	28
+1526792335	Engine Requested Speed Control Range Upper Limit - Parent  (General)	2500	0	28
+1526792336	Engine Requested Torque Control Range Lower Limit - Parent  (General)	125	-125	25
+1526792337	Engine Requested Torque Control Range Upper Limit - Parent  (General)	125	-125	25
+1526792338	Extended Range Requested Speed Control Range Upper Limit - Parent  (General)	8031.875	0	28
+1526792339	Engine Moment of Inertia - Parent  (General)	257.02	0	0
+1526792340	Engine Idle Shutdown has Shutdown Engine - Parent  (General)	3	0	0
+1526792341	Engine Idle Shutdown Driver Alert Mode - Parent  (General)	3	0	0
+1526792342	Engine Idle Shutdown Timer Override - Parent  (General)	3	0	0
+1526792343	Engine Idle Shutdown Timer State - Parent  (General)	3	0	0
+1526792344	Engine Idle Shutdown Timer Function - Parent  (General)	3	0	0
+1526792345	Engine Protection System has Shutdown Engine - Parent  (General)	3	0	0
+1526792346	Engine Protection System Approaching Shutdown - Parent  (General)	3	0	0
+1526792347	Engine Protection System Timer Override - Parent  (General)	3	0	0
+1526792348	Engine Protection System Timer State - Parent  (General)	3	0	0
+1526792349	Engine Protection System Configuration - Parent  (General)	3	0	0
+1526792350	Engine Total Hours of Operation - Parent  (General)	210554060.75	0	7
+1526792351	Engine Total Hours of Operation - Child1  (General)	210554060.75	0	7
+1526792352	Engine Total Revolutions - Parent  (General)	4211081215	0	27
+1526792353	Seconds - Parent  (General)	62.5	0	29
+1526792354	Minutes - Parent  (General)	4.16666666666667	0	7
+1526792355	Hours - Parent  (General)	250	0	7
+1526792356	Month - Parent  (General)	180000	0	7
+1526792357	Day - Parent  (General)	1500	0	7
+1526792358	Year - Parent  (General)	19578600	17388600	7
+1526792359	Engine Trip Fuel - Parent  (General)	2105540607.5	0	14
+1526792360	Vehicle Identification Number - Parent  (General)	0	0	0
+1526792361	Engine Oil Temperature 1 - Parent  (General)	1734.96875	-273	5
+1526792362	Engine Fuel Delivery Pressure - Parent  (General)	1000	0	9
+1526792363	Engine Oil Pressure - Parent  (General)	1000	0	9
+1526792364	Engine Crankcase Pressure - Parent  (General)	251.9921875	-250	9
+1526792365	Engine Coolant Level - Parent  (General)	100	0	25
+1526792366	Power Takeoff Speed - Parent  (General)	8031.875	0	28
+1526792367	Power Takeoff Set Speed - Parent  (General)	8031.875	0	28
+1526792368	Engine PTO Governor Enable Switch - Parent  (General)	3	0	0
+1526792369	Engine Remote PTO Governor Variable Speed Control Switch - Parent  (General)	3	0	0
+1526792370	Engine PTO Governor Set Switch - Parent  (General)	3	0	0
+1526792371	Engine PTO Governor Coast/Decelerate Switch - Parent  (General)	3	0	0
+1526792372	Engine PTO Governor Accelerate Switch - Parent  (General)	3	0	0
+1526792373	Engine Idle Increment Switch - Parent  (General)	3	0	0
+1526792374	Engine Idle Decrement Switch - Parent  (General)	3	0	0
+1526792375	Engine Test Mode Switch - Parent  (General)	3	0	0
+1526792376	Engine Shutdown Override Switch - Parent  (General)	3	0	0
+1526792377	Battery Potential / Power Input 1 - Child1  (General)	3212.75	0	31
+1526792378	Water In Fuel Indicator - Parent  (General)	3	0	0
+1526792379	CCO Timer 1 (P_EXM_CCO_LB_Cutout_Time) - Parent  (General)	32127.5	0	7
+1526792380	CCO Timer 2 (P_EXM_CCO_RB_Cutout_Time) - Parent  (General)	32127.5	0	7
+1526792381	CCO Timer 3 (P_EXM_CCO_WS_Cutout_Time) - Parent  (General)	32127.5	0	7
+1526792382	CCO Enable (T_EXM_CHM_Activation_En) - Parent  (General)	3	0	0
+1526792383	Fast Idle Enable (T_EXH_FI_En) - Parent  (General)	3	0	0
+1526792384	Load Management Enable (T_EXH_LM_En) - Parent  (General)	3	0	0
+1526792385	Thermal Management Active (EXH_Thermal_Mgmt_Active) - Parent  (General)	3	0	0
+1526792386	CHM Active Time (EXH_CHM_Active_Timer) - Parent  (General)	32127.5	0	7
+1526792387	LM Request Active Time (EXH_LM_Active_Timer) - Parent  (General)	32127.5	0	7
+1526792388	Fast Idle Active Time (EXH_FI_Timer) - Parent  (General)	32127.5	0	7
+1526792389	Desorb State (PTM_Final_Oper_Mode) - Parent  (General)	3	0	0
+1526792390	Desorb State (PTM_Final_Oper_Mode) - Child1  (General)	3	0	0
+1526792391	HC Desorb Counter (V_HCD_pc_HC_Desorb) - Parent  (General)	6425.5	0	25
+1526792392	HC Desorb Counter (V_HCD_pc_HC_Desorb) - Child1  (General)	6425.5	0	25
+1526792393	HC Decoke Counter (V_HCD_pc_HC_Decoke) - Parent  (General)	6425.5	0	25
+1526792394	HC Decoke Counter (V_HCD_pc_HC_Decoke) - Child1  (General)	6425.5	0	25
+1526792395	Decoke Timer (V_HCD_tmh_Until_Decoke) - Parent  (General)	32127.5	0	7
+1526792396	Decoke Timer (V_HCD_tmh_Until_Decoke) - Child1  (General)	32127.5	0	7
+1526792397	Aftertreatment SCR Malfunction Time - Parent  (General)	4211081215	0	29
+1526792398	SCR Operator Inducement Total Time - Parent  (General)	4211081215	0	29
+1526792399	Diesel Exhaust Fluid Tank1 Empty Time - Parent  (General)	4211081215	0	29
+1526792400	Diesel Exhaust Fluid Quality Malfunction Time - Parent  (General)	4211081215	0	29
+1526792401	Intake Manifold 2 Temperature - Parent  (General)	210	-40	5
+1526792402	Intake Manifold 3 Temperature - Parent  (General)	210	-40	5
+1526792403	Intake Manifold 4 Temperature - Parent  (General)	210	-40	5
+1526792404	Intake Manifold 4 Temperature - Child1  (General)	210	-40	5
+1526792405	Engine Oil Filter Differential Pressure - Child1  (General)	125	0	9
+1526792406	Calibration Verification Number - Child2  (General)	0	0	0
+1526792407	Calibration Identification - Child2  (General)	0	0	0
+1526792408	Calibration Verification Number - Child3  (General)	0	0	0
+1526792409	Calibration Identification - Child3  (General)	0	0	0
+1526792410	Total Engine Energy - Child2  (General)	4211081215	0	34
+1526792411	Total Engine Energy - Child3  (General)	4211081215	0	34
+1526792412	Engine Pre-Filter Oil Pressure (High Resolution/Extended Range) - Child1  (General)	6425.5	0	9
+1526792413	Engine Exhaust Gas Temperature - Right Manifold - Child2  (General)	1734.96875	-273	5
+1526792414	Engine Exhaust Gas Temperature - Left Manifold - Child2  (General)	1734.96875	-273	5
+1526792415	Engine Pre-Filter Oil Pressure - Child1  (General)	1000	0	9
+1526792416	Engine Exhaust Port 17 Temperature - Child2  (General)	1735	-273	5
+1526792417	Engine Exhaust Port 18 Temperature - Child3  (General)	1735	-273	5
+1526792418	Engine Exhaust Port 13 Temperature - Child2  (General)	1734.96875	-273	5
+1526792419	Engine Exhaust Port 14 Temperature - Child3  (General)	1734.96875	-273	5
+1526792420	Engine Exhaust Port 15 Temperature - Child2  (General)	1734.96875	-273	5
+1526792421	Engine Exhaust Port 16 Temperature - Child3  (General)	1734.96875	-273	5
+1526792422	Engine Exhaust Port 9 Temperature - Child2  (General)	1734.96875	-273	5
+1526792423	Engine Exhaust Port 10 Temperature - Child3  (General)	1734.96875	-273	5
+1526792424	Engine Exhaust Port 11 Temperature - Child2  (General)	1734.96875	-273	5
+1526792425	Engine Exhaust Port 12 Temperature - Child3  (General)	1734.96875	-273	5
+1526792426	Engine Exhaust Port 5 Temperature - Child2  (General)	1734.96875	-273	5
+1526792427	Engine Exhaust Port 6 Temperature - Child3  (General)	1734.96875	-273	5
+1526792428	Engine Exhaust Port 7 Temperature - Child2  (General)	1734.96875	-273	5
+1526792429	Engine Exhaust Port 8 Temperature - Child3  (General)	1734.96875	-273	5
+1526792430	Engine Exhaust Port 1 Temperature - Child2  (General)	1734.96875	-273	5
+1526792431	Engine Exhaust Port 2 Temperature - Child3  (General)	1734.96875	-273	5
+1526792432	Engine Exhaust Port 3 Temperature - Child2  (General)	1734.96875	-273	5
+1526792433	Engine Exhaust Port 4 Temperature - Child3  (General)	1734.96875	-273	5
+1526792434	Engine ECU Temperature - Child2  (General)	1734.96875	-273	5
+1526792435	Engine ECU Temperature - Child3  (General)	1734.96875	-273	5
+1526792436	Intake Manifold 3 Temperature - Child2  (General)	210	-40	5
+1526792437	Intake Manifold 4 Temperature - Child3  (General)	210	-40	5
+1526792438	Intake Manifold 5 Temperature - Child2  (General)	210	-40	5
+1526792439	Intake Manifold 6 Temperature - Child3  (General)	210	-40	5
+1526792440	Engine Rated Power - Child2  (General)	32127.5	0	12
+1526792441	Engine Rated Power - Child3  (General)	32127.5	0	12
+1526792442	Number of Software Identification Fields - Child2  (General)	250	0	0
+1526792443	Software Identification - Child2  (General)	0	0	0
+1526792444	Number of Software Identification Fields - Child3  (General)	250	0	0
+1526792445	Software Identification - Child3  (General)	0	0	0
+1526792446	Engine Turbocharger 1 Speed - Parent  (General)	257020	0	28
+1526792447	Engine Total Hours of Operation - Child2  (General)	210554060.75	0	7
+1526792448	Engine Total Hours of Operation - Child3  (General)	210554060.75	0	7
+1526792449	Battery Potential / Power Input 1 - Child2  (General)	3212.75	0	31
+1526792450	Battery Potential / Power Input 1 - Child3  (General)	3212.75	0	31
+1526792451	Aftertreatment 1 Diesel Exhaust Fluid Actual Dosing Quantity - Parent  (General)	72969.455865	0	13
+1526792452	Aftertreatment 1 Diesel Exhaust Fluid Actual Dosing Quantity - Child1  (General)	72969.455865	0	13
+1526792453	Aftertreatment 1 Diesel Exhaust Fluid Actual Dosing Quantity - Child2  (General)	72969.455865	0	13
+1526792454	Aftertreatment 1 Diesel Exhaust Fluid Actual Dosing Quantity - Child3  (General)	72969.455865	0	13
+1526792455	Aftertreatment 2 Diesel Exhaust Fluid Actual Dosing Quantity - Parent  (General)	72969.455865	0	13
+1526792456	Aftertreatment 2 Diesel Exhaust Fluid Actual Dosing Quantity - Child1  (General)	72969.455865	0	13
+1526792457	Aftertreatment 2 Diesel Exhaust Fluid Actual Dosing Quantity - Child2  (General)	72969.455865	0	13
+1526792458	Aftertreatment 2 Diesel Exhaust Fluid Actual Dosing Quantity - Child3  (General)	72969.455865	0	13
+1526792459	Engine Exhaust Gas Temperature - Right Manifold - Parent  (General)	1734.96875	-273	5
+1526792460	Engine Exhaust Gas Temperature - Left Manifold - Parent  (General)	1734.96875	-273	5
+1526792461	Engine Exhaust Gas Temperature - Right Manifold - Child1  (General)	1734.96875	-273	5
+1526792462	Engine Exhaust Gas Temperature - Left Manifold - Child1  (General)	1734.96875	-273	5
+1526792463	Engine Turbocharger 1 Speed - Child1  (General)	257020	0	28
+1526792464	Engine Turbocharger 1 Speed - Child2  (General)	257020	0	28
+1526792465	Engine Turbocharger 1 Speed - Child3  (General)	257020	0	28
+1526792466	Aftertreatment 1 Intake Dew Point (Exhaust Bank 1) - Parent  (General)	3	0	0
+1526792467	Aftertreatment 1 Exhaust Dew Point (Exhaust Bank 1) - Parent  (General)	3	0	0
+1526792468	Aftertreatment 2 Intake Dew Point (Exhaust Bank 2) - Parent  (General)	3	0	0
+1526792469	Aftertreatment 2 Exhaust Dew Point (Exhaust Bank 2) - Parent  (General)	3	0	0
+1526792470	Aftertreatment 1 Intake Dew Point (Exhaust Bank 1) - Child1  (General)	3	0	0
+1526792471	Aftertreatment 1 Exhaust Dew Point (Exhaust Bank 1) - Child1  (General)	3	0	0
+1526792472	Aftertreatment 2 Intake Dew Point (Exhaust Bank 2) - Child1  (General)	3	0	0
+1526792473	Aftertreatment 2 Exhaust Dew Point (Exhaust Bank 2) - Child1  (General)	3	0	0

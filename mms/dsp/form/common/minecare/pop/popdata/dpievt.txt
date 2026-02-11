@@ -1,0 +1,8 @@
+OEM interface timeout	537001952
+OEM interface normal	537001953
+Driver interface timeout	537001954
+Driver interface normal	537001955
+Engine not running	536936448
+Engine running	536936449
+Percussion off	536936450
+Percussion on	536936451

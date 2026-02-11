@@ -1,0 +1,487 @@
+1543569409	Torque/Speed Ctrl #1 - Eng Override Ctrl Mode	3	0	33
+1543569410	Torque/Speed Ctrl #1 - Eng Reqsted Speed Ctrl Conditions	3	0	33
+1543569411	Torque/Speed Ctrl #1 - Override Ctrl Mode Priority	3	0	33
+1543569412	Torque/Speed Ctrl #1 - Eng Reqsted Speed/Speed Limit	65535	0	28
+1543569413	Torque/Speed Ctrl #1 - Eng Reqsted Torque/Torque Limit	255	0	25
+1543569414	Electronic Brake Ctrller #1 - Eng Auxiliary Shutdown Switch	3	0	33
+1543569415	Electronic Eng Ctrller #2 - Eng Percent Load At Current Speed	255	0	25
+1543569416	Electronic Eng Ctrller #1 - Eng Torque Mode	15	0	33
+1543569417	Electronic Eng Ctrller #1 - Actual Eng - Percent Torque	255	0	25
+1543569418	Electronic Eng Ctrller #1 - Eng Speed	65535	0	28
+1543569419	Aftertreatment 1 Service - Particul Trap #1 Soot Load Percent	255	0	25
+1543569420	Aftertreatment 1 Service - Particul Trap #1 Ash Load Percent	255	0	25
+1543569421	Aftertreatment 1 Service - Particul Trap #1 Time Since Last Actv Regen	4294967295	0	29
+1543569422	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Lamp Commd	7	0	33
+1543569423	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Passive Regen State	3	0	33
+1543569424	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen State	3	0	33
+1543569425	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt State	7	0	33
+1543569426	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib State	3	0	33
+1543569427	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Inhibit Switch	3	0	33
+1543569428	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Clutch Disengaged	3	0	33
+1543569429	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Service Brake Actv	3	0	33
+1543569430	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Pto Actv	3	0	33
+1543569431	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Accel Pedal Off Idle	3	0	33
+1543569432	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Out Of Neutral	3	0	33
+1543569433	Dies Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Vehc Speed Abv Allwd Speed	3	0	33
+1543569434	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Parking Brake Not Set	3	0	33
+1543569435	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Low Exhaust Gas Temp	3	0	33
+1543569436	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Temporary System Lockout	3	0	33
+1543569437	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Permanent System Lockout	3	0	33
+1543569438	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Eng Not Warmed Up	3	0	33
+1543569439	Dies Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Inhib Due To Vehc Speed Blw Allwd Speed	3	0	33
+1543569440	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Automatic Actv Regen Initiation Config	3	0	33
+1543569441	Diesel Particul Filt Ctrl 1 - Exhaust System High Temp Lamp Commd	7	0	33
+1543569442	Diesel Particul Filt Ctrl 1 - Diesel Particul Filt Actv Regen Forced State	7	0	33
+1543569443	Aftertreatment Out Gas 2 - Aftertreatment Diesel Particul Filt Out Gas Temp	65535	0	4
+1543569444	Ecu Identification Information - Ecu Part Nmbr	100	0	33
+1543569445	Ecu Identification Information - Ecu Serial Nmbr	100	0	33
+1543569446	Turbocharger Information #2 - Eng Turbocharger 1 Compressor Inlet Temp	65535	0	4
+1543569447	Turbocharger Information #2 - Eng Turbocharger 2 Compressor Inlet Temp	65535	0	4
+1543569448	Fan Drive - Eng Fan Speed	65535	0	28
+1543569449	Dm1 Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569450	Dm1 Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569451	Dm1 Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569452	Dm1 Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569453	Dm1 Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569454	Dm1 Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569455	Dm1 Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569456	Dm1 Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569457	Dm2 Prev Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569458	Dm2 Prev Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569459	Dm2 Prev Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569460	Dm2 Prev Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569461	Dm2 Prev Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569462	Dm2 Prev Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569463	Dm2 Prev Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569464	Dm2 Prev Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569465	Dm5 Diagnostic Readiness - Actv Trouble Codes	255	0	33
+1543569466	Dm5 Diagnostic Readiness - Prev Actv Trouble Codes	255	0	33
+1543569467	Dm5 Diagnostic Readiness - Obd Compliance	255	0	33
+1543569468	Dm5 Diagnostic Readiness - Continuously Monitored Systems Support/State	255	0	33
+1543569469	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems Support	65535	0	33
+1543569470	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems State	65535	0	33
+1543569471	Software Identification - Nmbr Of Software Identification Fields	255	0	33
+1543569472	Electronic Eng Ctrller #3 - Nominal Friction - Percent Torque	255	0	25
+1543569473	Electronic Eng Ctrller #3 - Eng Desired Operating Speed	65535	0	28
+1543569474	Eng Config - Eng Reference Eng Torque (Eng Config)	65535	0	33
+1543569475	Eng Hours Revolutions - Eng Total Hours Of Operation	4294967295	0	7
+1543569476	Eng Hours Revolutions - Eng Total Revolutions	4294967295	0	33
+1543569477	Fuel Consumption	7	0	33
+1543569478	Fuel Consumption - Eng Total Fuel Used	4294967295	0	14
+1543569479	Component Identification - Make	100	0	33
+1543569480	Component Identification - Model	100	0	33
+1543569481	Component Identification - Serial Nmbr	100	0	33
+1543569482	Component Identification - Unit Nmbr (Power Unit)	100	0	33
+1543569483	Vehicle Identification - Vehicle Identification Nmbr	100	0	33
+1543569484	Eng Temp - Eng Coolant Temp	255	0	4
+1543569485	Eng Temp - Eng Fuel Temp	255	0	4
+1543569486	Eng Temp - Eng Oil Temp	65535	0	4
+1543569487	Eng Fluid Level/Pressure - Eng Oil Pressure	255	0	9
+1543569488	Cruise Ctrl/Vehicle Speed - Wheel-Based Vehicle Speed	65535	0	11
+1543569489	Ambient Conditions - Barometric Pressure	255	0	9
+1543569490	Ambient Conditions - Ambient Air Temp	65535	0	4
+1543569491	Inlet/Exhaust Conditions - Eng Particul Trap Inlet Pressure	255	0	9
+1543569492	Inlet/Exhaust Conditions - Eng Intake Manifold #1 Pressure	255	0	9
+1543569493	Inlet/Exhaust Conditions - Eng Intake Manifold 1 Temp	255	0	4
+1543569494	Inlet/Exhaust Conditions - Eng Air Inlet Pressure	255	0	9
+1543569495	Inlet/Exhaust Conditions - Eng Air Filt Differential Pressure	255	0	9
+1543569496	Inlet/Exhaust Conditions - Eng Exhaust Gas Temp	65535	0	4
+1543569497	Inlet/Exhaust Conditions - Eng Coolant Filt Differential Pressure	255	0	9
+1543569498	Vehicle Electrical Power #1 - Keyswitch Battery Potential	65535	0	31
+1543569499	Transmiss Fluids - Transmiss Oil Temp	65535	0	4
+1543569500	Diagnostic Device Identifier (Tla) - Diagnostic Tla (Dtla) Of Ctrller Application (Ca)	16777215	0	33
+1543569501	Jd Etcp1--Electronic Transmiss Ctrller #1 - Desired Torque Curve	255	0	33
+1543569502	Jd Etcp1--Electronic Transmiss Ctrller #1 - Bus Throttle Commd	65535	0	25
+1543569503	Jd Etcp1--Electronic Transmiss Ctrller #1 - Governor Param	255	0	33
+1543569504	Electronic Transmiss Ctrller #1 - Transmiss Driveline Engaged	3	0	33
+1543569505	Electronic Transmiss Ctrller #1 - Transmiss Torque Converter Lockup Engaged	3	0	33
+1543569506	Electronic Transmiss Ctrller #1 - Shift In Process	3	0	33
+1543569507	Electronic Transmiss Ctrller #1 - Transmiss Torque Converter Lockup Transition In Process	3	0	33
+1543569508	Electronic Transmiss Ctrller #1 - Transmiss Output Shaft Speed	65535	0	28
+1543569509	Electronic Transmiss Ctrller #1 - Percent Clutch Slip	255	0	25
+1543569510	Electronic Transmiss Ctrller #1 - Eng Momentary Overspeed Enable	3	0	33
+1543569511	Electronic Transmiss Ctrller #1 - Progressive Shift Disable	3	0	33
+1543569512	Electronic Transmiss Ctrller #1 - Momentary Eng Maximum Power Enable	3	0	33
+1543569513	Electronic Transmiss Ctrller #1 - Transmiss Input Shaft Speed	65535	0	28
+1543569514	Electronic Transmiss Ctrller #1 - Source Address Of Ctrl Device For Transmiss Ctrl	255	0	33
+1543569515	Electronic Transmiss Ctrller #2 - Transmiss Selected Gear	255	0	33
+1543569516	Electronic Transmiss Ctrller #2 - Transmiss Actual Gear Ratio	65535	0	33
+1543569517	Electronic Transmiss Ctrller #2 - Transmiss Current Gear	255	0	33
+1543569518	Electronic Transmiss Ctrller #2 - Transmiss Reqsted Range	65535	0	33
+1543569519	Electronic Transmiss Ctrller #2 - Transmiss Current Range	65535	0	33
+1543569520	Electronic Axle Ctrller #1: Eac1 - Differential Lock State - Central	3	0	33
+1543569521	Electronic Transmiss Ctrller #8 - Transmiss Torque Converter Ratio	65535	0	33
+1543569522	Electronic Transmiss Ctrller #8 - Transmiss Clutch/Converter Input Speed	65535	0	28
+1543569523	Transmiss Fluids #2 - Transmiss Oil Filt Restriction Switch	3	0	33
+1543569524	Transmiss Fluids #2 - Transmiss Oil Level Switch	3	0	33
+1543569525	Transmiss Fluids #2 - Transmiss Overheat Indicator	3	0	33
+1543569526	Transmiss Fluids #2 - Transmiss Torque Converter Oil Out Temp	65535	0	4
+1543569527	Ecu Identification Information - Ecu Part Nmbr	100	0	33
+1543569528	Ecu Identification Information - Ecu Serial Nmbr	100	0	33
+1543569529	Electronic Transmiss Ctrller 7 - Transmiss Reqsted Range Display Blank State	3	0	33
+1543569530	Electronic Transmiss Ctrller 7 - Transmiss Reqsted Range Display Flash State	3	0	33
+1543569531	Electronic Transmiss Ctrller 7 - Transmiss Ready For Brake Release	3	0	33
+1543569532	Electronic Transmiss Ctrller 7 - Actv Shift Console Indicator	3	0	33
+1543569533	Electronic Transmiss Ctrller 7 - Transmiss Eng Crank Enable	3	0	33
+1543569534	Electronic Transmiss Ctrller 7 - Transmiss Shift Inhibit Indicator	3	0	33
+1543569535	Electronic Transmiss Ctrller 7 - Transmiss Mode 4 Indicator	3	0	33
+1543569536	Electronic Transmiss Ctrller 7 - Transmiss Mode 3 Indicator	3	0	33
+1543569537	Electronic Transmiss Ctrller 7 - Transmiss Mode 2 Indicator	3	0	33
+1543569538	Electronic Transmiss Ctrller 7 - Transmiss Mode Indicator	3	0	33
+1543569539	Electronic Transmiss Ctrller 7 - Transmiss Reqsted Gear Feedback	255	0	33
+1543569540	Electronic Transmiss Ctrller 7 - Transmiss Mode 5 Indicator	3	0	33
+1543569541	Electronic Transmiss Ctrller 7 - Transmiss Mode 6 Indicator	3	0	33
+1543569542	Electronic Transmiss Ctrller 7 - Transmiss Mode 7 Indicator	3	0	33
+1543569543	Electronic Transmiss Ctrller 7 - Transmiss Mode 8 Indicator	3	0	33
+1543569544	Electronic Transmiss Ctrller 7 - Transmiss Reverse Gear Shift Inhibit State	3	0	33
+1543569545	Electronic Transmiss Ctrller 7 - Transmiss Warning Indicator	3	0	33
+1543569546	Dm1 Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569547	Dm1 Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569548	Dm1 Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569549	Dm1 Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569550	Dm1 Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569551	Dm1 Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569552	Dm1 Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569553	Dm1 Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569554	Dm2 Prev Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569555	Dm2 Prev Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569556	Dm2 Prev Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569557	Dm2 Prev Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569558	Dm2 Prev Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569559	Dm2 Prev Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569560	Dm2 Prev Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569561	Dm2 Prev Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569562	Dm5 Diagnostic Readiness - Actv Trouble Codes	255	0	33
+1543569563	Dm5 Diagnostic Readiness - Prev Actv Trouble Codes	255	0	33
+1543569564	Dm5 Diagnostic Readiness - Obd Compliance	255	0	33
+1543569565	Dm5 Diagnostic Readiness - Continuously Monitored Systems Support/State	255	0	33
+1543569566	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems Support	65535	0	33
+1543569567	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems State	65535	0	33
+1543569568	Commded Address - Identity Nmbr	2097151	0	33
+1543569569	Commded Address - Manufacturer Code	2047	0	33
+1543569570	Commded Address - Ecu Instance	7	0	33
+1543569571	Commded Address - Function Instance	31	0	33
+1543569572	Commded Address - Function	255	0	33
+1543569573	Commded Address - Vehicle System	127	0	33
+1543569574	Commded Address - Vehicle System Instance	15	0	33
+1543569575	Commded Address - Industry Group	7	0	33
+1543569576	Commded Address - Arbitrary Address Capable	1	0	33
+1543569577	Software Identification - Nmbr Of Software Identification Fields	255	0	33
+1543569578	Component Identification - Make	100	0	33
+1543569579	Component Identification - Model	100	0	33
+1543569580	Component Identification - Serial Nmbr	100	0	33
+1543569581	Component Identification - Unit Nmbr (Power Unit)	100	0	33
+1543569582	Vehicle Identification - Vehicle Identification Nmbr	100	0	33
+1543569583	Transmiss Fluids - Clutch Pressure	255	0	9
+1543569584	Transmiss Fluids - Transmiss Oil Level	255	0	25
+1543569585	Transmiss Fluids - Transmiss Filt Differential Pressure	255	0	9
+1543569586	Transmiss Fluids - Transmiss Oil Pressure	255	0	9
+1543569587	Transmiss Fluids - Transmiss Oil Temp	65535	0	4
+1543569588	Transmiss Fluids - Transmiss Oil Level High/Low	255	0	14
+1543569589	Transmiss Fluids - Transmiss Oil Level Countdown Timer	15	0	33
+1543569590	Transmiss Fluids - Transmiss Oil Level Measurement State	15	0	33
+1543569591	Diagnostic Device Identifier (Tla) - Diagnostic Tla (Dtla) Of Ctrller Application (Ca)	16777215	0	33
+1543569592	Ecu Identification Information - Ecu Part Nmbr	100	0	33
+1543569593	Ecu Identification Information - Ecu Serial Nmbr	100	0	33
+1543569594	Dm1 Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569595	Dm1 Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569596	Dm1 Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569597	Dm1 Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569598	Dm1 Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569599	Dm1 Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569600	Dm1 Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569601	Dm1 Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569602	Dm2 Prev Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569603	Dm2 Prev Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569604	Dm2 Prev Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569605	Dm2 Prev Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569606	Dm2 Prev Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569607	Dm2 Prev Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569608	Dm2 Prev Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569609	Dm2 Prev Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569610	Dm5 Diagnostic Readiness - Actv Trouble Codes	255	0	33
+1543569611	Dm5 Diagnostic Readiness - Prev Actv Trouble Codes	255	0	33
+1543569612	Dm5 Diagnostic Readiness - Obd Compliance	255	0	33
+1543569613	Dm5 Diagnostic Readiness - Continuously Monitored Systems Support/State	255	0	33
+1543569614	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems Support	65535	0	33
+1543569615	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems State	65535	0	33
+1543569616	Commded Address - Identity Nmbr	2097151	0	33
+1543569617	Commded Address - Manufacturer Code	2047	0	33
+1543569618	Commded Address - Ecu Instance	7	0	33
+1543569619	Commded Address - Function Instance	31	0	33
+1543569620	Commded Address - Function	255	0	33
+1543569621	Commded Address - Vehicle System	127	0	33
+1543569622	Commded Address - Vehicle System Instance	15	0	33
+1543569623	Commded Address - Industry Group	7	0	33
+1543569624	Commded Address - Arbitrary Address Capable	1	0	33
+1543569625	Software Identification - Nmbr Of Software Identification Fields	255	0	33
+1543569626	Component Identification - Make	100	0	33
+1543569627	Component Identification - Model	100	0	33
+1543569628	Component Identification - Serial Nmbr	100	0	33
+1543569629	Component Identification - Unit Nmbr (Power Unit)	100	0	33
+1543569630	Vehicle Identification - Vehicle Identification Nmbr	100	0	33
+1543569631	Diagnostic Device Identifier (Tla) - Diagnostic Tla (Dtla) Of Ctrller Application (Ca)	16777215	0	33
+1543569632	Cab Illumination Msg - Background Illumination Level Commd	255	0	25
+1543569633	Cab Illumination Msg - Switch Backlight Illumination Brightness (Percent)	255	0	25
+1543569634	Dm1 Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569635	Dm1 Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569636	Dm1 Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569637	Dm1 Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569638	Dm1 Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569639	Dm1 Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569640	Dm1 Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569641	Dm1 Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569642	Dm2 Prev Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569643	Dm2 Prev Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569644	Dm2 Prev Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569645	Dm2 Prev Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569646	Dm2 Prev Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569647	Dm2 Prev Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569648	Dm2 Prev Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569649	Dm2 Prev Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569650	Dm5 Diagnostic Readiness - Actv Trouble Codes	255	0	33
+1543569651	Dm5 Diagnostic Readiness - Prev Actv Trouble Codes	255	0	33
+1543569652	Dm5 Diagnostic Readiness - Obd Compliance	255	0	33
+1543569653	Dm5 Diagnostic Readiness - Continuously Monitored Systems Support/State	255	0	33
+1543569654	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems Support	65535	0	33
+1543569655	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems State	65535	0	33
+1543569656	Software Identification - Nmbr Of Software Identification Fields	255	0	33
+1543569657	Component Identification - Make	100	0	33
+1543569658	Component Identification - Model	100	0	33
+1543569659	Component Identification - Serial Nmbr	100	0	33
+1543569660	Component Identification - Unit Nmbr (Power Unit)	100	0	33
+1543569661	Vehicle Identification - Vehicle Identification Nmbr	100	0	33
+1543569662	Diagnostic Device Identifier (Tla) - Diagnostic Tla (Dtla) Of Ctrller Application (Ca)	16777215	0	33
+1543569663	Torque/Speed Ctrl #1 - Eng Override Ctrl Mode	3	0	33
+1543569664	Torque/Speed Ctrl #1 - Override Ctrl Mode Priority	3	0	33
+1543569665	Torque/Speed Ctrl #1 - Eng Reqsted Speed/Speed Limit	65535	0	28
+1543569666	Torque/Speed Ctrl #1 - Eng Reqsted Torque/Torque Limit	255	0	25
+1543569667	Torque/Speed Ctrl #1 - Tsc1 Transmiss Rate	7	0	33
+1543569668	Transmiss Ctrl #1 - Gear Shift Inhibit Reqst	3	0	33
+1543569669	Transmiss Ctrl #1 - Torque Converter Lockup Reqst	3	0	33
+1543569670	Transmiss Ctrl #1 - Disengage Driveline Reqst	3	0	33
+1543569671	Transmiss Ctrl #1 - Reqsted Percent Clutch Slip	255	0	25
+1543569672	Transmiss Ctrl #1 - Transmiss Reqsted Gear	255	0	33
+1543569673	Transmiss Ctrl #1 - Disengage Differential Lock Reqst - Central	3	0	33
+1543569674	Electronic Retarder Ctrller #1 - Actual Retarder - Percent Torque	255	0	25
+1543569675	Electronic Brake Ctrller #1 - Brake Pedal Position	255	0	25
+1543569676	Electronic Brake Ctrller #1 - Accelerator Interlock Switch	3	0	33
+1543569677	Electronic Brake Ctrller #1 - Eng Auxiliary Shutdown Switch	3	0	33
+1543569678	Electronic Transmiss Ctrller #1 - Transmiss Driveline Engaged	3	0	33
+1543569679	Electronic Transmiss Ctrller #1 - Transmiss Torque Converter Lockup Engaged	3	0	33
+1543569680	Electronic Transmiss Ctrller #1 - Shift In Process	3	0	33
+1543569681	Electronic Transmiss Ctrller #1 - Transmiss Torque Converter Lockup Transition In Process	3	0	33
+1543569682	Electronic Transmiss Ctrller #1 - Transmiss Output Shaft Speed	65535	0	28
+1543569683	Electronic Transmiss Ctrller #1 - Percent Clutch Slip	255	0	25
+1543569684	Electronic Transmiss Ctrller #1 - Eng Momentary Overspeed Enable	3	0	33
+1543569685	Electronic Transmiss Ctrller #1 - Progressive Shift Disable	3	0	33
+1543569686	Electronic Transmiss Ctrller #1 - Momentary Eng Maximum Power Enable	3	0	33
+1543569687	Electronic Transmiss Ctrller #1 - Transmiss Input Shaft Speed	65535	0	28
+1543569688	Electronic Transmiss Ctrller #1 - Source Address Of Ctrl Device For Transmiss Ctrl	255	0	33
+1543569689	Electronic Eng Ctrller #2 - Accelerator Pedal Position	255	0	25
+1543569690	Electronic Eng Ctrller #2 - Eng Percent Load At Current Speed	255	0	25
+1543569691	Electronic Eng Ctrller #2 - Diesel Particul Filt Thermal Managmt Actv	3	0	33
+1543569692	Electronic Eng Ctrller #1 - Actual Eng - Percent Torque	255	0	25
+1543569693	Electronic Eng Ctrller #1 - Eng Speed	65535	0	28
+1543569694	Electronic Eng Ctrller #1 - Eng Starter Mode	15	0	33
+1543569695	Electronic Transmiss Ctrller #2 - Transmiss Selected Gear	255	0	33
+1543569696	Electronic Transmiss Ctrller #2 - Transmiss Current Gear	255	0	33
+1543569697	Electronic Axle Ctrller #1: Eac1 - Differential Lock State - Central	3	0	33
+1543569698	Hydraulic Oil Properties - Hydraulic Oil Temp (High Resolution)	65535	0	4
+1543569699	Diesel Particul Filt Ctrl - Diesel Particul Filt Lamp Commd	7	0	33
+1543569700	Diesel Particul Filt Ctrl - Diesel Particul Filt Passive Regen State	3	0	33
+1543569701	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen State	3	0	33
+1543569702	Diesel Particul Filt Ctrl - Diesel Particul Filt State	7	0	33
+1543569703	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib State	3	0	33
+1543569704	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Inhibit Switch	3	0	33
+1543569705	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Clutch Disengaged	3	0	33
+1543569706	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Service Brake Actv	3	0	33
+1543569707	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Pto Actv	3	0	33
+1543569708	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Accelerator Pedal Off Idle	3	0	33
+1543569709	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Out Of Neutral	3	0	33
+1543569710	Dies Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Vehc Speed Abv Allowed Speed	3	0	33
+1543569711	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Parking Brake Not Set	3	0	33
+1543569712	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Low Exhaust Gas Temp	3	0	33
+1543569713	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To System Fault Actv	3	0	33
+1543569714	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To System Timeout	3	0	33
+1543569715	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Temporary System Lockout	3	0	33
+1543569716	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Permanent System Lockout	3	0	33
+1543569717	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Eng Not Warmed Up	3	0	33
+1543569718	Dies Particul Filt Ctrl - Diesel Particul Filt Actv Regen Inhib Due To Vehc Speed Below Allwd Speed	3	0	33
+1543569719	Diesel Particul Filt Ctrl - Diesel Particul Filt Automatic Actv Regen Initiation Config	3	0	33
+1543569720	Diesel Particul Filt Ctrl - Exhaust System High Temp Lamp Commd	7	0	33
+1543569721	Diesel Particul Filt Ctrl - Diesel Particul Filt Actv Regen Forced State	7	0	33
+1543569722	Transmiss Fluids #2 - Transmiss Torque Converter Oil Out Temp	65535	0	4
+1543569723	Ecu Identification Information - Ecu Part Nmbr	100	0	33
+1543569724	Ecu Identification Information - Ecu Serial Nmbr	100	0	33
+1543569725	Lighting Data - Daytime Running Lights	3	0	33
+1543569726	Lighting Data - Alternate Headlights	3	0	33
+1543569727	Lighting Data - Low Beam Headlights	3	0	33
+1543569728	Lighting Data - High Beam Headlights	3	0	33
+1543569729	Lighting Data - Tractor Front Fog Lights	3	0	33
+1543569730	Lighting Data - Rotating Beacon Light	3	0	33
+1543569731	Lighting Data - Right Turn Signal Lights	3	0	33
+1543569732	Lighting Data - Left Turn Signal Lights	3	0	33
+1543569733	Lighting Data - Back Up Lights And Alarm Horn	3	0	33
+1543569734	Lighting Data - Center Stop Lights	3	0	33
+1543569735	Lighting Data - Right Stop Light	3	0	33
+1543569736	Lighting Data - Left Stop Light	3	0	33
+1543569737	Electronic Transmiss Ctrller 7 - Transmiss Mode 4 Indicator	3	0	33
+1543569738	Electronic Transmiss Ctrller 7 - Transmiss Mode 3 Indicator	3	0	33
+1543569739	Electronic Transmiss Ctrller 7 - Transmiss Mode 2 Indicator	3	0	33
+1543569740	Electronic Transmiss Ctrller 7 - Transmiss Mode Indicator	3	0	33
+1543569741	Vehicle Fluids - Hydraulic Oil Filt Restriction Switch	3	0	33
+1543569742	Air Supply Pressure - Pneumatic Supply Pressure	255	0	9
+1543569743	High Resolution Vehicle Distance - High Resolution Total Vehicle Distance	4294967295	0	17
+1543569744	High Resolution Vehicle Distance - High Resolution Trip Distance	4294967295	0	17
+1543569745	Dm1 Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569746	Dm1 Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569747	Dm1 Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569748	Dm1 Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569749	Dm1 Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569750	Dm1 Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569751	Dm1 Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569752	Dm1 Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569753	Dm2 Prev Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569754	Dm2 Prev Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569755	Dm2 Prev Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569756	Dm2 Prev Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569757	Dm2 Prev Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569758	Dm2 Prev Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569759	Dm2 Prev Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569760	Dm2 Prev Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569761	Dm5 Diagnostic Readiness - Actv Trouble Codes	255	0	33
+1543569762	Dm5 Diagnostic Readiness - Prev Actv Trouble Codes	255	0	33
+1543569763	Dm5 Diagnostic Readiness - Obd Compliance	255	0	33
+1543569764	Dm5 Diagnostic Readiness - Continuously Monitored Systems Support/State	255	0	33
+1543569765	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems Support	65535	0	33
+1543569766	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems State	65535	0	33
+1543569767	Commded Address - Identity Nmbr	2097151	0	33
+1543569768	Commded Address - Manufacturer Code	2047	0	33
+1543569769	Commded Address - Ecu Instance	7	0	33
+1543569770	Commded Address - Function Instance	31	0	33
+1543569771	Commded Address - Function	255	0	33
+1543569772	Commded Address - Vehicle System	127	0	33
+1543569773	Commded Address - Vehicle System Instance	15	0	33
+1543569774	Commded Address - Industry Group	7	0	33
+1543569775	Commded Address - Arbitrary Address Capable	1	0	33
+1543569776	Software Identification - Nmbr Of Software Identification Fields	255	0	33
+1543569777	Electronic Eng Ctrller #3 - Nominal Friction - Percent Torque	255	0	25
+1543569778	Shutdown - Eng Protection System Has Shutdown Eng	3	0	33
+1543569779	Eng Hours Revolutions - Eng Total Hours Of Operation	4294967295	0	7
+1543569780	Component Identification - Make	100	0	33
+1543569781	Component Identification - Model	100	0	33
+1543569782	Component Identification - Serial Nmbr	100	0	33
+1543569783	Component Identification - Unit Nmbr (Power Unit)	100	0	33
+1543569784	Vehicle Identification - Vehicle Identification Nmbr	100	0	33
+1543569785	Eng Temp - Eng Coolant Temp	255	0	4
+1543569786	Eng Temp - Eng Fuel Temp	255	0	4
+1543569787	Cruise Ctrl/Vehicle Speed - Cruise Ctrl Enable Switch	3	0	33
+1543569788	Ambient Conditions - Barometric Pressure	255	0	9
+1543569789	Ambient Conditions - Eng Air Intake Temp	255	0	4
+1543569790	Inlet/Exhaust Conditions - Eng Air Inlet Pressure	255	0	9
+1543569791	Transmiss Fluids - Transmiss Oil Pressure	255	0	9
+1543569792	Transmiss Fluids - Transmiss Oil Temp	65535	0	4
+1543569793	Brakes - Parking Brake Actuator	3	0	33
+1543569794	Brakes - Park Brake Release Inhibit State	3	0	33
+1543569795	Retarder Fluids - Hydraulic Retarder Oil Temp	255	0	4
+1543569796	Dash Display - Fuel Level	255	0	25
+1543569797	Diagnostic Device Identifier (Tla) - Diagnostic Tla (Dtla) Of Ctrller Application (Ca)	16777215	0	33
+1543569798	Electronic Retarder Ctrller #1 - Retarder Torque Mode	15	0	33
+1543569799	Electronic Retarder Ctrller #1 - Retarder Enable - Brake Assist Switch	3	0	33
+1543569800	Electronic Retarder Ctrller #1 - Retarder Enable - Shift Assist Switch	3	0	33
+1543569801	Electronic Retarder Ctrller #1 - Actual Retarder - Percent Torque	255	0	25
+1543569802	Electronic Retarder Ctrller #1 - Intended Retarder Percent Torque	255	0	25
+1543569803	Electronic Retarder Ctrller #1 - Eng Coolant Load Increase	3	0	33
+1543569804	Electronic Retarder Ctrller #1 - Retarder Reqsting Brake Light	3	0	33
+1543569805	Electronic Retarder Ctrller #1 - Source Address Of Ctrl Device For Retarder Ctrl	255	0	33
+1543569806	Electronic Retarder Ctrller #1 - Drivers Demand Retarder - Percent Torque	255	0	25
+1543569807	Electronic Retarder Ctrller #1 - Retarder Selection Non-Eng	255	0	25
+1543569808	Electronic Retarder Ctrller #1 - Actual Maximum Available Retarder - Percent Torque	255	0	25
+1543569809	Retarder Config - Retarder Type	15	0	33
+1543569810	Retarder Config - Retarder Location	15	0	33
+1543569811	Retarder Config - Retarder Ctrl Method (Retarder Config)	255	0	33
+1543569812	Retarder Config - Retarder Speed At Idle Point 1 (Retarder Config)	65535	0	28
+1543569813	Retarder Config - Percent Torque At Idle Point 1 (Retarder Config)	255	0	25
+1543569814	Retarder Config - Maximum Retarder Speed Point #2 (Retarder Config)	65535	0	28
+1543569815	Retarder Config - Percent Torque At Maximum Speed Point #2 (Retarder Config)	255	0	25
+1543569816	Retarder Config - Retarder Speed At Point #3 (Retarder Config)	65535	0	28
+1543569817	Retarder Config - Percent Torque At Point #3 (Retarder Config)	255	0	25
+1543569818	Retarder Config - Retarder Speed At Point 4 (Retarder Config)	65535	0	28
+1543569819	Retarder Config - Percent Torque At Point 4 (Retarder Config)	255	0	25
+1543569820	Retarder Config - Retarder Speed At Peak Torque Point 5 (Retarder Config)	65535	0	28
+1543569821	Retarder Config - Reference Retarder Torque (Retarder Config)	65535	0	33
+1543569822	Retarder Config - Percent Torque At Peak Torque Point 5 (Retarder Config)	255	0	25
+1543569823	Retarder Fluids - Hydraulic Retarder Pressure	255	0	9
+1543569824	Retarder Fluids - Hydraulic Retarder Oil Temp	255	0	4
+1543569825	Retarder Fluids - Driveline Retarder Overheat Indicator	3	0	33
+1543569826	Auxiliary Valve 7 Estimated Flow - Auxiliary Valve 7 Extend Port Estimated Flow	255	0	25
+1543569827	Auxiliary Valve 7 Estimated Flow - Auxiliary Valve 7 Retract Port Estimated Flow	255	0	25
+1543569828	Auxiliary Valve 7 Estimated Flow - Auxiliary Valve 7 State	15	0	33
+1543569829	Auxiliary Valve 7 Estimated Flow - Auxiliary Valve 7 Fail Safe Mode	3	0	33
+1543569830	Auxiliary Valve 7 Estimated Flow - Auxiliary Valve 7 Estimated Flow Limit State	7	0	33
+1543569831	Cab Illumination Msg - Background Illumination Level Commd	255	0	25
+1543569832	Dm1 Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569833	Dm1 Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569834	Dm1 Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569835	Dm1 Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569836	Dm1 Actv Diagnostic Trouble Codes - Flash Protect Lamp	3	0	33
+1543569837	Dm1 Actv Diagnostic Trouble Codes - Flash Amber Warning Lamp (Awl)	3	0	33
+1543569838	Dm1 Actv Diagnostic Trouble Codes - Flash Red Stop Lamp (Rsl)	3	0	33
+1543569839	Dm1 Actv Diagnostic Trouble Codes - Flash Malfunction Indicator Lamp (Mil)	3	0	33
+1543569840	Dm1 Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569841	Dm1 Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569842	Dm1 Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569843	Dm1 Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569844	Dm2 Prev Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569845	Dm2 Prev Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569846	Dm2 Prev Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569847	Dm2 Prev Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569848	Dm2 Prev Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569849	Dm2 Prev Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569850	Dm2 Prev Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569851	Dm2 Prev Actv Diagnostic Trouble Codes - Spn Conversion Method	1	0	33
+1543569852	Dm5 Diagnostic Readiness - Actv Trouble Codes	255	0	33
+1543569853	Dm5 Diagnostic Readiness - Prev Actv Trouble Codes	255	0	33
+1543569854	Dm5 Diagnostic Readiness - Obd Compliance	255	0	33
+1543569855	Dm5 Diagnostic Readiness - Continuously Monitored Systems Support/State	255	0	33
+1543569856	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems Support	65535	0	33
+1543569857	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems State	65535	0	33
+1543569858	Software Identification - Nmbr Of Software Identification Fields	255	0	33
+1543569859	Software Identification - Software Identification	100	0	33
+1543569860	Cruise Ctrl/Vehicle Speed - Wheel-Based Vehicle Speed	65535	0	11
+1543569861	Diagnostic Device Identifier (Tla) - Diagnostic Tla (Dtla) Of Ctrller Application (Ca)	16777215	0	33
+1543569862	Dm1 Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569863	Dm1 Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569864	Dm1 Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569865	Dm1 Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569866	Dm1 Actv Diagnostic Trouble Codes - Flash Protect Lamp	3	0	33
+1543569867	Dm1 Actv Diagnostic Trouble Codes - Flash Amber Warning Lamp (Awl)	3	0	33
+1543569868	Dm1 Actv Diagnostic Trouble Codes - Flash Red Stop Lamp (Rsl)	3	0	33
+1543569869	Dm1 Actv Diagnostic Trouble Codes - Flash Malfunction Indicator Lamp (Mil)	3	0	33
+1543569870	Dm1 Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569871	Dm1 Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569872	Dm1 Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569873	Dm2 Prev Actv Diagnostic Trouble Codes - Protect Lamp	3	0	33
+1543569874	Dm2 Prev Actv Diagnostic Trouble Codes - Amber Warning Lamp	3	0	33
+1543569875	Dm2 Prev Actv Diagnostic Trouble Codes - Red Stop Lamp	3	0	33
+1543569876	Dm2 Prev Actv Diagnostic Trouble Codes - Malfunction Indicator Lamp	3	0	33
+1543569877	Dm2 Prev Actv Diagnostic Trouble Codes - Suspect Param Nmbr	524287	0	33
+1543569878	Dm2 Prev Actv Diagnostic Trouble Codes - Failure Mode Identifier (Fmi)	31	0	33
+1543569879	Dm2 Prev Actv Diagnostic Trouble Codes - Occurrence Count	127	0	33
+1543569880	Dm5 Diagnostic Readiness - Actv Trouble Codes	255	0	33
+1543569881	Dm5 Diagnostic Readiness - Prev Actv Trouble Codes	255	0	33
+1543569882	Dm5 Diagnostic Readiness - Obd Compliance	255	0	33
+1543569883	Dm5 Diagnostic Readiness - Continuously Monitored Systems Support/State	255	0	33
+1543569884	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems Support	65535	0	33
+1543569885	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems State	65535	0	33
+1543569886	Software Identification - Nmbr Of Software Identification Fields	255	0	33
+1543569887	Software Identification - Software Identification	100	0	33
+1543569888	Cruise Ctrl/Vehicle Speed - Wheel-Based Vehicle Speed	65535	0	11
+1543569889	Diagnostic Device Identifier (Tla) - Diagnostic Tla (Dtla) Of Ctrller Application (Ca)	16777215	0	33
+1543569890	Dm5 Diagnostic Readiness - Actv Trouble Codes	255	0	33
+1543569891	Dm5 Diagnostic Readiness - Prev Actv Trouble Codes	255	0	33
+1543569892	Dm5 Diagnostic Readiness - Obd Compliance	255	0	33
+1543569893	Dm5 Diagnostic Readiness - Continuously Monitored Systems Support/State	255	0	33
+1543569894	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems Support	65535	0	33
+1543569895	Dm5 Diagnostic Readiness - Non-Continuously Monitored Systems State	65535	0	33

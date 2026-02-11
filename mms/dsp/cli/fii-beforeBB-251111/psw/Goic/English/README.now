@@ -1,0 +1,6 @@
+The Status menus and the equipment menus are generated through
+a utility. They are not checked in. They are generated on site from
+PITDAT information. In addition, the Location menus are generated
+dynamically by the gc_menud and loaded to the GCs on powerup or request.
+The only file of these that is checked in is the one that that all
+the others are linked to.

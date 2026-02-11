@@ -1,0 +1,686 @@
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1997
+..               All Rights Reserved
+..  $RCSfile: gpshpdr_geodata_exprs.frm.with.new.color.convention,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:13 $
+..    $State: Exp $
+..
+.. Format for drill-pattern file (each line represents a hole):
+..
+.. %s %d %s %f %f %f %d %d
+..
+.. Field 1: pattern ID
+.. Field 2: pattern elevation
+.. Field 3: hole ID
+.. Field 4: desired X coordinate
+.. Field 5: desired Y coordinate
+.. Field 6: desired Z coordinate
+.. Field 7: hardness
+.. Field 8: number in planned drilling sequence
+..
+.vint geo_fd
+.vint geosh_fd
+..
+.if !DEFINED("GEODRMAXHOLES")
+.include gps_config
+.include db_geo
+.init db_geo
+.endif
+..
+.include geodr_config
+.init configure_minesize
+..
+.include geo_cli_patterns
+..
+.init \
+  geo_fd := geo_data_open("DSP_OPNS/", "w"),
+  geo_drill_bind(geo_fd)
+..
+.equ linenum, pattid, pattelev, holeid, xplan, yplan, zplan, hardness, sequence, lastin
+.vany in.lastin
+.total holes(nil).lastin
+..
+.vbool okay
+.vbool dummy
+.vbool had_errors
+.vint fderr
+.vstr current_pattern
+..
+.expr mymin(x1, x2) \
+  x1 = nil | x2 < x1 ?
+    return( x2 ) :
+    return( x1 )
+..
+.expr mymax(x1, x2) \
+  x1 = nil | x2 > x1 ?
+    return( x2 ) :
+    return( x1 )
+..
+.expr mymod(a, b) \
+  a - b * int ( a / b )
+..
+.expr pattern_from_id(patt) \
+  SUBSTR(patt, 0, STRPOS(patt, GEODRSEPARATOR))
+..
+.. Find whether a pattern exists in geodata.ddb:
+..
+.expr pattern_exists(patt) \
+  loop( DRPATT$ID.* ) ..(
+    pattern_from_id(DRPATT$ID) = patt ?
+     return( 1 )
+  ),
+  return( 0 ) 
+..
+.. Find whether a pattern exists in geoyymmdds.ddb:
+..
+.expr shpattern_exists(patt) \
+  loop( SHPATT$ID.* ) ..(
+    pattern_from_id(SHPATT$ID) = patt ?
+     return( 1 )
+  ),
+  return( 0 ) 
+..
+.. Grabs the record index part of a pattern ID:
+..
+.expr pattern_index(patt) \
+  int SUBSTR(patt, STRPOS(patt, GEODRSEPARATOR)+1, GEOSUFXLEN)
+..
+..Finds the index of an existing hole in geodata.ddb:
+..
+.expr geofindhole(patt, hole) \
+  loop( DRPATT$ID.(pattern_from_id(DRPATT$ID) = patt) ) ..(
+    loop( GEODRMAXHOLES ) ..(
+      DRPATT$HOLENUM.* = hole ?
+        return( * )
+    )
+  ),
+  return( nil )
+..
+..Finds the index of an existing hole in geoyymmdds.ddb:
+..
+.expr geoshfindhole(patt, hole) \
+  loop( SHPATT$ID.(pattern_from_id(SHPATT$ID) = patt) ) ..(
+    loop( GEODRMAXHOLES ) ..(
+      SHPATT$HOLENUM.* = hole ?
+        return( * )
+    )
+  ),
+  return( nil )
+..
+.. Finds an empty hole slot in an existing pattern in geodata.ddb;
+.. if they're all full, creates a new pattern record:
+..
+.expr geofind_empty_hole(patt) \
+  loop( DRPATT$ID.( pattern_from_id(DRPATT$ID) = patt) ) ..(
+    savepatt := DRPATT$ID,
+    loop( GEODRMAXHOLES ) ..(
+      DRPATT$HOLENUM.* = nil ?
+        return( * )
+    )
+  ),
+  !DRPATT$ID( savepatt ) ?
+    return( nil ),
+  ..
+  saveelev     := DRPATT$ELEV,
+  savenumholes := DRPATT$NUMHOLES,
+  savexmin     := DRPATT$XMIN,
+  savexmax     := DRPATT$XMAX,
+  saveymin     := DRPATT$YMIN,
+  saveymax     := DRPATT$YMAX,
+  ..
+  DRPATT$ID := pattern_from_id(savepatt) +
+               GEODRSEPARATOR +
+               (pattern_index(savepatt) + 1)[GEODRSUFXFMT],
+  DRPATT$ELEV     := saveelev,
+  DRPATT$NUMHOLES := savenumholes,
+  DRPATT$XMIN     := savexmin,
+  DRPATT$XMAX     := savexmax,
+  DRPATT$YMIN     := saveymin,
+  DRPATT$YMAX     := saveymax,
+  ..
+  return( 0 )
+..
+.. Orphaned holes don't have IDs, so find the next
+.. available hole ID (of the form "n*") and the slot to put it in:
+..
+.expr geofind_empty_orphan(patt) \
+  n := 0,
+  loop( DRPATT$ID.( pattern_from_id(DRPATT$ID) = patt) ) ..(
+    savepatt := DRPATT$ID,
+    loop( GEODRMAXHOLES ) ..(
+      DRPATT$HOLENUM.* = nil ?
+        (
+        DRPATT$HOLENUM.* := (n)[%04d*],
+        return( * )
+        ) :
+      (thisn := int DRPATT$HOLENUM.*) = n ?
+        n := n + 1
+    )
+  ),
+  ..
+  DRPATT$ID := patt + GEODRSEPARATOR + (0)[GEODRSUFXFMT],
+  DRPATT$HOLENUM.* := (n)[%04d*],
+  ..
+  return( 0 )
+..
+.. Finds an empty hole slot in an existing pattern in geoyymmdds.ddb;
+.. if they're all full, or the pattern doesn't exist,
+.. creates a new pattern record:
+..
+.expr geoshfind_empty_hole(patt) \
+  .. Pattern exists, has empty slot:
+  loop( SHPATT$ID.( pattern_from_id(SHPATT$ID) = patt) ) ..(
+    savepatt := SHPATT$ID,
+    loop( GEODRMAXHOLES ) ..(
+      SHPATT$HOLENUM.* = nil ?
+        return( * )
+    )
+  ),
+  ..
+  .. Pattern doesn't exist--create:
+  !SHPATT$ID( savepatt ) ?
+    (
+    SHPATT$ID := patt + GEODRSEPARATOR + (0)[GEODRSUFXFMT],
+    return( 0 )
+    ),
+  ..
+  .. Pattern exists, but full--create another record:
+  saveelev := SHPATT$ELEV,
+  SHPATT$ID := patt +
+               GEODRSEPARATOR +
+               (pattern_index(savepatt) + 1)[GEODRSUFXFMT],
+  SHPATT$ELEV := saveelev,
+  return( 0 )
+..
+.expr geo_wipeout_hole(index) \
+  DRPATT$HOLENUM.index  := nil,
+  DRPATT$XPLAN.index    := nil,
+  DRPATT$YPLAN.index    := nil,
+  DRPATT$ZPLAN.index    := nil,
+  DRPATT$XACTUAL.index  := nil,
+  DRPATT$YACTUAL.index  := nil,
+  DRPATT$ZACTUAL.index  := nil,
+  DRPATT$DRILLED.index  := nil,
+  DRPATT$SEQUENCE.index := nil,
+  DRPATT$HARDNESS.index := nil,
+  DRPATT$GPSCOUNT.index := nil,
+  DRPATT$DRILL.index    := nil
+..
+.expr geosh_wipeout_hole(index) \
+  SHPATT$HOLENUM.index  := nil,
+  SHPATT$XPLAN.index    := nil,
+  SHPATT$YPLAN.index    := nil,
+  SHPATT$ZPLAN.index    := nil,
+  SHPATT$XACTUAL.index  := nil,
+  SHPATT$YACTUAL.index  := nil,
+  SHPATT$ZACTUAL.index  := nil,
+  SHPATT$DRILLED.index  := nil,
+  SHPATT$SEQUENCE.index := nil,
+  SHPATT$HARDNESS.index := nil,
+  SHPATT$GPSCOUNT.index := nil,
+  SHPATT$DRILL.index    := nil
+..
+.expr geo_drilledout(patt) \
+  loop( DRPATT$ID.(pattern_from_id(DRPATT$ID) = patt) ) ..(
+    loop( GEODRMAXHOLES )
+      DRPATT$HOLENUM.* & !DRPATT$DRILLED.* ?
+        return( 0 )
+    )
+  ),
+  return( 1 )
+..
+.expr geo_update_pattern_bounds(patt, minx, maxx, miny, maxy) \
+  loop( DRPATT$ID.( pattern_from_id(DRPATT$ID) = patt) ) ..(
+    DRPATT$XMIN := nvl(minx, DRPATT$XMIN),
+    DRPATT$XMAX := nvl(maxx, DRPATT$XMAX),
+    DRPATT$YMIN := nvl(miny, DRPATT$YMIN),
+    DRPATT$YMAX := nvl(maxy, DRPATT$YMAX)
+  )
+..
+.expr geo_update_pattern_numholes(patt, adj) \
+  adj = nil ?
+    return,
+  loop( DRPATT$ID.( pattern_from_id(DRPATT$ID) = patt) ) ..(
+    DRPATT$NUMHOLES := DRPATT$NUMHOLES + adj
+  )
+..
+.expr write_err(lineno, mesg, *flag) \
+  !fderr ? return, 
+  writestr :=
+    language = "spanish" ?
+      (lineno, mesg)[line %4d: %s\n] :
+      (lineno, mesg)[línea %4d: %s\n],
+  WRITE(fderr, writestr),
+  flag := 0,
+  had_errs := 1
+..
+.expr create_drpatt() \
+  ..
+  !pattern_exists(current_pattern) ?
+    .. If this is a completely new pattern,
+    .. we can fill it up efficiently:
+    (
+    .. Get limits of bounding rectangle:
+    xmin := xmax := ymin := ymax := nil,
+    count := 0,
+    loop( holes("name").* ) ..(
+      count := count + 1,
+      xmin := mymin(xmin, holes.xplan),
+      xmax := mymax(xmax, holes.xplan),
+      ymin := mymin(ymin, holes.yplan),
+      ymax := mymax(ymax, holes.yplan)
+    ),
+    ..
+    loop( holes("name").* ) ..(
+      holecount := mymod(*, GEODRMAXHOLES),
+      holecount = 0 ?
+        (
+        pattcount := int */GEODRMAXHOLES,
+        DRPATT$ID       := holes.pattid + GEODRSEPARATOR + (pattcount)[GEODRSUFXFMT],
+        DRPATT$ELEV     := holes.pattelev,
+        DRPATT$NUMHOLES := count,
+        DRPATT$XMIN     := xmin,
+        DRPATT$XMAX     := xmax,
+        DRPATT$YMIN     := ymin,
+        DRPATT$YMAX     := ymax
+        ),
+      ..
+      DRPATT$HOLENUM.holecount  := holes.holeid,
+      DRPATT$XPLAN.holecount    := holes.xplan,
+      DRPATT$YPLAN.holecount    := holes.yplan,
+      DRPATT$ZPLAN.holecount    := holes.zplan,
+      DRPATT$SEQUENCE.holecount := holes.sequence,
+      DRPATT$HARDNESS.holecount := holes.hardness
+    )
+    ) :
+    .. If we're adding to an existing pattern,
+    .. the process is a little more laborious:
+    (
+    xmin  := DRPATT$XMIN,
+    xmax  := DRPATT$XMAX,
+    ymin  := DRPATT$YMIN,
+    ymax  := DRPATT$YMAX,
+    count := 0,
+    ..
+    loop( holes("name").* ) ..(
+      geofindhole(holes.pattid, holes.holeid) ??
+        write_err(holes.linenum, (holes.pattid, holes.holeid)[Pattern %s hole %s already exists.], dummy) :
+        (
+        nextindex := geofind_empty_hole(holes.pattid),
+        DRPATT$HOLENUM.nextindex  := holes.holeid,
+        DRPATT$XPLAN.nextindex    := holes.xplan,
+        DRPATT$YPLAN.nextindex    := holes.yplan,
+        DRPATT$ZPLAN.nextindex    := holes.zplan,
+        DRPATT$SEQUENCE.nextindex := holes.sequence,
+        DRPATT$HARDNESS.nextindex := holes.hardness,
+        count := count + 1,
+        xmin := mymin(xmin, holes.xplan),
+        xmax := mymax(xmax, holes.xplan),
+        ymin := mymin(ymin, holes.yplan),
+        ymax := mymax(ymax, holes.yplan)
+        )
+    ),
+    geo_update_pattern_numholes(current_pattern, count),
+    geo_update_pattern_bounds(current_pattern, xmin, xmax, ymin, ymax)
+    )
+..
+.expr import_mms_patterns(geofd, pattfile) \
+  !geofd ? return,
+  ..
+  errfile := GEO_PATTERNERR,
+  fderr := OPEN(errfile, "w"),
+  fderr ?
+    (
+    writestr :=
+      language = "spanish" ?
+        (CLOCK.0, CLOCK, pattfile)[%s %h Importando archivo de patrones %s\n\n] :
+        (CLOCK.0, CLOCK, pattfile)[%s %h Importing pattern file %s\n\n],
+    WRITE(fderr, writestr)
+    ),
+  ..
+  fdpatt := OPEN(pattfile, "r"),
+  fdpatt = nil ?
+    (
+    diagstr :=
+      language = "spanish" ?
+        (pattfile)[¡No se puede abrir archivo de patrones %s!] :
+        (pattfile)[Can\'t open pattern file %s!],
+    DIAG(diagstr),
+    fderr ?
+      WRITE(fderr, diagstr),
+    WAIT := 4,
+    return
+    ),
+  ..
+  diagstr :=
+    language = "spanish" ?
+      "Convirtiendo datos de patrón..." :
+      "Converting pattern data...",
+  DIAG(diagstr),
+  loop( lastin ) ..(
+    in.* := nil
+  ),
+  holes("zap") := 1,
+  current_pattern := nil,
+  had_errs := 0,
+  ..
+  loop( READ(fdpatt,
+             "%s %d %s %f %f %f %d %d",
+             in.pattid,
+             in.pattelev,
+             in.holeid,
+             in.xplan,
+             in.yplan,
+             in.zplan,
+             in.hardness,
+             in.sequence
+            ).* ) ..(
+    ..
+    .. A little data validation:
+    ..
+    okay := 1,
+    ..
+    .. Pattern ID:
+    ..
+    in.pattid = nil ?
+      (
+      errstr :=
+        language = "spanish" ?
+          "No se encontró nombre de patrón." :
+          "Pattern ID missing.",
+      write_err(*, errstr, okay)
+      ) :
+    ..
+    STRLEN(in.pattid) > GEODRPATTID ?
+      (
+      errstr :=
+        language = "spanish" ?
+          (GEODRPATTID)[Nombre de patrón demasiado largo (máximo de %d caracteres).] :
+          (GEODRPATTID)[Pattern ID too long (maximum of %d characters).],
+      write_err(*, errstr, okay)
+      ) :
+    ..
+    !gpshpdr_check_pattern_format(in.pattid) ?
+      (
+      errstr :=
+        language = "spanish" ?
+          (in.pattid)[Nombre de patrón %s no se conforma con el formato.] :
+          (in.pattid)[Pattern ID %s doesn\'t conform to format.],
+      write_err(*, errstr, okay)
+      ) :
+    ..
+    okay ?
+      (
+      ..
+      .. Hole ID:
+      ..
+      in.holeid = nil ?
+        (
+        errstr :=
+          language = "spanish" ?
+            "No se encuentra nombre de pozo." :
+            "Hole ID missing.",
+        write_err(*, errstr, okay)
+        ) :
+      ..
+      STRLEN(in.holeid) > GEODRHOLENUM ?
+        (
+        errstr :=
+          language = "spanish" ?
+            (GEODRHOLENUM)[Nombre de pozo demasiado largo (máximo de %d caracteres).] :
+            (GEODRHOLENUM)[Hole number too long (maximum of %d characters).],
+        write_err(*, errstr, okay)
+        ),
+      ..
+      !gpshpdr_check_hole_format(in.holeid) ?
+        (
+        errstr :=
+          language = "spanish" ?
+            (in.holeid)[Número de pozo %s no se conforma con el formato.] :
+            (in.holeid)[Hole number %s doesn\'t conform to format.],
+        write_err(*, errstr, okay)
+        ),
+      ..
+      .. Plan coordinates:
+      ..
+      xerrstr :=
+        language = "spanish" ?
+             "No se encuentra coordenada X." :
+             "X coordinate missing.",
+      yerrstr :=
+        language = "spanish" ?
+             "No se encuentra coordenada Y." :
+             "Y coordinate missing.",
+      zerrstr :=
+        language = "spanish" ?
+             "No se encuentra coordenada Z." :
+             "Z coordinate missing.",
+      in.xplan = nil ?
+        write_err(*, xerrstr, okay) :
+      in.yplan = nil ?
+        write_err(*, yerrstr, okay) :
+      in.zplan = nil ?
+        write_err(*, zerrstr, okay)
+      ),
+    ..
+    in.pattid <> current_pattern ?
+      (
+      current_pattern ??
+        create_drpatt(),
+      current_pattern := in.pattid,
+      holes("zap") := 1
+      ),
+    okay ?
+      (
+      holes("create") := in.pattid + in.holeid,
+      loop( lastin ) ..(
+        holes.* := in.*
+      ),
+      holes.linenum := *
+      )
+  ),
+  okay ?
+    (
+    current_pattern := in.pattid,
+    create_drpatt()
+    ),
+  ..
+  diagstr :=
+    language = "spanish" ?
+      (pattfile)[%s importado] :
+      (pattfile)[Imported %s],
+  DIAG(diagstr),
+  WAIT := 2,
+  had_errs & fderr ?
+    (
+    diagstr :=
+      language = "spanish" ?
+        (errfile)[Hay errores--ver %s] :
+        (errfile)[There were some errors--check %s],
+    DIAG(diagstr),
+    WAIT := 4
+    )
+..
+.. Initializes the pattern quadtree:
+..
+.expr init_patternqt() \
+  GEO$CONFIGUREMAP(GEO_PATTERN_PROPS, int (GEO_MAPSIZE*GEO_PLANEMINESCALE), 
+                   4, int (GEO_MAPORIGINX*GEO_PLANEMINESCALE), 
+		   int (GEO_MAPORIGINY*GEO_PLANEMINESCALE)),
+  GEO$NEWSTRUCT("drillHole", "GeoDBPoint", "short seqNum", "char color3"),
+  GEO$NEWSTRUCT("drillPattern", "GeoDBPolyPoints", "drillHole inside[]"),
+  GEO$NEWLIST("undrilled", "drillPattern")
+..
+.vfloat lat
+.vfloat long
+..
+.. Builds the pattern quadtree:
+..
+.expr build_patternqt() \
+  curPattern := nil,
+  GEO$CLEANMAP(),
+  loop( DRPATT$ID.(!DRPATT$DISABLED) ) ..(
+    loop( GEODRMAXHOLES ) ..(
+      DRPATT$HOLENUM.* <> nil ?
+        (
+        pattern_from_id(DRPATT$ID) <> curPattern ?
+          (
+          curPattern ??
+            GEO$ADDTOMAP("undrilled", curPattern),
+          curPattern := pattern_from_id(DRPATT$ID),
+          holeindex := 0,
+          GEO$ADDTOLIST("undrilled", curPattern),
+          GEO$ARRAYALLOC("undrilled", curPattern, "inside[]", DRPATT$NUMHOLES),
+          GEO$ARRAYALLOC("undrilled", curPattern, "vertices[]", 4),
+          GEO$SETPROPVAL("undrilled", curPattern, "priority", 255),
+	  GEO$SETPROPVAL("undrilled", curPattern, "paintType", 4),
+          ..
+          GEO$SETPROPVAL("undrilled", curPattern, "vertices[].xPosition", 
+	                 0, int (DRPATT$XMIN*GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "vertices[].yPosition", 
+	                 0, int (DRPATT$YMIN*GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "vertices[].xPosition", 
+	                 1, int (DRPATT$XMAX*GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "vertices[].yPosition", 
+	                 1, int (DRPATT$YMIN*GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "vertices[].xPosition", 
+	                 2, int (DRPATT$XMAX*GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "vertices[].yPosition", 
+	                 2, int (DRPATT$YMAX*GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "vertices[].xPosition", 
+	                 3, int (DRPATT$XMIN*GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "vertices[].yPosition", 
+	                 3, int (DRPATT$YMAX*GEO_PLANEMINESCALE))
+          ),
+	DRPATT$DRILLED.* ?
+   	(
+	  GEO$SETPROPVAL("undrilled", curPattern, "inside[].id", 
+          	         holeindex, DRPATT$HOLENUM.*),
+          GEO$SETPROPVAL("undrilled", curPattern, "inside[].xPosition", 
+	  	         holeindex, int (DRPATT$XACTUAL.**GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "inside[].yPosition", 
+	                 holeindex, int (DRPATT$YACTUAL.**GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "inside[].zPosition", 
+	                 holeindex, int (DRPATT$ZACTUAL.**GEO_ELEVMINESCALE)),
+	  GEO$SETPROPVAL("undrilled", curPattern, "inside[].paintType", 
+	                 holeindex, 2)
+	) :
+	( 
+          GEO$SETPROPVAL("undrilled", curPattern, "inside[].id", 
+                         holeindex, DRPATT$HOLENUM.*),
+          GEO$SETPROPVAL("undrilled", curPattern, "inside[].xPosition", 
+	                 holeindex, int (DRPATT$XPLAN.**GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "inside[].yPosition", 
+	                 holeindex, int (DRPATT$YPLAN.**GEO_PLANEMINESCALE)),
+          GEO$SETPROPVAL("undrilled", curPattern, "inside[].zPosition", 
+	                 holeindex, int (DRPATT$ZPLAN.**GEO_ELEVMINESCALE)),
+	  GEO$SETPROPVAL("undrilled", curPattern, "inside[].paintType", 
+	                 holeindex, 1)
+	),
+	GEO$SETPROPVAL("undrilled", curPattern, "inside[].color1", holeindex, 3), ..red
+	GEO$SETPROPVAL("undrilled", curPattern, "inside[].color2", holeindex, 1),  ..black
+	GEO$SETPROPVAL("undrilled", curPattern, "inside[].color3", holeindex, 4), ..green
+        holeindex := holeindex + 1
+        )
+    )
+  ),
+  curPattern ??
+    GEO$ADDTOMAP("undrilled", curPattern)
+..
+.. Create the pattern submap file for a drill at location (x, y, z)
+.. (MMS-grid coordinates):
+..
+.expr create_pattern_qtfile(myx, myy, mysize) \
+  !(quadfile := GEO$DUMPSUBMAP(myx, myy, mysize, GEO_QUADTREE_DIR)) ?
+    (
+    .. Try rebuilding the quadtree:
+    build_patternqt(),
+    !(quadfile := GEO$DUMPSUBMAP(myx, myy, mysize, GEO_QUADTREE_DIR)) ?
+      return( "none" )
+    ),
+  return( quadfile )
+..
+.vdate myshiftdate(v_shiftdate)
+..
+.expr geo_open_shift(myshiftindex) \
+  myshiftdate := "#" + myshiftindex,
+  geosh_fd := geo_shift_open("DSP_OPNS/", "geo"+myshiftdate("shiftfile"), "w"),
+  geosh_fd ?
+    geo_drillshift_bind( geosh_fd ),
+  return( geosh_fd )
+..
+.vdate TODAY
+..
+.. Used in gps_data_monitor:
+.expr geo_record_drillhole(pattin, hole, myx, myy, myz, myincl, myqual) \
+  TODAY := "\\" + CLOCK("secs"),
+  myerr := nil,
+  geoindex := nil,
+  new_hole := 0,
+  patt := pattin,
+  ..
+  .. Update/create the hole in geodata.ddb:
+  patt = "none" ?
+    patt := "ORPHANS" + TODAY("shiftfile") :
+  STRPOS(hole, "orphan") = -1 ?
+    ( ..pattern, hole should exist in geodata.ddb
+    (geoindex := geofindhole(patt, hole)) = nil ?
+      ( ..hole not in geodata.ddb
+      (geoindex := geofind_empty_hole(patt)) ??
+        ( ..pattern is in geodata.ddb; add hole
+        DRPATT$HOLENUM.geoindex := hole,
+        new_hole := 1
+        ) :
+        ( ..pattern not in geodata.ddb; add pattern and hole
+        DRPATT$ID := patt + GEODRSEPARATOR + (0)[GEODRSUFXFMT],
+        DRPATT$NUMHOLES := 1,
+        geoindex := 0,
+        DRPATT$HOLENUM.geoindex := hole
+        )
+      )
+    ),
+  geoindex = nil ?
+    (
+    geoindex := geofind_empty_orphan(patt),
+    new_hole := 1
+    ),
+  DRPATT$XACTUAL.geoindex  := myx,
+  DRPATT$YACTUAL.geoindex  := myy,
+  DRPATT$ZACTUAL.geoindex  := myz,
+  DRPATT$DRILLED.geoindex  := TODAY,
+  DRPATT$DRILL.geoindex    := A$ID[%..2s],
+  DRPATT$INCL.geoindex     := myincl,
+  DRPATT$GPSCOUNT.geoindex := myqual,
+  ..
+  geo_open_shift(TODAY("shiftindex")),
+  !geosh_fd ?
+    (
+    myerr := "Could not open " + "geo" + TODAY("shiftfile") + ".ddb",
+    return( myerr )
+    ),
+  ..
+  .. Create the hole in geoyymmdds.ddb:
+  shindex := geoshfind_empty_hole(patt),
+  DRPATT$XPLAN.geoindex ??
+    (
+    SHPATT$XPLAN.shindex    := DRPATT$XPLAN.geoindex,
+    SHPATT$YPLAN.shindex    := DRPATT$YPLAN.geoindex,
+    SHPATT$ZPLAN.shindex    := DRPATT$ZPLAN.geoindex,
+    SHPATT$SEQUENCE.shindex := DRPATT$SEQUENCE.geoindex
+    ),
+  SHPATT$HOLENUM.shindex  := DRPATT$HOLENUM.geoindex,
+  SHPATT$XACTUAL.shindex  := myx,
+  SHPATT$YACTUAL.shindex  := myy,
+  SHPATT$ZACTUAL.shindex  := myz,
+  SHPATT$DRILLED.shindex  := TODAY,
+  SHPATT$DRILL.shindex    := A$ID[%..2s],
+  SHPATT$INCL.shindex     := myincl,
+  SHPATT$GPSCOUNT.shindex := myqual,
+  ..
+  new_hole ?
+    geo_update_pattern_numholes(patt, 1),
+  ..
+  DB$CLOSE( geosh_fd ),
+  return( myerr )

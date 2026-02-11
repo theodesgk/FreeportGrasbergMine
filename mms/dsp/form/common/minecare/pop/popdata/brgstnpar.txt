@@ -1,0 +1,36 @@
+503382017	1st Tire Temperature 	999.9	-99.9	5
+503382018	1st Tire Pressure	9999.9	0	9
+503382019	1st Tire Corrected Pressure	9999.9	0	9
+503382020	1st Tire Target Pressure	9999.9	0	9
+503382021	1st Tire Serial 	0	0	0
+503382022	1st Tire Tag ID	0	0	0
+503382023	2nd Tire Temperature 	999.9	-99.9	5
+503382024	2nd Tire Pressure	9999.9	0	9
+503382025	2nd Tire Corrected Pressure	9999.9	0	9
+503382026	2nd Tire Target Pressure	9999.9	0	9
+503382027	2nd Tire Serial 	0	0	0
+503382028	2nd Tire Tag ID	0	0	0
+503382029	3rd Tire Temperature 	999.9	-99.9	5
+503382030	3rd Tire Pressure	9999.9	0	9
+503382031	3rd Tire Corrected Pressure	9999.9	0	9
+503382032	3rd Tire Target Pressure	9999.9	0	9
+503382033	3rd Tire Serial 	0	0	0
+503382034	3rd Tire Tag ID	0	0	0
+503382035	4th Tire Temperature 	999.9	-99.9	5
+503382036	4th Tire Pressure	9999.9	0	9
+503382037	4th Tire Corrected Pressure	9999.9	0	9
+503382038	4th Tire Target Pressure	9999.9	0	9
+503382039	4th Tire Serial 	0	0	0
+503382040	4th Tire Tag ID	0	0	0
+503382041	5th Tire Temperature 	999.9	-99.9	5
+503382042	5th Tire Pressure	9999.9	0	9
+503382043	5th Tire Corrected Pressure	9999.9	0	9
+503382044	5th Tire Target Pressure	9999.9	0	9
+503382045	5th Tire Serial 	0	0	0
+503382046	5th Tire Tag ID	0	0	0
+503382047	6th Tire Temperature 	999.9	-99.9	5
+503382048	6th Tire Pressure	9999.9	0	9
+503382049	6th Tire Corrected Pressure	9999.9	0	9
+503382050	6th Tire Target Pressure	9999.9	0	9
+503382051	6th Tire Serial 	0	0	0
+503382052	6th Tire Tag ID	0	0	0

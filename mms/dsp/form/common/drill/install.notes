@@ -1,0 +1,297 @@
+..
+.. DISPATCH Utility System Module DOCUMENTATION
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: install.notes,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:12 $
+..    $State: Exp $
+..   Purpose:
+..
+
+
+Current clients with the generic drill interface are :
+
+	mwb (IR interface)
+	cjv (MMS interface)
+	cbm (IR interface)
+	adm (MMS interface) (not yet updated in tucson)
+        sio (P&H interface, BE interface)
+	cvrd
+
+
+INSTALLATION PROCEDURE FOR GENERIC DRILL SYSTEM
+-----------------------------------------------
+
+All generic drill files are located in the directory:
+
+	/dsp/form/engl/drill
+
+All client specific drill files should be located in:
+
+	/dsp/cli/xxx/form/drill
+
+or:
+
+	/dsp/cli/xxx/hack/drill
+
+directories. The drill utility currently supports drill
+monitoring systems from Ingersoll Rand, Bucyrus Erie,
+and P&H plus the general MMS vital signs monitoring
+interface. Follow the following steps to install the
+utility at a client site :
+
+1) modify the client 'dbini.frm'. Add the folowing lines to the
+   AUXEQMT record definition :
+
+..
+  DB$RECORD("+AUXEQMT",    "string hole[15] nil"),
+  DB$RECORD("+AUXEQMT",    "string material[15]"),
+  DB$RECORD("+AUXEQMT",    "enum ACTION actnext val=2"),
+  DB$RECORD("+AUXEQMT",    "enum ACTION actsave val=32"),
+  DB$RECORD("+AUXEQMT",    "enum ACTION actlast val=2"),
+  DB$RECORD("+AUXEQMT",    "float beans val=0" ),
+  DB$RECORD("+AUXEQMT",    "float depth val=0" ),
+  DB$RECORD("+AUXEQMT",    "int sample val=0" ),
+  DB$RECORD("+AUXEQMT",    "string blast[15]" ),
+  DB$RECORD("+AUXEQMT",    "string config[15]" ),
+..
+
+
+2) modify 'enum.c' in client directory :
+   In the ACTION_tbl[] add the following lines
+
+  "Mount Part",     "Part",      16+32,
+  "Start Hole",     "STArt",     16+32,
+  "End Hole",       "END",       16+32,
+  "Blast",          "BLast",     16+32,
+  "Arates",         "ARates",    16+32,
+  "DR-ALARM",       "DR-ALARM",  2,
+  "Material",       "MATerial",  16+32,
+
+   In the acttbl[] definition add following lines :
+
+  { act_part,      0X38, fmtint   }, /* Change of drill bit */
+  { act_starthole, 0X39, fmtint   }, /* Start new hole */
+  { act_endhole,   0X3a, fmtint   }, /* end of hole */
+  { act_pattern,   0X3b, fmtint   }, /* current drill pattern */
+  { act_drload,    0X3c, fmtint   }, /* current drill load */
+  { act_arates,    0X93, fmtint   }, /* Drill penetration rate profile */
+  { act_arates,    0X270, fmtint  }, /* Ingersoll Rand Drill Data */
+  { act_starthole, 0X422, fmtnil  }, /* Start hole signal sent by BE to DISPATCH */
+  { act_arates,    0X423, fmtint  }, /* Data array sent by BE drill */
+  { act_endhole,   0X424, fmtint  }, /* Last data array sent by BE drill */
+  { act_dralarm,   0X425, fmtint  }, /* Alarm array sent by BE drill */
+  { act_starthole, 0X434, fmtnil  }, /* Start hole signal sent by P&H to DISPATCH */
+  { act_arates,    0X436, fmtint  }, /* Data array sent by P&H drill */
+  { act_endhole,   0X438, fmtint  }, /* Last data array sent by P&H drill */
+  { act_dralarm,   0X43E, fmtnil  }, /* P&H controller has 75% of its memory full */
+ 
+3) Modify 'myenum.h' in client directory :
+   Add the following lines, with suitable action numbers (the MATerial action
+   corresponds with act_drload) :
+
+#define act_part       (MAXACTION+nn)
+#define act_starthole  (MAXACTION+nn)
+#define act_endhole    (MAXACTION+nn)
+#define act_pattern    (MAXACTION+nn)
+#define act_arates     (MAXACTION+nn)
+#define act_dralarm    (MAXACTION+nn)
+#define act_drload     (MAXACTION+nn)
+
+4) Modify 'enum_action.frm' in client form directory :
+   Add the following lines, to correspond with numbers in myenum.h :
+
+.def act_part       act_last + nn
+.def act_starthole  act_last + nn
+.def act_endhole    act_last + nn
+.def act_pattern    act_last + nn
+.def act_arates     act_last + nn
+.def act_dralarm    act_last + nn
+.def act_drload     act_last + nn
+
+5) Modify 'act_dispatch.frm' in the client form directory :
+   Make sure that in 'act_dispatch', the following symbols are defined,
+   most probably from included files :
+
+   - 'unit_drill' must correspond with the unit number for a drill
+   - 'drill_starthole', 'drill_endhole', 'drill_moving' must correspond
+     with the KSTATE numbers indicating the appropriate status of the drill.
+
+   Add the following line :
+
+.include drill/act_drill
+
+   after the include file(s) that define the required symbols
+   'unit_drill', 'drill_starthole' etc.
+   If the drill is required to go into 'DELAY: moving to new hole' after
+   each hole, include code to auto-accept this delay. The actual delay
+   code used is defined in either the generic or client specific
+   'drillconfig.frm' and is called DR_MOVEREASON. this macro can be used
+   within act_dispatch.
+
+   Add the following lines :
+
+  DRILL$RESTART
+
+   in the ACT$RESTART function, and
+
+  DRILL$STARTUP
+
+   in the ACT$STARTUP function. Also include a function that runs when
+   a drill powers up. This function should call :
+
+  DRILL$POWERUP
+
+   In the ACT$AUXEQMT case table, add the following lines :
+
+..
+    act_part:      IS_DRILL ? DRILL$PART ? TRN$REPLY
+    act_starthole: IS_DRILL ? DRILL$STARTHOLE ? TRN$REPLY
+    act_endhole:   IS_DRILL ? DRILL$ENDHOLE ? TRN$REPLY
+    act_pattern:   IS_DRILL ? DRILL$BLAST ? TRN$REPLY
+    act_drload:    IS_DRILL ? DRILL$LOAD ? TRN$REPLY
+    act_arates:    IS_DRILL ? DRILL$RATES ? TRN$REPLY
+..
+
+   Before the main action case statement in the PAN$AUXEQMT, the following
+   should be added :
+
+..
+  IS_DRILL ? DRILL$STATE( action) ?
+  (
+    TRN$PANEL( "KSTATE %d \'%s\' \'%s\' \'%s\'",
+      drill_kstate, drill_statmsg, A$ACTNEXT, drill_opmsg),
+    return
+  ),
+..
+
+   This is a default implementation for setting the Goic state. As the
+   KSTATE rpc is not a standard format rpc, act_drill does not internally
+   send KSTATEs out. Instead, it sets the value of the following symbols
+   in the event of a drill specific action :
+
+   'drill_kstate' : the kstate number req'd acording to act_drill
+   'drill_statmsg' : operator status message, such as 'Moving to new hole'
+   'drill_opmsg' : operation msg, such as 'Drilling hole :....', etc
+
+   These symbols can be used in any client specific KSTATE rpc.
+
+6) Update /dsp/form/engl/plots/xvgr.frm to get latest version of xvgr.frm
+   at the client, required for graphical drill reports to run properly.
+   Note: /dsp/form/engl/drill/readme.drillgraphics describes how to use
+   and configure defaults needed by the bar graph drill report.
+
+7) Refer to the 'drillclient.frm.example' file for information on how to
+   override default settings in the generic 'drillconfig.frm'.
+   In order to modify the configuration, copy 'drillclient.frm.example' 
+   to the clients' /form/drill directory and rename the file
+   'drillclient.frm'.  Do not use /dsp/form/engl/drill/drillclient.frm,
+   this form is used with the Virtual Database Filesystem only.
+
+8) Add a menu option somewhere in the keypad or CP to run the form
+   'drill/drillmenu' which is the main access to drill specific reports and
+   interactive forms.
+
+9) From the main drill menu, run the drill calibration utility to set
+   the options for each drill on site.
+
+10) RPC definitions :
+   The drill system uses the following RPCs
+
+0x0038  PART            dispatch        s               RADIO
+0x0039  STARTHOLE       dispatch        s               RADIO
+0x003a  ENDHOLE         dispatch        s               RADIO
+0x003b  PATTERN         dispatch        s               RADIO
+0x003c  DRLOAD          dispatch        s               RADIO
+0x0093  A$RATES         vsms            [b]?d           RADIO
+
+#
+# Ingersoll-Rand drill interface 0x270 through 0x271
+#
+0x0270  IR-DRILL        dispatch        ddddddd       RADIO
+defn    IR-DRILL(gsp)   up
+
+#
+# Bucyrus Erie interface RPCs.
+#
+0x0420  BE-VSHIFT       berie   v
+0x0421  BE-VBEGIN       berie   v
+0x0422  BE-VDRILL       berie   v
+0x0423  BE-VDATA        berie   [d]
+0x0424  BE-VLAST        berie   [d]
+0x0425  BE-ALARM        berie   [d]
+
+#
+# P&H Drill System RPCs
+#
+0x0430  P&H-VSHIFT      pandh   v
+0x0431  P&H-HOLENUM     pandh   d
+0x0432  P&H-VBEGIN      pandh   v
+0x0434  P&H-VDRILL      pandh   v
+0x0436  P&H-VDATA       pandh   [d]
+0x0438  P&H-VLAST       pandh   [d]
+0x043a  P&H-VSAMPLE     pandh   d
+0x043c  P&H-VENDHOL     pandh   v
+0x043e  P&H-VMEMFUL     pandh   v
+
+
+11) Goic programming. See /dsp/cli/mwb/psw/Goic/drill for a general idea.
+    Client specifics include :
+
+    - sending out a negative number with STARTHOLE. this will cause dispatch
+      to automatically create a new unused hole number for a specific blast
+
+    - the part codes should correspond with the ones defined in "drillconfig"
+      send out either numbers or full strings or abbreviated strings.
+
+    - material should correspond with those defined in drillconfig
+
+12) Handling redrills.
+Originally our new drill utility has been handling redrill as follows:
+
+1. Operators selects on his OIP or GOIC a redrill. The hole number was
+sent with REDRILL_SUFFIX configuration macro added to it upstream.
+
+2. Dispatch creates a new hole record, say "101R".
+
+3. If operator selects a hole number which had already been drilled, DISPATCH
+would generate an exception.
+
+
+There are clients who want to have their redrills auto-detected. This means
+that when DISPATCH sees a hole which has already been drilled, it will
+prompt the operator to confirm the redrill. Also they might want to save
+multiple redrill records in case a hole has been redrilled more than once.
+In an effort to add these features in a generic way, the following has been 
+added:
+
+1. First all changes are backward compatible, so by doing nothing everything
+will stay the same for your client.
+
+2. The expression "HANDLE_REDRILL" is now called when the operator enters a hole
+which had previously been drilled. This expression is passed with an argument
+which means "how many times this hole has already been drilled." So if the
+operator is atempting to perform a first redrill on a hole a 1 would be
+passed.
+
+3. The project engineer should then define a "HANDLE_REDRILL" expression in
+/dsp/cli/xxx/form/drill/drillclient.frm. Usually this expression would prompt
+a drill operator to confirm that he wishes to redrill a hole. If this expression
+returns a non zero value, no exception will be shown, else the original
+exception will be displayed:
+
+!!!Drill D001 (OPERATOR NAME) Pressed START HOLE with hole number 101
+   This hole has already been drilled in blast (BLAST ID).
+   Click Left Mouse on Accept to ACCEPT or Reject to REJECT:
+   Enter correct hole number or accept _________________
+
+4. To also generalize the naming of redrilled holes, the code now instead of
+automatically appending "REDRILL_SUFFIX", calls an expression called
+"REDRILL_SUFFIX_EXPR". If desired this expression should also be defined in
+/dsp/cli/xxx/form/drill/drillclient.frm.
+
+If you need to see an example of those changes implemented take a look at
+...sio/form/drill/drillclient.frm, ...sio/psw/phdrill.oip (for an oip example)
+and ...sio/psw/Goic/drill/English (for a goic example).

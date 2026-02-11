@@ -1,0 +1,116 @@
+OIP file:
+The generic drill oip file can be found on /dsp/form/engl/irdrill/drill.oip
+
+RPCs:
+0x0028  PART            dispatch        s               RADIO
+0x0029  STARTHOLE       dispatch        d               RADIO
+0x002A  ENDHOLE         dispatch        b               RADIO
+0x002C  BENCH           dispatch        s               RADIO
+0x002D  MVDRILL         dispatch        b               RADIO
+0x0270  IR-DRILL        dispatch        ddddddd       RADIO
+defn    IR-DRILL(gsp)   up
+
+The following should be included on enum.c
+ACTION table
+  "Part",           "PART",      16+32,
+  "Starthole",      "STArthole", 16+2,
+  "Endhole",        "ENDHole",   16+2,
+  "Zero",           "ZEro",      16+2,
+  "Bench",          "BEnch",     16+32,
+  "Drill Data",     "DRill",     16+2,
+
+ACTTBL
+  { act_part,      0X28, fmtascii }, /* Drill Bit Change */
+  { act_starthole, 0X29, fmtascii }, /* Drill Start of Hole */
+  { act_endhole,   0X2A, fmtint },   /* Drill End of Hole */
+  { act_bench,     0X2C, fmtint },   /* Changing bench on drill oip */
+  { act_delay,     0X2D, fmtint   }, /* Drill Move button */
+  { act_drdata,    0X270, fmtint  }, /* Ingersoll Rand Drill Data */
+
+The following should be included in act_dispatch:
+.include irdrill/act_drill
+
+To be included in ACT$RESTART
+!DSP$ISSIM ? DRILL$OPEN
+
+To be included in ACT$AUXEQMT
+
+Only shown are relevant entries to the drill utility and they are of course only
+a guide and should be adapted to the client's specific needs if necessary.
+
+.expr ACT$AUXEQMT \
+  drillexcept := 0,
+  case( DSP$ACTION )
+    act_down:      DSP$SOURCE = "Except" ?
+                    (
+                     A$UNIT = unit_drill ?
+                      (
+                       A$ACTNEXT := act_ID,
+                       A$ACTLAST := act_down
+                      ),
+                     TRN$DOWN
+                    ) :
+                     TRN$EXCEPT( 0 )
+    act_spare:     DSP$SOURCE = "Except" ?
+                    (
+                     A$UNIT = unit_drill ?
+                      (
+                       A$ACTLAST := act_spare,
+                       A$ACTNEXT := act_ID
+                      ),
+                     TRN$SPARE
+                    ) :
+                     TRN$EXCEPT( 0 )
+    act_delay:     case( DSP$PKTNO )
+                      0X2D: PSW$ARGV(0) = 1 ?
+                              DSP$CODE := DRILLROUNDMOVE :
+                              DSP$CODE := DRILLHOLEMOVE
+                      ),
+                   DSP$SOURCE = "Except" | DSP$CODE = DRILLHOLEMOVE ?
+                     TRN$DELAY :
+                     TRN$EXCEPT( 0 )
+    act_ready:     A$UNIT = unit_drill ?
+                    (
+                     A$ACTNEXT := A$ACTSAVE,
+                     A$ACTLAST := act_ready
+                    ),
+                   TRN$READY
+    act_part:      DSP$UNIT = unit_drill ? DRILL$PART,
+                   !drillexcept ? TRN$REPLY
+    act_starthole: DSP$UNIT = unit_drill ?
+                    (
+                      A$STATUS = "Delay" ?
+                        TRN$READY,
+                      DRILL$STARTHOLE,
+                      !drillexcept ? TRN$REPLY
+                    )
+    act_endhole:   DSP$UNIT = unit_drill ? DRILL$ENDHOLE,
+                   !drillexcept ? TRN$REPLY
+    act_bench:     DSP$UNIT = unit_drill ? DRILL$BLAST,
+                   !drillexcept ? TRN$REPLY
+    act_drdata:    DRILL$RATES
+    )
+
+To be included in PAN$AUXEQMT
+Again changes should be made as needed
+
+    act_part: TRN$PANEL((BI$PART,BI$ID - SUBSTR( BI$ID, 0, 3 ),
+                         A$ACTNEXT)[KD Mounted %s %s:%s])
+    act_starthole: DSP$CODE < 0 ?
+                     TRN$PANEL("KD Please Re-enter Hole Number") :
+                     TRN$PANEL("KD Drilling Hole %{A$HOLE}:%{A$ACTNEXT}")
+    act_endhole:   TRN$PANEL("KD Finished %{A$HOLE}-%{DH$DEPTH}:%{A$ACTNEXT}")
+    act_bench:     A$ACTNEXT = act_endhole ?
+                    TRN$PANEL("KD Press ENDHOLE Before Changing Blast")  :
+                    TRN$PANEL("KD ROUND set to %s:%{A$ACTNEXT}",A$BLAST[%-9.9s])
+
+Add to your client's .update file:
++ /dsp/form/engl/irdrill
+
+Add to the end of you client's dspendshift script
+mms keypad form=irdrill/holecopy
+
+GSP configuration:
+In order to properly communicate with the Ingersoll-Rand interface
+the port 2 of the GSP should be set to 9600 baud, slip mode hardware set
+to RS485

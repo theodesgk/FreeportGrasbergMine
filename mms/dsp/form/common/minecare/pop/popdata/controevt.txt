@@ -1,0 +1,465 @@
+Initialize	218169344
+Dipper	218169345
+Loaded	218169346
+Dumping	218169347
+Empty	218169348
+Calibration	218169349
+Body Up Switch (down)	218169350
+Body Up Switch (up)	218169351
+Park Brake On	218169352
+Park Brake Off	218169353
+Brake Pedal Pressed	218169354
+Brake Pedal Off	218169355
+Hydraulic Filter 1 Dirty or Switch Error	218169356
+Hydraulic Filter 1 Dirty or Switch Error Inactive	218169357
+Hydraulic Filter 2 Dirty or Switch Error	218169358
+Hydraulic Filter 2 Dirty or Switch Error Inactive	218169359
+Steering Filter Dirty or Switch Error 	218169360
+Steering Filter Dirty or Switch Error Inactive	218169361
+Air Filter Dirty or Switch Error	218169362
+Air Filter Dirty or Switch Error Inactive	218169363
+Central Warning Alarm On	218169364
+Central Warning Alarm Off	218169365
+Service Brake with Speed On	218169366
+Service Brake with Speed Off	218169367
+Front to Rear Incline (Voltage Above Normal or Shorted High)	218169699
+Front to Rear Incline (Voltage Below Normal or Shorted Low)	218169700
+Front to Rear Incline (Inactive)	218169712
+Left to Right Incline (Voltage Above Normal or Shorted High)	218169731
+Left to Right Incline (Voltage Below Normal or Shorted Low)	218169732
+Left to Right Incline (Inactive)	218169744
+Payload (Data erratic - intermittent or incorrect)	218173474
+Payload (inactive)	218173488
+LeftFront Strut Press (Voltage Above Normal or Shorted High)	218173507
+LeftFront Strut Press (Voltage Below Normal or Shorted Low)	218173508
+Left Front Strut Pressure (Special Instruction)	218173518
+Left Front Strut Pressure (Inactive)	218173520
+RightFront Strut Press(Voltage Above Normal or Shorted High)	218173539
+RightFront Strut Press (Voltage Below Normal or Shorted Low)	218173540
+Right Front Strut Pressure (Special Instruction)	218173550
+Right Front Strut Pressure (Inactive)	218173552
+LeftRear Strut Press (Voltage Above Normal or Shorted High)	218173571
+LeftRear Strut Press (Voltage Below Normal or Shorted Low)	218173572
+Left Rear Strut Pressure (Special Instruction)	218173582
+Left Rear Strut Pressure (Inactive)	218173584
+Right Rear Strut Press(Voltage Above Normal or Shorted High)	218173603
+Right Rear Strut Press (Voltage Below Normal or Shorted Low)	218173604
+Right Rear Strut Pressure (Special Instruction)	218173614
+Right Rear Strut Pressure (Inactive)	218173616
+Reset All	218202128
+Low Level Ground Fault	218202160
+High Level Ground Fault	218202192
+Pedal Accel	218202384
+Pedal Retard	218202416
+GF Contactor	218202448
+GFR Relay	218202480
+MF Contactor	218202512
+P1  Contactor	218202544
+P2 Contactor	218202576
+RP1 Contactor	218202672
+RP2 Contactor	218202704
+RP3 Contactor	218202736
+RP4 Contactor	218202768
+RP5 Contactor	218202800
+RP6 Contactor	218202832
+RP7 Contactor	218202864
+RP8  Contactor	218202896
+RP9 Contactor	218202928
+Forward Coil	218202960
+Reverse Coil	218202992
+Analog Output	218203088
+Frequency Output	218203120
+Analog Input	218203152
+Frequency Input	218203184
+Hardware Startup	218203312
+Illegal Comb of MstCtrlSwitch Speed Reduc Contacts	218203440
+Trolley Line Volt Limit Exceeded	218203472
+Pantograph Operating Valve	218203536
+Diode Fault 	218203568
+Motor #1 Overcurrent	218203600
+Motor #2 Overcurrent	218203632
+Motor Field Fault	218203664
+Motor Field Overcurrent	218203696
+Motor Stall	218203728
+Motor Spin	218203760
+Alternator Tertiary Overcurrent	218203792
+Motor Tertiary Overcurrent	218203824
++15 Power	218203856
+-15 Power	218203888
++19 Power	218203920
+Motor Polarity	218203952
+Analog Input-FB155 Card	218203984
+PTU Configuration	218204016
+RP Contactor Bounce	218204048
+Grid Motor #1 Failure	218204080
+Grid Motor #2 Failure	218204112
+Low Axle Box Pressure	218204144
+Motor #1 Over Temperature	218204176
+Motor #2 Over Temperature	218204208
+Overspeed Retarding	218204240
+Speed Retard Exceeded	218204272
+Retard OverCurrent	218204304
+Horsepower Low	218204336
+Horsepower Limit Exceeded	218204368
+Engine Overspeed Exceeded	218204400
+Oil Pressure Warning /Engine Sensor Warning	218204432
+Oil Pressure Shutdown/Engine Sensor Shutdown	218204464
+Coolant Pressure Warning/Stat Occurred	218204496
+Coolant Pressure Shutdown/AT Speed Spin ATS	218204528
+Crankcase Overpressure	218204560
+Coolant Overtemperature	218204592
+Engine Service	218204624
+Engine Shutdown	218204656
+Engine Speed Retard	218204688
+Motor #1 Voltage Limit Exceeded 	218204720
+Motor #2 Voltage Limit Exceeded 	218204752
+Alternator Field Current Level	218204784
+Trolley Notching Contactors	218204816
+Trolley Line Contactors	218204848
+Ground Interrupt Contactor	218204880
+Diesel/Trolley Field Switching Contactor	218204912
+Lamp	218204944
+Driver Off Trolley Wire	218204976
+Battery Volts Low	218205008
+Battery Volts  High	218205040
+Bad Engine Sensor	218205072
+Motor Speed Sensor	218205104
+Leakage Current Fault 	218205136
+Overcurrent Fault 	218205168
+Grid Protection Fault	218205200
+Motor Overtemp While On Trolley In Reduced Notch	218205232
+Data Store	218205264
+Software	218205296
+Extended Range Fuel Pressure High (FMI 0)	218209376
+Extended Range Fuel Pressure Low (FMI 1)	218209377
+Ext Range Fuel Pressure Sensor Input Voltage High (FMI 3)	218209379
+Ext Range Fuel Pressure Sensor Input Voltage Low (FMI 4)	218209380
+Extended Range Fuel Pressure (Inactive)	218209392
+Extended Range Engine Oil Pressure Low (FMI 1)	218209409
+Ext Range Engine Oil Press Sensor Input Voltage High (FMI 3)	218209411
+Ext Range Engine Oil Press Sensor Input Voltage Low (FMI 4)	218209412
+Extended Range Engine Oil Pressure (Inactive)	218209424
+Extended Range Coolant Pressure Low (FMI 1)	218209441
+Ext Range Coolant Pressure Sensor Input Voltage High (FMI 3)	218209443
+Ext Range Coolant Pressure Sensor Input Voltage Low (FMI 4)	218209444
+Extended Range Coolant Pressure (Inactive)	218209456
+Extended Range Coolant Pressure Low (FMI 1)	218209473
+Ext Range Coolant Pressure Sensor Input Voltage High (FMI 3)	218209475
+Ext Range Coolant Pressure Sensor Input Voltage Low (FMI 4)	218209476
+Extended Range Coolant Pressure (Inactive)	218209488
+Engine Intercooler Temperature High (FMI 0)	218209504
+Engine Intercooler Temp Sensor Input Voltage High (FMI 3)	218209507
+Engine Intercooler Temp Sensor Input Voltage Low (FMI 4)	218209508
+Engine Intercooler Temp (Inactive)	218209520
+Optimized Idle Safety Loop Short to Ground (FMI 4)	218209540
+Parking Brake Switch Status (Inactive)	218209552
+Throttle Position Sensor Input Voltage High (FMI 3)	218209571
+Throttle Position Sensor Input Voltage Low (FMI 4)	218209572
+% Throttle (Inactive)	218209584
+Torque Overload (FMI 0)	218209600
+% Engine Load (Inactive)	218209616
+Fuel Delivery Pressure High (FMI 0)	218209632
+Fuel Delivery Pressure Low (FMI 1)	218209633
+Fuel Delivery Pressure Sensor Input Voltage High (FMI 3)	218209635
+Fuel Delivery Pressure Sensor Input Voltage Low (FMI 4)	218209636
+Fuel Delivery Pressure (Inactive)	218209648
+Fuel Restriction High (FMI 0)	218209664
+Fuel Restriction Sensor Input Voltage Low (FMI 3)	218209667
+Fuel Restriction Sensor Input Voltage High (FMI 4)	218209668
+Fuel Filter Differential Pressure (Inactive)	218209680
+Engine Oil Level High (FMI 0)	218209696
+Engine Oil Level Low (FMI 1)	218209697
+Engine Oil Level Sensor Input Voltage High (FMI 3)	218209699
+Engine Oil Level Sensor Input Voltage Low (FMI 4)	218209700
+Engine Oil Level (Inactive)	218209712
+Oil Filter Restriction High (FMI 0)	218209728
+Oil Filter Differential Pressure (Inactive)	218209744
+Engine Oil Pressure Oil Pressure Low (FMI 1)	218209761
+Engine Oil Pressure Sensor Input Voltage High (FMI 3)	218209763
+Engine Oil Pressure Sensor Input Voltage Low (FMI 4)	218209764
+Engine Oil Pressure (Inactive)	218209776
+Crankcase Pressure High (FMI 0)	218209792
+Crankcase Pressure Low (FMI 1)	218209793
+Crankcase Pressure Sensor Input Voltage High (FMI 3)	218209795
+Crankcase Pressure Sensor Input Voltage Low (FMI 4)	218209796
+Crankcase Pressure (Inactive)	218209808
+Front Turbocharger Boost Pressure High (FMI 0)	218209824
+Front Turbo Boost Press Sensor Input Voltage High (FMI 3)	218209827
+Front Turbo Boost Press Sensor Input Voltage Low(FMI 4)	218209828
+Front Turbocharger Boost Pressure (Gage) (Inactive)	218209840
+Air Inlet Pressure High (Engine #1) (FMI 0)	218209856
+Air Inlet Pressure Low (Engine #1) (FMI 1)	218209857
+Air Inlet Press Sensor Input Voltage High (Engine #1)(FMI 3)	218209859
+Air Inlet Press Sensor Input Voltage Low (Engine #1) (FMI 4)	218209860
+Air Inlet Pressure (Engine #1) (Inactive)	218209872
+Air Filter Restriction High (FMI 0)	218209888
+Air Filter Restriction Sensor Voltage High (FMI 3)	218209891
+Air Filter Restriction Sensor Voltage Low (FMI 4)	218209892
+Air Filter Differential Pressure (Inactive)	218209904
+Barometric Press Sensor Input Volts High (Engine #1) (FMI 3)	218209923
+Barometric Press Sensor Input Volts Low (Engine #1) (FMI 4)	218209924
+Barometric Pressure (Engine #1) (Inactive)	218209936
+Engine Coolant Pressure Low (FMI 1)	218209953
+Engine Coolant Pressure Sensor Input Voltage High (FMI 3)	218209955
+Engine Coolant Pressure Sensor Input Voltage Low (FMI 4)	218209956
+Engine Coolant Pressure (Inactive)	218209968
+Intercooler Coolant Pressure Low (FMI 1)	218209985
+Intercooler Coolant Press Sensor Input Volts High (FMI 3)	218209987
+Intercooler Coolant Press Sensor Input Volts Low (FMI 4)	218209988
+Intercooler Coolant Pressure (Inactive)	218210000
+Coolant Temperature High (FMI 0)	218210016
+Coolant Temperature Sensor Input Voltage High (FMI 3)	218210019
+Coolant Temperature Sensor Input Voltage Low (FMI 4)	218210020
+Coolant Temperature (Inactive)	218210032
+Coolant Level Low (FMI 1)	218210049
+Coolant Level Sensor Input Voltage High (FMI 3)	218210051
+Coolant Level Sensor Input Voltage Low (FMI 4)	218210052
+Add Coolant Level Sensor Input Voltage High (FMI 5)	218210053
+Add Coolant Level Sensor Input Voltage Low (FMI 6)	218210054
+Maintenance Alert Coolant Level Fault (FMI 12)	218210060
+Coolant Level (Inactive)	218210064
+Extended Crankcase Pressure High (FMI 0)	218210080
+Extended Crankcase Pressure Low (FMI 1)	218210081
+Extended Crankcase Pressure Input Voltage High (FMI 3)	218210083
+Extended Crankcase Pressure Input Voltage Low (FMI 4)	218210084
+Crankcase Pressure (Inactive)	218210096
+Injection Control Pressure High (FMI 0)	218210112
+Injection Control Pressure  Low (FMI 1)	218210113
+Injection Control Pressure Circuit Voltage High (FMI 3)	218210115
+Injection Control Pressure Sensor Input Voltage Low (FMI 4)	218210116
+Injection Control Pressure (Inactive)	218210128
+M-ECM Battery Voltage High (FMI 0)	218210144
+M-ECM Battery Voltage Low (FMI 1)	218210145
+M-ECM Battery Voltage (Inactive)	218210160
+R-ECM Battery Voltage High (FMI 0)	218210176
+R-ECM Battery Voltage Low (FMI 1)	218210177
+R-ECM Battery Voltage (Inactive)	218210192
+Ambient Air Temperature Sensor Input Voltage High (FMI 3)	218210211
+Ambient Air Temperature Circuit Failed Low (FMI 4)	218210212
+Ambient Air Temperature (Inactive)	218210224
+Air Inlet Temperature High (FMI 0)	218210240
+Air Inlet Temperature Sensor Input Voltage High (FMI 3)	218210243
+Air Inlet Temperature Sensor Input Voltage Low (FMI 4)	218210244
+Air Inlet Temperature (Inactive)	218210256
+Air Inlet Temperature High (FMI 0)	218210272
+Air Inlet Temperature Sensor Input Voltage High (FMI 3)	218210275
+Air Inlet Temperature Sensor Input Voltage Low (FMI 4)	218210276
+Air Inlet Temperature (Inactive)	218210288
+Fuel Temperature Sensor Input Voltage High (FMI 3)	218210307
+Fuel Temperature Sensor Input Voltage Low (FMI 4)	218210308
+Fuel Temperature (Inactive)	218210320
+Engine Oil Temperature High (FMI 0)	218210336
+Engine Oil Temperature Sensor Input Voltage High (FMI 3)	218210339
+Engine Oil Temperature Sensor Input Voltage Low (FMI 4)	218210340
+Engine Oil Temperature (Inactive)	218210352
+Variable Speed Governor Sensor Voltage High (FMI 3)	218210371
+Variable Speed Governor Sensor Voltage Low (FMI 4)	218210372
+Variable Speed Governor Switch System not Responding (FMI 7)	218210375
+VSG Set Speed (Inactive)	218210384
+Engine Overspeed (FMI 0)	218210400
+Engine Speed (Inactive)	218210416
+Fram Checksum Incorrect (FMI 2)	218210434
+Last Customer Calibration Change Hours (Inactive)	218210448
+Injector #1 Response Time Long (FMI 0)	218210464
+Injector #1 Response Time Short (FMI 1)	218210465
+Injector #1 Response Time (Inactive)	218210480
+Injector #2 Response Time Long (FMI 0)	218210496
+Injector #2 Response Time Short (FMI 1)	218210497
+Injector #2 Response Time (Inactive)	218210512
+Injector #3 Response Time Long (FMI 0)	218210528
+Injector #3 Response Time Short (FMI 1)	218210529
+Injector #3 Response Time (Inactive)	218210544
+Injector #4 Response Time Long (FMI 0)	218210560
+Injector #4 Response Time Short (FMI 1)	218210561
+Injector #4 Response Time (Inactive)	218210576
+Injector #5 Response Time Long (FMI 0)	218210592
+Injector #5 Response Time Short (FMI 1)	218210593
+Injector #5 Response Time (Inactive)	218210608
+Injector #6 Response Time Long (FMI 0)	218210624
+Injector #6 Response Time Short (FMI 1)	218210625
+Injector #6 Response Time (Inactive)	218210640
+Injector #7 Response Time Long (FMI 0)	218210656
+Injector #7 Response Time Short (FMI 1)	218210657
+Injector #7 Response Time (Inactive)	218210672
+Injector #8 Response Time Long (FMI 0)	218210688
+Injector #8 Response Time Short (FMI 1)	218210689
+Injector #8 Response Time (Inactive)	218210704
+Injector #9 Response Time Long (FMI 0)	218210720
+Injector #9 Response Time Short (FMI 1)	218210721
+Injector #9 Response Time (Inactive)	218210736
+Injector #10 Response Time Long (FMI 0)	218210752
+Injector #10 Response Time Short (FMI 1)	218210753
+Injector #10 Response Time (Inactive)	218210768
+Injector #11 Response Time Long (FMI 0)	218210784
+Injector #11 Response Time Short (FMI 1)	218210785
+Injector #11 Response Time (Inactive)	218210800
+Injector #12 Response Time Long (FMI 0)	218210816
+Injector #12 Response Time Short (FMI 1)	218210817
+Injector #12 Response Time (Inactive)	218210832
+Injector #13 Response Time Long (FMI 0)	218210848
+Injector #13 Response Time Short (FMI 1)	218210849
+Injector #13 Response Time (Inactive)	218210864
+Injector #14 Response Time Long (FMI 0)	218210880
+Injector #14 Response Time Short (FMI 1)	218210881
+Injector #14 Response Time (Inactive)	218210896
+Injector #15 Response Time Long (FMI 0)	218210912
+Injector #15 Response Time Short (FMI 1)	218210913
+Injector #15 Response Time (Inactive)	218210928
+Injector #16 Response Time Long (FMI 0)	218210944
+Injector #16 Response Time Short (FMI 1)	218210945
+Injector #16 Response Time (Inactive)	218210960
+Timing Actuator (Duel Fuel) Input Voltage Low (FMI 3) 	218210979
+Timing Actuator (Duel Fuel) Input Voltage High (FMI 4) 	218210980
+Timing Actuator (Duel Fuel) (Inactive)	218210992
+Too many SRS (Missing TRS)(FMI 0)	218211008
+Too few SRS (Missing SRS) (FMI 1) 	218211009
+Too many SRS (Inactive)	218211024
+Auxiliary Shutdown #1  Active (FMI 1)	218211041
+Auxiliary Shutdown #1 (Inactive)	218211056
+Auxiliary Output #1 Short to Battery (FMI 3)	218211075
+Auxiliary Output #1 Open Circuit (FMI 4)	218211076
+Auxiliary Output #1 Mechanical System Failure (FMI 7)	218211079
+Auxiliary Output #1 (Inactive)	218211088
+Auxiliary Output #2 Short to Battery (FMI 3)	218211107
+Auxiliary Output #2 Open Circuit (FMI 4)	218211108
+Auxiliary Output #2 Mechanical System Failure (FMI 7)	218211111
+Auxiliary Output #2 (Inactive)	218211120
+Injector #17 Response Time Long (FMI 0)	218211136
+Injector #17 Response Time Short (FMI 1)	218211137
+Injector #17 Response Time (Inactive)	218211152
+Injector #18 Response Time Long (FMI 0)	218211168
+Injector #18 Response Time Short (FMI 1)	218211169
+Injector #18 Response Time (Inactive)	218211184
+Injector #19 Response Time Long (FMI 0)	218211200
+Injector #19 Response Time Short (FMI 1)	218211201
+Injector #19 Response Time (Inactive)	218211216
+Injector #20 Response Time Long (FMI 0)	218211232
+Injector #20 Response Time Short (FMI 1)	218211233
+Injector #20 Response Time (Inactive)	218211248
+Auxiliary Output #3 Open Circuit (High Side) (FMI_3)	218211267
+Auxiliary Output #3 Short To Ground (High Side) (FMI_4)	218211268
+Auxiliary Output #3 Mechanical System Failure (FMI_7)	218211271
+Auxiliary Output #3 (Inactive)	218211280
+Auxiliary Output #4 Open Circuit (High Side) (FMI_3)	218211299
+Auxiliary Output #4 Short To Ground (High Side) (FMI_4)	218211300
+Auxiliary Output #4 Mechanical System Failure (FMI_7)	218211303
+Auxiliary Output #4 (Inactive)	218211312
+Auxiliary Output #5 Short to Battery (FMI 3)	218211331
+Auxiliary Output #5 Open Circuit (FMI 4)	218211332
+Auxiliary Output #5 Mechanical System Failure (FMI 7)	218211335
+Auxiliary Output #5 (Inactive)	218211344
+Auxiliary Output #6 Short to Battery (FMI 3)	218211363
+Auxiliary Output #6 Open Circuit (FMI 4)	218211364
+Auxiliary Output #6 Mechanical System Failure (FMI 7)	218211367
+Auxiliary Output #6 (Inactive)	218211376
+Auxiliary Output #7 Short to Battery (FMI 3)	218211395
+Auxiliary Output #7 Open Circuit (FMI 4)	218211396
+Auxiliary Output #7 Mechanical System Failure (FMI 7)	218211399
+Auxiliary Output #7 (Inactive)	218211408
+Auxiliary Output #8 Short to Battery (FMI 3)	218211427
+Auxiliary Output #8 Open Circuit (FMI 4)	218211428
+Auxiliary Output #8 Mechanical System Failure (FMI 7)	218211431
+Auxiliary Output #8 (Inactive)	218211440
+PWM #1 Above Normal Range (FMI 0)	218211456
+PWM #1 Below Normal Range (FMI 1)	218211457
+PWM #1 Short to Battery (FMI 3)	218211459
+PWM #1 Open Circuit (FMI 4)	218211460
+PWM #1 (Inactive)	218211472
+PWM #2 Above Normal Range (FMI 0)	218211488
+PWM #2 Below Normal Range (FMI 1)	218211489
+PWM #2 Short to Battery (FMI 3)	218211491
+PWM #2 Open Circuit (FMI 4)	218211492
+PWM #2 (Inactive)	218211504
+PWM #3 Above Normal Range (FMI 0)	218211520
+PWM #3 Below Normal Range (FMI 1)	218211521
+PWM #3 Short to Battery (FMI 3)	218211523
+PWM #3 Open Circuit (FMI 4)	218211524
+PWM #3 (Inactive)	218211536
+PWM #4 Above Normal Range (FMI 0)	218211552
+PWM #4 Below Normal Range (FMI 1)	218211553
+PWM #4 Short to Battery (FMI 3)	218211555
+PWM #4 Open Circuit (FMI 4)	218211556
+PWM #4 (Inactive)	218211568
+Auxiliary Shutdown #2 Active (FMI 11)	218211595
+Auxiliary Shutdown #2 (Inactive)	218211600
+Oxygen Content Too High (FMI 0)	218211616
+Oxygen Content Too Low (FMI 1)	218211617
+Oxygen Content Circuit Input Voltage High (FMI 3)	218211619
+Oxygen Content Circuit Input Voltage Low (FMI 4)	218211620
+Oxygen Content (Inactive)	218211632
+Injector #21 Response Time Long (FMI 0)	218211648
+Injector #21 Response Time Short (FMI 1)	218211649
+Injector #21 Response Time (Inactive)	218211664
+Injector #22 Response Time Long (FMI 0)	218211680
+Injector #22 Response Time Short (FMI 1)	218211681
+Injector #22 Response Time (Inactive)	218211696
+Injector #23 Response Time Long (FMI 0)	218211712
+Injector #23 Response Time Short (FMI 1)	218211713
+Injector #23 Response Time (Inactive)	218211728
+Injector #24 Response Time Long (FMI 0)	218211744
+Injector #24 Response Time Short (FMI 1)	218211745
+Injector #24 Response Time (Inactive)	218211760
+Engine Knock Level Above Normal Range (FMI 0)	218211776
+Engine Knock Level Sensor Input Voltage High (FMI 3)	218211779
+Engine Knock Level Sensor Input Voltage Low (FMI 4)	218211780
+Engine Knock Level Sensor Not Responding (FMI 7)	218211783
+Engine Knock Level (Inactive)	218211792
+Gas Valve Position Above Normal Range (FMI 0)	218211808
+Gas Valve Position Below Normal Range (FMI 1)	218211809
+Gas Valve Position Input Voltage High (FMI 3)	218211811
+Gas Valve Position Input Voltage Low (FMI 4)	218211812
+Gas Metering Valve Not Responding (FMI 7)	218211815
+Gas Valve Position (Inactive)	218211824
+Oil Filter Restriction Sensor Voltage High (FMI 3)	218211843
+Oil Filter Restriction Sensor Voltage Low (FMI 4)	218211844
+Oil Filter Restriction Sensor (Inactive)	218211856
+ESS Transmission Stuck in Gear (FMI 14)	218211886
+ESS Transmission Stuck in Gear (Inactive)	218211888
+Other ECU Fault(Another fault missing data from ECU)(FMI 14)	218211918
+Other ECU Fault (Inactive)	218211920
+Transmission Neutral Switch Failure (FMI 11)	218211947
+Transmission Neutral Switch Failure (Inactive)	218211952
+Auxiliary Analog Input Bad Data (FMI 2)	218211970
+Aux Analog Input #1 Voltage High (ESS Transmission) (FMI 3)	218211971
+Aux Analog Input #1 Voltage Low (ESS Transmission) (FMI 4)	218211972
+Auxiliary Analog Input (Inactive)	218211984
+TPS Idle Validation Circuit Fault (Open Circuit) (FMI 5)	218212005
+TPS Idle Validation Circuit Fault (Short to Ground) (FMI 6)	218212006
+TPS Idle Validation Circuit (Inactive)	218212016
+J1939 Data Link Fault (FMI 12)	218212044
+J1939 Data Link Fault (Inactive)	218212048
+Sensor Supply Voltage High (FMI 0)	218212064
+Sensor Supply Voltage Low (FMI 1)	218212065
+Sensor Supply Voltage (Inactive)	218212080
+SEL Short to Battery (+) (FMI 3)	218212099
+SEL Open Circuit (FMI 4)	218212100
+SEL (Inactive)	218212112
+CEL Short to Battery (+) (FMI 3)	218212131
+CEL Open Circuit (FMI 4)	218212132
+CEL (Inactive)	218212144
+Proprietary Data Link Fault (Master) (FMI 8)	218212168
+Proprietary Data Link Fault (Receiver) (FMI 9)	218212169
+Proprietary Data Link Fault (Inactive)	218212176
+J1922 Data Link Fault (FMI 12)	218212204
+J1922 Data Link Fault (Inactive)	218212208
+J1587 Data Link Fault (FMI 12)	218212236
+J1587 Data Link Fault (Inactive)	218212240
+Nonvolatile Checksum Incorrect (FMI 2)	218212258
+EEPROM Write Error (FMI 12)	218212268
+Out Of Calibration (FMI 13 - DDC Code 53)	218212269
+Incompatible Calibration Version (FMI 13 - DDC Code --)	218212272
+External Failed RAM (FMI 0)	218212288
+Internal Failed RAM (FMI 1)	218212289
+Entered Boot Via Switches (FMI 6)	218212294
+A/D Conversion Fail (FMI 12)	218212300
+SID 254 (Inactive)	218212304
+Shutdown Timer Func On	218214344
+Shutdown Timer Func Off	218214345
+Shutdown Timer Stat On	218214346
+Shutdown Timer Stat Off	218214347
+Vehicle Spd Stat On	218214348
+Vehicle Spd Stat Off	218214349
+OEM interface Timeout	218234848
+OEM interface Normal	218234849
+Driver interface Timeout	218234850
+Driver interface Normal	218234851

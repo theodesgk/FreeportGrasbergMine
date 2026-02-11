@@ -1,0 +1,33 @@
+To get this to work, you'll have to add some code to dbini, or make a db_maint
+file with the following:
+
+.include maint/maint_enum
+.expr maint_record \
+   DB$RECORD("SHIFTMAINT",
+          "string id[20]",
+          "link shifteqmt eqmt",
+          "link shiftaux auxeqmt",
+          "string mcomment[MAXCOMMENT] nil",
+          "string maintoper[MAXCOMMENT] nil",
+          "string maintinfo[MAXCOMMENT]",
+          "string worder[MAXCOMMENT] nil",
+          "int maintint[2] nil",
+          "float maintfloat[2] nil",
+          "int mdowntime nil",
+          "int muptime nil",
+          "short reason",
+          "string comment[MAXCOMMENT]",
+          "enum STATUS status",
+          "enum MSTATUS mstatus")
+..
+.def APPEND_SHIFT "SHIFTMAINT shiftmaint"
+..
+
+Put this stuff somewhere after .if DEFINED("DB$RECORD").
+
+You'll have to .init maint_record as well.
+
+Don't forget to add the following to the .update file for the client:
+
++ /dsp/form/engl/maint               # Generic Maintenance Utility 
+

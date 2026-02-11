@@ -1,0 +1,15 @@
+Contamination	1342242816
+Surface Protection	1342242817
+Additive Depletion	1342242818
+Incorrect Oil	1342242819
+Viscosity Out Of Range	1342242820
+Viscosity Rate Of Change Out Of Range	1342242821
+Oil Temperature Out Of Range	1342242823
+Low Storage	1342242824
+Clock Error	1342242825
+Electronics Temperature Out Of Range	1342242826
+Subsystem Communications Error	1342242827
+OEM Interface Timeout	1342308320
+OEM Interface Normal	1342308321
+Driver Interface Timeout	1342308322
+Driver Interface Normal	1342308323

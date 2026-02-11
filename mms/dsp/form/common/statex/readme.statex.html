@@ -1,0 +1,108 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (X11; I; SunOS 5.5.1 sun4m) [Netscape]">
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+<B><U><FONT COLOR="#CC0000"><FONT SIZE=+1>This utility currently handlles
+the following interfaces:</FONT></FONT></U></B>
+
+<P><B>- GE Statex III</B> (DC motors)&nbsp;
+<BR><B>- GE TCI</B> (AC motors - 930E)
+<BR><B>- Old MTU</B> monitoring
+<BR><B>- Demag</B> (With an ETM on board)
+<BR><B>- PLM II </B>(PLM II has a monitoring side to it besides being a
+"weighing system", dipper and final load RPCs should be handled in the
+same way we handle them today in act_dispatch.frm)
+<BR>&nbsp;
+
+<P><B>RPC</B>s: They are part of the master rpc file /psw/etc/rpc
+
+<P>Depending on which interface you are installing, add one or more of
+the lines below to your enum.c:
+
+<P>For <B>TCI, STATEX</B> and <B>PLMII</B> monitoring:
+<BR>&nbsp; { act_other,&nbsp;&nbsp;&nbsp;&nbsp; 0x01C1, fmtint }, /* STATEX
+DATA */
+<BR>&nbsp; { act_other,&nbsp;&nbsp;&nbsp;&nbsp; 0x01C3, fmtint }, /* STATEX
+ALARM */
+
+<P>If you wish to use <B>STATEX</B> information to auto-assign a truck
+based on statex tray-up information. Note that if you wish to use this
+feature you must enable it at the interface level (refer to Chris Kardish's&nbsp;
+documentation on Statex).
+<BR>&nbsp; { act_statextray,&nbsp;&nbsp;&nbsp; 0x01C2, fmtint }, /* STATEX
+TRAYUP */
+
+<P>For old <B>MTU</B> interface:
+<BR>&nbsp; { act_other,&nbsp;&nbsp;&nbsp;&nbsp; 0x0250, fmtint }, /* MTU
+DATA */
+<BR>&nbsp; { act_other,&nbsp;&nbsp;&nbsp;&nbsp; 0x0253, fmtint }, /* MTU
+ALARM */
+
+<P>For <B>Demag</B> interface:
+<BR>&nbsp; { act_other,&nbsp;&nbsp;&nbsp;&nbsp; 0x0428, fmtint }, /* DEMAG
+ALARMS */
+
+<P>Add to myenum.h:
+<BR>&nbsp; #define act_statextray&nbsp;&nbsp; MAXACTION+XX
+<BR>&nbsp; /* XX is the proper number for the action */
+
+<P>Add to /dsp/cli/xxx/form/enum_action.frm (again if AUTO ASSIGN is desired):
+<BR>&nbsp; .equ act_statextray act_last+XX
+<BR>&nbsp; ..XX is the proper number for the action
+
+<P>The following have to be included&nbsp; on act_dispatch:
+<BR>.include statex/act_statex
+
+<P>To be included on ACT$RESTART:
+<BR>!DSP$ISSIM ? STATEX$OPEN
+
+<P>To be included on ACT$OTHER:
+
+<P>For <B>TCI, STATEX</B> and <B>PLMII</B> monitoring:
+<BR>0X01C1: ACT$STATEXDIAG
+<BR>0X01C3: ACT$STATEXDATA
+
+<P>For old <B>MTU</B> interface:
+<BR>0X0250: ACT$STATEXDIAG
+<BR>0X0253: ACT$STATEXDATA
+
+<P>For <B>Demag</B> interface:
+<BR>0X428: ACT$STATEXDIAG
+
+<P>To be included on ACT$TRUCK if auto assignment will be used based on
+STATEX tray-up input
+
+<P>act_statextray: !DSP$CODE ?
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+TRN$SCREEN("Auto-assigning %{DSP$EQMT} by STATEX TRAY UP"),
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+T$ACTION := act_assign&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; .. Bed has been
+lowered, ASSIGN
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+) :
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+"Use for the information that the bed is raised"
+<BR>&nbsp;
+
+<P>Copy to DSP_OPNS:
+<BR>&nbsp; /dsp/form/engl/statex/statexconfig.ddb
+
+<P>Add to your client's .update file:
+<BR>+ /dsp/form/engl/statex
+
+<P>The statex utility mainmenu should be entered in an appropriate place
+calling "statex/statex_mainmenu"
+
+<P><FONT COLOR="#990000">IF EXCEPTIONS ARE DESIRED</FONT> (exceptions are
+available at this point for <B>STATEX</B> and <B>DEMAG</B> interfaces):
+<BR>In the end of except.frm add the following line:
+<BR>.include statex/statex_except
+
+<P>For information on firmware loading and operation refer to our Intranet
+documentation.
+</BODY>
+</HTML>

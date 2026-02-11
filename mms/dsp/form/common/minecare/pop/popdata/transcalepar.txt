@@ -1,0 +1,5 @@
+1593901057	Wheel 1 Weigh	65535	0	19
+1593901058	Wheel 2 Weigh	65535	0	19
+1593901059	Wheel 3 And 4 Weigh	65535	0	19
+1593901060	Wheel 5 And 6 Weigh	65535	0	19
+1593901061	Vehicle Identification	0	0	0

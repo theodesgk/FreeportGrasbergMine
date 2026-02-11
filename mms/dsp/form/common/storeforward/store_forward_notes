@@ -1,0 +1,61 @@
+Store and Forward Notes
+
+------------------------------------------------------------------------
+1. sf_test script
+This is a test script to test the Store and Forward Event Handler. It is 
+designed to run with real time Dispatch. A data file contains a set of
+equipment actions. The actions are designated as FIELD or SPOOL actions.
+The FIELD actions are sent to real time Dispatch and recorded in the RPCSPL
+table. The SPOOL actions are only recorded in the RPCSPL table. This is
+used to build a set of test data that the SF_Handler process can use to
+test the functionality of the Store and Forward process. The script takes
+from one to three arguments. The first is the path and name of the data file
+to process.
+The second argument, which is optional, is the debug level. Allowable
+values for debug level are 0, 1, and 2. The higher the debug level the more
+information is displayed as the script runs.
+The third argument which is also optional is the pause time between events.
+If no value is given it defaults to 1 second. Any number of seconds can be
+entered.
+
+USAGE: sf_test <data file> <debug level (optional)> <pause time (optional)>
+--------------------------------------------------------------------------
+2. SF_Handler script
+This is the script that runs the Store and Forward event handler. This
+script is run any time you wish to process events from the RPCSPL table.
+The process takes two arguments. The first is the client path (for instance
+/dsp/cli/syslab2). The second argument, which is optional, is the debug
+level for the event log. If the debug level argument is not given it is
+defaulted to 0. It can be set to 1 or 2. The higher the debug level the more
+information is recorded in the event log. 
+
+USAGE: SF_Handler <client> <debug level (optional)>
+---------------------------------------------------------------------------
+3. sf_process.frm
+This is the main form that is run by the SF_Handler script. It performs all
+of the processing of the events stored in the RPCSPL table
+
+----------------------------------------------------------------------------
+4. setrpcsplstat.sh script
+This script is used to reset the STATUS field for all events in 
+the RPCSPL table. This script takes two arguments. The first is the old value for the STATUS field that you want changed and the second is the new value that you wish STATUS changed to. This script was created for testing purposes only.
+
+USAGE: setrpcsplstat.sh <old value> <new value>
+-----------------------------------------------------------------------------
+5. clear_rpcspl.sh script
+This script is used to clear all events from the RPCSPL table. This is helpful
+in testing.
+
+USAGE: clear_rpcspl.sh
+----------------------------------------------------------------------------
+6. Real time forms modified
+   act_dispatch.frm - add call to store forward code for all PANEL actions
+	for truck, exacv, and aux eqmt
+   act_other.frm - no talk handler modified
+   truckactions.frm - TruckActLate expression modified
+   excavactions.frm - ExcavActLate expression modified
+   auxactions.frm - AuxActLate expression modified
+   except.frm - OTHER_30 exception added for store forward no comms
+   switches.frm - added STOREFORWARD_MODULE switch
+   storeforward/act_storeforward.frm - new form contains store forward logic
+	for generating no comms exception

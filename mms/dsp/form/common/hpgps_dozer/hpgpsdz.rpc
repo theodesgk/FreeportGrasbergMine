@@ -1,0 +1,42 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: hpgpsdz.rpc,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:13 $
+..    $State: Exp $
+..
+#
+#     High Precision GPS Dozer RPCs
+#
+# HPENDHOLE: 1: pattern ID
+#            2: hole ID
+#            3: hole X (mine coordinates)
+#            4: hole Y (mine coordinates)
+#            5: hole Z (mine coordinates)
+#            6: mast inclination
+#            7: GPS quality
+0x01ef  HPENDHOLE         dispatch        ssllldd               RADIO
+0x1e0   GEO-REQUEST     dispatch        llll             RADIO
+0x1e2   GEO-LOAD        dispatch        v               RADIO
+0x1e3   GEO-FILES       dispatch        ss              RADIO
+0x1de	HP-EQMT-PATH-DEBUG	dispatch	lll[dddbb]	RADIO
+0x1dc	HP-EQMT-PATH	dispatch	llld[bdddddd]	RADIO
+0x1d8   HP-DISPLAY-PATH dispatch       lllld[dddd]       RADIO 
+#
+# Debugging rpcs
+0x1e8	HP-GC-GET-FREQ	dispatch	v,ddd	RADIO
+0x1eb	HP-DEBUG-START	dispatch	ddddbss	RADIO
+0x1ec	HP-DEBUG-STOP	dispatch	dddd	RADIO
+0x1ed	HP-HUB-GET-FREQ	dispatch	v,d	RADIO
+#
+# System status rpcs
+0x1e6	HPGPS-QUERY	dispatch	v,s		RADIO
+0x1e5	HPDRILL-QUERY	dispatch	v,s		RADIO
+#
+# Feedback from CGC rpcs
+#0x0825	HP-PASS		dispatch	sffdfd	RADIO
+#0x1db	HP-PASS		dispatch	s[l]		RADIO
+0x1da	HP-PASS		dispatch	s[l]		RADIO

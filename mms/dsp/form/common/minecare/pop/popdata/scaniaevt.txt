@@ -1,0 +1,116 @@
+OEM interface Timeout	855769056
+OEM interface Normal	855769057
+Driver interface Timeout	855769058
+Driver interface Normal	855769059
+Alarm Unset	855703552
+Alarm Set	855703553
+Alarm Triggered	855703554
+Silent Alarm Triggered	855703555
+Alarm Set Perimeter	855703556
+Ferry Mode	855703557
+Alarm Unset with XPDR failed	855703558
+Alarm Unset with XPDR successed	855703559
+Work Alert	855703560
+Alarm Test	855703561
+Alarm passive set	855703562
+Main Beam Intended Off	855703563
+Main Beam Intended On	855703564
+Main Beam Intended Error	855703565
+Main Beam Intended Not Available	855703566
+Dipped Beam Intended Off	855703567
+Dipped Beam Intended On	855703568
+Dipped Beam Intended Error	855703569
+Dipped Beam Intended Not Available	855703570
+Front Fog Lamp Intended Off	855703571
+Front Fog Lamp Intended On	855703572
+Front Fog Lamp Intended Error	855703573
+Front Fog Lamp Intended Not Available	855703574
+Rear Fog Lamp Intended Off	855703575
+Rear Fog Lamp Intended On	855703576
+Rear Fog Lamp Intended Error	855703577
+Rear Fog Lamp Intended Not Available	855703578
+Reversing Lamp Intended Off	855703579
+Reversing Lamp Intended On	855703580
+Reversing Lamp Intended Error	855703581
+Reversing Lamp Intended Not Available	855703582
+Stop Lamp Intended Off	855703583
+Stop Lamp Intended On	855703584
+Stop Lamp Intended Error	855703585
+Stop Lamp Intended Not Available	855703586
+Wiper Intended Off	855703587
+Wiper Intended On	855703588
+Wiper Intended Error	855703589
+Wiper Intended Not Available	855703590
+Direction Indicator Lamp Truck Left Off	855703591
+Direction Indicator Lamp Truck Left On	855703592
+Direction Indicator Lamp Truck Left Error	855703593
+Direction Indicator Lamp Truck Left Not Available	855703594
+Direction Indicator Lamp Truck Right Off	855703595
+Direction Indicator Lamp Truck Right On	855703596
+Direction Indicator Lamp Truck Right Error	855703597
+Direction Indicator Lamp Truck Right Not Available	855703598
+Direction Indicator Lamp Trailer Left Off	855703599
+Direction Indicator Lamp Trailer Left On	855703600
+Direction Indicator Lamp Trailer Left Error	855703601
+Direction Indicator Lamp Trailer Left Not Available	855703602
+Direction Indicator Lamp Trailer Right Off	855703603
+Direction Indicator Lamp Trailer Right On	855703604
+Direction Indicator Lamp Trailer Right Error	855703605
+Direction Indicator Lamp Trailer Right Not Available	855703606
+Direction indicator level status Off	855703607
+Direction indicator level status On	855703608
+Direction indicator level status Error	855703609
+Direction indicator level status Not Available	855703610
+Horn intended Off	855703611
+Horn intended On	855703612
+Horn intended Error	855703613
+Horn intended Not Available	855703614
+Work light toggle switch Off	855703615
+Work light toggle switch On	855703616
+Work light toggle switch Error	855703617
+Work light toggle switch Not Available	855703618
+Work light output status Off	855703619
+Work light output status On	855703620
+Work light output status Error	855703621
+Work light output status Not Available	855703622
+58 Off	855703623
+58 On	855703624
+58 Error	855703625
+58 Not Available	855703626
+Parking lights Switch Not in position	855703627
+Parking lights Switch In position	855703628
+Parking lights Error	855703629
+Parking lights Not Available	855703630
+Driving lights Switch Not in position	855703631
+Driving lights Switch In position	855703632
+Driving lights Error	855703633
+Driving lights Not Available	855703634
+Cruise Control Resume Switch Off	855703635
+Cruise Control Resume Switch On	855703636
+Cruise Control Resume Switch Error	855703637
+Cruise Control Resume Switch Not Available	855703638
+Cruise Control Accel Switch Off	855703639
+Cruise Control Accel Switch On	855703640
+Cruise Control Accel Switch Error	855703641
+Cruise Control Accel Switch Not Available	855703642
+Drive No Motion	855703643
+Drive In Motion	855703644
+Drive Error	855703645
+Drive Not Available	855703646
+No Overspeed	855703647
+Overspeed	855703648
+Overspeed Error	855703649
+Overspeed Not Available	855703650
+Direction Forward	855703651
+Direction Reverse	855703652
+Direction Error	855703653
+Direction Not Available	855703654
+EBC Red Warning Off	855703655
+EBC Red Warning On	855703656
+EBC Red Warning Error	855703657
+EBC Red Warning Not Available	855703658
+EBC Amber Warning Off	855703659
+EBC Amber Warning On	855703660
+EBC Amber Warning Error	855703661
+EBC Amber Warning Not Available	855703662
+Crash Ocurred	855703663

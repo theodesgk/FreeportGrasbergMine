@@ -1,0 +1,125 @@
+Left Front Sensor Ok	1694564353
+Left Front Sensor Error	1694564354
+Right Front Sensor Ok	1694564355
+Right Front Sensor Error	1694564356
+Left Rear Sensor Ok	1694564357
+Left Rear Sensor Error	1694564358
+Right Rear Sensor Ok	1694564359
+Right Rear Sensor Error	1694564360
+State Unknown	1694564361
+Empty	1694564362
+Loading	1694564363
+Maneuvering	1694564364
+Hauling	1694564365
+Dumping	1694564366
+Tare	1694564367
+Start Loading Flag	1694564368
+Service Brake Ok	1694564369
+Service Brake Warning	1694564370
+Service Brake Alarm	1694564371
+Front Brake Pressure Ok	1694564372
+Front Brake Pressure Warning	1694564373
+Front Brake Pressure Alarm	1694564374
+Rear Brake Pressure Ok	1694564375
+Rear Brake Pressure Warning	1694564376
+Rear Brake Pressure Alarm	1694564377
+Park Brake Pressure Ok	1694564378
+Park Brake Pressure Warning	1694564379
+Park Brake Pressure Alarm	1694564380
+Park Brake Ok	1694564381
+Park Brake Warning	1694564382
+Brake Accumulator 1 Status Ok	1694564383
+Brake Accumulator 1 Status Low	1694564384
+Brake Accumulator 1 Status High	1694564385
+Brake Accumulator 1 Status Error	1694564386
+Brake Accumulator 2 Status Ok	1694564387
+Brake Accumulator 2 Status Low	1694564388
+Brake Accumulator 2 Status High	1694564389
+Brake Accumulator 2 Status Error	1694564390
+Steering Accumulator 1 Status Ok	1694564391
+Steering Accumulator 1 Status Low	1694564392
+Steering Accumulator 1 Status High	1694564393
+Steering Accumulator 1 Status Error	1694564394
+Steering Accumulator 2 Status Ok	1694564395
+Steering Accumulator 2 Status Low	1694564396
+Steering Accumulator 2 Status High	1694564397
+Steering Accumulator 2 Status Error	1694564398
+Steering Accumulator 3 Status Ok	1694564399
+Steering Accumulator 3 Status Low	1694564400
+Steering Accumulator 3 Status High	1694564401
+Steering Accumulator 3 Status Error	1694564402
+Steer Oil Filter Status Ok	1694564403
+Steer Oil Filter Status Clog	1694564404
+Steer Oil Pressure Status Ok	1694564405
+Steer Oil Pressure Status Low	1694564406
+Steer Oil Pressure Status High	1694564407
+Steer Oil Pressure Status Error	1694564408
+Steering Return Oil Line Filter Status Ok	1694564409
+Steering Return Oil Line Filter Status Clog	1694564410
+Hoist Oil Filter 1 Status Normal	1694564411
+Hoist Oil Filter 1 Status Warning	1694564412
+Hoist Oil Filter 1 Status Error	1694564413
+Hoist Oil Filter 2 Status Normal	1694564414
+Hoist Oil Filter 2 Status Warning	1694564415
+Hoist Oil Filter 2 Status Error	1694564416
+Hoist Lever Position Ok	1694564417
+Hoist Lever Position Error	1694564418
+Hydraulic Tank Temperature Ok	1694564419
+Hydraulic Tank Temperature High 	1694564420
+Hydraulic Tank Temperature Sensor Error	1694564421
+Overloaded Ok	1694564422
+Overloaded Warning - Without Speed Derate	1694564423
+Overloaded Alarm - With Speed Derate	1694564424
+Start Dump	1694564425
+Stop Dump	1694564426
+Body Up Ok	1694564427
+Body Up Warning - Speed Restriction	1694564428
+Hydraulic Shutoff Valve Ok	1694564429
+Hydraulic Shutoff Valve Open Circuit	1694564430
+Drive Side Gear Oil Temperature Ok	1694564431
+Drive Side Gear Oil Temperature High	1694564432
+Drive Side Gear Oil Temperature Very High	1694564433
+Drive Side Gear Oil Temperature Error	1694564434
+Passenger Side Gear Oil Temperature Ok	1694564435
+Passenger Side Gear Oil Temperature High	1694564436
+Passenger Side Gear Oil Temperature Very High	1694564437
+Passenger Side Gear Oil Temperature Error	1694564438
+Gear Cooling Oil Filters Ok	1694564439
+Gear Cooling Oil Filters Clog	1694564440
+Gear Cooling Oil Filters Error	1694564441
+No Central Warning	1694564442
+Central Warning Caution	1694564443
+Central Warning Stop	1694564444
+Fuel Level Ok	1694564445
+Fuel Level Warning	1694564446
+Fuel Level Alarm	1694564447
+Fuel Level Error	1694564448
+Air Filter 12 Ok	1694564449
+Air Filter 12 Warning	1694564450
+Air Filter 12 Error	1694564451
+Air Filter 34 Ok	1694564452
+Air Filter 34 Warning	1694564453
+Air Filter 34 Error	1694564454
+Lubrication Status Ok	1694564455
+Lubrication Auto Lube On	1694564456
+Lubrication System Fault	1694564457
+Emergency Switch Off	1694564458
+Emergency Switch On	1694564459
+Pressure Switch Off	1694564460
+Pressure Switch On	1694564461
+Grease Level Ok	1694564462
+Grease Level Low	1694564463
+Seat Belt Ok	1694564464
+No Seat Belt	1694564465
+Cab Door Ok	1694564466
+Cab Door Is Open	1694564467
+Truck Roll Away Ok	1694564468
+Truck Roll Away Warning - Put Brakes On	1694564469
+Being Loaded And In Propel Ok	1694564470
+Being Loaded And In Propel Warning	1694564471
+Being Loaded And Brake Lock Not Applied Ok	1694564472
+Being Loaded And Brake Lock Not Applied Warning	1694564473
+OEM Interface Timeout	1694629856
+OEM Interface Normal	1694629857
+Driver Interface Timeout	1694629858
+Driver Interface Normal	1694629859

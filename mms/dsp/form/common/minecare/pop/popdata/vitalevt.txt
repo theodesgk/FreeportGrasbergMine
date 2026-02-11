@@ -1,0 +1,446 @@
+OEM interface timeout	100794336
+OEM interface normal	100794337
+Driver interface timeout	100794338
+Driver interface normal	100794339
+Engine Event 1	100729332
+Engine Event 2	100729333
+Engine Event 3	100729334
+Engine Event 4	100729335
+Engine Event 5	100729336
+Engine Event 6	100729337
+Engine Event 7	100729338
+Engine Event 8	100729339
+Engine Event 9	100729340
+Engine Event 10	100729341
+Engine Event 11	100729342
+Engine Event 12	100729343
+Engine Event 13	100729344
+Engine Event 14	100729345
+Engine Event 15	100729346
+Engine Event 16	100729347
+Engine Event 17	100729348
+Engine Event 18	100729349
+Engine Event 19	100729350
+Engine Event 20	100729351
+Engine Warning Light 1	100729352
+Engine Warning Light 2	100729353
+Engine Warning Light 3	100729354
+Engine Warning Light 4	100729355
+Engine Warning Light 5	100729356
+Engine Warning Light 6	100729357
+Engine Warning Light 7	100729358
+Engine Warning Light 8	100729359
+Engine Warning Light 9	100729360
+Engine Warning Light 10	100729361
+Engine Oil Level Low	100729362
+Engine Oil Level High	100729363
+Engine Oil Pressure Low	100729364
+Engine Oil Pressure High	100729365
+Engine Oil Temperature Low	100729366
+Engine Oil Temperature High	100729367
+Coolant Level Low	100729368
+Coolant Level High	100729369
+Coolant Pressure Low	100729370
+Coolant Pressure High	100729371
+Coolant Temperature Low	100729372
+Coolant Temperature High	100729373
+Blowby Pressure Low	100729374
+Blowby Pressure Low	100729375
+Pre Lube Oil Filter Pressure Low	100729376
+Pre Lube Oil Filter Pressure High	100729377
+Post Lube Oil Filter Pressure Low	100729378
+Post Lube Oil Filter Pressure High	100729379
+Lube Oil Temperature Low	100729380
+Lube Oil Temperature High	100729381
+Left Bank Compressor Inlet Air Temperature Low	100729382
+Left Bank Compressor Inlet Air Temperature Low	100729383
+Right Bank Compressor Inlet Air Temperature	100729384
+Right Bank Compressor Inlet Air Temperature	100729385
+Left Intake Manifold Temperature Low	100729386
+Left Intake Manifold Temperature High	100729387
+Right Intake Manifold Temperature Low	100729388
+Right Intake Manifold Temperature High	100729389
+Left Bank Intake Manifold Pressure Low	100729390
+Left Bank Intake Manifold Pressure High	100729391
+Right Bank Intake Manifold Pressure Low	100729392
+Right Bank Intake Manifold Pressure High	100729393
+Left Bank Exhaust Port Temperature Low	100729394
+Left Bank Exhaust Port Temperature High	100729395
+Right Bank Exhaust Port Temperature Low	100729396
+Right Bank Exhaust Port Temperature High	100729397
+Fuel Level Low	100729398
+Fuel Level High	100729399
+Engine Coolant Flow	100729400
+Fuel Filter	100729401
+Fuel Pressure	100729402
+Filter Indicator (coolant)	100729403
+Coolant Bypass Temp	100729404
+Hydraulic Event 1	100730332
+Hydraulic Event 2	100730333
+Hydraulic Event 3	100730334
+Hydraulic Event 4	100730335
+Hydraulic Event 5	100730336
+Hydraulic Event 6	100730337
+Hydraulic Event 7	100730338
+Hydraulic Event 8	100730339
+Hydraulic Event 9	100730340
+Hydraulic Event 10	100730341
+Hydraulic Event 11	100730342
+Hydraulic Event 12	100730343
+Hydraulic Event 13	100730344
+Hydraulic Event 14	100730345
+Hydraulic Event 15	100730346
+Hydraulic Event 16	100730347
+Hydraulic Event 17	100730348
+Hydraulic Event 18	100730349
+Hydraulic Event 19	100730350
+Hydraulic Event 20	100730351
+Hydraulic Oil Level Low	100730352
+Hydraulic Oil Level High	100730353
+Hydraulic Oil Pressure Low	100730354
+Hydraulic Oil Pressure High	100730355
+Hydraulic Oil Temperature Low	100730356
+Hydraulic Oil Temperature High	100730357
+Hydraulic Tank Temperature Low	100730358
+Hydraulic Tank Temperature High	100730359
+Hoist Cylinder Press and Lift Low	100730360
+Hoist Cylinder Press and Lift High	100730361
+Steering Pump Pressure Low	100730362
+Steering Pump Pressure High	100730363
+Steering Accum Pressure Low	100730364
+Steering Accum Pressure High	100730365
+Pump Inlet Valve Low	100730366
+Pump Inlet Valve High	100730367
+Front Pump Temperature Low	100730368
+Front Pump Temperature High	100730369
+Rear Pump Temperature Low	100730370
+Rear Pump Temperature High	100730371
+Lift Cylinder Pressure Low	100730372
+Lift Cylinder Pressure High	100730373
+Tilt Cylinder Pressure Low	100730374
+Tilt Cylinder Pressure High	100730375
+Electrical Event 1	100731332
+Electrical Event 2	100731333
+Electrical Event 3	100731334
+Electrical Event 4	100731335
+Electrical Event 5	100731336
+Electrical Event 6	100731337
+Electrical Event 7	100731338
+Electrical Event 8	100731339
+Electrical Event 9	100731340
+Electrical Event 10	100731341
+Electrical Event 11	100731342
+Electrical Event 12	100731343
+Electrical Event 13	100731344
+Electrical Event 14	100731345
+Electrical Event 15	100731346
+Electrical Event 16	100731347
+Electrical Event 17	100731348
+Electrical Event 18	100731349
+Electrical Event 19	100731350
+Electrical Event 20	100731351
+Battery Voltage Low	100731352
+Battery Voltage High	100731353
+Alternator Voltage Low	100731354
+Alternator Voltage High	100731355
+System Voltage Low	100731356
+System Voltage High	100731357
+Drivetrain Event 1	100732332
+Drivetrain Event 2	100732333
+Drivetrain Event 3	100732334
+Drivetrain Event 4	100732335
+Drivetrain Event 5	100732336
+Drivetrain Event 6	100732337
+Drivetrain Event 7	100732338
+Drivetrain Event 8	100732339
+Drivetrain Event 9	100732340
+Drivetrain Event 10	100732341
+Drivetrain Event 11	100732342
+Drivetrain Event 12	100732343
+Drivetrain Event 13	100732344
+Drivetrain Event 14	100732345
+Drivetrain Event 15	100732346
+Drivetrain Event 16	100732347
+Drivetrain Event 17	100732348
+Drivetrain Event 18	100732349
+Drivetrain Event 19	100732350
+Drivetrain Event 20	100732351
+Drivetrain Warning Light 1	100732352
+Drivetrain Warning Light 2	100732353
+Drivetrain Warning Light 3	100732354
+Drivetrain Warning Light 4	100732355
+Drivetrain Warning Light 5	100732356
+Drivetrain Warning Light 6	100732357
+Drivetrain Warning Light 7	100732358
+Drivetrain Warning Light 8	100732359
+Drivetrain Warning Light 9	100732360
+Drivetrain Warning Light 10	100732361
+Ground fault current low	100732362
+Ground fault current high	100732363
+Motor#1 armature current low	100732364
+Motor#1 armature current high	100732365
+Motor#2 armature current low	100732366
+Motor#2 armature current high	100732367
+Motor field current low	100732368
+Motor field current high	100732369
+Alternator field current low	100732370
+Alternator field current high	100732371
+Alternator field voltage low	100732372
+Alternator field voltage high	100732373
+Alternator output voltage low	100732374
+Alternator output voltage high	100732375
+Motor #1 temperature low	100732376
+Motor #1 temperature high	100732377
+Motor #2 temperature low	100732378
+Motor #2 temperature high	100732379
+Differential Oil Level low	100732380
+Differential Oil Level high	100732381
+Differential Temperature low	100732382
+Differential Temperature high	100732383
+Differential Lube Pressure low	100732384
+Differential Lube Pressure high	100732385
+Transmission Lube Temperature Low	100732386
+Transmission Lube Temperature High	100732387
+Transmission Pump Pressure Low	100732388
+Transmission Pump Pressure High	100732389
+Front Axle Temperature Low	100732390
+Front Axle Temperature High	100732391
+Rear Axle Temperature Low	100732392
+Rear Axle Temperature High	100732393
+Implement Oil Level Low	100732394
+Implement Oil Level High	100732395
+Implement Oil Pressure Low	100732396
+Implement Oil Pressure High	100732397
+Implement Oil Level	100732398
+Implement Oil Temp	100732399
+Transmission Filter	100732400
+Converter Temp	100732401
+Tractor T/C Temp	100732402
+T/C Oil Temp	100732403
+Power Train Temp	100732404
+Power Train Filter	100732405
+Brake Event 1	100733332
+Brake Event 2	100733333
+Brake Event 3	100733334
+Brake Event 4	100733335
+Brake Event 5	100733336
+Brake Event 6	100733337
+Brake Event 7	100733338
+Brake Event 8	100733339
+Brake Event 9	100733340
+Brake Event 10	100733341
+Brake Event 11	100733342
+Brake Event 12	100733343
+Brake Event 13	100733344
+Brake Event 14	100733345
+Brake Event 15	100733346
+Brake Event 16	100733347
+Brake Event 17	100733348
+Brake Event 18	100733349
+Brake Event 19	100733350
+Brake Event 20	100733351
+Front Service Brake Pressure Low	100733352
+Front Service Brake Pressure High	100733353
+Front Brake Oil Temperature Low	100733354
+Front Brake Oil Temperature High	100733355
+Rear Brake Oil Temperature Low	100733356
+Rear Brake Oil Temperature High	100733357
+Brake Oil Level Low	100733358
+Brake Oil Level High	100733359
+Retarder Temperature Low	100733360
+Retarder Temperature High	100733361
+Front Brake Pressure Low	100733362
+Front Brake Pressure High	100733363
+Rear Brake Pressure Low	100733364
+Rear Brake Pressure High	100733365
+Primary Brake Pressure Low	100733366
+Primary Brake Pressure High	100733367
+Secondary Brake Pressure Low	100733368
+Secondary Brake Pressure High	100733369
+Front Brake Accumulator Pressure Low	100733370
+Front Brake Accumulator Pressure High	100733371
+Rear Brake Accumulator Pressure Low	100733372
+Rear Brake Accumulator Pressure High	100733373
+Brake On	100733374
+Aux. System Event 1	100734332
+Aux. System Event 2	100734333
+Aux. System Event 3	100734334
+Aux. System Event 4	100734335
+Aux. System Event 5	100734336
+Aux. System Event 6	100734337
+Aux. System Event 7	100734338
+Aux. System Event 8	100734339
+Aux. System Event 9	100734340
+Aux. System Event 10	100734341
+Aux. System Event 11	100734342
+Aux. System Event 12	100734343
+Aux. System Event 13	100734344
+Aux. System Event 14	100734345
+Aux. System Event 15	100734346
+Aux. System Event 16	100734347
+Aux. System Event 17	100734348
+Aux. System Event 18	100734349
+Aux. System Event 19	100734350
+Aux. System Event 20	100734351
+Steering Pressure Low	100734352
+Steering Pressure High	100734353
+Steering Temperature Low	100734354
+Steering Temperature High	100734355
+Steering Pilot Pressure Low	100734356
+Steering Pilot Pressure High	100734357
+Steering Oil Level Low	100734358
+Steering Oil Level High	100734359
+Steering Oil Temp	100734360
+Primary Steering	100734361
+Frame Event 1	100735332
+Frame Event 2	100735333
+Frame Event 3	100735334
+Frame Event 4	100735335
+Frame Event 5	100735336
+Frame Event 6	100735337
+Frame Event 7	100735338
+Frame Event 8	100735339
+Frame Event 9	100735340
+Frame Event 10	100735341
+Frame Event 11	100735342
+Frame Event 12	100735343
+Frame Event 13	100735344
+Frame Event 14	100735345
+Frame Event 15	100735346
+Frame Event 16	100735347
+Frame Event 17	100735348
+Frame Event 18	100735349
+Frame Event 19	100735350
+Frame Event 20	100735351
+LF Strut Pressure Low	100735352
+LF Strut Pressure High	100735353
+LR Strut Pressure Low	100735354
+LR Strut Pressure High	100735355
+RF Strut Pressure Low	100735356
+RF Strut Pressure High	100735357
+RR Strut Pressure Low	100735358
+RR Strut Pressure High	100735359
+Drill Event 1	100736332
+Drill Event 2	100736333
+Drill Event 3	100736334
+Drill Event 4	100736335
+Drill Event 5	100736336
+Drill Event 6	100736337
+Drill Event 7	100736338
+Drill Event 8	100736339
+Drill Event 9	100736340
+Drill Event 10	100736341
+Drill Event 11	100736342
+Drill Event 12	100736343
+Drill Event 13	100736344
+Drill Event 14	100736345
+Drill Event 15	100736346
+Drill Event 16	100736347
+Drill Event 17	100736348
+Drill Event 18	100736349
+Drill Event 19	100736350
+Drill Event 20	100736351
+Main Air Pressure Low	100736352
+Main Air Pressure High	100736353
+Rotary Current Low	100736354
+Rotary Current High	100736355
+Bit Air Pressure Low	100736356
+Bit Air Pressure High	100736357
+Hydraulic Pull-down Pressure Low	100736358
+Hydraulic Pull-down Pressure High	100736359
+Pull-down Current Low	100736360
+Pull-down Current High	100736361
+Shovel Event 1	100737332
+Shovel Event 2	100737333
+Shovel Event 3	100737334
+Shovel Event 4	100737335
+Shovel Event 5	100737336
+Shovel Event 6	100737337
+Shovel Event 7	100737338
+Shovel Event 8	100737339
+Shovel Event 9	100737340
+Shovel Event 10	100737341
+Shovel Event 11	100737342
+Shovel Event 12	100737343
+Shovel Event 13	100737344
+Shovel Event 14	100737345
+Shovel Event 15	100737346
+Shovel Event 16	100737347
+Shovel Event 17	100737348
+Shovel Event 18	100737349
+Shovel Event 19	100737350
+Shovel Event 20	100737351
+Swing off	100737352
+Swing on	100737353
+Hoist off	100737354
+Hoist on	100737355
+Trip Signal off	100737356
+Trip Signal on	100737357
+Propel off	100737358
+Propel on	100737359
+Front Swing Oil Level Low	100737360
+Front Swing Oil Level High	100737361
+Left Rear Swing Oil Level Low	100737362
+Left Rear Swing Oil Level High	100737363
+Right Rear Swing Oil Level Low	100737364
+Right Rear Swing Oil Level High	100737365
+Boom Float Pressure Low	100737366
+Boom Float Pressure High	100737367
+Travel Alarm off	100737368
+Travel Alarm on	100737369
+Air Pressure Low	100737370
+Air Pressure High	100737371
+Vital Signs Analog Input 1 High	100738332
+Vital Signs Analog Input 1 Low	100738333
+Vital Signs Analog Input 2 High	100738334
+Vital Signs Analog Input 2 Low	100738335
+Vital Signs Analog Input 3 High	100738336
+Vital Signs Analog Input 3 Low	100738337
+Vital Signs Analog Input 4 High	100738338
+Vital Signs Analog Input 4 Low	100738339
+Vital Signs Analog Input 5 High	100738340
+Vital Signs Analog Input 5 Low	100738341
+Vital Signs Analog Input 6 High	100738342
+Vital Signs Analog Input 6 Low	100738343
+Vital Signs Analog Input 7 High	100738344
+Vital Signs Analog Input 7 Low	100738345
+Vital Signs Analog Input 8 High	100738346
+Vital Signs Analog Input 8 Low	100738347
+Vital Signs Digital Input 1 High	100738348
+Vital Signs Digital Input 2 High	100738349
+Vital Signs Digital Input 3 High	100738350
+Vital Signs Digital Input 4 High	100738351
+Vital Signs Digital Input 5 High	100738352
+Vital Signs Digital Input 6 High	100738353
+Vital Signs Digital Input 7 High	100738354
+Vital Signs Digital Input 8 High	100738355
+Vital Signs Digital Input 9 High	100738356
+Vital Signs Digital Input 10 High	100738357
+Vital Signs Digital Input 11 High	100738358
+Vital Signs Digital Input 12 High	100738359
+Vital Signs Digital Input 13 High	100738360
+Vital Signs Digital Input 14 High	100738361
+Vital Signs Digital Input 15 High	100738362
+Vital Signs Digital Input 16 High	100738363
+General Event 1	100738364
+General Event 2	100738365
+General Event 3	100738366
+General Event 4	100738367
+General Event 5	100738368
+General Event 6	100738369
+General Event 7	100738370
+General Event 8	100738371
+General Event 9	100738372
+General Event 10	100738373
+Body Position down	100738374
+Body Position up	100738375
+Body Lever off	100738376
+Body Lever on	100738377
+Engine Shutdown Switch off	100738378
+Engine Shutdown Switch on	100738379
+Lube Pressure Low	100738380
+Lube Pressure High	100738381
+Master Fault	100738382
+Action Lamp 1	100738383
+Action Lamp 2	100738384
+Master Action Alarm	100738385

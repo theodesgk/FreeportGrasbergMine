@@ -1,0 +1,1050 @@
+Travel Operation - Off	989921280
+Travel Operation - On	989921281
+Travel Operation - Invalid	989921283
+Excluding Travel Operation - Off	989921296
+Excluding Travel Operation - On	989921297
+Excluding Travel Operation - Invalid	989921299
+Auto-Idle Switch Status - Off	989921312
+Auto-Idle Switch Status - On	989921313
+Auto-Idle Switch Status - Invalid	989921315
+Travel Mode Switch Status - Low	989921328
+Travel Mode Switch Status - High	989921329
+Travel Mode Switch Status - Invalid	989921331
+Prelub Function Status(L) - Off	989921344
+Prelub Function Status(L) - On	989921345
+Prelub Function Status(L) - Alarm	989921346
+Prelub Function Status(L) - Invalid	989921347
+Prelub Function Status(R) - Off	989921360
+Prelub Function Status(R) - On	989921361
+Prelub Function Status(R) - Alarm	989921362
+Prelub Function Status(R) - Invalid	989921363
+Hydraulic Oil Level Low Alarm - Normal	989921376
+Hydraulic Oil Level Low Alarm - Most Sever Level	989921377
+Hydraulic Oil Level Low Alarm - Invalid	989921379
+Auto Lubrication Alarm - Normal	989921392
+Auto Lubrication Alarm - On	989921393
+Auto Lubrication Alarm - Ng	989921394
+Auto Lubrication Alarm - Manual	989921395
+Auto Lubrication Alarm - Off	989921396
+Auto Lubrication Alarm - Invalid	989921399
+Stop Valve Status - Normal	989921408
+Stop Valve Status - Most Sever Level	989921409
+Stop Valve Status - Invalid	989921411
+Electric Lever System (Solenoid Valve Stuck Without Another Error) - Off	989921424
+Electric Lever System (Solenoid Valve Stuck Without Another Error) - On	989921425
+Electric Lever System (Solenoid Valve Stuck Without Another Error) - Invalid	989921427
+Stairway Position Indicator - Off	989921440
+Stairway Position Indicator - On	989921441
+Stairway Position Indicator - Invalid	989921443
+Fast-Filling Indicator - Off	989921456
+Fast-Filling Indicator - On	989921457
+Fast-Filling Indicator - Invalid	989921459
+Emergency Engine(Motor) Stop Indicator - Off	989921472
+Emergency Engine(Motor) Stop Indicator - On	989921473
+Emergency Engine(Motor) Stop Indicator - Invalid	989921475
+Tension Indicator - Normal	989921488
+Tension Indicator - Most Severe Level	989921489
+Tension Indicator - Invalid	989921491
+Hydraulic Oil Overheat Indicator - Normal	989921504
+Hydraulic Oil Overheat Indicator - Most Severe Level	989921505
+Hydraulic Oil Overheat Indicator - Invalid	989921507
+Pump Contamination Indicator - Normal	989921520
+Pump Contamination Indicator - Moderately Severe Level	989921521
+Pump Contamination Indicator - Invalid	989921523
+Electronic Equipment Box Indicator - Off	989921536
+Electronic Equipment Box Indicator - On	989921537
+Electronic Equipment Box Indicator - Invalid	989921539
+Fuel Level Warning Indicator - Off	989921552
+Fuel Level Warning Indicator - On	989921553
+Fuel Level Warning Indicator - Invalid	989921555
+Engine Battery Charge Alarm - Off	989921568
+Engine Battery Charge Alarm - On	989921569
+Engine Battery Charge Alarm - Invalid	989921571
+Engine Pump Transmission Oil Level Alarm - Normal	989921584
+Engine Pump Transmission Oil Level Alarm - Most Severe Level	989921585
+Engine Pump Transmission Oil Level Alarm - Invalid	989921587
+Engine Stop Alarm With Buzzer - Normal	989921600
+Engine Stop Alarm With Buzzer - Most Severe Level	989921601
+Engine Stop Alarm With Buzzer - Invalid	989921603
+Engine Oil Pressure Low Alarm - Normal	989921616
+Engine Oil Pressure Low Alarm - Most Severe Level	989921617
+Engine Oil Pressure Low Alarm - Moderately Severe Level	989921618
+Engine Oil Pressure Low Alarm - Invalid	989921619
+Engine Coolant Temperature - Normal	989921632
+Engine Coolant Temperature - Most Severe Level	989921633
+Engine Coolant Temperature - Moderately Severe Level	989921634
+Engine Coolant Temperature - Invalid	989921635
+Engine Coolant Level - Normal	989921648
+Engine Coolant Level - Most Severe Level	989921649
+Engine Coolant Level - Moderately Severe Level	989921650
+Engine Coolant Level - Invalid	989921651
+Engine Over Run - Normal	989921664
+Engine Over Run - Most Severe Level	989921665
+Engine Over Run - Invalid	989921667
+Engine High Fuel Temp(Most Sever Level) - Normal	989921680
+Engine High Fuel Temp(Most Sever Level) - Most Severe Level	989921681
+Engine High Fuel Temp(Most Sever Level) - Moderately Severe Level	989921682
+Engine High Fuel Temp(Most Sever Level) - Invalid	989921683
+Engine Warning Indicator - Normal	989921696
+Engine Warning Indicator - Moderately Severe Level	989921697
+Engine Warning Indicator - Invalid	989921699
+Engine Exhaust Temperature Indicator - Normal	989921712
+Engine Exhaust Temperature Indicator - Moderately Severe Level	989921713
+Engine Exhaust Temperature Indicator - Invalid	989921715
+Engine Air Cleaner Restriction Indicator - Normal	989921728
+Engine Air Cleaner Restriction Indicator - Moderately Severe Level	989921729
+Engine Air Cleaner Restriction Indicator - Invalid	989921731
+Left Engine Battery Charge Alarm - Off	989921744
+Left Engine Battery Charge Alarm - On	989921745
+Left Engine Battery Charge Alarm - Invalid	989921747
+Left Engine Pump Transmission Oil Level Alarm - Normal	989921760
+Left Engine Pump Transmission Oil Level Alarm - Most Severe Level	989921761
+Left Engine Pump Transmission Oil Level Alarm - Invalid	989921763
+Left Engine Stop Alarm With Buzzer - Normal	989921776
+Left Engine Stop Alarm With Buzzer - Most Severe Level	989921777
+Left Engine Stop Alarm With Buzzer - Invalid	989921779
+Left Engine Oil Pressure Low Alarm - Normal	989921792
+Left Engine Oil Pressure Low Alarm - Most Severe Level	989921793
+Left Engine Oil Pressure Low Alarm - Moderately Severe Level	989921794
+Left Engine Oil Pressure Low Alarm - Invalid	989921795
+Left Engine Coolant Temperature - Normal	989921808
+Left Engine Coolant Temperature - Most Severe Level	989921809
+Left Engine Coolant Temperature - Moderately Severe Level	989921810
+Left Engine Coolant Temperature - Invalid	989921811
+Left Engine Coolant Level - Normal	989921824
+Left Engine Coolant Level - Most Severe Level	989921825
+Left Engine Coolant Level - Moderately Severe Level	989921826
+Left Engine Coolant Level - Invalid	989921827
+Left Engine Over Run - Normal	989921840
+Left Engine Over Run - Most Severe Level	989921841
+Left Engine Over Run - Invalid	989921843
+Left Engine High Fuel Temp(Most Sever Level) - Normal	989921856
+Left Engine High Fuel Temp(Most Sever Level) - Most Severe Level	989921857
+Left Engine High Fuel Temp(Most Sever Level) - Moderately Severe Level	989921858
+Left Engine High Fuel Temp(Most Sever Level) - Invalid	989921859
+Left Engine Warning Indicator - Normal	989921872
+Left Engine Warning Indicator - Moderately Severe Level	989921873
+Left Engine Warning Indicator - Invalid	989921875
+Left Engine Exhaust Temperature Indicator - Normal	989921888
+Left Engine Exhaust Temperature Indicator - Moderately Severe Level	989921889
+Left Engine Exhaust Temperature Indicator - Invalid	989921891
+Left Engine Air Cleaner Restriction Indicator - Normal	989921904
+Left Engine Air Cleaner Restriction Indicator - Moderately Severe Level	989921905
+Left Engine Air Cleaner Restriction Indicator - Invalid	989921907
+Right Engine Battery Charge Alarm - Off	989921920
+Right Engine Battery Charge Alarm - On	989921921
+Right Engine Battery Charge Alarm - Invalid	989921923
+Right Engine Pump Transmission Oil Level Alarm - Normal	989921936
+Right Engine Pump Transmission Oil Level Alarm - Most Severe Level	989921937
+Right Engine Pump Transmission Oil Level Alarm - Invalid	989921939
+Right Engine Stop Alarm With Buzzer - Normal	989921952
+Right Engine Stop Alarm With Buzzer - Most Severe Level	989921953
+Right Engine Stop Alarm With Buzzer - Invalid	989921955
+Right Engine Oil Pressure Low Alarm - Normal	989921968
+Right Engine Oil Pressure Low Alarm - Most Severe Level	989921969
+Right Engine Oil Pressure Low Alarm - Moderately Severe Level	989921970
+Right Engine Oil Pressure Low Alarm - Invalid	989921971
+Right Engine Coolant Temperature - Normal	989921984
+Right Engine Coolant Temperature - Most Severe Level	989921985
+Right Engine Coolant Temperature - Moderately Severe Level	989921986
+Right Engine Coolant Temperature - Invalid	989921987
+Right Engine Coolant Level - Normal	989922000
+Right Engine Coolant Level - Most Severe Level	989922001
+Right Engine Coolant Level - Moderately Severe Level	989922002
+Right Engine Coolant Level - Invalid	989922003
+Right Engine Over Run - Normal	989922016
+Right Engine Over Run - Most Severe Level	989922017
+Right Engine Over Run - Invalid	989922019
+Right Engine High Fuel Temp(Most Sever Level) - Normal	989922032
+Right Engine High Fuel Temp(Most Sever Level) - Most Severe Level	989922033
+Right Engine High Fuel Temp(Most Sever Level) - Moderately Severe Level	989922034
+Right Engine High Fuel Temp(Most Sever Level) - Invalid	989922035
+Right Engine Warning Indicator - Normal	989922048
+Right Engine Warning Indicator - Moderately Severe Level	989922049
+Right Engine Warning Indicator - Invalid	989922051
+Right Engine Exhaust Temperature Indicator - Normal	989922064
+Right Engine Exhaust Temperature Indicator - Moderately Severe Level	989922065
+Right Engine Exhaust Temperature Indicator - Invalid	989922067
+Right Engine Air Cleaner Restriction Indicator - Normal	989922080
+Right Engine Air Cleaner Restriction Indicator - Moderately Severe Level	989922081
+Right Engine Air Cleaner Restriction Indicator - Invalid	989922083
+High Coolant Temp (L)	989923280
+Coolant Temp Ckt Failed High (L)	989923283
+Coolant Temp Ckt Failed Low (L)	989923284
+Coolant Temp Above Normal (L)	989923296
+Low Coolant Level (L)	989923313
+Coolant Level Ckt Failed High (L)	989923315
+Coolant Level Ckt Failed Low (L)	989923316
+Coolant Level Below Normal (L)	989923330
+Very Low Coolant Pressure (L)	989923345
+Coolant Press Ckt Failed High (L)	989923347
+Coolant Press Ckt Failed Low (L)	989923348
+High Fuel Temp (Most Sever Level) (L)	989923376
+Fuel Temp Ckt Failed High (L)	989923379
+Fuel Temp Ckt Failed Low (L)	989923380
+Very Low Oil Pressure (L)	989923409
+Oil Press Ckt Failed High (L)	989923411
+Oil Press Ckt Failed Low (L)	989923412
+Engine Oil Temperature High (L)	989923440
+Oil Temp Ckt Failed High (L)	989923443
+Oil Temp Ckt Failed Low (L)	989923444
+Engine Oil Temp Above Normal (L)	989923456
+High Lube Oil Filter Restriction (L)	989923488
+High Crankcase Pressure (L)	989923504
+Crankcase Press Ckt Failed High (L)	989923507
+Crankcase Press Ckt Failed Low (L)	989923508
+Int Man Press 1 Failed High (L)	989923539
+Int Man Press 1 Failed Low (L)	989923540
+Int Man Press 1 Below Normal (L)	989923553
+Int Man Press 2 Failed High (L)	989923571
+Int Man Press 2 Failed Low (L)	989923572
+Int Man Press 2 Below Normal (L)	989923585
+High Int Man Temp 1 (L)	989923600
+Int Man Temp 1 Ckt Failed High (L)	989923603
+Int Man Temp 1 Ckt Failed Low (L)	989923604
+Rapid Rise Int Man Temp 1 (L)	989923610
+High Intake Manifold Temp 1 (L)	989923616
+High Int Man Temp 2 (L)	989923632
+Int Man Temp 2 Ckt Failed High (L)	989923635
+Int Man Temp 2 Ckt Failed Low (L)	989923636
+Rapid Rise Int Man Temp 2 (L)	989923642
+High Intake Manifold Temp 2 (L)	989923648
+High Rail Pressure (L)	989923664
+Rail Press Ckt Failed High (L)	989923667
+Rail Press Ckt Failed Low (L)	989923668
+Rail Pressure 1 Below Normal (L)	989923682
+Ambient Air Press Failed High	989923699
+Ambient Air Press Failed Low	989923700
+Ambient Temp Sensor Failed High	989923731
+Ambient Temp Sensor Failed Low	989923732
+Eng Overspeed (L)	989923760
+Engine Crankshaft Speed Erratic (L)	989923762
+Accel Pedal Sensor 1 Ckt Failed High (L)	989923795
+Accel Pedal Sensor 1 Ckt Failed Low (L)	989923796
+Accel Pedal Pos Sensor1 Ckt Freq Issue (L)	989923800
+High Coolant Temp (R)	989923824
+Coolant Temp Ckt Failed High (R)	989923827
+Coolant Temp Ckt Failed Low (R)	989923828
+Coolant Temp Above Normal (R)	989923840
+Low Coolant Level (R)	989923857
+Coolant Level Ckt Failed High (R)	989923859
+Coolant Level Ckt Failed Low (R)	989923860
+Coolant Level Below Normal (R)	989923874
+Very Low Coolant Pressure (R)	989923889
+Coolant Press Ckt Failed High (R)	989923891
+Coolant Press Ckt Failed Low (R)	989923892
+High Fuel Temp (Most Sever Level) (R)	989923920
+Fuel Temp Ckt Failed High (R)	989923923
+Fuel Temp Ckt Failed Low (R)	989923924
+Very Low Oil Pressure (R)	989923953
+Oil Press Ckt Failed High (R)	989923955
+Oil Press Ckt Failed Low (R)	989923956
+Engine Oil Temperature High (R)	989923984
+Oil Temp Ckt Failed High (R)	989923987
+Oil Temp Ckt Failed Low (R)	989923988
+Engine Oil Temp Above Normal (R)	989924000
+High Lube Oil Filter Restriction (R)	989924032
+High Crankcase Pressure (R)	989924048
+Crankcase Press Ckt Failed High (R)	989924051
+Crankcase Press Ckt Failed Low (R)	989924052
+Int Man Press 1 Failed High (R)	989924083
+Int Man Press 1 Failed Low (R)	989924084
+Int Man Press 1 Below Normal (R)	989924097
+Int Man Press 2 Failed High (R)	989924115
+Int Man Press 2 Failed Low (R)	989924116
+Int Man Press 2 Below Normal (R)	989924129
+High Int Man Temp 1 (R)	989924144
+Int Man Temp 1 Ckt Failed High (R)	989924147
+Int Man Temp 1 Ckt Failed Low (R)	989924148
+Rapid Rise Int Man Temp 1 (R)	989924154
+High Intake Manifold Temp 1 (R)	989924160
+High Int Man Temp 2 (R)	989924176
+Int Man Temp 2 Ckt Failed High (R)	989924179
+Int Man Temp 2 Ckt Failed Low (R)	989924180
+Rapid Rise Int Man Temp 2 (R)	989924186
+High Intake Manifold Temp 2 (R)	989924192
+High Rail Pressure (R)	989924208
+Rail Press Ckt Failed High (R)	989924211
+Rail Press Ckt Failed Low (R)	989924212
+Rail Pressure 1 Below Normal (R)	989924226
+Eng Overspeed (R)	989924240
+Engine Crankshaft Speed Erratic (R)	989924242
+Accel Pedal Sensor 1 Ckt Failed High (R)	989924275
+Accel Pedal Sensor 1 Ckt Failed Low (R)	989924276
+Accel Pedal Pos Sensor1 Ckt Freq Issue (R)	989924280
+J1939 Accel Pedal Error	989924291
+TEMP Sensor Fault (RAD Inlet Air) High (L)	989924307
+TEMP Sensor Fault (RAD Inlet Air) Low (L)	989924308
+TEMP Sensor Fault (RAD Outlet) High (L)	989924339
+TEMP Sensor Fault (RAD Outlet) Low (L)	989924340
+PressSensorFault (CoolerFanMotorInlet) Hi	989924371
+PressSensorFault (CoolerFanMotorInlet) Lo	989924372
+Press (RAD FanMotorNegativeControl) High (L)	989924403
+Press (RAD FanMotorNegativeControl) Low (L)	989924404
+TEMP Sensor Fault (RAD Inlet Air) High (R)	989924435
+TEMP Sensor Fault (RAD Inlet Air) Low (R)	989924436
+TEMP Sensor Fault (RAD Outlet) High (R)	989924467
+TEMP Sensor Fault (RAD Outlet) Low (R)	989924468
+PressSensorFault (RAD FanMotorInlet) Hi (R)	989924499
+PressSensorFault (RAD FanMotorInlet) Lo (R)	989924500
+Press (RAD FanMotorNegativeControl) High (R)	989924531
+Press (RAD FanMotorNegativeControl) Low (R)	989924532
+Exh Temp Ckt Failed High Cylinder 1 (L)	989924563
+Exh Temp Ckt Failed Low Cylinder 1 (L)	989924564
+High Exhaust Temp Cyl 1 (L)	989924576
+Low Power Cylinder 1 (L)	989924577
+Exh Temp Ckt Failed High Cylinder 2 (L)	989924595
+Exh Temp Ckt Failed Low Cylinder 2 (L)	989924596
+High Exhaust Temp Cyl 2 (L)	989924608
+Low Power Cylinder 2 (L)	989924609
+Exh Temp Ckt Failed High Cylinder 3 (L)	989924627
+Exh Temp Ckt Failed Low Cylinder 3 (L)	989924628
+High Exhaust Temp Cyl 3 (L)	989924640
+Low Power Cylinder 3 (L)	989924641
+Exh Temp Ckt Failed High Cylinder 4 (L)	989924659
+Exh Temp Ckt Failed Low Cylinder 4 (L)	989924660
+High Exhaust Temp Cyl 4 (L)	989924672
+Low Power Cylinder 4 (L)	989924673
+Exh Temp Ckt Failed High Cylinder 5 (L)	989924691
+Exh Temp Ckt Failed Low Cylinder 5 (L)	989924692
+High Exhaust Temp Cyl 5 (L)	989924704
+Low Power Cylinder 5 (L)	989924705
+Exh Temp Ckt Failed High Cylinder 6 (L)	989924723
+Exh Temp Ckt Failed Low Cylinder 6 (L)	989924724
+High Exhaust Temp Cyl 6 (L)	989924736
+Low Power Cylinder 6 (L)	989924737
+Exh Temp Ckt Failed High Cylinder 7 (L)	989924755
+Exh Temp Ckt Failed Low Cylinder 7 (L)	989924756
+High Exhaust Temp Cyl 7 (L)	989924768
+Low Power Cylinder 7 (L)	989924769
+Exh Temp Ckt Failed High Cylinder 8 (L)	989924787
+Exh Temp Ckt Failed Low Cylinder 8 (L)	989924788
+High Exhaust Temp Cyl 8 (L)	989924800
+Low Power Cylinder 8 (L)	989924801
+Exh Temp Ckt Failed High Cylinder 9 (L)	989924819
+Exh Temp Ckt Failed Low Cylinder 9 (L)	989924820
+High Exhaust Temp Cyl 9 (L)	989924832
+Low Power Cylinder 9 (L)	989924833
+Exh Temp Ckt Failed High Cylinder 10 (L)	989924851
+Exh Temp Ckt Failed Low Cylinder 10 (L)	989924852
+High Exhaust Temp Cyl 10 (L)	989924864
+Low Power Cylinder 10 (L)	989924865
+Exh Temp Ckt Failed High Cylinder 11 (L)	989924883
+Exh Temp Ckt Failed Low Cylinder 11 (L)	989924884
+High Exhaust Temp Cyl 11 (L)	989924896
+Low Power Cylinder 11 (L)	989924897
+Exh Temp Ckt Failed High Cylinder 12 (L)	989924915
+Exh Temp Ckt Failed Low Cylinder 12 (L)	989924916
+High Exhaust Temp Cyl 12 (L)	989924928
+Low Power Cylinder 12 (L)	989924929
+Exh Temp Ckt Failed High Cylinder 13 (L)	989924947
+Exh Temp Ckt Failed Low Cylinder 13 (L)	989924948
+High Exhaust Temp Cyl 13 (L)	989924960
+Low Power Cylinder 13 (L)	989924961
+Exh Temp Ckt Failed High Cylinder 14 (L)	989924979
+Exh Temp Ckt Failed Low Cylinder 14 (L)	989924980
+High Exhaust Temp Cyl 14 (L)	989924992
+Low Power Cylinder 14 (L)	989924993
+Exh Temp Ckt Failed High Cylinder 15 (L)	989925011
+Exh Temp Ckt Failed Low Cylinder 15 (L)	989925012
+High Exhaust Temp Cyl 15 (L)	989925024
+Low Power Cylinder 15 (L)	989925025
+Exh Temp Ckt Failed High Cylinder 16 (L)	989925043
+Exh Temp Ckt Failed Low Cylinder 16 (L)	989925044
+High Exhaust Temp Cyl 16 (L)	989925056
+Low Power Cylinder 16 (L)	989925057
+Exh Temp Ckt Failed High Cylinder 1 (R)	989925075
+Exh Temp Ckt Failed Low Cylinder 1 (R)	989925076
+High Exhaust Temp Cyl 1 (R)	989925088
+Low Power Cylinder 1 (R)	989925089
+Exh Temp Ckt Failed High Cylinder 2 (R)	989925107
+Exh Temp Ckt Failed Low Cylinder 2 (R)	989925108
+High Exhaust Temp Cyl 2 (R)	989925120
+Low Power Cylinder 2 (R)	989925121
+Exh Temp Ckt Failed High Cylinder 3 (R)	989925139
+Exh Temp Ckt Failed Low Cylinder 3 (R)	989925140
+High Exhaust Temp Cyl 3 (R)	989925152
+Low Power Cylinder 3 (R)	989925153
+Exh Temp Ckt Failed High Cylinder 4 (R)	989925171
+Exh Temp Ckt Failed Low Cylinder 4 (R)	989925172
+High Exhaust Temp Cyl 4 (R)	989925184
+Low Power Cylinder 4 (R)	989925185
+Exh Temp Ckt Failed High Cylinder 5 (R)	989925203
+Exh Temp Ckt Failed Low Cylinder 5 (R)	989925204
+High Exhaust Temp Cyl 5 (R)	989925216
+Low Power Cylinder 5 (R)	989925217
+Exh Temp Ckt Failed High Cylinder 6 (R)	989925235
+Exh Temp Ckt Failed Low Cylinder 6 (R)	989925236
+High Exhaust Temp Cyl 6 (R)	989925248
+Low Power Cylinder 6 (R)	989925249
+Exh Temp Ckt Failed High Cylinder 7 (R)	989925267
+Exh Temp Ckt Failed Low Cylinder 7 (R)	989925268
+High Exhaust Temp Cyl 7 (R)	989925280
+Low Power Cylinder 7 (R)	989925281
+Exh Temp Ckt Failed High Cylinder 8 (R)	989925299
+Exh Temp Ckt Failed Low Cylinder 8 (R)	989925300
+High Exhaust Temp Cyl 8 (R)	989925312
+Low Power Cylinder 8 (R)	989925313
+Exh Temp Ckt Failed High Cylinder 9 (R)	989925331
+Exh Temp Ckt Failed Low Cylinder 9 (R)	989925332
+High Exhaust Temp Cyl 9 (R)	989925344
+Low Power Cylinder 9 (R)	989925345
+Exh Temp Ckt Failed High Cylinder 10 (R)	989925363
+Exh Temp Ckt Failed Low Cylinder 10 (R)	989925364
+High Exhaust Temp Cyl 10 (R)	989925376
+Low Power Cylinder 10 (R)	989925377
+Exh Temp Ckt Failed High Cylinder 11 (R)	989925395
+Exh Temp Ckt Failed Low Cylinder 11 (R)	989925396
+High Exhaust Temp Cyl 11 (R)	989925408
+Low Power Cylinder 11 (R)	989925409
+Exh Temp Ckt Failed High Cylinder 12 (R)	989925427
+Exh Temp Ckt Failed Low Cylinder 12 (R)	989925428
+High Exhaust Temp Cyl 12 (R)	989925440
+Low Power Cylinder 12 (R)	989925441
+Exh Temp Ckt Failed High Cylinder 13 (R)	989925459
+Exh Temp Ckt Failed Low Cylinder 13 (R)	989925460
+High Exhaust Temp Cyl 13 (R)	989925472
+Low Power Cylinder 13 (R)	989925473
+Exh Temp Ckt Failed High Cylinder 14 (R)	989925491
+Exh Temp Ckt Failed Low Cylinder 14 (R)	989925492
+High Exhaust Temp Cyl 14 (R)	989925504
+Low Power Cylinder 14 (R)	989925505
+Exh Temp Ckt Failed High Cylinder 15 (R)	989925523
+Exh Temp Ckt Failed Low Cylinder 15 (R)	989925524
+High Exhaust Temp Cyl 15 (R)	989925536
+Low Power Cylinder 15 (R)	989925537
+Exh Temp Ckt Failed High Cylinder 16 (R)	989925555
+Exh Temp Ckt Failed Low Cylinder 16 (R)	989925556
+High Exhaust Temp Cyl 16 (R)	989925568
+Low Power Cylinder 16 (R)	989925569
+Engine Speed Sensor Fault (L)	989925592
+Engine Speed Sensor Fault (R)	989925624
+Level Sensor Fault (Fuel) High	989925651
+Level Sensor Fault (Fuel) Low	989925652
+EHC Valve Current Low (Radiator Fan) (L)	989925685
+EHC Valve Current High (Radiator Fan) (L)	989925686
+EHC Valve Current Low (Radiator Fan) (R)	989925717
+EHC Valve Current High (Radiator Fan) (R)	989925718
+High Int Man Temp 3 (L)	989925744
+Int Man Temp 3 Ckt Failed High (L)	989925747
+Int Man Temp 3 Ckt Failed Low (L)	989925748
+Rapid Rise Int Man Temp 3 (L)	989925754
+High Intake Manifold Temp 3 (L)	989925760
+High Int Man Temp 4 (L)	989925776
+Int Man Temp 4 Ckt Failed High (L)	989925779
+Int Man Temp 4 Ckt Failed Low (L)	989925780
+Rapid Rise Int Man Temp 4 (L)	989925786
+High Intake Manifold Temp 4 (L)	989925792
+High Int Man Temp 3 (R)	989925808
+Int Man Temp 3 Ckt Failed High (R)	989925811
+Int Man Temp 3 Ckt Failed Low (R)	989925812
+Rapid Rise Int Man Temp 3 (R)	989925818
+High Intake Manifold Temp 3 (R)	989925824
+High Int Man Temp 4 (R)	989925840
+Int Man Temp 4 Ckt Failed High (R)	989925843
+Int Man Temp 4 Ckt Failed Low (R)	989925844
+Rapid Rise Int Man Temp 4 (R)	989925850
+High Intake Manifold Temp 4 (R)	989925856
+TEMP Sensor Fault (RAD Inlet Water) High (L)	989925875
+TEMP Sensor Fault (RAD Inlet Water) Low (L)	989925876
+TEMP Sensor Fault (RAD Inlet Water) High (R)	989925907
+TEMP Sensor Fault (RAD Inlet Water) Low (R)	989925908
+TEMP Sensor Fault (LTA RAD Inlet) High (L)	989925939
+TEMP Sensor Fault (LTA RAD Inlet) Low (L)	989925940
+TEMP Sensor Fault (LTA RAD Outlet) High (L)	989925971
+TEMP Sensor Fault (LTA RAD Outlet) Low (L)	989925972
+TEMP Sensor Fault (LTA RAD Inlet) High (R)	989926003
+TEMP Sensor Fault (LTA RAD Inlet) Low (R)	989926004
+TEMP Sensor Fault (LTA RAD Outlet) High (R)	989926035
+TEMP Sensor Fault (LTA RAD Outlet) Low (R)	989926036
+PressSensorFault (PositiveControl) Hi (L)	989926067
+PressSensorFault (PositiveControl) Lo (L)	989926068
+EHCValveStick/HiPress (PositiveControl1) (L)	989926096
+EHCValveStick/LoPress (PositiveControl1) (L)	989926097
+EHCValveCurrentLo (PositiveControl Ope) (L)	989926101
+EHCValveCurrentHi (PositiveControl Ope) (L)	989926102
+PressSensorFault (PositiveControl) Hi (R)	989926131
+PressSensorFault (PositiveControl) Lo (R)	989926132
+EHCValveStick/HiPress (PositiveControl) (R)	989926160
+EHCValveStick/LoPress (PositiveControl) (R)	989926161
+EHCValveCurrentLo (PositiveControl Ope) (R)	989926165
+EHCValveCurrentHi (PositiveControl Ope) (R)	989926166
+PressSensorFault (L PumpFlowCut) High	989926195
+PressSensorFault (L PumpFlowCut) Low	989926196
+EHCValveStick/HighPress (L PumpFlowCut)	989926224
+EHCValveStick/LowPress (L PumpFlowCut)	989926225
+EHCValveCurrentLow (L PumpFlowCut)	989926229
+EHCValveCurrentHigh (L PumpFlowCut)	989926230
+PressSensorFault (R PumpFlowCut) High	989926259
+PressSensorFault (R PumpFlowCut) Low	989926260
+EHCValveStick/HighPress (R PumpFlowCut)	989926288
+EHCValveStick/LowPress (R PumpFlowCut)	989926289
+EHCValveCurrentLow (R PumpFlowCut)	989926293
+EHCValveCurrentHigh (R PumpFlowCut)	989926294
+Contamination Alarm - FMI 0 (L Pump CH1)	989926320
+Contamination Alarm - FMI 31 (L Pump CH1)	989926351
+Contamination Alarm - FMI 0 (L Pump CH2)	989926352
+Contamination Alarm - FMI 31 (L Pump CH2)	989926383
+Contamination Alarm - FMI 0 (L Pump CH3)	989926384
+Contamination Alarm - FMI 31 (L Pump CH3)	989926415
+Contamination Alarm - FMI 0 (L Pump CH4)	989926416
+Contamination Alarm - FMI 31 (L Pump CH4)	989926447
+Contamination Alarm - FMI 0 (L Pump CH5)	989926448
+Contamination Alarm - FMI 31 (L Pump CH5)	989926479
+Contamination Alarm - FMI 0 (L Pump CH6)	989926480
+Contamination Alarm - FMI 31 (L Pump CH6)	989926511
+Contamination Alarm - FMI 0 (L Pump CH7)	989926512
+Contamination Alarm - FMI 31 (L Pump CH7)	989926543
+Contamination Alarm - FMI 0 (L Pump CH8)	989926544
+Contamination Alarm - FMI 31 (L Pump CH8)	989926575
+Contamination Alarm - FMI 0 (R Pump CH9)	989926576
+Contamination Alarm - FMI 31 (R Pump CH9)	989926607
+Contamination Alarm - FMI 0 (R Pump CH10)	989926608
+Contamination Alarm - FMI 31 (R Pump CH10)	989926639
+Contamination Alarm - FMI 0 (R Pump CH11)	989926640
+Contamination Alarm - FMI 31 (R Pump CH11)	989926671
+Contamination Alarm - FMI 0 (R Pump CH12)	989926672
+Contamination Alarm - FMI 31 (R Pump CH12)	989926703
+Contamination Alarm - FMI 0 (R Pump CH13)	989926704
+Contamination Alarm - FMI 31 (R Pump CH13)	989926735
+Contamination Alarm - FMI 0 (R Pump CH14)	989926736
+Contamination Alarm - FMI 31 (R Pump CH14)	989926767
+Contamination Alarm - FMI 0 (R Pump CH15)	989926768
+Contamination Alarm - FMI 31 (R Pump CH15)	989926799
+Contamination Alarm - FMI 0 (R Pump CH16)	989926800
+Contamination Alarm - FMI 31 (R Pump CH16)	989926831
+Contamination Alarm - FMI 0 (Travel Motor CH21)	989926832
+Contamination Alarm - FMI 31 (Travel Motor CH21)	989926863
+Press Sensor Fault (Power Increase) High (L)	989926867
+Press Sensor Fault (Power Increase) Low (L)	989926868
+EHC Valve Current Low (Power Increase) (L)	989926901
+EHC Valve Current High (Power Increase) (L)	989926902
+Press Sensor Fault (Power Reduction) Hi (L)	989926931
+Press Sensor Fault (Power Reduction) Lo (L)	989926932
+EHC Valve Current Low (Power Reduction) (L)	989926965
+EHC Valve Current High (Power Reduction) (L)	989926966
+Press Sensor Fault (Power Increase) High (R)	989926995
+Press Sensor Fault (Power Increase) Low (R)	989926996
+EHC Valve Current Low (Power Increase) (R)	989927029
+EHC Valve Current High (Power Increase) (R)	989927030
+Press Sensor Fault (Power Reduction) Hi (R)	989927059
+Press Sensor Fault (Power Reduction) Lo (R)	989927060
+EHC Valve Current Low (Power Reduction) (R)	989927093
+EHC Valve Current High (Power Reduction) (R)	989927094
+PressSensorFault (PositiveControl 3) Hi (L)	989927123
+PressSensorFault (PositiveControl 3) Lo (L)	989927124
+EHCValveStick/HighPress (PositiveControl3) (L)	989927152
+EHCValveStick/LowPress (PositiveControl3) (L)	989927153
+EHCValveCurrentLow (PositiveControl3 Ope) (L)	989927157
+EHCValveCurrentHigh (PositiveControl3 Ope) (L)	989927158
+PressSensorFault (PositiveControl 1) Hi (R)	989927187
+PressSensorFault (PositiveControl 1) Lo (R)	989927188
+EHCValveStick/HighPress (PositiveControl1) (R)	989927216
+EHCValveStick/LowPress (PositiveControl1) (R)	989927217
+EHCValveCurrentLow (PositiveControl1 Ope) (R)	989927221
+EHCValveCurrentHigh (PositiveControl1 Ope) (R)	989927222
+PressSensorFault (PositiveControl 2) Hi (R)	989927251
+PressSensorFault (PositiveControl 2) Lo (R)	989927252
+EHCValveStick/HighPress (PositiveControl2) (R)	989927280
+EHCValveStick/LowPress (PositiveControl2) (R)	989927281
+EHCValveCurrentLow (PositiveControl2 Ope) (R)	989927285
+EHCValveCurrentHigh (PositiveControl2 Ope) (R)	989927286
+PressSensorFault (PositiveControl 3) Hi (R)	989927315
+PressSensorFault (PositiveControl 3) Lo (R)	989927316
+EHCValveStick/HighPress (PositiveControl3) (R)	989927344
+EHCValveStick/LowPress (PositiveControl3) (R)	989927345
+EHCValveCurrentLow (PositiveControl3 Ope) (R)	989927349
+EHCValveCurrentHigh (PositiveControl3 Ope) (R)	989927350
+Press Sensor Fault (Travel) High	989927379
+Press Sensor Fault (Travel) Low	989927380
+PressSensorFault (AdjustorCylinder) High	989927411
+PressSensorFault (AdjustorCylinder) Low	989927412
+Contamination Alarm - FMI 0 (Travel Motor CH21)	989927440
+Contamination Alarm - FMI 31 (Travel Motor CH21)	989927471
+Contamination Alarm - FMI 0 (Swing Motor CH17)	989927472
+Contamination Alarm - FMI 31 (Swing Motor CH17)	989927503
+Contamination Alarm - FMI 0 (Swing Motor CH18)	989927504
+Contamination Alarm - FMI 31 (Swing Motor CH18)	989927535
+Contamination Alarm - FMI 0 (Swing Motor CH19)	989927536
+Contamination Alarm - FMI 31 (Swing Motor CH19)	989927567
+Contamination Alarm - FMI 0 (Swing Motor CH20)	989927568
+Contamination Alarm - FMI 31 (Swing Motor CH20)	989927599
+Angle Sensor Fault (Boom) High	989927603
+Angle Sensor Fault (Boom) Low	989927604
+Angle Sensor Signal Out Of Range (Boom)	989927613
+Angle Sensor Fault (Arm) High	989927635
+Angle Sensor Fault (Arm) Low	989927636
+Angle Sensor Signal Out Of Range (Arm)	989927645
+Angle Sensor Fault (Bucket) High	989927667
+Angle Sensor Fault (Bucket) Low	989927668
+Angle Sensor Signal Out Of Range (Bucket)	989927677
+Boom Raise Cylinder End Memory Error	989927709
+Boom Lower Cylinder End Memory Error	989927741
+Arm Roll-In Cylinder End Memory Error	989927773
+Arm Roll-Out Cylinder End Memory Error	989927805
+Bucket Roll-In Cylinder End Memory Error	989927837
+Bucket Roll-Out Cylinder End Memory Error	989927869
+Arm Cylinder Press Sensor Failed Hi (Bottom Press)	989927891
+Arm Cylinder Press Sensor Failed Lo (Bottom Press)	989927892
+Arm Cylinder Press Sensor Failed Hi (Rod Press)	989927923
+Arm Cylinder Press Sensor Failed Lo (Rod Press)	989927924
+TEMP Sensor Fault (Hydraulic Oil) High	989927955
+TEMP Sensor Fault (Hydraulic Oil) Low	989927956
+Oil Cooler Surface Temp #1 Failed Hi	989927987
+Oil Cooler Surface Temp #1 Failed Lo	989927988
+Oil Cooler Surface Temp #2 Failed Hi	989928019
+Oil Cooler Surface Temp #2 Failed Lo	989928020
+Oil Cooler Surface Temp #3 Failed Hi	989928051
+Oil Cooler Surface Temp #3 Failed Lo	989928052
+Oil Cooler Outlet Temp #1 Failed Hi	989928083
+Oil Cooler Outlet Temp #1 Failed Lo	989928084
+Oil Cooler Outlet Temp #2 Failed Hi	989928115
+Oil Cooler Outlet Temp #2 Failed Lo	989928116
+Oil Cooler Outlet Temp #3 Failed Hi	989928147
+Oil Cooler Outlet Temp #3 Failed Lo	989928148
+Oil Cooler Inlet Press. Failed Hi	989928179
+Oil Cooler Inlet Press. Failed Lo	989928180
+Press (Oil Cooler Fan Motor) High (L)	989928211
+Press (Oil Cooler Fan Motor) Low (L)	989928212
+Press (Oil Cooler Fan Motor) High (R)	989928243
+Press (Oil Cooler Fan Motor) Low (R)	989928244
+EHC Valve Current Low (Oil Cooler Fan) (L)	989928277
+EHC Valve Current High (Oil Cooler Fan) (L)	989928278
+EHC Valve Current Low (Oil Cooler Fan) (R)	989928309
+EHC Valve Current High (Oil Cooler Fan) (R)	989928310
+Oil Cooler Inlet Press. Failed#2 High	989928339
+Oil Cooler Inlet Press. Failed#2 Low	989928340
+Front/SwingOperation Signals To MC Fault	989928380
+Travel Operation Signal To MC Fault	989928412
+Multilever Selection Abnormalities	989928445
+Press Sensor Fault (Boom Raise) High	989928467
+Press Sensor Fault (Boom Raise) Low	989928468
+EHCValveStick/HighPress (BoomRaiseOpe)	989928496
+EHCValveStick/LowPress (BoomRaiseOpe)	989928497
+EHCValveCurrentLow (BoomRaiseOpe)	989928501
+EHCValveCurrentHigh (BoomRaiseOpe)	989928502
+Press Sensor Fault (Boom Lower) High	989928531
+Press Sensor Fault (Boom Lower) Low	989928532
+EHCValveStick/HighPress (BoomLowerOpe)	989928560
+EHCValveStick/LowPress (BoomLowerOpe)	989928561
+EHCValveCurrentLow (BoomLowerOpe)	989928565
+EHCValveCurrentHigh (BoomLowerOpe)	989928566
+Press Sensor Fault (Bucket Tilt-In) High	989928595
+Press Sensor Fault (Bucket Tilt-In) Low	989928596
+EHCValveStick/HighPress (Bucket Tilt-InOpe)	989928624
+EHCValveStick/LowPress (Bucket Tilt-InOpe)	989928625
+EHCValveCurrentLow (Bucket Tilt-In Ope)	989928629
+EHCValveCurrentHigh (Bucket Tilt-In Ope)	989928630
+Press Sensor Fault (Bucket Tilt-Out) High	989928659
+Press Sensor Fault (Bucket Tilt-Out) Low	989928660
+EHCValveStick/HiPress (Bucket Tilt-OutOpe)	989928688
+EHCValveStick/LoPress (Bucket Tilt-OutOpe)	989928689
+EHCValveCurrentLow (Bucket Tilt-Out Ope)	989928693
+EHCValveCurrentHigh (Bucket Tilt-Out Ope)	989928694
+Press Sensor Fault (Bucket Open) High	989928723
+Press Sensor Fault (Bucket Open) Low	989928724
+EHCValveStick/HighPress (BucketOpenOpe)	989928752
+EHCValveStick/LowPress (BucketOpenOpe)	989928753
+EHCValveCurrentLow (Bucket Open Ope)	989928757
+EHCValveCurrentHigh (Bucket Open Ope)	989928758
+Press Sensor Fault (Bucket Close) High	989928787
+Press Sensor Fault (Bucket Close) Low	989928788
+EHCValveStick/HighPress (BucketCloseOpe)	989928816
+EHCValveStick/LowPress (BucketCloseOpe)	989928817
+EHCValveCurrentLow (Bucket Close Ope)	989928821
+EHCValveCurrentHigh (Bucket Close Ope)	989928822
+Press Sensor Fault (Arm Retract) High	989928851
+Press Sensor Fault (Arm Retract) Low	989928852
+EHCValveStick/HighPress (Arm Retract Ope)	989928880
+EHCValveStick/LowPress (Arm Retract Ope)	989928881
+EHCValveCurrentLow (Arm Retract Ope)	989928885
+EHCValveCurrentHigh (Arm Retract Ope)	989928886
+Press Sensor Fault (Arm Extend) High	989928915
+Press Sensor Fault (Arm Extend) Low	989928916
+EHCValveStick/HighPress (Arm Extend Ope)	989928944
+EHCValveStick/LowPress (Arm Extend Ope)	989928945
+EHCValveCurrentLow (Arm Extend Ope)	989928949
+EHCValveCurrentHigh (Arm Extend Ope)	989928950
+Press Sensor Fault (R Swing) High	989928979
+Press Sensor Fault (R Swing) Low	989928980
+EHCValveStick/HighPress (R SwingOpe)	989929008
+EHCValveStick/LowPress (R SwingOpe)	989929009
+EHCValveCurrentLow (R SwingOpe)	989929013
+EHCValveCurrentHigh (R SwingOpe)	989929014
+Press Sensor Fault (L Swing) High	989929043
+Press Sensor Fault (L Swing) Low	989929044
+EHCValveStick/HighPress (L Swing Ope)	989929072
+EHCValveStick/LowPress (L Swing Ope)	989929073
+EHCValveCurrentLow (L Swing Ope)	989929077
+EHCValveCurrentHigh (L Swing Ope)	989929078
+PressSensorFault (R TravelForward) High	989929107
+PressSensorFault (R TravelForward) Low	989929108
+EHCValveStick/HighPress (R TravelForward)	989929136
+EHCValveStick/LowPress (R TravelForward)	989929137
+EHCValveCurrentLow (R TravelForward)	989929141
+EHCValveCurrentHigh (R TravelForward)	989929142
+PressSensorFault (R TravelBckward) High	989929171
+PressSensorFault (R TravelBckward) Low	989929172
+EHCValveStick/HighPress (R TravelBckward)	989929200
+EHCValveStick/LowPress (R TravelBckward)	989929201
+EHCValveCurrentLow (R TravelBckward)	989929205
+EHCValveCurrentHigh (R TravelBckward)	989929206
+PressSensorFault (L TravelForward) High	989929235
+PressSensorFault (L TravelForward) Low	989929236
+EHCValveStick/HighPress (L TravelForward)	989929264
+EHCValveStick/LowPress (L TravelForward)	989929265
+EHCValveCurrentLow (L TravelForward)	989929269
+EHCValveCurrentHigh (L TravelForward)	989929270
+PressSensorFault (L TravelBckward) High	989929299
+PressSensorFault (L TravelBckward) Low	989929300
+EHCValveStick/HighPress (L TravelBckward)	989929328
+EHCValveStick/LowPress (L TravelBckward)	989929329
+EHCValveCurrentLow (L TravelBckward)	989929333
+EHCValveCurrentHigh (L TravelBckward)	989929334
+R Lever (F/R) Signal Fault (High)	989929363
+R Lever (F/R) Signal Fault (Low)	989929364
+R Lever (F/R) Interlock	989929373
+R Lever (F/R) Center Signal Fault (High)	989929395
+R Lever (F/R) Center Signal Fault (Low)	989929396
+R Lever (R/R) Center Signal Out Of Range	989929405
+R Lever (L/R) Signal Fault (High)	989929427
+R Lever (L/R) Signal Fault (Low)	989929428
+R Lever (L/R) Interlock	989929437
+R Lever (L/R) Center Signal Fault (High)	989929459
+R Lever (L/R) Center Signal Fault (Low)	989929460
+R Lever (L/R) Center Signal Out Of Range	989929469
+L Lever (F/R) Signal Fault (High)	989929491
+L Lever (F/R) Signal Fault (Low)	989929492
+L Lever (F/R) Interlock	989929501
+L Lever (F/R) Center Signal Fault (High)	989929523
+L Lever (F/R) Center Signal Fault (Low)	989929524
+L Lever (R/R) Center Signal Out Of Range	989929533
+L Lever (L/R) Signal Fault (High)	989929555
+L Lever (L/R) Signal Fault (Low)	989929556
+L Lever (L/R) Interlock	989929565
+L Lever (L/R) Center Signal Fault (High)	989929587
+L Lever (L/R) Center Signal Fault (Low)	989929588
+L Lever (L/R) Center Signal Out Of Range	989929597
+Bucket Pedal (Open) Signal Fault (High)	989929619
+Bucket Pedal (Open) Signal Fault (Low)	989929620
+Bucket Pedal (Open) Interlock	989929629
+Bucket Pedal (Open) Center Signal Fault	989929661
+Bucket Pedal (Close) Signal Fault (High)	989929683
+Bucket Pedal (Close) Signal Fault (Low)	989929684
+Bucket Pedal (Close) Interlock	989929693
+Bucket Pedal (Close) Center Signal Fault	989929725
+Travel Pedal (R) Signal Fault (High)	989929747
+Travel Pedal (R) Signal Fault (Low)	989929748
+Travel Pedal (R) Interlock	989929757
+Travel Pedal (R) Center Signal Fault	989929789
+Travel Pedal (L) Signal Fault (High)	989929811
+Travel Pedal (L) Signal Fault (Low)	989929812
+Travel Pedal (L) Interlock	989929821
+Travel Pedal (L) Center Signal Fault	989929853
+Multilever Selection Abnormalities	989929885
+Front Attachment Selection Abnormalities	989929917
+Machine Selection Abnormalities	989929949
+Machine Information Reception Failure	989929955
+PressSensorFault (BoomRaiseMeter-In) High	989929971
+PressSensorFault (BoomRaiseMeter-In) Low	989929972
+EHCValveStick/HiPress (BoomRaiseMeter-In)	989930000
+EHCValveStick/LoPress (BoomRaiseMeter-In)	989930001
+EHCValveCurrentLow (BoomRaiseMeter-In)	989930005
+EHCValveCurrentHigh (BoomRaiseMeter-In)	989930006
+PressSensorFault (BcktTilt Meter-In) High	989930035
+PressSensorFault (BcktTilt Meter-In) Low	989930036
+EHCValveStick/HiPress (BcktTiltMeter-In)	989930064
+EHCValveStick/LoPress (BcktTiltMeter-In)	989930065
+EHCValveCurrentLow (BcktTiltMeter-In)	989930069
+EHCValveCurrentHigh (BcktTiltMeter-In)	989930070
+PressSensorFault (BcktDump Meter-In) High	989930099
+PressSensorFault (BcktDump Meter-In) Low	989930100
+EHCValveStick/HiPress (BcktDumpMeter-In)	989930128
+EHCValveStick/LoPress (BcktDumpMeter-In)	989930129
+EHCValveCurrentLow (BcktDumpMeter-In)	989930133
+EHCValveCurrentHigh (BcktDumpMeter-In)	989930134
+PressSensFault (L.BleedOff/FlowAssist) High	989930163
+PressSensFault (L.BleedOff/FlowAssist) Low	989930164
+EHCValve/HiPress (L.BleedOff/FlowAssist)	989930192
+EHCValve/LoPress (L.BleedOff/FlowAssist)	989930193
+EHCValveCurrentLo (L.BleedOff/FlowAssist)	989930197
+EHCValveCurrentHi (L.BleedOff/FlowAssist)	989930198
+PressSensFault (R.BleedOff/FlowAssist) High	989930227
+PressSensFault (R.BleedOff/FlowAssist) Low	989930228
+EHCValve/HiPress (R.BleedOff/FlowAssist)	989930256
+EHCValve/LoPress (R.BleedOff/FlowAssist)	989930257
+EHCValveCurrentLo (R.BleedOff/FlowAssist)	989930261
+EHCValveCurrentHi (R.BleedOff/FlowAssist)	989930262
+PressSensorFault (BoomLower Make-Up) High	989930291
+PressSensorFault (BoomLower Make-Up) Low	989930292
+EHCValveStick/HiPress (BoomLowerMake-Up)	989930320
+EHCValveStick/LoPress (BoomLowerMake-Up)	989930321
+EHCValveCurrentLow (BoomLowerMake-Up)	989930325
+EHCValveCurrentHigh (BoomLowerMake-Up)	989930326
+PressSensorFault (ArmRetractMake-Up) High	989930355
+PressSensorFault (ArmRetractMake-Up) Low	989930356
+EHCValveStick/HiPress (ArmExtractMake-Up)	989930384
+EHCValveStick/LoPress (ArmExtractMake-Up)	989930385
+EHCValveCurrentLow (Arm Extract Make-Up)	989930389
+EHCValveCurrentHigh (Arm Extract Make-Up)	989930390
+PressSensorFault (BcktClose Make-Up) High	989930419
+PressSensorFault (BcktClose Make-Up) Low	989930420
+EHCValveStick/HiPress (BcktClose Make-Up)	989930448
+EHCValveStick/LoPress (BcktClose Make-Up)	989930449
+EHCValveCurrentLow (BcktClose Make-Up)	989930453
+EHCValveCurrentHigh (BcktClose Make-Up)	989930454
+Press Sensor Fault (GateLock Valve) High	989930483
+Press Sensor Fault (GateLock Valve) Low	989930484
+Below Normal Ope Press (GateLock Valve)	989930498
+Gatelock Signal Output Fault	989930524
+Communication Error ELU-MC	989930563
+Press Sensor Fault (Boom Raise 2) High	989930579
+Press Sensor Fault (Boom Raise 2) Low	989930580
+EHCValveStick/HiPress (Boom Raise 2)	989930608
+EHCValveStick/LoPress (Boom Raise 2)	989930609
+EHCValveCurrentLow (Boom Raise 2)	989930613
+EHCValveCurrentHigh (Boom Raise 2)	989930614
+Press Sensor Fault (Arm Roll-Out 2) High	989930643
+Press Sensor Fault (Arm Roll-Out 2) Low	989930644
+EHCValveStick/HighPress (Arm Roll-Out 2)	989930672
+EHCValveStick/LowPress (Arm Roll-Out 2)	989930673
+EHCValveCurrentLow (Arm Roll-Out 2)	989930677
+EHCValveCurrentHigh (Arm Roll-Out 2)	989930678
+Press Sensor Fault (Arm Roll-In 2) High	989930707
+Press Sensor Fault (Arm Roll-In 2) Low	989930708
+EHCValveStick/HighPress (Arm Roll-In 2)	989930736
+EHCValveStick/LowPress (Arm Roll-In 2)	989930737
+EHCValveCurrentLow (Arm Roll-In 2)	989930741
+EHCValveCurrentHigh (Arm Roll-In 2)	989930742
+Press Sensor Fault (Bucket Roll-Out 2) High	989930771
+Press Sensor Fault (Bucket Roll-Out 2) Low	989930772
+EHCValveStick/HiPress (Bucket Roll-Out 2)	989930800
+EHCValveStick/LoPress (Bucket Roll-Out 2)	989930801
+EHCValveCurrentLow (Bucket Roll-Out 2)	989930805
+EHCValveCurrentHigh (Bucket Roll-Out 2)	989930806
+Press Sensor Fault (Bucket Roll-In 2) High	989930835
+Press Sensor Fault (Bucket Roll-In 2) Low	989930836
+EHCValveStick/HighPress (BucketRoll-In 2)	989930864
+EHCValveStick/LowPress (BucketRoll-In 2)	989930865
+EHCValveCurrentLow (Bucket Roll-In 2)	989930869
+EHCValveCurrentHigh (Bucket Roll-In 2)	989930870
+Pump Transmission TEMP (L)	989930896
+TEMP Sensor Fault (Pump Transmission) Hi (L)	989930899
+TEMP Sensor Fault (Pump Transmission) Lo (L)	989930900
+Pump Transmission TEMP (R)	989930928
+TEMP Sensor Fault (Pump Transmission) Hi (R)	989930931
+TEMP Sensor Fault (Pump Transmission) Lo (R)	989930932
+Pump Transmission Oil Level Low (L)	989930961
+Pump Transmission Oil Level Low (R)	989930993
+Alternator Charge Fault (L)	989931055
+Hydraulic Oil Level Low	989931087
+Auto-Lubrication Alarm	989931119
+Emergency Switch ON	989931151
+Air Cleaner Restriction (L)	989931183
+Hydraulic Oil Temperature High	989931215
+Alternator Charge Fault (R)	989931247
+Air Cleaner Restriction (R)	989931279
+Track Tension Indicator	989931311
+MC Communication Error	989931331
+IDU Communication Error	989931363
+ELU Communication Error	989931395
+ELU Internal Memory Error	989931420
+ELU Sensor 5V Output (Travel/Bucket) High	989931443
+ELU Sensor 5V Output (Travel/Bucket) Low	989931444
+ELU Sensor 5V Output (Front/Swing) High	989931475
+ELU Sensor 5V Output (Front/Swing) Low	989931476
+ELU 5Voutput (AngleSensor/PressSensor) High	989931507
+ELU 5Voutput (AngleSensor/PressSensor) Low	989931508
+ELU PWM Power High	989931539
+ELU PWM Power Low	989931540
+ELU SOL Power High	989931571
+ELU SOL Power Low	989931572
+ELU Sensor 24V Output High	989931603
+ELU Sensor 24V Output Low	989931604
+ELU Main Power High	989931635
+ELU Main Power Low	989931636
+HMU Communication Error	989931683
+CSU Communication Error	989931715
+ECM Communication Error (L Parent)	989931747
+Sensor Supply 1 Ckt Failed High (L Parent)	989931763
+Sensor Supply 1 Ckt Failed Low (L Parent)	989931764
+Sensor Supply 2 Ckt Failed High (L Parent)	989931795
+Sensor Supply 2 Ckt Failed Low (L Parent)	989931796
+Sensor Supply 3 Ckt Failed Low (L Parent)	989931828
+High Battery Voltage (L Parent)	989931872
+Low Battery Voltage (L Parent)	989931874
+Sensor Supply 4 Ckt Above Normal (L Parent)	989931891
+Sensor Supply 4 Ckt Below Normal (L Parent)	989931892
+ECM Communication Error (R Parent)	989931939
+Sensor Supply 1 Ckt Failed High (R Parent)	989931955
+Sensor Supply 1 Ckt Failed Low (R Parent)	989931956
+Sensor Supply 2 Ckt Failed High (R Parent)	989931987
+Sensor Supply 2 Ckt Failed Low (R Parent)	989931988
+Sensor Supply 3 Ckt Failed Low (R Parent)	989932020
+High Battery Voltage (R Parent)	989932064
+Low Battery Voltage (R Parent)	989932066
+Sensor Supply 4 Ckt Above Normal (R Parent)	989932083
+Sensor Supply 4 Ckt Below Normal (R Parent)	989932084
+ECM Communication Error (L Child 1)	989932131
+Sensor Supply 1 Ckt Failed High (L Child 1)	989932147
+Sensor Supply 1 Ckt Failed Low (L Child 1)	989932148
+Sensor Supply 2 Ckt Failed High (L Child 1)	989932179
+Sensor Supply 2 Ckt Failed Low (L Child 1)	989932180
+Sensor Supply 3 Ckt Failed Low (L Child 1)	989932212
+High Battery Voltage (L Child 1)	989932256
+Low Battery Voltage (L Child 1)	989932258
+Sensor Supply 4 Ckt Failed High (L Child 1)	989932275
+Sensor Supply 4 Ckt Failed Low (L Child 1)	989932276
+ECM Communication Error (L Child 2)	989932323
+Sensor Supply 1 Ckt Failed High (L Child 2)	989932339
+Sensor Supply 1 Ckt Failed Low (L Child 2)	989932340
+Sensor Supply 2 Ckt Failed High (L Child 2)	989932371
+Sensor Supply 2 Ckt Failed Low (L Child 2)	989932372
+Sensor Supply 3 Ckt Failed Low (L Child 2)	989932404
+High Battery Voltage (L Child 2)	989932448
+Low Battery Voltage (L Child 2)	989932450
+Sensor Supply 4 Ckt Failed High (L Child 2)	989932467
+Sensor Supply 4 Ckt Failed Low (L Child 2)	989932468
+ECM Communication Error (R Child 1)	989932515
+Sensor Supply 1 Ckt Failed High (R Child 1)	989932531
+Sensor Supply 1 Ckt Failed Low (R Child 1)	989932532
+Sensor Supply 2 Ckt Failed High (R Child 1)	989932563
+Sensor Supply 2 Ckt Failed Low (R Child 1)	989932564
+Sensor Supply 3 Ckt Failed Low (R Child 1)	989932596
+High Battery Voltage (R Child 1)	989932640
+Low Battery Voltage (R Child 1)	989932642
+Sensor Supply 4 Ckt Failed High (R Child 1)	989932659
+Sensor Supply 4 Ckt Failed Low (R Child 1)	989932660
+ECM Communication Error (R Child 2)	989932707
+Sensor Supply 1 Ckt Failed High (R Child 2)	989932723
+Sensor Supply 1 Ckt Failed Low (R Child 2)	989932724
+Sensor Supply 2 Ckt Failed High (R Child 2)	989932755
+Sensor Supply 2 Ckt Failed Low (R Child 2)	989932756
+Sensor Supply 3 Ckt Failed Low (R Child 2)	989932788
+High Battery Voltage (R Child 2)	989932832
+Low Battery Voltage (R Child 2)	989932834
+Sensor Supply 4 Ckt Failed High (R Child 2)	989932851
+Sensor Supply 4 Ckt Failed Low (R Child 2)	989932852
+DTU Link Error (DTU <=> DLU)	989932889
+Ether Injection Ckt Failed (L)	989932923
+Remote Accel Pedal 1 Ckt Failed High (L)	989932947
+Remote Accel Pedal 1 Ckt Failed Low (L)	989932948
+J1939 Remote Accel Pedal Error (L)	989932963
+WIF Indicator Ckt Failed High (L)	989932979
+WIF Indicator Ckt Failed Low (L)	989932980
+WIF Indicator Warning (L)	989932991
+WIF Indicator Above Normal (L)	989932992
+Centinel Burn Valve Above Normal (L)	989933011
+Centinel Burn Valve Below Normal (L)	989933012
+Calibration Incompatibility Error (L)	989933053
+J1939 Datalink 2 Can Not Transmit (L)	989933081
+Aux Commanded Dual Output Shutdown (L)	989933118
+Fan Control Ckt Failed High (L)	989933139
+Fan Control Circuit Failed Low (L)	989933140
+Module ID Input State Error (L)	989933170
+Idle Validation Invalid (L)	989933202
+Idle Validation Calibration Error (L)	989933213
+J1939 PGN Timeout Error (L)	989933241
+J1939 Configuration Error (L)	989933245
+Real Time Clock - Data Erratic (L)	989933266
+Lift Pump Supply Ckt Failed High (L)	989933299
+Lift Pump Supply Ckt Failed Low (L)	989933300
+Fuel Pump Press 1 Ckt Failed High (L)	989933331
+Fuel Pump Press 1 Ckt Failed Low (L)	989933332
+Fuel Delivery Pressure Very High (L)	989933360
+Fuel Del Pressure Ckt Failed High (L)	989933363
+Fuel Del Pressure Ckt Failed Low (L)	989933364
+Fuel Pump Del Pressure Above Normal (L)	989933375
+Fuel Delivery Pressure High (L)	989933376
+Fuel Pump Del Pressure Below Normal (L)	989933377
+Fuel Pump Pressure Below Normal (L)	989933378
+Engine Oil Change Interval Exceeded	989933423
+Pre Filter Oil Press Ckt Failed High (L)	989933427
+Pre Filter Oil Press Ckt Failed Low (L)	989933428
+Multi Unit Sync Error (L)	989933458
+Speed Signal Lost (L)	989933490
+Engine Speed Cam/Crank Misalignment (L)	989933495
+Turbo Speed Sensor Ckt Failed High (L)	989933523
+Turbo Speed Sensor Ckt Failed Low (L)	989933524
+Ether Injection Ckt Failed (R)	989933563
+Remote Accel Pedal 1 Ckt Failed High (R)	989933587
+Remote Accel Pedal 1 Ckt Failed Low (R)	989933588
+J1939 Remote Accel Pedal Error (R)	989933603
+WIF Indicator Ckt Failed High (R)	989933619
+WIF Indicator Ckt Failed Low (R)	989933620
+WIF Indicator Warning (R)	989933631
+WIF Indicator Above Normal (R)	989933632
+Centinel Burn Valve Above Normal (R)	989933651
+Centinel Burn Valve Below Normal (R)	989933652
+Calibration Incompatibility Error (R)	989933693
+J1939 Datalink 2 Can Not Transmit (R)	989933721
+Aux Commanded Dual Output Shutdown (R)	989933758
+Fan Control Ckt Failed High (R)	989933779
+Fan Control Circuit Failed Low (R)	989933780
+Module ID Input State Error (R)	989933810
+Idle Validation Invalid (R)	989933842
+Idle Validation Calibration Error (R)	989933853
+J1939 PGN Timeout Error (R)	989933881
+J1939 Configuration Error (R)	989933885
+Real Time Clock - Data Erratic (R)	989933906
+Lift Pump Supply Ckt Failed High (R)	989933939
+Lift Pump Supply Ckt Failed Low (R)	989933940
+Fuel Pump Press 1 Ckt Failed High (R)	989933971
+Fuel Pump Press 1 Ckt Failed Low (R)	989933972
+Fuel Delivery Pressure Very High (R)	989934000
+Fuel Del Pressure Ckt Failed High (R)	989934003
+Fuel Del Pressure Ckt Failed Low (R)	989934004
+Fuel Pump Del Pressure Above Normal (R)	989934015
+Fuel Delivery Pressure High (R)	989934016
+Fuel Pump Del Pressure Below Normal (R)	989934017
+Fuel Pump Pressure Below Normal (R)	989934018
+Engine Oil Change Interval Exceeded (R)	989934063
+Pre Filter Oil Press Ckt Failed High (R)	989934067
+Pre Filter Oil Press Ckt Failed Low (R)	989934068
+Multi Unit Sync Error (R)	989934098
+Speed Signal Lost (R)	989934130
+Engine Speed Cam/Crank Misalignment (R)	989934135
+Turbo Speed Sensor Ckt Failed High (R)	989934163
+Turbo Speed Sensor Ckt Failed Low (R)	989934164
+Power Lost With Ignition On (L)	989934194
+Injector Power Supply Failed (L)	989934204
+Fuel Injection Valve Ckt Error (L)	989934255
+Injector Sol Driver Cyl 1 Below Normal (L)	989934261
+Injector Sol Driver Cyl 2 Below Normal (L)	989934293
+Injector Sol Driver Cyl 3 Below Normal (L)	989934325
+Injector Sol Driver Cyl 4 Below Normal (L)	989934357
+Injector Sol Driver Cyl 5 Below Normal (L)	989934389
+Injector Sol Driver Cyl 6 Below Normal (L)	989934421
+Injector Sol Driver Cyl 7 Below Normal (L)	989934453
+Injector Sol Driver Cyl 8 Below Normal (L)	989934485
+Injector Sol Driver Cyl 9 Below Normal (L)	989934517
+Injector Sol Driver Cyl10 Below Normal (L)	989934549
+Injector Sol Driver Cyl11 Below Normal (L)	989934581
+Injector Sol Driver Cyl12 Below Normal (L)	989934613
+Injector Sol Driver Cyl13 Below Normal (L)	989934645
+Injector Sol Driver Cyl14 Below Normal (L)	989934677
+Injector Sol Driver Cyl15 Below Normal (L)	989934709
+Injector Sol Driver Cyl16 Below Normal (L)	989934741
+Power Lost With Ignition On (R)	989934770
+Injector Power Supply Failed (R)	989934780
+Fuel Injection Valve Ckt Error (R)	989934831
+Injector Sol Driver Cyl 1 Below Normal (R)	989934837
+Injector Sol Driver Cyl 2 Below Normal (R)	989934869
+Injector Sol Driver Cyl 3 Below Normal (R)	989934901
+Injector Sol Driver Cyl 4 Below Normal (R)	989934933
+Injector Sol Driver Cyl 5 Below Normal (R)	989934965
+Injector Sol Driver Cyl 6 Below Normal (R)	989934997
+Injector Sol Driver Cyl 7 Below Normal (R)	989935029
+Injector Sol Driver Cyl 8 Below Normal (R)	989935061
+Injector Sol Driver Cyl 9 Below Normal (R)	989935093
+Injector Sol Driver Cyl10 Below Normal (R)	989935125
+Injector Sol Driver Cyl11 Below Normal (R)	989935157
+Injector Sol Driver Cyl12 Below Normal (R)	989935189
+Injector Sol Driver Cyl13 Below Normal (R)	989935221
+Injector Sol Driver Cyl14 Below Normal (R)	989935253
+Injector Sol Driver Cyl15 Below Normal (R)	989935285
+Injector Sol Driver Cyl16 Below Normal (R)	989935317
+OEM Interface Timeout	989986784
+OEM Interface Normal	989986785
+Driver Interface Timeout	989986786
+Driver Interface Normal	989986787

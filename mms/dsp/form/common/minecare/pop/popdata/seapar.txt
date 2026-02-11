@@ -1,0 +1,13 @@
+201392129	Link Voltage Level	4000	0	31
+201392130	Link Current Level	2500	0	2
+201392131	Engine Speed	2550	0	28
+201392132	Electric HP	2609.95	0	12
+201392133	Aux Blower Speed	127.5	0	32
+201392134	Battery Voltage	30	0	31
+201392135	Truck Speed	205.2	0	11
+201392136	Wheel Motor 1 Frequency	4200	0	 28
+201392137	Wheel Motor 2 Frequency	4200	0	28
+201392138	Acc Pedal	100	0	25
+201392139	Retard Pedal	100	0	25
+201392140	Wheel Motor 1 Temperature	250	-50	5
+201392141	Wheel Motor 2 Temperature	250	-50	5

@@ -1,0 +1,106 @@
+1644232705	Current Time or Date/Time (UNIX Time)	4211081215	0	29
+1644232706	Current Sprung Weight	6425.5	0	19
+1644232707	Inclinometer / Truck Incline	6425.5	0	4
+1644232708	Left Front Suspension Pressure	630126.29575	0	9
+1644232709	Right Front Suspension Pressure	630126.29575	0	9
+1644232710	Left Rear Suspension Pressure	630126.29575	0	9
+1644232711	Right Rear Suspension Pressure	630126.29575	0	9
+1644232712	Speed	6425.5	0	11
+1644232713	Brake Lock	1	0	0
+1644232714	Body Up	1	0	0
+1644232715	Run/Stop State	1	0	0
+1644232716	Haulcycle State	250	0	0
+1644232717	Swing Load Detected	64255	0	0
+1644232718	Gross Early Payload Estimate	421108121.5	0	19
+1644232719	Swing Load / Gross Swing Payload Estimate	421108121.5	0	19
+1644232720	Next Swing Load / Predicted Next Swing Payload Estimate	421108121.5	0	19
+1644232721	Total Number of Swingloads	250	0	0
+1644232722	Payload Gain Factor	250	0	0
+1644232723	OperatorID	64255	0	0
+1644232724	DateTime / Haul Cycle Start Time	4211081215	0	29
+1644232725	Payload(Net)	6425.5	0	19
+1644232726	Microfail Torque	4211081215	0	0
+1644232727	Tare Sprung Weight	6425.5	0	19
+1644232728	Payload Est.@Shovel(Net)	6425.5	0	19
+1644232729	Quick Payload Estimate(Net)	6425.5	0	19
+1644232823	Clean Tare Sprung Weight	6425.5	0	19
+1644232730	Max+T / Max Positive Frame Torque	642.55	0	18
+1644232731	TimeMax+T / Time Max Positive Frame Torque	64255	0	29
+1644232732	Max-T / Max Negative Frame Torque	642.55	0	18
+1644232733	TimeMax-T / Time Max Negative Frame Torque	64255	0	29
+1644232734	Max Sprung Weight	6425.5	0	19
+1644232735	Max SprungTime Weight	64255	0	29
+1644232736	L-Haul / Travel Distance	642550	0	17
+1644232737	L-Run Time	64255	0	29
+1644232738	L-Stop Time	64255	0	29
+1644232739	L-Max Speed	642.55	0	11
+1644232740	L-Max Speed Time	64255	0	29
+1644232741	Carry Back	6425.5	0	19
+1644232742	E-Haul Distance	642550	0	17
+1644232743	E-Run Time	64255	0	29
+1644232744	E-Stop Time	64255	0	29
+1644232745	E-Max Speed	642.55	0	11
+1644232746	E-Max SpeedTime	64255	0	29
+1644232747	Loading StartTime	64255	0	29
+1644232748	Loading Time	64255	0	29
+1644232749	Dumping Time	64255	0	29
+1644232750	LF TKPH	64255	0	20
+1644232751	RF TKPH	64255	0	20
+1644232752	R TKPH	64255	0	20
+1644232753	Status Flags	64255	0	0
+1644232824	Truck Type ID	64255	0	0
+1644232754	Unique Haul Cycle Serial#	4211081215	0	0
+1644232755	Microfail Sprung Weight	4211081215	0	0
+1644232756	Maneuvering T_Average	42110812.15	0	18
+1644232757	Final Zone T_Average	42110812.15	0	18
+1644232758	Total Fuel Consumption	6425.5	0	14
+1644232759	Allowable Payload (OLS)	6425.5	0	19
+1644232760	Remaining Load (OLS)	4211081215	0	19
+1644232761	Frame Torque Threshold	64255	0	18
+1644232762	Sprung Weight Threshold	64255	0	19
+1644232763	Dynamic Payload / Current Clean Tare	6425.5	0	19
+1644232765	Gross Final Payload Estimate	421108121.5	0	19
+1644232766	Frame Torque Threshold Exceeded Value	64255	0	0
+1644232767	Sprung Weight Threshold Exceeded Value	64255	0	0
+1644232825	Truck Speed at DS Event	6425.5	0	11
+1644232782	Sprungload Histogram 1	64255	0	0
+1644232783	Sprungload Histogram 2	64255	0	0
+1644232784	Sprungload Histogram 3	64255	0	0
+1644232785	Sprungload Histogram 4	64255	0	0
+1644232786	Sprungload Histogram 5	64255	0	0
+1644232787	Sprungload Histogram 6	64255	0	0
+1644232788	Sprungload Histogram 7	64255	0	0
+1644232789	Sprungload Histogram 8	64255	0	0
+1644232790	Sprungload Histogram 9	64255	0	0
+1644232791	Sprungload Histogram 10	64255	0	0
+1644232792	Sprungload Histogram 11	64255	0	0
+1644232793	Sprungload Histogram 12	64255	0	0
+1644232794	Sprungload Histogram 13	64255	0	0
+1644232795	Sprungload Histogram 14	64255	0	0
+1644232796	Sprungload Histogram 15	64255	0	0
+1644232797	Sprungload Histogram 16	64255	0	0
+1644232798	Sprungload Histogram 17	64255	0	0
+1644232799	Sprungload Histogram 18	64255	0	0
+1644232800	Sprungload Histogram 19	64255	0	0
+1644232801	Sprungload Histogram 20	64255	0	0
+1644232802	Torque Histogram 1	64255	0	0
+1644232803	Torque Histogram 2	64255	0	0
+1644232804	Torque Histogram 3	64255	0	0
+1644232805	Torque Histogram 4	64255	0	0
+1644232806	Torque Histogram 5	64255	0	0
+1644232807	Torque Histogram 6	64255	0	0
+1644232808	Torque Histogram 7	64255	0	0
+1644232809	Torque Histogram 8	64255	0	0
+1644232810	Torque Histogram 9	64255	0	0
+1644232811	Torque Histogram 10	64255	0	0
+1644232812	Torque Histogram 11	64255	0	0
+1644232813	Torque Histogram 12	64255	0	0
+1644232814	Torque Histogram 13	64255	0	0
+1644232815	Torque Histogram 14	64255	0	0
+1644232816	Torque Histogram 15	64255	0	0
+1644232817	Torque Histogram 16	64255	0	0
+1644232818	Torque Histogram 17	64255	0	0
+1644232819	Torque Histogram 18	64255	0	0
+1644232820	Torque Histogram 19	64255	0	0
+1644232821	Torque Histogram 20	64255	0	0
+1644232822	Cycle Target Load (OLS)	4211081215	0	0

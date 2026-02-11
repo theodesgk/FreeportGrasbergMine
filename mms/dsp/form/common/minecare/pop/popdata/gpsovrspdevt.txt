@@ -1,0 +1,12 @@
+GPS overspeed Min	671154178
+GPS overspeed Warn	671154179
+GPS overspeed Max	671154180
+GPS Speed OK	671154181
+GPS Empty LatAccel Warn	671154182
+GPS Empty LatAccel Max	671154183
+GPS Full LatAccel Warn	671154184
+GPS Full LatAccel Max	671154185
+GPS LatAccel OK	671154186
+GPS Immobile Warning	671154187
+GPS End Immobility	671154188
+Did not stop at beacon	671154189

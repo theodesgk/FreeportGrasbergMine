@@ -1,0 +1,361 @@
+1627455489	Total Vehicle Hours	0	0	7
+1627455490	Wheel-Based Vehicle Speed	0	0	11
+1627455491	Vehicle Run State	0	0	0
+1627455492	Ambient Air Temperature	0	0	5
+1627455493	Engine 1 Accelerator Pedal Position 1	0	0	25
+1627455494	Engine 1 Speed	0	0	28
+1627455495	Fuel Level 	0	0	25
+1627455496	Steering Pressure	0	0	9
+1627455497	Park Brake Released/Set	0	0	0
+1627455498	Service Brake On	0	0	0
+1627455499	Retard Control On	0	0	0
+1627455500	Left Rear Brake Oil Temperature	0	0	5
+1627455501	Right Rear Brake Oil Temperature	0	0	5
+1627455502	Brake Pressure	0	0	9
+1627455503	Right Front Brake Oil Temperature	0	0	5
+1627455504	Left Front Brake Oil Temperature	0	0	5
+1627455505	Service Brake Power	0	0	35
+1627455506	Brake Lock PLM	0	0	0
+1627455507	Hoist Pressure 1	0	0	9
+1627455508	Hoist Pressure 2	0	0	9
+1627455509	Pitch Inclinometer	0	0	4
+1627455510	Body Up	0	0	0
+1627455511	Sprung Weight	0	0	18
+1627455512	Right Front Suspension Pressure	0	0	22
+1627455513	Left Front Suspension Pressure	0	0	22
+1627455514	Right Rear Suspension Pressure	0	0	22
+1627455515	Left Rear Suspension Pressure	0	0	22
+1627455516	Haulcycle Status Flags	0	0	0
+1627455517	Haulcycle State	0	0	0
+1627455518	Battery Voltage 24V	0	0	31
+1627455519	Hydraulic Oil Tank Temperature	0	0	5
+1627455520	Calendar	0	0	0
+1627455521	High Resolution Total Vehicle Distance	0	0	17
+1627455522	Engine 1 Extended Crankcase Blow-by Pressure	0	0	9
+1627455523	Engine 1 Percent Load At Current Speed	0	0	25
+1627455524	Engine 1 Oil Temperature 1	0	0	5
+1627455525	Engine 1 Oil Pressure	0	0	9
+1627455526	Engine 1 Coolant Temperature	0	0	5
+1627455527	Engine 1 Fuel Injection	0	0	0
+1627455528	Engine 1 Fuel Rate	0	0	13
+1627455529	Engine 1 Turbocharger Boost Pressure	0	0	9
+1627455530	Engine 1 Turbocharger 2 Boost Pressure	0	0	9
+1627455531	Engine 1 Exhaust Gas Port 1 Temperature	0	0	5
+1627455532	Engine 1 Exhaust Gas Port 2 Temperature	0	0	5
+1627455533	Engine 1 Exhaust Gas Port 3 Temperature	0	0	5
+1627455534	Engine 1 Exhaust Gas Port 4 Temperature	0	0	5
+1627455535	Torque Converter Lockup Engaged	0	0	0
+1627455536	Transmission Oil Temperature 1	0	0	5
+1627455537	Transmission Current Range	0	0	0
+1627455538	Brake Oil Pressure Left/Front	0	0	22
+1627455539	Brake Oil Pressure Right/Rear	0	0	22
+1627455540	Foot Brake Position	0	0	0
+1627455541	Retarder Oil Temperature Front	0	0	5
+1627455542	Retarder Oil Temperature Rear Right	0	0	5
+1627455543	Retarder Oil Temperature Rear Left	0	0	5
+1627455544	Retarder Position	0	0	25
+1627455545	Body Seating	0	0	0
+1627455546	Live Weight	0	0	19
+1627455547	ECO ON (E mode: 1 / P mode: 0)	0	0	0
+1627455548	Barometric Pressure	0	0	9
+1627455549	Engine 1 Crankcase Pressure	0	0	9
+1627455550	Engine 1 Fuel Level	0	0	25
+1627455551	Engine 1 Exhaust Gas Temperature - Right Manifold	0	0	5
+1627455552	Engine 1 Exhaust Gas Temperature - Left Manifold	0	0	5
+1627455553	Engine 1 Exhaust Gas Temperature - Right Manifold Max	0	0	5
+1627455554	Engine 1 Exhaust Gas Temperature - Left Manifold Max	0	0	5
+1627455555	Engine 2 Speed	0	0	28
+1627455556	Engine 2 Oil Pressure	0	0	9
+1627455557	Engine 2 Coolant Temperature	0	0	5
+1627455558	Engine 2 Exhaust Gas Temperature - Right Manifold Max	0	0	5
+1627455559	Engine 2 Exhaust Gas Temperature - Left Manifold Max	0	0	5
+1627455560	T/C Input Speed	0	0	28
+1627455561	Transmission Output Shaft Speed	0	0	28
+1627455562	Transmission Oil Temperature 2	0	0	5
+1627455563	T/M Modulation Pressure	0	0	22
+1627455564	Articulate Angle	0	0	4
+1627455565	Power Takeoff Oil Temperature 1	0	0	5
+1627455566	Transmission Torque Converter Oil Outlet Temperature	0	0	5
+1627455567	Transmission Oil Pressure	0	0	9
+1627455568	Brake Oil Temperature	0	0	5
+1627455569	Pump Pressure 1/Front 1/Main/Loader	0	0	22
+1627455570	Pump Pressure 5	0	0	22
+1627455571	Left Travel Oil Pressure Switch	0	0	0
+1627455572	Right Travel Oil Pressure Switch	0	0	0
+1627455573	Swing Oil Pressure Switch 1	0	0	0
+1627455574	Service Oil Pressure Switch	0	0	0
+1627455575	Steering Pump Pressure	0	0	22
+1627455576	Hydraulic Oil Level	0	0	25
+1627455577	Hydraulic Oil Temperature	0	0	5
+1627455578	Pump Pressure 2/Rear 1	0	0	22
+1627455579	Pump Pressure 6	0	0	22
+1627455580	Pump Pressure 3/Front 2	0	0	22
+1627455581	Pump Pressure 4/Rear 2	0	0	22
+1627455582	Bearing Temperature Drive End Motor 1	0	0	5
+1627455583	BearingTempD_End_M2	0	0	5
+1627455584	Bearing Temperature Non Drive End Motor 1	0	0	5
+1627455585	BearingTempND_End_M2	0	0	5
+1627455586	Winding Temperature L1 Motor 1	0	0	5
+1627455587	Winding Temperature L1 Motor 2	0	0	5
+1627455588	Winding Temperature L2 Motor 1	0	0	5
+1627455589	Winding Temperature L2 Motor 2	0	0	5
+1627455590	Winding Temperature L3 Motor 1	0	0	5
+1627455591	Winding Temperature L3 Motor 2	0	0	5
+1627455592	Motor Voltage	0	0	31
+1627455593	Electric Motor Current L1 Motor 1	0	0	2
+1627455594	Electric Motor Current L1 Motor 2	0	0	2
+1627455595	Stick / Arm State	0	0	0
+1627455596	Boom State	0	0	0
+1627455597	Bucket State	0	0	0
+1627455598	Clam State	0	0	0
+1627455599	Left Travel State	0	0	0
+1627455600	Right Travel State	0	0	0
+1627455601	Swing State	0	0	0
+1627455602	Local Date/Time (Seconds since 12:00:00 AM 1/1/1970)	0	0	29
+1627455603	Engine 1 Oil Level	0	0	25
+1627455604	Power Takeoff Oil Temperature 1	0	0	5
+1627455605	Hydraulic Oil Level	0	0	25
+1627455606	Hydraulic Oil Temperature	0	0	5
+1627455607	CLS1 Grease Empty	0	0	0
+1627455608	SLS Grease Empty	0	0	0
+1627455609	CLS1 Grease Full Switch	0	0	0
+1627455610	SLS Grease Full Switch	0	0	0
+1627455611	SLS Grease Low Sig	0	0	0
+1627455612	CLS Grease Low Sig	0	0	0
+1627455613	Boardnet Voltage	0	0	31
+1627455614	Battery Charge Amp	0	0	16
+1627455615	Engine 2 Fuel Rate	0	0	13
+1627455616	Power Takeoff Oil Temperature 2	0	0	5
+1627455617	Engine 2 Oil Level	0	0	25
+1627455618	Engine Mode Select	0	0	0
+1627455619	Engine 1 Output Torque	0	0	24
+1627455620	Engine 1 First Accelerator Position	0	0	25
+1627455621	Engine 1 Crankcase Pressure	0	0	9
+1627455622	Engine 1 Common Rail Pressure	0	0	22
+1627455623	Transmission Input Shaft Speed	0	0	28
+1627455624	T/M Shift Lock Up State	0	0	0
+1627455625	Modulation Clutch Slip Rate	0	0	25
+1627455626	AJSS Lever Potentiometer Voltage	0	0	31
+1627455627	Transmission Charge Oil Pressure	0	0	22
+1627455628	Transmission Main Oil Pressure	0	0	22
+1627455629	AJSS Lever Angle	0	0	4
+1627455630	Brake Oil Temperature Left/Front	0	0	5
+1627455631	Brake Oil Temperature Right/Rear	0	0	5
+1627455632	Brake Valve Output Pressure	0	0	22
+1627455633	Boom Angle	0	0	4
+1627455634	Boom Lever Potentiometer Voltage	0	0	31
+1627455635	Bucket Lever Potentiometer Voltage	0	0	31
+1627455636	Fan Speed	0	0	28
+1627455637	Bucket Angle	0	0	4
+1627455638	Boom Bottom Pressure	0	0	22
+1627455639	T/C Input Pressure/Transmission Torque Converter Input Pressure	0	0	22
+1627455640	T/C Output Pressure/Transmission Torque Converter Output Pressure	0	0	22
+1627455641	Boom Head Pressure	0	0	22
+1627455642	Boom Lever Stroke	0	0	25
+1627455643	Bucket Lever Stroke	0	0	25
+1627455644	Calculated Weight	0	0	19
+1627455645	Work State	0	0	0
+1627455646	Engine 1 Extended Crankcase - Blow by Pressure	0	0	9
+1627455647	Engine 1 Exhaust Gas Temperature	0	0	5
+1627455648	Altitude	0	0	17
+1627455649	Latitude	0	0	4
+1627455650	Longitude	0	0	4
+1627455651	Navigation-Based Vehicle Speed	0	0	11
+1627455652	Navigation fault	0	0	0
+1627455653	Engine 1 Intake Manifold 1 Temperature	0	0	5
+1627455654	Fuel Level (High Resolution)	0	0	25
+1627455655	Engine 1 Diesel Particulate Filter Regeneration Completed count	0	0	0
+1627455656	Shift Lever Position	0	0	0
+1627455657	Retarder ON	0	0	0
+1627455658	Parking Brake Switch	0	0	0
+1627455659	Automatic Retard Speed Control Speed	0	0	11
+1627455660	Traction Control System Switch	0	0	0
+1627455661	Automatic Retard Speed Control Switch	0	0	0
+1627455662	Steering Wheel Angle	0	0	4
+1627455663	Steering Axle Temperature	0	0	5
+1627455664	Hoist Lever Position	0	0	0
+1627455665	Vehicle State	0	0	0
+1627455666	Load Count	0	0	0
+1627455667	Anti-Lock Braking System Switch	0	0	0
+1627455668	Front axle - right wheel speed	0	0	28
+1627455669	Front Axle - Left Wheel Speed	0	0	28
+1627455670	Rear axle - right wheel speed	0	0	28
+1627455671	Rear axle - left wheel speed	0	0	28
+1627455672	Roll/Inclinometer	0	0	4
+1627455673	Secondary Brake Work	0	0	0
+1627455674	Front Brake Cut Sw Status	0	0	0
+1627455675	Engine 1 Turbocharger 2 Boost Pressure	0	0	9
+1627455676	Engine 1 Intake Manifold 2 Temperature	0	0	5
+1627455677	Bypass Valve Sescor Voltage	0	0	31
+1627455678	Prelube Condition	0	0	0
+1627455679	Engine 1 Extended Crankcase Blow-by Pressure	0	0	9
+1627455680	Exhaust Gas Brake	0	0	0
+1627455681	Fuel Level (High Resolution)	0	0	25
+1627455682	Exhaust Gas Brake Pressure SW	0	0	0
+1627455683	Exhaust Brake SW1	0	0	0
+1627455684	Exhaust Brake SW2	0	0	0
+1627455685	Engine 1 Coolant Pressure	0	0	9
+1627455686	Engine 1 Intake Manifold 3 Temperature	0	0	5
+1627455687	Engine 1 Intake Manifold 4 Temperature	0	0	5
+1627455688	Parking Brake Oil Pressure	0	0	22
+1627455689	Engine 1 Exhaust Gas Port 5 Temperature	0	0	5
+1627455690	Engine 1 Exhaust Gas Port 6 Temperature	0	0	5
+1627455691	Engine 1 Exhaust Gas Port 7 Temperature	0	0	5
+1627455692	Engine 1 Exhaust Gas Port 8 Temperature	0	0	5
+1627455693	Engine 1 Exhaust Gas Port 9 Temperature	0	0	5
+1627455694	Engine 1 Exhaust Gas Port 10 Temperature	0	0	5
+1627455695	Engine 1 Exhaust Gas Port 11 Temperature	0	0	5
+1627455696	Engine 1 Exhaust Gas Port 12 Temperature	0	0	5
+1627455697	Engine 1 Exhaust Gas Port 13 Temperature	0	0	5
+1627455698	Engine 1 Exhaust Gas Port 14 Temperature	0	0	5
+1627455699	Engine 1 Exhaust Gas Port 15 Temperature	0	0	5
+1627455700	Engine 1 Exhaust Gas Port 16 Temperature	0	0	5
+1627455701	Axle Oil Temperature	0	0	5
+1627455702	Dozing Time	0	0	7
+1627455703	Ripping Time	0	0	7
+1627455704	Pass Times	0	0	0
+1627455705	F1 Travel Distance	0	0	17
+1627455706	F2 Travel Distance	0	0	17
+1627455707	F3 Travel Distance	0	0	17
+1627455708	R1 Travel Distance	0	0	17
+1627455709	R2 Travel Distance	0	0	17
+1627455710	R3 Travel Distance	0	0	17
+1627455711	Engine 1 Demand Engine Speed	0	0	28
+1627455712	T/C Input Torque	0	0	24
+1627455713	T/M Input Torque	0	0	24
+1627455714	Transmission Oil Pressure	0	0	9
+1627455715	Clutch Pressure Left	0	0	22
+1627455716	Clutch Pressure Right	0	0	22
+1627455717	Engine 1 Turbocharger Boost Pressure	0	0	9
+1627455718	UTC Date/Time (Seconds since 12:00:00 AM 1/1/1970)	0	0	29
+1627455719	Engine 1 Oil Filter Differential Pressure	0	0	9
+1627455720	Engine 1 Aftertreatment1 Diesel Exhaust Fluid Tank1 Level	0	0	25
+1627455721	Engine 1 Aftertreatment1 Diesel Exhaust Fluid Tank1 Temperature	0	0	5
+1627455722	Battery Voltage A (12V)	0	0	31
+1627455723	5V Sensor Monitor	0	0	31
+1627455724	Engine 1 Intake Manifold 5 Temperature	0	0	5
+1627455725	Engine 1 Intake Manifold 6 Temperature	0	0	5
+1627455726	Engine 1 Exhaust Gas Port 17 Temperature	0	0	5
+1627455727	Engine 1 Exhaust Gas Port 18 Temperature	0	0	5
+1627455728	Engine Status	0	0	0
+1627455729	Swing Pump Pressure 1	0	0	22
+1627455730	Boom Raise Oil Pressure Switch	0	0	0
+1627455731	Boom Lower Oil Pressure Switch	0	0	0
+1627455732	Arm In / Stick Out Oil Pressure Switch	0	0	0
+1627455733	Arm Out / Stick In Oil Pressure Switch	0	0	0
+1627455734	Bucket Curl Oil Pressure Switch	0	0	0
+1627455735	Bucket Dump Oil Pressure Switch	0	0	0
+1627455736	Swing Parking Brake Switch	0	0	0
+1627455737	Swing Holding Brake Solenoid Valve	0	0	0
+1627455738	Work Mode	0	0	0
+1627455739	Auto Grease Solenoid Valve	0	0	0
+1627455740	Boom RAISE Oil Pressure	0	0	22
+1627455741	Boom LOWER Oil Pressure	0	0	22
+1627455742	Arm IN Oil Pressure	0	0	22
+1627455743	Arm OUT Oil Pressure	0	0	22
+1627455744	Bucket CURL Oil Pressure	0	0	22
+1627455745	Bucket DUMP Oil Pressure	0	0	22
+1627455746	Swing Right Oil Pressure	0	0	22
+1627455747	Swing Left Oil Pressure	0	0	22
+1627455748	Gear Pump Pressure 1	0	0	22
+1627455749	Gear Pump Pressure 2	0	0	22
+1627455750	RAD Fan Pump Pressure	0	0	22
+1627455751	Fan Pump Pressure 1	0	0	22
+1627455752	Auto Grease Pressure	0	0	22
+1627455753	Horn On	0	0	0
+1627455754	Alternator Voltage	0	0	31
+1627455755	Engine 1 Turbocharger Boost Temperature	0	0	5
+1627455756	Lever Neutral Position	0	0	0
+1627455757	Heavy Lift Mode	0	0	0
+1627455758	Swing Oil Pressure Switch 2	0	0	0
+1627455759	Swing Oil Pressure Switch 3	0	0	0
+1627455760	CLS1 Grease Pressure	0	0	22
+1627455761	SLS Grease Pressure	0	0	22
+1627455762	CLS1 Manual Lubrication	0	0	0
+1627455763	CLS Grease Pressure Switch	0	0	0
+1627455764	Truck Counter 1	0	0	0
+1627455765	Truck Counter 2	0	0	0
+1627455766	Truck Counter 1 Switch	0	0	0
+1627455767	Truck Counter 2 Switch	0	0	0
+1627455768	L1 Bottom Dump Open 	0	0	0
+1627455769	L1 Bottom Dump Close	0	0	0
+1627455770	L2 Bottom Dump Open	0	0	0
+1627455771	L2 Bottom Dump Close	0	0	0
+1627455772	Bottom Dump Priority Signal	0	0	0
+1627455773	Left Travel Forward Oil Pressure Switch	0	0	0
+1627455774	Right Travel Forward Oil Pressure Switch	0	0	0
+1627455775	Left Travel Backward Oil Pressure Switch	0	0	0
+1627455776	Right Travel Backward Oil Pressure Switch	0	0	0
+1627455777	SLS Manual Lubrication	0	0	0
+1627455778	PTO Lube Press.	0	0	22
+1627455779	RAD Fan Speed	0	0	28
+1627455780	O/C Fan Speed	0	0	28
+1627455781	O/C Fan Pump Pressure	0	0	22
+1627455782	CLS Interval Time	0	0	7
+1627455783	Vehicle X-axis Angular Velocity	0	0	0
+1627455784	Vehicle Y-axis Angular Velocity	0	0	0
+1627455785	Vehicle Z-axis Angular Velocity	0	0	0
+1627455786	Vehicle X-axis Acceleration	0	0	0
+1627455787	Vehicle Y-axis Acceleration	0	0	0
+1627455788	Vehicle Z-axis Acceleration	0	0	0
+1627455789	Vehicle Roll Angle	0	0	4
+1627455790	Vehicle Pitch Angle	0	0	4
+1627455791	Vehicle Yaw Angle	0	0	4
+1627455792	Engine 1 Injector Metering Rail 1 Pressure	0	0	22
+1627455793	Engine 1 Turbocharger 1 Boost Pressure	0	0	9
+1627455794	Engine Oil Tank Empty Signal	0	0	0
+1627455795	Engine Air Filter1 Signal	0	0	0
+1627455796	Engine Air Filter2 Signal	0	0	0
+1627455797	Engine Oil Level Low Signal	0	0	0
+1627455798	Slew Park Brake Switch	0	0	0
+1627455799	Travel Parking Brake Switch	0	0	0
+1627455800	Slew Park Brake Solenoid	0	0	0
+1627455801	Pump Pressure Average	0	0	22
+1627455802	Engine/Motor Drive State	0	0	0
+1627455803	SLS Interval Time	0	0	7
+1627455804	CLS Pump Solenoid	0	0	0
+1627455805	SLS Pump Solenoid	0	0	0
+1627455806	Ladder Up Switch	0	0	0
+1627455807	Ladder Down Switch	0	0	0
+1627455808	Lock Lever Lock Switch	0	0	0
+1627455809	Ladder Up Proximity Switch	0	0	0
+1627455810	Ladder Down Proximity Switch	0	0	0
+1627455811	Suction Tank Pressure	0	0	22
+1627455812	Oil Cooler Pressure	0	0	22
+1627455813	X2 Pressure	0	0	22
+1627455814	PTO Filter Monitor Signal	0	0	0
+1627455815	Return Oil Fillter Differential Pressure	0	0	22
+1627455816	Leak Oil Filter Differential Pressure	0	0	22
+1627455817	Preload Valve 1 Differential Pressure	0	0	22
+1627455818	Preload Valve 2 Differential Pressure	0	0	22
+1627455819	Control pressure X1-1	0	0	9
+1627455820	Hydrauric Tank Inner Pressure	0	0	22
+1627455821	Boom Head Pressure	0	0	22
+1627455822	Boom Bottom Pressure	0	0	22
+1627455823	Stick / Arm Head Pressure	0	0	22
+1627455824	Stick / Arm Bottom Pressure	0	0	22
+1627455825	Bucket Head Pressure	0	0	22
+1627455826	Bucket Bottom Pressure	0	0	22
+1627455827	Swing Right Pressure	0	0	22
+1627455828	Swing Left Pressure	0	0	22
+1627455829	Travel R Forward Pressure	0	0	22
+1627455830	Travel R Backward Pressure	0	0	22
+1627455831	Travel L Forward Pressure	0	0	22
+1627455832	Travel L Backward Pressure	0	0	22
+1627455833	O/C Fan2 Speed	0	0	28
+1627455834	RAD Fan2 Speed	0	0	28
+1627455835	Stop Engine Switch	0	0	0
+1627455836	PTO Lube Preload Solenoid	0	0	0
+1627455837	Oil Cooler Fan Min Relay	0	0	0
+1627455838	Oil Cooler Fan Mid Relay	0	0	0
+1627455839	CLS1 Release Lube Solenoid	0	0	0
+1627455840	SLS Release Lube Solenoid	0	0	0
+1627455841	Return Oil Chamber Pressure	0	0	22
+1627455842	Leak Oil Chamber Pressure	0	0	22
+1627455843	Preload Valve Return Oil Pressure	0	0	22
+1627455844	Oil Tank Air Filter Monitor	0	0	0
+1627455845	SCR Catalyst Intake Gas Temperature	0	0	5
+1627455846	HC Counter	0	0	25
+1627455847	Decoke Counter	0	0	25
+1627455848	DEF level	0	0	25
+1627455849	SLS Grease Pressure Switch	0	0	0

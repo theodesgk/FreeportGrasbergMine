@@ -1,0 +1,1494 @@
+Oem Interface Timeout 	1073872864
+Oem Interface Normal 	1073872865
+Driver Interface Timeout 	1073872866
+Driver Interface Normal 	1073872867
+Auxiliary Steering System Activated (L-950)	1073808360
+Auxiliary Steering System Fault (L-950)	1073808361
+Bad/Missing Vcu Module (L-950)	1073808362
+Battery Charging Alternator Voltage Critically Low (L-950)	1073808363
+Cab Emergency Stop Switch Pressed (L-950)	1073808364
+Configure Vehicle Control Unit Required (L-950)	1073808365
+Engine Red Lamp Active (L-950)	1073808366
+Engine Safety Filter(S) Restricted (L-950)	1073808367
+Error Accessing Vcu File (L-950)	1073808368
+Excessive Number Of Motor Drives Inactive (L-950)	1073808369
+Fire System Engaged Or Detected (L-950)	1073808370
+Five Consecutive Autolube Warnings (L-950)	1073808371
+High Voltage Cabinet Emergency Stop Switch Pressed (L-950)	1073808372
+Hmi Software Version Does Not Support Machine Version (L-950)	1073808373
+Hpd Gearbox Oil Pressure Critically Low (L-950)	1073808374
+Hydraulic Oil Reservoir Level Low (L-950)	1073808375
+Hydraulic Reservoir Air Pressure Low (L-950)	1073808376
+Hydraulic Reservoir Emergency Stop Switch Pressed (L-950)	1073808377
+Klenz Filter Restriction High At Low Throttle (L-950)	1073808378
+Left Rear Emergency Stop Switch Pressed (L-950)	1073808379
+Right Rear Emergency Stop Switch Pressed (L-950)	1073808380
+Module(S) Not Present Or Have Failed (L-950)	1073808381
+Vehicle Control Unit Critical Over Temperature (L-950)	1073808382
+Accessory Pump Pressure Sensor Or Cable Fail High (L-950)	1073808383
+Accessory Pump Pressure Sensor Or Cable Fail Low (L-950)	1073808384
+Autolube Grease Pressure Failed To Build (L-950)	1073808385
+Autolube Grease Pressure High (L-950)	1073808386
+Autolube Grease Pressure Sensor Or Cable Fail High (L-950)	1073808387
+Autolube Grease Pressure Sensor Or Cable Fail Low (L-950)	1073808388
+Autolube Grease Restriction (L-950)	1073808389
+Battery Charging Alternator Voltage Critically High (L-950)	1073808390
+Battery Charging Alternator Voltage High (L-950)	1073808391
+Battery Charging Alternator Voltage Low (L-950)	1073808392
+Battery Voltage Low (L-950)	1073808393
+Bellcrank To Lift Arm Sensor Or Cable Fail High (L-950)	1073808394
+Bellcrank To Lift Arm Sensor Or Cable Fail Low (L-950)	1073808395
+Blower Overspeed (L-950)	1073808396
+Bucket Critical Overload (L-950)	1073808397
+Bucket Overload (L-950)	1073808398
+Clamshell Cylinder Extension Sensor Or Cable Fail High (L-950)	1073808399
+Clamshell Cylinder Extension Sensor Or Cable Fail Low (L-950)	1073808400
+Drive Coolant Reservoir Level Low (L-950)	1073808401
+Drive Cooling Pump Controller #1 Data Link Missing (L-950)	1073808402
+Drive Cooling Pump Controller #2 Data Link Missing (L-950)	1073808403
+Drive Cooling Pump Controller #3 Data Link Missing (L-950)	1073808404
+Dump Pressure Low (L-950)	1073808405
+Engine Ecm Data Link Missing (L-950)	1073808406
+Engine Yellow Lamp Active (L-950)	1073808407
+Float Too Slow (L-950)	1073808408
+Front Driver Lubrication Flow Low (L-950)	1073808409
+Front Park Brakes / System Air Pressure Discrepancy (L-950)	1073808410
+Front Park Brakes Pressure Sensor Or Cable Fail High (L-950)	1073808411
+Front Park Brakes Pressure Sensor Or Cable Fail Low (L-950)	1073808412
+Front Park Brakes Stuck (L-950)	1073808413
+Front Service Brakes Pressure High (L-950)	1073808414
+Front Service Brakes Pressure Sensor Or Cable Fail High (L-950)	1073808415
+Front Service Brakes Pressure Sensor Or Cable Fail Low (L-950)	1073808416
+Fuel Level Low (L-950)	1073808417
+Fuel Level Sensor Or Cable Fail High (L-950)	1073808418
+Fuel Level Sensor Or Cable Fail Low (L-950)	1073808419
+Generator Critical Over Temperature (L-950)	1073808420
+Generator Failed To Prime (L-950)	1073808421
+Generator Fault (L-950)	1073808422
+Generator Master Blown Fuse (L-950)	1073808423
+Generator Master Converter Critical Over Temperature (L-950)	1073808424
+Generator Master Data Link Missing (L-950)	1073808425
+Generator Slave #1 Blown Fuse (L-950)	1073808426
+Generator Slave #1 Converter Critical Over Temperature (L-950)	1073808427
+Generator Slave #2 Blown Fuse (L-950)	1073808428
+Generator Slave #2 Converter Critical Over Temperature (L-950)	1073808429
+Generator Slave #3 Blown Fuse (L-950)	1073808430
+Generator Slave #3 Converter Critical Over Temperature (L-950)	1073808431
+High Voltage Bus Isolation Resistance Low (L-950)	1073808432
+High Voltage Bus Isolation Sensor Or Cable Fail Low (L-950)	1073808433
+Hoist Cylinder Base Pressure Sensor Or Cable Fail High (L-950)	1073808434
+Hoist Cylinder Base Pressure Sensor Or Cable Fail Low (L-950)	1073808435
+Hpd Gearbox Oil Temperature High (L-950)	1073808436
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail High (L-950)	1073808437
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail Low (L-950)	1073808438
+Hpd Gearbox Pressure Sensor Or Cable Fail High (L-950)	1073808439
+Hpd Gearbox Pressure Sensor Or Cable Fail Low (L-950)	1073808440
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail High (L-950)	1073808441
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail Low (L-950)	1073808442
+Hydraulic Reservoir Oil Temperature Critically High (L-950)	1073808443
+Hydraulic Reservoir Oil Temperature High (L-950)	1073808444
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail High (L-950)	1073808445
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail Low (L-950)	1073808446
+Keypad Data Link Missing (L-950)	1073808447
+Klenz Enable Switch Off (L-950)	1073808448
+Klenz Filter Restriction Critically High (L-950)	1073808449
+Klenz Filter Restriction High (L-950)	1073808450
+Klenz Reservoir Air Pressure Low (L-950)	1073808451
+Klenz Reservoir Air Pressure Sensor Or Cable Fail High (L-950)	1073808452
+Klenz Reservoir Air Pressure Sensor Or Cable Fail Low (L-950)	1073808453
+Klenz Restriction Pressure Sensor Or Cable Fail High (L-950)	1073808454
+Klenz Restriction Pressure Sensor Or Cable Fail Low (L-950)	1073808455
+Left Front Motor Drive Fault (L-950)	1073808456
+Left Joystick Cruise Decrease Sensor Fault (L-950)	1073808457
+Left Joystick Cruise Increase Sensor Fault (L-950)	1073808458
+Left Joystick Data Link Missing (L-950)	1073808459
+Left Joystick Left Steer Sensor Fault (L-950)	1073808460
+Left Joystick Right Steer Sensor Fault (L-950)	1073808461
+Left Rear Motor Drive Fault (L-950)	1073808462
+Lift Arm Position Sensor Or Cable Fail High (L-950)	1073808463
+Lift Arm Position Sensor Or Cable Fail Low (L-950)	1073808464
+Motor #1 ( Left Front ) Critical Over Temperature (L-950)	1073808465
+Motor #1 ( Left Front ) Derated By Master Converter Temperature (L-950)	1073808466
+Motor #1 ( Left Front ) Derated By Motor Temperature (L-950)	1073808467
+Motor #1 ( Left Front ) Derated By Slave Converter Temperature (L-950)	1073808468
+Motor #1 ( Left Front ) Master Blown Fuse (L-950)	1073808469
+Motor #1 ( Left Front ) Master Converter Critical Over Temperature (L-950)	1073808470
+Motor #1 ( Left Front ) Master Data Link Missing (L-950)	1073808471
+Motor #1 ( Left Front ) Slave Blown Fuse (L-950)	1073808472
+Motor #1 ( Left Front ) Slave Converter Critical Over Temperature (L-950)	1073808473
+Motor #2 ( Right Front ) Critical Over Temperature (L-950)	1073808474
+Motor #2 ( Right Front ) Derated By Master Converter Temperature (L-950)	1073808475
+Motor #2 ( Right Front ) Derated By Motor Temperature (L-950)	1073808476
+Motor #2 ( Right Front ) Derated By Slave Converter Temperature (L-950)	1073808477
+Motor #2 ( Right Front ) Master Blown Fuse (L-950)	1073808478
+Motor #2 ( Right Front ) Master Converter Critical Over Temperature (L-950)	1073808479
+Motor #2 ( Right Front ) Master Data Link Missing (L-950)	1073808480
+Motor #2 ( Right Front ) Slave Blown Fuse (L-950)	1073808481
+Motor #2 ( Right Front ) Slave Converter Critical Over Temperature (L-950)	1073808482
+Motor #3 ( Left Rear ) Critical Over Temperature (L-950)	1073808483
+Motor #3 ( Left Rear ) Derated By Master Converter Temperature (L-950)	1073808484
+Motor #3 ( Left Rear ) Derated By Motor Temperature (L-950)	1073808485
+Motor #3 ( Left Rear ) Derated By Slave Converter Temperature (L-950)	1073808486
+Motor #3 ( Left Rear ) Master Blown Fuse (L-950)	1073808487
+Motor #3 ( Left Rear ) Master Converter Critical Over Temperature (L-950)	1073808488
+Motor #3 ( Left Rear ) Master Data Link Missing (L-950)	1073808489
+Motor #3 ( Left Rear ) Slave Blown Fuse (L-950)	1073808490
+Motor #3 ( Left Rear ) Slave Converter Critical Over Temperature (L-950)	1073808491
+Motor #4 ( Right Rear ) Critical Over Temperature (L-950)	1073808492
+Motor #4 ( Right Rear ) Derated By Master Converter Temperature (L-950)	1073808493
+Motor #4 ( Right Rear ) Derated By Motor Temperature (L-950)	1073808494
+Motor #4 ( Right Rear ) Derated By Slave Converter Temperature (L-950)	1073808495
+Motor #4 ( Right Rear ) Master Blown Fuse (L-950)	1073808496
+Motor #4 ( Right Rear ) Master Converter Critical Over Temperature (L-950)	1073808497
+Motor #4 ( Right Rear ) Master Data Link Missing (L-950)	1073808498
+Motor #4 ( Right Rear ) Slave Blown Fuse (L-950)	1073808499
+Motor #4 ( Right Rear ) Slave Converter Critical Over Temperature (L-950)	1073808500
+Motors Derated By Generator Master Converter Temperature (L-950)	1073808501
+Motors Derated By Generator Slave #1 Converter Temperature (L-950)	1073808502
+Motors Derated By Generator Slave #2 Converter Temperature (L-950)	1073808503
+Motors Derated By Generator Slave #3 Converter Temperature (L-950)	1073808504
+Motors Derated By Generator Temperature (L-950)	1073808505
+Radiator Fan Over Speed (L-950)	1073808506
+Radiator Fan Pump Pressure Sensor Or Cable Fail High (L-950)	1073808507
+Radiator Fan Pump Pressure Sensor Or Cable Fail Low (L-950)	1073808508
+Radiator Fan Speed Low (L-950)	1073808509
+Rear Driver Lubrication Flow Low (L-950)	1073808510
+Rear Park Brakes / System Air Pressure Discrepancy (L-950)	1073808511
+Rear Park Brakes Pressure Sensor Or Cable Fail High (L-950)	1073808512
+Rear Park Brakes Pressure Sensor Or Cable Fail Low (L-950)	1073808513
+Rear Park Brakes Stuck (L-950)	1073808514
+Rear Service Brakes Pressure High (L-950)	1073808515
+Rear Service Brakes Pressure Sensor Or Cable Fail High (L-950)	1073808516
+Rear Service Brakes Pressure Sensor Or Cable Fail Low (L-950)	1073808517
+Right Front Motor Drive Fault (L-950)	1073808518
+Right Joystick Data Link Missing (L-950)	1073808519
+Right Joystick Dump Stick Sensor Fault (L-950)	1073808520
+Right Joystick Dump Wheel Sensor Fault (L-950)	1073808521
+Right Joystick Lower Hoist Sensor Fault (L-950)	1073808522
+Right Joystick Raise Hoist Sensor Fault (L-950)	1073808523
+Right Joystick Rollback Stick Sensor Fault (L-950)	1073808524
+Right Joystick Rollback Wheel Sensor Fault (L-950)	1073808525
+Right Rear Motor Drive Fault (L-950)	1073808526
+Speed Control Pedal Sensor Or Cable Fail High (L-950)	1073808527
+Speed Control Pedal Sensor Or Cable Fail Low (L-950)	1073808528
+Speed Control Pedal Supply High (L-950)	1073808529
+Speed Control Pedal Supply Low (L-950)	1073808530
+Steer Position Sensor Or Cable Fail High (L-950)	1073808531
+Steer Position Sensor Or Cable Fail Low (L-950)	1073808532
+System Air Leak Detected (L-950)	1073808533
+System Air Pressure Low (L-950)	1073808534
+System Air Pressure Sensor Or Cable Fail High (L-950)	1073808535
+System Air Pressure Sensor Or Cable Fail Low (L-950)	1073808536
+Vehicle Control Unit Over Temperature (L-950)	1073808537
+Vehicle Overspeed - Apply Service Brakes (L-950)	1073808538
+Accessory Pump Pressure High (L-950)	1073808539
+Accessory Pump Pressure Low (L-950)	1073808540
+Ambient Temperature Sensor Or Cable Fail High (L-950)	1073808541
+Ambient Temperature Sensor Or Cable Fail Low (L-950)	1073808542
+Battery Voltage High (L-950)	1073808543
+Blower Pump Pressure High (L-950)	1073808544
+Blower Pump Pressure Low (L-950)	1073808545
+Blower Pump Pressure Sensor Or Cable Fail High (L-950)	1073808546
+Blower Pump Pressure Sensor Or Cable Fail Low (L-950)	1073808547
+Blower Speed Low (L-950)	1073808548
+Bucket Cylinder Bypassing (L-950)	1073808549
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail High (L-950)	1073808550
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail Low (L-950)	1073808551
+Bucket Dump Pilot Pressure High (L-950)	1073808552
+Bucket Dump Pilot Pressure Low (L-950)	1073808553
+Bucket Rollback Pilot Pressure High (L-950)	1073808554
+Bucket Rollback Pilot Pressure Low (L-950)	1073808555
+Drive Cooling Pump #1 In Cutback (L-950)	1073808556
+Drive Cooling Pump #2 In Cutback (L-950)	1073808557
+Drive Cooling Pump #3 In Cutback (L-950)	1073808558
+Engine Blue Lamp Active (L-950)	1073808559
+Fast Hoist Pump Pressure High (L-950)	1073808560
+Fast Hoist Pump Pressure Low (L-950)	1073808561
+Fast Hoist Pump Pressure Sensor Or Cable Fail High (L-950)	1073808562
+Fast Hoist Pump Pressure Sensor Or Cable Fail Low (L-950)	1073808563
+Front Driver Lubrication Flow Switch Fault (L-950)	1073808564
+Generator Slave1 Data Link Missing (L-950)	1073808565
+Generator Slave2 Data Link Missing (L-950)	1073808566
+Generator Slave3 Data Link Missing (L-950)	1073808567
+Greatest Pilot Command Present With No Hydraulic Commands (L-950)	1073808568
+Greatest Pilot Command Pressure Sensor Or Cable Fail High (L-950)	1073808569
+Greatest Pilot Command Pressure Sensor Or Cable Fail Low (L-950)	1073808570
+Hoist / Bucket Pump A Pressure High (L-950)	1073808571
+Hoist / Bucket Pump A Pressure Low (L-950)	1073808572
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail High (L-950)	1073808573
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail Low (L-950)	1073808574
+Hoist / Bucket Pump B Pressure High (L-950)	1073808575
+Hoist / Bucket Pump B Pressure Low (L-950)	1073808576
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail High (L-950)	1073808577
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail Low (L-950)	1073808578
+Hoist / Bucket Pump C Pressure High (L-950)	1073808579
+Hoist / Bucket Pump C Pressure Low (L-950)	1073808580
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail High (L-950)	1073808581
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail Low (L-950)	1073808582
+Hoist Cylinder Bypassing (L-950)	1073808583
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail High (L-950)	1073808584
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail Low  (L-950)	1073808585
+Hoist Lower Pilot Pressure High (L-950)	1073808586
+Hoist Lower Pilot Pressure Low (L-950)	1073808587
+Hoist Raise Pilot Pressure High (L-950)	1073808588
+Hoist Raise Pilot Pressure Low (L-950)	1073808589
+Hpd Gearbox Pressure High (L-950)	1073808590
+Hydraulic Reservoir Air Pressure High (L-950)	1073808591
+Klenz Filter Restriction Low (L-950)	1073808592
+Klenz Reservoir Air Pressure High (L-950)	1073808593
+Klenz Solenoid #1 Misfire (L-950)	1073808594
+Klenz Solenoid #2 Misfire (L-950)	1073808595
+Klenz Solenoid #3 Misfire (L-950)	1073808596
+Klenz Solenoid #4 Misfire (L-950)	1073808597
+Klenz Solenoid #5 Misfire (L-950)	1073808598
+Klenz Solenoid #6 Misfire (L-950)	1073808599
+Klenz Solenoid #7 Misfire (L-950)	1073808600
+Motor #1 ( Left Front ) Slave Data Link Missing (L-950)	1073808601
+Motor #2 ( Right Front ) Slave Data Link Missing (L-950)	1073808602
+Motor #3 ( Left Rear ) Slave Data Link Missing (L-950)	1073808603
+Motor #4 ( Right Rear ) Slave Data Link Missing (L-950)	1073808604
+Pilot Supply Pressure High (L-950)	1073808605
+Pilot Supply Pressure Low (L-950)	1073808606
+Pilot Supply Pressure Sensor Or Cable Fail High (L-950)	1073808607
+Pilot Supply Pressure Sensor Or Cable Fail Low (L-950)	1073808608
+Radiator Fan Pump Pressure High (L-950)	1073808609
+Radiator Fan Pump Pressure Low (L-950)	1073808610
+Rear Driver Lubrication Flow Switch Fault (L-950)	1073808611
+Steer Pump A Pressure High (L-950)	1073808612
+Steer Pump A Pressure Sensor Or Cable Fail High (L-950)	1073808613
+Steer Pump A Pressure Sensor Or Cable Fail Low (L-950)	1073808614
+Steer Pump B Pressure High (L-950)	1073808615
+Steer Pump B Pressure Sensor Or Cable Fail High (L-950)	1073808616
+Steer Pump B Pressure Sensor Or Cable Fail Low (L-950)	1073808617
+Bucket Limits Bypassed (L-950)	1073808618
+Bucket Limits Bypassed By User (L-950)	1073808619
+Hoist & Bucket Limits Bypassed (L-950)	1073808620
+Hoist And Bucket Limits Bypassed By User (L-950)	1073808621
+Steering Limits Bypassed (L-950)	1073808622
+Steering Limits Bypassed By User (L-950)	1073808623
+Cannot Calibrate Because: Hydraulic Reservoir Oil Temperature Above 145 F (L-950)	1073808624
+Engine Not Responding To Throttle Command (L-950)	1073808625
+Battery Voltage > 19V (L-950)	1073808626
+Bucket Angle At Or Above Level (L-950)	1073808627
+Bucket Critical Overload: Dump Some Load And Reweigh (L-950)	1073808628
+Channel Forced (L-950)	1073808629
+Engine At High Throttle (L-950)	1073808630
+Engine At High Throttle For 3Min (L-950)	1073808631
+Engine At Low Throttle For 5Min (L-950)	1073808632
+Engine At Medium Throttle For 3Min (L-950)	1073808633
+High Voltage Cabinet Door Open (L-950)	1073808634
+Hoist And Bucket Calibrations Required (L-950)	1073808635
+Hydraulic Reservoir Oil Temperature Above 145 F (L-950)	1073808636
+Hydraulic Reservoir Oil Temperature Above 165 F (L-950)	1073808637
+Ladder Down (L-950)	1073808638
+Lift Arms Too High (L-950)	1073808639
+Load Weigh Calibration Required (L-950)	1073808640
+Park Brakes Not Released (L-950)	1073808641
+Red Alarm(S) Active (L-950)	1073808642
+Reduce Maximum Dump Pressure  (L-950)	1073808643
+Speed Pedal Calibration Required (L-950)	1073808644
+Steering Calibration Required (L-950)	1073808645
+Vehicle Speed Too High (L-950)	1073808646
+Vehicle Speed Too Low (L-950)	1073808647
+Dump Stick Limited By End Of Travel (L-950)	1073808648
+Dump Wheel Limited By End Of Travel (L-950)	1073808649
+Left Steer Limited By End Of Travel (L-950)	1073808650
+Lower Hoist Limited By End Of Travel (L-950)	1073808651
+Raise Hoist Limited By End Of Travel (L-950)	1073808652
+Right Steer Limited By End Of Travel (L-950)	1073808653
+Rollback Stick Limited By End Of Travel (L-950)	1073808654
+Rollback Wheel Limited By End Of Travel (L-950)	1073808655
+Bucket Load Weight (L-950)	1073808656
+Truck Load Weight (L-950)	1073808657
+Auxiliary Steering System Activated (L-1150)	1073809360
+Auxiliary Steering System Fault (L-1150)	1073809361
+Bad/Missing Vcu Module (L-1150)	1073809362
+Battery Charging Alternator Voltage Critically Low (L-1150)	1073809363
+Cab Emergency Stop Switch Pressed (L-1150)	1073809364
+Configure Vehicle Control Unit Required (L-1150)	1073809365
+Engine Red Lamp Active (L-1150)	1073809366
+Engine Safety Filter(S) Restricted (L-1150)	1073809367
+Error Accessing Vcu File (L-1150)	1073809368
+Excessive Number Of Motor Drives Inactive (L-1150)	1073809369
+Fire System Engaged Or Detected (L-1150)	1073809370
+Five Consecutive Autolube Warnings (L-1150)	1073809371
+High Voltage Cabinet Emergency Stop Switch Pressed (L-1150)	1073809372
+Hmi Software Version Does Not Support Machine Version (L-1150)	1073809373
+Hpd Gearbox Oil Pressure Critically Low (L-1150)	1073809374
+Hydraulic Oil Reservoir Level Low (L-1150)	1073809375
+Hydraulic Reservoir Air Pressure Low (L-1150)	1073809376
+Hydraulic Reservoir Emergency Stop Switch Pressed (L-1150)	1073809377
+Klenz Filter Restriction High At Low Throttle (L-1150)	1073809378
+Left Rear Emergency Stop Switch Pressed (L-1150)	1073809379
+Right Rear Emergency Stop Switch Pressed (L-1150)	1073809380
+Module(S) Not Present Or Have Failed (L-1150)	1073809381
+Vehicle Control Unit Critical Over Temperature (L-1150)	1073809382
+Accessory Pump Pressure Sensor Or Cable Fail High (L-1150)	1073809383
+Accessory Pump Pressure Sensor Or Cable Fail Low (L-1150)	1073809384
+Autolube Grease Pressure Failed To Build (L-1150)	1073809385
+Autolube Grease Pressure High (L-1150)	1073809386
+Autolube Grease Pressure Sensor Or Cable Fail High (L-1150)	1073809387
+Autolube Grease Pressure Sensor Or Cable Fail Low (L-1150)	1073809388
+Autolube Grease Restriction (L-1150)	1073809389
+Battery Charging Alternator Voltage Critically High (L-1150)	1073809390
+Battery Charging Alternator Voltage High (L-1150)	1073809391
+Battery Charging Alternator Voltage Low (L-1150)	1073809392
+Battery Voltage Low (L-1150)	1073809393
+Bellcrank To Lift Arm Sensor Or Cable Fail High (L-1150)	1073809394
+Bellcrank To Lift Arm Sensor Or Cable Fail Low (L-1150)	1073809395
+Blower Overspeed (L-1150)	1073809396
+Bucket Critical Overload (L-1150)	1073809397
+Bucket Overload (L-1150)	1073809398
+Clamshell Cylinder Extension Sensor Or Cable Fail High (L-1150)	1073809399
+Clamshell Cylinder Extension Sensor Or Cable Fail Low (L-1150)	1073809400
+Drive Coolant Reservoir Level Low (L-1150)	1073809401
+Drive Cooling Pump Controller #1 Data Link Missing (L-1150)	1073809402
+Drive Cooling Pump Controller #2 Data Link Missing (L-1150)	1073809403
+Drive Cooling Pump Controller #3 Data Link Missing (L-1150)	1073809404
+Dump Pressure Low (L-1150)	1073809405
+Engine Ecm Data Link Missing (L-1150)	1073809406
+Engine Yellow Lamp Active (L-1150)	1073809407
+Float Too Slow (L-1150)	1073809408
+Front Driver Lubrication Flow Low (L-1150)	1073809409
+Front Park Brakes / System Air Pressure Discrepancy (L-1150)	1073809410
+Front Park Brakes Pressure Sensor Or Cable Fail High (L-1150)	1073809411
+Front Park Brakes Pressure Sensor Or Cable Fail Low (L-1150)	1073809412
+Front Park Brakes Stuck (L-1150)	1073809413
+Front Service Brakes Pressure High (L-1150)	1073809414
+Front Service Brakes Pressure Sensor Or Cable Fail High (L-1150)	1073809415
+Front Service Brakes Pressure Sensor Or Cable Fail Low (L-1150)	1073809416
+Fuel Level Low (L-1150)	1073809417
+Fuel Level Sensor Or Cable Fail High (L-1150)	1073809418
+Fuel Level Sensor Or Cable Fail Low (L-1150)	1073809419
+Generator Critical Over Temperature (L-1150)	1073809420
+Generator Failed To Prime (L-1150)	1073809421
+Generator Fault (L-1150)	1073809422
+Generator Master Blown Fuse (L-1150)	1073809423
+Generator Master Converter Critical Over Temperature (L-1150)	1073809424
+Generator Master Data Link Missing (L-1150)	1073809425
+Generator Slave #1 Blown Fuse (L-1150)	1073809426
+Generator Slave #1 Converter Critical Over Temperature (L-1150)	1073809427
+Generator Slave #2 Blown Fuse (L-1150)	1073809428
+Generator Slave #2 Converter Critical Over Temperature (L-1150)	1073809429
+Generator Slave #3 Blown Fuse (L-1150)	1073809430
+Generator Slave #3 Converter Critical Over Temperature (L-1150)	1073809431
+High Voltage Bus Isolation Resistance Low (L-1150)	1073809432
+High Voltage Bus Isolation Sensor Or Cable Fail Low (L-1150)	1073809433
+Hoist Cylinder Base Pressure Sensor Or Cable Fail High (L-1150)	1073809434
+Hoist Cylinder Base Pressure Sensor Or Cable Fail Low (L-1150)	1073809435
+Hpd Gearbox Oil Temperature High (L-1150)	1073809436
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail High (L-1150)	1073809437
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail Low (L-1150)	1073809438
+Hpd Gearbox Pressure Sensor Or Cable Fail High (L-1150)	1073809439
+Hpd Gearbox Pressure Sensor Or Cable Fail Low (L-1150)	1073809440
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail High (L-1150)	1073809441
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail Low (L-1150)	1073809442
+Hydraulic Reservoir Oil Temperature Critically High (L-1150)	1073809443
+Hydraulic Reservoir Oil Temperature High (L-1150)	1073809444
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail High (L-1150)	1073809445
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail Low (L-1150)	1073809446
+Keypad Data Link Missing (L-1150)	1073809447
+Klenz Enable Switch Off (L-1150)	1073809448
+Klenz Filter Restriction Critically High (L-1150)	1073809449
+Klenz Filter Restriction High (L-1150)	1073809450
+Klenz Reservoir Air Pressure Low (L-1150)	1073809451
+Klenz Reservoir Air Pressure Sensor Or Cable Fail High (L-1150)	1073809452
+Klenz Reservoir Air Pressure Sensor Or Cable Fail Low (L-1150)	1073809453
+Klenz Restriction Pressure Sensor Or Cable Fail High (L-1150)	1073809454
+Klenz Restriction Pressure Sensor Or Cable Fail Low (L-1150)	1073809455
+Left Front Motor Drive Fault (L-1150)	1073809456
+Left Joystick Cruise Decrease Sensor Fault (L-1150)	1073809457
+Left Joystick Cruise Increase Sensor Fault (L-1150)	1073809458
+Left Joystick Data Link Missing (L-1150)	1073809459
+Left Joystick Left Steer Sensor Fault (L-1150)	1073809460
+Left Joystick Right Steer Sensor Fault (L-1150)	1073809461
+Left Rear Motor Drive Fault (L-1150)	1073809462
+Lift Arm Position Sensor Or Cable Fail High (L-1150)	1073809463
+Lift Arm Position Sensor Or Cable Fail Low (L-1150)	1073809464
+Motor #1 ( Left Front ) Critical Over Temperature (L-1150)	1073809465
+Motor #1 ( Left Front ) Derated By Master Converter Temperature (L-1150)	1073809466
+Motor #1 ( Left Front ) Derated By Motor Temperature (L-1150)	1073809467
+Motor #1 ( Left Front ) Derated By Slave Converter Temperature (L-1150)	1073809468
+Motor #1 ( Left Front ) Master Blown Fuse (L-1150)	1073809469
+Motor #1 ( Left Front ) Master Converter Critical Over Temperature (L-1150)	1073809470
+Motor #1 ( Left Front ) Master Data Link Missing (L-1150)	1073809471
+Motor #1 ( Left Front ) Slave Blown Fuse (L-1150)	1073809472
+Motor #1 ( Left Front ) Slave Converter Critical Over Temperature (L-1150)	1073809473
+Motor #2 ( Right Front ) Critical Over Temperature (L-1150)	1073809474
+Motor #2 ( Right Front ) Derated By Master Converter Temperature (L-1150)	1073809475
+Motor #2 ( Right Front ) Derated By Motor Temperature (L-1150)	1073809476
+Motor #2 ( Right Front ) Derated By Slave Converter Temperature (L-1150)	1073809477
+Motor #2 ( Right Front ) Master Blown Fuse (L-1150)	1073809478
+Motor #2 ( Right Front ) Master Converter Critical Over Temperature (L-1150)	1073809479
+Motor #2 ( Right Front ) Master Data Link Missing (L-1150)	1073809480
+Motor #2 ( Right Front ) Slave Blown Fuse (L-1150)	1073809481
+Motor #2 ( Right Front ) Slave Converter Critical Over Temperature (L-1150)	1073809482
+Motor #3 ( Left Rear ) Critical Over Temperature (L-1150)	1073809483
+Motor #3 ( Left Rear ) Derated By Master Converter Temperature (L-1150)	1073809484
+Motor #3 ( Left Rear ) Derated By Motor Temperature (L-1150)	1073809485
+Motor #3 ( Left Rear ) Derated By Slave Converter Temperature (L-1150)	1073809486
+Motor #3 ( Left Rear ) Master Blown Fuse (L-1150)	1073809487
+Motor #3 ( Left Rear ) Master Converter Critical Over Temperature (L-1150)	1073809488
+Motor #3 ( Left Rear ) Master Data Link Missing (L-1150)	1073809489
+Motor #3 ( Left Rear ) Slave Blown Fuse (L-1150)	1073809490
+Motor #3 ( Left Rear ) Slave Converter Critical Over Temperature (L-1150)	1073809491
+Motor #4 ( Right Rear ) Critical Over Temperature (L-1150)	1073809492
+Motor #4 ( Right Rear ) Derated By Master Converter Temperature (L-1150)	1073809493
+Motor #4 ( Right Rear ) Derated By Motor Temperature (L-1150)	1073809494
+Motor #4 ( Right Rear ) Derated By Slave Converter Temperature (L-1150)	1073809495
+Motor #4 ( Right Rear ) Master Blown Fuse (L-1150)	1073809496
+Motor #4 ( Right Rear ) Master Converter Critical Over Temperature (L-1150)	1073809497
+Motor #4 ( Right Rear ) Master Data Link Missing (L-1150)	1073809498
+Motor #4 ( Right Rear ) Slave Blown Fuse (L-1150)	1073809499
+Motor #4 ( Right Rear ) Slave Converter Critical Over Temperature (L-1150)	1073809500
+Motors Derated By Generator Master Converter Temperature (L-1150)	1073809501
+Motors Derated By Generator Slave #1 Converter Temperature (L-1150)	1073809502
+Motors Derated By Generator Slave #2 Converter Temperature (L-1150)	1073809503
+Motors Derated By Generator Slave #3 Converter Temperature (L-1150)	1073809504
+Motors Derated By Generator Temperature (L-1150)	1073809505
+Radiator Fan Over Speed (L-1150)	1073809506
+Radiator Fan Pump Pressure Sensor Or Cable Fail High (L-1150)	1073809507
+Radiator Fan Pump Pressure Sensor Or Cable Fail Low (L-1150)	1073809508
+Radiator Fan Speed Low (L-1150)	1073809509
+Rear Driver Lubrication Flow Low (L-1150)	1073809510
+Rear Park Brakes / System Air Pressure Discrepancy (L-1150)	1073809511
+Rear Park Brakes Pressure Sensor Or Cable Fail High (L-1150)	1073809512
+Rear Park Brakes Pressure Sensor Or Cable Fail Low (L-1150)	1073809513
+Rear Park Brakes Stuck (L-1150)	1073809514
+Rear Service Brakes Pressure High (L-1150)	1073809515
+Rear Service Brakes Pressure Sensor Or Cable Fail High (L-1150)	1073809516
+Rear Service Brakes Pressure Sensor Or Cable Fail Low (L-1150)	1073809517
+Right Front Motor Drive Fault (L-1150)	1073809518
+Right Joystick Data Link Missing (L-1150)	1073809519
+Right Joystick Dump Stick Sensor Fault (L-1150)	1073809520
+Right Joystick Dump Wheel Sensor Fault (L-1150)	1073809521
+Right Joystick Lower Hoist Sensor Fault (L-1150)	1073809522
+Right Joystick Raise Hoist Sensor Fault (L-1150)	1073809523
+Right Joystick Rollback Stick Sensor Fault (L-1150)	1073809524
+Right Joystick Rollback Wheel Sensor Fault (L-1150)	1073809525
+Right Rear Motor Drive Fault (L-1150)	1073809526
+Speed Control Pedal Sensor Or Cable Fail High (L-1150)	1073809527
+Speed Control Pedal Sensor Or Cable Fail Low (L-1150)	1073809528
+Speed Control Pedal Supply High (L-1150)	1073809529
+Speed Control Pedal Supply Low (L-1150)	1073809530
+Steer Position Sensor Or Cable Fail High (L-1150)	1073809531
+Steer Position Sensor Or Cable Fail Low (L-1150)	1073809532
+System Air Leak Detected (L-1150)	1073809533
+System Air Pressure Low (L-1150)	1073809534
+System Air Pressure Sensor Or Cable Fail High (L-1150)	1073809535
+System Air Pressure Sensor Or Cable Fail Low (L-1150)	1073809536
+Vehicle Control Unit Over Temperature (L-1150)	1073809537
+Vehicle Overspeed - Apply Service Brakes (L-1150)	1073809538
+Accessory Pump Pressure High (L-1150)	1073809539
+Accessory Pump Pressure Low (L-1150)	1073809540
+Ambient Temperature Sensor Or Cable Fail High (L-1150)	1073809541
+Ambient Temperature Sensor Or Cable Fail Low (L-1150)	1073809542
+Battery Voltage High (L-1150)	1073809543
+Blower Pump Pressure High (L-1150)	1073809544
+Blower Pump Pressure Low (L-1150)	1073809545
+Blower Pump Pressure Sensor Or Cable Fail High (L-1150)	1073809546
+Blower Pump Pressure Sensor Or Cable Fail Low (L-1150)	1073809547
+Blower Speed Low (L-1150)	1073809548
+Bucket Cylinder Bypassing (L-1150)	1073809549
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail High (L-1150)	1073809550
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail Low (L-1150)	1073809551
+Bucket Dump Pilot Pressure High (L-1150)	1073809552
+Bucket Dump Pilot Pressure Low (L-1150)	1073809553
+Bucket Rollback Pilot Pressure High (L-1150)	1073809554
+Bucket Rollback Pilot Pressure Low (L-1150)	1073809555
+Drive Cooling Pump #1 In Cutback (L-1150)	1073809556
+Drive Cooling Pump #2 In Cutback (L-1150)	1073809557
+Drive Cooling Pump #3 In Cutback (L-1150)	1073809558
+Engine Blue Lamp Active (L-1150)	1073809559
+Fast Hoist Pump Pressure High (L-1150)	1073809560
+Fast Hoist Pump Pressure Low (L-1150)	1073809561
+Fast Hoist Pump Pressure Sensor Or Cable Fail High (L-1150)	1073809562
+Fast Hoist Pump Pressure Sensor Or Cable Fail Low (L-1150)	1073809563
+Front Driver Lubrication Flow Switch Fault (L-1150)	1073809564
+Generator Slave1 Data Link Missing (L-1150)	1073809565
+Generator Slave2 Data Link Missing (L-1150)	1073809566
+Generator Slave3 Data Link Missing (L-1150)	1073809567
+Greatest Pilot Command Present With No Hydraulic Commands (L-1150)	1073809568
+Greatest Pilot Command Pressure Sensor Or Cable Fail High (L-1150)	1073809569
+Greatest Pilot Command Pressure Sensor Or Cable Fail Low (L-1150)	1073809570
+Hoist / Bucket Pump A Pressure High (L-1150)	1073809571
+Hoist / Bucket Pump A Pressure Low (L-1150)	1073809572
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail High (L-1150)	1073809573
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail Low (L-1150)	1073809574
+Hoist / Bucket Pump B Pressure High (L-1150)	1073809575
+Hoist / Bucket Pump B Pressure Low (L-1150)	1073809576
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail High (L-1150)	1073809577
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail Low (L-1150)	1073809578
+Hoist / Bucket Pump C Pressure High (L-1150)	1073809579
+Hoist / Bucket Pump C Pressure Low (L-1150)	1073809580
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail High (L-1150)	1073809581
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail Low (L-1150)	1073809582
+Hoist Cylinder Bypassing (L-1150)	1073809583
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail High (L-1150)	1073809584
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail Low  (L-1150)	1073809585
+Hoist Lower Pilot Pressure High (L-1150)	1073809586
+Hoist Lower Pilot Pressure Low (L-1150)	1073809587
+Hoist Raise Pilot Pressure High (L-1150)	1073809588
+Hoist Raise Pilot Pressure Low (L-1150)	1073809589
+Hpd Gearbox Pressure High (L-1150)	1073809590
+Hydraulic Reservoir Air Pressure High (L-1150)	1073809591
+Klenz Filter Restriction Low (L-1150)	1073809592
+Klenz Reservoir Air Pressure High (L-1150)	1073809593
+Klenz Solenoid #1 Misfire (L-1150)	1073809594
+Klenz Solenoid #2 Misfire (L-1150)	1073809595
+Klenz Solenoid #3 Misfire (L-1150)	1073809596
+Klenz Solenoid #4 Misfire (L-1150)	1073809597
+Klenz Solenoid #5 Misfire (L-1150)	1073809598
+Klenz Solenoid #6 Misfire (L-1150)	1073809599
+Klenz Solenoid #7 Misfire (L-1150)	1073809600
+Motor #1 ( Left Front ) Slave Data Link Missing (L-1150)	1073809601
+Motor #2 ( Right Front ) Slave Data Link Missing (L-1150)	1073809602
+Motor #3 ( Left Rear ) Slave Data Link Missing (L-1150)	1073809603
+Motor #4 ( Right Rear ) Slave Data Link Missing (L-1150)	1073809604
+Pilot Supply Pressure High (L-1150)	1073809605
+Pilot Supply Pressure Low (L-1150)	1073809606
+Pilot Supply Pressure Sensor Or Cable Fail High (L-1150)	1073809607
+Pilot Supply Pressure Sensor Or Cable Fail Low (L-1150)	1073809608
+Radiator Fan Pump Pressure High (L-1150)	1073809609
+Radiator Fan Pump Pressure Low (L-1150)	1073809610
+Rear Driver Lubrication Flow Switch Fault (L-1150)	1073809611
+Steer Pump A Pressure High (L-1150)	1073809612
+Steer Pump A Pressure Sensor Or Cable Fail High (L-1150)	1073809613
+Steer Pump A Pressure Sensor Or Cable Fail Low (L-1150)	1073809614
+Steer Pump B Pressure High (L-1150)	1073809615
+Steer Pump B Pressure Sensor Or Cable Fail High (L-1150)	1073809616
+Steer Pump B Pressure Sensor Or Cable Fail Low (L-1150)	1073809617
+Bucket Limits Bypassed (L-1150)	1073809618
+Bucket Limits Bypassed By User (L-1150)	1073809619
+Hoist & Bucket Limits Bypassed (L-1150)	1073809620
+Hoist And Bucket Limits Bypassed By User (L-1150)	1073809621
+Steering Limits Bypassed (L-1150)	1073809622
+Steering Limits Bypassed By User (L-1150)	1073809623
+Cannot Calibrate Because: Hydraulic Reservoir Oil Temperature Above 145 F (L-1150)	1073809624
+Engine Not Responding To Throttle Command (L-1150)	1073809625
+Battery Voltage > 19V (L-1150)	1073809626
+Bucket Angle At Or Above Level (L-1150)	1073809627
+Bucket Critical Overload: Dump Some Load And Reweigh (L-1150)	1073809628
+Channel Forced (L-1150)	1073809629
+Engine At High Throttle (L-1150)	1073809630
+Engine At High Throttle For 3Min (L-1150)	1073809631
+Engine At Low Throttle For 5Min (L-1150)	1073809632
+Engine At Medium Throttle For 3Min (L-1150)	1073809633
+High Voltage Cabinet Door Open (L-1150)	1073809634
+Hoist And Bucket Calibrations Required (L-1150)	1073809635
+Hydraulic Reservoir Oil Temperature Above 145 F (L-1150)	1073809636
+Hydraulic Reservoir Oil Temperature Above 165 F (L-1150)	1073809637
+Ladder Down (L-1150)	1073809638
+Lift Arms Too High (L-1150)	1073809639
+Load Weigh Calibration Required (L-1150)	1073809640
+Park Brakes Not Released (L-1150)	1073809641
+Red Alarm(S) Active (L-1150)	1073809642
+Reduce Maximum Dump Pressure  (L-1150)	1073809643
+Speed Pedal Calibration Required (L-1150)	1073809644
+Steering Calibration Required (L-1150)	1073809645
+Vehicle Speed Too High (L-1150)	1073809646
+Vehicle Speed Too Low (L-1150)	1073809647
+Dump Stick Limited By End Of Travel (L-1150)	1073809648
+Dump Wheel Limited By End Of Travel (L-1150)	1073809649
+Left Steer Limited By End Of Travel (L-1150)	1073809650
+Lower Hoist Limited By End Of Travel (L-1150)	1073809651
+Raise Hoist Limited By End Of Travel (L-1150)	1073809652
+Right Steer Limited By End Of Travel (L-1150)	1073809653
+Rollback Stick Limited By End Of Travel (L-1150)	1073809654
+Rollback Wheel Limited By End Of Travel (L-1150)	1073809655
+Bucket Load Weight (L-1150)	1073809656
+Truck Load Weight (L-1150)	1073809657
+Auxiliary Steering System Activated (L-1350)	1073810360
+Auxiliary Steering System Fault (L-1350)	1073810361
+Bad/Missing Vcu Module (L-1350)	1073810362
+Battery Charging Alternator Voltage Critically Low (L-1350)	1073810363
+Cab Emergency Stop Switch Pressed (L-1350)	1073810364
+Configure Vehicle Control Unit Required (L-1350)	1073810365
+Engine Red Lamp Active (L-1350)	1073810366
+Engine Safety Filter(S) Restricted (L-1350)	1073810367
+Error Accessing Vcu File (L-1350)	1073810368
+Excessive Number Of Motor Drives Inactive (L-1350)	1073810369
+Fire System Engaged Or Detected (L-1350)	1073810370
+Five Consecutive Autolube Warnings (L-1350)	1073810371
+High Voltage Cabinet Emergency Stop Switch Pressed (L-1350)	1073810372
+Hmi Software Version Does Not Support Machine Version (L-1350)	1073810373
+Hpd Gearbox Oil Pressure Critically Low (L-1350)	1073810374
+Hydraulic Oil Reservoir Level Low (L-1350)	1073810375
+Hydraulic Reservoir Air Pressure Low (L-1350)	1073810376
+Hydraulic Reservoir Emergency Stop Switch Pressed (L-1350)	1073810377
+Klenz Filter Restriction High At Low Throttle (L-1350)	1073810378
+Left Rear Emergency Stop Switch Pressed (L-1350)	1073810379
+Right Rear Emergency Stop Switch Pressed (L-1350)	1073810380
+Module(S) Not Present Or Have Failed (L-1350)	1073810381
+Vehicle Control Unit Critical Over Temperature (L-1350)	1073810382
+Accessory Pump Pressure Sensor Or Cable Fail High (L-1350)	1073810383
+Accessory Pump Pressure Sensor Or Cable Fail Low (L-1350)	1073810384
+Autolube Grease Pressure Failed To Build (L-1350)	1073810385
+Autolube Grease Pressure High (L-1350)	1073810386
+Autolube Grease Pressure Sensor Or Cable Fail High (L-1350)	1073810387
+Autolube Grease Pressure Sensor Or Cable Fail Low (L-1350)	1073810388
+Autolube Grease Restriction (L-1350)	1073810389
+Battery Charging Alternator Voltage Critically High (L-1350)	1073810390
+Battery Charging Alternator Voltage High (L-1350)	1073810391
+Battery Charging Alternator Voltage Low (L-1350)	1073810392
+Battery Voltage Low (L-1350)	1073810393
+Bellcrank To Lift Arm Sensor Or Cable Fail High (L-1350)	1073810394
+Bellcrank To Lift Arm Sensor Or Cable Fail Low (L-1350)	1073810395
+Blower Overspeed (L-1350)	1073810396
+Bucket Critical Overload (L-1350)	1073810397
+Bucket Overload (L-1350)	1073810398
+Clamshell Cylinder Extension Sensor Or Cable Fail High (L-1350)	1073810399
+Clamshell Cylinder Extension Sensor Or Cable Fail Low (L-1350)	1073810400
+Drive Coolant Reservoir Level Low (L-1350)	1073810401
+Drive Cooling Pump Controller #1 Data Link Missing (L-1350)	1073810402
+Drive Cooling Pump Controller #2 Data Link Missing (L-1350)	1073810403
+Drive Cooling Pump Controller #3 Data Link Missing (L-1350)	1073810404
+Dump Pressure Low (L-1350)	1073810405
+Engine Ecm Data Link Missing (L-1350)	1073810406
+Engine Yellow Lamp Active (L-1350)	1073810407
+Float Too Slow (L-1350)	1073810408
+Front Driver Lubrication Flow Low (L-1350)	1073810409
+Front Park Brakes / System Air Pressure Discrepancy (L-1350)	1073810410
+Front Park Brakes Pressure Sensor Or Cable Fail High (L-1350)	1073810411
+Front Park Brakes Pressure Sensor Or Cable Fail Low (L-1350)	1073810412
+Front Park Brakes Stuck (L-1350)	1073810413
+Front Service Brakes Pressure High (L-1350)	1073810414
+Front Service Brakes Pressure Sensor Or Cable Fail High (L-1350)	1073810415
+Front Service Brakes Pressure Sensor Or Cable Fail Low (L-1350)	1073810416
+Fuel Level Low (L-1350)	1073810417
+Fuel Level Sensor Or Cable Fail High (L-1350)	1073810418
+Fuel Level Sensor Or Cable Fail Low (L-1350)	1073810419
+Generator Critical Over Temperature (L-1350)	1073810420
+Generator Failed To Prime (L-1350)	1073810421
+Generator Fault (L-1350)	1073810422
+Generator Master Blown Fuse (L-1350)	1073810423
+Generator Master Converter Critical Over Temperature (L-1350)	1073810424
+Generator Master Data Link Missing (L-1350)	1073810425
+Generator Slave #1 Blown Fuse (L-1350)	1073810426
+Generator Slave #1 Converter Critical Over Temperature (L-1350)	1073810427
+Generator Slave #2 Blown Fuse (L-1350)	1073810428
+Generator Slave #2 Converter Critical Over Temperature (L-1350)	1073810429
+Generator Slave #3 Blown Fuse (L-1350)	1073810430
+Generator Slave #3 Converter Critical Over Temperature (L-1350)	1073810431
+High Voltage Bus Isolation Resistance Low (L-1350)	1073810432
+High Voltage Bus Isolation Sensor Or Cable Fail Low (L-1350)	1073810433
+Hoist Cylinder Base Pressure Sensor Or Cable Fail High (L-1350)	1073810434
+Hoist Cylinder Base Pressure Sensor Or Cable Fail Low (L-1350)	1073810435
+Hpd Gearbox Oil Temperature High (L-1350)	1073810436
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail High (L-1350)	1073810437
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail Low (L-1350)	1073810438
+Hpd Gearbox Pressure Sensor Or Cable Fail High (L-1350)	1073810439
+Hpd Gearbox Pressure Sensor Or Cable Fail Low (L-1350)	1073810440
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail High (L-1350)	1073810441
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail Low (L-1350)	1073810442
+Hydraulic Reservoir Oil Temperature Critically High (L-1350)	1073810443
+Hydraulic Reservoir Oil Temperature High (L-1350)	1073810444
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail High (L-1350)	1073810445
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail Low (L-1350)	1073810446
+Keypad Data Link Missing (L-1350)	1073810447
+Klenz Enable Switch Off (L-1350)	1073810448
+Klenz Filter Restriction Critically High (L-1350)	1073810449
+Klenz Filter Restriction High (L-1350)	1073810450
+Klenz Reservoir Air Pressure Low (L-1350)	1073810451
+Klenz Reservoir Air Pressure Sensor Or Cable Fail High (L-1350)	1073810452
+Klenz Reservoir Air Pressure Sensor Or Cable Fail Low (L-1350)	1073810453
+Klenz Restriction Pressure Sensor Or Cable Fail High (L-1350)	1073810454
+Klenz Restriction Pressure Sensor Or Cable Fail Low (L-1350)	1073810455
+Left Front Motor Drive Fault (L-1350)	1073810456
+Left Joystick Cruise Decrease Sensor Fault (L-1350)	1073810457
+Left Joystick Cruise Increase Sensor Fault (L-1350)	1073810458
+Left Joystick Data Link Missing (L-1350)	1073810459
+Left Joystick Left Steer Sensor Fault (L-1350)	1073810460
+Left Joystick Right Steer Sensor Fault (L-1350)	1073810461
+Left Rear Motor Drive Fault (L-1350)	1073810462
+Lift Arm Position Sensor Or Cable Fail High (L-1350)	1073810463
+Lift Arm Position Sensor Or Cable Fail Low (L-1350)	1073810464
+Motor #1 ( Left Front ) Critical Over Temperature (L-1350)	1073810465
+Motor #1 ( Left Front ) Derated By Master Converter Temperature (L-1350)	1073810466
+Motor #1 ( Left Front ) Derated By Motor Temperature (L-1350)	1073810467
+Motor #1 ( Left Front ) Derated By Slave Converter Temperature (L-1350)	1073810468
+Motor #1 ( Left Front ) Master Blown Fuse (L-1350)	1073810469
+Motor #1 ( Left Front ) Master Converter Critical Over Temperature (L-1350)	1073810470
+Motor #1 ( Left Front ) Master Data Link Missing (L-1350)	1073810471
+Motor #1 ( Left Front ) Slave Blown Fuse (L-1350)	1073810472
+Motor #1 ( Left Front ) Slave Converter Critical Over Temperature (L-1350)	1073810473
+Motor #2 ( Right Front ) Critical Over Temperature (L-1350)	1073810474
+Motor #2 ( Right Front ) Derated By Master Converter Temperature (L-1350)	1073810475
+Motor #2 ( Right Front ) Derated By Motor Temperature (L-1350)	1073810476
+Motor #2 ( Right Front ) Derated By Slave Converter Temperature (L-1350)	1073810477
+Motor #2 ( Right Front ) Master Blown Fuse (L-1350)	1073810478
+Motor #2 ( Right Front ) Master Converter Critical Over Temperature (L-1350)	1073810479
+Motor #2 ( Right Front ) Master Data Link Missing (L-1350)	1073810480
+Motor #2 ( Right Front ) Slave Blown Fuse (L-1350)	1073810481
+Motor #2 ( Right Front ) Slave Converter Critical Over Temperature (L-1350)	1073810482
+Motor #3 ( Left Rear ) Critical Over Temperature (L-1350)	1073810483
+Motor #3 ( Left Rear ) Derated By Master Converter Temperature (L-1350)	1073810484
+Motor #3 ( Left Rear ) Derated By Motor Temperature (L-1350)	1073810485
+Motor #3 ( Left Rear ) Derated By Slave Converter Temperature (L-1350)	1073810486
+Motor #3 ( Left Rear ) Master Blown Fuse (L-1350)	1073810487
+Motor #3 ( Left Rear ) Master Converter Critical Over Temperature (L-1350)	1073810488
+Motor #3 ( Left Rear ) Master Data Link Missing (L-1350)	1073810489
+Motor #3 ( Left Rear ) Slave Blown Fuse (L-1350)	1073810490
+Motor #3 ( Left Rear ) Slave Converter Critical Over Temperature (L-1350)	1073810491
+Motor #4 ( Right Rear ) Critical Over Temperature (L-1350)	1073810492
+Motor #4 ( Right Rear ) Derated By Master Converter Temperature (L-1350)	1073810493
+Motor #4 ( Right Rear ) Derated By Motor Temperature (L-1350)	1073810494
+Motor #4 ( Right Rear ) Derated By Slave Converter Temperature (L-1350)	1073810495
+Motor #4 ( Right Rear ) Master Blown Fuse (L-1350)	1073810496
+Motor #4 ( Right Rear ) Master Converter Critical Over Temperature (L-1350)	1073810497
+Motor #4 ( Right Rear ) Master Data Link Missing (L-1350)	1073810498
+Motor #4 ( Right Rear ) Slave Blown Fuse (L-1350)	1073810499
+Motor #4 ( Right Rear ) Slave Converter Critical Over Temperature (L-1350)	1073810500
+Motors Derated By Generator Master Converter Temperature (L-1350)	1073810501
+Motors Derated By Generator Slave #1 Converter Temperature (L-1350)	1073810502
+Motors Derated By Generator Slave #2 Converter Temperature (L-1350)	1073810503
+Motors Derated By Generator Slave #3 Converter Temperature (L-1350)	1073810504
+Motors Derated By Generator Temperature (L-1350)	1073810505
+Radiator Fan Over Speed (L-1350)	1073810506
+Radiator Fan Pump Pressure Sensor Or Cable Fail High (L-1350)	1073810507
+Radiator Fan Pump Pressure Sensor Or Cable Fail Low (L-1350)	1073810508
+Radiator Fan Speed Low (L-1350)	1073810509
+Rear Driver Lubrication Flow Low (L-1350)	1073810510
+Rear Park Brakes / System Air Pressure Discrepancy (L-1350)	1073810511
+Rear Park Brakes Pressure Sensor Or Cable Fail High (L-1350)	1073810512
+Rear Park Brakes Pressure Sensor Or Cable Fail Low (L-1350)	1073810513
+Rear Park Brakes Stuck (L-1350)	1073810514
+Rear Service Brakes Pressure High (L-1350)	1073810515
+Rear Service Brakes Pressure Sensor Or Cable Fail High (L-1350)	1073810516
+Rear Service Brakes Pressure Sensor Or Cable Fail Low (L-1350)	1073810517
+Right Front Motor Drive Fault (L-1350)	1073810518
+Right Joystick Data Link Missing (L-1350)	1073810519
+Right Joystick Dump Stick Sensor Fault (L-1350)	1073810520
+Right Joystick Dump Wheel Sensor Fault (L-1350)	1073810521
+Right Joystick Lower Hoist Sensor Fault (L-1350)	1073810522
+Right Joystick Raise Hoist Sensor Fault (L-1350)	1073810523
+Right Joystick Rollback Stick Sensor Fault (L-1350)	1073810524
+Right Joystick Rollback Wheel Sensor Fault (L-1350)	1073810525
+Right Rear Motor Drive Fault (L-1350)	1073810526
+Speed Control Pedal Sensor Or Cable Fail High (L-1350)	1073810527
+Speed Control Pedal Sensor Or Cable Fail Low (L-1350)	1073810528
+Speed Control Pedal Supply High (L-1350)	1073810529
+Speed Control Pedal Supply Low (L-1350)	1073810530
+Steer Position Sensor Or Cable Fail High (L-1350)	1073810531
+Steer Position Sensor Or Cable Fail Low (L-1350)	1073810532
+System Air Leak Detected (L-1350)	1073810533
+System Air Pressure Low (L-1350)	1073810534
+System Air Pressure Sensor Or Cable Fail High (L-1350)	1073810535
+System Air Pressure Sensor Or Cable Fail Low (L-1350)	1073810536
+Vehicle Control Unit Over Temperature (L-1350)	1073810537
+Vehicle Overspeed - Apply Service Brakes (L-1350)	1073810538
+Accessory Pump Pressure High (L-1350)	1073810539
+Accessory Pump Pressure Low (L-1350)	1073810540
+Ambient Temperature Sensor Or Cable Fail High (L-1350)	1073810541
+Ambient Temperature Sensor Or Cable Fail Low (L-1350)	1073810542
+Battery Voltage High (L-1350)	1073810543
+Blower Pump Pressure High (L-1350)	1073810544
+Blower Pump Pressure Low (L-1350)	1073810545
+Blower Pump Pressure Sensor Or Cable Fail High (L-1350)	1073810546
+Blower Pump Pressure Sensor Or Cable Fail Low (L-1350)	1073810547
+Blower Speed Low (L-1350)	1073810548
+Bucket Cylinder Bypassing (L-1350)	1073810549
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail High (L-1350)	1073810550
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail Low (L-1350)	1073810551
+Bucket Dump Pilot Pressure High (L-1350)	1073810552
+Bucket Dump Pilot Pressure Low (L-1350)	1073810553
+Bucket Rollback Pilot Pressure High (L-1350)	1073810554
+Bucket Rollback Pilot Pressure Low (L-1350)	1073810555
+Drive Cooling Pump #1 In Cutback (L-1350)	1073810556
+Drive Cooling Pump #2 In Cutback (L-1350)	1073810557
+Drive Cooling Pump #3 In Cutback (L-1350)	1073810558
+Engine Blue Lamp Active (L-1350)	1073810559
+Fast Hoist Pump Pressure High (L-1350)	1073810560
+Fast Hoist Pump Pressure Low (L-1350)	1073810561
+Fast Hoist Pump Pressure Sensor Or Cable Fail High (L-1350)	1073810562
+Fast Hoist Pump Pressure Sensor Or Cable Fail Low (L-1350)	1073810563
+Front Driver Lubrication Flow Switch Fault (L-1350)	1073810564
+Generator Slave1 Data Link Missing (L-1350)	1073810565
+Generator Slave2 Data Link Missing (L-1350)	1073810566
+Generator Slave3 Data Link Missing (L-1350)	1073810567
+Greatest Pilot Command Present With No Hydraulic Commands (L-1350)	1073810568
+Greatest Pilot Command Pressure Sensor Or Cable Fail High (L-1350)	1073810569
+Greatest Pilot Command Pressure Sensor Or Cable Fail Low (L-1350)	1073810570
+Hoist / Bucket Pump A Pressure High (L-1350)	1073810571
+Hoist / Bucket Pump A Pressure Low (L-1350)	1073810572
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail High (L-1350)	1073810573
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail Low (L-1350)	1073810574
+Hoist / Bucket Pump B Pressure High (L-1350)	1073810575
+Hoist / Bucket Pump B Pressure Low (L-1350)	1073810576
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail High (L-1350)	1073810577
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail Low (L-1350)	1073810578
+Hoist / Bucket Pump C Pressure High (L-1350)	1073810579
+Hoist / Bucket Pump C Pressure Low (L-1350)	1073810580
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail High (L-1350)	1073810581
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail Low (L-1350)	1073810582
+Hoist Cylinder Bypassing (L-1350)	1073810583
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail High (L-1350)	1073810584
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail Low  (L-1350)	1073810585
+Hoist Lower Pilot Pressure High (L-1350)	1073810586
+Hoist Lower Pilot Pressure Low (L-1350)	1073810587
+Hoist Raise Pilot Pressure High (L-1350)	1073810588
+Hoist Raise Pilot Pressure Low (L-1350)	1073810589
+Hpd Gearbox Pressure High (L-1350)	1073810590
+Hydraulic Reservoir Air Pressure High (L-1350)	1073810591
+Klenz Filter Restriction Low (L-1350)	1073810592
+Klenz Reservoir Air Pressure High (L-1350)	1073810593
+Klenz Solenoid #1 Misfire (L-1350)	1073810594
+Klenz Solenoid #2 Misfire (L-1350)	1073810595
+Klenz Solenoid #3 Misfire (L-1350)	1073810596
+Klenz Solenoid #4 Misfire (L-1350)	1073810597
+Klenz Solenoid #5 Misfire (L-1350)	1073810598
+Klenz Solenoid #6 Misfire (L-1350)	1073810599
+Klenz Solenoid #7 Misfire (L-1350)	1073810600
+Motor #1 ( Left Front ) Slave Data Link Missing (L-1350)	1073810601
+Motor #2 ( Right Front ) Slave Data Link Missing (L-1350)	1073810602
+Motor #3 ( Left Rear ) Slave Data Link Missing (L-1350)	1073810603
+Motor #4 ( Right Rear ) Slave Data Link Missing (L-1350)	1073810604
+Pilot Supply Pressure High (L-1350)	1073810605
+Pilot Supply Pressure Low (L-1350)	1073810606
+Pilot Supply Pressure Sensor Or Cable Fail High (L-1350)	1073810607
+Pilot Supply Pressure Sensor Or Cable Fail Low (L-1350)	1073810608
+Radiator Fan Pump Pressure High (L-1350)	1073810609
+Radiator Fan Pump Pressure Low (L-1350)	1073810610
+Rear Driver Lubrication Flow Switch Fault (L-1350)	1073810611
+Steer Pump A Pressure High (L-1350)	1073810612
+Steer Pump A Pressure Sensor Or Cable Fail High (L-1350)	1073810613
+Steer Pump A Pressure Sensor Or Cable Fail Low (L-1350)	1073810614
+Steer Pump B Pressure High (L-1350)	1073810615
+Steer Pump B Pressure Sensor Or Cable Fail High (L-1350)	1073810616
+Steer Pump B Pressure Sensor Or Cable Fail Low (L-1350)	1073810617
+Bucket Limits Bypassed (L-1350)	1073810618
+Bucket Limits Bypassed By User (L-1350)	1073810619
+Hoist & Bucket Limits Bypassed (L-1350)	1073810620
+Hoist And Bucket Limits Bypassed By User (L-1350)	1073810621
+Steering Limits Bypassed (L-1350)	1073810622
+Steering Limits Bypassed By User (L-1350)	1073810623
+Cannot Calibrate Because: Hydraulic Reservoir Oil Temperature Above 145 F (L-1350)	1073810624
+Engine Not Responding To Throttle Command (L-1350)	1073810625
+Battery Voltage > 19V (L-1350)	1073810626
+Bucket Angle At Or Above Level (L-1350)	1073810627
+Bucket Critical Overload: Dump Some Load And Reweigh (L-1350)	1073810628
+Channel Forced (L-1350)	1073810629
+Engine At High Throttle (L-1350)	1073810630
+Engine At High Throttle For 3Min (L-1350)	1073810631
+Engine At Low Throttle For 5Min (L-1350)	1073810632
+Engine At Medium Throttle For 3Min (L-1350)	1073810633
+High Voltage Cabinet Door Open (L-1350)	1073810634
+Hoist And Bucket Calibrations Required (L-1350)	1073810635
+Hydraulic Reservoir Oil Temperature Above 145 F (L-1350)	1073810636
+Hydraulic Reservoir Oil Temperature Above 165 F (L-1350)	1073810637
+Ladder Down (L-1350)	1073810638
+Lift Arms Too High (L-1350)	1073810639
+Load Weigh Calibration Required (L-1350)	1073810640
+Park Brakes Not Released (L-1350)	1073810641
+Red Alarm(S) Active (L-1350)	1073810642
+Reduce Maximum Dump Pressure  (L-1350)	1073810643
+Speed Pedal Calibration Required (L-1350)	1073810644
+Steering Calibration Required (L-1350)	1073810645
+Vehicle Speed Too High (L-1350)	1073810646
+Vehicle Speed Too Low (L-1350)	1073810647
+Dump Stick Limited By End Of Travel (L-1350)	1073810648
+Dump Wheel Limited By End Of Travel (L-1350)	1073810649
+Left Steer Limited By End Of Travel (L-1350)	1073810650
+Lower Hoist Limited By End Of Travel (L-1350)	1073810651
+Raise Hoist Limited By End Of Travel (L-1350)	1073810652
+Right Steer Limited By End Of Travel (L-1350)	1073810653
+Rollback Stick Limited By End Of Travel (L-1350)	1073810654
+Rollback Wheel Limited By End Of Travel (L-1350)	1073810655
+Bucket Load Weight (L-1350)	1073810656
+Truck Load Weight (L-1350)	1073810657
+Auxiliary Steering System Activated (L-1850)	1073811360
+Auxiliary Steering System Fault (L-1850)	1073811361
+Bad/Missing Vcu Module (L-1850)	1073811362
+Battery Charging Alternator Voltage Critically Low (L-1850)	1073811363
+Cab Emergency Stop Switch Pressed (L-1850)	1073811364
+Configure Vehicle Control Unit Required (L-1850)	1073811365
+Engine Red Lamp Active (L-1850)	1073811366
+Engine Safety Filter(S) Restricted (L-1850)	1073811367
+Error Accessing Vcu File (L-1850)	1073811368
+Excessive Number Of Motor Drives Inactive (L-1850)	1073811369
+Fire System Engaged Or Detected (L-1850)	1073811370
+Five Consecutive Autolube Warnings (L-1850)	1073811371
+High Voltage Cabinet Emergency Stop Switch Pressed (L-1850)	1073811372
+Hmi Software Version Does Not Support Machine Version (L-1850)	1073811373
+Hpd Gearbox Oil Pressure Critically Low (L-1850)	1073811374
+Hydraulic Oil Reservoir Level Low (L-1850)	1073811375
+Hydraulic Reservoir Air Pressure Low (L-1850)	1073811376
+Hydraulic Reservoir Emergency Stop Switch Pressed (L-1850)	1073811377
+Klenz Filter Restriction High At Low Throttle (L-1850)	1073811378
+Left Rear Emergency Stop Switch Pressed (L-1850)	1073811379
+Right Rear Emergency Stop Switch Pressed (L-1850)	1073811380
+Module(S) Not Present Or Have Failed (L-1850)	1073811381
+Vehicle Control Unit Critical Over Temperature (L-1850)	1073811382
+Accessory Pump Pressure Sensor Or Cable Fail High (L-1850)	1073811383
+Accessory Pump Pressure Sensor Or Cable Fail Low (L-1850)	1073811384
+Autolube Grease Pressure Failed To Build (L-1850)	1073811385
+Autolube Grease Pressure High (L-1850)	1073811386
+Autolube Grease Pressure Sensor Or Cable Fail High (L-1850)	1073811387
+Autolube Grease Pressure Sensor Or Cable Fail Low (L-1850)	1073811388
+Autolube Grease Restriction (L-1850)	1073811389
+Battery Charging Alternator Voltage Critically High (L-1850)	1073811390
+Battery Charging Alternator Voltage High (L-1850)	1073811391
+Battery Charging Alternator Voltage Low (L-1850)	1073811392
+Battery Voltage Low (L-1850)	1073811393
+Bellcrank To Lift Arm Sensor Or Cable Fail High (L-1850)	1073811394
+Bellcrank To Lift Arm Sensor Or Cable Fail Low (L-1850)	1073811395
+Blower Overspeed (L-1850)	1073811396
+Bucket Critical Overload (L-1850)	1073811397
+Bucket Overload (L-1850)	1073811398
+Clamshell Cylinder Extension Sensor Or Cable Fail High (L-1850)	1073811399
+Clamshell Cylinder Extension Sensor Or Cable Fail Low (L-1850)	1073811400
+Drive Coolant Reservoir Level Low (L-1850)	1073811401
+Drive Cooling Pump Controller #1 Data Link Missing (L-1850)	1073811402
+Drive Cooling Pump Controller #2 Data Link Missing (L-1850)	1073811403
+Drive Cooling Pump Controller #3 Data Link Missing (L-1850)	1073811404
+Dump Pressure Low (L-1850)	1073811405
+Engine Ecm Data Link Missing (L-1850)	1073811406
+Engine Yellow Lamp Active (L-1850)	1073811407
+Float Too Slow (L-1850)	1073811408
+Front Driver Lubrication Flow Low (L-1850)	1073811409
+Front Park Brakes / System Air Pressure Discrepancy (L-1850)	1073811410
+Front Park Brakes Pressure Sensor Or Cable Fail High (L-1850)	1073811411
+Front Park Brakes Pressure Sensor Or Cable Fail Low (L-1850)	1073811412
+Front Park Brakes Stuck (L-1850)	1073811413
+Front Service Brakes Pressure High (L-1850)	1073811414
+Front Service Brakes Pressure Sensor Or Cable Fail High (L-1850)	1073811415
+Front Service Brakes Pressure Sensor Or Cable Fail Low (L-1850)	1073811416
+Fuel Level Low (L-1850)	1073811417
+Fuel Level Sensor Or Cable Fail High (L-1850)	1073811418
+Fuel Level Sensor Or Cable Fail Low (L-1850)	1073811419
+Generator Critical Over Temperature (L-1850)	1073811420
+Generator Failed To Prime (L-1850)	1073811421
+Generator Fault (L-1850)	1073811422
+Generator Master Blown Fuse (L-1850)	1073811423
+Generator Master Converter Critical Over Temperature (L-1850)	1073811424
+Generator Master Data Link Missing (L-1850)	1073811425
+Generator Slave #1 Blown Fuse (L-1850)	1073811426
+Generator Slave #1 Converter Critical Over Temperature (L-1850)	1073811427
+Generator Slave #2 Blown Fuse (L-1850)	1073811428
+Generator Slave #2 Converter Critical Over Temperature (L-1850)	1073811429
+Generator Slave #3 Blown Fuse (L-1850)	1073811430
+Generator Slave #3 Converter Critical Over Temperature (L-1850)	1073811431
+High Voltage Bus Isolation Resistance Low (L-1850)	1073811432
+High Voltage Bus Isolation Sensor Or Cable Fail Low (L-1850)	1073811433
+Hoist Cylinder Base Pressure Sensor Or Cable Fail High (L-1850)	1073811434
+Hoist Cylinder Base Pressure Sensor Or Cable Fail Low (L-1850)	1073811435
+Hpd Gearbox Oil Temperature High (L-1850)	1073811436
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail High (L-1850)	1073811437
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail Low (L-1850)	1073811438
+Hpd Gearbox Pressure Sensor Or Cable Fail High (L-1850)	1073811439
+Hpd Gearbox Pressure Sensor Or Cable Fail Low (L-1850)	1073811440
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail High (L-1850)	1073811441
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail Low (L-1850)	1073811442
+Hydraulic Reservoir Oil Temperature Critically High (L-1850)	1073811443
+Hydraulic Reservoir Oil Temperature High (L-1850)	1073811444
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail High (L-1850)	1073811445
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail Low (L-1850)	1073811446
+Keypad Data Link Missing (L-1850)	1073811447
+Klenz Enable Switch Off (L-1850)	1073811448
+Klenz Filter Restriction Critically High (L-1850)	1073811449
+Klenz Filter Restriction High (L-1850)	1073811450
+Klenz Reservoir Air Pressure Low (L-1850)	1073811451
+Klenz Reservoir Air Pressure Sensor Or Cable Fail High (L-1850)	1073811452
+Klenz Reservoir Air Pressure Sensor Or Cable Fail Low (L-1850)	1073811453
+Klenz Restriction Pressure Sensor Or Cable Fail High (L-1850)	1073811454
+Klenz Restriction Pressure Sensor Or Cable Fail Low (L-1850)	1073811455
+Left Front Motor Drive Fault (L-1850)	1073811456
+Left Joystick Cruise Decrease Sensor Fault (L-1850)	1073811457
+Left Joystick Cruise Increase Sensor Fault (L-1850)	1073811458
+Left Joystick Data Link Missing (L-1850)	1073811459
+Left Joystick Left Steer Sensor Fault (L-1850)	1073811460
+Left Joystick Right Steer Sensor Fault (L-1850)	1073811461
+Left Rear Motor Drive Fault (L-1850)	1073811462
+Lift Arm Position Sensor Or Cable Fail High (L-1850)	1073811463
+Lift Arm Position Sensor Or Cable Fail Low (L-1850)	1073811464
+Motor #1 ( Left Front ) Critical Over Temperature (L-1850)	1073811465
+Motor #1 ( Left Front ) Derated By Master Converter Temperature (L-1850)	1073811466
+Motor #1 ( Left Front ) Derated By Motor Temperature (L-1850)	1073811467
+Motor #1 ( Left Front ) Derated By Slave Converter Temperature (L-1850)	1073811468
+Motor #1 ( Left Front ) Master Blown Fuse (L-1850)	1073811469
+Motor #1 ( Left Front ) Master Converter Critical Over Temperature (L-1850)	1073811470
+Motor #1 ( Left Front ) Master Data Link Missing (L-1850)	1073811471
+Motor #1 ( Left Front ) Slave Blown Fuse (L-1850)	1073811472
+Motor #1 ( Left Front ) Slave Converter Critical Over Temperature (L-1850)	1073811473
+Motor #2 ( Right Front ) Critical Over Temperature (L-1850)	1073811474
+Motor #2 ( Right Front ) Derated By Master Converter Temperature (L-1850)	1073811475
+Motor #2 ( Right Front ) Derated By Motor Temperature (L-1850)	1073811476
+Motor #2 ( Right Front ) Derated By Slave Converter Temperature (L-1850)	1073811477
+Motor #2 ( Right Front ) Master Blown Fuse (L-1850)	1073811478
+Motor #2 ( Right Front ) Master Converter Critical Over Temperature (L-1850)	1073811479
+Motor #2 ( Right Front ) Master Data Link Missing (L-1850)	1073811480
+Motor #2 ( Right Front ) Slave Blown Fuse (L-1850)	1073811481
+Motor #2 ( Right Front ) Slave Converter Critical Over Temperature (L-1850)	1073811482
+Motor #3 ( Left Rear ) Critical Over Temperature (L-1850)	1073811483
+Motor #3 ( Left Rear ) Derated By Master Converter Temperature (L-1850)	1073811484
+Motor #3 ( Left Rear ) Derated By Motor Temperature (L-1850)	1073811485
+Motor #3 ( Left Rear ) Derated By Slave Converter Temperature (L-1850)	1073811486
+Motor #3 ( Left Rear ) Master Blown Fuse (L-1850)	1073811487
+Motor #3 ( Left Rear ) Master Converter Critical Over Temperature (L-1850)	1073811488
+Motor #3 ( Left Rear ) Master Data Link Missing (L-1850)	1073811489
+Motor #3 ( Left Rear ) Slave Blown Fuse (L-1850)	1073811490
+Motor #3 ( Left Rear ) Slave Converter Critical Over Temperature (L-1850)	1073811491
+Motor #4 ( Right Rear ) Critical Over Temperature (L-1850)	1073811492
+Motor #4 ( Right Rear ) Derated By Master Converter Temperature (L-1850)	1073811493
+Motor #4 ( Right Rear ) Derated By Motor Temperature (L-1850)	1073811494
+Motor #4 ( Right Rear ) Derated By Slave Converter Temperature (L-1850)	1073811495
+Motor #4 ( Right Rear ) Master Blown Fuse (L-1850)	1073811496
+Motor #4 ( Right Rear ) Master Converter Critical Over Temperature (L-1850)	1073811497
+Motor #4 ( Right Rear ) Master Data Link Missing (L-1850)	1073811498
+Motor #4 ( Right Rear ) Slave Blown Fuse (L-1850)	1073811499
+Motor #4 ( Right Rear ) Slave Converter Critical Over Temperature (L-1850)	1073811500
+Motors Derated By Generator Master Converter Temperature (L-1850)	1073811501
+Motors Derated By Generator Slave #1 Converter Temperature (L-1850)	1073811502
+Motors Derated By Generator Slave #2 Converter Temperature (L-1850)	1073811503
+Motors Derated By Generator Slave #3 Converter Temperature (L-1850)	1073811504
+Motors Derated By Generator Temperature (L-1850)	1073811505
+Radiator Fan Over Speed (L-1850)	1073811506
+Radiator Fan Pump Pressure Sensor Or Cable Fail High (L-1850)	1073811507
+Radiator Fan Pump Pressure Sensor Or Cable Fail Low (L-1850)	1073811508
+Radiator Fan Speed Low (L-1850)	1073811509
+Rear Driver Lubrication Flow Low (L-1850)	1073811510
+Rear Park Brakes / System Air Pressure Discrepancy (L-1850)	1073811511
+Rear Park Brakes Pressure Sensor Or Cable Fail High (L-1850)	1073811512
+Rear Park Brakes Pressure Sensor Or Cable Fail Low (L-1850)	1073811513
+Rear Park Brakes Stuck (L-1850)	1073811514
+Rear Service Brakes Pressure High (L-1850)	1073811515
+Rear Service Brakes Pressure Sensor Or Cable Fail High (L-1850)	1073811516
+Rear Service Brakes Pressure Sensor Or Cable Fail Low (L-1850)	1073811517
+Right Front Motor Drive Fault (L-1850)	1073811518
+Right Joystick Data Link Missing (L-1850)	1073811519
+Right Joystick Dump Stick Sensor Fault (L-1850)	1073811520
+Right Joystick Dump Wheel Sensor Fault (L-1850)	1073811521
+Right Joystick Lower Hoist Sensor Fault (L-1850)	1073811522
+Right Joystick Raise Hoist Sensor Fault (L-1850)	1073811523
+Right Joystick Rollback Stick Sensor Fault (L-1850)	1073811524
+Right Joystick Rollback Wheel Sensor Fault (L-1850)	1073811525
+Right Rear Motor Drive Fault (L-1850)	1073811526
+Speed Control Pedal Sensor Or Cable Fail High (L-1850)	1073811527
+Speed Control Pedal Sensor Or Cable Fail Low (L-1850)	1073811528
+Speed Control Pedal Supply High (L-1850)	1073811529
+Speed Control Pedal Supply Low (L-1850)	1073811530
+Steer Position Sensor Or Cable Fail High (L-1850)	1073811531
+Steer Position Sensor Or Cable Fail Low (L-1850)	1073811532
+System Air Leak Detected (L-1850)	1073811533
+System Air Pressure Low (L-1850)	1073811534
+System Air Pressure Sensor Or Cable Fail High (L-1850)	1073811535
+System Air Pressure Sensor Or Cable Fail Low (L-1850)	1073811536
+Vehicle Control Unit Over Temperature (L-1850)	1073811537
+Vehicle Overspeed - Apply Service Brakes (L-1850)	1073811538
+Accessory Pump Pressure High (L-1850)	1073811539
+Accessory Pump Pressure Low (L-1850)	1073811540
+Ambient Temperature Sensor Or Cable Fail High (L-1850)	1073811541
+Ambient Temperature Sensor Or Cable Fail Low (L-1850)	1073811542
+Battery Voltage High (L-1850)	1073811543
+Blower Pump Pressure High (L-1850)	1073811544
+Blower Pump Pressure Low (L-1850)	1073811545
+Blower Pump Pressure Sensor Or Cable Fail High (L-1850)	1073811546
+Blower Pump Pressure Sensor Or Cable Fail Low (L-1850)	1073811547
+Blower Speed Low (L-1850)	1073811548
+Bucket Cylinder Bypassing (L-1850)	1073811549
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail High (L-1850)	1073811550
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail Low (L-1850)	1073811551
+Bucket Dump Pilot Pressure High (L-1850)	1073811552
+Bucket Dump Pilot Pressure Low (L-1850)	1073811553
+Bucket Rollback Pilot Pressure High (L-1850)	1073811554
+Bucket Rollback Pilot Pressure Low (L-1850)	1073811555
+Drive Cooling Pump #1 In Cutback (L-1850)	1073811556
+Drive Cooling Pump #2 In Cutback (L-1850)	1073811557
+Drive Cooling Pump #3 In Cutback (L-1850)	1073811558
+Engine Blue Lamp Active (L-1850)	1073811559
+Fast Hoist Pump Pressure High (L-1850)	1073811560
+Fast Hoist Pump Pressure Low (L-1850)	1073811561
+Fast Hoist Pump Pressure Sensor Or Cable Fail High (L-1850)	1073811562
+Fast Hoist Pump Pressure Sensor Or Cable Fail Low (L-1850)	1073811563
+Front Driver Lubrication Flow Switch Fault (L-1850)	1073811564
+Generator Slave1 Data Link Missing (L-1850)	1073811565
+Generator Slave2 Data Link Missing (L-1850)	1073811566
+Generator Slave3 Data Link Missing (L-1850)	1073811567
+Greatest Pilot Command Present With No Hydraulic Commands (L-1850)	1073811568
+Greatest Pilot Command Pressure Sensor Or Cable Fail High (L-1850)	1073811569
+Greatest Pilot Command Pressure Sensor Or Cable Fail Low (L-1850)	1073811570
+Hoist / Bucket Pump A Pressure High (L-1850)	1073811571
+Hoist / Bucket Pump A Pressure Low (L-1850)	1073811572
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail High (L-1850)	1073811573
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail Low (L-1850)	1073811574
+Hoist / Bucket Pump B Pressure High (L-1850)	1073811575
+Hoist / Bucket Pump B Pressure Low (L-1850)	1073811576
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail High (L-1850)	1073811577
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail Low (L-1850)	1073811578
+Hoist / Bucket Pump C Pressure High (L-1850)	1073811579
+Hoist / Bucket Pump C Pressure Low (L-1850)	1073811580
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail High (L-1850)	1073811581
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail Low (L-1850)	1073811582
+Hoist Cylinder Bypassing (L-1850)	1073811583
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail High (L-1850)	1073811584
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail Low  (L-1850)	1073811585
+Hoist Lower Pilot Pressure High (L-1850)	1073811586
+Hoist Lower Pilot Pressure Low (L-1850)	1073811587
+Hoist Raise Pilot Pressure High (L-1850)	1073811588
+Hoist Raise Pilot Pressure Low (L-1850)	1073811589
+Hpd Gearbox Pressure High (L-1850)	1073811590
+Hydraulic Reservoir Air Pressure High (L-1850)	1073811591
+Klenz Filter Restriction Low (L-1850)	1073811592
+Klenz Reservoir Air Pressure High (L-1850)	1073811593
+Klenz Solenoid #1 Misfire (L-1850)	1073811594
+Klenz Solenoid #2 Misfire (L-1850)	1073811595
+Klenz Solenoid #3 Misfire (L-1850)	1073811596
+Klenz Solenoid #4 Misfire (L-1850)	1073811597
+Klenz Solenoid #5 Misfire (L-1850)	1073811598
+Klenz Solenoid #6 Misfire (L-1850)	1073811599
+Klenz Solenoid #7 Misfire (L-1850)	1073811600
+Motor #1 ( Left Front ) Slave Data Link Missing (L-1850)	1073811601
+Motor #2 ( Right Front ) Slave Data Link Missing (L-1850)	1073811602
+Motor #3 ( Left Rear ) Slave Data Link Missing (L-1850)	1073811603
+Motor #4 ( Right Rear ) Slave Data Link Missing (L-1850)	1073811604
+Pilot Supply Pressure High (L-1850)	1073811605
+Pilot Supply Pressure Low (L-1850)	1073811606
+Pilot Supply Pressure Sensor Or Cable Fail High (L-1850)	1073811607
+Pilot Supply Pressure Sensor Or Cable Fail Low (L-1850)	1073811608
+Radiator Fan Pump Pressure High (L-1850)	1073811609
+Radiator Fan Pump Pressure Low (L-1850)	1073811610
+Rear Driver Lubrication Flow Switch Fault (L-1850)	1073811611
+Steer Pump A Pressure High (L-1850)	1073811612
+Steer Pump A Pressure Sensor Or Cable Fail High (L-1850)	1073811613
+Steer Pump A Pressure Sensor Or Cable Fail Low (L-1850)	1073811614
+Steer Pump B Pressure High (L-1850)	1073811615
+Steer Pump B Pressure Sensor Or Cable Fail High (L-1850)	1073811616
+Steer Pump B Pressure Sensor Or Cable Fail Low (L-1850)	1073811617
+Bucket Limits Bypassed (L-1850)	1073811618
+Bucket Limits Bypassed By User (L-1850)	1073811619
+Hoist & Bucket Limits Bypassed (L-1850)	1073811620
+Hoist And Bucket Limits Bypassed By User (L-1850)	1073811621
+Steering Limits Bypassed (L-1850)	1073811622
+Steering Limits Bypassed By User (L-1850)	1073811623
+Cannot Calibrate Because: Hydraulic Reservoir Oil Temperature Above 145 F (L-1850)	1073811624
+Engine Not Responding To Throttle Command (L-1850)	1073811625
+Battery Voltage > 19V (L-1850)	1073811626
+Bucket Angle At Or Above Level (L-1850)	1073811627
+Bucket Critical Overload: Dump Some Load And Reweigh (L-1850)	1073811628
+Channel Forced (L-1850)	1073811629
+Engine At High Throttle (L-1850)	1073811630
+Engine At High Throttle For 3Min (L-1850)	1073811631
+Engine At Low Throttle For 5Min (L-1850)	1073811632
+Engine At Medium Throttle For 3Min (L-1850)	1073811633
+High Voltage Cabinet Door Open (L-1850)	1073811634
+Hoist And Bucket Calibrations Required (L-1850)	1073811635
+Hydraulic Reservoir Oil Temperature Above 145 F (L-1850)	1073811636
+Hydraulic Reservoir Oil Temperature Above 165 F (L-1850)	1073811637
+Ladder Down (L-1850)	1073811638
+Lift Arms Too High (L-1850)	1073811639
+Load Weigh Calibration Required (L-1850)	1073811640
+Park Brakes Not Released (L-1850)	1073811641
+Red Alarm(S) Active (L-1850)	1073811642
+Reduce Maximum Dump Pressure  (L-1850)	1073811643
+Speed Pedal Calibration Required (L-1850)	1073811644
+Steering Calibration Required (L-1850)	1073811645
+Vehicle Speed Too High (L-1850)	1073811646
+Vehicle Speed Too Low (L-1850)	1073811647
+Dump Stick Limited By End Of Travel (L-1850)	1073811648
+Dump Wheel Limited By End Of Travel (L-1850)	1073811649
+Left Steer Limited By End Of Travel (L-1850)	1073811650
+Lower Hoist Limited By End Of Travel (L-1850)	1073811651
+Raise Hoist Limited By End Of Travel (L-1850)	1073811652
+Right Steer Limited By End Of Travel (L-1850)	1073811653
+Rollback Stick Limited By End Of Travel (L-1850)	1073811654
+Rollback Wheel Limited By End Of Travel (L-1850)	1073811655
+Bucket Load Weight (L-1850)	1073811656
+Truck Load Weight (L-1850)	1073811657
+Auxiliary Steering System Activated (L-2350)	1073812360
+Auxiliary Steering System Fault (L-2350)	1073812361
+Bad/Missing Vcu Module (L-2350)	1073812362
+Battery Charging Alternator Voltage Critically Low (L-2350)	1073812363
+Cab Emergency Stop Switch Pressed (L-2350)	1073812364
+Configure Vehicle Control Unit Required (L-2350)	1073812365
+Engine Red Lamp Active (L-2350)	1073812366
+Engine Safety Filter(S) Restricted (L-2350)	1073812367
+Error Accessing Vcu File (L-2350)	1073812368
+Excessive Number Of Motor Drives Inactive (L-2350)	1073812369
+Fire System Engaged Or Detected (L-2350)	1073812370
+Five Consecutive Autolube Warnings (L-2350)	1073812371
+High Voltage Cabinet Emergency Stop Switch Pressed (L-2350)	1073812372
+Hmi Software Version Does Not Support Machine Version (L-2350)	1073812373
+Hpd Gearbox Oil Pressure Critically Low (L-2350)	1073812374
+Hydraulic Oil Reservoir Level Low (L-2350)	1073812375
+Hydraulic Reservoir Air Pressure Low (L-2350)	1073812376
+Hydraulic Reservoir Emergency Stop Switch Pressed (L-2350)	1073812377
+Klenz Filter Restriction High At Low Throttle (L-2350)	1073812378
+Left Rear Emergency Stop Switch Pressed (L-2350)	1073812379
+Right Rear Emergency Stop Switch Pressed (L-2350)	1073812380
+Module(S) Not Present Or Have Failed (L-2350)	1073812381
+Vehicle Control Unit Critical Over Temperature (L-2350)	1073812382
+Accessory Pump Pressure Sensor Or Cable Fail High (L-2350)	1073812383
+Accessory Pump Pressure Sensor Or Cable Fail Low (L-2350)	1073812384
+Autolube Grease Pressure Failed To Build (L-2350)	1073812385
+Autolube Grease Pressure High (L-2350)	1073812386
+Autolube Grease Pressure Sensor Or Cable Fail High (L-2350)	1073812387
+Autolube Grease Pressure Sensor Or Cable Fail Low (L-2350)	1073812388
+Autolube Grease Restriction (L-2350)	1073812389
+Battery Charging Alternator Voltage Critically High (L-2350)	1073812390
+Battery Charging Alternator Voltage High (L-2350)	1073812391
+Battery Charging Alternator Voltage Low (L-2350)	1073812392
+Battery Voltage Low (L-2350)	1073812393
+Bellcrank To Lift Arm Sensor Or Cable Fail High (L-2350)	1073812394
+Bellcrank To Lift Arm Sensor Or Cable Fail Low (L-2350)	1073812395
+Blower Overspeed (L-2350)	1073812396
+Bucket Critical Overload (L-2350)	1073812397
+Bucket Overload (L-2350)	1073812398
+Clamshell Cylinder Extension Sensor Or Cable Fail High (L-2350)	1073812399
+Clamshell Cylinder Extension Sensor Or Cable Fail Low (L-2350)	1073812400
+Drive Coolant Reservoir Level Low (L-2350)	1073812401
+Drive Cooling Pump Controller #1 Data Link Missing (L-2350)	1073812402
+Drive Cooling Pump Controller #2 Data Link Missing (L-2350)	1073812403
+Drive Cooling Pump Controller #3 Data Link Missing (L-2350)	1073812404
+Dump Pressure Low (L-2350)	1073812405
+Engine Ecm Data Link Missing (L-2350)	1073812406
+Engine Yellow Lamp Active (L-2350)	1073812407
+Float Too Slow (L-2350)	1073812408
+Front Driver Lubrication Flow Low (L-2350)	1073812409
+Front Park Brakes / System Air Pressure Discrepancy (L-2350)	1073812410
+Front Park Brakes Pressure Sensor Or Cable Fail High (L-2350)	1073812411
+Front Park Brakes Pressure Sensor Or Cable Fail Low (L-2350)	1073812412
+Front Park Brakes Stuck (L-2350)	1073812413
+Front Service Brakes Pressure High (L-2350)	1073812414
+Front Service Brakes Pressure Sensor Or Cable Fail High (L-2350)	1073812415
+Front Service Brakes Pressure Sensor Or Cable Fail Low (L-2350)	1073812416
+Fuel Level Low (L-2350)	1073812417
+Fuel Level Sensor Or Cable Fail High (L-2350)	1073812418
+Fuel Level Sensor Or Cable Fail Low (L-2350)	1073812419
+Generator Critical Over Temperature (L-2350)	1073812420
+Generator Failed To Prime (L-2350)	1073812421
+Generator Fault (L-2350)	1073812422
+Generator Master Blown Fuse (L-2350)	1073812423
+Generator Master Converter Critical Over Temperature (L-2350)	1073812424
+Generator Master Data Link Missing (L-2350)	1073812425
+Generator Slave #1 Blown Fuse (L-2350)	1073812426
+Generator Slave #1 Converter Critical Over Temperature (L-2350)	1073812427
+Generator Slave #2 Blown Fuse (L-2350)	1073812428
+Generator Slave #2 Converter Critical Over Temperature (L-2350)	1073812429
+Generator Slave #3 Blown Fuse (L-2350)	1073812430
+Generator Slave #3 Converter Critical Over Temperature (L-2350)	1073812431
+High Voltage Bus Isolation Resistance Low (L-2350)	1073812432
+High Voltage Bus Isolation Sensor Or Cable Fail Low (L-2350)	1073812433
+Hoist Cylinder Base Pressure Sensor Or Cable Fail High (L-2350)	1073812434
+Hoist Cylinder Base Pressure Sensor Or Cable Fail Low (L-2350)	1073812435
+Hpd Gearbox Oil Temperature High (L-2350)	1073812436
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail High (L-2350)	1073812437
+Hpd Gearbox Oil Temperature Sensor Or Cable Fail Low (L-2350)	1073812438
+Hpd Gearbox Pressure Sensor Or Cable Fail High (L-2350)	1073812439
+Hpd Gearbox Pressure Sensor Or Cable Fail Low (L-2350)	1073812440
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail High (L-2350)	1073812441
+Hydraulic Reservoir Air Pressure Sensor Or Cable Fail Low (L-2350)	1073812442
+Hydraulic Reservoir Oil Temperature Critically High (L-2350)	1073812443
+Hydraulic Reservoir Oil Temperature High (L-2350)	1073812444
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail High (L-2350)	1073812445
+Hydraulic Reservoir Oil Temperature Sensor Or Cable Fail Low (L-2350)	1073812446
+Keypad Data Link Missing (L-2350)	1073812447
+Klenz Enable Switch Off (L-2350)	1073812448
+Klenz Filter Restriction Critically High (L-2350)	1073812449
+Klenz Filter Restriction High (L-2350)	1073812450
+Klenz Reservoir Air Pressure Low (L-2350)	1073812451
+Klenz Reservoir Air Pressure Sensor Or Cable Fail High (L-2350)	1073812452
+Klenz Reservoir Air Pressure Sensor Or Cable Fail Low (L-2350)	1073812453
+Klenz Restriction Pressure Sensor Or Cable Fail High (L-2350)	1073812454
+Klenz Restriction Pressure Sensor Or Cable Fail Low (L-2350)	1073812455
+Left Front Motor Drive Fault (L-2350)	1073812456
+Left Joystick Cruise Decrease Sensor Fault (L-2350)	1073812457
+Left Joystick Cruise Increase Sensor Fault (L-2350)	1073812458
+Left Joystick Data Link Missing (L-2350)	1073812459
+Left Joystick Left Steer Sensor Fault (L-2350)	1073812460
+Left Joystick Right Steer Sensor Fault (L-2350)	1073812461
+Left Rear Motor Drive Fault (L-2350)	1073812462
+Lift Arm Position Sensor Or Cable Fail High (L-2350)	1073812463
+Lift Arm Position Sensor Or Cable Fail Low (L-2350)	1073812464
+Motor #1 ( Left Front ) Critical Over Temperature (L-2350)	1073812465
+Motor #1 ( Left Front ) Derated By Master Converter Temperature (L-2350)	1073812466
+Motor #1 ( Left Front ) Derated By Motor Temperature (L-2350)	1073812467
+Motor #1 ( Left Front ) Derated By Slave Converter Temperature (L-2350)	1073812468
+Motor #1 ( Left Front ) Master Blown Fuse (L-2350)	1073812469
+Motor #1 ( Left Front ) Master Converter Critical Over Temperature (L-2350)	1073812470
+Motor #1 ( Left Front ) Master Data Link Missing (L-2350)	1073812471
+Motor #1 ( Left Front ) Slave Blown Fuse (L-2350)	1073812472
+Motor #1 ( Left Front ) Slave Converter Critical Over Temperature (L-2350)	1073812473
+Motor #2 ( Right Front ) Critical Over Temperature (L-2350)	1073812474
+Motor #2 ( Right Front ) Derated By Master Converter Temperature (L-2350)	1073812475
+Motor #2 ( Right Front ) Derated By Motor Temperature (L-2350)	1073812476
+Motor #2 ( Right Front ) Derated By Slave Converter Temperature (L-2350)	1073812477
+Motor #2 ( Right Front ) Master Blown Fuse (L-2350)	1073812478
+Motor #2 ( Right Front ) Master Converter Critical Over Temperature (L-2350)	1073812479
+Motor #2 ( Right Front ) Master Data Link Missing (L-2350)	1073812480
+Motor #2 ( Right Front ) Slave Blown Fuse (L-2350)	1073812481
+Motor #2 ( Right Front ) Slave Converter Critical Over Temperature (L-2350)	1073812482
+Motor #3 ( Left Rear ) Critical Over Temperature (L-2350)	1073812483
+Motor #3 ( Left Rear ) Derated By Master Converter Temperature (L-2350)	1073812484
+Motor #3 ( Left Rear ) Derated By Motor Temperature (L-2350)	1073812485
+Motor #3 ( Left Rear ) Derated By Slave Converter Temperature (L-2350)	1073812486
+Motor #3 ( Left Rear ) Master Blown Fuse (L-2350)	1073812487
+Motor #3 ( Left Rear ) Master Converter Critical Over Temperature (L-2350)	1073812488
+Motor #3 ( Left Rear ) Master Data Link Missing (L-2350)	1073812489
+Motor #3 ( Left Rear ) Slave Blown Fuse (L-2350)	1073812490
+Motor #3 ( Left Rear ) Slave Converter Critical Over Temperature (L-2350)	1073812491
+Motor #4 ( Right Rear ) Critical Over Temperature (L-2350)	1073812492
+Motor #4 ( Right Rear ) Derated By Master Converter Temperature (L-2350)	1073812493
+Motor #4 ( Right Rear ) Derated By Motor Temperature (L-2350)	1073812494
+Motor #4 ( Right Rear ) Derated By Slave Converter Temperature (L-2350)	1073812495
+Motor #4 ( Right Rear ) Master Blown Fuse (L-2350)	1073812496
+Motor #4 ( Right Rear ) Master Converter Critical Over Temperature (L-2350)	1073812497
+Motor #4 ( Right Rear ) Master Data Link Missing (L-2350)	1073812498
+Motor #4 ( Right Rear ) Slave Blown Fuse (L-2350)	1073812499
+Motor #4 ( Right Rear ) Slave Converter Critical Over Temperature (L-2350)	1073812500
+Motors Derated By Generator Master Converter Temperature (L-2350)	1073812501
+Motors Derated By Generator Slave #1 Converter Temperature (L-2350)	1073812502
+Motors Derated By Generator Slave #2 Converter Temperature (L-2350)	1073812503
+Motors Derated By Generator Slave #3 Converter Temperature (L-2350)	1073812504
+Motors Derated By Generator Temperature (L-2350)	1073812505
+Radiator Fan Over Speed (L-2350)	1073812506
+Radiator Fan Pump Pressure Sensor Or Cable Fail High (L-2350)	1073812507
+Radiator Fan Pump Pressure Sensor Or Cable Fail Low (L-2350)	1073812508
+Radiator Fan Speed Low (L-2350)	1073812509
+Rear Driver Lubrication Flow Low (L-2350)	1073812510
+Rear Park Brakes / System Air Pressure Discrepancy (L-2350)	1073812511
+Rear Park Brakes Pressure Sensor Or Cable Fail High (L-2350)	1073812512
+Rear Park Brakes Pressure Sensor Or Cable Fail Low (L-2350)	1073812513
+Rear Park Brakes Stuck (L-2350)	1073812514
+Rear Service Brakes Pressure High (L-2350)	1073812515
+Rear Service Brakes Pressure Sensor Or Cable Fail High (L-2350)	1073812516
+Rear Service Brakes Pressure Sensor Or Cable Fail Low (L-2350)	1073812517
+Right Front Motor Drive Fault (L-2350)	1073812518
+Right Joystick Data Link Missing (L-2350)	1073812519
+Right Joystick Dump Stick Sensor Fault (L-2350)	1073812520
+Right Joystick Dump Wheel Sensor Fault (L-2350)	1073812521
+Right Joystick Lower Hoist Sensor Fault (L-2350)	1073812522
+Right Joystick Raise Hoist Sensor Fault (L-2350)	1073812523
+Right Joystick Rollback Stick Sensor Fault (L-2350)	1073812524
+Right Joystick Rollback Wheel Sensor Fault (L-2350)	1073812525
+Right Rear Motor Drive Fault (L-2350)	1073812526
+Speed Control Pedal Sensor Or Cable Fail High (L-2350)	1073812527
+Speed Control Pedal Sensor Or Cable Fail Low (L-2350)	1073812528
+Speed Control Pedal Supply High (L-2350)	1073812529
+Speed Control Pedal Supply Low (L-2350)	1073812530
+Steer Position Sensor Or Cable Fail High (L-2350)	1073812531
+Steer Position Sensor Or Cable Fail Low (L-2350)	1073812532
+System Air Leak Detected (L-2350)	1073812533
+System Air Pressure Low (L-2350)	1073812534
+System Air Pressure Sensor Or Cable Fail High (L-2350)	1073812535
+System Air Pressure Sensor Or Cable Fail Low (L-2350)	1073812536
+Vehicle Control Unit Over Temperature (L-2350)	1073812537
+Vehicle Overspeed - Apply Service Brakes (L-2350)	1073812538
+Accessory Pump Pressure High (L-2350)	1073812539
+Accessory Pump Pressure Low (L-2350)	1073812540
+Ambient Temperature Sensor Or Cable Fail High (L-2350)	1073812541
+Ambient Temperature Sensor Or Cable Fail Low (L-2350)	1073812542
+Battery Voltage High (L-2350)	1073812543
+Blower Pump Pressure High (L-2350)	1073812544
+Blower Pump Pressure Low (L-2350)	1073812545
+Blower Pump Pressure Sensor Or Cable Fail High (L-2350)	1073812546
+Blower Pump Pressure Sensor Or Cable Fail Low (L-2350)	1073812547
+Blower Speed Low (L-2350)	1073812548
+Bucket Cylinder Bypassing (L-2350)	1073812549
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail High (L-2350)	1073812550
+Bucket Cylinder Rod Pressure Sensor Or Cable Fail Low (L-2350)	1073812551
+Bucket Dump Pilot Pressure High (L-2350)	1073812552
+Bucket Dump Pilot Pressure Low (L-2350)	1073812553
+Bucket Rollback Pilot Pressure High (L-2350)	1073812554
+Bucket Rollback Pilot Pressure Low (L-2350)	1073812555
+Drive Cooling Pump #1 In Cutback (L-2350)	1073812556
+Drive Cooling Pump #2 In Cutback (L-2350)	1073812557
+Drive Cooling Pump #3 In Cutback (L-2350)	1073812558
+Engine Blue Lamp Active (L-2350)	1073812559
+Fast Hoist Pump Pressure High (L-2350)	1073812560
+Fast Hoist Pump Pressure Low (L-2350)	1073812561
+Fast Hoist Pump Pressure Sensor Or Cable Fail High (L-2350)	1073812562
+Fast Hoist Pump Pressure Sensor Or Cable Fail Low (L-2350)	1073812563
+Front Driver Lubrication Flow Switch Fault (L-2350)	1073812564
+Generator Slave1 Data Link Missing (L-2350)	1073812565
+Generator Slave2 Data Link Missing (L-2350)	1073812566
+Generator Slave3 Data Link Missing (L-2350)	1073812567
+Greatest Pilot Command Present With No Hydraulic Commands (L-2350)	1073812568
+Greatest Pilot Command Pressure Sensor Or Cable Fail High (L-2350)	1073812569
+Greatest Pilot Command Pressure Sensor Or Cable Fail Low (L-2350)	1073812570
+Hoist / Bucket Pump A Pressure High (L-2350)	1073812571
+Hoist / Bucket Pump A Pressure Low (L-2350)	1073812572
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail High (L-2350)	1073812573
+Hoist / Bucket Pump A Pressure Sensor Or Cable Fail Low (L-2350)	1073812574
+Hoist / Bucket Pump B Pressure High (L-2350)	1073812575
+Hoist / Bucket Pump B Pressure Low (L-2350)	1073812576
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail High (L-2350)	1073812577
+Hoist / Bucket Pump B Pressure Sensor Or Cable Fail Low (L-2350)	1073812578
+Hoist / Bucket Pump C Pressure High (L-2350)	1073812579
+Hoist / Bucket Pump C Pressure Low (L-2350)	1073812580
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail High (L-2350)	1073812581
+Hoist / Bucket Pump C Pressure Sensor Or Cable Fail Low (L-2350)	1073812582
+Hoist Cylinder Bypassing (L-2350)	1073812583
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail High (L-2350)	1073812584
+Hoist Cylinder Rod Pressure Sensor Or Cable Fail Low  (L-2350)	1073812585
+Hoist Lower Pilot Pressure High (L-2350)	1073812586
+Hoist Lower Pilot Pressure Low (L-2350)	1073812587
+Hoist Raise Pilot Pressure High (L-2350)	1073812588
+Hoist Raise Pilot Pressure Low (L-2350)	1073812589
+Hpd Gearbox Pressure High (L-2350)	1073812590
+Hydraulic Reservoir Air Pressure High (L-2350)	1073812591
+Klenz Filter Restriction Low (L-2350)	1073812592
+Klenz Reservoir Air Pressure High (L-2350)	1073812593
+Klenz Solenoid #1 Misfire (L-2350)	1073812594
+Klenz Solenoid #2 Misfire (L-2350)	1073812595
+Klenz Solenoid #3 Misfire (L-2350)	1073812596
+Klenz Solenoid #4 Misfire (L-2350)	1073812597
+Klenz Solenoid #5 Misfire (L-2350)	1073812598
+Klenz Solenoid #6 Misfire (L-2350)	1073812599
+Klenz Solenoid #7 Misfire (L-2350)	1073812600
+Motor #1 ( Left Front ) Slave Data Link Missing (L-2350)	1073812601
+Motor #2 ( Right Front ) Slave Data Link Missing (L-2350)	1073812602
+Motor #3 ( Left Rear ) Slave Data Link Missing (L-2350)	1073812603
+Motor #4 ( Right Rear ) Slave Data Link Missing (L-2350)	1073812604
+Pilot Supply Pressure High (L-2350)	1073812605
+Pilot Supply Pressure Low (L-2350)	1073812606
+Pilot Supply Pressure Sensor Or Cable Fail High (L-2350)	1073812607
+Pilot Supply Pressure Sensor Or Cable Fail Low (L-2350)	1073812608
+Radiator Fan Pump Pressure High (L-2350)	1073812609
+Radiator Fan Pump Pressure Low (L-2350)	1073812610
+Rear Driver Lubrication Flow Switch Fault (L-2350)	1073812611
+Steer Pump A Pressure High (L-2350)	1073812612
+Steer Pump A Pressure Sensor Or Cable Fail High (L-2350)	1073812613
+Steer Pump A Pressure Sensor Or Cable Fail Low (L-2350)	1073812614
+Steer Pump B Pressure High (L-2350)	1073812615
+Steer Pump B Pressure Sensor Or Cable Fail High (L-2350)	1073812616
+Steer Pump B Pressure Sensor Or Cable Fail Low (L-2350)	1073812617
+Bucket Limits Bypassed (L-2350)	1073812618
+Bucket Limits Bypassed By User (L-2350)	1073812619
+Hoist & Bucket Limits Bypassed (L-2350)	1073812620
+Hoist And Bucket Limits Bypassed By User (L-2350)	1073812621
+Steering Limits Bypassed (L-2350)	1073812622
+Steering Limits Bypassed By User (L-2350)	1073812623
+Cannot Calibrate Because: Hydraulic Reservoir Oil Temperature Above 145 F (L-2350)	1073812624
+Engine Not Responding To Throttle Command (L-2350)	1073812625
+Battery Voltage > 19V (L-2350)	1073812626
+Bucket Angle At Or Above Level (L-2350)	1073812627
+Bucket Critical Overload: Dump Some Load And Reweigh (L-2350)	1073812628
+Channel Forced (L-2350)	1073812629
+Engine At High Throttle (L-2350)	1073812630
+Engine At High Throttle For 3Min (L-2350)	1073812631
+Engine At Low Throttle For 5Min (L-2350)	1073812632
+Engine At Medium Throttle For 3Min (L-2350)	1073812633
+High Voltage Cabinet Door Open (L-2350)	1073812634
+Hoist And Bucket Calibrations Required (L-2350)	1073812635
+Hydraulic Reservoir Oil Temperature Above 145 F (L-2350)	1073812636
+Hydraulic Reservoir Oil Temperature Above 165 F (L-2350)	1073812637
+Ladder Down (L-2350)	1073812638
+Lift Arms Too High (L-2350)	1073812639
+Load Weigh Calibration Required (L-2350)	1073812640
+Park Brakes Not Released (L-2350)	1073812641
+Red Alarm(S) Active (L-2350)	1073812642
+Reduce Maximum Dump Pressure  (L-2350)	1073812643
+Speed Pedal Calibration Required (L-2350)	1073812644
+Steering Calibration Required (L-2350)	1073812645
+Vehicle Speed Too High (L-2350)	1073812646
+Vehicle Speed Too Low (L-2350)	1073812647
+Dump Stick Limited By End Of Travel (L-2350)	1073812648
+Dump Wheel Limited By End Of Travel (L-2350)	1073812649
+Left Steer Limited By End Of Travel (L-2350)	1073812650
+Lower Hoist Limited By End Of Travel (L-2350)	1073812651
+Raise Hoist Limited By End Of Travel (L-2350)	1073812652
+Right Steer Limited By End Of Travel (L-2350)	1073812653
+Rollback Stick Limited By End Of Travel (L-2350)	1073812654
+Rollback Wheel Limited By End Of Travel (L-2350)	1073812655
+Bucket Load Weight (L-2350)	1073812656
+Truck Load Weight (L-2350)	1073812657

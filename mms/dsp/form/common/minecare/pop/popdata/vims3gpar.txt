@@ -1,0 +1,2675 @@
+1090584577	Atmospheric Pressure (793F)	65535	0	9
+1090584578	Service Brake Accumulator Pressure (793F)	65535	0	9
+1090584579	Brake Pump Pressure (793F)	65535	0	9
+1090584580	Steering Pump Oil Pressure (793F)	65535	0	9
+1090584581	Transmission Oil Level Status (793F)	65535	0	0
+1090584582	Turbocharger #1 Compressor Inlet Pressure (Absolute) (793F)	65535	0	9
+1090584583	Turbocharger #2 Compressor Inlet Pressure (Absolute) (793F)	65535	0	9
+1090584584	Turbocharger #3 Compressor Inlet Pressure (Absolute) (793F)	65535	0	9
+1090584585	Turbocharger #4 Compressor Inlet Pressure (Absolute) (793F)	65535	0	9
+1090584586	Fuel/ Water Separator Level Status (793F)	65535	0	0
+1090584587	Shutdown Switch (793F)	65535	0	0
+1090584588	Intake Manifold #2 Air Temperature (793F)	65535	0	5
+1090584589	Access Ladder Position Status (793F)	65535	0	0
+1090584590	Auto Lube Relay Status (793F)	65535	0	0
+1090584591	Hydraulic Hoist Screen Filter Bypass Status (793F)	65535	0	0
+1090584592	Right Rear To Left Rear Brake Differential Temperature (793F)	65535	0	0
+1090584593	Oil Filter Differential Pressure (793F)	65535	0	9
+1090584594	Engine Fan Speed (793F)	65535	0	28
+1090584595	Body Position Angle (793F)	65535	0	4
+1090584596	Body Up (793F)	65535	0	0
+1090584597	Auto Lube Pressure (793F)	65535	0	9
+1090584598	Right Front To Left Front Brake Differential Temperature (793F)	65535	0	5
+1090584599	Maximum Frame Rack Sample Value (793F)	65535	0	9
+1090584600	Ambient Air Temperature (793F)	65535	0	5
+1090584601	Hoist Lever Position (793F)	65535	0	0
+1090584602	Hoist Output (793F)	65535	0	0
+1090584603	Air Filter #3 Restriction (793F)	65535	0	9
+1090584604	Air Filter #4 Restriction (793F)	65535	0	9
+1090584605	Engine Oil Pressure (Absolute) (793F)	65535	0	9
+1090584606	Engine Coolant Pump Outlet Pressure (Absolute) (793F)	65535	0	9
+1090584607	Cab Ventilation Duct Air Temperature (793F)	65535	0	5
+1090584608	Left Rear Parking Brake Oil Pressure (793F)	65535	0	9
+1090584609	Right Rear Parking Brake Oil Pressure (793F)	65535	0	9
+1090584610	Truck Payload (793F)	65535	0	19
+1090584611	Left Front Strut Pressure (793F)	65535	0	9
+1090584612	Torq Conv Filter Status (793F)	65535	0	0
+1090584613	Torque Converter Screen Filter Status (793F)	65535	0	0
+1090584614	Differential (Axle) Lube Pressure (793F)	65535	0	9
+1090584615	Transmission Lockout Status (793F)	65535	0	0
+1090584616	Transmission Output Speed (793F)	65535	0	28
+1090584617	Trans Charge Oil Filter (793F)	65535	0	0
+1090584618	Service Brake (793F)	65535	0	0
+1090584619	Brake Cooling Pump Speed (793F)	65535	0	28
+1090584620	Steering Accumulator Oil Pressure (793F)	65535	0	9
+1090584621	Retarder Lever Position (793F)	65535	0	25
+1090584622	Left Rear Axle Rpm (793F)	65535	0	28
+1090584623	Right Rear Axle Rpm (793F)	65535	0	28
+1090584624	Right Rear To Right Front Brake Differential Temperature (793F)	65535	0	5
+1090584625	Coolant Level (793F)	65535	0	0
+1090584626	Left Rear To Left Front Brake Differential Temperature (793F)	65535	0	5
+1090584627	Steering Fluid Temperature (793F)	65535	0	5
+1090584628	Steering Oil Level (793F)	65535	0	0
+1090584629	Parking Brake (793F)	65535	0	0
+1090584630	Left Front Brake Oil Temperature (793F)	65535	0	5
+1090584631	Left Rear Brake Oil Temperature (793F)	65535	0	5
+1090584632	Right Front Brake Oil Temperature (793F)	65535	0	5
+1090584633	Right Rear Brake Oil Temperature (793F)	65535	0	5
+1090584634	Starter Lockout Status (793F)	65535	0	0
+1090584635	Brake Pump Unloader Solenoid Status (793F)	65535	0	0
+1090584636	Brake Filter Bypass Status (793F)	65535	0	0
+1090584637	Desired Brake Cooling Pump Speed (793F)	65535	0	28
+1090584638	Cold Mode (793F)	65535	0	0
+1090584639	Altitude Derate (793F)	65535	0	0
+1090584640	Engine Derate (793F)	65535	0	0
+1090584641	Injection Disabled (793F)	65535	0	0
+1090584642	Low Oil Pressure (793F)	65535	0	0
+1090584643	Right To Left Exhaust Differential Temperature (793F)	65535	0	5
+1090584644	Left Exhaust Temperature (793F)	65535	0	5
+1090584645	Right Exhaust Temperature (793F)	65535	0	5
+1090584646	Engine Power Derate (793F)	65535	0	25
+1090584647	Peak Air Filter Restriction (793F)	65535	0	9
+1090584648	Percent Engine Load At Current Engine Speed (793F)	65535	0	25
+1090584649	Fuel Filter (793F)	65535	0	0
+1090584650	Tank Fuel Level (793F)	65535	0	25
+1090584651	Fuel Consumption Rate (793F)	65535	0	13
+1090584652	Fuel Pressure (793F)	65535	0	9
+1090584653	Engine Oil Pressure (793F)	65535	0	9
+1090584654	Crankcase Pressure (793F)	65535	0	9
+1090584655	Engine Coolant Temperature (793F)	65535	0	5
+1090584656	System Voltage (793F)	65535	0	31
+1090584657	Engine Pre-Lube (793F)	65535	0	0
+1090584658	Intake Manifold Air Temperature (793F)	65535	0	5
+1090584659	Engine Oil Temperature (793F)	65535	0	5
+1090584660	Differential Filter Bypass Status (793F)	65535	0	0
+1090584661	Differential Oil Temperature (793F)	65535	0	5
+1090584662	Transmission Oil Temperature (793F)	65535	0	5
+1090584663	Engine Speed (793F)	65535	0	28
+1090584664	Right Front To Left Front Strut Differential Pressure (793F)	65535	0	9
+1090584665	Desired Engine Fan Speed (793F)	65535	0	28
+1090584666	Desired Retarding Engine Speed (793F)	65535	0	28
+1090584667	Final Drive Oil Bypass Solenoid Status (793F)	65535	0	0
+1090584668	Rear Axle Pump Drive Oil Divert Solenoid Status (793F)	65535	0	0
+1090584669	Parking Brake Lock Status (793F)	65535	0	0
+1090584670	Auto Retarder Mode (793F)	65535	0	0
+1090584671	Secondary Brake Accumulator Pressure (793F)	65535	0	9
+1090584672	Throttle Position (793F)	65535	0	25
+1090584673	Hydraulic Case Drain Filter Bypass Status (793F)	65535	0	0
+1090584674	Throttle Lock Mode (793F)	65535	0	0
+1090584675	Shift Lever Position (793F)	65535	0	0
+1090584676	Alternator Status (793F)	65535	0	0
+1090584677	Secondary Brake Pedal Position (793F)	65535	0	25
+1090584678	Engine Oil Level (793F)	65535	0	0
+1090584679	Transmission Input Speed (793F)	65535	0	28
+1090584680	Transmission Output Speed #1 (793F)	65535	0	28
+1090584681	Transmission Output Speed #2 (793F)	65535	0	28
+1090584682	Machine System Air Pressure (793F)	65535	0	9
+1090584683	Torque Converter Outlet Temperature (793F)	65535	0	5
+1090584684	Desired Engine Speed (793F)	65535	0	28
+1090584685	Brake Cooling Pump Installation Status (793F)	65535	0	0
+1090584686	Right Front Strut Pressure (793F)	65535	0	9
+1090584687	Machine Speed Limit (793F)	65535	0	11
+1090584688	Right Brake Cooling Filter Status (793F)	65535	0	0
+1090584689	User Shutdown (793F)	65535	0	0
+1090584690	Truck Payload Cycle Fela (793F)	65535	0	0
+1090584691	OHT Truck Payload State (793F)	65535	0	0
+1090584692	Machine Front Tire Weight-Speed (793F)	65535	0	0
+1090584693	Actual Gear (793F)	65535	0	0
+1090584694	Machine Rear Tire Weight-Speed (793F)	65535	0	0
+1090584695	Ground Speed (793F)	105468.35904	0	11
+1090584696	Peak Frame Bias (793F)	65535	0	9
+1090584697	Maximum Frame Pitch Sample Value (793F)	65535	0	9
+1090584698	Fuel Transfer Pump Intake Pressure (Absolute) (793F)	65535	0	9
+1090584699	Truck Payload Cycle Frame Pitch FELA (793F)	65535	0	0
+1090584700	Truck Payload Cycle Frame Rack FELA (793F)	65535	0	0
+1090584701	Air Filter #2 Restriction (793F)	65535	0	9
+1090584702	Air Filter #1 Restriction (793F)	65535	0	9
+1090584703	Intake Manifold #2 Pressure (793F)	65535	0	9
+1090584704	Left Rear Strut Pressure (793F)	65535	0	9
+1090584705	Right Rear To Left Rear Strut Differential Pressure (793F)	65535	0	9
+1090584706	Right Rear Strut Pressure (793F)	65535	0	9
+1090584707	Intake Manifold Pressure (793F)	65535	0	9
+1090584708	Percent Fuel Position (793F)	65535	0	25
+1090584709	Engine Coolant Pump Outlet Temperature (793F)	65535	0	5
+1090584710	Fuel Actuator Position Command (793F)	65535	0	25
+1090584711	Fuel Rail Pressure (793F)	65535	0	9
+1090584712	Desired Fuel Rail Pressure (793F)	65535	0	9
+1090584713	Fuel Rail Temperature (793F)	65535	0	5
+1090584714	Fuel Temperature (793F)	65535	0	5
+1090584715	Fuel Filter Differential Pressure (793F)	65535	0	9
+1090584716	Loading Time (793F)	0	0	29
+1090584717	Stop Empty Time (793F)	0	0	29
+1090584718	Travel Empty Time (793F)	0	0	29
+1090584719	Travel Empty Distance (793F)	0	0	8
+1090584720	Stopped Load Time (793F)	0	0	29
+1090584721	Travel Loaded Time (793F)	0	0	29
+1090584722	Haul Distance (793F)	0	0	8
+1090584723	Dippers (793F)	0	0	0
+1090584724	Fuel Used (793F)	0	0	14
+1090584725	Payload (793F)	0	0	19
+1090584726	Engine Hours (793F)	1193046.47083333	0	7
+1090584727	Left Front Tire Pressure (793F)	65535	0	9
+1090584728	Left Front Tire Temperature (793F)	65535	0	5
+1090584729	Right Front Tire Pressure (793F)	65535	0	9
+1090584730	Right Front Tire Temperature (793F)	65535	0	5
+1090584731	Left Rear Outer Tire Pressure (793F)	65535	0	9
+1090584732	Left Rear Outer Tire Temperature (793F)	65535	0	5
+1090584733	Left Rear Inner Tire Pressure (793F)	65535	0	9
+1090584734	Left Rear Inner Tire Temperature (793F)	65535	0	5
+1090584735	Right Rear Inner Tire Pressure (793F)	65535	0	9
+1090584736	Right Rear Inner Tire Temperature (793F)	65535	0	5
+1090584737	Right Rear Outer Tire Pressure (793F)	65535	0	9
+1090584738	Right Rear Outer Tire Temperature (793F)	65535	0	5
+1090584739	Right Front Tire Temperature Compensated Pressure (793F)	65535	0	9
+1090584740	Left Front Tire Temperature Compensated Pressure (793F)	65535	0	9
+1090584741	Right Rear Inner Tire Temperature Compensated Pressure (793F)	65535	0	9
+1090584742	Left Rear Inner Tire Temperature Compensated Pressure (793F)	65535	0	9
+1090584743	Right Rear Outer Tire Temperature Compensated Pressure (793F)	65535	0	9
+1090584744	Left Rear Outer Tire Temperature Compensated Pressure (793F)	65535	0	9
+1090584745	Payload Cycle Traveling Loaded Distance (793F)	65535	0	8
+1090584746	Elevated Idle (793F)	65535	0	0
+1090584747	Cold Cylinder Cutout (793F)	65535	0	0
+1090584748	E-Stop Shutdown (793F)	65535	0	0
+1090584749	Idle Cutout Active (793F)	65535	0	0
+1090584750	Transmission Main Relief Valve Actual Pressure (793F)	65535	0	9
+1090584751	Anti-Rollback Status (793F)	65535	0	0
+1090585577	Desired Engine Speed (D8T)	65535	0	28
+1090585578	Dig Tigger Mode (D8T)	65535	0	0
+1090585579	Quickshift Switch (D8T)	65535	0	0
+1090585580	Lift Cylinder Extension (Absolute) (D8T)	65535	0	21
+1090585581	Lift Cylinder Head End Pressure (D8T)	65535	0	9
+1090585582	Lift Lever Position (D8T)	65535	0	25
+1090585583	Lift Linkage Angle (D8T)	65535	0	4
+1090585584	Loader Bucket Angle (D8T)	65535	0	4
+1090585585	Lockup Clutch Current Percentage (D8T)	65535	0	25
+1090585586	Parking Brake (D8T)	65535	0	0
+1090585587	Parking Brake Pressure Switch (D8T)	65535	0	0
+1090585588	Reduced Rimpull (D8T)	65535	0	0
+1090585589	Ride Control System Status (D8T)	65535	0	0
+1090585590	Ride Control Switch (D8T)	65535	0	0
+1090585591	Brake Pedal (D8T)	65535	0	0
+1090585592	Side Rear View Mirrors Heater Status (D8T)	65535	0	0
+1090585593	Side Rear View Mirrors Heater Switch Status (D8T)	65535	0	0
+1090585594	Starter Relay (D8T)	65535	0	0
+1090585595	Steering Pump Oil Pressure (D8T)	65535	0	9
+1090585596	Steering/Trans Lock Switch (D8T)	65535	0	0
+1090585597	Tilt Cylinder Extension (Absolute) (D8T)	65535	0	21
+1090585598	Tilt Lever Position (D8T)	65535	0	25
+1090585599	Torque Converter Pedal Position (D8T)	65535	0	25
+1090585600	Transmission Input Speed (D8T)	65535	0	28
+1090585601	Transmission Lockout Status (D8T)	65535	0	0
+1090585602	Transmission Lockout Switch (D8T)	65535	0	0
+1090585603	Transmission Output Speed (D8T)	65535	0	28
+1090585604	Transmission Requested Engine Speed Limit (D8T)	65535	0	28
+1090585605	Transmission Solenoid 1 Current Percentage (D8T)	65535	0	25
+1090585606	Transmission Solenoid 2 Current Percentage (D8T)	65535	0	25
+1090585607	Transmission Solenoid 3 Current Percentage (D8T)	65535	0	25
+1090585608	Transmission Solenoid 4 Current Percentage (D8T)	65535	0	25
+1090585609	Transmission Solenoid 5 Current Percentage (D8T)	65535	0	25
+1090585610	Upshift Switch (D8T)	65535	0	0
+1090585611	Axle Oil Cooler Bypass Solenoid Status (D8T)	65535	0	0
+1090585612	Battery Voltage (D8T)	65535	0	31
+1090585613	Raise Kickout Switch Position (D8T)	65535	0	0
+1090585614	Raise Solenoid #1 Current Command (D8T)	65535	0	2
+1090585615	Reduced Rimpull Selection Switch (D8T)	65535	0	0
+1090585616	Requested Engine Retarder Status (D8T)	65535	0	0
+1090585617	Side Rear View Mirrors Remaining Heat Time (D8T)	65535	0	29
+1090585618	Turbocharger #1 Compressor Inlet Pressure (Absolute) (D8T)	65535	0	9
+1090585619	Dump Solenoid #1 Current Command (D8T)	65535	0	2
+1090585620	Operatin Time Until Next Auto Lube Automatic Cycle (D8T)	3932100	0	29
+1090585621	Operator Requested Cab Air Temperature (D8T)	65535	0	5
+1090585622	Parking Brake Switch (D8T)	65535	0	0
+1090585623	Throttle Lock Mode (D8T)	65535	0	0
+1090585624	Throttle Lock Enable Switch Position (D8T)	65535	0	0
+1090585625	Throttle Res/Accel Switch (D8T)	65535	0	0
+1090585626	Fuel Consumption Rate (D8T)	65535	0	13
+1090585627	Front Axle Oil Temperature (D8T)	65535	0	5
+1090585628	Fuel Pressure (D8T)	65535	0	9
+1090585629	Engine Warmup Elevated Idle Feature Status (D8T)	65535	0	0
+1090585630	Payload Operating Mode (D8T)	65535	0	0
+1090585631	Peak Air Filter Restriction (D8T)	65535	0	9
+1090585632	Rackback Solenoid #1 Current Command (D8T)	65535	0	2
+1090585633	Throttle Set/Decel Switch (D8T)	65535	0	0
+1090585634	Titl Kickout Set Switch Position (D8T)	65535	0	0
+1090585635	Dpf #1 Soot Loading Percent (D8T)	65535	0	25
+1090585636	Lower Solenoid #1 Current Command (D8T)	65535	0	2
+1090585637	Lower Kickout Switch Position (D8T)	65535	0	0
+1090585638	Low System Battery Voltage Elevated Idle Status (D8T)	65535	0	0
+1090585639	Lockup Clutch Enable Switch (D8T)	65535	0	0
+1090585640	Lift Cylinder Rod End Pressure (D8T)	65535	0	9
+1090585641	Engine Idle Shutdown Status (D8T)	65535	0	0
+1090585642	Engine Idle Shutdown Remaining Time (D8T)	65535	0	29
+1090585643	Engine Coolant Add Level Switch Status (D8T)	65535	0	0
+1090585644	Engine Charge Air Cooler #1 Outlet Temperature (D8T)	65535	0	5
+1090585645	Egr Valve Control Command (D8T)	65535	0	25
+1090585646	Egr Intake Pressure (Absolute) (D8T)	65535	0	9
+1090585647	Delayed Engine Shutdown Status (D8T)	65535	0	0
+1090585648	Cab Blower Speed Control Position (D8T)	65535	0	25
+1090585649	Cab Air Temperature Control Switch Position (D8T)	65535	0	0
+1090585650	Engine Fan Bypass (D8T)	65535	0	25
+1090585651	Engine Retarder Selector Switch Position (D8T)	65535	0	0
+1090585652	Engine Retarder Status (D8T)	65535	0	0
+1090585653	Ether Injection (D8T)	65535	0	0
+1090585654	Air Inlet Temperature (D8T)	65535	0	5
+1090585655	Atmospheric Pressure (D8T)	65535	0	9
+1090585656	Auto Lube (D8T)	65535	0	0
+1090585657	Auto Lube Grease Level Percent (D8T)	65535	0	25
+1090585658	Auto Lube Pressure (D8T)	65535	0	9
+1090585659	Auto Lube Pump Outlet Pressure (D8T)	65535	0	9
+1090585660	Operator Manual Lube Switch (D8T)	65535	0	0
+1090585661	Backup Alarm (D8T)	65535	0	0
+1090585662	Fuel Gauge (D8T)	65535	0	25
+1090585663	Brake Accumulator Pressure (D8T)	65535	0	9
+1090585664	Cab Airt Temperature (D8T)	65535	0	5
+1090585665	Controlled Rimpull Percentage (D8T)	65535	0	25
+1090585666	Weigh Cycle Total Truck Payload (D8T)	65535	0	18
+1090585667	Fan Return Filter Bypass Status (D8T)	65535	0	0
+1090585668	Shutdown Switch (D8T)	65535	0	0
+1090585669	Ignition Switch (D8T)	65535	0	0
+1090585670	Implement Lockout Switch Position (D8T)	65535	0	0
+1090585671	Implement Pilot Supply Solenoid (D8T)	65535	0	0
+1090585672	Primary Steering Pressure Status (D8T)	65535	0	0
+1090585673	Air Filter #1 Restriction (D8T)	65535	0	9
+1090585674	Ambient Air Temperature (D8T)	65535	0	5
+1090585675	Boost Pressure (D8T)	65535	0	9
+1090585676	Percent Engine Load At Current Engine Speed (D8T)	65535	0	25
+1090585677	Rear Axle Oil Temperature (D8T)	65535	0	5
+1090585678	Torque Converter Outlet Temperature (D8T)	65535	0	5
+1090585679	Torque Converter Speed Ratio (D8T)	65535	0	0
+1090585680	Powertrain Filter Bypass Status (D8T)	65535	0	0
+1090585681	Fuel Temperature (D8T)	65535	0	5
+1090585682	Ground Speed/Direction (D8T)	65535	0	11
+1090585683	Hydraulic Oil Temperature (D8T)	65535	0	5
+1090585684	Maxium Reverse Track Speed (D8T)	65535	0	11
+1090585685	Engine Power Derate (D8T)	65535	0	25
+1090585686	Throttle Position (D8T)	65535	0	25
+1090585687	Egr Temperature (D8T)	65535	0	5
+1090585688	Engine Speed (D8T)	65535	0	28
+1090585689	Engine Oil Pressure (D8T)	65535	0	9
+1090585690	Transmission Oil Temperature (D8T)	65535	0	5
+1090585691	Actual Gear (D8T)	65535	0	0
+1090585692	Engine Coolant Temperature (D8T)	65535	0	5
+1090585693	Impeller Clutch Pressure (D8T)	65535	0	9
+1090585694	Direction Switch Position (D8T)	65535	0	0
+1090585695	Bucket Payload (D8T)	65535	0	19
+1090585696	Payload Store Switch (D8T)	65535	0	0
+1090585697	Downshift Switch (D8T)	65535	0	0
+1090585698	Egr Differential Pressure (D8T)	65535	0	9
+1090585699	Loading Time (D8T)	0	0	29
+1090585700	Stop Empty Time (D8T)	0	0	29
+1090585701	Travel Empty Time (D8T)	0	0	29
+1090585702	Travel Empty Distance (D8T)	0	0	8
+1090585703	Stopped Load Time (D8T)	0	0	29
+1090585704	Travel Loaded Time (D8T)	0	0	29
+1090585705	Haul Distance (D8T)	0	0	8
+1090585706	Dippers (D8T)	0	0	0
+1090585707	Fuel Used (D8T)	0	0	14
+1090585708	Payload (D8T)	0	0	19
+1090585709	Engine Hours (D8T)	1193046.47083333	0	7
+1090586577	Desired Engine Speed (D9T)	65535	0	28
+1090586578	Dig Tigger Mode (D9T)	65535	0	0
+1090586579	Quickshift Switch (D9T)	65535	0	0
+1090586580	Lift Cylinder Extension (Absolute) (D9T)	65535	0	21
+1090586581	Lift Cylinder Head End Pressure (D9T)	65535	0	9
+1090586582	Lift Lever Position (D9T)	65535	0	25
+1090586583	Lift Linkage Angle (D9T)	65535	0	4
+1090586584	Loader Bucket Angle (D9T)	65535	0	4
+1090586585	Lockup Clutch Current Percentage (D9T)	65535	0	25
+1090586586	Parking Brake (D9T)	65535	0	0
+1090586587	Parking Brake Pressure Switch (D9T)	65535	0	0
+1090586588	Reduced Rimpull (D9T)	65535	0	0
+1090586589	Ride Control System Status (D9T)	65535	0	0
+1090586590	Ride Control Switch (D9T)	65535	0	0
+1090586591	Brake Pedal (D9T)	65535	0	0
+1090586592	Side Rear View Mirrors Heater Status (D9T)	65535	0	0
+1090586593	Side Rear View Mirrors Heater Switch Status (D9T)	65535	0	0
+1090586594	Starter Relay (D9T)	65535	0	0
+1090586595	Steering Pump Oil Pressure (D9T)	65535	0	9
+1090586596	Steering/Trans Lock Switch (D9T)	65535	0	0
+1090586597	Tilt Cylinder Extension (Absolute) (D9T)	65535	0	21
+1090586598	Tilt Lever Position (D9T)	65535	0	25
+1090586599	Torque Converter Pedal Position (D9T)	65535	0	25
+1090586600	Transmission Input Speed (D9T)	65535	0	28
+1090586601	Transmission Lockout Status (D9T)	65535	0	0
+1090586602	Transmission Lockout Switch (D9T)	65535	0	0
+1090586603	Transmission Output Speed (D9T)	65535	0	28
+1090586604	Transmission Requested Engine Speed Limit (D9T)	65535	0	28
+1090586605	Transmission Solenoid 1 Current Percentage (D9T)	65535	0	25
+1090586606	Transmission Solenoid 2 Current Percentage (D9T)	65535	0	25
+1090586607	Transmission Solenoid 3 Current Percentage (D9T)	65535	0	25
+1090586608	Transmission Solenoid 4 Current Percentage (D9T)	65535	0	25
+1090586609	Transmission Solenoid 5 Current Percentage (D9T)	65535	0	25
+1090586610	Upshift Switch (D9T)	65535	0	0
+1090586611	Axle Oil Cooler Bypass Solenoid Status (D9T)	65535	0	0
+1090586612	Battery Voltage (D9T)	65535	0	31
+1090586613	Raise Kickout Switch Position (D9T)	65535	0	0
+1090586614	Raise Solenoid #1 Current Command (D9T)	65535	0	2
+1090586615	Reduced Rimpull Selection Switch (D9T)	65535	0	0
+1090586616	Requested Engine Retarder Status (D9T)	65535	0	0
+1090586617	Side Rear View Mirrors Remaining Heat Time (D9T)	65535	0	29
+1090586618	Turbocharger #1 Compressor Inlet Pressure (Absolute) (D9T)	65535	0	9
+1090586619	Dump Solenoid #1 Current Command (D9T)	65535	0	2
+1090586620	Operatin Time Until Next Auto Lube Automatic Cycle (D9T)	3932100	0	29
+1090586621	Operator Requested Cab Air Temperature (D9T)	65535	0	5
+1090586622	Parking Brake Switch (D9T)	65535	0	0
+1090586623	Throttle Lock Mode (D9T)	65535	0	0
+1090586624	Throttle Lock Enable Switch Position (D9T)	65535	0	0
+1090586625	Throttle Res/Accel Switch (D9T)	65535	0	0
+1090586626	Fuel Consumption Rate (D9T)	65535	0	13
+1090586627	Front Axle Oil Temperature (D9T)	65535	0	5
+1090586628	Fuel Pressure (D9T)	65535	0	9
+1090586629	Engine Warmup Elevated Idle Feature Status (D9T)	65535	0	0
+1090586630	Payload Operating Mode (D9T)	65535	0	0
+1090586631	Peak Air Filter Restriction (D9T)	65535	0	9
+1090586632	Rackback Solenoid #1 Current Command (D9T)	65535	0	2
+1090586633	Throttle Set/Decel Switch (D9T)	65535	0	0
+1090586634	Titl Kickout Set Switch Position (D9T)	65535	0	0
+1090586635	Dpf #1 Soot Loading Percent (D9T)	65535	0	25
+1090586636	Lower Solenoid #1 Current Command (D9T)	65535	0	2
+1090586637	Lower Kickout Switch Position (D9T)	65535	0	0
+1090586638	Low System Battery Voltage Elevated Idle Status (D9T)	65535	0	0
+1090586639	Lockup Clutch Enable Switch (D9T)	65535	0	0
+1090586640	Lift Cylinder Rod End Pressure (D9T)	65535	0	9
+1090586641	Engine Idle Shutdown Status (D9T)	65535	0	0
+1090586642	Engine Idle Shutdown Remaining Time (D9T)	65535	0	29
+1090586643	Engine Coolant Add Level Switch Status (D9T)	65535	0	0
+1090586644	Engine Charge Air Cooler #1 Outlet Temperature (D9T)	65535	0	5
+1090586645	Egr Valve Control Command (D9T)	65535	0	25
+1090586646	Egr Intake Pressure (Absolute) (D9T)	65535	0	9
+1090586647	Delayed Engine Shutdown Status (D9T)	65535	0	0
+1090586648	Cab Blower Speed Control Position (D9T)	65535	0	25
+1090586649	Cab Air Temperature Control Switch Position (D9T)	65535	0	0
+1090586650	Engine Fan Bypass (D9T)	65535	0	25
+1090586651	Engine Retarder Selector Switch Position (D9T)	65535	0	0
+1090586652	Engine Retarder Status (D9T)	65535	0	0
+1090586653	Ether Injection (D9T)	65535	0	0
+1090586654	Air Inlet Temperature (D9T)	65535	0	5
+1090586655	Atmospheric Pressure (D9T)	65535	0	9
+1090586656	Auto Lube (D9T)	65535	0	0
+1090586657	Auto Lube Grease Level Percent (D9T)	65535	0	25
+1090586658	Auto Lube Pressure (D9T)	65535	0	9
+1090586659	Auto Lube Pump Outlet Pressure (D9T)	65535	0	9
+1090586660	Operator Manual Lube Switch (D9T)	65535	0	0
+1090586661	Backup Alarm (D9T)	65535	0	0
+1090586662	Fuel Gauge (D9T)	65535	0	25
+1090586663	Brake Accumulator Pressure (D9T)	65535	0	9
+1090586664	Cab Airt Temperature (D9T)	65535	0	5
+1090586665	Controlled Rimpull Percentage (D9T)	65535	0	25
+1090586666	Weigh Cycle Total Truck Payload (D9T)	65535	0	18
+1090586667	Fan Return Filter Bypass Status (D9T)	65535	0	0
+1090586668	Shutdown Switch (D9T)	65535	0	0
+1090586669	Ignition Switch (D9T)	65535	0	0
+1090586670	Implement Lockout Switch Position (D9T)	65535	0	0
+1090586671	Implement Pilot Supply Solenoid (D9T)	65535	0	0
+1090586672	Primary Steering Pressure Status (D9T)	65535	0	0
+1090586673	Air Filter #1 Restriction (D9T)	65535	0	9
+1090586674	Ambient Air Temperature (D9T)	65535	0	5
+1090586675	Boost Pressure (D9T)	65535	0	9
+1090586676	Percent Engine Load At Current Engine Speed (D9T)	65535	0	25
+1090586677	Rear Axle Oil Temperature (D9T)	65535	0	5
+1090586678	Torque Converter Outlet Temperature (D9T)	65535	0	5
+1090586679	Torque Converter Speed Ratio (D9T)	65535	0	0
+1090586680	Powertrain Filter Bypass Status (D9T)	65535	0	0
+1090586681	Fuel Temperature (D9T)	65535	0	5
+1090586682	Ground Speed/Direction (D9T)	65535	0	11
+1090586683	Hydraulic Oil Temperature (D9T)	65535	0	5
+1090586684	Maxium Reverse Track Speed (D9T)	65535	0	11
+1090586685	Engine Power Derate (D9T)	65535	0	25
+1090586686	Throttle Position (D9T)	65535	0	25
+1090586687	Egr Temperature (D9T)	65535	0	5
+1090586688	Engine Speed (D9T)	65535	0	28
+1090586689	Engine Oil Pressure (D9T)	65535	0	9
+1090586690	Transmission Oil Temperature (D9T)	65535	0	5
+1090586691	Actual Gear (D9T)	65535	0	0
+1090586692	Engine Coolant Temperature (D9T)	65535	0	5
+1090586693	Impeller Clutch Pressure (D9T)	65535	0	9
+1090586694	Direction Switch Position (D9T)	65535	0	0
+1090586695	Bucket Payload (D9T)	65535	0	19
+1090586696	Payload Store Switch (D9T)	65535	0	0
+1090586697	Downshift Switch (D9T)	65535	0	0
+1090586698	Egr Differential Pressure (D9T)	65535	0	9
+1090586699	Loading Time (D9T)	0	0	29
+1090586700	Stop Empty Time (D9T)	0	0	29
+1090586701	Travel Empty Time (D9T)	0	0	29
+1090586702	Travel Empty Distance (D9T)	0	0	8
+1090586703	Stopped Load Time (D9T)	0	0	29
+1090586704	Travel Loaded Time (D9T)	0	0	29
+1090586705	Haul Distance (D9T)	0	0	8
+1090586706	Dippers (D9T)	0	0	0
+1090586707	Fuel Used (D9T)	0	0	14
+1090586708	Payload (D9T)	0	0	19
+1090586709	Engine Hours (D9T)	1193046.47083333	0	7
+1090587577	Desired Engine Speed (D11T)	65535	0	28
+1090587578	Dig Tigger Mode (D11T)	65535	0	0
+1090587579	Quickshift Switch (D11T)	65535	0	0
+1090587580	Lift Cylinder Extension (Absolute) (D11T)	65535	0	21
+1090587581	Lift Cylinder Head End Pressure (D11T)	65535	0	9
+1090587582	Lift Lever Position (D11T)	65535	0	25
+1090587583	Lift Linkage Angle (D11T)	65535	0	4
+1090587584	Loader Bucket Angle (D11T)	65535	0	4
+1090587585	Lockup Clutch Current Percentage (D11T)	65535	0	25
+1090587586	Parking Brake (D11T)	65535	0	0
+1090587587	Parking Brake Pressure Switch (D11T)	65535	0	0
+1090587588	Reduced Rimpull (D11T)	65535	0	0
+1090587589	Ride Control System Status (D11T)	65535	0	0
+1090587590	Ride Control Switch (D11T)	65535	0	0
+1090587591	Brake Pedal (D11T)	65535	0	0
+1090587592	Side Rear View Mirrors Heater Status (D11T)	65535	0	0
+1090587593	Side Rear View Mirrors Heater Switch Status (D11T)	65535	0	0
+1090587594	Starter Relay (D11T)	65535	0	0
+1090587595	Steering Pump Oil Pressure (D11T)	65535	0	9
+1090587596	Steering/Trans Lock Switch (D11T)	65535	0	0
+1090587597	Tilt Cylinder Extension (Absolute) (D11T)	65535	0	21
+1090587598	Tilt Lever Position (D11T)	65535	0	25
+1090587599	Torque Converter Pedal Position (D11T)	65535	0	25
+1090587600	Transmission Input Speed (D11T)	65535	0	28
+1090587601	Transmission Lockout Status (D11T)	65535	0	0
+1090587602	Transmission Lockout Switch (D11T)	65535	0	0
+1090587603	Transmission Output Speed (D11T)	65535	0	28
+1090587604	Transmission Requested Engine Speed Limit (D11T)	65535	0	28
+1090587605	Transmission Solenoid 1 Current Percentage (D11T)	65535	0	25
+1090587606	Transmission Solenoid 2 Current Percentage (D11T)	65535	0	25
+1090587607	Transmission Solenoid 3 Current Percentage (D11T)	65535	0	25
+1090587608	Transmission Solenoid 4 Current Percentage (D11T)	65535	0	25
+1090587609	Transmission Solenoid 5 Current Percentage (D11T)	65535	0	25
+1090587610	Upshift Switch (D11T)	65535	0	0
+1090587611	Axle Oil Cooler Bypass Solenoid Status (D11T)	65535	0	0
+1090587612	Battery Voltage (D11T)	65535	0	31
+1090587613	Raise Kickout Switch Position (D11T)	65535	0	0
+1090587614	Raise Solenoid #1 Current Command (D11T)	65535	0	2
+1090587615	Reduced Rimpull Selection Switch (D11T)	65535	0	0
+1090587616	Requested Engine Retarder Status (D11T)	65535	0	0
+1090587617	Side Rear View Mirrors Remaining Heat Time (D11T)	65535	0	29
+1090587618	Turbocharger #1 Compressor Inlet Pressure (Absolute) (D11T)	65535	0	9
+1090587619	Dump Solenoid #1 Current Command (D11T)	65535	0	2
+1090587620	Operatin Time Until Next Auto Lube Automatic Cycle (D11T)	3932100	0	29
+1090587621	Operator Requested Cab Air Temperature (D11T)	65535	0	5
+1090587622	Parking Brake Switch (D11T)	65535	0	0
+1090587623	Throttle Lock Mode (D11T)	65535	0	0
+1090587624	Throttle Lock Enable Switch Position (D11T)	65535	0	0
+1090587625	Throttle Res/Accel Switch (D11T)	65535	0	0
+1090587626	Fuel Consumption Rate (D11T)	65535	0	13
+1090587627	Front Axle Oil Temperature (D11T)	65535	0	5
+1090587628	Fuel Pressure (D11T)	65535	0	9
+1090587629	Engine Warmup Elevated Idle Feature Status (D11T)	65535	0	0
+1090587630	Payload Operating Mode (D11T)	65535	0	0
+1090587631	Peak Air Filter Restriction (D11T)	65535	0	9
+1090587632	Rackback Solenoid #1 Current Command (D11T)	65535	0	2
+1090587633	Throttle Set/Decel Switch (D11T)	65535	0	0
+1090587634	Titl Kickout Set Switch Position (D11T)	65535	0	0
+1090587635	Dpf #1 Soot Loading Percent (D11T)	65535	0	25
+1090587636	Lower Solenoid #1 Current Command (D11T)	65535	0	2
+1090587637	Lower Kickout Switch Position (D11T)	65535	0	0
+1090587638	Low System Battery Voltage Elevated Idle Status (D11T)	65535	0	0
+1090587639	Lockup Clutch Enable Switch (D11T)	65535	0	0
+1090587640	Lift Cylinder Rod End Pressure (D11T)	65535	0	9
+1090587641	Engine Idle Shutdown Status (D11T)	65535	0	0
+1090587642	Engine Idle Shutdown Remaining Time (D11T)	65535	0	29
+1090587643	Engine Coolant Add Level Switch Status (D11T)	65535	0	0
+1090587644	Engine Charge Air Cooler #1 Outlet Temperature (D11T)	65535	0	5
+1090587645	Egr Valve Control Command (D11T)	65535	0	25
+1090587646	Egr Intake Pressure (Absolute) (D11T)	65535	0	9
+1090587647	Delayed Engine Shutdown Status (D11T)	65535	0	0
+1090587648	Cab Blower Speed Control Position (D11T)	65535	0	25
+1090587649	Cab Air Temperature Control Switch Position (D11T)	65535	0	0
+1090587650	Engine Fan Bypass (D11T)	65535	0	25
+1090587651	Engine Retarder Selector Switch Position (D11T)	65535	0	0
+1090587652	Engine Retarder Status (D11T)	65535	0	0
+1090587653	Ether Injection (D11T)	65535	0	0
+1090587654	Air Inlet Temperature (D11T)	65535	0	5
+1090587655	Atmospheric Pressure (D11T)	65535	0	9
+1090587656	Auto Lube (D11T)	65535	0	0
+1090587657	Auto Lube Grease Level Percent (D11T)	65535	0	25
+1090587658	Auto Lube Pressure (D11T)	65535	0	9
+1090587659	Auto Lube Pump Outlet Pressure (D11T)	65535	0	9
+1090587660	Operator Manual Lube Switch (D11T)	65535	0	0
+1090587661	Backup Alarm (D11T)	65535	0	0
+1090587662	Fuel Gauge (D11T)	65535	0	25
+1090587663	Brake Accumulator Pressure (D11T)	65535	0	9
+1090587664	Cab Airt Temperature (D11T)	65535	0	5
+1090587665	Controlled Rimpull Percentage (D11T)	65535	0	25
+1090587666	Weigh Cycle Total Truck Payload (D11T)	65535	0	18
+1090587667	Fan Return Filter Bypass Status (D11T)	65535	0	0
+1090587668	Shutdown Switch (D11T)	65535	0	0
+1090587669	Ignition Switch (D11T)	65535	0	0
+1090587670	Implement Lockout Switch Position (D11T)	65535	0	0
+1090587671	Implement Pilot Supply Solenoid (D11T)	65535	0	0
+1090587672	Primary Steering Pressure Status (D11T)	65535	0	0
+1090587673	Air Filter #1 Restriction (D11T)	65535	0	9
+1090587674	Ambient Air Temperature (D11T)	65535	0	5
+1090587675	Boost Pressure (D11T)	65535	0	9
+1090587676	Percent Engine Load At Current Engine Speed (D11T)	65535	0	25
+1090587677	Rear Axle Oil Temperature (D11T)	65535	0	5
+1090587678	Torque Converter Outlet Temperature (D11T)	65535	0	5
+1090587679	Torque Converter Speed Ratio (D11T)	65535	0	0
+1090587680	Powertrain Filter Bypass Status (D11T)	65535	0	0
+1090587681	Fuel Temperature (D11T)	65535	0	5
+1090587682	Ground Speed/Direction (D11T)	65535	0	11
+1090587683	Hydraulic Oil Temperature (D11T)	65535	0	5
+1090587684	Maxium Reverse Track Speed (D11T)	65535	0	11
+1090587685	Engine Power Derate (D11T)	65535	0	25
+1090587686	Throttle Position (D11T)	65535	0	25
+1090587687	Egr Temperature (D11T)	65535	0	5
+1090587688	Engine Speed (D11T)	65535	0	28
+1090587689	Engine Oil Pressure (D11T)	65535	0	9
+1090587690	Transmission Oil Temperature (D11T)	65535	0	5
+1090587691	Actual Gear (D11T)	65535	0	0
+1090587692	Engine Coolant Temperature (D11T)	65535	0	5
+1090587693	Impeller Clutch Pressure (D11T)	65535	0	9
+1090587694	Direction Switch Position (D11T)	65535	0	0
+1090587695	Bucket Payload (D11T)	65535	0	19
+1090587696	Payload Store Switch (D11T)	65535	0	0
+1090587697	Downshift Switch (D11T)	65535	0	0
+1090587698	Egr Differential Pressure (D11T)	65535	0	9
+1090587699	Loading Time (D11T)	0	0	29
+1090587700	Stop Empty Time (D11T)	0	0	29
+1090587701	Travel Empty Time (D11T)	0	0	29
+1090587702	Travel Empty Distance (D11T)	0	0	8
+1090587703	Stopped Load Time (D11T)	0	0	29
+1090587704	Travel Loaded Time (D11T)	0	0	29
+1090587705	Haul Distance (D11T)	0	0	8
+1090587706	Dippers (D11T)	0	0	0
+1090587707	Fuel Used (D11T)	248076.9610023	0	14
+1090587708	Payload (D11T)	0	0	19
+1090587709	Engine Hours (D11T)	1193046.47083333	0	7
+1090588577	Center Implement Pump Solenoid Current Command (994H)	65535	0	2
+1090588578	Controlled Rimpull Percentage (994H)	65535	0	25
+1090588579	Transmission Oil Temperature (994H)	65535	0	5
+1090588580	Left Exhaust Temperature (994H)	65535	0	5
+1090588581	Percent Engine Load At Current Engine Speed (994H)	65535	0	25
+1090588582	Throttle Position (994H)	65535	0	25
+1090588583	Right Exhaust Temperature (994H)	65535	0	5
+1090588584	Implement Right Main Valve Supply Pressure (994H)	65535	0	9
+1090588585	Steerin Fluid Temperature (994H)	65535	0	5
+1090588586	Payload Store Switch (994H)	65535	0	0
+1090588587	Ether Injection (994H)	65535	0	0
+1090588588	Implement Pilot Oil Pressure (994H)	65535	0	9
+1090588589	Implement Pilot Supply Solenoid (994H)	65535	0	0
+1090588590	Primary Steering Pressure Status (994H)	65535	0	0
+1090588591	Tilt Cylinder Extension (Absolute) (994H)	65535	0	21
+1090588592	Tilt Lever Position (994H)	65535	0	25
+1090588593	Torque Converter Pedal Position (994H)	65535	0	25
+1090588594	Transmission Lockout Status (994H)	65535	0	25
+1090588595	Transmission Lockout Switch (994H)	65535	0	0
+1090588596	Transmission Output Speed (994H)	65535	0	25
+1090588597	Transmission Requested Engine Speed Limit (994H)	65535	0	28
+1090588598	Transmission Solenoid 1 Current Percentage (994H)	65535	0	25
+1090588599	Transmission Solenoid 2 Current Percentage (994H)	65535	0	25
+1090588600	Transmission Solenoid 3 Current Percentage (994H)	65535	0	25
+1090588601	Transmission Solenoid 4 Current Percentage (994H)	65535	0	25
+1090588602	Lower Solenoid #1 Current Command (994H)	65535	0	2
+1090588603	Lower Solenoid #2 Current Command (994H)	65535	0	2
+1090588604	Operating Time Until Next Auto Lube Automatic Cycle (994H)	3932100	0	29
+1090588605	Operator Requested Cab Air Temperature (994H)	65535	0	5
+1090588606	Reduced Rimpull Selection Switch (994H)	65535	0	0
+1090588607	Right Implement Pump Solenoid Current Command (994H)	65535	0	2
+1090588608	Windshield Washer Fluid Add Level Switch Status (994H)	65535	0	0
+1090588609	Windshield Washer Fluid Low Level Switch Status (994H)	65535	0	0
+1090588610	Front Axle Oil Temperature (994H)	65535	0	5
+1090588611	Parking Brake (994H)	65535	0	0
+1090588612	Parking Brake Switch (994H)	65535	0	0
+1090588613	Reduced Rimpull (994H)	65535	0	0
+1090588614	Brake Pedal (994H)	65535	0	0
+1090588615	Torque Converter Outlet Temperature (994H)	65535	0	5
+1090588616	Torque Converter Speed Ratio (994H)	65535	0	0
+1090588617	Parking Brake Switch (994H)	65535	0	0
+1090588618	Payload Memory Remaining (994H)	65535	0	25
+1090588619	Payload Operating Mode (994H)	65535	0	0
+1090588620	Side Rear View Mirrors Remaining Heat Time (994H)	65535	0	29
+1090588621	Steering Oil Level (994H)	3932100	0	29
+1090588622	Throttle Lock Mode (994H)	65535	0	0
+1090588623	Throttle Lock Enable Switch Position (994H)	65535	0	0
+1090588624	Throttle Res/Accel Switch (994H)	65535	0	0
+1090588625	Rackback Solenoid #1 Current Command (994H)	65535	0	2
+1090588626	Transmission Solenoid 5 Current Percentage (994H)	65535	0	25
+1090588627	Upshift Switch (994H)	65535	0	0
+1090588628	Side Rear View Mirrors Heater Status (994H)	65535	0	0
+1090588629	Side Rear View Mirrors Heater Switch Status (994H)	65535	0	0
+1090588630	Starter Relay (994H)	65535	0	0
+1090588631	Rackback Solenoid #2 Current Command (994H)	65535	0	2
+1090588632	Raise Kickiyt Switch Position (994H)	65535	0	0
+1090588633	Raise Solenoid #1 Current Command (994H)	65535	0	2
+1090588634	Crankcase Pressure (994H)	65535	0	9
+1090588635	Delayed Engine Shutdown Status (994H)	65535	0	0
+1090588636	Desired Engine Speed (994H)	65535	0	28
+1090588637	Dig Trigger Mode (994H)	65535	0	0
+1090588638	Direction Switch Position (994H)	65535	0	0
+1090588639	Downshift Switch (994H)	65535	0	0
+1090588640	Engine Oil Pressure (994H)	65535	0	9
+1090588641	Engine Coolant Temperature (994H)	65535	0	5
+1090588642	Engine Power Derate (994H)	65535	0	25
+1090588643	Dump Solenoid #2 Current Command (994H)	65535	0	2
+1090588644	Engine Oil Add Level Switch Status (994H)	65535	0	0
+1090588645	Dump Solenoid #1 Current Command (994H)	65535	0	2
+1090588646	Engine Idle Shutdown Status (994H)	65535	0	0
+1090588647	Engine Oil Level (994H)	65535	0	0
+1090588648	Engine Fan Speed (994H)	65535	0	28
+1090588649	Engine Idle Shutdown Remaining Time (994H)	65535	0	29
+1090588650	Left Air Filter Restriction (994H)	65535	0	9
+1090588651	Right Air Filter Restriction (994H)	65535	0	9
+1090588652	Right Lift Valve Float Solenoid Status (994H)	65535	0	0
+1090588653	Right Steering Pump Case Drain Oil Filter Bypass Status (994H)	65535	0	0
+1090588654	Steering Cooling Oil Filter Status (994H)	65535	0	0
+1090588655	Throttle Set/Decel Switch (994H)	65535	0	0
+1090588656	Torque Converter Speed (994H)	65535	0	28
+1090588657	Transmission Front Oil Filter (994H)	65535	0	0
+1090588658	Transmission Rear Oil Filter (994H)	65535	0	0
+1090588659	Engine Coolant Flow (994H)	65535	0	0
+1090588660	Engine Oil Refill Tank Level Status (994H)	65535	0	0
+1090588661	Left Front Implement Pump Case Drain Filter Bypass (994H)	65535	0	0
+1090588662	Right Implement Pump Case Drain Filter Bypass (994H)	65535	0	0
+1090588663	Rear Axle Oil Temperature (994H)	65535	0	5
+1090588664	Steering/Trans Lock Switch (994H)	65535	0	0
+1090588665	Raise Solenoid #2 Current Command (994H)	65535	0	2
+1090588666	Rear Brake Accum Pres (994H)	65535	0	0
+1090588667	Rear Aftercooler Temperature (994H)	65535	0	5
+1090588668	Machine System Air Pressure (994H)	65535	0	9
+1090588669	Left Front Implement Pump Solenoid Current Command (994H)	65535	0	2
+1090588670	Fuel Consumption Rate (994H)	65535	0	13
+1090588671	Front Brake Accum Pres (994H)	65535	0	0
+1090588672	Implement Left Main Valve Supply Pressure (994H)	65535	0	9
+1090588673	Left Lift Valve Float Solenoid Status (994H)	65535	0	0
+1090588674	Left Rear Implement Pump Case Drain Filter Bypass (994H)	65535	0	0
+1090588675	Left Rear Implement Pump Solenoid Current Command (994H)	65535	0	2
+1090588676	Ground Speed/Direction (994H)	65535	0	11
+1090588677	Shutdown Switch (994H)	65535	0	0
+1090588678	Tank Fuel Level (994H)	65535	0	25
+1090588679	Lift Linkage Angle (994H)	65535	0	4
+1090588680	Lift Cylinder Extension (Absolute) (994H)	65535	0	21
+1090588681	Lift Cylinder Head End Pressure (994H)	65535	0	9
+1090588682	Lift Lever Position (994H)	65535	0	25
+1090588683	Loader Bucket Angle (994H)	65535	0	4
+1090588684	Lockup Clutch Current Percentage (994H)	65535	0	25
+1090588685	Lift Cylinder Rod End Pressure (994H)	65535	0	9
+1090588686	Lockup Clutch Enable Switch (994H)	65535	0	0
+1090588687	Lower Kickout Switch Position (994H)	65535	0	0
+1090588688	Left Steering Pump Case Drain Oil Filter Bypass Status (994H)	65535	0	0
+1090588689	Hydraulic Oil Temperature (994H)	65535	0	5
+1090588690	Impeller Clutch Pressure (994H)	65535	0	9
+1090588691	Implement Pilot Filter Switch (994H)	65535	0	0
+1090588692	Ignition Switch (994H)	65535	0	0
+1090588693	Implement Lockout Switch Position (994H)	65535	0	0
+1090588694	Hydraulic Oil Level (994H)	65535	0	0
+1090588695	Hydraulic Cooling Oil Filter Status (994H)	65535	0	0
+1090588696	Engine Fan Bypass (994H)	65535	0	25
+1090588697	Oil Filter Differential Pressure (994H)	65535	0	9
+1090588698	Fuel Filter (994H)	65535	0	0
+1090588699	Fuel Position (994H)	65535	0	0
+1090588700	Impeller Clutch Current (994H)	65535	0	25
+1090588701	Left Turbo Inlet Pressure (Absolute) (994H)	65535	0	9
+1090588702	Rated Fuel Limit (994H)	65535	0	0
+1090588703	Right Turbo Inlet Pressure (Absolute) (994H)	65535	0	9
+1090588704	Engine Speed (994H)	65535	0	28
+1090588705	Engine Speed (994H)	65535	0	28
+1090588706	Actual Gear (994H)	65535	0	0
+1090588707	Ambient Air Temperature (994H)	65535	0	5
+1090588708	Atmospheric Pressure (994H)	65535	0	9
+1090588709	Auto Lube (994H)	65535	0	0
+1090588710	Auto Lube Pressure (994H)	65535	0	9
+1090588711	Auto Lube Pump Outlet Pressure (994H)	65535	0	9
+1090588712	Operator Manual Lube Switch (994H)	65535	0	0
+1090588713	Boost Pressure (994H)	65535	0	9
+1090588714	Battery Voltage (994H)	65535	0	31
+1090588715	Backup Alarm (994H)	65535	0	0
+1090588716	Brake Cooling Oil Tank Level Status (994H)	65535	0	0
+1090588717	Cab Air Temperature (994H)	65535	0	5
+1090588718	Bucket Payload (994H)	65535	0	19
+1090588719	Cab Air Temperature Control Switch Position (994H)	65535	0	0
+1090588720	Cab Blower Speed Control Position (994H)	65535	0	25
+1090588721	Brake Cooling Oil Tank Temperature (994H)	65535	0	5
+1090588722	Center Implement Pump Case Drain Filter Bypass (994H)	65535	0	0
+1090588723	Auto Lube Solenoid (994H)	65535	0	0
+1090588724	Engine Oil Level (994H)	65535	0	0
+1090588725	Loading Time (994H)	0	0	29
+1090588726	Stop Empty Time (994H)	0	0	29
+1090588727	Travel Empty Time (994H)	0	0	29
+1090588728	Travel Empty Distance (994H)	0	0	8
+1090588729	Stopped Load Time (994H)	0	0	29
+1090588730	Travel Loaded Time (994H)	0	0	29
+1090588731	Haul Distance (994H)	0	0	8
+1090588732	Dippers (994H)	0	0	0
+1090588733	Fuel Used (994H)	248076.9610023	0	14
+1090588734	Payload (994H)	0	0	19
+1090588735	Engine Hours (994H)	1193046.47083333	0	7
+1090589577	Hydraulic Oil Temperature (740B)	65535	0	5
+1090589578	Starter Relay (740B)	65535	0	0
+1090589579	Ground Speed (740B)	105468.35904	0	11
+1090589580	Steering Fluid Temperature (740B)	65535	0	5
+1090589581	Steering Oil Filter (740B)	65535	0	0
+1090589582	Machine Idle Status (740B)	65535	0	0
+1090589583	Engine Retarder Status (740B)	65535	0	0
+1090589584	Machine Cooling Fan Speed (740B)	65535	0	28
+1090589585	Ground Speed/Direction (740B)	65535	0	11
+1090589586	Retarder Lever Position Status (740B)	65535	0	0
+1090589587	Fuel Remaining Operation Time (740B)	3932100	0	29
+1090589588	Dpf #1 Soot Loading Percent (740B)	65535	0	25
+1090589589	Engine Idle Shutdown Status (740B)	65535	0	0
+1090589590	Machine Slope (740B)	65535	0	25
+1090589591	Dpf #1 Intake Temperature (740B)	65535	0	5
+1090589592	Actual Gear (740B)	65535	0	0
+1090589593	Engine Coolant Temperature (740B)	65535	0	5
+1090589594	Ambient Air Temperature (740B)	65535	0	5
+1090589595	Boost Pressure (740B)	65535	0	9
+1090589596	Fuel Consumption Rate (740B)	65535	0	13
+1090589597	Fuel Pressure (740B)	65535	0	9
+1090589598	Inlet Air Temperature (740B)	65535	0	5
+1090589599	Fuel Gauge (740B)	65535	0	25
+1090589600	Engine Load Factor (740B)	65535	0	25
+1090589601	Trans Charge Oil Filter (740B)	65535	0	0
+1090589602	Engine Oil Pressure (740B)	65535	0	9
+1090589603	Transmission Oil Temperature (740B)	65535	0	5
+1090589604	Engine Speed (740B)	65535	0	28
+1090589605	Parking Brake (740B)	65535	0	0
+1090589606	Engine Power Derate (740B)	65535	0	25
+1090589607	Ard Regeneration Status (740B)	65535	0	0
+1090589608	Air Filter #1 Restriction (740B)	65535	0	9
+1090589609	High Pressure Hydraulic Oil Filter (740B)	65535	0	0
+1090589610	Output Transfer Gear (Otg) Filter Bypass Status (740B)	65535	0	0
+1090589611	Output Transfer Gear Oil Temperature (740B)	65535	0	5
+1090589612	Torque Converter Outlet Temperature (740B)	65535	0	5
+1090589613	Torque Converter Speed (740B)	65535	0	28
+1090589614	Service Brake (740B)	65535	0	0
+1090589615	Engine Fan Speed (740B)	65535	0	28
+1090589616	Loading Time (740B)	0	0	29
+1090589617	Stop Empty Time (740B)	0	0	29
+1090589618	Travel Empty Time (740B)	0	0	29
+1090589619	Travel Empty Distance (740B)	0	0	8
+1090589620	Stopped Load Time (740B)	0	0	29
+1090589621	Travel Loaded Time (740B)	0	0	29
+1090589622	Haul Distance (740B)	0	0	8
+1090589623	Dippers (740B)	0	0	0
+1090589624	Fuel Used (740B)	0	0	14
+1090589625	Payload (740B)	0	0	19
+1090589626	Engine Hours (740B)	1193046.47083333	0	7
+1090590577	Engine Speed (777G)	65535	0	28
+1090590578	Transmission Oil Temperature (777G)	65535	0	5
+1090590579	Tank Fuel Level (777G)	65535	0	25
+1090590580	Fuel Consumption Rate (777G)	65535	0	13
+1090590581	Engine Oil Pressure (777G)	65535	0	9
+1090590582	Diff Oil Temperature (777G)	65535	0	5
+1090590583	Percent Engine Load At Current Engine Speed (777G)	65535	0	25
+1090590584	Low Oil Pressure (777G)	65535	0	0
+1090590585	Truck Payload (777G)	65535	0	19
+1090590586	Primary Steering Pressure Status (777G)	65535	0	0
+1090590587	Transmission Charge Filter Bypass Status (777G)	65535	0	0
+1090590588	Secondary Steering Relay (777G)	65535	0	0
+1090590589	Injection Disabled (777G)	65535	0	0
+1090590590	Delivered Fuel Volume (777G)	65535	0	0
+1090590591	Engine Derate (777G)	65535	0	0
+1090590592	Cold Mode (777G)	65535	0	0
+1090590593	Auto Lube Grease Level Percent (777G)	65535	0	25
+1090590594	Intake Manifold Air Temperature (777G)	65535	0	5
+1090590595	Auto Lube (777G)	65535	0	0
+1090590596	Engine Warmup Elevated Idle Feature Status (777G)	65535	0	0
+1090590597	Secondary Steering Motor Status (777G)	65535	0	0
+1090590598	Turbocharger #1 Compressor Inlet Pressure (Absolute) (777G)	65535	0	9
+1090590599	Maximum Frame Rack Sample Value (777G)	65535	0	9
+1090590600	Maximum Frame Pitch Sample Value (777G)	65535	0	9
+1090590601	Hoist Lever Duty Cycle (777G)	65535	0	25
+1090590602	Auto Lube Interval (777G)	3932100	0	29
+1090590603	Auto Lube Duration (777G)	65535	0	29
+1090590604	Body Up (777G)	65535	0	0
+1090590605	Truck Payload Cycle Frame Pitch Fela (777G)	65535	0	0
+1090590606	Cab Air Temperature (777G)	65535	0	5
+1090590607	Service Brake Position (777G)	65535	0	25
+1090590608	Peak Frame Bias (777G)	65535	0	9
+1090590609	Engine Fan Speed (777G)	65535	0	28
+1090590610	Right Front Strut Pressure (777G)	65535	0	9
+1090590611	Right Front To Left Front Strut Differential Pressure (777G)	65535	0	9
+1090590612	Right Rear To Left Rear Strut Differential Pressure (777G)	65535	0	9
+1090590613	Right Rear Strut Pressure (777G)	65535	0	9
+1090590614	Air Inlet Temperature (777G)	65535	0	5
+1090590615	Left Rear Wheel Speed (777G)	235926	0	11
+1090590616	Right Rear Brake Solenoid Current (777G)	65535	0	2
+1090590617	Fuel Filter Differential Pressure (777G)	65535	0	9
+1090590618	Desired Engine Fan Speed (777G)	65535	0	28
+1090590619	Fuel Pressure (Absolute) (777G)	65535	0	9
+1090590620	Transmission Maximum Forward Gear (777G)	65535	0	0
+1090590621	Engine Coolant Level (777G)	65535	0	0
+1090590622	Auto Lube Grease Level (777G)	65535	0	0
+1090590623	Arc Control Solenoid Current (777G)	65535	0	25
+1090590624	Retarder Lever Position Sensor Duty Cycle (777G)	65535	0	25
+1090590625	Cab Blower Motor Command Percentage (777G)	65535	0	25
+1090590626	Traction Control Proportional Solenoid Current Status (777G)	65535	0	2
+1090590627	Air Conditioner Refrigerant Monitoring Circuit Status (777G)	65535	0	0
+1090590628	Service Brake Pedal Position Sensor Duty Cycle (777G)	65535	0	25
+1090590629	Desired Engine Retard Speed (777G)	65535	0	28
+1090590630	Left Front Strut Pressure (777G)	65535	0	9
+1090590631	Battery Voltage (777G)	65535	0	31
+1090590632	Left Rear Strut Pressure (777G)	65535	0	9
+1090590633	Engine Retarder Status (777G)	65535	0	0
+1090590634	Peak Air Filter Restriction (777G)	65535	0	9
+1090590635	Arc (Auto Retarder) On/Off Switch Status (777G)	65535	0	0
+1090590636	Hydraulic Oil Level (777G)	65535	0	0
+1090590637	Fuel Pressure (777G)	65535	0	9
+1090590638	Requested Gear Command (777G)	65535	0	0
+1090590639	Machine Overload Speed Limit Enable Status (777G)	65535	0	0
+1090590640	Secondary Brake Solenoid Current (777G)	65535	0	2
+1090590641	Left Rear Brake Solenoid Current (777G)	65535	0	2
+1090590642	Secondary Brake Pedal Position Sensor Duty Cycle (777G)	65535	0	25
+1090590643	Cab Blower Speed Control Position (777G)	65535	0	25
+1090590644	Ether Solenoid Configuration (777G)	65535	0	0
+1090590645	Machine Body Up Speed Limit (777G)	65535	0	11
+1090590646	Intake Manifold #2 Pressure (Absolute) (777G)	65535	0	9
+1090590647	Throttle Sensor Duty Cycle (777G)	65535	0	25
+1090590648	Transmission Oil Level (777G)	65535	0	0
+1090590649	Maximum Forward Ground Speed (777G)	65535	0	11
+1090590650	Desired Retarding Engine Speed (777G)	65535	0	28
+1090590651	Cab Ventilation Duct Air Temperature (777G)	65535	0	5
+1090590652	Rear Axle Pump Drive Oil Divert Solenoid Status (777G)	65535	0	0
+1090590653	Front Brake Solenoid Current (777G)	65535	0	25
+1090590654	Rear Brake Supply Solenoid Status (777G)	65535	0	0
+1090590655	Auto Lube Grease Level (777G)	65535	0	0
+1090590656	Desired Compression Brake Status (777G)	65535	0	0
+1090590657	Cab Air Temperature Control Switch Position (777G)	65535	0	0
+1090590658	Fuel Temperature (777G)	65535	0	5
+1090590659	Engine Fuel Level (777G)	65535	0	0
+1090590660	Steering Oil Level (777G)	65535	0	0
+1090590661	Air Conditioner Evaporator Coil Temperature (777G)	65535	0	5
+1090590662	Operator Requested Cab Air Temperature (777G)	65535	0	5
+1090590663	Requested Engine Retarder Status (777G)	65535	0	0
+1090590664	Right Front To Left Front Brake Differential Temperature (777G)	65535	0	5
+1090590665	Sound Reduction Engine Speed Limit Enable Status (777G)	65535	0	0
+1090590666	Lockup Clutch Oil Filter Bypass (777G)	65535	0	0
+1090590667	Brake Oil Temperature (777G)	65535	0	5
+1090590668	Air Filter #1 Restriction (777G)	65535	0	9
+1090590669	A/C Compressor (777G)	65535	0	0
+1090590670	Auto Retarder Lamp Status (777G)	65535	0	0
+1090590671	Secondary Brake Pedal Position (777G)	65535	0	25
+1090590672	Left Front Tire Temperature Compensated Pressure (777G)	65535	0	9
+1090590673	Right Rear Inner Tire Temperature Compensated Pressure (777G)	65535	0	9
+1090590674	Left Rear Inner Tire Temperature Compensated Pressure (777G)	65535	0	9
+1090590675	Right Rear Outer Tire Temperature Compensated Pressure (777G)	65535	0	9
+1090590676	Left Rear Outer Tire Temperature Compensated Pressure (777G)	65535	0	9
+1090590677	Operator Top Forward Transmission Gear (777G)	65535	0	0
+1090590678	Shift Lever Duty Cycle (777G)	65535	0	25
+1090590679	Air Filter Restriction (777G)	65535	0	9
+1090590680	Engine Coolant Temperature (777G)	65535	0	5
+1090590681	Intake Manifold Pressure (Absolute) (777G)	65535	0	9
+1090590682	Right Rear To Left Rear Exhaust Differential Temperature (777G)	65535	0	5
+1090590683	Altitude Derate (777G)	65535	0	0
+1090590684	Left Rear Brake Oil Temperature (777G)	65535	0	5
+1090590685	Compression Brake Low/High Command (777G)	65535	0	0
+1090590686	Compression Brake Med/High Command (777G)	65535	0	0
+1090590687	Compression Brake Switch Status (777G)	65535	0	0
+1090590688	Dpf #1 Soot Loading Percent (777G)	65535	0	25
+1090590689	Dpf Indicator Status (777G)	65535	0	0
+1090590690	Egr Differential Pressure (777G)	65535	0	9
+1090590691	Egr Intake Pressure (Absolute) (777G)	65535	0	9
+1090590692	Egr Temperature (777G)	65535	0	5
+1090590693	Engine Exhaust Manifold Bank #1 Flow Balance Valve Solenoid Status (777G)	65535	0	0
+1090590694	Egr Valve Control Command (777G)	65535	0	25
+1090590695	Right Rear To Left Rear Brake Differential Temperature (777G)	65535	0	5
+1090590696	Cab Air Heater Engine Coolant Actuator Duty Cycle (777G)	65535	0	25
+1090590697	Actual Gear (777G)	65535	0	0
+1090590698	Truck Payload Cycle Fela (777G)	65535	0	0
+1090590699	Starter Relay (777G)	65535	0	0
+1090590700	Brake Lamp Driver (777G)	65535	0	0
+1090590701	Secondary Brake Status (777G)	65535	0	25
+1090590702	Engine Charge Air Cooler #1 Outlet Temperature (777G)	65535	0	5
+1090590703	Engine Exhaust Manifold Bank #1 Flow Balance Valve Position (777G)	65535	0	0
+1090590704	Fuel Filter (777G)	65535	0	0
+1090590705	User Shutdown (777G)	65535	0	0
+1090590706	Right Rear Outer Tire Temperature (777G)	65535	0	5
+1090590707	Right Rear Outer Tire Pressure/Temperature Sensor Installation (777G)	65535	0	0
+1090590708	Right Rear Inner Tire Pressure/Temperature Sensor Installation (777G)	65535	0	0
+1090590709	Right Front Tire Pressure/Temperature Sensor Installation (777G)	65535	0	0
+1090590710	Right Front Tire Pressure (777G)	65535	0	9
+1090590711	Parking Brake Solenoid (777G)	65535	0	0
+1090590712	Left Rear Outer Tire Pressure/Temperature Sensor Installation (777G)	65535	0	0
+1090590713	Main Pilot Pressure (777G)	65535	0	9
+1090590714	Left Rear Inner Tire Pressure/Temperature Sensor Installation (777G)	65535	0	0
+1090590715	Left Front Tire Temperature (777G)	65535	0	5
+1090590716	Left Front Tire Pressure/Temperature Sensor Installation (777G)	65535	0	0
+1090590717	Left Front Tire Pressure (777G)	65535	0	9
+1090590718	Left Front Tire Cold Inflation Pressure (777G)	65535	0	9
+1090590719	Exhaust System High Temperature Indicator Status (777G)	65535	0	0
+1090590720	Fuel Remaining Operation Time (777G)	3932100	0	29
+1090590721	Ground Speed (777G)	105468.35904	0	11
+1090590722	Steering Angle (777G)	65535	0	4
+1090590723	Torque Converter Outlet Temperature (777G)	65535	0	5
+1090590724	Throttle Lock Mode (777G)	65535	0	0
+1090590725	Shift Lever Position (777G)	65535	0	0
+1090590726	Oht Truck Payload State (777G)	65535	0	0
+1090590727	Engine Coolant Full Level Switch Status (777G)	65535	0	0
+1090590728	Desired Engine Speed (777G)	65535	0	28
+1090590729	Traction Control Mode (777G)	65535	0	0
+1090590730	Auto Retarder Mode (777G)	65535	0	0
+1090590731	Differential (Axle) Oil Level (777G)	65535	0	0
+1090590732	Transmission Oil Level Status (777G)	65535	0	0
+1090590733	Intake Manifold #2 Air Temperature (777G)	65535	0	5
+1090590734	Auto Lube Relay Status (777G)	65535	0	0
+1090590735	Hoist Output (777G)	65535	0	0
+1090590736	Hoist Lever Position (777G)	65535	0	0
+1090590737	Engine Oil Level (777G)	65535	0	0
+1090590738	Right Front Tire Temperature Compensated Pressure (777G)	65535	0	9
+1090590739	Machine Rear Tire Weight-Speed (777G)	65535	0	0
+1090590740	Service Brake Accumulator Pressure (777G)	65535	0	9
+1090590741	Truck Payload Cycle Frame Rack Fela (777G)	65535	0	0
+1090590742	Auto Lube Pressure (777G)	65535	0	9
+1090590743	Atmospheric Pressure (777G)	65535	0	9
+1090590744	Ground Speed/Direction (777G)	65535	0	11
+1090590745	Ambient Air Temperature (777G)	65535	0	5
+1090590746	Autodig Digging Status (777G)	65535	0	0
+1090590747	Economy Mode Switch Position (777G)	65535	0	0
+1090590748	Fuel Economy Mode Status (777G)	65535	0	0
+1090590749	Transmission Oil Low Level Switch Status (777G)	65535	0	0
+1090590750	Tire Monitoring System Barometric Pressure Compensation Enable Status (777G)	65535	0	0
+1090590751	Right Rear To Right Front Brake Differential Temperature (777G)	65535	0	5
+1090590752	Left Rear To Left Front Brake Differential Temperature (777G)	65535	0	5
+1090590753	Transmission Oil Add Level Switch Status (777G)	65535	0	0
+1090590754	Right Front Brake Oil Temperature (777G)	65535	0	5
+1090590755	Coolant Level (777G)	65535	0	0
+1090590756	Right Rear Brake Oil Temperature (777G)	65535	0	5
+1090590757	Right Exhaust Temperature (777G)	65535	0	5
+1090590758	Left Exhaust Temperature (777G)	65535	0	5
+1090590759	Right Rear Wheel Speed (777G)	235926	0	11
+1090590760	Transmission Output Speed (777G)	65535	0	28
+1090590761	Service Brake (777G)	65535	0	0
+1090590762	Retarder Lever Position (777G)	65535	0	25
+1090590763	Parking Brake (777G)	65535	0	0
+1090590764	Left Front Brake Oil Temperature (777G)	65535	0	5
+1090590765	Smoke Limit Fuel Volume (777G)	65535	0	0
+1090590766	Torque Limit Fuel Volume (777G)	65535	0	0
+1090590767	Left Exhaust #2 Temperature (777G)	65535	0	5
+1090590768	Right Exhaust #2 Temperature (777G)	65535	0	5
+1090590769	Machine Front Tire Weight-Speed (777G)	65535	0	0
+1090590770	Throttle Position (777G)	65535	0	25
+1090590771	Ether Injection (777G)	65535	0	0
+1090590772	Brake Filter Bypass Status (777G)	65535	0	0
+1090590773	Boost Pressure (777G)	65535	0	9
+1090590774	Engine Oil Pressure (Absolute) (777G)	65535	0	9
+1090590775	Differential Filter Bypass Status (777G)	65535	0	0
+1090590776	Fuel Gauge (777G)	65535	0	25
+1090590777	Transmission Oil Full Level Switch Status (777G)	65535	0	0
+1090590778	Loading Time (777G)	0	0	29
+1090590779	Stop Empty Time (777G)	0	0	29
+1090590780	Travel Empty Time (777G)	0	0	29
+1090590781	Travel Empty Distance (777G)	0	0	8
+1090590782	Stopped Load Time (777G)	0	0	29
+1090590783	Travel Loaded Time (777G)	0	0	29
+1090590784	Haul Distance (777G)	0	0	8
+1090590785	Dippers (777G)	0	0	0
+1090590786	Fuel Used (777G)	0	0	14
+1090590787	Payload (777G)	0	0	19
+1090590788	Engine Hours (777G)	1193046.47083333	0	7
+1090591577	Turbocharger #1 Compressor Inlet Pressure (Absolute) (797F)	65535	0	9
+1090591578	Turbocharger #2 Compressor Inlet Pressure (Absolute) (797F)	65535	0	9
+1090591579	Turbocharger #3 Compressor Inlet Pressure (Absolute) (797F)	65535	0	9
+1090591580	Intake Manifold #2 Air Temperature (797F)	65535	0	5
+1090591581	Access Ladder Position Status (797F)	65535	0	0
+1090591582	Auto Lube Relay Status (797F)	65535	0	0
+1090591583	Oil Filter Differential Pressure (797F)	65535	0	9
+1090591584	Engine Fan Speed (797F)	65535	0	28
+1090591585	Body Position Angle (797F)	65535	0	4
+1090591586	Engine Oil Pressure (Absolute) (797F)	65535	0	9
+1090591587	Engine Coolant Pump Outlet Pressure (Absolute) (797F)	65535	0	9
+1090591588	Truck Payload (797F)	65535	0	19
+1090591589	Left Front Strut Pressure (797F)	65535	0	9
+1090591590	Torq Conv Filter Status (797F)	65535	0	0
+1090591591	Torque Converter Screen Filter Status (797F)	65535	0	0
+1090591592	Differential (Axle) Lube Pressure (797F)	65535	0	9
+1090591593	Transmission Lockout Status (797F)	65535	0	0
+1090591594	Transmission Output Speed (797F)	65535	0	28
+1090591595	Trans Charge Oil Filter (797F)	65535	0	0
+1090591596	Service Brake (797F)	65535	0	0
+1090591597	Brake Cooling Pump Speed (797F)	65535	0	28
+1090591598	Steering Accumulator Oil Pressure (797F)	65535	0	9
+1090591599	Coolant Level (797F)	65535	0	0
+1090591600	Left Rear To Left Front Brake Differential Temperature (797F)	65535	0	5
+1090591601	Steering Fluid Temperature (797F)	65535	0	5
+1090591602	Steering Oil Level (797F)	65535	0	0
+1090591603	Right Front Brake Oil Temperature (797F)	65535	0	5
+1090591604	Right Rear Brake Oil Temperature (797F)	65535	0	5
+1090591605	Starter Lockout Status (797F)	65535	0	0
+1090591606	Brake Pump Unloader Solenoid Status (797F)	65535	0	0
+1090591607	Right To Left Exhaust Differential Temperature (797F)	65535	0	5
+1090591608	Left Exhaust Temperature (797F)	65535	0	5
+1090591609	Right Exhaust Temperature (797F)	65535	0	5
+1090591610	Peak Air Filter Restriction (797F)	65535	0	9
+1090591611	Percent Engine Load At Current Engine Speed (797F)	65535	0	25
+1090591612	Tank Fuel Level (797F)	65535	0	25
+1090591613	Fuel Consumption Rate (797F)	65535	0	13
+1090591614	Fuel Pressure (797F)	65535	0	9
+1090591615	Engine Oil Pressure (797F)	65535	0	9
+1090591616	Crankcase Pressure (797F)	65535	0	9
+1090591617	Engine Coolant Temperature (797F)	65535	0	5
+1090591618	System Voltage (797F)	65535	0	31
+1090591619	Engine Pre-Lube (797F)	65535	0	0
+1090591620	Intake Manifold Air Temperature (797F)	65535	0	5
+1090591621	Engine Oil Temperature (797F)	65535	0	5
+1090591622	Differential Filter Bypass Status (797F)	65535	0	0
+1090591623	Diff Oil Temperature (797F)	65535	0	5
+1090591624	Engine Speed (797F)	65535	0	28
+1090591625	Right Front To Left Front Strut Differential Pressure (797F)	65535	0	9
+1090591626	Parking Brake Lock Status (797F)	65535	0	0
+1090591627	Auto Retarder Mode (797F)	65535	0	0
+1090591628	Secondary Brake Accumulator Pressure (797F)	65535	0	9
+1090591629	Alternator Status (797F)	65535	0	0
+1090591630	Secondary Brake Pedal Position (797F)	65535	0	25
+1090591631	Engine Oil Level (797F)	65535	0	0
+1090591632	Transmission Input Speed (797F)	65535	0	28
+1090591633	Machine System Air Pressure (797F)	65535	0	9
+1090591634	Torque Converter Outlet Temperature (797F)	65535	0	5
+1090591635	Desired Engine Speed (797F)	65535	0	28
+1090591636	Right Front Strut Pressure (797F)	65535	0	9
+1090591637	Oht Truck Payload State (797F)	65535	0	0
+1090591638	Machine Front Tire Weight-Speed (797F)	65535	0	0
+1090591639	Actual Gear (797F)	65535	0	0
+1090591640	Left Rear Strut Pressure (797F)	65535	0	9
+1090591641	Right Rear To Left Rear Strut Differential Pressure (797F)	65535	0	9
+1090591642	Intake Manifold Pressure (797F)	65535	0	9
+1090591643	Percent Fuel Position (797F)	65535	0	25
+1090591644	Engine Coolant Pump Outlet Temperature (797F)	65535	0	5
+1090591645	Turbocharger #4 Compressor Inlet Pressure (Absolute) (797F)	65535	0	9
+1090591646	Hydraulic Hoist Screen Filter Bypass Status (797F)	65535	0	0
+1090591647	Auto Lube Pressure (797F)	65535	0	9
+1090591648	Cab Ventilation Duct Air Temperature (797F)	65535	0	5
+1090591649	Altitude Derate (797F)	65535	0	0
+1090591650	Hydraulic Case Drain Filter Bypass Status (797F)	65535	0	0
+1090591651	Transmission Output Speed #1 (797F)	65535	0	28
+1090591652	User Shutdown (797F)	65535	0	0
+1090591653	Machine Rear Tire Weight-Speed (797F)	65535	0	0
+1090591654	Ground Speed (797F)	105468.35904	0	11
+1090591655	Right Rear Strut Pressure (797F)	65535	0	9
+1090591656	Fuel Actuator Position Command (797F)	65535	0	25
+1090591657	Secondary Steering Pump Oil Pressure (797F)	65535	0	9
+1090591658	Secondary Steering System Test Status (797F)	65535	0	0
+1090591659	Retarder Lever Position (797F)	65535	0	25
+1090591660	Left Rear Axle Rpm (797F)	65535	0	28
+1090591661	Right Rear Axle Rpm (797F)	65535	0	28
+1090591662	Right Rear To Right Front Brake Differential Temperature (797F)	65535	0	5
+1090591663	Parking Brake (797F)	65535	0	0
+1090591664	Brake Filter Bypass Status (797F)	65535	0	0
+1090591665	Transmission Oil Temperature (797F)	65535	0	5
+1090591666	Desired Engine Fan Speed (797F)	65535	0	28
+1090591667	Desired Retarding Engine Speed (797F)	65535	0	28
+1090591668	Throttle Position (797F)	65535	0	25
+1090591669	Fuel/ Water Separator Level Status (797F)	65535	0	0
+1090591670	Right Rear To Left Rear Brake Differential Temperature (797F)	65535	0	5
+1090591671	Left Rear Parking Brake Oil Pressure (797F)	65535	0	9
+1090591672	Engine Power Derate (797F)	65535	0	25
+1090591673	Transmission Output Speed #2 (797F)	65535	0	28
+1090591674	Fuel Rail Pressure (797F)	65535	0	9
+1090591675	Steering Angle (797F)	65535	0	4
+1090591676	Brake Oil Diverter Solenoid Status (797F)	65535	0	0
+1090591677	Atmospheric Pressure (797F)	65535	0	9
+1090591678	Service Brake Accumulator Pressure (797F)	65535	0	9
+1090591679	Brake Pump Pressure (797F)	65535	0	9
+1090591680	Left Front Brake Oil Temperature (797F)	65535	0	5
+1090591681	Left Rear Brake Oil Temperature (797F)	65535	0	5
+1090591682	Desired Brake Cooling Pump Speed (797F)	65535	0	28
+1090591683	Final Drive Oil Bypass Solenoid Status (797F)	65535	0	0
+1090591684	Rear Axle Pump Drive Oil Divert Solenoid Status (797F)	65535	0	0
+1090591685	Steering Pump Oil Pressure (797F)	65535	0	9
+1090591686	Transmission Oil Level Status (797F)	65535	0	0
+1090591687	Shutdown Switch (797F)	65535	0	0
+1090591688	Body Up (797F)	65535	0	0
+1090591689	Right Front To Left Front Brake Differential Temperature (797F)	65535	0	5
+1090591690	Maximum Frame Rack Sample Value (797F)	65535	0	9
+1090591691	Hoist Lever Position (797F)	65535	0	0
+1090591692	Hoist Output (797F)	65535	0	0
+1090591693	Right Rear Parking Brake Oil Pressure (797F)	65535	0	9
+1090591694	Cold Mode (797F)	65535	0	0
+1090591695	Engine Derate (797F)	65535	0	0
+1090591696	Throttle Lock Mode (797F)	65535	0	0
+1090591697	Shift Lever Position (797F)	65535	0	0
+1090591698	Right Brake Cooling Filter Status (797F)	65535	0	0
+1090591699	Truck Payload Cycle Fela (797F)	65535	0	0
+1090591700	Peak Frame Bias (797F)	65535	0	9
+1090591701	Maximum Frame Pitch Sample Value (797F)	65535	0	9
+1090591702	Desired Fuel Rail Pressure (797F)	65535	0	9
+1090591703	Left Brake Cooling Filter Status (797F)	65535	0	0
+1090591704	Ambient Air Temperature (797F)	65535	0	5
+1090591705	Air Filter #3 Restriction (797F)	65535	0	9
+1090591706	Air Filter #4 Restriction (797F)	65535	0	9
+1090591707	Injection Disabled (797F)	65535	0	0
+1090591708	Low Oil Pressure (797F)	65535	0	0
+1090591709	Fuel Filter (797F)	65535	0	0
+1090591710	Brake Cooling Pump Installation Status (797F)	65535	0	0
+1090591711	Machine Speed Limit (797F)	65535	0	11
+1090591712	Fuel Transfer Pump Intake Pressure (Absolute) (797F)	65535	0	9
+1090591713	Truck Payload Cycle Frame Pitch FELA (797F)	65535	0	0
+1090591714	Truck Payload Cycle Frame Rack FELA (797F)	65535	0	0
+1090591715	Air Filter #2 Restriction (797F)	65535	0	9
+1090591716	Air Filter #1 Restriction (797F)	65535	0	9
+1090591717	Intake Manifold #2 Pressure (797F)	65535	0	9
+1090591718	Cold Mode Status (797F)	65535	0	0
+1090591719	Fuel Rail Temperature (797F)	65535	0	5
+1090591720	Fuel Temperature (797F)	65535	0	5
+1090591721	Fuel Filter Differential Pressure (797F)	65535	0	9
+1090591722	Secondary Steering Pressure Status (797F)	65535	0	0
+1090591725	Loading Time (797F)	0	0	29
+1090591726	Stop Empty Time (797F)	0	0	29
+1090591727	Travel Empty Time (797F)	0	0	29
+1090591728	Travel Empty Distance (797F)	0	0	8
+1090591729	Stopped Load Time (797F)	0	0	29
+1090591730	Travel Loaded Time (797F)	0	0	29
+1090591731	Haul Distance (797F)	0	0	8
+1090591732	Dippers (797F)	0	0	0
+1090591733	Fuel Used (797F)	0	0	14
+1090591734	Payload (797F)	0	0	19
+1090591735	Engine Hours (797F)	1193046.47083333	0	7
+1090591736	Transmission Oil Pressure (797F)	65535	0	9
+1090591737	Final Drive Lube Pressure Status (797F)	65535	0	0
+1090591738	Differential (Final Drive) Filter Status (797F)	65535	0	0
+1090591739	Engine Cooling Fan Drive Oil Filter Status (797F)	65535	0	0
+1090591740	Left Front Tire Pressure (797F)	65535	0	9
+1090591741	Right Front Tire Pressure (797F)	65535	0	9
+1090591742	Left Rear Outer Tire Pressure (797F)	65535	0	9
+1090591743	Right Rear Outer Tire Pressure (797F)	65535	0	9
+1090591744	Left Rear Inner Tire Pressure (797F)	65535	0	9
+1090591745	Right Rear Inner Tire Pressure (797F)	65535	0	9
+1090591746	Left Front Tire Temperature Compensated Pressure (797F)	65535	0	9
+1090591747	Right Front Tire Temperature Compensated Pressure (797F)	65535	0	9
+1090591748	Left Rear Outer Tire Temperature Compensated Pressure (797F)	65535	0	9
+1090591749	Right Rear Outer Tire Temperature Compensated Pressure (797F)	65535	0	9
+1090591750	Left Rear Inner Tire Temperature Compensated Pressure (797F)	65535	0	9
+1090591751	Right Rear Inner Tire Temperature Compensated Pressure (797F)	65535	0	9
+1090591752	Left Front Tire Temperature (797F)	65535	0	5
+1090591753	Right Front Tire Temperature (797F)	65535	0	5
+1090591754	Left Rear Outer Tire Temperature (797F)	65535	0	5
+1090591755	Right Rear Outer Tire Temperature (797F)	65535	0	5
+1090591756	Left Rear Inner Tire Temperature (797F)	65535	0	5
+1090591757	Right Rear Inner Tire Temperature (797F)	65535	0	5
+1090591758	Payload Cycle Traveling Loaded Distance (797F)	65535	0	8
+1090591759	Elevated Idle (797F)	65535	0	0
+1090591760	Cold Cylinder Cutout (797F)	65535	0	0
+1090591761	E-Stop Shutdown (797F)	65535	0	0
+1090591762	Idle Cutout Active (797F)	65535	0	0
+1090591763	Transmission Main Relief Valve Actual Pressure (797F)	65535	0	9
+1090591764	Hoist Cylinder Head End Pressure (797F)	65535	0	9
+1090591765	Hoist Cylinder Rod End Pressure (797F)	65535	0	9
+1090591766	Anti-Rollback Status (797F)	65535	0	0
+1090591767	Aftertreatment #1 DEF Pressure #1 (797F)	65535	0	9
+1090591768	Aftertreatment #1 DEF Pressure #2 (797F)	65535	0	9
+1090591769	Aftertreatment #1 DEF Tank Low Level Indicator Status (797F)	65535	0	0
+1090591770	Aftertreatment #2 DEF Pressure #1 (797F)	65535	0	9
+1090591771	Aftertreatment #2 DEF Pressure #2 (797F)	65535	0	9
+1090591772	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 1 (797F)	65535	0	0
+1090591773	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 2 (797F)	65535	0	0
+1090591774	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 3 (797F)	65535	0	0
+1090591775	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 4 (797F)	65535	0	0
+1090591776	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 5 (797F)	65535	0	0
+1090591777	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 6 (797F)	65535	0	0
+1090591778	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 7 (797F)	65535	0	0
+1090591779	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 8 (797F)	65535	0	0
+1090591780	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 9 (797F)	65535	0	0
+1090591781	Aftertreatment 1 SCR Intake Pressure (797F)	65535	0	9
+1090591782	Aftertreatment 1 SCR Intake Temperature (797F)	65535	0	5
+1090591783	Aftertreatment 1 SCR System 1 State (797F)	65535	0	0
+1090591784	Aftertreatment 1 SCR System 2 State (797F)	65535	0	0
+1090591785	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 1 (797F)	65535	0	0
+1090591786	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 2 (797F)	65535	0	0
+1090591787	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 3 (797F)	65535	0	0
+1090591788	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 4 (797F)	65535	0	0
+1090591789	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 6 (797F)	65535	0	0
+1090591790	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 7 (797F)	65535	0	0
+1090591791	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 8 (797F)	65535	0	0
+1090591792	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 9 (797F)	65535	0	0
+1090591793	Aftertreatment 2 SCR Intake Pressure (797F)	65535	0	9
+1090591794	Aftertreatment 2 SCR Intake Temperature (797F)	65535	0	5
+1090591795	Aftertreatment 2 SCR System 1 State (797F)	65535	0	0
+1090591796	Aftertreatment 2 SCR System 2 State (797F)	65535	0	0
+1090591797	Aftertreatment Diesel Exhaust Fluid Tank Temperature (797F)	65535	0	5
+1090591798	Aftertreatment Diesel Exhaust Fluid Tank Volume (797F)	65535	0	25
+1090591799	Air Inlet Temperature (797F)	65535	0	5
+1090591800	ARC (Auto Retarder) On/Off Switch Status (797F)	65535	0	0
+1090591801	Auto Lube (797F)	65535	0	0
+1090591802	Boost Pressure (797F)	65535	0	9
+1090591803	Boost Pressure #2 (797F)	65535	0	9
+1090591804	Delayed Engine Shutdown Status (797F)	65535	0	0
+1090591805	Differential (Axle) Oil Level (797F)	65535	0	0
+1090591806	Electric Fuel Transfer Pump Outlet Pressure (797F)	65535	0	9
+1090591807	Electric Fuel Transfer Pump Relay Status (797F)	65535	0	0
+1090591808	Engine Coolant Pump Outlet Pressure (797F)	65535	0	9
+1090591809	Engine Cooling Fan Solenoid Current (797F)	65535	0	2
+1090591810	Engine Load Factor (797F)	65535	0	25
+1090591811	Engine Power Mode (797F)	65535	0	0
+1090591812	Engine Turbocharger 1 Turbine Intake Temperature (797F)	65535	0	5
+1090591813	Engine Turbocharger 2 Turbine Intake Temperature (797F)	65535	0	5
+1090591814	Engine Warm Up Elevated Idle Feature Status (797F)	65535	0	0
+1090591815	Front ARC Control Solenoid Current Status (797F)	65535	0	2
+1090591816	Fuel Filter (Suction Side) Differential Pressure (797F)	65535	0	9
+1090591817	Fuel Transfer Pump Intake Pressure (797F)	65535	0	9
+1090591818	Ground Speed/Direction (797F)	65535	0	11
+1090591819	Ignition Switch (797F)	65535	0	0
+1090591820	Low System Battery Voltage Elevated Idle Status (797F)	65535	0	0
+1090591821	Machine Lockout Lamp Status (797F)	65535	0	0
+1090591822	Main Power Override Relay Status (797F)	65535	0	0
+1090591823	Maximum Desired Engine Retard Speed (797F)	65535	0	28
+1090591824	Operator Inducement Estimated Time To Final Inducement Action (797F)	3932100	0	29
+1090591825	Operator Inducement Safe Harbor Mode Status (797F)	65535	0	0
+1090591826	Operator Requested Retarding Machine Speed (797F)	65535	0	11
+1090591827	Operator Seat Belt Switch Status (797F)	65535	0	0
+1090591828	Peak Frame Pitch (797F)	65535	0	25
+1090591829	Peak Frame Rack (797F)	65535	0	20
+1090591830	Rear ARC Control Solenoid Current Status (797F)	65535	0	2
+1090591831	Requested Gear Command (797F)	65535	0	0
+1090591832	Requested Retarding Machine Speed (797F)	65535	0	11
+1090591833	Service Brake Position (797F)	65535	0	25
+1090591834	Throttle Backup (797F)	65535	0	0
+1090591835	Total Distance (797F)	65535	0	8
+1090591836	Total Operating Hours (797F)	65535	0	7
+1090591837	Traction Control Mode (797F)	65535	0	0
+1090591838	Transmission Charge Filter Bypass Status (797F)	65535	0	0
+1090591839	Transmission Intermediate Speed (797F)	65535	0	28
+1090592577	Torque Converter Outlet Temperature (14M_16M_24M)	65535	0	5
+1090592578	Hydraulic Oil Temperature (14M_16M_24M)	65535	0	5
+1090592579	Transmission Oil Temperature (14M_16M_24M)	65535	0	5
+1090592580	Actual Gear (14M_16M_24M)	65535	0	0
+1090592581	Fuel Gauge (14M_16M_24M)	65535	0	25
+1090592582	Inching Pedal Position (14M_16M_24M)	65535	0	25
+1090592583	Ground Speed/Direction (14M_16M_24M)	65535	0	11
+1090592584	Parking Brake (14M_16M_24M)	65535	0	0
+1090592585	Fuel Pressure (14M_16M_24M)	65535	0	9
+1090592586	Throttle Position (14M_16M_24M)	65535	0	25
+1090592587	Engine Power Derate (14M_16M_24M)	65535	0	25
+1090592588	Percent Engine Load At Current Engine Speed (14M_16M_24M)	65535	0	25
+1090592589	Total Distance (14M_16M_24M)	65535	0	8
+1090592590	Powertrain Filter Bypass Status (14M_16M_24M)	65535	0	0
+1090592591	Boost Pressure (14M_16M_24M)	65535	0	9
+1090592592	Engine Coolant Temperature (14M_16M_24M)	65535	0	5
+1090592593	Service Brake Position (14M_16M_24M)	65535	0	25
+1090592594	Main Hydraulic Pump Oil Pressure (14M_16M_24M)	65535	0	9
+1090592595	Intake Manifold Air Temperature (14M_16M_24M)	65535	0	5
+1090592596	Engine Oil Pressure (14M_16M_24M)	65535	0	9
+1090592597	Engine Speed (14M_16M_24M)	65535	0	28
+1090592598	Fuel Consumption Rate (14M_16M_24M)	65535	0	13
+1090592599	Air Filter Restriction (14M_16M_24M)	65535	0	0
+1090592600	Desired Engine Speed (14M_16M_24M)	32767.5	0	28
+1090592601	Throttle Lock Mode (14M_16M_24M)	65535	0	0
+1090592602	Engine Retarder Status (14M_16M_24M)	65535	0	0
+1090592603	Machine Articulation Angle From Angle Sensor #2 (14M_16M_24M)	6553.5	0	4
+1090592604	Machine Articulation Angle From Angle Sensor #1 (14M_16M_24M)	6553.5	0	4
+1090592605	Autoshift Indicator Status (14M_16M_24M)	65535	0	0
+1090592606	Blade Left Grade Control Mode (14M_16M_24M)	65535	0	0
+1090592607	Blade Left Lift Cylinder Float Status (14M_16M_24M)	65535	0	0
+1090592608	Blade Right Grade Control Mode (14M_16M_24M)	65535	0	0
+1090592609	Blade Right Lift Cylinder Float Status (14M_16M_24M)	65535	0	0
+1090592610	Brake Pedal (14M_16M_24M)	65535	0	0
+1090592611	Compression Brake Feature Status (14M_16M_24M)	65535	0	0
+1090592612	Compression Brake Switch Status (14M_16M_24M)	65535	0	0
+1090592613	Compression Brake Switch Type Configuration (14M_16M_24M)	65535	0	0
+1090592614	Differential Lock Mode Switch Position (14M_16M_24M)	65535	0	0
+1090592615	Differential Lock Relay Status (14M_16M_24M)	65535	0	0
+1090592616	Engine Starts (14M_16M_24M)	65535	0	0
+1090592617	Fuel Temperature (14M_16M_24M)	65535	0	5
+1090592618	Hydraulic Pilot Supply Filter Bypass Status (14M_16M_24M)	65535	0	0
+1090592619	Implement Pilot Supply Solenoid (14M_16M_24M)	65535	0	0
+1090592620	Inlet Air Temperature (14M_16M_24M)	65535	0	5
+1090592621	Operator Present Status (14M_16M_24M)	65535	0	0
+1090592622	Steering Angle (14M_16M_24M)	65535	0	4
+1090592623	Total Fuel (14M_16M_24M)	248076.9610023	0	14
+1090592624	Total Operating Hours (14M_16M_24M)	65535	0	7
+1090592625	Transmission Current Gear (14M_16M_24M)	65535	0	0
+1090592626	Turbo Inlet Pressure (absolute) (14M_16M_24M)	65535	0	9
+1090592627	Vehicle Articulation Angle (14M_16M_24M)	65535	0	4
+1090592776	Loading Time (14M_16M_24M)	0	0	29
+1090592777	Stop Empty Time (14M_16M_24M)	0	0	29
+1090592778	Travel Empty Time (14M_16M_24M)	0	0	29
+1090592779	Travel Empty Distance (14M_16M_24M)	0	0	8
+1090592780	Stopped Load Time (14M_16M_24M)	0	0	29
+1090592781	Travel Loaded Time (14M_16M_24M)	0	0	29
+1090592782	Haul Distance (14M_16M_24M)	0	0	8
+1090592783	Dippers (14M_16M_24M)	0	0	0
+1090592784	Fuel Used (14M_16M_24M)	0	0	14
+1090592785	Payload (14M_16M_24M)	0	0	19
+1090592786	Engine Hours (14M_16M_24M)	1193046.47083333	0	7
+1090593577	Engine Speed (770G_775G)	65535	0	28
+1090593578	Transmission Oil Temperature (770G_775G)	65535	0	5
+1090593579	Tank Fuel Level (770G_775G)	65535	0	25
+1090593580	Fuel Consumption Rate (770G_775G)	248076.91652525	0	13
+1090593581	Engine Oil Pressure (770G_775G)	65535	0	9
+1090593582	Diff Oil Temperature (770G_775G)	65535	0	5
+1090593583	Percent Engine Load At Current Engine Speed (770G_775G)	65535	0	25
+1090593584	Low Oil Pressure (770G_775G)	65535	0	0
+1090593585	Truck Payload (770G_775G)	65535	0	19
+1090593586	Primary Steering Pressure Status (770G_775G)	65535	0	0
+1090593587	Transmission Charge Filter Bypass Status (770G_775G)	65535	0	0
+1090593588	Secondary Steering Relay (770G_775G)	65535	0	0
+1090593589	Injection Disabled (770G_775G)	65535	0	0
+1090593590	Delivered Fuel Volume (770G_775G)	65535	0	0
+1090593591	Engine Derate (770G_775G)	65535	0	0
+1090593592	Cold Mode (770G_775G)	65535	0	0
+1090593593	Intake Manifold Air Temperature (770G_775G)	65535	0	5
+1090593594	Auto Lube (770G_775G)	65535	0	0
+1090593595	Engine Warmup Elevated Idle Feature Status (770G_775G)	65535	0	0
+1090593596	Secondary Steering Motor Status (770G_775G)	65535	0	0
+1090593597	Turbocharger #1 Compressor Inlet Pressure (Absolute) (770G_775G)	65535	0	9
+1090593598	Hoist Lever Duty Cycle (770G_775G)	65535	0	25
+1090593599	Auto Lube Interval (770G_775G)	3932100	0	29
+1090593600	Auto Lube Duration (770G_775G)	65535	0	29
+1090593601	Body Up (770G_775G)	65535	0	0
+1090593602	Cab Air Temperature (770G_775G)	65535	0	5
+1090593603	Service Brake Position (770G_775G)	65535	0	25
+1090593604	Engine Fan Speed (770G_775G)	65535	0	28
+1090593605	Right Front Strut Pressure (770G_775G)	65535	0	9
+1090593606	Right Rear Strut Pressure (770G_775G)	65535	0	9
+1090593607	Air Inlet Temperature (770G_775G)	65535	0	5
+1090593608	Left Rear Wheel Speed (770G_775G)	235926	0	11
+1090593609	Right Rear Brake Solenoid Current (770G_775G)	65535	0	2
+1090593610	Fuel Filter Differential Pressure (770G_775G)	65535	0	9
+1090593611	Desired Engine Fan Speed (770G_775G)	65535	0	28
+1090593612	Fuel Pressure (Absolute) (770G_775G)	65535	0	9
+1090593613	Transmission Maximum Forward Gear (770G_775G)	65535	0	0
+1090593614	Arc Control Solenoid Current (770G_775G)	65535	0	25
+1090593615	Retarder Lever Position Sensor Duty Cycle (770G_775G)	65535	0	25
+1090593616	Cab Blower Motor Command Percentage (770G_775G)	65535	0	25
+1090593617	Air Conditioner Refrigerant Monitoring Circuit Status (770G_775G)	65535	0	0
+1090593618	Tcs Proportional Solenoid (770G_775G)	65535	0	25
+1090593619	Service Brake Pedal Position Sensor Duty Cycle (770G_775G)	65535	0	25
+1090593620	Desired Engine Retard Speed (770G_775G)	65535	0	28
+1090593621	Left Front Strut Pressure (770G_775G)	65535	0	9
+1090593622	Battery Voltage (770G_775G)	65535	0	31
+1090593623	Left Rear Strut Pressure (770G_775G)	65535	0	9
+1090593624	Engine Retarder Status (770G_775G)	65535	0	0
+1090593625	Peak Air Filter Restriction (770G_775G)	65535	0	9
+1090593626	Arc (Auto Retarder) On/Off Switch Status (770G_775G)	65535	0	0
+1090593627	Hydraulic Oil Level (770G_775G)	65535	0	0
+1090593628	Fuel Pressure (770G_775G)	65535	0	9
+1090593629	Requested Gear Command (770G_775G)	65535	0	0
+1090593630	Machine Overload Speed Limit Enable Status (770G_775G)	65535	0	0
+1090593631	Secondary Brake Solenoid Current (770G_775G)	65535	0	2
+1090593632	Secondary Brake Pedal Position Sensor Duty Cycle (770G_775G)	65535	0	25
+1090593633	Cab Blower Speed Control Position (770G_775G)	65535	0	25
+1090593634	Ether Solenoid Configuration (770G_775G)	65535	0	0
+1090593635	Machine Body Up Speed Limit (770G_775G)	65535	0	11
+1090593636	Intake Manifold #2 Pressure (Absolute) (770G_775G)	65535	0	9
+1090593637	Throttle Sensor Duty Cycle (770G_775G)	65535	0	25
+1090593638	Transmission Oil Level (770G_775G)	65535	0	0
+1090593639	Maximum Forward Ground Speed (770G_775G)	65535	0	11
+1090593640	Desired Retarding Engine Speed (770G_775G)	65535	0	28
+1090593641	Cab Ventilation Duct Air Temperature (770G_775G)	65535	0	5
+1090593642	Rear Brake Supply Solenoid Status (770G_775G)	65535	0	0
+1090593643	Desired Compression Brake Status (770G_775G)	65535	0	0
+1090593644	Cab Air Temperature Control Switch Position (770G_775G)	65535	0	0
+1090593645	Fuel Temperature (770G_775G)	65535	0	5
+1090593646	Engine Fuel Level (770G_775G)	65535	0	0
+1090593647	Steering Oil Level (770G_775G)	65535	0	0
+1090593648	Air Conditioner Evaporator Coil Temperature (770G_775G)	65535	0	5
+1090593649	Operator Requested Cab Air Temperature (770G_775G)	65535	0	5
+1090593650	Requested Engine Retarder Status (770G_775G)	65535	0	0
+1090593651	Right Front To Left Front Brake Differential Temperature (770G_775G)	65535	0	5
+1090593652	Sound Reduction Engine Speed Limit Enable Status (770G_775G)	65535	0	0
+1090593653	Lockup Clutch Oil Filter Bypass (770G_775G)	65535	0	0
+1090593654	Brake Oil Temperature (770G_775G)	65535	0	5
+1090593655	Air Filter #1 Restriction (770G_775G)	65535	0	9
+1090593656	A/C Compressor (770G_775G)	65535	0	0
+1090593657	Auto Retarder Lamp Status (770G_775G)	65535	0	0
+1090593658	Secondary Brake Pedal Position (770G_775G)	65535	0	25
+1090593659	Left Front Tire Temperature Compensated Pressure (770G_775G)	65535	0	9
+1090593660	Right Rear Inner Tire Temperature Compensated Pressure (770G_775G)	65535	0	9
+1090593661	Left Rear Inner Tire Temperature Compensated Pressure (770G_775G)	65535	0	9
+1090593662	Right Rear Outer Tire Temperature Compensated Pressure (770G_775G)	65535	0	9
+1090593663	Left Rear Outer Tire Temperature Compensated Pressure (770G_775G)	65535	0	9
+1090593664	Operator Top Forward Transmission Gear (770G_775G)	65535	0	0
+1090593665	Shift Lever Duty Cycle (770G_775G)	65535	0	25
+1090593666	Air Filter Restriction (770G_775G)	65535	0	9
+1090593667	Engine Coolant Temperature (770G_775G)	65535	0	5
+1090593668	Right Exhaust Temperature (770G_775G)	65535	0	5
+1090593669	Intake Manifold Pressure (Absolute) (770G_775G)	65535	0	9
+1090593670	Left Exhaust Temperature (770G_775G)	65535	0	5
+1090593671	Right Rear Wheel Speed (770G_775G)	235926	0	11
+1090593672	Transmission Output Speed (770G_775G)	65535	0	28
+1090593673	Service Brake (770G_775G)	65535	0	0
+1090593674	Retarder Lever Position (770G_775G)	65535	0	25
+1090593675	Altitude Derate (770G_775G)	65535	0	0
+1090593676	Left Rear Brake Oil Temperature (770G_775G)	65535	0	5
+1090593677	Compression Brake Low/High Command (770G_775G)	65535	0	0
+1090593678	Compression Brake Med/High Command (770G_775G)	65535	0	0
+1090593679	Compression Brake Switch Status (770G_775G)	65535	0	0
+1090593680	Dpf #1 Soot Loading Percent (770G_775G)	65535	0	25
+1090593681	Dpf Indicator Status (770G_775G)	65535	0	0
+1090593682	Egr Differential Pressure (770G_775G)	65535	0	9
+1090593683	Egr Intake Pressure (Absolute) (770G_775G)	65535	0	9
+1090593684	Egr Temperature (770G_775G)	65535	0	5
+1090593685	Engine Exhaust Manifold Bank #1 Flow Balance Valve Solenoid Status (770G_775G)	65535	0	0
+1090593686	Egr Valve Control Command (770G_775G)	65535	0	25
+1090593687	Right Rear To Left Rear Brake Differential Temperature (770G_775G)	65535	0	5
+1090593688	Cab Air Heater Engine Coolant Actuator Duty Cycle (770G_775G)	65535	0	25
+1090593689	Actual Gear (770G_775G)	65535	0	0
+1090593690	Starter Relay (770G_775G)	65535	0	0
+1090593691	Brake Lamp Driver (770G_775G)	65535	0	0
+1090593692	Secondary Brake Status (770G_775G)	65535	0	25
+1090593693	Engine Charge Air Cooler #1 Outlet Temperature (770G_775G)	65535	0	5
+1090593694	Engine Exhaust Manifold Bank #1 Flow Balance Valve Position (770G_775G)	65535	0	0
+1090593695	Fuel Filter (770G_775G)	65535	0	0
+1090593696	User Shutdown (770G_775G)	65535	0	0
+1090593697	Right Rear Outer Tire Temperature (770G_775G)	65535	0	5
+1090593698	Right Rear Outer Tire Pressure/Temperature Sensor Installation (770G_775G)	65535	0	0
+1090593699	Right Rear Inner Tire Pressure/Temperature Sensor Installation (770G_775G)	65535	0	0
+1090593700	Right Front Tire Pressure/Temperature Sensor Installation (770G_775G)	65535	0	0
+1090593701	Right Front Tire Pressure (770G_775G)	65535	0	9
+1090593702	Parking Brake Solenoid (770G_775G)	65535	0	0
+1090593703	Left Rear Outer Tire Pressure/Temperature Sensor Installation (770G_775G)	65535	0	0
+1090593704	Main Pilot Pressure (770G_775G)	65535	0	9
+1090593705	Left Rear Inner Tire Pressure/Temperature Sensor Installation (770G_775G)	65535	0	0
+1090593706	Left Front Tire Temperature (770G_775G)	65535	0	5
+1090593707	Left Front Tire Pressure/Temperature Sensor Installation (770G_775G)	65535	0	0
+1090593708	Left Front Tire Pressure (770G_775G)	65535	0	9
+1090593709	Left Front Tire Cold Inflation Pressure (770G_775G)	65535	0	9
+1090593710	Exhaust System High Temperature Indicator Status (770G_775G)	65535	0	0
+1090593711	Fuel Remaining Operation Time (770G_775G)	3932100	0	29
+1090593712	Ground Speed (770G_775G)	105468.35904	0	11
+1090593713	Steering Angle (770G_775G)	65535	0	5
+1090593714	Torque Converter Outlet Temperature (770G_775G)	65535	0	5
+1090593715	Throttle Lock Mode (770G_775G)	65535	0	0
+1090593716	Shift Lever Position (770G_775G)	65535	0	0
+1090593717	Oht Truck Payload State (770G_775G)	65535	0	0
+1090593718	Engine Coolant Full Level Switch Status (770G_775G)	65535	0	0
+1090593719	Desired Engine Speed (770G_775G)	65535	0	28
+1090593720	Traction Control Mode (770G_775G)	65535	0	0
+1090593721	Auto Retarder Mode (770G_775G)	65535	0	0
+1090593722	Differential (Axle) Oil Level (770G_775G)	65535	0	0
+1090593723	Transmission Oil Level Status (770G_775G)	65535	0	0
+1090593724	Intake Manifold #2 Air Temperature (770G_775G)	65535	0	5
+1090593725	Auto Lube Relay Status (770G_775G)	65535	0	0
+1090593726	Hoist Output (770G_775G)	65535	0	0
+1090593727	Hoist Lever Position (770G_775G)	65535	0	0
+1090593728	Engine Oil Level (770G_775G)	65535	0	0
+1090593729	Right Front Tire Temperature Compensated Pressure (770G_775G)	65535	0	9
+1090593730	Machine Rear Tire Weight-Speed (770G_775G)	65535	0	0
+1090593731	Service Brake Accumulator Pressure (770G_775G)	65535	0	9
+1090593732	Atmospheric Pressure (770G_775G)	65535	0	9
+1090593733	Ground Speed/Direction (770G_775G)	65535	0	11
+1090593734	Ambient Air Temperature (770G_775G)	65535	0	5
+1090593735	Autodig Digging Status (770G_775G)	65535	0	0
+1090593736	Economy Mode Switch Position (770G_775G)	65535	0	0
+1090593737	Fuel Economy Mode Status (770G_775G)	65535	0	0
+1090593738	Transmission Oil Low Level Switch Status (770G_775G)	65535	0	0
+1090593739	Tire Monitoring System Barometric Pressure Compensation Enable Status (770G_775G)	65535	0	0
+1090593740	Right Rear To Right Front Brake Differential Temperature (770G_775G)	65535	0	5
+1090593741	Left Rear To Left Front Brake Differential Temperature (770G_775G)	65535	0	5
+1090593742	Transmission Oil Add Level Switch Status (770G_775G)	65535	0	0
+1090593743	Parking Brake (770G_775G)	65535	0	0
+1090593744	Left Front Brake Oil Temperature (770G_775G)	65535	0	5
+1090593745	Smoke Limit Fuel Volume (770G_775G)	65535	0	0
+1090593746	Torque Limit Fuel Volume (770G_775G)	65535	0	0
+1090593747	Left Exhaust #2 Temperature (770G_775G)	65535	0	5
+1090593748	Right Exhaust #2 Temperature (770G_775G)	65535	0	5
+1090593749	Right Front Brake Oil Temperature (770G_775G)	65535	0	5
+1090593750	Throttle Position (770G_775G)	65535	0	25
+1090593751	Ether Injection (770G_775G)	65535	0	0
+1090593752	Coolant Level (770G_775G)	65535	0	0
+1090593753	Right Rear Brake Oil Temperature (770G_775G)	65535	0	5
+1090593754	Brake Filter Bypass Status (770G_775G)	65535	0	0
+1090593755	Boost Pressure (770G_775G)	65535	0	9
+1090593756	Engine Oil Pressure (Absolute) (770G_775G)	65535	0	9
+1090593757	Fuel Gauge (770G_775G)	65535	0	25
+1090593758	Maximum Reverse Ground Speed (770G_775G)	65535	0	11
+1090593759	Transmission Oil Full Level Switch Status (770G_775G)	65535	0	0
+1090593760	Right Front To Left Front Strut Differential Pressure (770G_775G)	65535	0	9
+1090593761	Right Rear To Left Rear Strut Differential Pressure (770G_775G)	65535	0	9
+1090593762	Right Rear To Left Rear Exhaust Differential Temperature (770G_775G)	65535	0	5
+1090593763	Machine Front Tire Weight-Speed (770G_775G)	65535	0	0
+1090593764	Right Front To Left Front Exhaust Differential Temperature (770G_775G)	65535	0	5
+1090593765	Right Front Tire Temperature (770G_775G)	65535	0	5
+1090593766	Left Rear Outer Tire Pressure (770G_775G)	65535	0	9
+1090593767	Left Rear Outer Tire Temperature (770G_775G)	65535	0	5
+1090593768	Left Rear Inner Tire Pressure (770G_775G)	65535	0	9
+1090593769	Left Rear Inner Tire Temperature (770G_775G)	65535	0	5
+1090593770	Right Rear Inner Tire Pressure (770G_775G)	65535	0	9
+1090593771	Right Rear Inner Tire Temperature (770G_775G)	65535	0	5
+1090593772	Right Rear Outer Tire Pressure (770G_775G)	65535	0	9
+1090593876	Loading Time (770G_775G)	0	0	29
+1090593877	Stop Empty Time (770G_775G)	0	0	29
+1090593878	Travel Empty Time (770G_775G)	0	0	29
+1090593879	Travel Empty Distance (770G_775G)	0	0	8
+1090593880	Stopped Load Time (770G_775G)	0	0	29
+1090593881	Travel Loaded Time (770G_775G)	0	0	29
+1090593882	Haul Distance (770G_775G)	0	0	8
+1090593883	Dippers (770G_775G)	0	0	0
+1090593884	Fuel Used (770G_775G)	0	0	14
+1090593885	Payload (770G_775G)	0	0	19
+1090593886	Engine Hours (770G_775G)	1193046.47083333	0	7
+1090594577	Actual Gear (795FAC)	65535	0	0
+1090594578	Air Filter #1 Restriction (795FAC)	65535	0	9
+1090594579	Air Filter #2 Restriction (795FAC)	65535	0	9
+1090594580	Air Filter #3 Restriction (795FAC)	65535	0	9
+1090594581	Air Filter #4 Restriction (795FAC)	65535	0	9
+1090594582	Alternator R Terminal Speed (795FAC)	65535	0	28
+1090594583	Alternator Status (795FAC)	65535	0	0
+1090594584	Altitude Derate (795FAC)	65535	0	0
+1090594585	Ambient Air Temperature (795FAC)	65535	0	5
+1090594586	Atmospheric Pressure (795FAC)	65535	0	9
+1090594587	Auto Lube Pressure (795FAC)	65535	0	9
+1090594588	Auto Lube Relay Status (795FAC)	65535	0	0
+1090594589	Body Position Angle (795FAC)	65535	0	4
+1090594590	Body Up (795FAC)	65535	0	0
+1090594591	Brake Filter Bypass Status (795FAC)	65535	0	0
+1090594592	Brake Pump Pressure (795FAC)	65535	0	9
+1090594593	Brake Pump Unloader Solenoid Status (795FAC)	65535	0	0
+1090594594	Cold Mode (795FAC)	65535	0	0
+1090594595	Crankcase Pressure (795FAC)	65535	0	9
+1090594596	Description Not Found (795FAC)	65535	0	0
+1090594597	Desired Engine Fan Speed (795FAC)	65535	0	28
+1090594598	Desired Engine Speed (795FAC)	65535	0	28
+1090594599	Desired Fuel Rail Pressure (795FAC)	65535	0	9
+1090594600	Drivetrain Desired Engine Speed (795FAC)	65535	0	28
+1090594601	Engine Coolant Pump Outlet Pressure (Absolute) (795FAC)	65535	0	9
+1090594602	Engine Coolant Pump Outlet Temperature (795FAC)	65535	0	5
+1090594603	Engine Coolant Temperature (795FAC)	65535	0	5
+1090594604	Engine Derate (795FAC)	65535	0	0
+1090594605	Engine Fan Speed (795FAC)	65535	0	28
+1090594606	Engine Load Factor (795FAC)	65535	0	25
+1090594607	Engine Oil Level (795FAC)	65535	0	0
+1090594608	Engine Oil Pressure (795FAC)	65535	0	9
+1090594609	Engine Oil Pressure (Absolute) (795FAC)	65535	0	9
+1090594610	Engine Oil Temperature (795FAC)	65535	0	5
+1090594611	Engine Power Derate (795FAC)	65535	0	25
+1090594612	Engine Pre-Lube (795FAC)	65535	0	0
+1090594613	Engine Speed (795FAC)	65535	0	28
+1090594614	Front Brake Retarding Enable Status (795FAC)	65535	0	0
+1090594615	Front Brake Retarding Enable Switch Status (795FAC)	65535	0	0
+1090594616	Fuel Actuator Position Command (795FAC)	65535	0	25
+1090594617	Fuel Consumption Rate (795FAC)	65535	0	13
+1090594618	Fuel Filter (795FAC)	65535	0	0
+1090594619	Fuel Filter Differential Pressure (795FAC)	65535	0	9
+1090594620	Fuel Pressure (795FAC)	65535	0	9
+1090594621	Fuel Rail Pressure (795FAC)	65535	0	9
+1090594622	Fuel Rail Temperature (795FAC)	65535	0	5
+1090594623	Fuel Temperature (795FAC)	65535	0	5
+1090594624	Fuel Transfer Pump Intake Pressure (Absolute) (795FAC)	65535	0	9
+1090594625	Fuel/ Water Separator Level Status (795FAC)	65535	0	0
+1090594626	Ground Speed/Direction (795FAC)	65535	0	11
+1090594627	Hoist Lever Position (795FAC)	65535	0	0
+1090594628	Hoist Output (795FAC)	65535	0	0
+1090594629	Hydraulic Case Drain Filter Bypass Status (795FAC)	65535	0	0
+1090594630	Hydraulic Hoist Screen Filter Bypass Status (795FAC)	65535	0	0
+1090594631	Idle Shutdown Timer (795FAC)	65535	0	0
+1090594632	Injection Disabled (795FAC)	65535	0	0
+1090594633	Inlet Air Temperature (795FAC)	65535	0	5
+1090594634	Intake Manifold #2 Air Temperature (795FAC)	65535	0	5
+1090594635	Intake Manifold #2 Pressure (795FAC)	65535	0	9
+1090594636	Intake Manifold Pressure (795FAC)	65535	0	9
+1090594637	Left Brake Cooling Filter Status (795FAC)	65535	0	0
+1090594638	Left Exhaust Temperature (795FAC)	65535	0	5
+1090594639	Left Final Drive Filter Bypass (795FAC)	65535	0	0
+1090594640	Left Final Drive Lube Pressure (795FAC)	65535	0	9
+1090594641	Left Final Drive Oil Temperature (795FAC)	65535	0	5
+1090594642	Left Front Brake Oil Temperature (795FAC)	65535	0	5
+1090594643	Left Front Strut Pressure (795FAC)	65535	0	9
+1090594644	Left Front Tire Pressure (795FAC)	65535	0	9
+1090594645	Left Front Tire Temperature (795FAC)	65535	0	5
+1090594646	Left Front Tire Temperature Compensated Pressure (795FAC)	65535	0	9
+1090594647	Left Rear Brake Oil Temperature (795FAC)	65535	0	5
+1090594648	Left Rear Inner Tire Pressure (795FAC)	65535	0	9
+1090594649	Left Rear Inner Tire Temperature (795FAC)	65535	0	5
+1090594650	Left Rear Inner Tire Temperature Compensated Pressure (795FAC)	65535	0	9
+1090594651	Left Rear Outer Tire Pressure (795FAC)	65535	0	9
+1090594652	Left Rear Outer Tire Temperature (795FAC)	65535	0	5
+1090594653	Left Rear Outer Tire Temperature Compensated Pressure (795FAC)	65535	0	9
+1090594654	Left Rear Strut Pressure (795FAC)	65535	0	9
+1090594655	Low Oil Pressure (795FAC)	65535	0	0
+1090594656	Machine Front Tire Weight-Speed (795FAC)	65535	0	0
+1090594657	Machine Rear Tire Weight-Speed (795FAC)	65535	0	0
+1090594658	Machine Speed Limit (795FAC)	65535	0	11
+1090594659	Machine System Air Pressure (795FAC)	65535	0	9
+1090594660	Maximum Frame Pitch Sample Value (795FAC)	65535	0	9
+1090594661	Maximum Frame Rack Sample Value (795FAC)	65535	0	9
+1090594662	Oht Truck Payload State (795FAC)	65535	0	0
+1090594663	Oil Filter Differential Pressure (795FAC)	65535	0	9
+1090594664	Parking Brake (795FAC)	65535	0	0
+1090594665	Parking Brake Lock Status (795FAC)	65535	0	0
+1090594666	Parking Brake Oil Pressure (795FAC)	65535	0	9
+1090594667	Payload Cycle Traveling Loaded Distance (795FAC)	65535	0	8
+1090594668	Peak Air Filter Restriction (795FAC)	65535	0	9
+1090594669	Peak Frame Bias (795FAC)	65535	0	9
+1090594670	Percent Fuel Position (795FAC)	65535	0	25
+1090594671	Rear Axle Pump Drive Oil Divert Solenoid Status (795FAC)	65535	0	0
+1090594672	Retarder Lever Position (795FAC)	65535	0	25
+1090594673	Right Exhaust Temperature (795FAC)	65535	0	5
+1090594674	Right Final Drive Filter Bypass (795FAC)	65535	0	0
+1090594675	Right Final Drive Lube Pressure (795FAC)	65535	0	9
+1090594676	Right Final Drive Oil Temperature (795FAC)	65535	0	5
+1090594677	Right Front Brake Oil Temperature (795FAC)	65535	0	5
+1090594678	Right Front Strut Pressure (795FAC)	65535	0	9
+1090594679	Right Front Tire Pressure (795FAC)	65535	0	9
+1090594680	Right Front Tire Temperature (795FAC)	65535	0	5
+1090594681	Right Front Tire Temperature Compensated Pressure (795FAC)	65535	0	9
+1090594682	Right Front To Left Front Strut Differential Pressure (795FAC)	65535	0	9
+1090594683	Right Rear Brake Oil Temperature (795FAC)	65535	0	5
+1090594684	Right Rear Inner Tire Pressure (795FAC)	65535	0	9
+1090594685	Right Rear Inner Tire Temperature (795FAC)	65535	0	5
+1090594686	Right Rear Inner Tire Temperature Compensated Pressure (795FAC)	65535	0	9
+1090594687	Right Rear Outer Tire Pressure (795FAC)	65535	0	9
+1090594688	Right Rear Outer Tire Temperature (795FAC)	65535	0	5
+1090594689	Right Rear Outer Tire Temperature Compensated Pressure (795FAC)	65535	0	9
+1090594690	Right Rear Strut Pressure (795FAC)	65535	0	9
+1090594691	Right Rear To Left Rear Strut Differential Pressure (795FAC)	65535	0	9
+1090594692	Right To Left Exhaust Differential Temperature (795FAC)	65535	0	5
+1090594693	Secondary Brake Accumulator Pressure (795FAC)	65535	0	9
+1090594694	Secondary Brake Pedal Position (795FAC)	65535	0	25
+1090594695	Service Brake (795FAC)	65535	0	0
+1090594696	Service Brake Accumulator Pressure (795FAC)	65535	0	9
+1090594697	Service Brake Position (795FAC)	65535	0	25
+1090594698	Shift Lever Position (795FAC)	65535	0	0
+1090594699	Shutdown Switch (795FAC)	65535	0	0
+1090594700	Smoke Limit Fuel Volume (795FAC)	65535	0	43
+1090594701	Starter Lockout Status (795FAC)	65535	0	0
+1090594702	Steering Accumulator Oil Pressure (795FAC)	65535	0	9
+1090594703	Steering Angle (795FAC)	65535	0	4
+1090594704	Steering Fluid Temperature (795FAC)	65535	0	5
+1090594705	Steering Oil Level (795FAC)	65535	0	0
+1090594706	Steering Pump Oil Pressure (795FAC)	65535	0	9
+1090594707	System Voltage (795FAC)	65535	0	31
+1090594708	Tank Fuel Level (795FAC)	65535	0	25
+1090594709	Throttle Lock Mode (795FAC)	65535	0	0
+1090594710	Throttle Position (795FAC)	65535	0	25
+1090594711	Torque Limit Fuel Volume (795FAC)	65535	0	43
+1090594712	Transmission Lockout Status (795FAC)	65535	0	0
+1090594713	Truck Payload (795FAC)	65535	0	19
+1090594714	Truck Payload Cycle Fela (795FAC)	65535	0	0
+1090594715	Truck Payload Cycle Frame Pitch Fela (795FAC)	65535	0	0
+1090594716	Truck Payload Cycle Frame Rack Fela (795FAC)	65535	0	0
+1090594717	Turbocharger #1 Compressor Inlet Pressure (Absolute) (795FAC)	65535	0	9
+1090594718	Turbocharger #2 Compressor Inlet Pressure (Absolute) (795FAC)	65535	0	9
+1090594719	Turbocharger #3 Compressor Inlet Pressure (Absolute) (795FAC)	65535	0	9
+1090594720	Turbocharger #4 Compressor Inlet Pressure (Absolute) (795FAC)	65535	0	9
+1090594721	User Shutdown (795FAC)	65535	0	0
+1090594722	Ac Ground Fault Percentage (795FAC)	65535	0	25
+1090594723	Ac Ground Fault Percentage (795FAC)	65535	0	25
+1090594724	Chopper Module Output Current (795FAC)	65535	0	2
+1090594725	Chopper Module Temperature (795FAC)	65535	0	5
+1090594726	Dc Ground Fault Percentage (795FAC)	65535	0	25
+1090594727	Dc Ground Fault Percentage (795FAC)	65535	0	25
+1090594728	Dc Power Bus Current (795FAC)	65535	0	2
+1090594729	Dc Power Bus Voltage #1 (795FAC)	65535	0	31
+1090594730	Dc Power Bus Voltage #2 (795FAC)	65535	0	31
+1090594731	Drive Motor #1 Speed/Direction (795FAC)	65535	0	28
+1090594732	Drive Motor #2 Speed/Direction (795FAC)	65535	0	28
+1090594733	Drive Motor Bearing #1 Temperature (795FAC)	65535	0	5
+1090594734	Drive Motor Bearing #1 Temperature (795FAC)	65535	0	5
+1090594735	Drive Motor Bearing #2 Temperature (795FAC)	65535	0	5
+1090594736	Drive Motor Bearing #2 Temperature (795FAC)	65535	0	5
+1090594737	Drive Motor Phase A Current (795FAC)	65535	0	2
+1090594738	Drive Motor Phase A Current (795FAC)	65535	0	2
+1090594739	Drive Motor Phase B Current (795FAC)	65535	0	2
+1090594740	Drive Motor Phase B Current (795FAC)	65535	0	2
+1090594741	Drive Motor Phase C Current (795FAC)	65535	0	2
+1090594742	Drive Motor Phase C Current (795FAC)	65535	0	2
+1090594743	Drive Motor Power (795FAC)	65535	0	12
+1090594744	Drive Motor Speed (795FAC)	65535	0	28
+1090594745	Drive Motor Speed (795FAC)	65535	0	28
+1090594746	Drive Motor Speed #1 Signal #1 Speed (795FAC)	65535	0	28
+1090594747	Drive Motor Speed #1 Signal #2 Speed (795FAC)	65535	0	28
+1090594748	Drive Motor Speed #2 Signal #1 Speed (795FAC)	65535	0	28
+1090594749	Drive Motor Speed #2 Signal #2 Speed (795FAC)	65535	0	28
+1090594750	Drive Motor Winding #1 Temperature (795FAC)	65535	0	5
+1090594751	Drive Motor Winding #1 Temperature (795FAC)	65535	0	5
+1090594752	Drive Motor Winding #2 Temperature (795FAC)	65535	0	5
+1090594753	Drive Motor Winding #2 Temperature (795FAC)	65535	0	5
+1090594754	Electric Drive Cooling Fan Solenoid Current (795FAC)	65535	0	2
+1090594755	Electric Drive Cooling Fan Speed (795FAC)	65535	0	28
+1090594756	Electric Retarding Grid Power Consumption (795FAC)	65535	0	12
+1090594757	Generator Average Rms Current (795FAC)	65535	0	2
+1090594758	Generator Bearing #1 Temperature (795FAC)	65535	0	5
+1090594759	Generator Bearing #2 Temperature (795FAC)	65535	0	5
+1090594760	Generator Excitation Field Regulator Command Duty Cycle (795FAC)	655.35	0	25
+1090594761	Generator Excitation Field Regulator Current (795FAC)	655.35	0	16
+1090594762	Generator Excitation Field Regulator Current Command (795FAC)	6553.5	0	16
+1090594763	Generator Excitation Field Regulator Diag Feedback Duty Cycle (795FAC)	1310.7	0	25
+1090594764	Generator Excitation Field Regulator Enable Command (795FAC)	65535	0	0
+1090594765	Generator Speed (795FAC)	65535	0	28
+1090594766	Generator Winding #1 Temperature (795FAC)	65535	0	5
+1090594767	Generator Winding #2 Temperature (795FAC)	65535	0	5
+1090594768	Left Front Axle Speed (795FAC)	6553500	0	28
+1090594769	Motor Control #1 Enable Command (795FAC)	65535	0	0
+1090594770	Motor Control #1 Enable Feedback (795FAC)	65535	0	0
+1090594771	Motor Control #2 Enable Command (795FAC)	65535	0	0
+1090594772	Motor Control #2 Enable Feedback (795FAC)	65535	0	0
+1090594773	Phase A Rms Current (795FAC)	65535	0	2
+1090594774	Phase B Rms Current (795FAC)	65535	0	2
+1090594775	Phase C Rms Current (795FAC)	65535	0	2
+1090594776	Phase Module A Temperature (795FAC)	65535	0	5
+1090594777	Phase Module A Temperature (795FAC)	65535	0	5
+1090594778	Phase Module B Temperature (795FAC)	65535	0	5
+1090594779	Phase Module B Temperature (795FAC)	65535	0	5
+1090594780	Phase Module C Temperature (795FAC)	65535	0	5
+1090594781	Phase Module C Temperature (795FAC)	65535	0	5
+1090594782	Requested Drive Motor Torque (795FAC)	65535	0	24
+1090594783	Requested Drive Motor Torque (795FAC)	65535	0	24
+1090594784	Requested Drive Motor Torque (795FAC)	65535	0	24
+1090594785	Retarding Grid Blower Phase A Current (795FAC)	65535	0	2
+1090594786	Retarding Grid Blower Phase B Current (795FAC)	65535	0	2
+1090594787	Retarding Grid Blower Phase C Current (795FAC)	65535	0	2
+1090594788	Retarding Grid Contactor #1 Feedback Signal Status (795FAC)	65535	0	0
+1090594789	Retarding Grid Contactor #2 Feedback Signal Status (795FAC)	65535	0	0
+1090594790	Retarding Grid Contactor Output Current (795FAC)	65535	0	2
+1090594791	Right Front Axle Speed (795FAC)	6553500	0	28
+1090594792	Right To Left Exhaust Differential Temperature (795FAC)	65535	0	5
+1090594876	Loading Time (795FAC)	0	0	29
+1090594877	Stop Empty Time (795FAC)	0	0	29
+1090594878	Travel Empty Time (795FAC)	0	0	29
+1090594879	Travel Empty Distance (795FAC)	0	0	8
+1090594880	Stopped Load Time (795FAC)	0	0	29
+1090594881	Travel Loaded Time (795FAC)	0	0	29
+1090594882	Haul Distance (795FAC)	0	0	8
+1090594883	Dippers (795FAC)	0	0	0
+1090594884	Fuel Used (795FAC)	0	0	14
+1090594885	Payload (795FAC)	0	0	19
+1090594886	Engine Hours (795FAC)	4294967295	0	7
+1090594887	Cold Cylinder Cutout (795FAC)	65535	0	0
+1090594888	Elevated Idle (795FAC)	65535	0	0
+1090594889	E-Stop Shutdown (795FAC)	65535	0	0
+1090594890	Generator Excitation Field Regulator Diagnostic Feedback Duty Cycle (795FAC)	65535	0	25
+1090594891	Idle Cutout Active (795FAC)	65535	0	0
+1090594892	Intake Manifold Air Temperature (795FAC)	65535	0	5
+1090595577	Actual Gear (D11T_V2)	65535	0	0
+1090595578	Air Filter #1 Restriction (D11T_V2)	65535	0	9
+1090595579	Ambient Air Temperature (D11T_V2)	65535	0	5
+1090595580	Boost Pressure (D11T_V2)	65535	0	9
+1090595581	Datalogger Trigger Type (D11T_V2)	65535	0	0
+1090595582	Engine Coolant Temperature (D11T_V2)	65535	0	5
+1090595583	Engine Oil Pressure (D11T_V2)	65535	0	9
+1090595584	Engine Speed (D11T_V2)	65535	0	28
+1090595585	Fuel Consumption Rate (D11T_V2)	65535	0	13
+1090595586	Fuel Pressure (D11T_V2)	65535	0	9
+1090595587	Hydraulic Oil Temperature (D11T_V2)	65535	0	5
+1090595588	Left Exhaust Temperature (D11T_V2)	65535	0	5
+1090595589	Main Hydraulic Pump Oil Pressure (D11T_V2)	65535	0	9
+1090595590	Operator Id (D11T_V2)	65535	0	0
+1090595591	Percent Engine Load At Current Engine Speed (D11T_V2)	65535	0	25
+1090595592	Right Exhaust Temperature (D11T_V2)	65535	0	5
+1090595593	Right To Left Exhaust Differential Temperature (D11T_V2)	65535	0	5
+1090595594	Service Brake Position (D11T_V2)	65535	0	25
+1090595595	Timestamp Trigger Condition (D11T_V2)	65535	0	0
+1090595596	Torque Converter Outlet Temperature (D11T_V2)	65535	0	5
+1090595597	Torque Converter Speed Ratio (D11T_V2)	65535	0	0
+1090595598	Track Speed/Direction (D11T_V2)	65535	0	11
+1090595599	Transmission Oil Temperature (D11T_V2)	65535	0	5
+1090595600	Loading Time (D11T_V2)	0	0	29
+1090595601	Stop Empty Time (D11T_V2)	0	0	29
+1090595602	Travel Empty Time (D11T_V2)	0	0	29
+1090595603	Travel Empty Distance (D11T_V2)	0	0	8
+1090595604	Stopped Load Time (D11T_V2)	0	0	29
+1090595605	Travel Loaded Time (D11T_V2)	0	0	29
+1090595606	Haul Distance (D11T_V2)	0	0	8
+1090595607	Dippers (D11T_V2)	0	0	0
+1090595608	Fuel Used (D11T_V2)	0	0	14
+1090595609	Payload (D11T_V2)	0	0	19
+1090595610	Engine Hours (D11T_V2)	1193046.47083333	0	7
+1090595611	Engine Load Factor (D11T_V2)	65535	0	25
+1090597577	Actual Gear (993K)	65535	0	0
+1090597578	Air Filter #1 Restriction (993K)	65535	0	9
+1090597579	Air Filter #2 Restriction (993K)	65535	0	9
+1090597580	Ambient Air Temperature (993K)	65535	0	5
+1090597581	Boost Pressure (993K)	65535	0	9
+1090597582	Boost Pressure #2 (993K)	65535	0	9
+1090597583	Cooldown Override Request (993K)	65535	0	0
+1090597584	Dump Solenoid #1 Current Command (993K)	65535	0	2
+1090597585	EGR Temperature (993K)	65535	0	5
+1090597586	Engine Coolant Temperature (993K)	65535	0	5
+1090597587	Engine Oil Pressure (993K)	65535	0	9
+1090597588	Engine Power Derate (993K)	65535	0	25
+1090597589	Engine Speed (993K)	65535	0	28
+1090597590	Fan Pump Pressure (993K)	65535	0	9
+1090597591	Front Axle Oil Temperature (993K)	65535	0	5
+1090597592	Fuel Consumption Rate (993K)	65535	0	13
+1090597593	Fuel Pressure (993K)	65535	0	9
+1090597594	Fuel Temperature (993K)	65535	0	5
+1090597595	Ground Speed/Direction (993K)	65535	0	11
+1090597596	Hydraulic Oil Temperature (993K)	65535	0	5
+1090597597	Impeller Clutch Pressure (993K)	65535	0	9
+1090597598	Implement Left Main Valve Supply Pressure (993K)	65535	0	9
+1090597599	Implement Right Main Valve Supply Pressure (993K)	65535	0	9
+1090597600	Inlet Air Temperature (993K)	65535	0	5
+1090597601	Intake Manifold #2 Air Temperature (993K)	65535	0	5
+1090597602	Left Exhaust Temperature (993K)	65535	0	5
+1090597603	Left Exhaust #2 Temperature (993K)	65535	0	5
+1090597604	Lower Solenoid #1 Current Command (993K)	65535	0	2
+1090597605	Payload Store Switch (993K)	65535	0	0
+1090597606	Percent Engine Load At Current Engine Speed (993K)	65535	0	25
+1090597607	Powertrain Filter Bypass Status (993K)	65535	0	0
+1090597608	Rackback Solenoid #1 Current Command (993K)	65535	0	2
+1090597609	Raise Solenoid #1 Current Command (993K)	65535	0	2
+1090597610	Rear Axle Oil Temperature (993K)	65535	0	5
+1090597611	Right Exhaust Temperature (993K)	65535	0	5
+1090597612	Right Exhaust #2 Temperature (993K)	65535	0	5
+1090597613	Throttle Position (993K)	65535	0	25
+1090597614	Torque Converter Outlet Temperature (993K)	65535	0	5
+1090597615	Torque Converter Speed Ratio (993K)	65535	0	0
+1090597616	Transmission Oil Temperature (993K)	65535	0	5
+1090597617	Loading Time (993K)	0	0	29
+1090597618	Stop Empty Time (993K)	0	0	29
+1090597619	Travel Empty Time (993K)	0	0	29
+1090597620	Travel Empty Distance (993K)	0	0	8
+1090597621	Stopped Load Time (993K)	0	0	29
+1090597622	Travel Loaded Time (993K)	0	0	29
+1090597623	Haul Distance (993K)	0	0	8
+1090597624	Dippers (993K)	0	0	0
+1090597625	Fuel Used (993K)	0	0	14
+1090597626	Payload (993K)	0	0	19
+1090597627	Engine Hours (993K)	1193046.47083333	0	7
+1090598577	Actual Gear (854K)	65535	0	0
+1090598578	Air Filter #1 Restriction (854K)	65535	0	9
+1090598579	Air Filter #2 Restriction (854K)	65535	0	9
+1090598580	Air Inlet Temperature (854K)	65535	0	5
+1090598581	Ambient Air Temperature (854K)	65535	0	5
+1090598582	Atmospheric Pressure (854K)	65535	0	9
+1090598583	Auto Lube (854K)	65535	0	0
+1090598584	Auto Lube Grease Level Percent (854K)	65535	0	25
+1090598585	Auto Lube Pressure (854K)	65535	0	9
+1090598586	Auto Lube Pump Outlet Pressure (854K)	65535	0	9
+1090598587	Axle Oil Cooler Bypass Solenoid Status (854K)	65535	0	0
+1090598588	Backup Alarm (854K)	65535	0	0
+1090598589	Battery Voltage (854K)	65535	0	31
+1090598590	Blade Lower Solenoid Current (854K)	65535	0	2
+1090598591	Blade Raise Solenoid Current (854K)	65535	0	2
+1090598592	Blade Single Tilt Solenoid Status (854K)	65535	0	0
+1090598593	Blade Tip Solenoid Status (854K)	65535	0	0
+1090598594	Boost Pressure (854K)	65535	0	9
+1090598595	Boost Pressure #2 (854K)	65535	0	9
+1090598596	Brake Accumulator Pressure Status (854K)	65535	0	0
+1090598597	Brake Pedal (854K)	65535	0	0
+1090598598	Cab Air Temperature (854K)	65535	0	5
+1090598599	Cab Air Temperature Control Switch Position (854K)	65535	0	0
+1090598600	Cab Blower Speed Control Position (854K)	65535	0	25
+1090598601	Controlled Rimpull Percentage (854K)	65535	0	25
+1090598602	Cooldown Override Request (854K)	65535	0	0
+1090598603	Delayed Engine Shutdown Status (854K)	65535	0	0
+1090598604	Desired Engine Speed (854K)	65535	0	28
+1090598605	Direction Switch Position (854K)	65535	0	0
+1090598606	Downshift Switch (854K)	65535	0	0
+1090598607	EGR Differential Pressure (854K)	65535	0	9
+1090598608	EGR Intake Pressure (absolute) (854K)	65535	0	9
+1090598609	EGR Temperature (854K)	65535	0	5
+1090598610	EGR Valve Control Command (854K)	65535	0	25
+1090598611	Engine Charge Air Cooler #1 Outlet Temperature (854K)	65535	0	5
+1090598612	Engine Coolant Add Level Switch Status (854K)	65535	0	0
+1090598613	Engine Coolant Full Level Switch Satus (854K)	65535	0	0
+1090598614	Engine Coolant Level (854K)	65535	0	0
+1090598615	Engine Coolant Temperature (854K)	65535	0	5
+1090598616	Engine Fan Bypass (854K)	65535	0	25
+1090598617	Engine Fuel Level (854K)	65535	0	0
+1090598618	Engine Idle Shutdown Remaining Time (854K)	65535	0	29
+1090598619	Engine Idle Shutdown Status (854K)	65535	0	0
+1090598620	Engine Oil Add Level Switch Status (854K)	65535	0	0
+1090598621	Engine Oil Full Level Switch Status (854K)	65535	0	0
+1090598622	Engine Oil Level (854K)	65535	0	0
+1090598623	Engine Oil Pressure (854K)	65535	0	9
+1090598624	Engine Operating Oil Level Status (854K)	65535	0	0
+1090598625	Engine Power Derate (854K)	65535	0	25
+1090598626	Engine Retarder Selector Switch Position (854K)	65535	0	0
+1090598627	Engine Retarder Status (854K)	65535	0	0
+1090598628	Engine Speed (854K)	65535	0	28
+1090598629	Engine Warm Up Elevated Idle Feature Status (854K)	65535	0	0
+1090598630	Ether Injection (854K)	65535	0	0
+1090598631	Fan Pump Pressure (854K)	65535	0	9
+1090598632	Fan Pump/Motor Case Drain Filter Bypass Status (854K)	65535	0	0
+1090598633	Fan Return Filter Bypass Status (854K)	65535	0	0
+1090598634	Fixed Implement Pump Oil Pressure (854K)	65535	0	9
+1090598635	Front Axle Oil Temperature (854K)	65535	0	5
+1090598636	Front Brake Pressure (854K)	65535	0	9
+1090598637	Fuel Consumption Rate (854K)	65535	0	13
+1090598638	Fuel Gauge (854K)	65535	0	25
+1090598639	Fuel Pressure (854K)	65535	0	9
+1090598640	Fuel Temperature (854K)	65535	0	5
+1090598641	Ground Speed/Direction (854K)	65535	0	11
+1090598642	Hydraulic Oil Add Level Switch Status (854K)	65535	0	0
+1090598643	Hydraulic Oil Full Level Switch Status (854K)	65535	0	0
+1090598644	Hydraulic Oil Level (854K)	65535	0	0
+1090598645	Hydraulic Oil Temperature (854K)	65535	0	5
+1090598646	Ignition Switch (854K)	65535	0	0
+1090598647	Impeller Clutch Pressure (854K)	65535	0	9
+1090598648	Implement Case Drain Filter Bypass Status (854K)	65535	0	0
+1090598649	Implement Function Select Switch (854K)	65535	0	0
+1090598650	Implement Lockout Switch (854K)	65535	0	0
+1090598651	Implement Pilot Filter Switch (854K)	65535	0	0
+1090598652	Implement Pilot Oil Pressure (854K)	65535	0	9
+1090598653	Implement Pilot Supply Solenoid (854K)	65535	0	0
+1090598654	Intake Manifold #2 Air Temperature (854K)	65535	0	5
+1090598655	Intake Manifold Air Temperature (854K)	65535	0	5
+1090598656	Left Exhaust #2 Temperature 1 (854K)	65535	0	5
+1090598657	Left Exhaust Temperature (854K)	65535	0	5
+1090598658	Lockup Clutch Current Percentage (854K)	65535	0	25
+1090598659	Lockup Clutch Enable Switch (854K)	65535	0	0
+1090598660	Low System Battery Voltage Elevated Idle Status (854K)	65535	0	0
+1090598661	Operating Time Until Next Auto Lube Automatic Cycle (854K)	65535	0	29
+1090598662	Operator Manual Lube Switch (854K)	65535	0	0
+1090598663	Operator Requested Cab Air Temperature (854K)	65535	0	5
+1090598664	Parking Brake (854K)	65535	0	0
+1090598665	Parking Brake Pressure Switch (854K)	65535	0	0
+1090598666	Parking Brake Switch (854K)	65535	0	0
+1090598667	Peak Air Filter Restriction (854K)	65535	0	9
+1090598668	Percent Engine Load At Current Engine Speed (854K)	65535	0	25
+1090598669	Powertrain Filter Bypass Status (854K)	65535	0	0
+1090598670	Primary Steering Pressure Status (854K)	65535	0	0
+1090598671	Quickshift Switch (854K)	65535	0	0
+1090598672	Rear Axle Oil Temperature (854K)	65535	0	5
+1090598673	Rear Brake Pressure (854K)	65535	0	9
+1090598674	Reduced Rimpull (854K)	65535	0	0
+1090598675	Reduced Rimpull Selection Switch (854K)	65535	0	0
+1090598676	Requested Engine Retarder Status (854K)	65535	0	0
+1090598677	Right Exhaust #2 Temperature 1 (854K)	65535	0	5
+1090598678	Right Exhaust Temperature (854K)	65535	0	5
+1090598679	Right Joystick Forward/Reverse Position (854K)	65535	0	9
+1090598680	Right Joystick Left/Right Position (854K)	65535	0	9
+1090598681	Shutdown Switch (854K)	65535	0	0
+1090598682	Side Rear View Mirrors Heater Status (854K)	65535	0	0
+1090598683	Side Rear View Mirrors Heater Switch Status (854K)	65535	0	0
+1090598684	Side Rear View Mirrors Remaining Heat Time (854K)	65535	0	29
+1090598685	Starter Relay (854K)	65535	0	0
+1090598686	Steering Fluid Temperature (854K)	65535	0	5
+1090598687	Steering Oil Add Level Switch Status (854K)	65535	0	0
+1090598688	Steering Oil Full Level Switch Status (854K)	65535	0	0
+1090598689	Steering Oil Level (854K)	65535	0	0
+1090598690	Steering Pilot Oil Filter Status (854K)	65535	0	0
+1090598691	Steering Pilot Pressure (854K)	65535	0	9
+1090598692	Steering Pump Oil Pressure (854K)	65535	0	9
+1090598693	Steering/Brake Pump Case Drain Filter Bypass Status (854K)	65535	0	0
+1090598694	Steering/Trans Lock Switch (854K)	65535	0	0
+1090598695	Throttle Lock Enable Switch Position (854K)	65535	0	0
+1090598696	Throttle Lock Mode (854K)	65535	0	0
+1090598697	Throttle Position (854K)	65535	0	25
+1090598698	Throttle Res/Accel Switch (854K)	65535	0	0
+1090598699	Throttle Set/Decel Switch (854K)	65535	0	0
+1090598700	Tilt Left Solenoid Current (854K)	65535	0	2
+1090598701	Tilt Mode Selection Switch Position (854K)	65535	0	0
+1090598702	Tilt Right Solenoid Current (854K)	65535	0	2
+1090598703	Torque Converter Outlet Temperature (854K)	65535	0	5
+1090598704	Torque Converter Pedal Position (854K)	65535	0	25
+1090598705	Torque Converter Speed Ratio (854K)	65535	0	0
+1090598706	Transmission Input Speed (854K)	65535	0	28
+1090598707	Transmission Lockout Status (854K)	65535	0	0
+1090598708	Transmission Lockout Switch (854K)	65535	0	0
+1090598709	Transmission Oil Temperature (854K)	65535	0	5
+1090598710	Transmission Output Speed (854K)	65535	0	28
+1090598711	Transmission Requested Engine Speed Limit (854K)	65535	0	28
+1090598712	Transmission Solenoid 1 Current Percentage (854K)	65535	0	25
+1090598713	Transmission Solenoid 2 Current Percentage (854K)	65535	0	25
+1090598714	Transmission Solenoid 3 Current Percentage (854K)	65535	0	25
+1090598715	Transmission Solenoid 4 Current Percentage (854K)	65535	0	25
+1090598716	Transmission Solenoid 5 Current Percentage (854K)	65535	0	25
+1090598717	Turbocharger #1 Compressor Inlet Pressure (Absolute) (854K)	65535	0	9
+1090598718	Turbocharger #2 Compressor Inlet Pressure (Absolute) (854K)	65535	0	9
+1090598719	Upshift Switch (854K)	65535	0	0
+1090598720	Windshield Washer Fluid Add Level Switch Status (854K)	65535	0	0
+1090598721	Windshield Washer Fluid Level Status (854K)	65535	0	0
+1090598722	Loading Time (854K)	0	0	29
+1090598723	Stop Empty Time (854K)	0	0	29
+1090598724	Travel Empty Time (854K)	0	0	29
+1090598725	Travel Empty Distance (854K)	0	0	8
+1090598726	Stopped Load Time (854K)	0	0	29
+1090598727	Travel Loaded Time (854K)	0	0	29
+1090598728	Haul Distance (854K)	0	0	8
+1090598729	Dippers (854K)	0	0	0
+1090598730	Fuel Used (854K)	0	0	14
+1090598731	Payload (854K)	0	0	19
+1090598732	Engine Hours (854K)	1193046.47083333	0	7
+1090599577	Engine Speed (777E)	65535	0	28
+1090599578	Desired Engine Speed (777E)	65535	0	28
+1090599579	Fuel Pressure (777E)	65535	0	9
+1090599580	Boost Pressure (777E)	65535	0	9
+1090599581	Engine Oil Pressure (777E)	65535	0	9
+1090599582	Engine Coolant Temperature (777E)	65535	0	5
+1090599583	Atmospheric Pressure (777E)	65535	0	9
+1090599584	Fuel Temperature (777E)	65535	0	5
+1090599585	Engine Load Factor (777E)	65535	0	25
+1090599586	Throttle Sensor Duty Cycle (777E)	65535	0	25
+1090599587	User Shutdown (777E)	65535	0	0
+1090599588	Air Filter Restriction (777E)	65535	0	9
+1090599589	Engine Oil Pressure (Absolute) (777E)	65535	0	9
+1090599590	Left Turbo Inlet Pressure (Absolute) (777E)	65535	0	9
+1090599591	Peak Air Filter Restriction (777E)	65535	0	9
+1090599592	Battery Voltage (777E)	65535	0	31
+1090599593	Right Exhaust Temperature (777E)	65535	0	5
+1090599594	Left Exhaust Temperature (777E)	65535	0	5
+1090599595	Ether Injection (777E)	65535	0	0
+1090599596	Fuel Consumption Rate (777E)	65535	0	13
+1090599597	Fuel Pressure (Absolute) (777E)	65535	0	9
+1090599598	Engine Power Derate (777E)	65535	0	25
+1090599599	Boost Pressure #2 (777E)	65535	0	9
+1090599600	Intake Manifold #2 Air Temperature (777E)	65535	0	5
+1090599601	Left Exhaust #2 Temperature (777E)	65535	0	5
+1090599602	Right Exhaust #2 Temperature (777E)	65535	0	5
+1090599603	Intake Manifold Air Temperature (777E)	65535	0	5
+1090599604	Altitude Derate (777E)	65535	0	0
+1090599605	Ether Solenoid Configuration (777E)	65535	0	0
+1090599606	Total Idle Time (777E)	65535	0	7
+1090599607	Total Fuel (777E)	248076.84435	0	14
+1090599608	Total Idle Fuel (777E)	248076.84435	0	14
+1090599609	Total Max Fuel (777E)	248076.84435	0	14
+1090599610	Total Delayed Engine Shutdown Count (777E)	65535	0	0
+1090599611	Total Engine Idle Shutdown Count (777E)	65535	0	0
+1090599612	Total Engine Idle Shutdown Overrides Count (777E)	65535	0	0
+1090599613	Total Delayed Engine Shutdown Overrides Count (777E)	65535	0	0
+1090599614	Transmission Output Speed (777E)	65535	0	28
+1090599615	Retarder (777E)	65535	0	0
+1090599616	Body Up (777E)	65535	0	0
+1090599617	Service Brake (777E)	65535	0	0
+1090599618	Ground Speed (777E)	105468.35904	0	11
+1090599619	Starter Relay (777E)	65535	0	0
+1090599620	Transmission Oil Temperature (777E)	65535	0	5
+1090599621	Auto Lube (777E)	65535	0	0
+1090599622	Parking Brake (777E)	65535	0	0
+1090599623	Torque Converter Outlet Temperature (777E)	65535	0	5
+1090599624	Tank Fuel Level (777E)	65535	0	25
+1090599625	Throttle Lock Mode (777E)	65535	0	0
+1090599626	Fuel Gauge (777E)	65535	0	25
+1090599627	Ambient Air Temperature (777E)	65535	0	5
+1090599628	Ground Speed/Direction (777E)	65535	0	11
+1090599629	Primary Steering Pressure Status (777E)	65535	0	0
+1090599630	Transmission Maximum Forward Gear (777E)	65535	0	0
+1090599631	Hoist Lever Duty Cycle (777E)	65535	0	25
+1090599632	Secondary Steering Relay (777E)	65535	0	0
+1090599633	Shift Lever Duty Cycle (777E)	65535	0	25
+1090599634	Hoist Lever Position (777E)	65535	0	0
+1090599635	Hoist Output (777E)	65535	0	0
+1090599636	Economy Mode Switch Position (777E)	65535	0	0
+1090599637	Brake Oil Temperature (777E)	65535	0	5
+1090599638	Body Position Angle (777E)	65535	0	4
+1090599639	Actual Gear (777E)	65535	0	0
+1090599640	Shift Lever Position (777E)	65535	0	0
+1090599641	Requested Gear Command (777E)	65535	0	0
+1090599642	Auto Lube Interval (777E)	3932100	0	29
+1090599643	Secondary Steering Motor Status (777E)	65535	0	0
+1090599644	Auto Lube Duration (777E)	65535	0	29
+1090599645	Machine Overload Speed Limit Enable Status (777E)	65535	0	0
+1090599646	Total Distance (777E)	65535	0	8
+1090599647	Total Operating Hours (777E)	65535	0	7
+1090599648	ARC Pressure Switch Status (777E)	65535	0	0
+1090599649	Left Rear Wheel Speed (777E)	65535	0	39
+1090599650	Right Rear Wheel Speed (777E)	65535	0	39
+1090599651	Traction Control Mode (777E)	65535	0	0
+1090599652	ARC Supply Solenoid Command (777E)	65535	0	0
+1090599653	Arc (Auto Retarder) On/Off Switch Status (777E)	65535	0	0
+1090599654	Auto Retarder Mode (777E)	65535	0	0
+1090599655	Arc Control Solenoid Current (777E)	65535	0	25
+1090599656	Retarder Indicator Status (777E)	65535	0	0
+1090599657	Desired Retarding Engine Speed (777E)	65535	0	28
+1090599658	Desired Engine Retard Speed (777E)	65535	0	28
+1090599659	Truck Payload (777E)	65535	0	19
+1090599660	OHT Truck Payload State (777E)	65535	0	0
+1090599661	Left Front Strut Pressure (777E)	65535	0	9
+1090599662	Right Front Strut Pressure (777E)	65535	0	9
+1090599663	Left Rear Strut Pressure (777E)	65535	0	9
+1090599664	Right Rear Strut Pressure (777E)	65535	0	9
+1090599665	Maximum Frame Pitch Sample Value (777E)	65535	0	9
+1090599666	Maximum Frame Rack Sample Value (777E)	65535	0	9
+1090599667	Truck Payload Cycle Frame Pitch FELA (777E)	65535	0	0
+1090599668	Truck Payload Cycle Frame Rack FELA (777E)	65535	0	0
+1090599669	Truck Payload Cycle Fela (777E)	65535	0	0
+1090599670	Peak Frame Bias (777E)	65535	0	9
+1090599671	Machine Front Tire Weight-Speed (777E)	65535	0	20
+1090599672	Machine Rear Tire Weight-Speed (777E)	65535	0	20
+1090599673	Cumulative Travel Time (777E)	65535	0	7
+1090599674	Total Load Count (777E)	65535	0	0
+1090599675	Lifetime Total Payload Weight (777E)	65535	0	19
+1090599676	Loading Time (777E)	0	0	29
+1090599677	Stop Empty Time (777E)	0	0	29
+1090599678	Travel Empty Time (777E)	0	0	29
+1090599679	Travel Empty Distance (777E)	0	0	8
+1090599680	Stopped Load Time (777E)	0	0	29
+1090599681	Travel Loaded Time (777E)	0	0	29
+1090599682	Haul Distance (777E)	0	0	8
+1090599683	Dippers (777E)	0	0	0
+1090599684	Fuel Used (777E)	0	0	14
+1090599685	Payload (777E)	0	0	19
+1090599686	Engine Hours (777E)	1193046.47083333	0	7
+1090600577	15 Volt Sensor Power Supply Status (794AC)	65535	0	0
+1090600578	15 Volt Sensor Power Supply Status (794AC)	65535	0	0
+1090600579	-15 Volt Sensor Power Supply Status (794AC)	65535	0	0
+1090600580	-15 Volt Sensor Power Supply Status (794AC)	65535	0	0
+1090600581	AC Ground Fault Percentage (794AC)	65535	0	25
+1090600582	AC Ground Fault Percentage (794AC)	65535	0	25
+1090600583	Actual Gear (794AC)	65535	0	0
+1090600584	Altitude Derate (794AC)	65535	0	0
+1090600585	Ambient Air Temperature (794AC)	65535	0	5
+1090600586	Anti-Rollback Status (794AC)	65535	0	0
+1090600587	Atmospheric Pressure (794AC)	65535	0	9
+1090600588	Automatic Brake Application (ABA) Status (794AC)	65535	0	0
+1090600589	Body Position Angle (794AC)	65535	0	4
+1090600590	Body Up (794AC)	65535	0	0
+1090600591	Chopper Module Output Current (794AC)	65535	0	2
+1090600592	Chopper Module Temperature (794AC)	65535	0	5
+1090600593	Cold Cylinder Cutout (794AC)	65535	0	0
+1090600594	Cold Mode (794AC)	65535	0	0
+1090600595	Crankcase Pressure (794AC)	65535	0	9
+1090600596	DC Ground Fault Percentage (794AC)	65535	0	25
+1090600597	DC Ground Fault Percentage (794AC)	65535	0	25
+1090600598	DC Power Bus Current (794AC)	65535	0	2
+1090600599	DC Power Bus Voltage #1 (794AC)	65535	0	31
+1090600600	DC Power Bus Voltage #2 (794AC)	65535	0	31
+1090600601	Desired Engine Fan Speed (794AC)	65535	0	28
+1090600602	Desired Engine Speed (794AC)	65535	0	28
+1090600603	Desired Fuel Rail Pressure (794AC)	65535	0	9
+1090600604	Drive Motor #1 Speed/Direction (794AC)	65535	0	28
+1090600605	Drive Motor #2 Speed/Direction (794AC)	65535	0	28
+1090600606	Drive Motor Bearing #1 Temperature (794AC)	65535	0	5
+1090600607	Drive Motor Bearing #1 Temperature (794AC)	65535	0	5
+1090600608	Drive Motor Bearing #2 Temperature (794AC)	65535	0	5
+1090600609	Drive Motor Bearing #2 Temperature (794AC)	65535	0	5
+1090600610	Drive Motor Phase A Current (794AC)	65535	0	2
+1090600611	Drive Motor Phase A Current (794AC)	65535	0	2
+1090600612	Drive Motor Phase B Current (794AC)	65535	0	2
+1090600613	Drive Motor Phase B Current (794AC)	65535	0	2
+1090600614	Drive Motor Phase C Current (794AC)	65535	0	2
+1090600615	Drive Motor Phase C Current (794AC)	65535	0	2
+1090600616	Drive Motor Power (794AC)	65535	0	12
+1090600617	Drive Motor Power (794AC)	65535	0	12
+1090600618	Drive Motor Power (794AC)	65535	0	12
+1090600619	Drive Motor Speed (794AC)	65535	0	28
+1090600620	Drive Motor Speed (794AC)	65535	0	28
+1090600621	Drive Motor Speed #1 Signal #1 Speed (794AC)	65535	0	28
+1090600622	Drive Motor Speed #1 Signal #1 Speed (794AC)	65535	0	28
+1090600623	Drive Motor Speed #1 Signal #1 Speed (794AC)	65535	0	28
+1090600624	Drive Motor Speed #1 Signal #2 Speed (794AC)	65535	0	28
+1090600625	Drive Motor Speed #1 Signal #2 Speed (794AC)	65535	0	28
+1090600626	Drive Motor Speed #1 Signal #2 Speed (794AC)	65535	0	28
+1090600627	Drive Motor Speed #2 Signal #1 Speed (794AC)	65535	0	28
+1090600628	Drive Motor Speed #2 Signal #2 Speed (794AC)	65535	0	28
+1090600629	Drive Motor Winding #1 Temperature (794AC)	65535	0	5
+1090600630	Drive Motor Winding #1 Temperature (794AC)	65535	0	5
+1090600631	Drive Motor Winding #2 Temperature (794AC)	65535	0	5
+1090600632	Drive Motor Winding #2 Temperature (794AC)	65535	0	5
+1090600633	Drivetrain Desired Engine Speed (794AC)	65535	0	28
+1090600634	Electric Drive Cooling Fan Solenoid Current (794AC)	65535	0	2
+1090600635	Electric Drive Cooling Fan Speed (794AC)	65535	0	28
+1090600636	Electric Retarding Grid Power Consumption (794AC)	65535	0	12
+1090600637	Elevated Idle (794AC)	65535	0	0
+1090600638	Engine Coolant Pump Outlet Pressure (absolute) (794AC)	65535	0	9
+1090600639	Engine Coolant Pump Outlet Temperature (794AC)	65535	0	5
+1090600640	Engine Coolant Temperature (794AC)	65535	0	5
+1090600641	Engine Derate (794AC)	65535	0	0
+1090600642	Engine Fan Speed (794AC)	65535	0	28
+1090600643	Engine Oil Level (794AC)	65535	0	0
+1090600644	Engine Oil Pressure (794AC)	65535	0	9
+1090600645	Engine Oil Pressure (absolute) (794AC)	65535	0	9
+1090600646	Engine Oil Temperature (794AC)	65535	0	5
+1090600647	Engine Power Derate (794AC)	65535	0	25
+1090600648	Engine Speed (794AC)	65535	0	28
+1090600649	E-Stop Shutdown (794AC)	65535	0	0
+1090600650	Fuel Actuator Position Command (794AC)	65535	0	25
+1090600651	Fuel Consumption Rate (794AC)	65535	0	13
+1090600652	Fuel Filter (794AC)	65535	0	0
+1090600653	Fuel Filter Differential Pressure (794AC)	65535	0	9
+1090600654	Fuel Pressure (794AC)	65535	0	9
+1090600655	Fuel Rail Pressure (794AC)	65535	0	9
+1090600656	Fuel Rail Temperature (794AC)	65535	0	5
+1090600657	Fuel Temperature (794AC)	65535	0	5
+1090600658	Fuel Transfer Pump Intake Pressure (absolute) (794AC)	65535	0	9
+1090600659	Fuel/ Water Separator Level Status (794AC)	65535	0	0
+1090600660	Generator Average RMS Current (794AC)	65535	0	2
+1090600661	Generator Bearing #1 Temperature (794AC)	65535	0	5
+1090600662	Generator Bearing #2 Temperature (794AC)	65535	0	5
+1090600663	Generator Excitation Field Regulator Current (794AC)	65535	0	16
+1090600664	Generator Excitation Field Regulator Current Command (794AC)	65535	0	16
+1090600665	Generator Excitation Field Regulator Diagnostic Feedback Duty Cycle (794AC)	65535	0	25
+1090600666	Generator Excitation Field Regulator Enable Command (794AC)	65535	0	0
+1090600667	Generator Speed (794AC)	65535	0	28
+1090600668	Generator Total Real Power (794AC)	65535	0	12
+1090600669	Generator Winding #1 Temperature (794AC)	65535	0	5
+1090600670	Generator Winding #2 Temperature (794AC)	65535	0	5
+1090600671	Ground Speed/Direction (794AC)	65535	0	11
+1090600672	Hoist Lever Position (794AC)	65535	0	0
+1090600673	Hoist Output (794AC)	65535	0	0
+1090600674	Idle Cutout Active (794AC)	65535	0	0
+1090600675	Idle Shutdown Timer (794AC)	65535	0	0
+1090600676	Ignition Switch (794AC)	65535	0	0
+1090600677	Injection Disabled (794AC)	65535	0	0
+1090600678	Intake Manifold #2 Air Temperature (794AC)	65535	0	5
+1090600679	Intake Manifold #2 Pressure (794AC)	65535	0	9
+1090600680	Intake Manifold Air Temperature (794AC)	65535	0	5
+1090600681	Intake Manifold Pressure (794AC)	65535	0	9
+1090600682	Inverter Interface Module Enable Command (794AC)	65535	0	0
+1090600683	Inverter Interface Module Enable Command (794AC)	65535	0	0
+1090600684	Inverter Interface Module Enable Feedback (794AC)	65535	0	0
+1090600685	Inverter Interface Module Enable Feedback (794AC)	65535	0	0
+1090600686	Left Exhaust Temperature (794AC)	65535	0	5
+1090600687	Left Final Drive Filter Bypass (794AC)	65535	0	0
+1090600688	Left Final Drive Lube Pressure (794AC)	65535	0	9
+1090600689	Left Final Drive Oil Temperature (794AC)	65535	0	5
+1090600690	Left Front Axle Speed (794AC)	65535	0	28
+1090600691	Left Front Brake Oil Temperature (794AC)	65535	0	5
+1090600692	Left Front Strut Pressure (794AC)	65535	0	9
+1090600693	Left Front Tire Pressure (794AC)	65535	0	9
+1090600694	Left Front Tire Temperature (794AC)	65535	0	5
+1090600695	Left Front Tire Temperature Compensated Pressure (794AC)	65535	0	9
+1090600696	Left Rear Brake Oil Temperature (794AC)	65535	0	5
+1090600697	Left Rear Inner Tire Pressure (794AC)	65535	0	9
+1090600698	Left Rear Inner Tire Temperature (794AC)	65535	0	5
+1090600699	Left Rear Inner Tire Temperature Compensated Pressure (794AC)	65535	0	9
+1090600700	Left Rear Outer Tire Pressure (794AC)	65535	0	9
+1090600701	Left Rear Outer Tire Temperature (794AC)	65535	0	5
+1090600702	Left Rear Outer Tire Temperature Compensated Pressure (794AC)	65535	0	9
+1090600703	Left Rear Strut Pressure (794AC)	65535	0	9
+1090600704	Left Rear to Left Front Brake Differential Temperature (794AC)	65535	0	5
+1090600705	Load Brake Switch Position (794AC)	65535	0	0
+1090600706	Low Oil Pressure (794AC)	65535	0	0
+1090600707	Machine Front Tire Weight-Speed (794AC)	65535	0	20
+1090600708	Machine Rear Tire Weight-Speed (794AC)	65535	0	20
+1090600709	Machine Speed Limit (794AC)	65535	0	11
+1090600710	Motor Control #1 Enable Command (794AC)	65535	0	0
+1090600711	Motor Control #1 Enable Feedback (794AC)	65535	0	0
+1090600712	Motor Control #2 Enable Command (794AC)	65535	0	0
+1090600713	Motor Control #2 Enable Feedback (794AC)	65535	0	0
+1090600714	OHT Truck Payload State (794AC)	65535	0	0
+1090600715	Oil Filter Differential Pressure (794AC)	65535	0	9
+1090600716	Parking Brake (794AC)	65535	0	0
+1090600717	Parking Brake Lock Status (794AC)	65535	0	0
+1090600718	Parking Brake Solenoid Enable Relay Status (794AC)	65535	0	0
+1090600719	Payload Cycle Traveling Loaded Distance (794AC)	65535	0	8
+1090600720	Percent Engine Load at Current Engine Speed (794AC)	65535	0	25
+1090600721	Phase A RMS Current (794AC)	65535	0	2
+1090600722	Phase B RMS Current (794AC)	65535	0	2
+1090600723	Phase C RMS Current (794AC)	65535	0	2
+1090600724	Phase Module A Temperature (794AC)	65535	0	5
+1090600725	Phase Module A Temperature (794AC)	65535	0	5
+1090600726	Phase Module B Temperature (794AC)	65535	0	5
+1090600727	Phase Module B Temperature (794AC)	65535	0	5
+1090600728	Phase Module C Temperature (794AC)	65535	0	5
+1090600729	Phase Module C Temperature (794AC)	65535	0	5
+1090600730	Rear Axle Pump Drive Oil Divert Solenoid Status (794AC)	65535	0	0
+1090600731	Requested Drive Motor Torque (794AC)	65535	0	24
+1090600732	Requested Drive Motor Torque (794AC)	65535	0	24
+1090600733	Requested Drive Motor Torque (794AC)	65535	0	24
+1090600734	Retarder Pedal Position (794AC)	65535	0	25
+1090600735	Retarding Grid Blower Phase A Current (794AC)	65535	0	2
+1090600736	Retarding Grid Blower Phase B Current (794AC)	65535	0	2
+1090600737	Retarding Grid Blower Phase C Current (794AC)	65535	0	2
+1090600738	Retarding Grid Contactor #1 Feedback Signal Status (794AC)	65535	0	0
+1090600739	Retarding Grid Contactor #2 Feedback Signal Status (794AC)	65535	0	0
+1090600740	Retarding Grid Contactor Command Status (794AC)	65535	0	0
+1090600741	Retarding Grid Contactor Output Current (794AC)	65535	0	2
+1090600742	Right Exhaust Temperature (794AC)	65535	0	5
+1090600743	Right Final Drive Filter Bypass (794AC)	65535	0	0
+1090600744	Right Final Drive Lube Pressure (794AC)	65535	0	9
+1090600745	Right Final Drive Oil Temperature (794AC)	65535	0	5
+1090600746	Right Front Axle Speed (794AC)	65535	0	28
+1090600747	Right Front Brake Oil Temperature (794AC)	65535	0	5
+1090600748	Right Front Strut Pressure (794AC)	65535	0	9
+1090600749	Right Front Tire Pressure (794AC)	65535	0	9
+1090600750	Right Front Tire Temperature (794AC)	65535	0	5
+1090600751	Right Front Tire Temperature Compensated Pressure (794AC)	65535	0	9
+1090600752	Right Front To Left Front Strut Differential Pressure (794AC)	65535	0	9
+1090600753	Right Rear Brake Oil Temperature (794AC)	65535	0	5
+1090600754	Right Rear Inner Tire Pressure (794AC)	65535	0	9
+1090600755	Right Rear Inner Tire Temperature (794AC)	65535	0	5
+1090600756	Right Rear Inner Tire Temperature Compensated Pressure (794AC)	65535	0	9
+1090600757	Right Rear Outer Tire Pressure (794AC)	65535	0	9
+1090600758	Right Rear Outer Tire Temperature (794AC)	65535	0	5
+1090600759	Right Rear Outer Tire Temperature Compensated Pressure (794AC)	65535	0	9
+1090600760	Right Rear Strut Pressure (794AC)	65535	0	9
+1090600761	Right Rear to Left Rear Brake Differential Temperature (794AC)	65535	0	5
+1090600762	Right Rear To Left Rear Strut Differential Pressure (794AC)	65535	0	9
+1090600763	Right Rear to Right Front Brake Differential Temperature (794AC)	65535	0	5
+1090600764	Right To Left Exhaust Differential Temperature (794AC)	65535	0	5
+1090600765	Secondary Brake Pedal Position (794AC)	65535	0	25
+1090600766	Service Brake (794AC)	65535	0	0
+1090600767	Service Brake Position (794AC)	65535	0	25
+1090600768	Shift Lever Position (794AC)	65535	0	0
+1090600769	Shutdown Switch (794AC)	65535	0	0
+1090600770	Smoke Limit Fuel Volume (794AC)	65535	0	43
+1090600771	Starter Lockout Status (794AC)	65535	0	0
+1090600772	System Voltage (794AC)	65535	0	31
+1090600773	Tank Fuel Level (794AC)	65535	0	25
+1090600774	Throttle Lock Mode (794AC)	65535	0	0
+1090600775	Throttle Position (794AC)	65535	0	25
+1090600776	Torque Limit Fuel Volume (794AC)	65535	0	43
+1090600777	Total Fuel (794AC)	248076.84435	0	14
+1090600778	Transmission Lockout Status (794AC)	65535	0	0
+1090600779	Truck Payload (794AC)	65535	0	19
+1090600780	User Shutdown (794AC)	65535	0	0
+1090600781	Aftertreatment #1 DEF Pressure #1 (794AC)	65535	0	9
+1090600782	Aftertreatment #1 DEF Pressure #2 (794AC)	65535	0	9
+1090600783	Aftertreatment #1 DEF Tank Low Level Indicator Status (794AC)	65535	0	0
+1090600784	Aftertreatment #2 DEF Pressure #1 (794AC)	65535	0	9
+1090600785	Aftertreatment #2 DEF Pressure #2 (794AC)	65535	0	9
+1090600786	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 1 (794AC)	65535	0	0
+1090600787	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 2 (794AC)	65535	0	0
+1090600788	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 3 (794AC)	65535	0	0
+1090600789	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 4 (794AC)	65535	0	0
+1090600790	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 5 (794AC)	65535	0	0
+1090600791	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 6 (794AC)	65535	0	0
+1090600792	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 7 (794AC)	65535	0	0
+1090600793	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 8 (794AC)	65535	0	0
+1090600794	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 9 (794AC)	65535	0	0
+1090600795	Aftertreatment 1 Outlet NOX 1 (794AC)	6.5535	0	25
+1090600796	Aftertreatment 1 SCR Intake Pressure (794AC)	65535	0	9
+1090600797	Aftertreatment 1 SCR Intake Temperature (794AC)	65535	0	5
+1090600798	Aftertreatment 1 SCR System 1 State (794AC)	65535	0	0
+1090600799	Aftertreatment 1 SCR System 2 State (794AC)	65535	0	0
+1090600800	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 1 (794AC)	65535	0	0
+1090600801	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 2 (794AC)	65535	0	0
+1090600802	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 3 (794AC)	65535	0	0
+1090600803	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 4 (794AC)	65535	0	0
+1090600804	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 6 (794AC)	65535	0	0
+1090600805	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 7 (794AC)	65535	0	0
+1090600806	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 8 (794AC)	65535	0	0
+1090600807	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 9 (794AC)	65535	0	0
+1090600808	Aftertreatment 2 Outlet NOX 1 (794AC)	6.5535	0	25
+1090600809	Aftertreatment 2 SCR Intake Pressure (794AC)	65535	0	9
+1090600810	Aftertreatment 2 SCR Intake Temperature (794AC)	65535	0	5
+1090600811	Aftertreatment 2 SCR System 1 State (794AC)	65535	0	0
+1090600812	Aftertreatment 2 SCR System 2 State (794AC)	65535	0	0
+1090600813	Aftertreatment Diesel Exhaust Fluid Tank Temperature (794AC)	65535	0	5
+1090600814	Aftertreatment Diesel Exhaust Fluid Tank Volume (794AC)	65535	0	25
+1090600815	Air Filter #1 Restriction (794AC)	65535	0	9
+1090600816	Air Filter #2 Restriction (794AC)	65535	0	9
+1090600817	Air Filter #3 Restriction (794AC)	65535	0	9
+1090600818	Air Filter #4 Restriction (794AC)	65535	0	9
+1090600819	Air Inlet Temperature (794AC)	65535	0	5
+1090600820	ARC (Auto Retarder) On/Off Switch Status (794AC)	65535	0	0
+1090600821	ARC Control Solenoid Current (794AC)	65535	0	2
+1090600822	Boost Pressure (794AC)	65535	0	9
+1090600823	Boost Pressure #2 (794AC)	65535	0	9
+1090600824	Brake Oil Accumulator ABA Pressure Switch (794AC)	65535	0	0
+1090600825	Coolant Level (794AC)	65535	0	0
+1090600826	Delayed Engine Shutdown Status (794AC)	65535	0	0
+1090600827	Desired Electric Drive Cooling Fan Speed (794AC)	65535	0	28
+1090600828	Drive Motor Speed (794AC)	65535	0	28
+1090600829	Electric Fuel Transfer Pump Outlet Pressure (794AC)	65535	0	9
+1090600830	Electric Fuel Transfer Pump Relay Status (794AC)	65535	0	0
+1090600831	Electric Retarding Lamps Status (794AC)	65535	0	0
+1090600832	Engine Coolant Pump Outlet Pressure (794AC)	65535	0	9
+1090600833	Engine Cooling Fan Solenoid Current (794AC)	65535	0	2
+1090600834	Engine Exhaust 1 NOX 1 (794AC)	6.5535	0	25
+1090600835	Engine Exhaust 2 NOX 1 (794AC)	6.5535	0	25
+1090600836	Engine Load Factor (794AC)	65535	0	25
+1090600837	Engine Power Mode (794AC)	65535	0	0
+1090600838	Engine Pre-Lube (794AC)	65535	0	0
+1090600839	Engine Turbocharger 1 Turbine Intake Temperature (794AC)	65535	0	5
+1090600840	Engine Turbocharger 2 Turbine Intake Temperature (794AC)	65535	0	5
+1090600841	Engine Warm Up Elevated Idle Feature Status (794AC)	65535	0	0
+1090600842	Fuel Filter (Suction Side) Differential Pressure (794AC)	65535	0	9
+1090600843	Fuel Transfer Pump Intake Pressure (794AC)	65535	0	9
+1090600844	Low System Battery Voltage Elevated Idle Status (794AC)	65535	0	0
+1090600845	Machine Lockout Lamp Status (794AC)	65535	0	0
+1090600846	Machine Retard Speed Adjust Switch Position (794AC)	65535	0	0
+1090600847	Main Power Override Relay Status (794AC)	65535	0	0
+1090600848	Operator Inducement Estimated Time to Final Inducement Action (794AC)	1092.25	0	7
+1090600849	Operator Inducement Safe Harbor Mode Status (794AC)	65535	0	0
+1090600850	Operator Requested Retarding Machine Speed (794AC)	65535	0	11
+1090600851	Peak Air Filter Restriction (794AC)	65535	0	9
+1090600852	Powertrain System Temperature Gauge Percentage (794AC)	65535	0	25
+1090600853	Rear Axle Oil Cooler Relay Status (794AC)	65535	0	0
+1090600854	Requested Gear Command (794AC)	65535	0	0
+1090600855	Requested Retarding Machine Speed (794AC)	65535	0	11
+1090600856	Requested Transmission Additional Engine Load Status (794AC)	65535	0	0
+1090600857	Retarder Selection non-engine (794AC)	65535	0	25
+1090600858	Retarding Grid Contactor Command Status (794AC)	65535	0	0
+1090600859	Retarding Grid Contactor Command Status (794AC)	65535	0	0
+1090600860	Total Distance (794AC)	65535	0	8
+1090600861	Total Operating Hours (794AC)	65535	0	7
+1090601076	Loading Time (794AC)	0	0	29
+1090601077	Stop Empty Time (794AC)	0	0	29
+1090601078	Travel Empty Time (794AC)	0	0	29
+1090601079	Travel Empty Distance (794AC)	0	0	8
+1090601080	Stopped Load Time (794AC)	0	0	29
+1090601081	Travel Loaded Time (794AC)	0	0	29
+1090601082	Haul Distance (794AC)	0	0	8
+1090601083	Dippers (794AC)	0	0	0
+1090601084	Fuel Used (794AC)	0	0	14
+1090601085	Payload (794AC)	0	0	19
+1090601086	Engine Hours (794AC)	1193046.47083333	0	7
+1090601577	Actual Drill Torque (MD6XXX)	65535	0	24
+1090601578	Air Compressor Oil Pressure (MD6XXX)	65535	0	9
+1090601579	Air Compressor Oil Temperature (MD6XXX)	65535	0	5
+1090601580	Air Filter #1 Restriction (MD6XXX)	65535	0	9
+1090601581	Air Filter #2 Restriction (MD6XXX)	65535	0	9
+1090601582	Air Inlet Temperature (MD6XXX)	65535	0	5
+1090601583	Ambient Air Temperature (MD6XXX)	65535	0	5
+1090601584	Atmospheric Pressure (MD6XXX)	65535	0	9
+1090601585	Battery Voltage (MD6XXX)	65535	0	31
+1090601586	Boost Pressure (MD6XXX)	65535	0	9
+1090601587	Delivered Fuel Volume (MD6XXX)	65535	0	43
+1090601588	Desired Engine Speed (MD6XXX)	65535	0	28
+1090601589	Drill Bit Depth (MD6XXX)	65535	0	17
+1090601590	Drill Bit Rotation Speed/Direction (MD6XXX)	65535	0	28
+1090601591	Drill Feed Hold Back Pressure (MD6XXX)	65535	0	9
+1090601592	Drill Feed Pressure (MD6XXX)	65535	0	9
+1090601593	Drill Flushing Pressure (MD6XXX)	65535	0	9
+1090601594	Drill Mast Angle (MD6XXX)	65535	0	4
+1090601595	Engine Charge Air Cooler #1 Outlet Temperature (MD6XXX)	65535	0	5
+1090601596	Engine Coolant Temperature (MD6XXX)	65535	0	5
+1090601597	Engine Oil Pressure (MD6XXX)	65535	0	9
+1090601598	Engine Oil Pressure (absolute) (MD6XXX)	65535	0	9
+1090601599	Engine Speed (MD6XXX)	65535	0	28
+1090601600	Fuel Consumption Rate (MD6XXX)	65535	0	13
+1090601601	Fuel Pressure (MD6XXX)	65535	0	9
+1090601602	Fuel Pressure (absolute) (MD6XXX)	65535	0	9
+1090601603	Fuel Temperature (MD6XXX)	65535	0	5
+1090601604	Hydraulic Oil Cooling Fan Solenoid Current (MD6XXX)	65535	0	2
+1090601605	Hydraulic Oil Temperature (MD6XXX)	65535	0	5
+1090601606	Implement Pump Pressure (MD6XXX)	65535	0	9
+1090601607	Intake Manifold #2 Air Temperature (MD6XXX)	65535	0	5
+1090601608	Intake Manifold Air Temperature (MD6XXX)	65535	0	5
+1090601609	Intake Manifold Pressure (absolute) (MD6XXX)	65535	0	9
+1090601610	Left Exhaust #2 Temperature (MD6XXX)	65535	0	5
+1090601611	Left Exhaust Temperature (MD6XXX)	65535	0	5
+1090601612	Peak Air Filter Restriction (MD6XXX)	65535	0	9
+1090601613	Right Exhaust #2 Temperature (MD6XXX)	65535	0	5
+1090601614	Right Exhaust Temperature (MD6XXX)	65535	0	5
+1090601615	Sensor Supply #1 Voltage (MD6XXX)	65535	0	31
+1090601616	Sensor Supply #2 Voltage (MD6XXX)	65535	0	31
+1090601617	Turbocharger #1 Compressor Inlet Pressure (absolute) (MD6XXX)	65535	0	9
+1090601618	Turbocharger #2 Compressor Inlet Pressure (absolute) (MD6XXX)	65535	0	9
+1090602076	Loading Time (MD6XXX)	0	0	29
+1090602077	Stop Empty Time (MD6XXX)	0	0	29
+1090602078	Travel Empty Time (MD6XXX)	0	0	29
+1090602079	Travel Empty Distance (MD6XXX)	0	0	8
+1090602080	Stopped Load Time (MD6XXX)	0	0	29
+1090602081	Travel Loaded Time (MD6XXX)	0	0	29
+1090602082	Haul Distance (MD6XXX)	0	0	8
+1090602083	Dippers (MD6XXX)	0	0	0
+1090602084	Fuel Used (MD6XXX)	0	0	14
+1090602085	Payload (MD6XXX)	0	0	19
+1090602086	Engine Hours (MD6XXX)	1193046.47083333	0	7
+1090602577	15 Volt Sensor Power Supply Status (798AC)	65535	0	24
+1090602578	15 Volt Sensor Power Supply Status (798AC)	65535	0	9
+1090602579	-15 Volt Sensor Power Supply Status (798AC)	65535	0	5
+1090602580	-15 Volt Sensor Power Supply Status (798AC)	65535	0	9
+1090602581	AC Ground Fault Percentage (798AC)	65535	0	9
+1090602582	AC Ground Fault Percentage (798AC)	65535	0	5
+1090602583	Actual Gear (798AC)	65535	0	5
+1090602584	Air Filter #1 Restriction (798AC)	65535	0	9
+1090602585	Air Filter #2 Restriction (798AC)	65535	0	31
+1090602586	Air Filter #3 Restriction (798AC)	65535	0	9
+1090602587	Air Filter #4 Restriction (798AC)	65535	0	43
+1090602588	Altitude Derate (798AC)	65535	0	28
+1090602589	Ambient Air Temperature (798AC)	65535	0	17
+1090602590	Anti-Rollback Status (798AC)	65535	0	28
+1090602591	ARC (Auto Retarder) On/Off Switch Status (798AC)	65535	0	9
+1090602592	ARC Control Solenoid Current (798AC)	65535	0	9
+1090602593	Atmospheric Pressure (798AC)	65535	0	9
+1090602594	Automatic Brake Application (ABA) Status (798AC)	65535	0	4
+1090602595	Body Position Angle (798AC)	65535	0	5
+1090602596	Body Up (798AC)	65535	0	5
+1090602597	Boost Pressure (798AC)	65535	0	9
+1090602598	Boost Pressure #2 (798AC)	65535	0	9
+1090602599	Brake Oil Accumulator ABA Pressure Switch (798AC)	65535	0	28
+1090602600	Chopper Module Output Current (798AC)	65535	0	13
+1090602601	Chopper Module Temperature (798AC)	65535	0	9
+1090602602	Cold Mode (798AC)	65535	0	9
+1090602603	Coolant Level (798AC)	65535	0	5
+1090602604	Crankcase Pressure (798AC)	65535	0	2
+1090602605	DC Ground Fault Percentage (798AC)	65535	0	5
+1090602606	DC Ground Fault Percentage (798AC)	65535	0	9
+1090602607	DC Power Bus Current (798AC)	65535	0	5
+1090602608	DC Power Bus Voltage #1 (798AC)	65535	0	5
+1090602609	DC Power Bus Voltage #2 (798AC)	65535	0	9
+1090602610	Desired Electric Drive Cooling Fan Speed (798AC)	65535	0	5
+1090602611	Desired Engine Fan Speed (798AC)	65535	0	5
+1090602612	Desired Engine Speed (798AC)	65535	0	9
+1090602613	Desired Fuel Rail Pressure (798AC)	65535	0	5
+1090602614	Drive Motor #1 Speed/Direction (798AC)	65535	0	5
+1090602615	Drive Motor #2 Speed/Direction (798AC)	65535	0	31
+1090602616	Drive Motor Bearing #1 Temperature (798AC)	65535	0	31
+1090602617	Drive Motor Bearing #1 Temperature (798AC)	65535	0	9
+1090602618	Drive Motor Bearing #2 Temperature (798AC)	65535	0	9
+1090602619	Drive Motor Bearing #2 Temperature (798AC)	65535	0	
+1090602620	Drive Motor Phase A Current (798AC)	65535	0	
+1090602621	Drive Motor Phase A Current (798AC)	65535	0	
+1090602622	Drive Motor Phase B Current (798AC)	65535	0	
+1090602623	Drive Motor Phase B Current (798AC)	65535	0	
+1090602624	Drive Motor Phase C Current (798AC)	65535	0	
+1090602625	Drive Motor Phase C Current (798AC)	65535	0	
+1090602626	Drive Motor Power (798AC)	65535	0	
+1090602627	Drive Motor Power (798AC)	65535	0	
+1090602628	Drive Motor Power (798AC)	65535	0	
+1090602629	Drive Motor Speed (798AC)	65535	0	
+1090602630	Drive Motor Speed (798AC)	65535	0	
+1090602631	Drive Motor Speed (798AC)	65535	0	
+1090602632	Drive Motor Speed #1 Signal #1 Speed (798AC)	65535	0	
+1090602633	Drive Motor Speed #1 Signal #1 Speed (798AC)	65535	0	
+1090602634	Drive Motor Speed #1 Signal #1 Speed (798AC)	65535	0	
+1090602635	Drive Motor Speed #1 Signal #2 Speed (798AC)	65535	0	
+1090602636	Drive Motor Speed #1 Signal #2 Speed (798AC)	65535	0	
+1090602637	Drive Motor Speed #1 Signal #2 Speed (798AC)	65535	0	
+1090602638	Drive Motor Speed #2 Signal #1 Speed (798AC)	65535	0	
+1090602639	Drive Motor Speed #2 Signal #2 Speed (798AC)	65535	0	
+1090602640	Drive Motor Winding #1 Temperature (798AC)	65535	0	
+1090602641	Drive Motor Winding #1 Temperature (798AC)	65535	0	
+1090602642	Drive Motor Winding #2 Temperature (798AC)	65535	0	
+1090602643	Drive Motor Winding #2 Temperature (798AC)	65535	0	
+1090602644	Drivetrain Desired Engine Speed (798AC)	65535	0	
+1090602645	Electric Drive Cooling Fan Solenoid Current (798AC)	65535	0	
+1090602646	Electric Drive Cooling Fan Speed (798AC)	65535	0	
+1090602647	Electric Fuel Transfer Pump Outlet Pressure (798AC)	65535	0	
+1090602648	Electric Fuel Transfer Pump Relay Status (798AC)	65535	0	
+1090602649	Electric Retarding Grid Power Consumption (798AC)	65535	0	
+1090602650	Electric Retarding Lamps Status (798AC)	65535	0	
+1090602651	Elevated Idle (798AC)	65535	0	
+1090602652	Engine Coolant Pump Outlet Pressure (absolute) (798AC)	65535	0	
+1090602653	Engine Coolant Pump Outlet Temperature (798AC)	65535	0	
+1090602654	Engine Coolant Temperature (798AC)	65535	0	
+1090602655	Engine Cooling Fan Solenoid Current (798AC)	65535	0	
+1090602656	Engine Derate (798AC)	65535	0	
+1090602657	Engine Fan Speed (798AC)	65535	0	
+1090602658	Engine Load Factor (798AC)	65535	0	
+1090602659	Engine Oil Level (798AC)	65535	0	
+1090602660	Engine Oil Pressure (798AC)	65535	0	
+1090602661	Engine Oil Temperature (798AC)	65535	0	
+1090602662	Engine Power Derate (798AC)	65535	0	
+1090602663	Engine Power Mode (798AC)	65535	0	
+1090602664	Engine Pre-Lube (798AC)	65535	0	
+1090602665	Engine Speed (798AC)	65535	0	
+1090602666	Fuel Actuator Position Command (798AC)	65535	0	
+1090602667	Fuel Consumption Rate (798AC)	65535	0	
+1090602668	Fuel Filter (798AC)	65535	0	
+1090602669	Fuel Filter (Suction Side) Differential Pressure (798AC)	65535	0	
+1090602670	Fuel Filter Differential Pressure (798AC)	65535	0	
+1090602671	Fuel Pressure (798AC)	65535	0	
+1090602672	Fuel Rail Pressure (798AC)	65535	0	
+1090602673	Fuel Rail Temperature (798AC)	65535	0	
+1090602674	Fuel Temperature (798AC)	65535	0	
+1090602675	Fuel Transfer Pump Intake Pressure (798AC)	65535	0	
+1090602676	Fuel/ Water Separator Level Status (798AC)	65535	0	
+1090602677	Generator Average RMS Current (798AC)	65535	0	
+1090602678	Generator Bearing #1 Temperature (798AC)	65535	0	
+1090602679	Generator Bearing #2 Temperature (798AC)	65535	0	
+1090602680	Generator Excitation Field Regulator Current (798AC)	65535	0	
+1090602681	Generator Excitation Field Regulator Current Command (798AC)	65535	0	
+1090602682	Generator Excitation Field Regulator Diagnostic Feedback Duty Cycle (798AC)	65535	0	
+1090602683	Generator Excitation Field Regulator Enable Command (798AC)	65535	0	
+1090602684	Generator Total Real Power (798AC)	65535	0	
+1090602685	Generator Winding #1 Temperature (798AC)	65535	0	
+1090602686	Generator Winding #2 Temperature (798AC)	65535	0	
+1090602687	Ground Speed/Direction (798AC)	65535	0	
+1090602688	Hoist Lever Position (798AC)	65535	0	
+1090602689	Hoist Output (798AC)	65535	0	
+1090602690	Idle Shutdown Timer Relay Status (798AC)	65535	0	
+1090602691	Idle Shutdown Timer Switch Position (798AC)	65535	0	
+1090602692	Ignition Switch (798AC)	65535	0	
+1090602693	Injection Disabled (798AC)	65535	0	
+1090602694	Intake Manifold #2 Air Temperature (798AC)	65535	0	
+1090602695	Intake Manifold #2 Pressure (798AC)	65535	0	
+1090602696	Intake Manifold Air Temperature (798AC)	65535	0	
+1090602697	Intake Manifold Pressure (798AC)	65535	0	
+1090602698	Inverter Interface Module Enable Command (798AC)	65535	0	
+1090602699	Inverter Interface Module Enable Command (798AC)	65535	0	
+1090602700	Inverter Interface Module Enable Feedback (798AC)	65535	0	
+1090602701	Inverter Interface Module Enable Feedback (798AC)	65535	0	
+1090602702	Left Exhaust Temperature (798AC)	65535	0	
+1090602703	Left Final Drive Filter Bypass (798AC)	65535	0	
+1090602704	Left Final Drive Lube Pressure (798AC)	65535	0	
+1090602705	Left Final Drive Oil Temperature (798AC)	65535	0	
+1090602706	Left Front Axle Speed (798AC)	65535	0	
+1090602707	Left Front Brake Oil Temperature (798AC)	65535	0	
+1090602708	Left Front Strut Pressure (798AC)	65535	0	
+1090602709	Left Rear Brake Oil Temperature (798AC)	65535	0	
+1090602710	Left Rear Strut Pressure (798AC)	65535	0	
+1090602711	Left Rear to Left Front Brake Differential Temperature (798AC)	65535	0	
+1090602712	Load Brake Switch Position (798AC)	65535	0	
+1090602713	Machine Front Tire Weight-Speed (798AC)	65535	0	
+1090602714	Machine Lockout Lamp Status (798AC)	65535	0	
+1090602715	Machine Rear Tire Weight-Speed (798AC)	65535	0	
+1090602716	Machine Retard Speed Adjust Switch Position (798AC)	65535	0	
+1090602717	Machine Speed Limit (798AC)	65535	0	
+1090602718	Motor Control #1 Enable Command (798AC)	65535	0	
+1090602719	Motor Control #2 Enable Command (798AC)	65535	0	
+1090602720	OHT Truck Payload State (798AC)	65535	0	
+1090602721	Oil Filter Differential Pressure (798AC)	65535	0	
+1090602722	Operator Requested Retarding Machine Speed (798AC)	65535	0	
+1090602723	Parking Brake (798AC)	65535	0	
+1090602724	Parking Brake Lock Status (798AC)	65535	0	
+1090602725	Peak Air Filter Restriction (798AC)	65535	0	
+1090602726	Percent Fuel Position (798AC)	65535	0	
+1090602727	Phase A RMS Current (798AC)	65535	0	
+1090602728	Phase B RMS Current (798AC)	65535	0	
+1090602729	Phase C RMS Current (798AC)	65535	0	
+1090602730	Phase Module A Temperature (798AC)	65535	0	
+1090602731	Phase Module A Temperature (798AC)	65535	0	
+1090602732	Phase Module B Temperature (798AC)	65535	0	
+1090602733	Phase Module B Temperature (798AC)	65535	0	
+1090602734	Phase Module C Temperature (798AC)	65535	0	
+1090602735	Phase Module C Temperature (798AC)	65535	0	
+1090602736	Powertrain System Temperature Gauge Percentage (798AC)	65535	0	
+1090602737	Rear Axle Oil Cooler Relay Status (798AC)	65535	0	
+1090602738	Rear Axle Pump Drive Oil Divert Solenoid Status (798AC)	65535	0	
+1090602739	Requested Drive Motor Torque (798AC)	65535	0	
+1090602740	Requested Drive Motor Torque (798AC)	65535	0	
+1090602741	Requested Gear Command (798AC)	65535	0	
+1090602742	Requested Retarding Machine Speed (798AC)	65535	0	
+1090602743	Retarder Selection non-engine (798AC)	65535	0	
+1090602744	Retarding Grid Blower Phase A Current (798AC)	65535	0	
+1090602745	Retarding Grid Blower Phase B Current (798AC)	65535	0	
+1090602746	Retarding Grid Blower Phase C Current (798AC)	65535	0	
+1090602747	Retarding Grid Contactor #1 Feedback Signal Status (798AC)	65535	0	
+1090602748	Retarding Grid Contactor #2 Feedback Signal Status (798AC)	65535	0	
+1090602749	Retarding Grid Contactor Command Status (798AC)	65535	0	
+1090602750	Retarding Grid Contactor Command Status (798AC)	65535	0	
+1090602751	Retarding Grid Contactor Command Status (798AC)	65535	0	
+1090602752	Retarding Grid Contactor Output Current (798AC)	65535	0	
+1090602753	Right Exhaust Temperature (798AC)	65535	0	
+1090602754	Right Final Drive Filter Bypass (798AC)	65535	0	
+1090602755	Right Final Drive Lube Pressure (798AC)	65535	0	
+1090602756	Right Final Drive Oil Temperature (798AC)	65535	0	
+1090602757	Right Front Axle Speed (798AC)	65535	0	
+1090602758	Right Front Brake Oil Temperature (798AC)	65535	0	
+1090602759	Right Front Strut Pressure (798AC)	65535	0	
+1090602760	Right Front to Left Front Brake Differential Temperature (798AC)	65535	0	
+1090602761	Right Front To Left Front Strut Differential Pressure (798AC)	65535	0	
+1090602762	Right Rear Brake Oil Temperature (798AC)	65535	0	
+1090602763	Right Rear Strut Pressure (798AC)	65535	0	
+1090602764	Right Rear to Left Rear Brake Differential Temperature (798AC)	65535	0	
+1090602765	Right Rear To Left Rear Strut Differential Pressure (798AC)	65535	0	
+1090602766	Right Rear to Right Front Brake Differential Temperature (798AC)	65535	0	
+1090602767	Secondary Brake Pedal Position (798AC)	65535	0	
+1090602768	Service Brake (798AC)	65535	0	
+1090602769	Service Brake Position (798AC)	65535	0	
+1090602770	Shift Lever Position (798AC)	65535	0	
+1090602771	Shutdown Switch (798AC)	65535	0	
+1090602772	Starter Lockout Status (798AC)	65535	0	
+1090602773	System Voltage (798AC)	65535	0	
+1090602774	Tank Fuel Level (798AC)	65535	0	
+1090602775	Throttle Lock Mode (798AC)	65535	0	
+1090602776	Throttle Position (798AC)	65535	0	
+1090602777	Total Distance (798AC)	65535	0	
+1090602778	Total Operating Hours (798AC)	65535	0	
+1090602779	Transmission Lockout Status (798AC)	65535	0	
+1090602780	Truck Payload (798AC)	65535	0	
+1090602781	User Shutdown (798AC)	65535	0	
+1090603076	Loading Time (798AC)	0	0	29
+1090603077	Stop Empty Time (798AC)	0	0	29
+1090603078	Travel Empty Time (798AC)	0	0	29
+1090603079	Travel Empty Distance (798AC)	0	0	8
+1090603080	Stopped Load Time (798AC)	0	0	29
+1090603081	Travel Loaded Time (798AC)	0	0	29
+1090603082	Haul Distance (798AC)	0	0	8
+1090603083	Dippers (798AC)	0	0	0
+1090603084	Fuel Used (798AC)	0	0	14
+1090603085	Payload (798AC)	0	0	19
+1090603086	Engine Hours (798AC)	1193046.47083333	0	7

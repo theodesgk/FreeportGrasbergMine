@@ -1,0 +1,55 @@
+1895890945	Engine Speed	8192	0	28
+1895890946	Weight Rated	655.36	0	19
+1895890947	Weight Real	655.36	0	19
+1895890948	Times of Driver	65536	0	0
+1895890949	Times of one day	65536	0	0
+1895890950	Red light	1	0	0
+1895890951	Yellow light	1	0	0
+1895890952	Green light	1	0	0
+1895890953	Left Front Suspension Fault	1	0	0
+1895890954	Right Front Suspension Fault	1	0	0
+1895890955	Left Rear Suspension Fault	1	0	0
+1895890956	Right Rear Suspension Fault	1	0	0
+1895890957	Commutation Fault	1	0	0
+1895890958	Quick Estimate Event	1	0	0
+1895890959	Swing loads Event	1	0	0
+1895890960	Under Load	655.36	0	19
+1895890961	Distance of Heavy Loaded	21474836.48	0	8
+1895890962	Distance of Mild Loaded	21474836.48	0	8
+1895890963	Times of Heavy Loaded	71582788.2666667	0	7
+1895890964	Times of Mild Loaded Drive	71582788.2666667	0	7
+1895890965	Drive System Fault Lamp	3	0	0
+1895890966	Hydraulic Fluid Low	3	0	0
+1895890967	Hydraulic Fluid Temp High	3	0	0
+1895890968	Park Brake Release	3	0	0
+1895890969	Load Brake	3	0	0
+1895890970	Dump Body Up	3	0	0
+1895890971	Coolant Level Low	3	0	0
+1895890972	Air Filter Block	3	0	0
+1895890973	Auto Lub Fault	3	0	0
+1895890974	Fuel Level Low	3	0	0
+1895890975	Axle Pressure Low	3	0	0
+1895890976	Hydraulic Filter Block	3	0	0
+1895890977	Front Brake Drag	3	0	0
+1895890978	Rear Brake Drag	3	0	0
+1895890979	Motor Temp High	3	0	0
+1895890980	Ground Fault	3	0	0
+1895890981	Water In Fuel	3	0	0
+1895890982	Coolant Temp High	3	0	0
+1895890983	EngOil Pressure Low	3	0	0
+1895890984	Retard Fault	3	0	0
+1895890985	Over Speed1	3	0	0
+1895890986	No Propulsion	3	0	0
+1895890987	Brake Oil Temp High	3	0	0
+1895890988	Steer Fiter Drag	3	0	0
+1895890989	Trans Fiter Drag	3	0	0
+1895890990	Steer Oil Low	3	0	0
+1895890991	Battery Voltage	3276.8	0	31
+1895890992	Fuel Level	102	0	25
+1895890993	Truck Speed	6553.6	0	11
+1895890994	Front Brake Pressure Low	3	0	0
+1895890995	Rear Brake Pressure Low	3	0	0
+1895890996	Engine Warning	3	0	0
+1895890997	Trans Oil High	3	0	0
+1895890998	Hour	214748364.8	0	7
+1895890999	Engine Oil Pressure	1020	0	9

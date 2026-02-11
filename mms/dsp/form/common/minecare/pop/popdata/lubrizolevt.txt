@@ -1,0 +1,24 @@
+Offline - Gen 6 - Inactive	570490899
+Offline - Gen 6 - Active	570490900
+Error  - Gen 6 - Inactive	570490901
+Error  - Gen 6 - Active	570490902
+Offline - Visc -  Inactive	570500881
+Offline - Visc - Active	570500882
+Error  - Visc - Inactive	570500883
+Error  - Visc - Active	570500884
+Oil Temperature Approaching HI - Visc - Inactive	570500885
+Oil Temperature Approaching HI - Visc  - Active	570500886
+Oil Temperature HI - Visc  - Inactive	570500887
+Oil Temperature HI - Visc  - Active	570500888
+Oil Viscosity LO - Visc  - Inactive	570500889
+Oil Viscosity LO - Visc  - Active	570500890
+Oil Viscosity HI - Visc  - Inactive	570500891
+Oil Viscosity HI - Visc  - Active	570500892
+RUL 1 - Visc  - Inactive	570500893
+RUL 1 - Visc  - Active	570500894
+RUL 2 - Visc  - Inactive	570500895
+RUL 2 - Visc  - Active	570500896
+OEM Interface Timeout	570556384
+OEM Interface Normal	570556385
+Driver Interface Timeout	570556386
+Driver Interface Normal	570556387

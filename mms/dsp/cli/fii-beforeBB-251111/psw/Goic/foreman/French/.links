@@ -1,0 +1,38 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/Blocks.cfg
+ln -sf ../English/Delay.cfg
+ln -sf ../English/DelayL_.cfg
+ln -sf ../English/Down.cfg
+ln -sf ../English/DownL_.cfg
+ln -sf ../English/Dozers.cfg
+ln -sf ../English/Drills.cfg
+ln -sf ../English/Graders.cfg
+ln -sf ../English/MMap.cfg
+ln -sf ../English/Ready.cfg
+ln -sf ../English/ReadyL_.cfg
+ln -sf ../English/Shovels2.cfg
+ln -sf ../English/Standby.cfg
+ln -sf ../English/StandbyL_.cfg
+ln -sf ../English/Tiedowns.cfg
+ln -sf ../English/Trucks3.cfg
+ln -sf ../English/Trucks4.cfg
+ln -sf ../English/w0.cfg
+ln -sf ../English/w0.ScrnCntrl.cfg
+ln -sf ../English/w0.Text.cfg
+ln -sf ../English/w0.v1.cfg
+ln -sf ../English/w0.v2.cfg
+ln -sf ../English/w0.v3.cfg
+ln -sf ../English/w1.cfg
+ln -sf ../English/w1.Text.cfg
+ln -sf ../English/w2.cfg
+ln -sf ../English/w2.Text.cfg
+ln -sf ../English/w3.Text.cfg
+ln -sf ../English/w4.cfg
+ln -sf ../English/w4.Text.cfg
+ln -sf ../English/w5.cfg
+ln -sf ../English/WCam.cfg
+ln -sf ../English/WinMgr.cfg
+ln -sf ../English/WKpi.cfg

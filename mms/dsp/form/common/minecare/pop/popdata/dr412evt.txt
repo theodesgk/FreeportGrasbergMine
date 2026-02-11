@@ -1,0 +1,30 @@
+Hole Start	1845559297
+Hole Stop	1845559298
+Jacks Retracted	1845559299
+Jacks On Ground	1845559300
+Mast Locked	1845559301
+Mast Unlocked	1845559302
+Holding Wrench Extended	1845559303
+Holding Wrench Retracted	1845559304
+E-Stop Active	1845559305
+Functional State - Idle	1845559306
+Functional State - Tramming	1845559307
+Functional State - Automatic Aligning / Positioning / Mast Handling	1845559308
+Functional State - Manual Aligning / Positioning / Mast Handling	1845559309
+Functional State - Automatic Rod / Pipe Handling	1845559310
+Functional State - Manual Rod / Pipe Handling	1845559311
+Functional State - Automatic Drilling	1845559312
+Functional State - Manual Drilling	1845559313
+Engine Status - Engine off	1845559314
+Engine Status - Starting	1845559315
+Engine Status - Warming	1845559316
+Engine Status - Sleeping	1845559317
+Engine Status - Running	1845559318
+Engine Status - Derate	1845559319
+Engine Status - Cooling	1845559320
+Engine Status - Stopping	1845559321
+Engine Status - Error	1845559322
+OEM Interface Timeout	1845624800
+OEM Interface Normal	1845624801
+Driver Interface Timeout	1845624802
+Driver Interface Normal	1845624803

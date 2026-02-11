@@ -1,0 +1,15 @@
+00001, 0, 1, eqmtDimension, Equipment Length (float mine units), EDIM, 3, 12.0, 1, 1, 1, 1, 1
+00002, 0, 2, internalReceiverAntLocalXPos, Internal GPS X Position (cm), IGPSX, 1, 0, 1, 1, 1, 1, 1
+00003, 0, 3, internalReceiverAntLocalYPos, Internal GPS Y Position (cm), IGPSY, 1, 0, 1, 1, 1, 1, 1
+00004, 0, 4, internalReceiverAntLocalZPos, Internal GPS Z Position (cm), IGPSZ, 1, 0, 1, 1, 1, 1, 1
+00005, 0, 5, externalReceiverAntLocalXPos, External GPS X Position (cm), EGPSX, 1, 0, 1, 0, 1, 0, 0
+00006, 0, 6, externalReceiverAntLocalYPos, External GPS Y Position (cm), EGPSY, 1, 0, 1, 0, 1, 0, 0
+00007, 0, 7, externalReceiverAntLocalZPos, External GPS Z Position (cm), EGPSZ, 1, 0, 1, 0, 1, 0, 0
+00011, 0, 11, bucketLocalXPos, Bucket X Position (cm), BKTX, 1, 0, 1, 1, 0, 0, 0
+00012, 0, 12, bucketLocalYPos, Bucket Y Position (cm), BKTY, 1, 0, 1, 1, 0, 0, 0
+00013, 0, 13, bucketLocalZPos, Bucket Z Position (cm), BKTZ, 1, 0, 1, 1, 0, 0, 0
+00014, 0, 14, toeRadius, Face Toe Offset (int mine units), FTOE, 1, 14, 1, 1, 0, 0, 0
+00015, 0, 15, recenterDist, Map Display Recenter Distance (int mine, RCDST, 1, 50, 1, 1, 1, 1, 1
+00016, 0, 16, bladeLocalXPos, Blade X Position (cm), BLDX, 1, 0, 0, 0, 0, 1, 1
+00017, 0, 17, bladeLocalYPos, Blade Y Position (cm), BLDY, 1, 0, 0, 0, 0, 1, 1
+00018, 0, 18, bladeLocalZPos, Blade Z Pos (cm), BLDZ, 1, 0, 0, 0, 0, 1, 1

@@ -1,0 +1,84 @@
+Statex Alarms monitored by Dispatch system:
+        Reset All
+        Low Level Ground Fault
+        High Level Ground Fault
+        Pedal Accel
+        Pedal Retard
+        GF Contactor
+        GFR Relay
+        MF Contactor
+        P1 Contactor
+        P2 Contactor
+        RP1 Contactor
+        RP2 Contactor
+        RP3 Contactor
+        RP4 Contactor
+        RP5 Contactor
+        RP6 Contactor
+        RP7 Contactor
+        RP8 Contactor
+        RP9 Contactor
+        Forward Coil
+        Reverse Coil
+        Analog Output
+        Frequency Output
+        Analog Input
+        Frequency Input
+        Hardware Startup
+        Illegal Comb of MstCtrlSwitch Speed Reduc Contacts
+        Trolley Line Volt Limit Exceeded
+        Pantograph Operating Valve
+        Diode Fault
+        Motor 1 Overcurrent
+        Motor 2 Overcurrent
+        Motor Field Fault
+        Motor Field Overcurrent
+        Motor Stall
+        Motor Spin
+        Alternator Tertiary Overcurrent
+        Motor Tertiary Overcurrent
+        +15 Power
+        -15 Power
+        +19 Power
+        Motor Polarity
+        Analog Input-FB155 Card
+        PTU Configuration
+        Grid Motor 1 Failure
+        Grid Motor 2 Failure
+        Low Axle Box Pressure
+        Motor 1 Over Temperature
+        Motor 2 Over Temperature
+        Overspeed Retarding
+        Speed Retard Exceeded
+        Retard OverCurrent
+        Horsepower Low
+        Horsepower Limit Exceeded
+        Engine Overspeed Exceeded
+        Oil Pressure Warning
+        Oil Pressure Shutdown
+        Coolant Pressure Warning
+        Coolant Pressure Shutdown
+        Crankcase Overpressure
+        Coolant Overtemperature
+        Engine Service
+	Engine Shutdown
+        Engine Speed Retard
+        Motor 1 Voltage Limit Exceeded
+        Motor 2 Voltage Limit Exceeded
+        Alternator Field Current Level
+        Trolley Notching Contactors
+        Trolley Line Contactors
+        Ground Interrupt Contactor
+        Diesel/Trolley Field Switching Contactor
+        Lamp
+        Drive Off Trolley Wire
+        Battery Volts Low
+        Battery Volts High
+        Bad Engine Sensor
+        Motor Speed Sensor
+        Leakage Current Fault
+        Overcurrent Fault
+        Grid Protection Fault
+        Motor Overtemp While On Trolley In Reduced Notch
+        Data Store
+        Software

@@ -1,0 +1,50 @@
+#! /bin/sh -x
+#
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-1994
+#               All Rights Reserved
+#  $RCSfile: geoendshift,v $
+# $Revision: 1.1 $
+#   $Author: olson $
+#     $Date: 2002/05/24 02:07:12 $
+#    $State: Exp $
+#
+# This script copies surfaces and their current TINs from geodat.ddb
+# to the geodat shift file whose shift index is specified.
+#
+#	    $1 [=] Current shift index
+#
+
+#
+# Source function and environment variables files.  See these files
+# for documentation on client-specific overrides.
+#
+. /dsp/sh/functions
+
+#
+# Set the client if it isn't already.
+#
+DSP_CLIENT=${DSP_CLIENT-`check_client`}
+export DSP_CLIENT
+
+# Exit if no shift index given
+
+if [ $# -lt 1 ]; then
+  logger -p auth.notice geoendshift: no shift index specified
+  exit 1
+else
+  shift=$1
+fi
+
+mms keypad batch : $1 << EOF
+
+.include geodat/db_geodat
+.include geodat/geo_utils
+..
+.init \
+  geo_maindb_open("r"),
+  !ARGV.1 ? return,
+  copy_surfaces_to_shift(int ARGV.1),
+  return
+
+EOF

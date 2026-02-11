@@ -1,0 +1,62 @@
+33619969	Left Front Strut Pressure	642252.8	0	9
+33619970	Right Front Strut Pressure	642252.8	0	9
+33619971	Left Rear Strut Pressure	642252.8	0	9
+33619972	Right Rear Strut Pressure	642252.8	0	9
+33619973	Incline Angle	42949672.96	-1000	4
+33619978	PayLoad	1000	0	19
+33619974	Speed	255	0	11
+33620076	Brake Lock	1	0	0
+33620077	Body Up	1	0	0
+33619977	Digital Input	255	0	0
+33619975	Analog Input #1 (Plm 2)	25.5	0	31
+33619976	Analog Input #2 (Plm 2)	25.5	0	31
+33620011	Truck Status	255	0	19
+33619979	Predicted PayLoad / Predicted Next Swingload	1000	0	19
+33620029	Frame Torque Threshold	65536	0	18
+33620030	Sprung Weight Threshold	65536	0	19
+33620031	Dynamic Stress Status	255	0	0
+33619980	Frame Torque	65536	0	18
+33619981	Sprung Weight	65536	0	19
+33619982	Swings Number	255	0	0
+33619983	Operator ID	65536	0	0
+33620010	Haul Cycle Date/Time	4294967296	0	29
+33619984	Last Swing Load	6553.6	0	19
+33619985	Peak Positive Frame Torque	655.36	0	18
+33619986	Peak Positive Frame Torque Time	65536	0	29
+33619987	Peak Negative Frame Torque	655.36	0	18
+33619988	Peak Negative Frame Torque Time	65536	0	29
+33619989	Peak Sprung Load	6553.6	0	19
+33619990	Peak Sprung Load Time	65536	0	29
+33619991	Loaded Haul Distance	655360	0	17
+33619992	Loaded Haul Time	65536	0	29
+33619993	Loaded Stop Time	65536	0	29
+33619994	Loaded Maximum Speed	655360	0	11
+33619995	Loaded Maximum Speed Time	65536	0	29
+33619996	Body Lift Off Time	65536	0	29
+33619997	Empty Carry Back Load	6553.6	0	19
+33619998	Empty Haul Distance	655360	0	17
+33619999	Empty Haul Time	65536	0	29
+33620000	Empty Stop Time	65536	0	29
+33620001	Empty Maximum Speed	655360	0	11
+33620002	Empty Maximum Speed Time	65536	0	29
+33620003	Loading Start Time	65536	0	29
+33620004	Loading Time	65536	0	29
+33620005	Dumping Time	65536	0	29
+33620006	Front Left Tire TKPH (Ton Km/Hour)	65536	0	20
+33620007	Front Right Tire TKPH (Ton Km/Hour)	65536	0	20
+33620008	Rear Tires TKPH (Ton Km/Hour)	65536	0	20
+33620009	Cycle Status	65536	0	0
+33620012	Payload Gain Factor (PLM4)	255	0	0
+33620013	Microfail Torque (PLM4)	4294967296	0	0
+33620014	Tare Sprung Weight (PLM4)	65536	0	19
+33620015	Quick Payload Estimate (Net) (PLM4)	65536	0	19
+33620078	Clean Tare Sprung Weight	6553.6	0	19
+33620079	Truck Type ID	65536	0	0
+33620016	Unique Serial Number (PLM4)	4294967296	0	0
+33620017	Microfail Sprung Weight (PLM4)	4294967296	0	0
+33620018	Maneuvering Torque Average > 3mph (PLM4)	42949672.96	0	18
+33620019	Final Zone Torque Average > 3mph (PLM4)	42949672.96	0	18
+33620020	Fuel Consumption (PLM4)	65536	0	14
+33620021	Allowable Payload (OLS) (PLM4)	65536	0	19
+33620022	Remaining Load (OLS) (PLM4)	65536	0	19
+33620023	Cycle Target Load (OLS) (PLM4)	4294967296	0	19

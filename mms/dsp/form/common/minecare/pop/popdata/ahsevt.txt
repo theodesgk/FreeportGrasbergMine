@@ -1,0 +1,62 @@
+Left Dump Spot Point	1577123841
+Exited Dumping Location	1577123842
+Entered Loading Location	1577123843
+Arrived At Load Wait Point	1577123844
+AT at Load Wait Point	1577123845
+Arrived At Load Spot Point	1577123846
+Loading Finished	1577123847
+Left Load Spot Point	1577123848
+Exited Loading Location	1577123849
+Entered Dumping Location	1577123850
+Hopper Wait Finished	1577123851
+Arrived At Dump Spot Point	1577123852
+Dumping Started 	1577123853
+Dumping Paused	1577123854
+Dumping Finished	1577123855
+Entered Tie-Down Location	1577123856
+Exited Tie-Down Location	1577123857
+Loader Is Idle	1577123858
+AT at Loader's Spot Point	1577123859
+Loader Loading	1577123860
+AT Down Time	1577123861
+AT's Blocked By AHT Error	1577123862
+AT's Loading Area Closed	1577123863
+AT's Dumping Area Closed	1577123864
+AT's Road Closed	1577123865
+AT's Intersection Closed	1577123866
+AT's Location Closed	1577123867
+AT Stopped	1577123868
+AT Blocked by a Stopped AT	1577123869
+AT Exception during Load	1577123870
+AT Stopped by Operator during Load	1577123871
+AT Delayed by Loader	1577123872
+AT Stopped by Auto Interaction	1577123873
+AT stopped by Auto Interaction while spotting	1577123874
+AT Stopped by Manual Interaction	1577123875
+AT stopped by Manual Interaction while spotting	1577123876 
+No Path to Area for AT	1577123877
+AT Has Wrong Assignment	1577123878
+AT's Loader is Busy	1577123879
+AT at Load Queue	1577123880
+AT at Dump Queue	1577123881
+Other AT Stop	1577123882
+AT stopped by other reasons while spotting	1577123883
+AT is Loading	1577123884
+AT is Waiting for Dump	1577123885
+AT Moving	1577123886
+AT Application Closed	1577123887
+AT in Manual Operation	1577123888
+Loader Is Not Ready	1577123889
+Loader's Clean Up	1577123890
+Other Loader Delay	1577123891
+Loader's Down Time	1577123892
+Loader's Area is Closed	1577123893
+Loader's Application was Closed	1577123894
+Auxiliary Operating	1577123895
+Auxiliary Down Time	1577123896
+Auxiliary's Application Closed	1577123897
+AT null	1577123898
+AT Exception	1577123899
+AT Down Time During Fuel	1577123900
+AT Exception during Fuel	1577123901
+AT's Blocked by AT Error	1577123905

@@ -1,0 +1,63 @@
+..
+.. DISPATCH Utility System Module DOCUMENTATION
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: readme,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:14 $
+..    $State: Exp $
+..   Purpose: Installation Guide to setup Isi dragline interface
+..
+INSTALLATION PROCEDURE FOR GENERIC ISI DRAGLINE INTERFACE
+---------------------------------------------------------
+1) copy Isi.cfg from boot to client specific psw/Isi/ directory.
+     modified the content of Isi.cfg as given below.
+     %!/psw/cpp
+     #include_next <Isi/Isi.cfg>
+     macname "LA LOMA MARION 8750"
+     Note:- The machine name would be the name of client specific machine.
+          for example the above machine name is a 20 char machine name
+          "LA LOMA MARION 8750"
+    At site where there could be two different draglines with different machine
+    names, it would be better to load the Hub and then change the machine name
+    at the Hub prompt.
+
+2) modify 'enum.c' in client directory:
+   
+    In the acttbl[] definition add following lines :
+
+    { act_other,     0x0681,  fmtint }, /* Isi Dig type data */
+    { act_other,     0x0682,  fmtint }, /* Isi Down time data */
+    { act_other,     0x0683,  fmtint }, /* Isi Step angle data */
+    { act_other,     0x0684,  fmtint }, /* Isi Swing angle data */
+    { act_other,     0x0685,  fmtint }, /* Isi End block data */
+
+3) modify 'client.rpc' in client specific psw directory
+   
+    Add the following lines if the rpc's are not defined in the /psw/etc/rpc
+    file
+    
+    0x0680  ISI-SHDATA     dispatch   [d][l][d]?[b]          RADIO
+    0x0681  ISI-DIGDATA    dispatch    b[l]                 RADIO
+    0x0682  ISI-DTDATA     dispatch    [d]l                 RADIO
+    0x0683  ISI-SADATA     dispatch    [l]                  RADIO
+    0x0684  ISI-SWDATA     dispatch    d[l]                 RADIO
+    0x0685  ISI-ENDBLOCK   dispatch    [d]                  RADIO
+    0x0686  ISI-ACK          isi        b
+
+3) Make sure the rpc's are recognised by the packet switcher, for example
+
+   Type the command pswd -R isi-shdata. It should display the rpc along with
+   the right argument types 
+
+3) Load the Hub using command /net/Hub/All CLASS=xxx ID=xxx OPTIONS=Isi
+
+4) Make the following changes to client specific act_dispatch.frm
+   a) include isi/act_isi to list of include files after act_psw is included.
+   b) add ISI$OPEN to ACT$RESTART expr example_act_dispatch.frm is enclosed 
+   for reference.
+   c) add ACT$ISI to the ACT$OTHER as shown in example_act_dispatch.frm, it
+   should be added right after ACT$OTHER and before case statement.
+
+     

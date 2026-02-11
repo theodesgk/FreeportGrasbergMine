@@ -1,0 +1,195 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: dbini.frm.example,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:11 $
+..    $State: Exp $
+..   Purpose:
+..
+.vstr username
+.vstr term
+.vstr computer
+.init term     := GETENV( "TERM", 0 ),
+      username := GETENV("USER",0),
+      fd := OPEN( "|uname -n", "r" ),
+      READ( fd, "%s", computer ),
+      CLOSE( fd )
+.export term,username,computer
+..
+..The following logic gets rid of the page feed for
+..the first report so a blank sheet is not wasted.
+..
+.vbool pagefeed
+.expr PAGEFEED \
+      !pagefeed ?
+        (
+        pagefeed :=1,
+        str CLOCK.0
+        ) :
+        (str CLOCK.0)[^L%s]
+..
+.export PAGEFEED,pagefeed
+..
+.if DEFINED("A$ID")
+.def A$ACTCODE A$ANALOG.30
+.else
+.def A$ACTCODE return
+.endif
+..
+.include maint_enum
+..
+.if DEFINED("DB$RECORD")
+.def MAXNODES 400       .. Allow 400 locations
+.def APPEND_SHIFT "SHIFTMAINT shiftmaint"
+..def APPEND_PIT "PITFAULT pitfault"
+..
+.include db_pit
+.include db_shift
+.include db_sum
+..include timecats
+.include enum_unit
+.include enum_status
+.include enum_client
+.include enum_floorstocks
+..include misc_pit_exprs
+.include db_factor
+.include db_inv
+..
+.expr maint_record \
+DB$RECORD("SHIFTMAINT",
+          "string id[20]",
+          "link shifteqmt eqmt",
+          "link shiftaux auxeqmt",
+          "string mcomment[MAXCOMMENT] nil",
+          "string maintoper[MAXCOMMENT] nil",
+          "string maintinfo[MAXCOMMENT]",
+          "string worder[MAXCOMMENT] nil",
+          "int maintint[2] nil",
+          "float maintfloat[2] nil",
+          "int mdowntime nil",
+          "int muptime nil",
+          "short reason",
+          "string comment[MAXCOMMENT]",
+          "enum STATUS status",
+          "enum MSTATUS mstatus")
+..
+.init maint_record,
+      db_pit,
+      db_shift,
+      db_sum,
+      db_inv,
+      DB$RECORD( "+EQMT",    "string lastgps[30] nil,val=nil"),
+      DB$RECORD( "+EQMT",    "float  stats[5] nil,val=nil"),
+      DB$RECORD( "+EQMT",    "string pending[60,15] nil,val=nil"),
+      DB$RECORD( "+EQMT",    "date   lastfueled nil,val=nil"),
+      DB$RECORD( "+EQMT",    "ushort lastfuelamt"),
+      DB$RECORD( "+AUXEQMT", "string pending[60,15] nil,val=nil"),
+      DB$RECORD( "+AUXEQMT", "string lastgps[30] nil,val=nil"),
+      DB$RECORD( "+AUXEQMT", "date   lastfueled nil,val=nil"),
+      DB$RECORD( "+AUXEQMT", "ushort lastfuelamt"),
+      DB$RECORD( "+PITLOC",  "ushort area" ),
+      DB$RECORD( "+GRADE",   "enum MINESTOCK_CLASS minestockclass" ),
+      DB$RECORD( "+GRADE",   "enum MATERIAL_CODE materialcode" ),
+      DB$RECORD( "+GRADE",   "int cu_metres_initial" ),
+      DB$RECORD( "+GRADE",   "date blasted nil, val=nil" ),
+..
+.. Pit Control Variables (PCM)
+..
+      DB$RECORD( "+EQMT",       "string pcminfo[20,12] nil",
+                                "bool pcmflag",
+                                "int pcmloads[3] val=0",
+                                "float pcmtons val=0.0",
+                                "string trucklast[5] nil",
+                                "bool pcmexclude"),
+..
+.. drill additions start here
+..
+  DB$RECORD("+AUXEQMT",    "string hole[15] nil"),
+  DB$RECORD("+AUXEQMT",    "string material[15]"),
+  DB$RECORD("+AUXEQMT",    "enum ACTION actlast val=2"),
+  DB$RECORD("+AUXEQMT",    "enum ACTION actnext val=2"),
+  DB$RECORD("+AUXEQMT",    "enum ACTION actsave val=32"),
+  DB$RECORD("+AUXEQMT",    "float beans val=0" ),
+  DB$RECORD("+AUXEQMT",    "float depth val=0" ),
+  DB$RECORD("+AUXEQMT",    "int sample val=0" ),
+  DB$RECORD("+AUXEQMT",    "string blast[15]"),
+  DB$RECORD("+AUXEQMT",    "string config[16]"),
+..
+.. drill additions end here
+..
+  DB$RECORD( "+REASON", "bool valid[20] nil,val=nil"),
+  DB$RECORD( "+REASON", "bool auto nil,val=nil")
+..
+.if DEFINED("PIT$OPEN")
+.init PIT$OPEN(DB$PIT),
+      DB$SYMBOL( PIT$FD, "$pitloc", "L$", "only=L$AREA" ),
+      DB$SYMBOL( PIT$FD, "$grade", "G$",
+                          "only=G$MINESTOCKCLASS",
+                          "only=G$MATERIALCODE",
+                          "only=G$CU_METRES_INITIAL",
+                          "only=G$BLASTED" )
+..
+.if DEFINED("T$ID")
+.include misc_pit_exprs
+.init DB$SYMBOL(PIT$FD, "$truck", "T$",
+                         "only=T$PENDING",   .. Tk Maintenance Pending
+                         "only=T$LASTGPS",
+                         "only=T$STATS",
+                         "only=T$LASTFUELED",
+                         "only=T$LASTFUELAMT"),
+      DB$SYMBOL(PIT$FD, "$excav", "E$",
+                         "only=E$PENDING",   .. Ex Maintenance Pending
+                         "only=E$LASTGPS",
+                         "only=E$STATS",
+                         "only=E$LASTFUELED",
+                         "only=E$LASTFUELAMT",
+                         "only=E$PCMINFO",  ..PCM Records
+                         "only=E$PCMFLAG",
+                         "only=E$PCMLOADS",
+                         "only=E$PCMTONS",
+                         "only=E$TRUCKLAST",
+                         "only=E$PCMEXCLUDE"),
+      DB$SYMBOL(PIT$FD, "$auxeqmt", "A$",
+                         "only=A$PENDING",  .. Aux Maintenance Pending
+                         "only=A$LASTGPS",
+..
+.. drill additions start here
+..
+                         "only=A$HOLE",
+                         "only=A$MATERIAL",
+                         "only=A$ACTLAST",
+                         "only=A$ACTNEXT",
+                         "only=A$ACTSAVE",
+                         "only=A$BEANS",
+                         "only=A$DEPTH",
+                         "only=A$SAMPLE",
+                         "only=A$CONFIG",
+                         "only=A$BLAST",
+..
+.. drill additions end here
+..
+                         "only=A$LASTFUELED",
+                         "only=A$LASTFUELAMT")
+.def T$TPH T$STATS.0
+.def T$LASTTONS T$STATS.1
+.def E$TPH E$STATS.0
+.def E$LASTTONS E$STATS.1
+..
+..
+.. Define an expression to determine whether a data base of a
+.. given name exists and is of the proper type.
+..
+.if DEFINED("DB$TYPE")
+.expr DbExists(name, type)      DB$TYPE(name) = type
+.else
+.expr DbExists(name, type)      DB$MTIME(name) <> nil
+.endif
+..
+.export DbExists
+..
+.endif
+.endif
+.endif

@@ -1,0 +1,153 @@
+50397185	Ground Fault Current	0	0	16
+50397186	Motor #1 Armature Current	0	0	1
+50397187	Motor #2 Armature Current	0	0	1
+50397188	Motor Field Current	0	0	1
+50397189	Alternator Field Current	0	0	1
+50397190	Select Retard Speed	0	0	11
+50397191	Retard Pedal Input Request	0	0	25
+50397192	Alternator Field Voltage	0	0	30
+50397193	Alternator Output Voltage	0	0	30
+50397194	Motor #2 Armature Voltage	0	0	30
+50397195	Accelerator Pedal Input Request	0	0	25
+50397196	AFSE Alternator Tertiary Current	0	0	1
+50397197	MFSE Alternator Tertiary Current	0	0	1
+50397198	+15 Vdc Supply Voltage	0	0	30
+50397199	-15 Vdc Supply Voltage	0	0	30
+50397200	Battery Voltage	0	0	30
+50397201	Foot Pedal Reference Voltage	0	0	30
+50397202	Trolley Leakage Current	0	0	16
+50397203	Trolley Line Current	0	0	1
+50397204	Trolley Line Voltage	0	0	30
+50397205	Engine Speed	3000	0	28
+50397206	Motor #1 Speed (RPM)	3000	0	28
+50397207	Motor #2 Speed (RPM)	3000	0	28
+50397208	Motor #1 Speed (KPH)	4827	0	11
+50397209	Motor #2 Speed (KPH)	4827	0	11
+50397210	Motor #1 Temperature	300	0	5
+50397211	Motor #2 Temperature	300	0	5
+50397212	Engine Coolant Temperature	300	0	5
+50397213	Engine Crankcase Pressure	3447.3785	0	9
+50397214	Engine Coolant Pressure	3447.3785	0	9
+50397215	Engine Oil Pressure	3447.3785	0	9
+50397216	Commanded Engine Speed	3000	0	28
+50397217	AFSE Temperature	300	0	5
+50397218	MFSE Temperature	300	0	5
+50397219	Ambient Temperature	300	0	5
+50397220	Alternator Output Voltage(Averaged)	3000	-100.00	30
+50397221	Engine Speed (Averaged)	3000	-100.00	28
+50397222	Motor 1 Armature Current (Averaged)	3000	-100.00	1
+50397223	Motor Field Current (Averaged)	3000	-100.00	1
+50397224	Motor #1 Speed (Averaged)	4827	-160.9	11
+50397225	Motor #2 Speed (Averaged)	4827	-160.9	11
+50397226	Net Power To Alternator (Averaged) (kW)	2237.1	-74.57	12
+50397227	Motor 2 Armature Current (Averaged)	3000	-100.00	1
+50397228	Alternator Field Current (Averaged)	3000	-100.00	1
+50397229	Alternator Field Command (Averaged)	10	-1.00	0
+50397230	Motor Field Command (Averaged)	3000	-100.00	0
+50397231	Alternator Field Command	10	-1.00	0
+50397232	Motor Field Command	10	-1.00	0
+50397233	Power Output To Wheel Motors	0	0	12
+50397234	Truck Software Object Code Version	0	0	0
+50397235	2dd First Search	1	0	0
+50397236	2dd Last Search	1	0	0
+50397237	2dd Local Reset	1	0	0
+50397238	Accelerator Inhibit	1	0	0
+50397239	Accelerator Pedal Switch	1	0	0
+50397240	Blower Pressure Switch	1	0	0
+50397241	Dump Override Switch	1	0	0
+50397242	Dump Body Up Switch	1	0	0
+50397243	Engine Shutdown	1	0	0
+50397244	Engine Service	1	0	0
+50397245	Failed Diode	1	0	0
+50397246	Selector Switch In Forward	1	0	0
+50397247	Idle Switch	1	0	0
+50397248	Load Weight	1	0	0
+50397249	Data Store Switch	1	0	0
+50397250	Selector Switch In Reverse	1	0	0
+50397251	Retard Pedal Switch	1	0	0
+50397252	RSC Enabled	1	0	0
+50397253	Key Switch Closed	1	0	0
+50397254	Control Power Relay Feedback	1	0	0
+50397255	Forward Contactor Feedback	1	0	0
+50397256	GF Contactor Feedback	1	0	0
+50397257	GFR Contactor Feedback	1	0	0
+50397258	MF Contactor Feedback	1	0	0
+50397259	P1 Contactor Feedback	1	0	0
+50397260	P2 Contactor Feedback	1	0	0
+50397261	Reverse Contactor Feedback	1	0	0
+50397262	RP1 Contactor Feedback	1	0	0
+50397263	RP2 Contactor Feedback	1	0	0
+50397264	RP3 Contactor Feedback	1	0	0
+50397265	RP4 Contactor Feedback	1	0	0
+50397266	RP5 Contactor Feedback	1	0	0
+50397267	RP6 Contactor Feedback	1	0	0
+50397268	RP7 Contactor Feedback	1	0	0
+50397269	RP8 Contactor Feedback	1	0	0
+50397270	RP9 Contactor Feedback	1	0	0
+50397271	Parking Brake Switch	1	0	0
+50397272	Service Brake Switch	1	0	0
+50397273	D1 Contactor Feedback	1	0	0
+50397274	D2 Contactor Feedback	1	0	0
+50397275	T1 Contactor Feedback	1	0	0
+50397276	T2 Contactor Feedback	1	0	0
+50397277	FS1 Contactor Feedback	1	0	0
+50397278	FS2 Contactor Feedback	1	0	0
+50397279	RC1 Contactor Feedback	1	0	0
+50397280	RC2 Contactor Feedback	1	0	0
+50397281	RC3 Contactor Feedback	1	0	0
+50397282	RC4 Contactor Feedback	1	0	0
+50397283	RC5 Contactor Feedback	1	0	0
+50397284	RC6 Contactor Feedback	1	0	0
+50397285	RC7 Contactor Feedback	1	0	0
+50397286	TC1 Contactor Feedback	1	0	0
+50397287	TC2 Contactor Feedback	1	0	0
+50397288	DTST Contactor Feedback	1	0	0
+50397289	DTSD Contactor Feedback	1	0	0
+50397290	GIC Contactor Feedback	1	0	0
+50397291	Speed Reduction Switch #1	1	0	0
+50397292	Speed Reduction Switch #2	1	0	0
+50397293	Speed Reduction Switch #3	1	0	0
+50397294	Speed Reduction Switch #4	1	0	0
+50397295	DTMS (0=Diesel 1=Trolley)	1	0	0
+50397296	RC8 Contactor Feedback	1	0	0
+50397297	RC9 Contactor Feedback	1	0	0
+50397298	Leakage Current Test Switch	1	0	0
+50397299	Left Pantograph Warning	1	0	0
+50397300	Right Pantograph Warning	1	0	0
+50397301	Pantograph Drop Relay Feedback	1	0	0
+50397302	Truck Identification Number	0	0	0
+50397303	Truck Model Number	0	0	0
+50397304	Time Display	0	0	0
+50397305	System Operating State	0	0	0
+50397306	System Operating State	0	0	0
+50397307	Serial Number 1	0	0	0
+50397308	Description For Serial Number 1	0	0	0
+50397309	Serial Number 2	0	0	0
+50397310	Description For Serial Number 2	0	0	0
+50397311	Serial Number 3	0	0	0
+50397312	Description For Serial Number 3	0	0	0
+50397313	Serial Number 4	0	0	0
+50397314	Description For Serial Number 4	0	0	0
+50397315	Serial Number 5	0	0	0
+50397316	Description For Serial Number 5	0	0	0
+50397317	Serial Number 6	0	0	0
+50397318	Description For Serial Number 6	0	0	0
+50397319	Serial Number 7	0	0	0
+50397320	Description For Serial Number 7	0	0	0
+50397321	Serial Number 8	0	0	0
+50397322	Description For Serial Number 8	0	0	0
+50397323	Serial Number 9	0	0	0
+50397324	Description For Serial Number 9	0	0	0
+50397325	Serial Number 10	0	0	0
+50397326	Description For Serial Number 10	0	0	0
+50397327	Serial Number 11	0	0	0
+50397328	Description For Serial Number 11	0	0	0
+50397329	Serial Number 12	0	0	0
+50397330	Description For Serial Number 12	0	0	0
+50397331	Serial Number 13	0	0	0
+50397332	Description For Serial Number 13	0	0	0
+50397333	Serial Number 14	0	0	0
+50397334	Description For Serial Number 14	0	0	0
+50397335	Serial Number 15	0	0	0
+50397336	Description For Serial Number 15	0	0	0
+50397337	Trolley Assist Option Enabled	0	0	0

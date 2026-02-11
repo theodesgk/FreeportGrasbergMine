@@ -1,0 +1,10 @@
+Digital Signal 1 High	738263040
+Digital Signal 1 Ground	738263041
+Digital Signal 2 High	738263042
+Digital Signal 2 Ground	738263043
+Digital Signal 3 High	738263044
+Digital Signal 3 Ground	738263045
+OEM Interface Timeout	738328544
+OEM Interface Normal	738328545
+Driver Interface Timeout	738328546
+Driver Interface Normal	738328547

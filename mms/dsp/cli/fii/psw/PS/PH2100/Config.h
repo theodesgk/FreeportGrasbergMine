@@ -1,0 +1,8 @@
+CP(PS/PH2100/PrestartItems-0-0.cfg LSTR,CFGDEVICE/PrestartItems-0-0.cfg)
+CP(PS/PH2100/PrestartItems-0-1.cfg LSTR,CFGDEVICE/PrestartItems-0-1.cfg)
+CP(PS/PH2100/PrestartItems-0-2.cfg LSTR,CFGDEVICE/PrestartItems-0-2.cfg)
+CP(PS/PH2100/PrestartItems-0-3.cfg LSTR,CFGDEVICE/PrestartItems-0-3.cfg)
+CP(PS/PH2100/PrestartItems-0-4.cfg LSTR,CFGDEVICE/PrestartItems-0-4.cfg)
+CP(PS/PH2100/PrestartItems-0-5.cfg LSTR,CFGDEVICE/PrestartItems-0-5.cfg)
+CP(PS/PH2100/PrestartItems-0-6.cfg LSTR,CFGDEVICE/PrestartItems-0-6.cfg)
+CP(PS/PH2100/PrestartItems-0-7.cfg LSTR,CFGDEVICE/PrestartItems-0-7.cfg)

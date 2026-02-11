@@ -1,0 +1,7 @@
+Each Bucket Is Emptied	151060480
+Before Dumping	151060482
+Leaves Shovel After Loading	151060481
+OEM Interface Timeout	151125984
+OEM Interface Normal	151125985
+Driver Interface Timeout	151125986
+Driver Interface Normal	151125987

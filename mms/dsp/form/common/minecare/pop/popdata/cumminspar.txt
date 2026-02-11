@@ -1,0 +1,414 @@
+469827585	Eng Ecu Temp	273	-273	5
+469827586	Accelerator Pedal Position 1	100	0	25
+469827587	Percent Load At Current Speed	125	0	25
+469827588	Engine Oil Pressure	1000	0	9
+469827589	Crankcase Pressure	251.99	-250	9
+469827590	Intake Manifold Boost Pressure 1	8031.875	0	9
+469827591	Intake Manifold Boost Pressure 2	8031.875	0	9
+469827592	Intake Manifold Temperature	210	-40	5
+469827593	Intake Manifold 2 Temperature	210	-40	5
+469827594	Intake Manifold 3 Temperature	210	-40	5
+469827595	Intake Manifold 4 Temperature	210	-40	5
+469827596	Barometric Pressure	125	0	9
+469827597	Coolant Pressure	500	0	9
+469827598	Engine Coolant Temperature	210	-40	5
+469827599	Injector Metering Rail Pressure	251	0	22
+469827600	Electrical Potential (Voltage) Ecm 00	3212.75	0	31
+469827601	Electrical Potential (Voltage) Ecm 01	3212.75	0	31
+469827602	Electrical Potential (Voltage) Ecm 90	3212.75	0	31
+469827603	Engine Exhaust Gas Port 1 Lb Temp	1735	-273	5
+469827604	Engine Exhaust Gas Port 2 Lb Temp	1735	-273	5
+469827605	Engine Exhaust Gas Port 3 Lb Temp	1735	-273	5
+469827606	Engine Exhaust Gas Port 4 Lb Temp	1735	-273	5
+469827607	Engine Exhaust Gas Port 5 Lb Temp	1735	-273	5
+469827608	Engine Exhaust Gas Port 6 Lb Temp	1735	-273	5
+469827609	Engine Exhaust Gas Port 7 Lb Temp	1735	-273	5
+469827610	Engine Exhaust Gas Port 8 Lb Temp	1735	-273	5
+469827611	Engine Exhaust Gas Port 9 Lb Temp	1735	-273	5
+469827612	Engine Exhaust Gas Port 10 Lb Temp	1735	-273	5
+469827613	Engine Exhaust Gas Port 11 Lb Temp	1735	-273	5
+469827614	Engine Exhaust Gas Port 12 Lb Temp	1735	-273	5
+469827615	Engine Exhaust Gas Port 13 Lb Temp	1735	-273	5
+469827616	Engine Exhaust Gas Port 14 Lb Temp	1735	-273	5
+469827617	Engine Exhaust Gas Port 15 Lb Temp	1735	-273	5
+469827618	Engine Exhaust Gas Port 16 Lb Temp	1735	-273	5
+469827619	Engine Exhaust Gas Port 1 Rb Temp	1735	-273	5
+469827620	Engine Exhaust Gas Port 2 Rb Temp	1735	-273	5
+469827621	Engine Exhaust Gas Port 3 Rb Temp	1735	-273	5
+469827622	Engine Exhaust Gas Port 4 Rb Temp	1735	-273	5
+469827623	Engine Exhaust Gas Port 5 Rb Temp	1735	-273	5
+469827624	Engine Exhaust Gas Port 6 Rb Temp	1735	-273	5
+469827625	Engine Exhaust Gas Port 7 Rb Temp	1735	-273	5
+469827626	Engine Exhaust Gas Port 8 Rb Temp	1735	-273	5
+469827627	Engine Exhaust Gas Port 9 Rb Temp	1735	-273	5
+469827628	Engine Exhaust Gas Port 10 Rb Temp	1735	-273	5
+469827629	Engine Exhaust Gas Port 11 Rb Temp	1735	-273	5
+469827630	Engine Exhaust Gas Port 12 Rb Temp	1735	-273	5
+469827631	Engine Exhaust Gas Port 13 Rb Temp	1735	-273	5
+469827632	Engine Exhaust Gas Port 14 Rb Temp	1735	-273	5
+469827633	Engine Exhaust Gas Port 15 Rb Temp	1735	-273	5
+469827634	Engine Exhaust Gas Port 16 Rb Temp	1735	-273	5
+469827635	Exhaust Gas Temperature	1735	-273	5
+469827636	Engine Oil Temperature	1735	-273	5
+469827637	Engine Speed	8031.875	0	28
+469827638	Total Engine Hours Ecm 00	210554060.75	0	7
+469827639	Total Engine Hours Ecm 01	210554060.75	0	7
+469827640	Total Engine Hours Ecm 90	210554060.75	0	7
+469827641	Retarder Enable - Shift Assist Switch	1	0	33
+469827642	Retarder Enable - Brake Assist Switch	1	0	33
+469827643	Actual Retarder - Percent Torque	125	-125	25
+469827644	Remote Accelerator Enable Switch	1	0	33
+469827645	Engine Retarder Selection	100	0	25
+469827646	Accelerator Pedal Kick Down Switch	1	0	33
+469827647	Accelerator Pedal Low Idle Switch	1	0	33
+469827648	Remote Accelerator Pedal Position	100	0	25
+469827649	Drivers Demand Engine-Percent Torque	125	-125	25
+469827650	Actual Engine - Percent Torque	125	-125	25
+469827651	Estimated Percent Fan Speed	100	0	25
+469827652	Total Idle Fuel Used	2105540607.5	0	14
+469827653	Total Idle Hours	210554060.75	0	7
+469827654	Nominal Friction - Percent Torque	125	-125	25
+469827655	Engine Desired Operating Speed	8031.875	0	28
+469827656	Engine Operating Speed Asymmetry Adjustment	250	0	0
+469827657	Trip Distance	526385151.9	0	8
+469827658	Total Vehicle Distance	526385151.9	0	8
+469827659	Retarder Location	0	0	0
+469827660	Retarder Type	0	0	0
+469827661	Retarder Control Method	0	0	0
+469827662	Retarder Speed At Idle Point 1	8031.875	0	28
+469827663	Percent Torque At Idle Point 1	125	-125	25
+469827664	Maximum Retarder Speed Point 2	8031.875	0	28
+469827665	Percent Torque At Max Speed Point 2	125	-125	25
+469827666	Retarder Speed At Point 3	8031.875	0	28
+469827667	Percent Torque At Point 3	125	-125	25
+469827668	Retarder Speed At Point 4	8031.875	0	28
+469827669	Percent Torque At Point 4	125	-125	25
+469827670	Retarder Speed At Peak Torque Point 5	8031.875	0	28
+469827671	Reference Retarder Torque	64255	0	24
+469827672	Percent Torque At Peak Torque Point 5	125	0	25
+469827673	Engine Percent Torque At Idle Point 1	125	0	25
+469827674	Engine Percent Torque At Point 2	125	0	25
+469827675	Engine Percent Torque At Point 3	125	0	25
+469827676	Engine Percent Torque At Point 4	125	0	25
+469827677	Engine Percent Torque At Point 5	125	0	25
+469827678	Engine Reference Engine Torque	64255	0	24
+469827679	Engine Maximum Momentary Engine Override Speed Point 7	8031.875	0	28
+469827680	Engine Maximum Momentary Engine Override Time Limit	255	0	29
+469827681	Engine Requested Speed Control Range Lower Limit	2500	0	28
+469827682	Engine Requested Speed Control Range Upper Limit	2500	0	28
+469827683	Engine Requested Torque Control Range Lower Limit	125	0	25
+469827684	Engine Requested Torque Control Range Upper Limit	125	0	25
+469827685	Driver Alert Mode	1	0	33
+469827686	A/C High Pressure Fan Switch	1	0	33
+469827687	Engine Wait To Start Lamp	1	0	33
+469827688	Engine Protection Shutdown Timer State	1	0	33
+469827689	Engine Protection Shutdown Override	1	0	33
+469827690	Engine Protection Shutdown Approaching	1	0	33
+469827691	Engine Protection Timer System Configuration	1	0	33
+469827692	Total Power Takeoff Hours	210554060.75	0	7
+469827693	Trip Fuel	2105540607.5	0	14
+469827694	Total Fuel Used	2105540607.5	0	14
+469827695	Maximum Vehicle Speed Limit	250	0	11
+469827696	Fuel Temperature	210	-40	5
+469827697	Extended Crankcase Blow-By Pressure	12.5	0	9
+469827698	Power Takeoff Set Speed	8031.875	0	28
+469827699	Remote Pto Variable Speed Control Switch	1	0	33
+469827700	Pto Enable Switch	1	0	33
+469827701	Pto Accelerate Switch	1	0	33
+469827702	Pto Resume Switch	1	0	33
+469827703	Pto Coast/Decelerate Switch	1	0	33
+469827704	Pto Set Switch	1	0	33
+469827705	Wheel Base Vehicle Speed	250.996	0	11
+469827706	Clutch Switch	1	0	33
+469827707	Brake Switch	1	0	33
+469827708	Cruise Control Active	1	0	33
+469827709	Cruise Control Accelerate Switch	1	0	33
+469827710	Cruise Control Resume Switch	1	0	33
+469827711	Fuel Rate	3212.75	0	13
+469827712	Instantaneous Fuel Economy	125.5	0	15
+469827713	Average Fuel Economy	125.5	0	15
+469827714	Ambient Air Temperature	1735	-273	5
+469827715	Boost Pressure	500	0	9
+469827716	Battery Potential (Voltage) Switched	3212.75	0	31
+469827717	Water In Fuel Indicator	1	0	33
+469827718	Engine Torque Mode	14	0	33
+469827719	Freeze Frame Length	255	0	33
+469827720	Diagnostic Trouble Code	0	0	33
+469827721	Engine Torque Mode	14	0	33
+469827722	Boost	500	0	9
+469827723	Engine Speed	8031.875	0	28
+469827724	Engine Percent Load	125	0	25
+469827725	Engine Coolant Temperature	210	-40	5
+469827726	Vehicle Speed	250.996	0	11
+469827727	Ecm Run Time	4294967295	0	29
+469827728	Fault Index	65535	0	33
+469827729	Road Speed	250.996	0	11
+469827730	Filtered Engine Speed	8031.875	0	28
+469827731	J1587 Percent Load	160.6375	0	25
+469827732	Commanded Throttle	160.6375	0	25
+469827733	Engine State	65535	0	33
+469827734	Fueling Control State	65535	0	33
+469827735	Final Fueling	65535	0	33
+469827736	Final Timing State	65535	0	33
+469827737	Final Timing	65535	0	33
+469827738	Boost Pressure	8031.875	0	9
+469827739	Coolant Temperature	1735	-273	5
+469827740	Intake Manifold Temperature	1735	-273	5
+469827741	Oil Temperature	1735	-273	5
+469827742	Oil Pressure	8031.875	0	9
+469827743	System Switch Status	65535	0	33
+469827744	System Switch Status 2	65535	0	33
+469827745	Engine Run Time	4294967295	0	29
+469827746	Battery Voltage	3212.75	0	31
+469827747	Injected Fueling	65535	0	33
+469827748	Fuel Rail Pressure	8031.875	0	9
+469827749	Coolant Pressure	8031.875	0	9
+469827750	Fuel Error Front Metered Fuel Error	2105540607.5	0	14
+469827751	Fuel Error Rear Metered Fuel Error	2105540607.5	0	14
+469827752	Active Troubles Code	240	0	33
+469827753	Previously Active Diagnostic Trouble Code	240	0	33
+469827754	Obd Compliance	240	0	33
+469827755	Continuously Monitored Systems Status	255	0	33
+469827756	Non-Continuously Monitored Systems Support	65535	0	33
+469827757	Non-Continuously Monitored Systems Status	65535	0	33
+469827758	Engine Speed At Idle Point 1	8031.875	0	28
+469827759	Engine Speed At Point 2	8031.875	0	28
+469827760	Engine Speed At Point 3	8031.875	0	28
+469827761	Engine Speed At Point 4	8031.875	0	28
+469827762	Engine Speed At Point 5	8031.875	0	28
+469827763	Engine Speed At High Idle Point 6	8031.875	0	28
+469827764	Engine Has Shutdown By Protection System	1	0	33
+469827765	Idle Shutdown Timer State	1	0	33
+469827766	Idle Shutdown Timer Override	1	0	33
+469827767	Engine Has Shutdown By System	1	0	33
+469827768	Idle Shutdown Timer Function	1	0	33
+469827769	Software Identification	0	0	33
+469827770	Fan Drive State	14	0	33
+469827771	Test Identifier	64	1	33
+469827772	Test Value	64255	0	33
+469827773	Test Id	0	0	33
+469827774	Seconds	59.75	0	29
+469827775	Minutes	59	0	0
+469827776	Hours	23	0	7
+469827777	Day	31.75	0.25	0
+469827778	Month	12	1	0
+469827779	Year	2235	1985	0
+469827780	Cruise Control High Set Limit Speed	250	0	11
+469827781	Cruise Control Low Set Limit Speed	250	0	11
+469827782	Cruise Control Enable Switch	1	0	33
+469827783	Cruise Control Coast Switch	1	0	33
+469827784	Cruise Control Set Switch	1	0	33
+469827785	Cruise Control State	6	0	33
+469827786	Pto State	30	0	33
+469827787	Engine Test Mode Switch	1	0	33
+469827788	Idle Decrement Switch	1	0	33
+469827789	Idle Increment Switch	1	0	33
+469827790	Retarder Torque Mode	14	0	33
+469827791	Vehicle Identification Vin	0	0	33
+469829585	Eng Ecu Temp (Eng2)	273	-273	5
+469829586	Accelerator Pedal Position 1 (Eng2)	100	0	25
+469829587	Percent Load At Current Speed (Eng2)	125	0	25
+469829588	Engine Oil Pressure (Eng2)	1000	0	9
+469829589	Crankcase Pressure (Eng2)	251.99	-250	9
+469829590	Intake Manifold Boost Pressure 1 (Eng2)	8031.875	0	9
+469829591	Intake Manifold Boost Pressure 2 (Eng2)	8031.875	0	9
+469829592	Intake Manifold Temperature (Eng2)	210	-40	5
+469829593	Intake Manifold 2 Temperature (Eng2)	210	-40	5
+469829594	Intake Manifold 3 Temperature (Eng2)	210	-40	5
+469829595	Intake Manifold 4 Temperature (Eng2)	210	-40	5
+469829596	Barometric Pressure (Eng2)	125	0	9
+469829597	Coolant Pressure (Eng2)	500	0	9
+469829598	Engine Coolant Temperature (Eng2)	210	-40	5
+469829599	Injector Metering Rail Pressure (Eng2)	251	0	22
+469829600	Electrical Potential (Voltage) Ecm 00 (Eng2)	3212.75	0	31
+469829601	Electrical Potential (Voltage) Ecm 01 (Eng2)	3212.75	0	31
+469829602	Electrical Potential (Voltage) Ecm 90 (Eng2)	3212.75	0	31
+469829603	Engine Exhaust Gas Port 1 Lb Temp (Eng2)	1735	-273	5
+469829604	Engine Exhaust Gas Port 2 Lb Temp (Eng2)	1735	-273	5
+469829605	Engine Exhaust Gas Port 3 Lb Temp (Eng2)	1735	-273	5
+469829606	Engine Exhaust Gas Port 4 Lb Temp (Eng2)	1735	-273	5
+469829607	Engine Exhaust Gas Port 5 Lb Temp (Eng2)	1735	-273	5
+469829608	Engine Exhaust Gas Port 6 Lb Temp (Eng2)	1735	-273	5
+469829609	Engine Exhaust Gas Port 7 Lb Temp (Eng2)	1735	-273	5
+469829610	Engine Exhaust Gas Port 8 Lb Temp (Eng2)	1735	-273	5
+469829611	Engine Exhaust Gas Port 9 Lb Temp (Eng2)	1735	-273	5
+469829612	Engine Exhaust Gas Port 10 Lb Temp (Eng2)	1735	-273	5
+469829613	Engine Exhaust Gas Port 11 Lb Temp (Eng2)	1735	-273	5
+469829614	Engine Exhaust Gas Port 12 Lb Temp (Eng2)	1735	-273	5
+469829615	Engine Exhaust Gas Port 13 Lb Temp (Eng2)	1735	-273	5
+469829616	Engine Exhaust Gas Port 14 Lb Temp (Eng2)	1735	-273	5
+469829617	Engine Exhaust Gas Port 15 Lb Temp (Eng2)	1735	-273	5
+469829618	Engine Exhaust Gas Port 16 Lb Temp (Eng2)	1735	-273	5
+469829619	Engine Exhaust Gas Port 1 Rb Temp (Eng2)	1735	-273	5
+469829620	Engine Exhaust Gas Port 2 Rb Temp (Eng2)	1735	-273	5
+469829621	Engine Exhaust Gas Port 3 Rb Temp (Eng2)	1735	-273	5
+469829622	Engine Exhaust Gas Port 4 Rb Temp (Eng2)	1735	-273	5
+469829623	Engine Exhaust Gas Port 5 Rb Temp (Eng2)	1735	-273	5
+469829624	Engine Exhaust Gas Port 6 Rb Temp (Eng2)	1735	-273	5
+469829625	Engine Exhaust Gas Port 7 Rb Temp (Eng2)	1735	-273	5
+469829626	Engine Exhaust Gas Port 8 Rb Temp (Eng2)	1735	-273	5
+469829627	Engine Exhaust Gas Port 9 Rb Temp (Eng2)	1735	-273	5
+469829628	Engine Exhaust Gas Port 10 Rb Temp (Eng2)	1735	-273	5
+469829629	Engine Exhaust Gas Port 11 Rb Temp (Eng2)	1735	-273	5
+469829630	Engine Exhaust Gas Port 12 Rb Temp (Eng2)	1735	-273	5
+469829631	Engine Exhaust Gas Port 13 Rb Temp (Eng2)	1735	-273	5
+469829632	Engine Exhaust Gas Port 14 Rb Temp (Eng2)	1735	-273	5
+469829633	Engine Exhaust Gas Port 15 Rb Temp (Eng2)	1735	-273	5
+469829634	Engine Exhaust Gas Port 16 Rb Temp (Eng2)	1735	-273	5
+469829635	Exhaust Gas Temperature (Eng2)	1735	-273	5
+469829636	Engine Oil Temperature (Eng2)	1735	-273	5
+469829637	Engine Speed (Eng2)	8031.875	0	28
+469829638	Total Engine Hours Ecm 00 (Eng2)	210554060.75	0	7
+469829639	Total Engine Hours Ecm 01 (Eng2)	210554060.75	0	7
+469829640	Total Engine Hours Ecm 90 (Eng2)	210554060.75	0	7
+469829641	Retarder Enable - Shift Assist Switch (Eng2)	1	0	33
+469829642	Retarder Enable - Brake Assist Switch (Eng2)	1	0	33
+469829643	Actual Retarder - Percent Torque (Eng2)	125	-125	25
+469829644	Remote Accelerator Enable Switch (Eng2)	1	0	33
+469829645	Engine Retarder Selection (Eng2)	100	0	25
+469829646	Accelerator Pedal Kick Down Switch (Eng2)	1	0	33
+469829647	Accelerator Pedal Low Idle Switch (Eng2)	1	0	33
+469829648	Remote Accelerator Pedal Position (Eng2)	100	0	25
+469829649	Drivers Demand Engine-Percent Torque (Eng2)	125	-125	25
+469829650	Actual Engine - Percent Torque (Eng2)	125	-125	25
+469829651	Estimated Percent Fan Speed (Eng2)	100	0	25
+469829652	Total Idle Fuel Used (Eng2)	2105540607.5	0	14
+469829653	Total Idle Hours (Eng2)	210554060.75	0	7
+469829654	Nominal Friction - Percent Torque (Eng2)	125	-125	25
+469829655	Engine Desired Operating Speed (Eng2)	8031.875	0	28
+469829656	Engine Operating Speed Asymmetry Adjustment (Eng2)	250	0	0
+469829657	Trip Distance (Eng2)	526385151.9	0	8
+469829658	Total Vehicle Distance (Eng2)	526385151.9	0	8
+469829659	Retarder Location (Eng2)	0	0	0
+469829660	Retarder Type (Eng2)	0	0	0
+469829661	Retarder Control Method (Eng2)	0	0	0
+469829662	Retarder Speed At Idle Point 1 (Eng2)	8031.875	0	28
+469829663	Percent Torque At Idle Point 1 (Eng2)	125	-125	25
+469829664	Maximum Retarder Speed Point 2 (Eng2)	8031.875	0	28
+469829665	Percent Torque At Max Speed Point 2 (Eng2)	125	-125	25
+469829666	Retarder Speed At Point 3 (Eng2)	8031.875	0	28
+469829667	Percent Torque At Point 3 (Eng2)	125	-125	25
+469829668	Retarder Speed At Point 4 (Eng2)	8031.875	0	28
+469829669	Percent Torque At Point 4 (Eng2)	125	-125	25
+469829670	Retarder Speed At Peak Torque Point 5 (Eng2)	8031.875	0	28
+469829671	Reference Retarder Torque (Eng2)	64255	0	24
+469829672	Percent Torque At Peak Torque Point 5 (Eng2)	125	0	25
+469829673	Engine Percent Torque At Idle Point 1 (Eng2)	125	0	25
+469829674	Engine Percent Torque At Point 2 (Eng2)	125	0	25
+469829675	Engine Percent Torque At Point 3 (Eng2)	125	0	25
+469829676	Engine Percent Torque At Point 4 (Eng2)	125	0	25
+469829677	Engine Percent Torque At Point 5 (Eng2)	125	0	25
+469829678	Engine Reference Engine Torque (Eng2)	64255	0	24
+469829679	Engine Maximum Momentary Engine Override Speed Point 7 (Eng2)	8031.875	0	28
+469829680	Engine Maximum Momentary Engine Override Time Limit (Eng2)	255	0	29
+469829681	Engine Requested Speed Control Range Lower Limit (Eng2)	2500	0	28
+469829682	Engine Requested Speed Control Range Upper Limit (Eng2)	2500	0	28
+469829683	Engine Requested Torque Control Range Lower Limit (Eng2)	125	0	25
+469829684	Engine Requested Torque Control Range Upper Limit (Eng2)	125	0	25
+469829685	Driver Alert Mode (Eng2)	1	0	33
+469829686	A/C High Pressure Fan Switch (Eng2)	1	0	33
+469829687	Engine Wait To Start Lamp (Eng2)	1	0	33
+469829688	Engine Protection Shutdown Timer State (Eng2)	1	0	33
+469829689	Engine Protection Shutdown Override (Eng2)	1	0	33
+469829690	Engine Protection Shutdown Approaching (Eng2)	1	0	33
+469829691	Engine Protection Timer System Configuration (Eng2)	1	0	33
+469829692	Total Power Takeoff Hours (Eng2)	210554060.75	0	7
+469829693	Trip Fuel (Eng2)	2105540607.5	0	14
+469829694	Total Fuel Used (Eng2)	2105540607.5	0	14
+469829695	Maximum Vehicle Speed Limit (Eng2)	250	0	11
+469829696	Fuel Temperature (Eng2)	210	-40	5
+469829697	Extended Crankcase Blow-By Pressure (Eng2)	12.5	0	9
+469829698	Power Takeoff Set Speed (Eng2)	8031.875	0	28
+469829699	Remote Pto Variable Speed Control Switch (Eng2)	1	0	33
+469829700	Pto Enable Switch (Eng2)	1	0	33
+469829701	Pto Accelerate Switch (Eng2)	1	0	33
+469829702	Pto Resume Switch (Eng2)	1	0	33
+469829703	Pto Coast/Decelerate Switch (Eng2)	1	0	33
+469829704	Pto Set Switch (Eng2)	1	0	33
+469829705	Wheel Base Vehicle Speed (Eng2)	250.996	0	11
+469829706	Clutch Switch (Eng2)	1	0	33
+469829707	Brake Switch (Eng2)	1	0	33
+469829708	Cruise Control Active (Eng2)	1	0	33
+469829709	Cruise Control Accelerate Switch (Eng2)	1	0	33
+469829710	Cruise Control Resume Switch (Eng2)	1	0	33
+469829711	Fuel Rate (Eng2)	3212.75	0	13
+469829712	Instantaneous Fuel Economy (Eng2)	125.5	0	15
+469829713	Average Fuel Economy (Eng2)	125.5	0	15
+469829714	Ambient Air Temperature (Eng2)	1735	-273	5
+469829715	Boost Pressure (Eng2)	500	0	9
+469829716	Battery Potential (Voltage) Switched (Eng2)	3212.75	0	31
+469829717	Water In Fuel Indicator (Eng2)	1	0	33
+469829718	Engine Torque Mode (Eng2)	14	0	33
+469829719	Freeze Frame Length (Eng2)	255	0	33
+469829720	Diagnostic Trouble Code (Eng2)	0	0	33
+469829721	Engine Torque Mode (Eng2)	14	0	33
+469829722	Boost (Eng2)	500	0	9
+469829723	Engine Speed (Eng2)	8031.875	0	28
+469829724	Engine Percent Load (Eng2)	125	0	25
+469829725	Engine Coolant Temperature (Eng2)	210	-40	5
+469829726	Vehicle Speed (Eng2)	250.996	0	11
+469829727	Ecm Run Time (Eng2)	4294967295	0	29
+469829728	Fault Index (Eng2)	65535	0	33
+469829729	Road Speed (Eng2)	250.996	0	11
+469829730	Filtered Engine Speed (Eng2)	8031.875	0	28
+469829731	J1587 Percent Load (Eng2)	160.6375	0	25
+469829732	Commanded Throttle (Eng2)	160.6375	0	25
+469829733	Engine State (Eng2)	65535	0	33
+469829734	Fueling Control State (Eng2)	65535	0	33
+469829735	Final Fueling (Eng2)	65535	0	33
+469829736	Final Timing State (Eng2)	65535	0	33
+469829737	Final Timing (Eng2)	65535	0	33
+469829738	Boost Pressure (Eng2)	8031.875	0	9
+469829739	Coolant Temperature (Eng2)	1735	-273	5
+469829740	Intake Manifold Temperature (Eng2)	1735	-273	5
+469829741	Oil Temperature (Eng2)	1735	-273	5
+469829742	Oil Pressure (Eng2)	8031.875	0	9
+469829743	System Switch Status (Eng2)	65535	0	33
+469829744	System Switch Status 2 (Eng2)	65535	0	33
+469829745	Engine Run Time (Eng2)	4294967295	0	29
+469829746	Battery Voltage (Eng2)	3212.75	0	31
+469829747	Injected Fueling (Eng2)	65535	0	33
+469829748	Fuel Rail Pressure (Eng2)	8031.875	0	9
+469829749	Coolant Pressure (Eng2)	8031.875	0	9
+469829750	Fuel Error Front Metered Fuel Error (Eng2)	2105540607.5	0	14
+469829751	Fuel Error Rear Metered Fuel Error (Eng2)	2105540607.5	0	14
+469829752	Active Troubles Code (Eng2)	240	0	33
+469829753	Previously Active Diagnostic Trouble Code (Eng2)	240	0	33
+469829754	Obd Compliance (Eng2)	240	0	33
+469829755	Continuously Monitored Systems Status (Eng2)	255	0	33
+469829756	Non-Continuously Monitored Systems Support (Eng2)	65535	0	33
+469829757	Non-Continuously Monitored Systems Status (Eng2)	65535	0	33
+469829758	Engine Speed At Idle Point 1 (Eng2)	8031.875	0	28
+469829759	Engine Speed At Point 2 (Eng2)	8031.875	0	28
+469829760	Engine Speed At Point 3 (Eng2)	8031.875	0	28
+469829761	Engine Speed At Point 4 (Eng2)	8031.875	0	28
+469829762	Engine Speed At Point 5 (Eng2)	8031.875	0	28
+469829763	Engine Speed At High Idle Point 6 (Eng2)	8031.875	0	28
+469829764	Engine Has Shutdown By Protection System (Eng2)	1	0	33
+469829765	Idle Shutdown Timer State (Eng2)	1	0	33
+469829766	Idle Shutdown Timer Override (Eng2)	1	0	33
+469829767	Engine Has Shutdown By System (Eng2)	1	0	33
+469829768	Idle Shutdown Timer Function (Eng2)	1	0	33
+469829769	Software Identification (Eng2)	0	0	33
+469829770	Fan Drive State (Eng2)	14	0	33
+469829771	Test Identifier (Eng2)	64	1	33
+469829772	Test Value (Eng2)	64255	0	33
+469829773	Test Id (Eng2)	0	0	33
+469829774	Seconds (Eng2)	59.75	0	29
+469829775	Minutes (Eng2)	59	0	0
+469829776	Hours (Eng2)	23	0	7
+469829777	Day (Eng2)	31.75	0.25	0
+469829778	Month (Eng2)	12	1	0
+469829779	Year (Eng2)	2235	1985	0
+469829780	Cruise Control High Set Limit Speed (Eng2)	250	0	11
+469829781	Cruise Control Low Set Limit Speed (Eng2)	250	0	11
+469829782	Cruise Control Enable Switch (Eng2)	1	0	33
+469829783	Cruise Control Coast Switch (Eng2)	1	0	33
+469829784	Cruise Control Set Switch (Eng2)	1	0	33
+469829785	Cruise Control State (Eng2)	6	0	33
+469829786	Pto State (Eng2)	30	0	33
+469829787	Engine Test Mode Switch (Eng2)	1	0	33
+469829788	Idle Decrement Switch (Eng2)	1	0	33
+469829789	Idle Increment Switch (Eng2)	1	0	33
+469829790	Retarder Torque Mode (Eng2)	14	0	33
+469829791	Vehicle Identification Vin (Eng2)	0	0	33

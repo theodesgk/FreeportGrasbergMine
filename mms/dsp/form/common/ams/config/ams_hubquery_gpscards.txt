@@ -1,0 +1,12 @@
+# CLASS  (from h objects)
+GpsGs
+GpsGG24
+GpsMoto
+GpsNMEA
+GpsRTCM
+GpsTsip
+end
+# NOTE SURE OF THESE...
+# GpsMicroZ
+# GpsG12
+# GpsGGA

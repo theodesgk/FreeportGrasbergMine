@@ -1,0 +1,228 @@
+Oem Interface Timeout	755105760
+Oem Interface Normal	755105761
+Driver Interface Timeout	755105762
+Driver Interface Normal	755105763
+A11 - Second Level Low Pressure (Active)	755040283
+A11 - First Level High Pressure (Active)	755040284
+A11 - First Level Low Pressure (Active)	755040285
+A11 - High Temperature (Active)	755040286
+A11 - Sensor Fault (Active)	755040287
+A11 - Eeprom Fault (Active)	755040288
+A11 - Sensor Battery Low Alert (Active)	755040289
+A11 - Second Level Low Pressure (Inactive)	755040290
+A11 - First Level High Pressure (Inactive)	755040291
+A11 - First Level Low Pressure (Inactive)	755040292
+A11 - High Temperature (Inactive)	755040293
+A11 - Sensor Fault (Inactive)	755040294
+A11 - Eeprom Fault (Inactive)	755040295
+A11 - Sensor Battery Low Alert (Inactive)	755040296
+A12 - Second Level Low Pressure (Active)	755040297
+A12 - First Level High Pressure (Active)	755040298
+A12 - First Level Low Pressure (Active)	755040299
+A12 - High Temperature (Active)	755040300
+A12 - Sensor Fault (Active)	755040301
+A12 - Eeprom Fault (Active)	755040302
+A12 - Sensor Battery Low Alert (Active)	755040303
+A12 - Second Level Low Pressure (Inactive)	755040304
+A12 - First Level High Pressure (Inactive)	755040305
+A12 - First Level Low Pressure (Inactive)	755040306
+A12 - High Temperature (Inactive)	755040307
+A12 - Sensor Fault (Inactive)	755040308
+A12 - Eeprom Fault (Inactive)	755040309
+A12 - Sensor Battery Low Alert (Inactive)	755040310
+A21 - Second Level Low Pressure (Active)	755040311
+A21 - First Level High Pressure (Active)	755040312
+A21 - First Level Low Pressure (Active)	755040313
+A21 - High Temperature (Active)	755040314
+A21 - Sensor Fault (Active)	755040315
+A21 - Eeprom Fault (Active)	755040316
+A21 - Sensor Battery Low Alert (Active)	755040317
+A21 - Second Level Low Pressure (Inactive)	755040318
+A21 - First Level High Pressure (Inactive)	755040319
+A21 - First Level Low Pressure (Inactive)	755040320
+A21 - High Temperature (Inactive)	755040321
+A21 - Sensor Fault (Inactive)	755040322
+A21 - Eeprom Fault (Inactive)	755040323
+A21 - Sensor Battery Low Alert (Inactive)	755040324
+A22 - Second Level Low Pressure (Active)	755040325
+A22 - First Level High Pressure (Active)	755040326
+A22 - First Level Low Pressure (Active)	755040327
+A22 - High Temperature (Active)	755040328
+A22 - Sensor Fault (Active)	755040329
+A22 - Eeprom Fault (Active)	755040330
+A22 - Sensor Battery Low Alert (Active)	755040331
+A22 - Second Level Low Pressure (Inactive)	755040332
+A22 - First Level High Pressure (Inactive)	755040333
+A22 - First Level Low Pressure (Inactive)	755040334
+A22 - High Temperature (Inactive)	755040335
+A22 - Sensor Fault (Inactive)	755040336
+A22 - Eeprom Fault (Inactive)	755040337
+A22 - Sensor Battery Low Alert (Inactive)	755040338
+A23 - Second Level Low Pressure (Active)	755040339
+A23 - First Level High Pressure (Active)	755040340
+A23 - First Level Low Pressure (Active)	755040341
+A23 - High Temperature (Active)	755040342
+A23 - Sensor Fault (Active)	755040343
+A23 - Eeprom Fault (Active)	755040344
+A23 - Sensor Battery Low Alert (Active)	755040345
+A23 - Second Level Low Pressure (Inactive)	755040346
+A23 - First Level High Pressure (Inactive)	755040347
+A23 - First Level Low Pressure (Inactive)	755040348
+A23 - High Temperature (Inactive)	755040349
+A23 - Sensor Fault (Inactive)	755040350
+A23 - Eeprom Fault (Inactive)	755040351
+A23 - Sensor Battery Low Alert (Inactive)	755040352
+A24 - Second Level Low Pressure (Active)	755040353
+A24 - First Level High Pressure (Active)	755040354
+A24 - First Level Low Pressure (Active)	755040355
+A24 - High Temperature (Active)	755040356
+A24 - Sensor Fault (Active)	755040357
+A24 - Eeprom Fault (Active)	755040358
+A24 - Sensor Battery Low Alert (Active)	755040359
+A24 - Second Level Low Pressure (Inactive)	755040360
+A24 - First Level High Pressure (Inactive)	755040361
+A24 - First Level Low Pressure (Inactive)	755040362
+A24 - High Temperature (Inactive)	755040363
+A24 - Sensor Fault (Inactive)	755040364
+A24 - Eeprom Fault (Inactive)	755040365
+A24 - Sensor Battery Low Alert (Inactive)	755040366
+A31 - Second Level Low Pressure (Active)	755040367
+A31 - First Level High Pressure (Active)	755040368
+A31 - First Level Low Pressure (Active)	755040369
+A31 - High Temperature (Active)	755040370
+A31 - Sensor Fault (Active)	755040371
+A31 - Eeprom Fault (Active)	755040372
+A31 - Sensor Battery Low Alert (Active)	755040373
+A31 - Second Level Low Pressure (Inactive)	755040374
+A31 - First Level High Pressure (Inactive)	755040375
+A31 - First Level Low Pressure (Inactive)	755040376
+A31 - High Temperature (Inactive)	755040377
+A31 - Sensor Fault (Inactive)	755040378
+A31 - Eeprom Fault (Inactive)	755040379
+A31 - Sensor Battery Low Alert (Inactive)	755040380
+A32 - Second Level Low Pressure (Active)	755040381
+A32 - First Level High Pressure (Active)	755040382
+A32 - First Level Low Pressure (Active)	755040383
+A32 - High Temperature (Active)	755040384
+A32 - Sensor Fault (Active)	755040385
+A32 - Eeprom Fault (Active)	755040386
+A32 - Sensor Battery Low Alert (Active)	755040387
+A32 - Second Level Low Pressure (Inactive)	755040388
+A32 - First Level High Pressure (Inactive)	755040389
+A32 - First Level Low Pressure (Inactive)	755040390
+A32 - High Temperature (Inactive)	755040391
+A32 - Sensor Fault (Inactive)	755040392
+A32 - Eeprom Fault (Inactive)	755040393
+A32 - Sensor Battery Low Alert (Inactive)	755040394
+A33 - Second Level Low Pressure (Active)	755040395
+A33 - First Level High Pressure (Active)	755040396
+A33 - First Level Low Pressure (Active)	755040397
+A33 - High Temperature (Active)	755040398
+A33 - Sensor Fault (Active)	755040399
+A33 - Eeprom Fault (Active)	755040400
+A33 - Sensor Battery Low Alert (Active)	755040401
+A33 - Second Level Low Pressure (Inactive)	755040402
+A33 - First Level High Pressure (Inactive)	755040403
+A33 - First Level Low Pressure (Inactive)	755040404
+A33 - High Temperature (Inactive)	755040405
+A33 - Sensor Fault (Inactive)	755040406
+A33 - Eeprom Fault (Inactive)	755040407
+A33 - Sensor Battery Low Alert (Inactive)	755040408
+A34 - Second Level Low Pressure (Active)	755040409
+A34 - First Level High Pressure (Active)	755040410
+A34 - First Level Low Pressure (Active)	755040411
+A34 - High Temperature (Active)	755040412
+A34 - Sensor Fault (Active)	755040413
+A34 - Eeprom Fault (Active)	755040414
+A34 - Sensor Battery Low Alert (Active)	755040415
+A34 - Second Level Low Pressure (Inactive)	755040416
+A34 - First Level High Pressure (Inactive)	755040417
+A34 - First Level Low Pressure (Inactive)	755040418
+A34 - High Temperature (Inactive)	755040419
+A34 - Sensor Fault (Inactive)	755040420
+A34 - Eeprom Fault (Inactive)	755040421
+A34 - Sensor Battery Low Alert (Inactive)	755040422
+A41 - Second Level Low Pressure (Active)	755040423
+A41 - First Level High Pressure (Active)	755040424
+A41 - First Level Low Pressure (Active)	755040425
+A41 - High Temperature (Active)	755040426
+A41 - Sensor Fault (Active)	755040427
+A41 - Eeprom Fault (Active)	755040428
+A41 - Sensor Battery Low Alert (Active)	755040429
+A41 - Second Level Low Pressure (Inactive)	755040430
+A41 - First Level High Pressure (Inactive)	755040431
+A41 - First Level Low Pressure (Inactive)	755040432
+A41 - High Temperature (Inactive)	755040433
+A41 - Sensor Fault (Inactive)	755040434
+A41 - Eeprom Fault (Inactive)	755040435
+A41 - Sensor Battery Low Alert (Inactive)	755040436
+A42 - Second Level Low Pressure (Active)	755040437
+A42 - First Level High Pressure (Active)	755040438
+A42 - First Level Low Pressure (Active)	755040439
+A42 - High Temperature (Active)	755040440
+A42 - Sensor Fault (Active)	755040441
+A42 - Eeprom Fault (Active)	755040442
+A42 - Sensor Battery Low Alert (Active)	755040443
+A42 - Second Level Low Pressure (Inactive)	755040444
+A42 - First Level High Pressure (Inactive)	755040445
+A42 - First Level Low Pressure (Inactive)	755040446
+A42 - High Temperature (Inactive)	755040447
+A42 - Sensor Fault (Inactive)	755040448
+A42 - Eeprom Fault (Inactive)	755040449
+A42 - Sensor Battery Low Alert (Inactive)	755040450
+A43 - Second Level Low Pressure (Active)	755040451
+A43 - First Level High Pressure (Active)	755040452
+A43 - First Level Low Pressure (Active)	755040453
+A43 - High Temperature (Active)	755040454
+A43 - Sensor Fault (Active)	755040455
+A43 - Eeprom Fault (Active)	755040456
+A43 - Sensor Battery Low Alert (Active)	755040457
+A43 - Second Level Low Pressure (Inactive)	755040458
+A43 - First Level High Pressure (Inactive)	755040459
+A43 - First Level Low Pressure (Inactive)	755040460
+A43 - High Temperature (Inactive)	755040461
+A43 - Sensor Fault (Inactive)	755040462
+A43 - Eeprom Fault (Inactive)	755040463
+A43 - Sensor Battery Low Alert (Inactive)	755040464
+A44 - Second Level Low Pressure (Active)	755040465
+A44 - First Level High Pressure (Active)	755040466
+A44 - First Level Low Pressure (Active)	755040467
+A44 - High Temperature (Active)	755040468
+A44 - Sensor Fault (Active)	755040469
+A44 - Eeprom Fault (Active)	755040470
+A44 - Sensor Battery Low Alert (Active)	755040471
+A44 - Second Level Low Pressure (Inactive)	755040472
+A44 - First Level High Pressure (Inactive)	755040473
+A44 - First Level Low Pressure (Inactive)	755040474
+A44 - High Temperature (Inactive)	755040475
+A44 - Sensor Fault (Inactive)	755040476
+A44 - Eeprom Fault (Inactive)	755040477
+A44 - Sensor Battery Low Alert (Inactive)	755040478
+A51 - Second Level Low Pressure (Active)	755040479
+A51 - First Level High Pressure (Active)	755040480
+A51 - First Level Low Pressure (Active)	755040481
+A51 - High Temperature (Active)	755040482
+A51 - Sensor Fault (Active)	755040483
+A51 - Eeprom Fault (Active)	755040484
+A51 - Sensor Battery Low Alert (Active)	755040485
+A51 - Second Level Low Pressure (Inactive)	755040486
+A51 - First Level High Pressure (Inactive)	755040487
+A51 - First Level Low Pressure (Inactive)	755040488
+A51 - High Temperature (Inactive)	755040489
+A51 - Sensor Fault (Inactive)	755040490
+A51 - Eeprom Fault (Inactive)	755040491
+A51 - Sensor Battery Low Alert (Inactive)	755040492
+A52 - Second Level Low Pressure (Active)	755040493
+A52 - First Level High Pressure (Active)	755040494
+A52 - First Level Low Pressure (Active)	755040495
+A52 - High Temperature (Active)	755040496
+A52 - Sensor Fault (Active)	755040497
+A52 - Eeprom Fault (Active)	755040498
+A52 - Sensor Battery Low Alert (Active)	755040499
+A52 - Second Level Low Pressure (Inactive)	755040500
+A52 - First Level High Pressure (Inactive)	755040501
+A52 - First Level Low Pressure (Inactive)	755040502
+A52 - High Temperature (Inactive)	755040503
+A52 - Sensor Fault (Inactive)	755040504
+A52 - Eeprom Fault (Inactive)	755040505
+A52 - Sensor Battery Low Alert (Inactive)	755040506

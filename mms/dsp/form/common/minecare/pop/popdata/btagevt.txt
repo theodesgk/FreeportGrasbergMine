@@ -1,0 +1,108 @@
+Tire 1 Temperature Normal	1862336513
+Tire 1 Temperature Above Upper Limit 1	1862336514
+Tire 1 Temperature Above Upper Limit 2	1862336515
+Tire 1 Temperature Above Emergency Limit (90 C)	1862336516
+Tire 1 Pressure Normal	1862336517
+Tire 1 Pressure Below Lower  Limit 1	1862336518
+Tire 1 Pressure Below Lower  Limit 2	1862336519
+Tire 1 Pressure Below Emergency Limit (35 Psi)	1862336520
+Tire 1 Pressure Above Upper  Limit	1862336521
+Tire 2 Temperature Normal	1862336522
+Tire 2 Temperature Above Upper Limit 1	1862336523
+Tire 2 Temperature Above Upper Limit 2	1862336524
+Tire 2 Temperature Above Emergency Limit (90 C)	1862336525
+Tire 2 Pressure Normal	1862336526
+Tire 2 Pressure Below Lower  Limit 1	1862336527
+Tire 2 Pressure Below Lower  Limit 2	1862336528
+Tire 2 Pressure Below Emergency Limit (35 Psi)	1862336529
+Tire 2 Pressure Above Upper  Limit	1862336530
+Tire 3 Temperature Normal	1862336531
+Tire 3 Temperature Above Upper Limit 1	1862336532
+Tire 3 Temperature Above Upper Limit 2	1862336533
+Tire 3 Temperature Above Emergency Limit (90 C)	1862336534
+Tire 3 Pressure Normal	1862336535
+Tire 3 Pressure Below Lower  Limit 1	1862336536
+Tire 3 Pressure Below Lower  Limit 2	1862336537
+Tire 3 Pressure Below Emergency Limit (35 Psi)	1862336538
+Tire 3 Pressure Above Upper  Limit	1862336539
+Tire 4 Temperature Normal	1862336540
+Tire 4 Temperature Above Upper Limit 1	1862336541
+Tire 4 Temperature Above Upper Limit 2	1862336542
+Tire 4 Temperature Above Emergency Limit (90 C)	1862336543
+Tire 4 Pressure Normal	1862336544
+Tire 4 Pressure Below Lower  Limit 1	1862336545
+Tire 4 Pressure Below Lower  Limit 2	1862336546
+Tire 4 Pressure Below Emergency Limit (35 Psi)	1862336547
+Tire 4 Pressure Above Upper  Limit	1862336548
+Tire 5 Temperature Normal	1862336549
+Tire 5 Temperature Above Upper Limit 1	1862336550
+Tire 5 Temperature Above Upper Limit 2	1862336551
+Tire 5 Temperature Above Emergency Limit (90 C)	1862336552
+Tire 5 Pressure Normal	1862336553
+Tire 5 Pressure Below Lower  Limit 1	1862336554
+Tire 5 Pressure Below Lower  Limit 2	1862336555
+Tire 5 Pressure Below Emergency Limit (35 Psi)	1862336556
+Tire 5 Pressure Above Upper  Limit	1862336557
+Tire 6 Temperature Normal	1862336558
+Tire 6 Temperature Above Upper Limit 1	1862336559
+Tire 6 Temperature Above Upper Limit 2	1862336560
+Tire 6 Temperature Above Emergency Limit (90 C)	1862336561
+Tire 6 Pressure Normal	1862336562
+Tire 6 Pressure Below Lower  Limit 1	1862336563
+Tire 6 Pressure Below Lower  Limit 2	1862336564
+Tire 6 Pressure Below Emergency Limit (35 Psi)	1862336565
+Tire 6 Pressure Above Upper  Limit	1862336566
+Receiver 1 Error Inactive	1862336567
+Receiver 1 Error Active	1862336568
+Receiver 2 Error Inactive	1862336569
+Receiver 2 Error Active	1862336570
+Receiver 3 Error Inactive	1862336571
+Receiver 3 Error Active	1862336572
+Receiver 4 Error Inactive	1862336573
+Receiver 4 Error Active	1862336574
+Ecu Memory Error Inactive	1862336575
+Ecu Memory Error Active	1862336576
+Sd Card Write Error Inactive	1862336577
+Sd Card Write Error Active	1862336578
+Bluetooth Comm Error Inactive	1862336579
+Bluetooth Comm Error Active	1862336580
+Sensor 1 Error Inactive	1862336581
+Sensor 1 Error Active	1862336582
+Sensor 2 Error Inactive	1862336583
+Sensor 2 Error Active	1862336584
+Sensor 3 Error Inactive	1862336585
+Sensor 3 Error Active	1862336586
+Sensor 4 Error Inactive	1862336587
+Sensor 4 Error Active	1862336588
+Sensor 5 Error Inactive	1862336589
+Sensor 5 Error Active	1862336590
+Sensor 6 Error Inactive	1862336591
+Sensor 6 Error Active	1862336592
+Tire 1 Press First Threshold Of Decrease Ratio Inactive	1862337012
+Tire 1 Press First Threshold Of Decrease Ratio Active	1862337013
+Tire 1 Press Second Threshold Of Decrease Ratio Inactive	1862337014
+Tire 1 Press Second Threshold Of Decrease Ratio Active	1862337015
+Tire 2 Press First Threshold Of Decrease Ratio Inactive	1862337016
+Tire 2 Press First Threshold Of Decrease Ratio Active	1862337017
+Tire 2 Press Second Threshold Of Decrease Ratio Inactive	1862337018
+Tire 2 Press Second Threshold Of Decrease Ratio Active	1862337019
+Tire 3 Press First Threshold Of Decrease Ratio Inactive	1862337020
+Tire 3 Press First Threshold Of Decrease Ratio Active	1862337021
+Tire 3 Press Second Threshold Of Decrease Ratio Inactive	1862337022
+Tire 3 Press Second Threshold Of Decrease Ratio Active	1862337023
+Tire 4 Press First Threshold Of Decrease Ratio Inactive	1862337024
+Tire 4 Press First Threshold Of Decrease Ratio Active	1862337025
+Tire 4 Press Second Threshold Of Decrease Ratio Inactive	1862337026
+Tire 4 Press Second Threshold Of Decrease Ratio Active	1862337027
+Tire 5 Press First Threshold Of Decrease Ratio Inactive	1862337028
+Tire 5 Press First Threshold Of Decrease Ratio Active	1862337029
+Tire 5 Press Second Threshold Of Decrease Ratio Inactive	1862337030
+Tire 5 Press Second Threshold Of Decrease Ratio Active	1862337031
+Tire 6 Press First Threshold Of Decrease Ratio Inactive	1862337032
+Tire 6 Press First Threshold Of Decrease Ratio Active	1862337033
+Tire 6 Press Second Threshold Of Decrease Ratio Inactive	1862337034
+Tire 6 Press Second Threshold Of Decrease Ratio Active	1862337035
+OEM Interface Timeout	1862402016
+OEM Interface Normal	1862402017
+Driver Interface Timeout	1862402018
+Driver Interface Normal	1862402019

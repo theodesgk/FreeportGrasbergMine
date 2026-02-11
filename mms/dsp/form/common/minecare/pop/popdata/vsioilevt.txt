@@ -1,0 +1,93 @@
+Crankcase - Sensor Error (Inactive) (VSI_Legacy)	654376960
+Crankcase - Sensor Error (VSI_Legacy)	654376961
+Crankcase - High Coolant Content (Inactive) (VSI_Legacy)	654376962
+Crankcase - High Coolant Content (VSI_Legacy)	654376963
+Crankcase - High Fuel Content (Inactive) (VSI_Legacy)	654376964
+Crankcase - High Fuel Content (VSI_Legacy)	654376965
+Crankcase - High Oil Temperature (Inactive) (VSI_Legacy)	654376966
+Crankcase - High Oil Temperature (VSI_Legacy)	654376967
+Transmission - Sensor Error (Inactive) (VSI_Legacy)	654376968
+Transmission - Sensor Error (VSI_Legacy)	654376969
+Transmission - High Coolant Content (Inactive) (VSI_Legacy)	654376970
+Transmission - High Coolant Content (VSI_Legacy)	654376971
+Transmission - High Fuel Content (Inactive) (VSI_Legacy)	654376972
+Transmission - High Fuel Content (VSI_Legacy)	654376973
+Transmission - High Oil Temperature (Inactive) (VSI_Legacy)	654376974
+Transmission - High Oil Temperature (VSI_Legacy)	654376975
+Hydraulics - Sensor Error (Inactive) (VSI_Legacy)	654376976
+Hydraulics - Sensor Error (VSI_Legacy)	654376977
+Hydraulics - High Coolant Content (Inactive) (VSI_Legacy)	654376978
+Hydraulics - High Coolant Content (VSI_Legacy)	654376979
+Hydraulics - High Fuel Content (Inactive) (VSI_Legacy)	654376980
+Hydraulics - High Fuel Content (VSI_Legacy)	654376981
+Hydraulics - High Oil Temperature (Inactive) (VSI_Legacy)	654376982
+Hydraulics - High Oil Temperature (VSI_Legacy)	654376983
+Power Steering - Sensor Error (Inactive) (VSI_Legacy)	654376984
+Power Steering - Sensor Error (VSI_Legacy)	654376985
+Power Steering - High Coolant Content (Inactive) (VSI_Legacy)	654376986
+Power Steering - High Coolant Content (VSI_Legacy)	654376987
+Power Steering - High Fuel Content (Inactive) (VSI_Legacy)	654376988
+Power Steering - High Fuel Content (VSI_Legacy)	654376989
+Power Steering - High Oil Temperature (Inactive) (VSI_Legacy)	654376990
+Power Steering - High Oil Temperature (VSI_Legacy)	654376991
+Differential - Sensor Error (Inactive) (VSI_Legacy)	654376992
+Differential - Sensor Error (VSI_Legacy)	654376993
+Differential - High Coolant Content (Inactive) (VSI_Legacy)	654376994
+Differential - High Coolant Content (VSI_Legacy)	654376995
+Differential - High Fuel Content (Inactive) (VSI_Legacy)	654376996
+Differential - High Fuel Content (VSI_Legacy)	654376997
+Differential - High Oil Temperature (Inactive) (VSI_Legacy)	654376998
+Differential - High Oil Temperature (VSI_Legacy)	654376999
+Unsupported Device Version (VSI_Legacy)	654377960
+Crankcase - Sensor Error (Inactive) (V2)	654378960
+Crankcase - Sensor Error (V2)	654378961
+Crankcase - High Coolant Content (Inactive) (V2)	654378962
+Crankcase - High Coolant Content (V2)	654378963
+Crankcase - High Fuel Content (Inactive) (V2)	654378964
+Crankcase - High Fuel Content (V2)	654378965
+Crankcase - High Oil Temperature (Inactive) (V2)	654378966
+Crankcase - High Oil Temperature (V2)	654378967
+Transmission - Sensor Error (Inactive) (V2)	654378968
+Transmission - Sensor Error (V2)	654378969
+Transmission - High Coolant Content (Inactive) (V2)	654378970
+Transmission - High Coolant Content (V2)	654378971
+Transmission - High Fuel Content (Inactive) (V2)	654378972
+Transmission - High Fuel Content (V2)	654378973
+Transmission - High Oil Temperature (Inactive) (V2)	654378974
+Transmission - High Oil Temperature (V2)	654378975
+Hydraulics - Sensor Error (Inactive) (V2)	654378976
+Hydraulics - Sensor Error (V2)	654378977
+Hydraulics - High Coolant Content (Inactive) (V2)	654378978
+Hydraulics - High Coolant Content (V2)	654378979
+Hydraulics - High Fuel Content (Inactive) (V2)	654378980
+Hydraulics - High Fuel Content (V2)	654378981
+Hydraulics - High Oil Temperature (Inactive) (V2)	654378982
+Hydraulics - High Oil Temperature (V2)	654378983
+Power Steering - Sensor Error (Inactive) (V2)	654378984
+Power Steering - Sensor Error (V2)	654378985
+Power Steering - High Coolant Content (Inactive) (V2)	654378986
+Power Steering - High Coolant Content (V2)	654378987
+Power Steering - High Fuel Content (Inactive) (V2)	654378988
+Power Steering - High Fuel Content (V2)	654378989
+Power Steering - High Oil Temperature (Inactive) (V2)	654378990
+Power Steering - High Oil Temperature (V2)	654378991
+Differential - Sensor Error (Inactive) (V2)	654378992
+Differential - Sensor Error (V2)	654378993
+Differential - High Coolant Content (Inactive) (V2)	654378994
+Differential - High Coolant Content (V2)	654378995
+Differential - High Fuel Content (Inactive) (V2)	654378996
+Differential - High Fuel Content (V2)	654378997
+Differential - High Oil Temperature (Inactive) (V2)	654378998
+Differential - High Oil Temperature (V2)	654378999
+Unsupported Device Version (V2)	654379960
+Pump Alarm (ROS)	654380960
+Tank Low Alarm (ROS)	654380961
+Coolant Alarm (ROS)	654380962
+Fuel Alarm (ROS)	654380963
+No Oil Temperature Sensor Connected (ROS)	654380964
+No Ambient Temperature Sensor Connected (ROS)	654380965
+Unsupported Device Version (ROS)	654381960
+Oem Interface Timeout	654442464
+Oem Interface Normal	654442465
+Driver Interface Timeout	654442466
+Driver Interface Normal	654442467

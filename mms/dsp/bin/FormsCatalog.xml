@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XMLScriptsInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts />
+  <Categories>
+    <FormScriptCategory>
+      <Name>Equipment Tracking</Name>
+      <Categories>
+        <FormScriptCategory>
+          <Name>Control Panel</Name>
+          <Categories />
+          <Scripts>
+            <FormScript>
+              <FileName>psw-debug</FileName>
+              <Name>PSW Debug</Name>
+              <ShowOnWelcome>true</ShowOnWelcome>
+            </FormScript>  
+          </Scripts>
+        </FormScriptCategory>
+        <FormScriptCategory>
+          <Name>Production Tracking</Name>
+          <Categories />
+          <Scripts>
+            <FormScript>
+              <FileName>lsize_menu.frm</FileName>
+              <Name>Load Size Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shiftdump.frm</FileName>
+              <Name>Dump Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shiftload.frm</FileName>
+              <Name>Load Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>bulk_shiftload.frm</FileName>
+              <Name>Bulk Edit Production Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shiftfuel.frm</FileName>
+              <Name>Fuel Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shiftwater.frm</FileName>
+              <Name>Water Records</Name>
+              <ScriptBody />
+              <Image />
+              <Switches>WTRUCK_MODULE</Switches>
+            </FormScript>
+          </Scripts>
+        </FormScriptCategory>
+        <FormScriptCategory>
+          <Name>Time Tracking</Name>
+          <Categories />
+          <Scripts>
+            <FormScript>
+              <FileName>statchng.frm</FileName>
+              <Name>Status Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>reasnmod.frm</FileName>
+              <Name>Reason Codes</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shifteqmt.frm</FileName>
+              <Name>Historical Equipment Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shiftaux.frm</FileName>
+              <Name>Historical AuxEqmt Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shiftroot.frm</FileName>
+              <Name>Historical Shift Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shiftchng.frm</FileName>
+              <Name>Historical Record Edit Menu</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+          </Scripts>
+        </FormScriptCategory>
+      </Categories>
+    </FormScriptCategory>
+    <FormScriptCategory>
+      <Name>Equipment Control</Name>
+      <Categories>
+        <FormScriptCategory>
+          <Name>Location Config</Name>
+          <Categories />
+          <Scripts>
+            <FormScript>
+              <FileName>roadmod2.frm</FileName>
+              <Name>Road Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>alldumps.frm</FileName>
+              <Name>Dump Locations</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>allloc.frm</FileName>
+              <Name>All Locations</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>speed_menu.frm</FileName>
+              <Name>Speed Menu</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+          </Scripts>
+        </FormScriptCategory>
+        <FormScriptCategory>
+          <Name>Equipment Control</Name>
+          <Categories />
+          <Scripts>
+            <FormScript>
+              <FileName>msgutil.frm</FileName>
+              <Name>Message Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>broadcast.frm</FileName>
+              <Name>Broadcast Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>auxtask_menu.frm</FileName>
+              <Name>Aux Equipment Tasks</Name>
+              <ScriptBody />
+              <Image />
+              <Switches>AUXTASK_MODULE</Switches>
+            </FormScript>
+            <FormScript>
+              <FileName>route.frm</FileName>
+              <Name>Route Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shvlneed.frm</FileName>
+              <Name>Shovel Need</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shvprior.FRM</FileName>
+              <Name>Shovel Priorities</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>parkup.frm</FileName>
+              <Name>Tiedown Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>tramschedule.frm</FileName>
+              <Name>Tramming Schedule</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>dispactrule.frm</FileName>
+              <Name>Location Actions</Name>
+              <ScriptBody />
+              <Image />
+              <Switches>LOC_ACTION_MODULE</Switches>
+            </FormScript>
+            <FormScript>
+              <FileName>bulkstatus.frm</FileName>
+              <Name>Bulk Status Change Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>lock.frm</FileName>
+              <Name>Lock Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>bar.frm</FileName>
+              <Name>Bar Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+          </Scripts>
+        </FormScriptCategory>
+        <FormScriptCategory>
+          <Name>LP Configuration</Name>
+          <Categories />
+          <Scripts>
+            <FormScript>
+              <FileName>lpconfigmod.frm</FileName>
+              <Name>LP Config Utility</Name>
+              <Image />
+              <ScriptBody />
+            </FormScript>
+          </Scripts>
+        </FormScriptCategory>
+      </Categories>
+    </FormScriptCategory>
+    <FormScriptCategory>
+      <Name>Interfaces</Name>
+      <Categories>
+        <FormScriptCategory>
+          <Name>Onboard Sensors</Name>
+          <Categories />
+          <Scripts>
+            <FormScript>
+              <FileName>interfaces.frm</FileName>
+              <Name>OEM Interfaces</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+          </Scripts>
+        </FormScriptCategory>
+      </Categories>
+    </FormScriptCategory>
+    <FormScriptCategory>
+      <Name>Crew Management</Name>
+      <Categories></Categories>
+      <Scripts>
+        <FormScript>
+          <FileName>shiftoper.frm</FileName>
+          <Name>Operator Records</Name>
+          <ScriptBody />
+          <Image />
+        </FormScript>
+        <FormScript>
+          <FileName>lineup.frm</FileName>
+          <Name>Crew Lineup</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>LINEUP_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>breaks.frm</FileName>
+          <Name>Breaks Utility</Name>
+          <ScriptBody />
+          <Image />
+        </FormScript>
+        <FormScript>
+          <FileName>training_menu.frm</FileName>
+          <Name>Skills Management</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>TRAINING_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>van_assign.frm</FileName>
+          <Name>Van Assignments</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>LINEUP_MODULE</Switches>
+        </FormScript>
+      </Scripts>
+    </FormScriptCategory>
+    <FormScriptCategory>
+      <Name>Material Management</Name>
+      <Categories>
+        <FormScriptCategory>
+          <Name>Location Tracking</Name>
+          <Categories />
+          <Scripts>
+            <FormScript>
+              <FileName>shiftloc.frm</FileName>
+              <Name>Location Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>roadmod2.frm</FileName>
+              <Name>Road Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>route1.frm</FileName>
+              <Name>Routes Utility</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+          </Scripts>
+        </FormScriptCategory>
+      </Categories>
+      <Categories>
+        <FormScriptCategory>
+          <Name>Material</Name>
+          <Categories />
+          <Scripts>
+            <FormScript>
+              <FileName>grade.frm</FileName>
+              <Name>Current Grades</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>shiftgrade.frm</FileName>
+              <Name>Historical Grade Records</Name>
+              <ScriptBody />
+              <Image />
+            </FormScript>
+            <FormScript>
+              <FileName>water_grade.frm</FileName>
+              <Name>Current Water Qualities</Name>
+              <ScriptBody />
+              <Image />
+              <Switches>WTRUCK_MODULE</Switches>
+            </FormScript>
+            <FormScript>
+              <FileName>blendmod.frm</FileName>
+              <Name>Material Blending</Name>
+              <ScriptBody />
+              <Image />
+              <Switches>BLENDING_MODULE</Switches>
+            </FormScript>
+          </Scripts>
+        </FormScriptCategory>
+      </Categories>
+    </FormScriptCategory>
+    <FormScriptCategory>
+      <Name>Safety and Maintenance</Name>
+      <Scripts>
+        <FormScript>
+          <FileName>prestart_item_list.frm</FileName>
+          <Name>Prestart Checklist</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>PRESTART_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>ccc_utility.frm</FileName>
+          <Name>Critical Control Checklist Utility</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>CCC_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>defect_menu.frm</FileName>
+          <Name>Defect Management</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>DEFECT_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>shiftdefect.frm</FileName>
+          <Name>Defect Records</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>DEFECT_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>maint_menu.frm</FileName>
+          <Name>Maintenance Menu</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>MAINTENANCE_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>minecare/mc_message_config.frm</FileName>
+          <Name>FastFeedback</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>FFEEDBACK_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>tire_mngmt.frm</FileName>
+          <Name>Active Tire Management</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>TIREMANAGE_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>tmph_mainmenu.frm</FileName>
+          <Name>Tire Management</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>TIRESAVER_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>mesgmod.frm</FileName>
+          <Name>Safety Messages</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>MESSAGE_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>idlemon_menu.frm</FileName>
+          <Name>Idle Monitor</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>IDLE_MONITOR_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>minealert_menu.frm</FileName>
+          <Name>MineAlert</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>GPSOVRSPD_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>opresponse/main_menu.frm</FileName>
+          <Name>Operator Response Management Utility</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>OP_RESPONSE_MODULE</Switches>
+        </FormScript>
+      </Scripts>
+    </FormScriptCategory>
+    <FormScriptCategory>
+      <Name>General Configuration</Name>
+      <Scripts>
+        <FormScript>
+          <FileName>m2p/m2p_main.frm</FileName>
+          <Name>Mine2Plan</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>MINE2PLAN_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>dspprofile_menu.frm</FileName>
+          <Name>Dispatcher Profiles</Name>
+          <ScriptBody />
+          <Image />
+          <Switches>DSPPROFILE_MODULE</Switches>
+        </FormScript>
+        <FormScript>
+          <FileName>gps.frm</FileName>
+          <Name>GPS Utility</Name>
+          <ScriptBody />
+          <Image />
+        </FormScript>
+        <FormScript>
+          <FileName>dispatch_tags.frm</FileName>
+          <Name>DISPATCH Tags Utility</Name>
+          <Switches>DISP_TAGS_MODULE</Switches>
+          <ScriptBody />
+          <Image />
+        </FormScript>
+      </Scripts>
+    </FormScriptCategory>
+  </Categories>
+</XMLScriptsInformation>

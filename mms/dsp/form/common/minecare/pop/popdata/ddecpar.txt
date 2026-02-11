@@ -1,0 +1,58 @@
+67174401	Extended Range Fuel Pressure	1019.031	0	9
+67174402	Extended Range Engine Oil Pressure	1019.031	0	9
+67174403	Extended Range Coolant Pressure	509.5155	0	9
+67174404	Ext Range Intercooler Coolant Press	509.5155	0	9
+67174405	Attentn/Warning Lamps Status(Eng 1)	255	0	0
+67174406	Attentn/Warning Lamps Status(Eng 2)	255	0	0
+67174407	Engine Intercooler Temperature	123.888888888889	-17.7777777777778	5
+67174408	Torque Limiting Factor	127.5	0	25
+67174409	Parking Brake Switch Status	255	0	0
+67174410	Idle Shutdown Timer Status	255	0	0
+67174411	Percent Throttle	102	0	25
+67174412	Percent Engine Load	127.5	0	25
+67174413	Output Torque	3443.7828	-2560	24
+67174414	Fuel Delivery Pressure	878.475	0	9
+67174415	Fuel Filter Differential Pressure	439.2375	0	9
+67174416	Engine Oil Level	127.5	0	25
+67174417	Oil Filter Differential Pressure	109.8266	0	9
+67174418	Engine Oil Pressure	878.475	0	9
+67174419	Crankcase Pressure (Low Resolution)	109.37875	-110.24	9
+67174420	Turbo Boost Pressure - Left Bank	219.61875	0	9
+67174421	Air Inlet Pressure (Engine #1)	439.2375	0	9
+67174422	Air Filter Differential Pressure	12.699	0	9
+67174423	Barometric Pressure	109.809375	0	9
+67174424	Engine Coolant Pressure	219.61875	0	9
+67174425	Intercooler Coolant Pressure	219.61875	0	9
+67174426	Coolant Temperature	123.888888888889	-17.7777777777778	5
+67174427	Coolant Level	127.5	0	25
+67174428	Engine Governor Droop	511	0	28
+67174429	Crankcase Pressure (High Resolution)	255.7568	-255.8257	9
+67174430	Auxiliary Input/Output Status #2	65535	0	0
+67174431	Auxiliary Input/Output Status #1	65535	0	0
+67174432	Injection Control Pressure	255996	0	9
+67174433	Engine Horsepower Rating	48869.4495	0	12
+67174434	M-ECM Battery Voltage	3276.75	0	31
+67174435	R-ECM Battery Voltage	3276.75	0	31
+67174436	Ambient Air Temperature	4533.19444444444	-4568.88888888889	5
+67174437	Intake Manifold Air Temperature - Left Bank	4533.19444444444	-4568.88888888889	5
+67174438	Intake Manifold Air Temperature - Right Bank	4533.19444444444	-4568.88888888889	5
+67174439	Fuel Temperature	4533.19444444444	-4568.88888888889	5
+67174440	Engine Oil Temperature	4533.19444444444	-4568.88888888889	5
+67174441	Trip Fuel	31006.246875	0	14
+67174442	Fuel Rate	3875.7643	0	13
+67174443	VSG Set Speed	16383.75	0	28
+67174444	Idle Set Speed	16383.75	0	28
+67174445	Rated Engine Speed	16383.75	0	28
+67174446	Engine Speed	16383.75	0	28
+67174447	Unit Number (Power Unit)	0	0	0
+67174448	Software Identification	0	0	0
+67174449	Total Idle Hours	214748364.8	0	7
+67174450	Total Idle Fuel Used	2032056401.5415	0	14
+67174451	Vehicle Identification Number (VIN)	0	0	0
+67174452	Last Customer Change Hours	214748364.8	0	7
+67174453	Device Identification	0	0	0
+67174454	Total Engine Hours	214748364.8	0	7
+67174455	Total VSG Hours	214748364.8	0	7
+67174456	Total Engine Revolutions	10000000000	0	27
+67174457	Total Fuel Used	2032056401.5415	0	14
+67174458	Right Turbo Boost Pressure (S4000 Series)	219.61875	0	9

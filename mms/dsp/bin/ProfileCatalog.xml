@@ -1,0 +1,119 @@
+<SolutionProfile xmlns="http://schemas.microsoft.com/pag/cab-profile/2.0">
+
+  <Section Name="TechnicalServices">
+    <Modules>
+      <ModuleInfo AssemblyFile="Modular.ApplicationConfiguration.Common.Implementation.dll" />
+      <ModuleInfo AssemblyFile="Modular.EnterpriseIntegration.Client.Implementation.dll" />
+      <ModuleInfo AssemblyFile="Modular.UserManagement.Common.Implementation.dll" />
+      <ModuleInfo AssemblyFile="Modular.OperationLogging.Client.Implementation.dll" />
+      <ModuleInfo AssemblyFile="Modular.LicenseManagement.Client.Implementation.dll" />
+      <ModuleInfo AssemblyFile="Modular.UserAlerts.Client.Implementation.dll" />
+      <ModuleInfo AssemblyFile="Modular.SystemConfiguration.Client.Implementation.dll" />
+      <ModuleInfo AssemblyFile="Modular.ApplicationSessions.Common.Implementation.dll" />
+    </Modules>
+  </Section>
+
+  <Section Name="EquipmentConfiguration">
+    <Modules>
+      <ModuleInfo AssemblyFile="Modular.EquipmentConfiguration.Client.Implementation.dll" />
+    </Modules>
+    <Dependencies>
+      <Dependency Name="TechnicalServices" />
+    </Dependencies>
+  </Section>
+
+  <Section Name="LocationManagement">
+    <Modules>
+      <ModuleInfo AssemblyFile="Modular.LocationManagement.Client.Implementation.dll" />
+    </Modules>
+    <Dependencies>
+      <Dependency Name="TechnicalServices" />
+    </Dependencies>
+  </Section>
+
+  <Section Name="PersonnelManagement">
+    <Modules>
+      <ModuleInfo AssemblyFile="Modular.PersonnelManagement.Client.Implementation.dll" />
+    </Modules>
+    <Dependencies>
+      <Dependency Name="EquipmentConfiguration" />
+      <Dependency Name="TechnicalServices" />
+    </Dependencies>
+  </Section>
+  
+
+  <Section Name="PositionTracking">
+    <Modules>
+      <ModuleInfo AssemblyFile="Modular.PositionTracking.Client.Implementation.dll" />
+    </Modules>
+    <Dependencies>
+      <Dependency Name="PersonnelManagement" />
+      <Dependency Name="EquipmentConfiguration" />
+      <Dependency Name="LocationManagement" />
+      <Dependency Name="TechnicalServices" />
+    </Dependencies>
+  </Section>
+
+  <Section Name="CollisionDetection">
+    <Modules>
+      <ModuleInfo AssemblyFile="Modular.CollisionDetection.Client.Implementation.dll" />
+    </Modules>
+    <Dependencies>
+      <Dependency Name="TechnicalServices" />
+      <Dependency Name="LocationManagement" />
+      <Dependency Name="PersonnelManagement" />
+      <Dependency Name="EquipmentConfiguration" />
+      <Dependency Name="PositionTracking" />
+    </Dependencies>
+  </Section>
+
+  <Section Name="TimeTracking">
+    <Modules>
+      <ModuleInfo AssemblyFile="Modular.TimeTracking.Client.Implementation.dll" />
+    </Modules>
+    <Dependencies>
+      <Dependency Name="TechnicalServices" />
+      <Dependency Name="EquipmentConfiguration" />
+      <Dependency Name="LocationManagement" />
+      <Dependency Name="PositionTracking" />
+      <Dependency Name="CollisionDetection" />
+    </Dependencies>
+  </Section>
+  
+  <Section Name="CrewManagement">
+    <Modules>
+      <ModuleInfo AssemblyFile="Modular.CrewManagement.Client.Implementation.dll" />
+    </Modules>
+    <Dependencies>
+      <Dependency Name="TechnicalServices" />
+      <Dependency Name="EquipmentConfiguration" />
+      <Dependency Name="PersonnelManagement" />
+      <Dependency Name="LocationManagement" />
+      <Dependency Name="TimeTracking" />
+    </Dependencies>
+  </Section>
+  
+  <Section Name="TaskManagement">
+    <Modules>
+      <ModuleInfo AssemblyFile="Modular.TaskManagement.Client.Implementation.dll" />
+    </Modules>
+    <Dependencies>
+      <Dependency Name="TechnicalServices" />
+      <Dependency Name="EquipmentConfiguration" />
+      <Dependency Name="LocationManagement" />
+      <Dependency Name="PositionTracking" />
+      <Dependency Name="PersonnelManagement" />
+      <Dependency Name="CrewManagement" />
+      <Dependency Name="TimeTracking" />
+    </Dependencies>
+  </Section>
+  
+  <Section Name="Apps">
+    <Dependencies>
+      <Dependency Name="TechnicalServices" />
+      <Dependency Name="EquipmentConfiguration" />
+      <Dependency Name="TaskManagement" />
+    </Dependencies>
+    <Modules/>
+  </Section>
+</SolutionProfile>

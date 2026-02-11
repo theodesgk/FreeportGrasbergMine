@@ -1,0 +1,924 @@
+OEM interface Timeout	117571552
+OEM interface Normal	117571553
+Driver interface Timeout	117571554
+Driver interface Normal	117571555
+ECM Hardware inactive	117506270
+ECM Hardware active	117506271
+Timing Actuator - Mechanically Stuck Inactive	117506272
+Timing Actuator - Mechanically Stuck Active	117506273
+Timing Actuator - Component Shorted High Inactive	117506274
+Timing Actuator - Component Shorted High Active	117506275
+Timing Actuator - Component Shorted Low Inactive	117506276
+Timing Actuator - Component Shorted Low Active	117506277
+Both Engine Speed and or Position Signal Lost Inactive	117506278
+Both Engine Speed and or Position Signal Lost Active	117506279
+Timing Rail Pressure Sensor Circuit Inactive	117506280
+Timing Rail Pressure Sensor Circuit Active	117506281
+Timing Rail Pressure Sensor Circuit Inactive	117506282
+Timing Rail Pressure Sensor Circuit Active	117506283
+Fuel Pump Pressure Sensor Circuit Inactive	117506284
+Fuel Pump Pressure Sensor Circuit Active	117506285
+Fuel Pump Pressure Sensor Circuit Inactive	117506286
+Fuel Pump Pressure Sensor Circuit Active	117506287
+One Engine Speed Signal Lost Intermitent Inactive	117506290
+One Engine Speed Signal Lost Intermitent Active	117506291
+Left Intake Manifold Pressure Sensor Failed High Inactive	117506292
+Left Intake Manifold Pressure Sensor Failed High Active	117506293
+Left Intake Manifold Pressure Sensor Failed Low Inactive	117506294
+Left Intake Manifold Pressure Sensor Failed Low Active	117506295
+High Intake Manifold Pressure Left Bank Inactive	117506296
+High Intake Manifold Pressure Left Bank Active	117506297
+Low Intake Manifold Pressure Left Bank Inactive	117506298
+Low Intake Manifold Pressure Left Bank Active	117506299
+High Intake Manifold Pressure Right Bank Inactive	117506300
+High Intake Manifold Pressure Right Bank Active	117506301
+Low Intake Manifold Pressure Right Bank Inactive	117506302
+Low Intake Manifold Pressure Right Bank Active	117506303
+Right Intake Manifold Pressure Sensor Failed High Inactive	117506304
+Right Intake Manifold Pressure Sensor Failed High Active	117506305
+Right Intake Manifold Pressure Sensor Failed Low Inactive	117506306
+Right Intake Manifold Pressure Sensor Failed Low Active	117506307
+Throttle Position - Component Shorted High Inactive	117506310
+Throttle Position - Component Shorted High Active	117506311
+Throttle Position - Component Shorted Low Inactive (J1587)	117506312
+Throttle Position - Component Shorted Low Active (J1587)	117506313
+Remote Throttle Position Sensor: CELECT Type Throttle Pedal Inactive	117506314
+Remote Throttle Position Sensor: CELECT Type Throttle Pedal Active	117506315
+Remote Throttle Position Sensor: CELECT Type Throttle Pedal Inactive	117506316
+Remote Throttle Position Sensor: CELECT Type Throttle Pedal Active	117506317
+Oil Pressure Sensor Failed High Inactive	117506318
+Oil Pressure Sensor Failed High Active	117506319
+Pre Oil Filter Pressure Sensor Failed High Inactive	117506320
+Pre Oil Filter Pressure Sensor Failed High Active	117506321
+Pre Oil Filter Pressure Sensor Failed Low Inactive	117506322
+Pre Oil Filter Pressure Sensor Failed Low Active	117506323
+Oil Pressure Sensor Failed Low Inactive	117506330
+Oil Pressure Sensor Failed Low Active	117506331
+Low Inactive Oil Pressure Inactive	117506334
+Low Inactive Oil Pressure Active	117506335
+Coolant Temperature Sensor Failed High Inactive	117506336
+Coolant Temperature Sensor Failed High Active	117506337
+Coolant Temperature Sensor Failed Low Inactive	117506338
+Coolant Temperature Sensor Failed Low Active	117506339
+Frequency Throttle Circuit Inactive	117506342
+Frequency Throttle Circuit Active	117506343
+Frequency Throttle Circuit Inactive	117506344
+Frequency Throttle Circuit Active	117506345
+High Coolant Temperature Inactive	117506350
+High Coolant Temperature Active	117506351
+Left Front Intake Manifold Temp Sensor Failed High Inactive	117506354
+Left Front Intake Manifold Temp Sensor Failed High Active	117506355
+Left Front Intake Manifold Temp Sensor Failed Low Inactive	117506356
+Left Front Intake Manifold Temp Sensor Failed Low Active	117506357
+High Intake Manifold Temp Left Front Inactive	117506358
+High Intake Manifold Temp Left Front Active	117506359
+Left Rear Intake Manifold Temp Sensor Failed High Inactive	117506360
+Left Rear Intake Manifold Temp Sensor Failed High Active	117506361
+Left Rear Intake Manifold Temp Sensor Failed Low Inactive	117506362
+Left Rear Intake Manifold Temp Sensor Failed Low Active	117506363
+High Intake Manifold Temp Left Rear Inactive	117506364
+High Intake Manifold Temp Left Rear Active	117506365
+Right Front Intake Manifold Temp Sensor Failed High Inactive	117506366
+Right Front Intake Manifold Temp Sensor Failed High Active	117506367
+Right Front Intake Manifold Temp Sensor Failed Low Inactive	117506370
+Right Front Intake Manifold Temp Sensor Failed Low Active	117506371
+High Intake Manifold Temp Right Front Inactive	117506372
+High Intake Manifold Temp Right Front Active	117506373
+Right Rear Intake Manifold Temp Sensor Failed High Inactive	117506374
+Right Rear Intake Manifold Temp Sensor Failed High Active	117506375
+Right Rear Intake Manifold Temp Sensor Failed Low Inactive	117506376
+Right Rear Intake Manifold Temp Sensor Failed Low Active	117506377
+High Intake Manifold Temperature Right Rear Inactive	117506378
+High Intake Manifold Temperature Right Rear Active	117506379
+Secondary Fuel Actuator-Component Shorted High Inactive	117506386
+Secondary Fuel Actuator-Component Shorted High Active	117506387
+Secondary Fuel Actuator-Mechanically Stuck Inactive	117506394
+Secondary Fuel Actuator-Mechanically Stuck Active	117506395
+OEM Connected Component Broadcasting Code Information Inactive	117506470
+OEM Connected Component Broadcasting Code Information Active	117506471
+Oil Temperature Sensor Failed High Inactive	117506472
+Oil Temperature Sensor Failed High Active	117506473
+Oil Temperature Sensor Failed Low Inactive	117506474
+Oil Temperature Sensor Failed Low Active	117506475
+High Oil Temperature Inactive	117506476
+High Oil Temperature Active	117506477
+Oil Temperature Low Inactive	117506478
+Oil Temperature Low Active	117506479
+Make-up Tank Oil Level Low Fault Inactive	117506486
+Make-up Tank Oil Level Low Fault Active	117506487
+Ambient Air Pressure Sensor Failed High Inactive	117506490
+Ambient Air Pressure Sensor Failed High Active	117506491
+Ambient Air Pressure Sensor Failed Low Inactive	117506492
+Ambient Air Pressure Sensor Failed Low Active	117506493
+Burn Value Solenoid Fault Inactive	117506494
+Burn Value Solenoid Fault Active	117506495
+Make-up Value Solenoid Fault Inactive	117506498
+Make-up Value Solenoid Fault Active	117506499
+Coolant Pressure Sensor Failed High Inactive	117506510
+Coolant Pressure Sensor Failed High Active	117506511
+Coolant Pressure Sensor Failed Low Inactive	117506512
+Coolant Pressure Sensor Failed Low Active	117506513
+Low Coolant Pressure Inactive	117506514
+Low Coolant Pressure Active	117506515
+Engine Overspeed Inactive	117506516
+Engine Overspeed Active	117506517
+Low Coolant Level Inactive	117506518
+Low Coolant level Active	117506519
+Oil Level Invalid (Sensor); Inactive	117506520
+Oil Level Invalid (Sensor); Active	117506521
+Multiple Unit Synchronization Inactive	117506522
+Multiple Unit Synchronization Active	117506523
+Oil Level Invalid (Sensor); Inactive	117506552
+Oil Level Invalid (Sensor); Active	117506553
+Low Oil Level Inactive	117506554
+Low Oil Level Active	117506555
+Fuel Shutoff Valve - Component Shorted Low Inactive	117506556
+Fuel Shutoff Valve - Component Shorted Low Active	117506557
+Fuel Shutoff Valve - Component Shorted High Inactive	117506558
+Fuel Shutoff Valve - Component Shorted High Active	117506559
+Fuel Shutoff Valve - Stuck Open (Mechanically) Inactive	117506566
+Fuel Shutoff Valve - Stuck Open (Mechanically) Active	117506567
+Fuel Temperature - Engine Protection Inactive	117506570
+Fuel Temperature - Engine Protection Active	117506571
+Fuel Temperature Sensor Circuit Inactive	117506574
+Fuel Temperature Sensor Circuit Active	117506575
+Fuel Temperature Sensor Circuit Inactive	117506578
+Fuel Temperature Sensor Circuit Active	117506579
+OEM Temperature - Engine Protection Inactive	117506632
+OEM Temperature - Engine Protection Active	117506633
+OEM Temperature Sensor Circuit Inactive	117506634
+OEM Temperature Sensor Circuit Active	117506635
+OEM Temperature Sensor Circuit Inactive	117506636
+OEM Temperature Sensor Circuit Active	117506637
+OEM Pressure - Engine Protection Inactive	117506640
+OEM Pressure - Engine Protection Active	117506641
+OEM Pressure Sensor Circuit Inactive	117506642
+OEM Pressure Sensor Circuit Active	117506643
+OEM Pressure Sensor Circuit Inactive	117506644
+OEM Pressure Sensor Circuit Active	117506645
+Engine Shut Down Without Proper Cool-down Inactive	117506646
+Engine Shut Down Without Proper Cool-down Active	117506647
+Fuel Pump Actuator Circuit Inactive	117506680
+Fuel Pump Actuator Circuit Active	117506681
+Fuel Pump Fueling Flow Mismatch Inactive	117506684
+Fuel Pump Fueling Flow Mismatch Active	117506685
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Inactive	117506732
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Active	117506733
+Eletronic Control Module Internal Communication Error Inactive	117506734
+Eletronic Control Module Internal Communication Error Active	117506735
+Eletronic Control Module Powerdown Error Inactive	117506740
+Eletronic Control Module Powerdown Error Active	117506741
+ECM EEPROM Write Error--Celect and Centry Only Inactive	117506754
+ECM EEPROM Write Error--Celect and Centry Only Active	117506755
+Ether Injection Circuit Inactive	117506816
+Ether Injection Circuit Active	117506817
+Public Data Link - Cannot Transmit Inactive	117506872
+Public Data Link - Cannot Transmit Active	117506873
+Public Data Link - not Fast Enough Inactive	117506876
+Public Data Link - not Fast Enough Active	117506877
+Oil Pressure - Engine Protection Inactive	117506878
+Oil Pressure - Engine Protection Active	117506879
+Oil Filter Bypass Valve Open Inactive	117506882
+Oil Filter Bypass Valve Open Active	117506883
+Coolant Level Sensor Invalid Inactive	117506892
+Coolant Level Sensor Invalid Active	117506893
+Timing Rail Pressure in Range Error Inactive	117506894
+Timing Rail Pressure in Range Error Active	117506895
+ECM Can Not Transmit on J1939 Datalink Inactive	117506900
+ECM Can Not Transmit on J1939 Datalink Active	117506901
+ECM Can Not Transmit on J1939 Datalink at Acceptable Rate Inactive	117506902
+ECM Can Not Transmit on J1939 Datalink at Acceptable Rate Active	117506903
+Throttle Pedal Idle Validation - Invalid Inactive	117506910
+Throttle Pedal Idle Validation - Invalid Active	117506911
+Throttle Pedal Idle Switch does not agree with throttle pot Inactive	117506912
+Throttle Pedal Idle Switch does not agree with throttle pot Active	117506913
+Battery Voltage Data Low Inactive	117506930
+Battery Voltage Data Low Active	117506931
+Battery Voltage - Above Normal Engine Range Inactive	117506932
+Battery Voltage - Above Normal Engine Range Active	117506933
+Throttle Pedal Sensor Supply Volt.-Data Below Normal Range Inactive	117506934
+Throttle Pedal Sensor Supply Volt.-Data Below Normal Range Active	117506935
+OEM Sensor Supply Volt.-Data Below Normal Range Inactive	117506936
+OEM Sensor Supply Volt.-Data Below Normal Range Active	117506937
+GSP Communication Failure Inactive	117506940
+GSP Communication Failure Active	117506941
+RPC Number Not Supported Inactive	117506942
+RPC Number Not Supported Active	117506943
+RPC Argument Mismatch Inactive	117506944
+RPC Argument Mismatch Active	117506945
+High Fuel Pressure Inactive	117506946
+High Fuel Pressure Active	117506947
+Fuel Pressure Sensor Failed High Inactive	117506950
+Fuel Pressure Sensor Failed High Active	117506951
+Fuel Pressure Sensor Failed Low Inactive	117506952
+Fuel Pressure Sensor Failed Low Active	117506953
+Fuel Control Valve-Component Shorted High or Open	117506958
+Fuel Control Valve-Component Shorted High or Open	117506959
+Timing Fueling Flow Mismatch	117506982
+Timing Fueling Flow Mismatch	117506983
+Fuel Railing Flow Mismatch	117506984
+Fuel Railing Flow Mismatch	117506985
+Very Low Oil Level	117506990
+Very Low Oil Level	117506991
+Ether Bottle is Empty	117507022
+Ether Bottle is Empty	117507023
+Auxiliary Speed input Error	117507026
+Auxiliary Speed input Error	117507027
+Multi-Unit Synchronous Switch Error	117507042
+Multi-Unit Synchronous Switch Error	117507043
+Fuel Control Valve - Component Shorted Low	117507070
+Fuel Control Valve - Component Shorted Low	117507071
+Fuel Control Valve - Mechanically Stuck Open	117507076
+Fuel Control Valve - Mechanically Stuck Open	117507077
+Aux (Transmission) Temp-Component Shorted High	117507090
+Aux (Transmission) Temp-Component Shorted High	117507091
+Aux (Transmission) Temp-Component Shorted Low	117507092
+Aux (Transmission) Temp-Component Shorted Low	117507093
+OEM-Intermediate (PTO) Speed Switch Validation Fault	117507094
+OEM-Intermediate (PTO) Speed Switch Validation Fault	117507095
+OEM-Alternate Droop Switch Validation Fault	117507096
+OEM-Alternate Droop Switch Validation Fault	117507097
+ECM not Calibrated - Use 111	117507098
+ECM not Calibrated - Use 111	117507099
+Solenoid A Error	117507102
+Solenoid A Error	117507103
+Solenoid B Error	117507106
+Solenoid B Error	117507107
+Idle Validation Circuit	117507150
+Idle Validation Circuit	117507151
+Fuel Cntrl Valve-Stuck Closed/High Inlet Rest. or Low Supply Press	117507152
+Fuel Cntrl Valve-Stuck Closed/High Inlet Rest. or Low Supply Press	117507153
+Fuel Rail Pressure Over Limits	117507154
+Fuel Rail Pressure Over Limits	117507155
+Fueling Rail Pressure Sensor Circuit	117507156
+Fueling Rail Pressure Sensor Circuit	117507157
+High Blowby Pressure Inactive	117507158
+High Blowby Pressure Active	117507159
+Engine Hot Shutdown Inactive	117507270
+Engine Hot Shutdown Active	117507271
+High Lube Filter Restriction Inactive	117507272
+High Lube Filter Restriction Active	117507273
+Non-zero Engine Speed at Power-up Inactive	117507278
+Non-zero Engine Speed at Power-up Active	117507279
+High Turbo Compressor Inlet Temperature Right Bank Inactive	117507280
+High Turbo Compressor Inlet Temperature Right Bank Active	117507281
+High Turbo Compressor Inlet Temperature Left Bank Inactive	117507282
+High Turbo Compressor Inlet Temperature Left Bank Active	117507283
+High Intake Restriction Left Bank Inactive	117507284
+High Intake Restriction Left Bank Active	117507285
+High Intake Restriction Right Bank Inactive	117507286
+High Intake Restriction Right Bank Active	117507287
+Low #1 Left Bank Cylinder Power Inactive	117507290
+Low #1 Left Bank Cylinder Power Active	117507291
+Low #2 Left Bank Cylinder Power Inactive	117507292
+Low #2 Left Bank Cylinder Power Active	117507293
+Low #3 Left Bank Cylinder Power Inactive	117507294
+Low #3 Left Bank Cylinder Power Active	117507295
+Low #4 Left Bank Cylinder Power Inactive	117507296
+Low #4 Left Bank Cylinder Power Active	117507297
+Low #5 Left Bank Cylinder Power Inactive	117507298
+Low #5 Left Bank Cylinder Power Active	117507299
+Low #6 Left Bank Cylinder Power Inactive	117507300
+Low #6 Left Bank Cylinder Power Active	117507301
+Low #7 Left Bank Cylinder Power Inactive	117507302
+Low #7 Left Bank Cylinder Power Active	117507303
+Low #8 Left Bank Cylinder Power Inactive	117507304
+Low #8 Left Bank Cylinder Power Active	117507305
+Intake Air Leak Left Bank Inactive	117507306
+Intake Air Leak Left Bank Active	117507307
+Low #1 Right Bank Cylinder Power Inactive	117507310
+Low #1 Right Bank Cylinder Power Active	117507311
+Low #2 Right Bank Cylinder Power Inactive	117507312
+Low #2 Right Bank Cylinder Power Active	117507313
+Low #3 Right Bank Cylinder Power Inactive	117507314
+Low #3 Right Bank Cylinder Power Active	117507315
+Low #4 Right Bank Cylinder Power Inactive	117507316
+Low #4 Right Bank Cylinder Power Active	117507317
+Low #5 Right Bank Cylinder Power Inactive	117507318
+Low #5 Right Bank Cylinder Power Active	117507319
+Low #6 Right Bank Cylinder Power Inactive	117507320
+Low #6 Right Bank Cylinder Power Active	117507321
+Low #7 Right Bank Cylinder Power Inactive	117507322
+Low #7 Right Bank Cylinder Power Active	117507323
+Low #8 Right Bank Cylinder Power Inactive	117507324
+Low #8 Right Bank Cylinder Power Active	117507325
+Intake Air Leak Right Bank Inactive	117507326
+Intake Air Leak Right Bank Active	117507327
+High #1 Left Bank Cylinder Exhaust Temperature Inactive	117507330
+High #1 Left Bank Cylinder Exhaust Temperature Active	117507331
+High #2 Left Bank Cylinder Exhaust Temperature Inactive	117507332
+High #2 Left Bank Cylinder Exhaust Temperature Active	117507333
+High #3 Left Bank Cylinder Exhaust Temperature Inactive	117507334
+High #3 Left Bank Cylinder Exhaust Temperature Active	117507335
+High #4 Left Bank Cylinder Exhaust Temperature Inactive	117507336
+High #4 Left Bank Cylinder Exhaust Temperature Active	117507337
+High #5 Left Bank Cylinder Exhaust Temperature Inactive	117507338
+High #5 Left Bank Cylinder Exhaust Temperature Active	117507339
+High #6 Left Bank Cylinder Exhaust Temperature Inactive	117507340
+High #6 Left Bank Cylinder Exhaust Temperature Active	117507341
+High #7 Left Bank Cylinder Exhaust Temperature Inactive	117507342
+High #7 Left Bank Cylinder Exhaust Temperature Active	117507343
+High #8 Left Bank Cylinder Exhaust Temperature Inactive	117507344
+High #8 Left Bank Cylinder Exhaust Temperature Active	117507345
+Change Oil and Filter Inactive	117507346
+Change Oil and Filter Active	117507347
+High #1 Right Bank Cylinder Exhaust Temperature Inactive	117507350
+High #1 Right Bank Cylinder Exhaust Temperature Active	117507351
+High #2 Right Bank Cylinder Exhaust Temperature Inactive	117507352
+High #2 Right Bank Cylinder Exhaust Temperature Active	117507353
+High #3 Right Bank Cylinder Exhaust Temperature Inactive	117507354
+High #3 Right Bank Cylinder Exhaust Temperature Active	117507355
+High #4 Right Bank Cylinder Exhaust Temperature Inactive	117507356
+High #4 Right Bank Cylinder Exhaust Temperature Active	117507357
+High #5 Right Bank Cylinder Exhaust Temperature Inactive	117507358
+High #5 Right Bank Cylinder Exhaust Temperature Active	117507359
+High #6 Right Bank Cylinder Exhaust Temperature Inactive	117507360
+High #6 Right Bank Cylinder Exhaust Temperature Active	117507361
+High #7 Right Bank Cylinder Exhaust Temperature Inactive	117507362
+High #7 Right Bank Cylinder Exhaust Temperature Active	117507363
+High #8 Right Bank Cylinder Exhaust Temperature Inactive	117507364
+High #8 Right Bank Cylinder Exhaust Temperature Active	117507365
+Change Fuel Filter Inactive	117507366
+Change Fuel Filter Active	117507367
+High #1 Left Bank Cylinder Power Inactive	117507370
+High #1 Left Bank Cylinder Power Active	117507371
+High #2 Left Bank Cylinder Power Inactive	117507372
+High #2 Left Bank Cylinder Power Active	117507373
+High #3 Left Bank Cylinder Power Inactive	117507374
+High #3 Left Bank Cylinder Power Active	117507375
+High #4 Left Bank Cylinder Power Inactive	117507376
+High #4 Left Bank Cylinder Power Active	117507377
+High #5 Left Bank Cylinder Power Inactive	117507378
+High #5 Left Bank Cylinder Power Active	117507379
+High #6 Left Bank Cylinder Power Inactive	117507380
+High #6 Left Bank Cylinder Power Active	117507381
+High #7 Left Bank Cylinder Power Inactive	117507382
+High #7 Left Bank Cylinder Power Active	117507383
+High #8 Left Bank Cylinder Power Inactive	117507384
+High #8 Left Bank Cylinder Power Active	117507385
+Change Coolant Filter Inactive	117507386
+Change Coolant Filter Active	117507387
+Cylinder #1 Left Exhaust Temp Sensor Failed Low Inactive	117507390
+Cylinder #1 Left Exhaust Temp Sensor Failed Low Active	117507391
+Cylinder #2 Left Exhaust Temp Sensor Failed Low Inactive	117507392
+Cylinder #2 Left Exhaust Temp Sensor Failed Low Active	117507393
+Cylinder #3 Left Exhaust Temp Sensor Failed Low Inactive	117507394
+Cylinder #3 Left Exhaust Temp Sensor Failed Low Active	117507395
+Cylinder #4 Left Exhaust Temp Sensor Failed Low Inactive	117507396
+Cylinder #4 Left Exhaust Temp Sensor Failed Low Active	117507397
+Cylinder #5 Left Exhaust Temp Sensor Failed Low Inactive	117507398
+Cylinder #5 Left Exhaust Temp Sensor Failed Low Active	117507399
+Cylinder #6 Left Exhaust Temp Sensor Failed Low Inactive	117507400
+Cylinder #6 Left Exhaust Temp Sensor Failed Low Active	117507401
+Cylinder #7 Left Exhaust Temp Sensor Failed Low Inactive	117507402
+Cylinder #7 Left Exhaust Temp Sensor Failed Low Active	117507403
+Cylinder #8 Left Exhaust Temp Sensor Failed Low Inactive	117507404
+Cylinder #8 Left Exhaust Temp Sensor Failed Low Active	117507405
+Change Coolant Inactive	117507406
+Change Coolant Active	117507407
+Left Turbo Compressor Inlet Temp Sensor Failed High Inactive	117507430
+Left Turbo Compressor Inlet Temp Sensor Failed High Active	117507431
+Left Turbo Compressor Inlet Temp Sensor Failed Low Inactive	117507432
+Left Turbo Compressor Inlet Temp Sensor Failed Low Active	117507433
+RightTurbo Compressor Inlet Temp Sensor Failed High Inactive	117507436
+Right Turbo Compressor Inlet Temp Sensor Failed High Active	117507437
+Right Turbo Compressor Inlet Temp Sensor Failed Low Inactive	117507438
+Right Turbo Compressor Inlet Temp Sensor Failed Low Active	117507439
+High #1 Right Bank Cylinder Power Inactive	117507470
+High #1 Right Bank Cylinder Power Active	117507471
+High #2 Right Bank Cylinder Power Inactive	117507472
+High #2 Right Bank Cylinder Power Active	117507473
+High #3 Right Bank Cylinder Power Inactive	117507474
+High #3 Right Bank Cylinder Power Active	117507475
+High #4 Right Bank Cylinder Power Inactive	117507476
+High #4 Right Bank Cylinder Power Active	117507477
+High #5 Right Bank Cylinder Power Inactive	117507478
+High #5 Right Bank Cylinder Power Active	117507479
+High #6 Right Bank Cylinder Power Inactive	117507480
+High #6 Right Bank Cylinder Power Active	117507481
+High #7 Right Bank Cylinder Power Inactive	117507482
+High #7 Right Bank Cylinder Power Active	117507483
+High #8 Right Bank Cylinder Power Inactive	117507484
+High #8 Right Bank Cylinder Power Active	117507485
+Blowby Sensor Failed High Inactive	117507486
+Blowby Sensor Failed High Active	117507487
+Cylinder #1 Right Exhaust Temp Sensor Failed Low Inactive	117507490
+Cylinder #1 Right Exhaust Temp Sensor Failed Low Active	117507491
+Cylinder #2 Right Exhaust Temp Sensor Failed Low Inactive	117507492
+Cylinder #2 Right Exhaust Temp Sensor Failed Low Active	117507493
+Cylinder #3 Right Exhaust Temp Sensor Failed Low Inactive	117507494
+Cylinder #3 Right Exhaust Temp Sensor Failed Low Active	117507495
+Cylinder #4 Right Exhaust Temp Sensor Failed Low Inactive	117507496
+Cylinder #4 Right Exhaust Temp Sensor Failed Low Active	117507497
+Cylinder #5 Right Exhaust Temp Sensor Failed Low Inactive	117507498
+Cylinder #5 Right Exhaust Temp Sensor Failed Low Active	117507499
+Cylinder #6 Right Exhaust Temp Sensor Failed Low Inactive	117507500
+Cylinder #6 Right Exhaust Temp Sensor Failed Low Active	117507501
+Cylinder #7 Right Exhaust Temp Sensor Failed Low Inactive	117507502
+Cylinder #7 Right Exhaust Temp Sensor Failed Low Active	117507503
+Cylinder #8 Right Exhaust Temp Sensor Failed Low Inactive	117507504
+Cylinder #8 Right Exhaust Temp Sensor Failed Low Active	117507505
+Blowby Sensor Failed Low Inactive	117507506
+Blowby Sensor Failed Low Active	117507507
+Left Bank Intake Restriction Sensor Failed High Inactive	117507530
+Left Bank Intake Restriction Sensor Failed High Active	117507531
+Left Bank Intake Restriction Sensor Failed Low Inactive	117507532
+Left Bank Intake Restriction Sensor Failed Low Active	117507533
+Right Bank Intake Restriction Sensor Failed High Inactive	117507536
+Right Bank Intake Restriction Sensor Failed High Active	117507537
+Right Bank Intake Restriction Sensor Failed Low Inactive	117507538
+Right Bank Intake Restriction Sensor Failed Low Active	117507539
+Trend Data Memory Nearly Full Inactive	117507542
+Trend Data Memory Nearly Full Active	117507543
+Trend Data Memory Full Inactive	117507544
+Trend Data Memory Full Active	117507545
+Fault Log Snapshot Data Nearly Full Inactive	117507546
+Fault Log Snapshot Data Nearly Full Active	117507547
+Engine Speed Sensor Inactive	117507554
+Engine Speed Sensor Active	117507555
+Fault Log Snapshot Data Full Inactive	117507556
+Fault Log Snapshot Data Full Active	117507557
+Lubricating oil filters require changing Inactive	117507560
+Lubricating oil filters require changing Active	117507561
+Rapid rise in Intake Manifold Temperature LBF Inactive	117507614
+Rapid rise in Intake Manifold Temperature LBF Active	117507615
+Manual Trigger Inactive	117508048
+Manual Trigger Active	117508049
+Post Filter Oil Pressure Sensor Circuit - Voltage High Inactive	117510356
+Post Filter Oil Pressure Sensor Circuit - Voltage High Active	117510357
+Post Filter Oil Pressure Sensor Circuit - Voltage Low Inactive	117510358
+Post Filter Oil Pressure Sensor Circuit - Voltage Low Active	117510359
+Rapid rise in Intake Manifold Temperature LBR Inactive	117510362
+Rapid rise in Intake Manifold Temperature LBR Active	117510363
+Intake Manifold Air Temperature #3 Rapid Rise Inactive	117510364
+Intake Manifold Air Temperature #3 Rapid Rise Active	117510365
+Rapid rise in Intake Manifold Temperature RBR Inactive	117510366
+Rapid rise in Intake Manifold Temperature RBR Active	117510367
+Accelerator Pedal Inactive	117529344
+Accelerator Pedal Active	117529345
+Rail Inactive	117546240
+Rail Active	117546241
+Battery Potential Inactive	117549056
+Battery Potential Active	117549057
+Engine Speed Inactive	117554688
+Engine Speed Active	117554689
+ECM Hardware inactive	117516270
+ECM Hardware active	117516271
+Timing Actuator - Mechanically Stuck Inactive	117516272
+Timing Actuator - Mechanically Stuck Active	117516273
+Timing Actuator - Component Shorted High Inactive	117516274
+Timing Actuator - Component Shorted High Active	117516275
+Timing Actuator - Component Shorted Low Inactive	117516276
+Timing Actuator - Component Shorted Low Active	117516277
+Both Engine Speed and or Position Signal Lost Inactive	117516278
+Both Engine Speed and or Position Signal Lost Active	117516279
+Timing Rail Pressure Sensor Circuit Inactive	117516280
+Timing Rail Pressure Sensor Circuit Active	117516281
+Timing Rail Pressure Sensor Circuit Inactive	117516282
+Timing Rail Pressure Sensor Circuit Active	117516283
+Fuel Pump Pressure Sensor Circuit Inactive	117516284
+Fuel Pump Pressure Sensor Circuit Active	117516285
+Fuel Pump Pressure Sensor Circuit Inactive	117516286
+Fuel Pump Pressure Sensor Circuit Active	117516287
+One Engine Speed Signal Lost Intermitent Inactive	117516290
+One Engine Speed Signal Lost Intermitent Active	117516291
+Left Intake Manifold Pressure Sensor Failed High Inactive	117516292
+Left Intake Manifold Pressure Sensor Failed High Active	117516293
+Left Intake Manifold Pressure Sensor Failed Low Inactive	117516294
+Left Intake Manifold Pressure Sensor Failed Low Active	117516295
+High Intake Manifold Pressure Left Bank Inactive	117516296
+High Intake Manifold Pressure Left Bank Active	117516297
+Low Intake Manifold Pressure Left Bank Inactive	117516298
+Low Intake Manifold Pressure Left Bank Active	117516299
+High Intake Manifold Pressure Right Bank Inactive	117516300
+High Intake Manifold Pressure Right Bank Active	117516301
+Low Intake Manifold Pressure Right Bank Inactive	117516302
+Low Intake Manifold Pressure Right Bank Active	117516303
+Right Intake Manifold Pressure Sensor Failed High Inactive	117516304
+Right Intake Manifold Pressure Sensor Failed High Active	117516305
+Right Intake Manifold Pressure Sensor Failed Low Inactive	117516306
+Right Intake Manifold Pressure Sensor Failed Low Active	117516307
+Throttle Position - Component Shorted High Inactive	117516310
+Throttle Position - Component Shorted High Active	117516311
+Throttle Position - Component Shorted Low Inactive (J1587)	117516312
+Throttle Position - Component Shorted Low Active (J1587)	117516313
+Remote Throttle Position Sensor: CELECT Type Throttle Pedal Inactive	117516314
+Remote Throttle Position Sensor: CELECT Type Throttle Pedal Active	117516315
+Remote Throttle Position Sensor: CELECT Type Throttle Pedal Inactive	117516316
+Remote Throttle Position Sensor: CELECT Type Throttle Pedal Active	117516317
+Oil Pressure Sensor Failed High Inactive	117516318
+Oil Pressure Sensor Failed High Active	117516319
+Pre Oil Filter Pressure Sensor Failed High Inactive	117516320
+Pre Oil Filter Pressure Sensor Failed High Active	117516321
+Pre Oil Filter Pressure Sensor Failed Low Inactive	117516322
+Pre Oil Filter Pressure Sensor Failed Low Active	117516323
+Oil Pressure Sensor Failed Low Inactive	117516330
+Oil Pressure Sensor Failed Low Active	117516331
+Low Inactive Oil Pressure Inactive	117516334
+Low Inactive Oil Pressure Active	117516335
+Coolant Temperature Sensor Failed High Inactive	117516336
+Coolant Temperature Sensor Failed High Active	117516337
+Coolant Temperature Sensor Failed Low Inactive	117516338
+Coolant Temperature Sensor Failed Low Active	117516339
+Frequency Throttle Circuit Inactive	117516342
+Frequency Throttle Circuit Active	117516343
+Frequency Throttle Circuit Inactive	117516344
+Frequency Throttle Circuit Active	117516345
+High Coolant Temperature Inactive	117516350
+High Coolant Temperature Active	117516351
+Left Front Intake Manifold Temp Sensor Failed High Inactive	117516354
+Left Front Intake Manifold Temp Sensor Failed High Active	117516355
+Left Front Intake Manifold Temp Sensor Failed Low Inactive	117516356
+Left Front Intake Manifold Temp Sensor Failed Low Active	117516357
+High Intake Manifold Temp Left Front Inactive	117516358
+High Intake Manifold Temp Left Front Active	117516359
+Left Rear Intake Manifold Temp Sensor Failed High Inactive	117516360
+Left Rear Intake Manifold Temp Sensor Failed High Active	117516361
+Left Rear Intake Manifold Temp Sensor Failed Low Inactive	117516362
+Left Rear Intake Manifold Temp Sensor Failed Low Active	117516363
+High Intake Manifold Temp Left Rear Inactive	117516364
+High Intake Manifold Temp Left Rear Active	117516365
+Right Front Intake Manifold Temp Sensor Failed High Inactive	117516366
+Right Front Intake Manifold Temp Sensor Failed High Active	117516367
+Right Front Intake Manifold Temp Sensor Failed Low Inactive	117516370
+Right Front Intake Manifold Temp Sensor Failed Low Active	117516371
+High Intake Manifold Temp Right Front Inactive	117516372
+High Intake Manifold Temp Right Front Active	117516373
+Right Rear Intake Manifold Temp Sensor Failed High Inactive	117516374
+Right Rear Intake Manifold Temp Sensor Failed High Active	117516375
+Right Rear Intake Manifold Temp Sensor Failed Low Inactive	117516376
+Right Rear Intake Manifold Temp Sensor Failed Low Active	117516377
+High Intake Manifold Temperature Right Rear Inactive	117516378
+High Intake Manifold Temperature Right Rear Active	117516379
+Secondary Fuel Actuator-Component Shorted High Inactive	117516386
+Secondary Fuel Actuator-Component Shorted High Active	117516387
+Secondary Fuel Actuator-Mechanically Stuck Inactive	117516394
+Secondary Fuel Actuator-Mechanically Stuck Active	117516395
+OEM Connected Component Broadcasting Code Information Inactive	117516470
+OEM Connected Component Broadcasting Code Information Active	117516471
+Oil Temperature Sensor Failed High Inactive	117516472
+Oil Temperature Sensor Failed High Active	117516473
+Oil Temperature Sensor Failed Low Inactive	117516474
+Oil Temperature Sensor Failed Low Active	117516475
+High Oil Temperature Inactive	117516476
+High Oil Temperature Active	117516477
+Oil Temperature Low Inactive	117516478
+Oil Temperature Low Active	117516479
+Make-up Tank Oil Level Low Fault Inactive	117516486
+Make-up Tank Oil Level Low Fault Active	117516487
+Ambient Air Pressure Sensor Failed High Inactive	117516490
+Ambient Air Pressure Sensor Failed High Active	117516491
+Ambient Air Pressure Sensor Failed Low Inactive	117516492
+Ambient Air Pressure Sensor Failed Low Active	117516493
+Burn Value Solenoid Fault Inactive	117516494
+Burn Value Solenoid Fault Active	117516495
+Make-up Value Solenoid Fault Inactive	117516498
+Make-up Value Solenoid Fault Active	117516499
+Coolant Pressure Sensor Failed High Inactive	117516510
+Coolant Pressure Sensor Failed High Active	117516511
+Coolant Pressure Sensor Failed Low Inactive	117516512
+Coolant Pressure Sensor Failed Low Active	117516513
+Low Coolant Pressure Inactive	117516514
+Low Coolant Pressure Active	117516515
+Engine Overspeed Inactive	117516516
+Engine Overspeed Active	117516517
+Low Coolant Level Inactive	117516518
+Low Coolant level Active	117516519
+Oil Level Invalid (Sensor); Inactive	117516520
+Oil Level Invalid (Sensor); Active	117516521
+Multiple Unit Synchronization Inactive	117516522
+Multiple Unit Synchronization Active	117516523
+Oil Level Invalid (Sensor); Inactive	117516552
+Oil Level Invalid (Sensor); Active	117516553
+Low Oil Level Inactive	117516554
+Low Oil Level Active	117516555
+Fuel Shutoff Valve - Component Shorted Low Inactive	117516556
+Fuel Shutoff Valve - Component Shorted Low Active	117516557
+Fuel Shutoff Valve - Component Shorted High Inactive	117516558
+Fuel Shutoff Valve - Component Shorted High Active	117516559
+Fuel Shutoff Valve - Stuck Open (Mechanically) Inactive	117516566
+Fuel Shutoff Valve - Stuck Open (Mechanically) Active	117516567
+Fuel Temperature - Engine Protection Inactive	117516570
+Fuel Temperature - Engine Protection Active	117516571
+Fuel Temperature Sensor Circuit Inactive	117516574
+Fuel Temperature Sensor Circuit Active	117516575
+Fuel Temperature Sensor Circuit Inactive	117516578
+Fuel Temperature Sensor Circuit Active	117516579
+OEM Temperature - Engine Protection Inactive	117516632
+OEM Temperature - Engine Protection Active	117516633
+OEM Temperature Sensor Circuit Inactive	117516634
+OEM Temperature Sensor Circuit Active	117516635
+OEM Temperature Sensor Circuit Inactive	117516636
+OEM Temperature Sensor Circuit Active	117516637
+OEM Pressure - Engine Protection Inactive	117516640
+OEM Pressure - Engine Protection Active	117516641
+OEM Pressure Sensor Circuit Inactive	117516642
+OEM Pressure Sensor Circuit Active	117516643
+OEM Pressure Sensor Circuit Inactive	117516644
+OEM Pressure Sensor Circuit Active	117516645
+Engine Shut Down Without Proper Cool-down Inactive	117516646
+Engine Shut Down Without Proper Cool-down Active	117516647
+Fuel Pump Actuator Circuit Inactive	117516680
+Fuel Pump Actuator Circuit Active	117516681
+Fuel Pump Fueling Flow Mismatch Inactive	117516684
+Fuel Pump Fueling Flow Mismatch Active	117516685
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Inactive	117516732
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Active	117516733
+Eletronic Control Module Internal Communication Error Inactive	117516734
+Eletronic Control Module Internal Communication Error Active	117516735
+Eletronic Control Module Powerdown Error Inactive	117516740
+Eletronic Control Module Powerdown Error Active	117516741
+ECM EEPROM Write Error--Celect and Centry Only Inactive	117516754
+ECM EEPROM Write Error--Celect and Centry Only Active	117516755
+Ether Injection Circuit Inactive	117516816
+Ether Injection Circuit Active	117516817
+Public Data Link - Cannot Transmit Inactive	117516872
+Public Data Link - Cannot Transmit Active	117516873
+Public Data Link - not Fast Enough Inactive	117516876
+Public Data Link - not Fast Enough Active	117516877
+Oil Pressure - Engine Protection Inactive	117516878
+Oil Pressure - Engine Protection Active	117516879
+Oil Filter Bypass Valve Open Inactive	117516882
+Oil Filter Bypass Valve Open Active	117516883
+Coolant Level Sensor Invalid Inactive	117516892
+Coolant Level Sensor Invalid Active	117516893
+Timing Rail Pressure in Range Error Inactive	117516894
+Timing Rail Pressure in Range Error Active	117516895
+ECM Can Not Transmit on J1939 Datalink Inactive	117516900
+ECM Can Not Transmit on J1939 Datalink Active	117516901
+ECM Can Not Transmit on J1939 Datalink at Acceptable Rate Inactive	117516902
+ECM Can Not Transmit on J1939 Datalink at Acceptable Rate Active	117516903
+Throttle Pedal Idle Validation - Invalid Inactive	117516910
+Throttle Pedal Idle Validation - Invalid Active	117516911
+Throttle Pedal Idle Switch does not agree with throttle pot Inactive	117516912
+Throttle Pedal Idle Switch does not agree with throttle pot Active	117516913
+Battery Voltage Data Low Inactive	117516930
+Battery Voltage Data Low Active	117516931
+Battery Voltage - Above Normal Engine Range Inactive	117516932
+Battery Voltage - Above Normal Engine Range Active	117516933
+Throttle Pedal Sensor Supply Volt.-Data Below Normal Range Inactive	117516934
+Throttle Pedal Sensor Supply Volt.-Data Below Normal Range Active	117516935
+OEM Sensor Supply Volt.-Data Below Normal Range Inactive	117516936
+OEM Sensor Supply Volt.-Data Below Normal Range Active	117516937
+GSP Communication Failure Inactive	117516940
+GSP Communication Failure Active	117516941
+RPC Number Not Supported Inactive	117516942
+RPC Number Not Supported Active	117516943
+RPC Argument Mismatch Inactive	117516944
+RPC Argument Mismatch Active	117516945
+High Fuel Pressure Inactive	117516946
+High Fuel Pressure Active	117516947
+Fuel Pressure Sensor Failed High Inactive	117516950
+Fuel Pressure Sensor Failed High Active	117516951
+Fuel Pressure Sensor Failed Low Inactive	117516952
+Fuel Pressure Sensor Failed Low Active	117516953
+Fuel Control Valve-Component Shorted High or Open	117516958
+Fuel Control Valve-Component Shorted High or Open	117516959
+Timing Fueling Flow Mismatch	117516982
+Timing Fueling Flow Mismatch	117516983
+Fuel Railing Flow Mismatch	117516984
+Fuel Railing Flow Mismatch	117516985
+Very Low Oil Level	117516990
+Very Low Oil Level	117516991
+Ether Bottle is Empty	117517022
+Ether Bottle is Empty	117517023
+Auxiliary Speed input Error	117517026
+Auxiliary Speed input Error	117517027
+Multi-Unit Synchronous Switch Error	117517042
+Multi-Unit Synchronous Switch Error	117517043
+Fuel Control Valve - Component Shorted Low	117517070
+Fuel Control Valve - Component Shorted Low	117517071
+Fuel Control Valve - Mechanically Stuck Open	117517076
+Fuel Control Valve - Mechanically Stuck Open	117517077
+Aux (Transmission) Temp-Component Shorted High	117517090
+Aux (Transmission) Temp-Component Shorted High	117517091
+Aux (Transmission) Temp-Component Shorted Low	117517092
+Aux (Transmission) Temp-Component Shorted Low	117517093
+OEM-Intermediate (PTO) Speed Switch Validation Fault	117517094
+OEM-Intermediate (PTO) Speed Switch Validation Fault	117517095
+OEM-Alternate Droop Switch Validation Fault	117517096
+OEM-Alternate Droop Switch Validation Fault	117517097
+ECM not Calibrated - Use 111	117517098
+ECM not Calibrated - Use 111	117517099
+Solenoid A Error	117517102
+Solenoid A Error	117517103
+Solenoid B Error	117517106
+Solenoid B Error	117517107
+Idle Validation Circuit	117517150
+Idle Validation Circuit	117517151
+Fuel Cntrl Valve-Stuck Closed/High Inlet Rest. or Low Supply Press	117517152
+Fuel Cntrl Valve-Stuck Closed/High Inlet Rest. or Low Supply Press	117517153
+Fuel Rail Pressure Over Limits	117517154
+Fuel Rail Pressure Over Limits	117517155
+Fueling Rail Pressure Sensor Circuit	117517156
+Fueling Rail Pressure Sensor Circuit	117517157
+High Blowby Pressure Inactive	117517158
+High Blowby Pressure Active	117517159
+Engine Hot Shutdown Inactive	117517270
+Engine Hot Shutdown Active	117517271
+High Lube Filter Restriction Inactive	117517272
+High Lube Filter Restriction Active	117517273
+Non-zero Engine Speed at Power-up Inactive	117517278
+Non-zero Engine Speed at Power-up Active	117517279
+High Turbo Compressor Inlet Temperature Right Bank Inactive	117517280
+High Turbo Compressor Inlet Temperature Right Bank Active	117517281
+High Turbo Compressor Inlet Temperature Left Bank Inactive	117517282
+High Turbo Compressor Inlet Temperature Left Bank Active	117517283
+High Intake Restriction Left Bank Inactive	117517284
+High Intake Restriction Left Bank Active	117517285
+High Intake Restriction Right Bank Inactive	117517286
+High Intake Restriction Right Bank Active	117517287
+Low #1 Left Bank Cylinder Power Inactive	117517290
+Low #1 Left Bank Cylinder Power Active	117517291
+Low #2 Left Bank Cylinder Power Inactive	117517292
+Low #2 Left Bank Cylinder Power Active	117517293
+Low #3 Left Bank Cylinder Power Inactive	117517294
+Low #3 Left Bank Cylinder Power Active	117517295
+Low #4 Left Bank Cylinder Power Inactive	117517296
+Low #4 Left Bank Cylinder Power Active	117517297
+Low #5 Left Bank Cylinder Power Inactive	117517298
+Low #5 Left Bank Cylinder Power Active	117517299
+Low #6 Left Bank Cylinder Power Inactive	117517300
+Low #6 Left Bank Cylinder Power Active	117517301
+Low #7 Left Bank Cylinder Power Inactive	117517302
+Low #7 Left Bank Cylinder Power Active	117517303
+Low #8 Left Bank Cylinder Power Inactive	117517304
+Low #8 Left Bank Cylinder Power Active	117517305
+Intake Air Leak Left Bank Inactive	117517306
+Intake Air Leak Left Bank Active	117517307
+Low #1 Right Bank Cylinder Power Inactive	117517310
+Low #1 Right Bank Cylinder Power Active	117517311
+Low #2 Right Bank Cylinder Power Inactive	117517312
+Low #2 Right Bank Cylinder Power Active	117517313
+Low #3 Right Bank Cylinder Power Inactive	117517314
+Low #3 Right Bank Cylinder Power Active	117517315
+Low #4 Right Bank Cylinder Power Inactive	117517316
+Low #4 Right Bank Cylinder Power Active	117517317
+Low #5 Right Bank Cylinder Power Inactive	117517318
+Low #5 Right Bank Cylinder Power Active	117517319
+Low #6 Right Bank Cylinder Power Inactive	117517320
+Low #6 Right Bank Cylinder Power Active	117517321
+Low #7 Right Bank Cylinder Power Inactive	117517322
+Low #7 Right Bank Cylinder Power Active	117517323
+Low #8 Right Bank Cylinder Power Inactive	117517324
+Low #8 Right Bank Cylinder Power Active	117517325
+Intake Air Leak Right Bank Inactive	117517326
+Intake Air Leak Right Bank Active	117517327
+High #1 Left Bank Cylinder Exhaust Temperature Inactive	117517330
+High #1 Left Bank Cylinder Exhaust Temperature Active	117517331
+High #2 Left Bank Cylinder Exhaust Temperature Inactive	117517332
+High #2 Left Bank Cylinder Exhaust Temperature Active	117517333
+High #3 Left Bank Cylinder Exhaust Temperature Inactive	117517334
+High #3 Left Bank Cylinder Exhaust Temperature Active	117517335
+High #4 Left Bank Cylinder Exhaust Temperature Inactive	117517336
+High #4 Left Bank Cylinder Exhaust Temperature Active	117517337
+High #5 Left Bank Cylinder Exhaust Temperature Inactive	117517338
+High #5 Left Bank Cylinder Exhaust Temperature Active	117517339
+High #6 Left Bank Cylinder Exhaust Temperature Inactive	117517340
+High #6 Left Bank Cylinder Exhaust Temperature Active	117517341
+High #7 Left Bank Cylinder Exhaust Temperature Inactive	117517342
+High #7 Left Bank Cylinder Exhaust Temperature Active	117517343
+High #8 Left Bank Cylinder Exhaust Temperature Inactive	117517344
+High #8 Left Bank Cylinder Exhaust Temperature Active	117517345
+Change Oil and Filter Inactive	117517346
+Change Oil and Filter Active	117517347
+High #1 Right Bank Cylinder Exhaust Temperature Inactive	117517350
+High #1 Right Bank Cylinder Exhaust Temperature Active	117517351
+High #2 Right Bank Cylinder Exhaust Temperature Inactive	117517352
+High #2 Right Bank Cylinder Exhaust Temperature Active	117517353
+High #3 Right Bank Cylinder Exhaust Temperature Inactive	117517354
+High #3 Right Bank Cylinder Exhaust Temperature Active	117517355
+High #4 Right Bank Cylinder Exhaust Temperature Inactive	117517356
+High #4 Right Bank Cylinder Exhaust Temperature Active	117517357
+High #5 Right Bank Cylinder Exhaust Temperature Inactive	117517358
+High #5 Right Bank Cylinder Exhaust Temperature Active	117517359
+High #6 Right Bank Cylinder Exhaust Temperature Inactive	117517360
+High #6 Right Bank Cylinder Exhaust Temperature Active	117517361
+High #7 Right Bank Cylinder Exhaust Temperature Inactive	117517362
+High #7 Right Bank Cylinder Exhaust Temperature Active	117517363
+High #8 Right Bank Cylinder Exhaust Temperature Inactive	117517364
+High #8 Right Bank Cylinder Exhaust Temperature Active	117517365
+Change Fuel Filter Inactive	117517366
+Change Fuel Filter Active	117517367
+High #1 Left Bank Cylinder Power Inactive	117517370
+High #1 Left Bank Cylinder Power Active	117517371
+High #2 Left Bank Cylinder Power Inactive	117517372
+High #2 Left Bank Cylinder Power Active	117517373
+High #3 Left Bank Cylinder Power Inactive	117517374
+High #3 Left Bank Cylinder Power Active	117517375
+High #4 Left Bank Cylinder Power Inactive	117517376
+High #4 Left Bank Cylinder Power Active	117517377
+High #5 Left Bank Cylinder Power Inactive	117517378
+High #5 Left Bank Cylinder Power Active	117517379
+High #6 Left Bank Cylinder Power Inactive	117517380
+High #6 Left Bank Cylinder Power Active	117517381
+High #7 Left Bank Cylinder Power Inactive	117517382
+High #7 Left Bank Cylinder Power Active	117517383
+High #8 Left Bank Cylinder Power Inactive	117517384
+High #8 Left Bank Cylinder Power Active	117517385
+Change Coolant Filter Inactive	117517386
+Change Coolant Filter Active	117517387
+Cylinder #1 Left Exhaust Temp Sensor Failed Low Inactive	117517390
+Cylinder #1 Left Exhaust Temp Sensor Failed Low Active	117517391
+Cylinder #2 Left Exhaust Temp Sensor Failed Low Inactive	117517392
+Cylinder #2 Left Exhaust Temp Sensor Failed Low Active	117517393
+Cylinder #3 Left Exhaust Temp Sensor Failed Low Inactive	117517394
+Cylinder #3 Left Exhaust Temp Sensor Failed Low Active	117517395
+Cylinder #4 Left Exhaust Temp Sensor Failed Low Inactive	117517396
+Cylinder #4 Left Exhaust Temp Sensor Failed Low Active	117517397
+Cylinder #5 Left Exhaust Temp Sensor Failed Low Inactive	117517398
+Cylinder #5 Left Exhaust Temp Sensor Failed Low Active	117517399
+Cylinder #6 Left Exhaust Temp Sensor Failed Low Inactive	117517400
+Cylinder #6 Left Exhaust Temp Sensor Failed Low Active	117517401
+Cylinder #7 Left Exhaust Temp Sensor Failed Low Inactive	117517402
+Cylinder #7 Left Exhaust Temp Sensor Failed Low Active	117517403
+Cylinder #8 Left Exhaust Temp Sensor Failed Low Inactive	117517404
+Cylinder #8 Left Exhaust Temp Sensor Failed Low Active	117517405
+Change Coolant Inactive	117517406
+Change Coolant Active	117517407
+Left Turbo Compressor Inlet Temp Sensor Failed High Inactive	117517430
+Left Turbo Compressor Inlet Temp Sensor Failed High Active	117517431
+Left Turbo Compressor Inlet Temp Sensor Failed Low Inactive	117517432
+Left Turbo Compressor Inlet Temp Sensor Failed Low Active	117517433
+RightTurbo Compressor Inlet Temp Sensor Failed High Inactive	117517436
+Right Turbo Compressor Inlet Temp Sensor Failed High Active	117517437
+Right Turbo Compressor Inlet Temp Sensor Failed Low Inactive	117517438
+Right Turbo Compressor Inlet Temp Sensor Failed Low Active	117517439
+High #1 Right Bank Cylinder Power Inactive	117517470
+High #1 Right Bank Cylinder Power Active	117517471
+High #2 Right Bank Cylinder Power Inactive	117517472
+High #2 Right Bank Cylinder Power Active	117517473
+High #3 Right Bank Cylinder Power Inactive	117517474
+High #3 Right Bank Cylinder Power Active	117517475
+High #4 Right Bank Cylinder Power Inactive	117517476
+High #4 Right Bank Cylinder Power Active	117517477
+High #5 Right Bank Cylinder Power Inactive	117517478
+High #5 Right Bank Cylinder Power Active	117517479
+High #6 Right Bank Cylinder Power Inactive	117517480
+High #6 Right Bank Cylinder Power Active	117517481
+High #7 Right Bank Cylinder Power Inactive	117517482
+High #7 Right Bank Cylinder Power Active	117517483
+High #8 Right Bank Cylinder Power Inactive	117517484
+High #8 Right Bank Cylinder Power Active	117517485
+Blowby Sensor Failed High Inactive	117517486
+Blowby Sensor Failed High Active	117517487
+Cylinder #1 Right Exhaust Temp Sensor Failed Low Inactive	117517490
+Cylinder #1 Right Exhaust Temp Sensor Failed Low Active	117517491
+Cylinder #2 Right Exhaust Temp Sensor Failed Low Inactive	117517492
+Cylinder #2 Right Exhaust Temp Sensor Failed Low Active	117517493
+Cylinder #3 Right Exhaust Temp Sensor Failed Low Inactive	117517494
+Cylinder #3 Right Exhaust Temp Sensor Failed Low Active	117517495
+Cylinder #4 Right Exhaust Temp Sensor Failed Low Inactive	117517496
+Cylinder #4 Right Exhaust Temp Sensor Failed Low Active	117517497
+Cylinder #5 Right Exhaust Temp Sensor Failed Low Inactive	117517498
+Cylinder #5 Right Exhaust Temp Sensor Failed Low Active	117517499
+Cylinder #6 Right Exhaust Temp Sensor Failed Low Inactive	117517500
+Cylinder #6 Right Exhaust Temp Sensor Failed Low Active	117517501
+Cylinder #7 Right Exhaust Temp Sensor Failed Low Inactive	117517502
+Cylinder #7 Right Exhaust Temp Sensor Failed Low Active	117517503
+Cylinder #8 Right Exhaust Temp Sensor Failed Low Inactive	117517504
+Cylinder #8 Right Exhaust Temp Sensor Failed Low Active	117517505
+Blowby Sensor Failed Low Inactive	117517506
+Blowby Sensor Failed Low Active	117517507
+Left Bank Intake Restriction Sensor Failed High Inactive	117517530
+Left Bank Intake Restriction Sensor Failed High Active	117517531
+Left Bank Intake Restriction Sensor Failed Low Inactive	117517532
+Left Bank Intake Restriction Sensor Failed Low Active	117517533
+Right Bank Intake Restriction Sensor Failed High Inactive	117517536
+Right Bank Intake Restriction Sensor Failed High Active	117517537
+Right Bank Intake Restriction Sensor Failed Low Inactive	117517538
+Right Bank Intake Restriction Sensor Failed Low Active	117517539
+Trend Data Memory Nearly Full Inactive	117517542
+Trend Data Memory Nearly Full Active	117517543
+Trend Data Memory Full Inactive	117517544
+Trend Data Memory Full Active	117517545
+Fault Log Snapshot Data Nearly Full Inactive	117517546
+Fault Log Snapshot Data Nearly Full Active	117517547
+Engine Speed Sensor Inactive	117517554
+Engine Speed Sensor Active	117517555
+Fault Log Snapshot Data Full Inactive	117517556
+Fault Log Snapshot Data Full Active	117517557
+Lubricating oil filters require changing Inactive	117517560
+Lubricating oil filters require changing Active	117517561
+Rapid rise in Intake Manifold Temperature LBF Inactive	117517614
+Rapid rise in Intake Manifold Temperature LBF Active	117517615
+Manual Trigger Inactive	117518048
+Manual Trigger Active	117518049
+Post Filter Oil Pressure Sensor Circuit - Voltage High Inactive	117520356
+Post Filter Oil Pressure Sensor Circuit - Voltage High Active	117520357
+Post Filter Oil Pressure Sensor Circuit - Voltage Low Inactive	117520358
+Post Filter Oil Pressure Sensor Circuit - Voltage Low Active	117520359
+Rapid rise in Intake Manifold Temperature LBR Inactive	117520362
+Rapid rise in Intake Manifold Temperature LBR Active	117520363
+Intake Manifold Air Temperature #3 Rapid Rise Inactive	117520364
+Intake Manifold Air Temperature #3 Rapid Rise Active	117520365
+Rapid rise in Intake Manifold Temperature RBR Inactive	117520366
+Rapid rise in Intake Manifold Temperature RBR Active	117520367
+Accelerator Pedal Inactive	117539344
+Accelerator Pedal Active	117539345
+Rail Inactive	117556240
+Rail Active	117556241
+Battery Potential Inactive	117559056
+Battery Potential Active	117559057
+Engine Speed Inactive	117564688
+Engine Speed Active	117564689

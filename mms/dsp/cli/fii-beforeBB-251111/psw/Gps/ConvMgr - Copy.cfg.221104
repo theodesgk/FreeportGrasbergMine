@@ -1,0 +1,12 @@
+%!/psw/cpp
+/*
+ * This version of ConvMgr.cfg is
+ * for use on DELite
+ */
+metricunits 1
+conlong 117.41369881
+conlat  0.59251143
+conminex 88900.000
+conminey 198700.000
+scale	1
+rotate	-0.00129115

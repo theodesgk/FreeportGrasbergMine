@@ -1,0 +1,530 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1996
+..               All Rights Reserved
+..  $RCSfile: Forms.Descript,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:04 $
+..    $State: Exp $
+..
+
+Complete /dsp/form/engl list of file descriptions.
+Some of these forms are called by or included in other forms. 
+Obsolete or inactive forms may be included in this list.  
+(P=Pit, Sh=Shift, Dr=Drill)   Note: file is 132 columns wide.
+
+
+FORM NAME:      DESCRIPTION:
+================================================================================
+act_comm	saves communications data in text file, extension to ACT_DISPATCH (P)
+act_dispatch	generic DISPATCH transaction processing expressions (P)
+act_except	exception screen event handling interface, receives exceptions from DBMSD data base callback socket (P)
+act_goic	goic status definitions 
+act_gps		handle incoming GPS transactions, periodically broadcast outgoing GPS data base updates (P)
+act_psw		open DISPATCH connection to packet switcher network
+all_status_pie	get reason frequencies and total duration by unit, status and reason (Sh) 
+allall 		truck & shovel status, priority, operator, and location; includes allowable material types at dump or crusher (P)
+allaux		auxiliary equipment by type and status (P)
+allavail_graph 	graphical report for truck & shovel percent availability (Sh) 
+allbays		allowable material types at dump or crusher with feed rate, capacity, dumptime, bay, operator, status (P)
+alldumps	summary of all dumping locations (P)
+allequip	display equipment by type, fleet or status; includes id, operator, action, location, status, code and reason (P)
+allloc		display locations summary (P)
+allshops	display shops by status and type (P)
+allshv		display shovels by status; includes operator, action, location, material, station, digging rate, priority (P)
+allshv1		display shovels by status; includes number of shovels by status (P)
+allshvmaint 	shovel maintenance to change id, operator, action, location, status, code, reason, comments; show by status (P)
+alltrks		display trucks by status; includes operator, assignment, location, fuel, load, station, lock/bar (P)
+alltrks1	display trucks by status; includes number of trucks by status (P)
+alltrksmaint	truck maintenance to change id, operator, action, location, status, code, reason, comments; show by status (P) 
+allworkers	change worker status; includes name, id, status, assignment, qualifications, crew (P)
+amcalarm	truck vital signs monitor: action, status, location, engine rpm, speed, oil pressure, engine running, tray up (P)
+amcalarmrep	truck vital signs report: equipment, time, current & next location, rmp, mph, psi, engine running, tray up (Sh) 
+amccustomrep 	menu display or print truck vital signs report by shift (Sh)
+amcqueue	shop & crusher queues; includes %feed versus capacity, tph (P) 
+argv		standard parsing functions for command line arguments (P or Sh)
+auto_digrate	graphical shovel dynamic dig rates (Sh)
+auto_feedrate	graphical shovel dynamic feed rates (Sh)
+auto_frequencies	graphical flow of trucks through the shovels (Sh)
+auto_loadhour	graphical hourly dumped production (Sh)
+auto_lptrucks	graphical LP required and actual trucks (P)
+auto_trkdisp	graphical time average number of trucks (Sh)
+auxmod		change auxilliary equipment utility; includes crew, operator, location, status, equipment type, action (P)
+auxstatchng	auxilliary equipment status changes (Sh) 
+avail		expressions included in other forms: avail_graph_sets, cci_benchmark, sum_tfuel, sum_truck2, trk_cycle_oper_fleet
+avail_g1	graphical report for truck & shovel percent availability (Sh) 
+avail_graph	graphical report for truck & shovel percent availability (Sh)
+avail_graph_sets	used with graphical reports; gives title and time type (Sh)
+avial		availability detail report by fleet (Sh) 
+bar		utility to bar/unbar trucks from shovels, dumps/shops, or from material types (P) 
+bargrade	utility to bar/unbar dumps by grade (P) 
+batch		keeps "REPORTS" called by keypad from closing printer (P or Sh) 
+batchblendbycomp	batch blend by component; used with blendmod.frm (P) 
+bit_holes	accumulated holes/feet drilled by bit (Dr) 
+bit_holes_dates		holes/feet drilled by bit in date range (Dr) 
+bit_hours	accumulated hours drilled by bit (Dr) 
+bit_hours_dates		hours drilled by bit in date range (Dr) 
+blastchng	utility to change blast info; used with blastmod.frm (Dr) 
+blastmod	change blast id, loads or delete (Dr) 
+blendmod	change blend utility; includes continuous blending by component or category, batch blending by component (P)
+breaks		change breaks and scheduled events (P)
+broad		provide broadcast command for transmitting packets to a selected group of equipment (P) 
+broadcast	provide broadcast command for transmitting packets to a selected group of equipment (P) 
+calendar	calendar form within DISPATCH (P) 
+center		general purpose expression to center a string for display (P or Sh) 
+cgrade		utility to change grade, material, blend over date range (P) 
+change_equipment_size	change the size variable of trucks that match the fleet type entered by the user (Sh) 
+chng_unit	change the unit type of a location without deleting the location (P)
+cli_reasons	given a reason type (delay, down or spare) return a default time category (P or Sh) 
+codes		define code and status variables for use in reports; included in pitstats and rep_sumreport forms (P or Sh)
+color_example	escape sequences for displaying text on ascii terminals (color, bold, underline, reverse) (P or Sh) 
+combine		combine three shift files into two (Sh) 
+combine_expr	contains expressions used by the combine utility (Sh) 
+comfiles	truck, shovel and crusher communication file utility (P) 
+comm_byeqmt	communications report by equipment (P) 
+comm_byeqmt_radio_sum	communications summary report by equipment (radios only) (P) 
+comm_byeqmt_sign_sum	communications summary report by equipment (beacons only) (P) 
+comm_byloc_radio	communications report by location (radios only) (P) 
+comm_byloc_sign		communications report by location (beacons only) (P) 
+comm_byloc_sign_sum	communications report by location (beacons only) (P) 
+comm_incl	include file for things to be shared between communications routines (P) 
+commdef		load up communication data into totals (P)
+commstats	menu to run communications system status reports (P)
+config		utility to update configuration data base (P) 
+contblendbycat	continuous blending by category (P) 
+contblendbycomp		continuous blending by component (P)
+customrep	custom reports utility to select:  shovel/truck load, shovel/truck dump, truck material hours (Sh)
+cummins_test	PSW transaction form for processing ddec alarms (P) 
+db_drill	drill data base definition file (Dr) 
+db_expense	expense data base definition file (expense) 
+db_gps_data	gps data base definition file (gps) 
+db_inv		inventory data base definition file (inventory)	
+db_pit		real-time pit data base definition file (P) 
+db_plan		plan utility include form
+db_shift	shift data base definition file (Sh) 
+db_simparms	simulation events data base definition file (Sh) 
+db_sum		summary data base definition file (sum) 
+db_timesheet	timesheet data base definition file (tmsheet) 
+db_tire		tire data base definition file (tire) 
+db_tire41	V4.1 tire data base definition file (tire)
+dbbtest		FORMS expressions necessary for the Browser tcl code (P or Sh)
+dbclean		clean PIT, SHIFT, and SUMMARY data base files (P or Sh)
+dbcopy		data base copy utility 
+dbhdr		DBINI file used to create pitdef.h, shiftdef.h & sumdef.h data bases; declares dummy enum types for USERDB modules
+dbhdrcli	similar to DBHDR; includes client-specific header file instead of the standard one 
+dbini		data base definition module, executed right after formini.frm
+dbsignal	define dbmsd message signal numbers in one place so they do not conflict with each other (P)
+degrees		convert temperature between Farenheit and Celcius 
+delim		not used 
+digfactor_menu		compute dig factors over date range (Sh) 
+digi		digitizer interface forms 
+digrate_stats	shovel dig rate statistics (Sh)
+dispatch	DISPATCH utility; includes truck, shovel, aux, dumps, shops, locks, priorities, restrictions, pitstats reports (P)
+display		utility to display status screens for lproute, tiedownqueues, dump queues, shop queues, lpstatus (P)
+dist		displays road distances and grades (P) 
+do_pstates	build a nil total for all state changes plus start of shift info (Sh) 
+drill		menu for drill forms (Dr)		 
+drill_bar_client	specify client specific parameters for drill bar graphs (Dr) 
+drill_bar_config	specify range and color configuration for drill bar graphs (Dr) 
+drill_bar_graph		bar chart of multiple drill holes (Dr) 
+drill_bit	utility to enter and track drill bits (Dr) 
+drill_bitrep	drill bit transaction report with depths/times at start/end (Dr) 
+drill_bittrans	utility to create/modify drill bit transactions (Dr) 
+drill_config	generic drill utility configuration form (Dr) 
+drill_config_old	old generic drill utility configuration form (Dr) 
+drill_create	calculate depths/times for current transactions and copy last months data base to this month (Dr)
+drill_filter	modify afilter values from a form; send values to drills each time they power up (~ ashaft values) (Dr)
+drill_graph	support graphs for drill hole data (Dr)		 
+drill_hls	drill holes report over date range (Dr) 
+drill_hole	create/modify drill hole transactions (Dr) 
+drill_hole2	create/modify drill hole transactions for clients with no drill panels; can enter mass hole data (Dr)
+drill_hrs	drill hours report over date range (Dr)	 
+drill_partrep	drill part report over date range with part id, drill, depth, time (Dr)
+drill_prod	drill times and production report with feet, holes, penetration rate (Dr) 
+drill_profile	drill hole profile report with depth, penetration rate, RPM, rotary amps, down & bit air pressure (Dr) 
+drill_rep1	drill depths/hours by bit with total depths/drill times (Dr) 
+drill_rep2	drill depths/hours by drill with total depths/drill times (Dr)
+drill_rep3	bit transaction history with depths/times at start/end of each transaction (Dr) 
+drill_rep4	drill bit report by model/manufacturer (Dr) 
+drill_rep5	drill report by model/manufacturer (Dr) 
+drill_report	sub-menu to select drill reports (Dr) 
+drill_shaft	shaft encoder parameters (Dr) 
+drill_shiftrep	generic multi-shift drill report to be used with other forms (Dr) 
+drill_stab	enter drill stabilizer data (Dr) 
+drill_stabtrans		drill stabilizer transactions (Dr) 
+drill_steel	enter drill steel data (Dr) 
+drill_steeltrans	drill steel transactions (Dr) 
+drilldat	change drill id, blast, load, depth or tons (Dr) 
+dump_coverage	graphical flow of trucks through the dumps (Sh)
+e_vsms		shows VSMS alarms for shovels (P)	
+end		displays pit statistics utility (P) 
+enum_action	definitions of standard `ACTION' enums (P or Sh)
+enum_status	definitions of "STATUS" enumerated variables (P or Sh) 
+enum_unit	definitions of "UNIT" enumerated variables (P or Sh)
+eqmt_fuel	fuel use for trucks, shovels, auxilliary equipment (Sh)	
+event		event manager manifest constants
+excavlpinfo	shovel LP information with dump lock, location, pit, material, grade, rate, spot and status (P)
+except		exception screen menus (P)
+except_save	exception screen menus; includes slope monitoring system messages (P) 
+exception	ANSI terminal exception screen (P)
+exceptnews	NeWS window exception screen (P) 
+exceptsun	SunView window exception screen (P)
+exclude		not used
+exp_clean	utility to clean the expense data base (expense) 
+exp_currency	site expense utility to show currency exchange rates (expense) 
+exp_mod		change expense id, item date, category, currency, amount, receive, purchaser (expense)	
+exp_mod2	change expense info; option to set all charges to "yes" and charge amounts to amount ? (expense) 
+exp_personnel	change personnel name, position or delete (expense) 
+exp_rep1	shows expense amount and category over date range (expense) 
+exp_rep2	shows expense info and amount due employee (expense) 
+exp_rep3	shows expense info and amounts charged to clients (expense) 
+exp_rep4	shows expense info and amounts charged to clients with subtotals (expense) 
+exp_report	site expense report; includes cash/credit, airline, lodging, meals, auto, phone, entert., miles, tips (expense) 
+exp_utility	menu to select expense utilities (expense) 
+extra_vs_idle	graphical idle shovels vs. queueing trucks (Sh)
+formcolor	color terminal FORMS initialization file
+formgui		crttool/OpenWindows FORMS initialization file
+formini		monochrome terminal FORMS initialization file
+formininews	NeWS window system FORMS initialization file
+forminisun	SunView environment FORMS initialization file
+formsun		Sun Formini environment FORMS initialization file 
+formtcl		TclTalk interface expressions 
+formtester	general purpose screen to call forms from 
+fuel_usage	fuel usage calculations used by ACT$DISPATCH (P)
+fullshov	shovel utility (P) 
+fulltruck	truck utility (P)  
+gendigfactors	historical dig rates/factors (Sh) 
+gps		GPS utility; includes truck and shovel locations (gps) 
+gps_config	define all constants needed to initialize map transformations used by clients of MMS (gps)
+gps_conversions		form to provide conversion between Longitude/Latitude, Mine Coordinates, and Gps Grid Coordinates (gps)
+gps_data_display	read and process database GPS information (gps) 
+gps_find_shovel		find Shovel Location (gps)
+gps_path_convert	read and process database GPS information for Pit Graphics (gps) 
+gps_query		allow user to query any truck with GPS as to its current location (gps) 
+gps_status_report	prepare GPS status report (gps) 
+grade		grade utility (P)
+graph_reports	graphic reports utility (Sh) 
+graphics	5.0 Graphics; includes Graphics Configuration Data Base and cleaning
+help		explains how to enter a form name in the DISPATCH Utility 
+help_action	used in various forms to give status or query message for actions 
+help_exprs	help include form 
+help_exprs_export	help include form with export expressions 
+help_include	misc details utilized with the `help_select' form
+help_menus	pull down menus for crttool 
+help_select	provide form to return a help value selected from a screen
+hist_tkph    Generic tmph/thph monitoring (P)
+hst_auxavl	histogram auxiliary equipment availabilities report (Sh)
+hst_dig		histogram shovel loading times report (Sh)
+hst_exavl	histogram shovel availabilities report (Sh)
+hst_exdig	histogram shovel digging rates report (Sh) 
+hst_exhrs	histogram excavator hours report (Sh)
+hst_exload	histogram loads/shovel report (Sh)
+hst_idle	histogram truck idle time in minutes/load (Sh)
+hst_shovelidlefreq	histogram which displays shovel idle time duration frequency plot (Sh)
+hst_tkavl	histogram truck availabilities report (Sh)
+hst_tkhrs	histogram truck hours report (Sh)
+hst_tkidle	truck idle time in minutes/load report (Sh) 
+hst_tkload	histogram loads/truck report (Sh)
+hst_travtime	empty travel times in minutes; includes longest, shortest and average times (P) 
+ifnew		scan a shift data base for new records (Sh) 
+ind_statbydur	equipment status report across a range of dates (Sh) 
+info_config	included in info_except.frm to provide supporting expressions (P) 
+info_except	guidelines on how to enter exceptions in DISPATCH (P) 
+info_menu	menu for info on running the DISPATCH, answers to problems (P)
+info_shiftsetup		guidelines on steps the dispatcher must perform prior to starting his shift (P) 
+info_unused	guidelines on how to get DISPATCH to stop UNUSING a shovel (P) 
+info_wrongdump	guidelines on how to get DISPATCH to send trucks to the correct dumping location (P) 
+info_wrongshov	guidelines on how to get DISPATCH send trucks to selected shovels (P) 
+inv_create	create new inventory records 
+inv_list	view inventory records by shift
+inv_modify	modify inventories 
+inv_surveys	list the month's surveys for an ID 
+inv_view	displays an inventory record 
+invenmod	inventory utility (Sh)
+irexcept	exception menus to add to except.frm for IR logic implementation
+key100		keypad for vt100 terminal 
+key220		keypad for vt220 terminal
+key_baduser	displays error message "This account is not allowed to use THIS terminal" 
+key_captive	displays message "One moment please..." 
+key_keypad	keypad to access dispatch
+key_nopriv	displays message "No PRIVILEGE file exists for this account" 
+keybutton	version of keypad 
+keycolor	generic DISPATCH color keypad for a vt200 terminal 
+keynews		NeWS keypad with buttons
+keysun		SunView FORM selection utility 
+liftrep		blast to dump lift report 
+lineup		modify lineup crew (P)
+loading		vertical bargraph shovel dig rate display; white color bar (P)
+loading_col	vertical bargraph shovel dig rate display; red color bar (P)
+lock		lock utility for trucks and shovels (P)
+lock1		lock summary for trucks and shovels (P)
+locmod		location utility; add/modify pits or regions (P)
+locmod_digi	locmod utility to define pit or region locations (P)
+log		equipment login/logoff report over date range 
+lpcall		LP call summary 
+lpconfigmod	linear programming configuration menu
+lpglobparam	LP global parameters 
+lpmatchstats_rep	shovel feed rate analysis (P)
+lpstatus	equipment status (P)
+lpsumry		LP summary report 
+lptons_assignedtons	graphical dynamic flow of trucks through the shovels (Sh)
+mail		DISPATCH mail system 
+mail_andy	test mail system 
+mail_dumb	DISPATCH mail system; without password change capability 
+mail_recept	DISPATCH mail system; includes VPX, timesheet information 
+mailini		monochrome terminal FORMS initialization file 
+manrep_config	management report configuration parameters (P or Sh)
+manrep_include	included in pit_manrep, sum_m (P or Sh)
+menu_symbols	popup menus for commonly used FORMS symbols (P)
+menus		pull down menu expressions for crttool
+more		initializes MORE:=1 
+mult_idle_crew		graphical report, shovels waiting for trucks by crew (Sh)
+mult_idle_fleet_shf	graphical report, shovels waiting for trucks by fleet/shift (Sh)
+mult_idle_fleetcrew	graphical report, shovels waiting for trucks by fleet/crew (Sh)
+mult_idle_shf		graphical report, shovels waiting for trucks by fleet/shift (Sh)
+mult_physical_available_trucks	graphical report, average number of available trucks 
+mult_production_crew	graphical report, crew production (Sh)
+mult_production_shf	graphical report, shovel production by shift/fleet (Sh)
+mult_production_shift	graphical report, shift production (Sh)
+mult_productivity_shf	graphical report, shovel production by shift/fleet (Sh)
+mult_queue_crew		graphical report, truck queueing time by crew (Sh)
+mult_queue_shf		graphical report, trucks waiting at shovels by shift (Sh)
+netcpu		display CPU status of a list of machines in network 
+new_graph_profile	plot drill hole profiles; includes penetration rate, pulldown pressure, rotary pressure versus hole depth
+news_config	generic version of the client specific news include form
+news_graph	NeWS graphing expressions 
+news_item	expressions to support NeWS items, buttons, etc.
+news_menu	NeWS generic menus 
+news_pit	NeWS pit graphing expressions (P)
+news_pitgraphics	pit display form (P)
+news_pitstats	pit statistics utility (P) 
+news_qdrt	double real time queueing display (P)
+news_qrt	real time queueing display (P) 
+news_qshift	historical queueing display (Sh) 
+news_qshiftload		historical queueing display for loads (Sh)
+news_top	NeWS demonstration menu
+news_vavl	avaliability piechart and histogram (Sh) 
+news_vex	display shovel loads histgram (Sh) 
+news_vfleet	display double availability histogram (Sh) 
+news_vlp	LP solution histogram for the shift (Sh) 
+news_vover	Lp solution histogram (P)
+news_vshov	material capacities real-time form (P)
+news_vtk	truck loads histogram (Sh) 
+news_vtruck	in-route trucks histogram (P) 
+one_status_pie	display reason frequencies and total duration by unit, status and reason (Sh)
+p_aux		auxilliary equipment panel id utility (P)
+p_excav		shovel panel id utility (P)
+p_loc		panel id location utility (P
+p_truck		truck panel id utility (P)
+panel_util	panel test utility 
+panelid		panel id utility menu (P)
+pcm_info	pit control monitor utility (P) 
+pcm_rep		pit control monitor report (Sh) 
+perform_menu	performance analysis utility menu (Sh)
+perform_multiple	multiple shift performance analysis utility menu (Sh)
+perform_multiple2	more graphical reports option from perform_multiple.frm menu (Sh)
+phauls		provide all load and dump information to thauls.frm (Sh)
+pit_excav	shovel status report; includes min/load, loads, hours (Sh)
+pit_exload	shovel load detail report; includes location, floorstock, dump, ore, grade (Sh)
+pit_fuel	fuel status report; includes equipment id, duration, diesel (Sh)
+pit_hourcr 	hourly location tonnage (Sh)	
+pit_hourld	hourly shovel load counts (Sh)
+pit_hourtk	hourly truck load counts (Sh) 
+pit_hourtn	hourly shovel tonnage (Sh) 
+pit_invtk	availability detail report (Sh) 
+pit_lpcall	LP call summary (P)
+pit_manrep	management shift report (Sh)
+pit_shovelidle	report for total truck idle time at each shovel (Sh)
+pit_status	equipment status summary (Sh) 
+pit_truck	truck status report (Sh)
+pitgrams	pit histograms utility (P)
+pitlpinfo	pit LP information (P) 
+pitstats	pit statistics utility (Sh)
+plan		plan and inventory menu
+plan_convert	convert plan utility
+planmod		plan utility
+print_trans	print transactions from view_trans.frm (Sh) 
+printers	printer setup form; used to define and keys to print selected forms
+profile		expression to yield a heading or message 
+pstates		provide all state changes plus the beginning of shift info (Sh)
+psw-debug	packet switcher debug screen
+psw-gps		packet switcher debug screen; includes green text add ons for logging GPS information
+psw-log		log packet switcher debug screen from background process
+psw-restart	DISPATCH restart form (only for UNIX)
+que_dump	dump queues (P) 
+que_monitor generic form to replace que_dump, que_shop, quie_tiedown (P)
+que_shop	shop queues (P)
+que_tiedown	tiedown queues (P) 
+queueing_performance	shift queueing performance data (Sh)
+realtime	DISPATCH transactions (P)
+reasnmod	modify pit data base reason records (P)
+reasons		provide a few expressions to help with the reasons code; included in other forms (P or Sh)
+reconcile	reconcile utility (Sh)
+rep_auxeqt	auxiliary equipment summary; includes operator, location, status (P)
+rep_customrep	custom reports utility menu (Sh)
+rep_cycle	cycle time summary report (P)
+rep_dispasn	truck and shovel assignment summary; includes current and projected (P)
+rep_dumps	dumps summary; includes allowable material types/blends, target feed rate, capacity, tiedown, dump time, status (P)
+rep_excav	shovel summary; includes operator, ton/hour, location, status, load, floorstock (P)
+rep_grade	ore quality summary report (P)
+rep_loc		locations summary; includes easting, northing, elevation, region or pit, status, signpost, max. trucks (P)
+rep_lock	lock summary; includes shovel id, dump lock, trucks locked to shovel (P)
+rep_panel	panel id summary; includes truck id and panel id (P)
+rep_reason 	delay reason code summary; includes code number, time category, description, duration (P)
+rep_roads	find a route given a starting/ending location (P)
+rep_route	route summary; includes location, destination, grade %, travel distance, time (empty/loaded) (P)
+rep_route_closure	closed haul route summary; includes start/end location (P)
+rep_shvlcycle	show cycle times from each shovel to every dump (P)
+rep_shvpri	shovel priority summary; includes shovel id, floorstock, material, priority, disabled status (P)
+rep_sumreport	multi-shift report menu called from pitstats.frm (Sh)
+rep_tiedown	shiftchange summary report; includes truck, pay number, operator, shiftchange, status (P)
+rep_tkbar	truck lock and bar report; includes material/location/shovel bar, location/dump lock (P)
+rep_trkbar	summary of shovels from which trucks are barred (P) 
+rep_trkdump	truck to dump lock summary; includes truck id, dump lock, region lock (P)
+rep_truck	truck summary; includes operator, size, location, status, load, fuel, maintenance (P)
+rep_unit	not used
+rep_workrs	Worker Summary; includes name, seniority, status, current/permanent assignment, qualifications (P)
+reports		reports utility menu (P)
+restart		generic DISPATCH restart form (only for UNIX) (P)
+restart_config	configuration form for DISPATCH restart menus
+roadmod		roadmod utility; includes start/end location, elevation, distance, average travel time, closed status (P)
+roadmod_digi	roadmod utility (P) 
+roads		display start/end locations and empty/loaded speed in miles per hour (P) 
+route		haul route utility; includes open/close option, start/end location status (P)
+route1		haul route utility; includes display only closed roads, start/end location, close status (P)
+rps		defined constants for RPS process status module; included with topcpu.frm 
+rps_1		display host cpu, user name, process ID and status 
+rps_2		display top cpu processes on sun and mv1 
+rps_3		display top cpu processes on sun and mv1; includes memory usage 
+rps_4		display top cpu processes on sun and mv1; includes memory usage (different layout from rps_3.frm)
+rst_dispatch	restart real-time DISPATCH process 
+rst_except	DISPATCH restart utility; includes exception message 
+rst_killremote	escape sequence to specify "DISPATCH killed by remote JOB"
+rst_menu	DISPATCH restart utility 
+rst_noport	escape sequence to specify "!!Please Define DISPATCH Port Names!!"
+rst_restart	escape sequence to specify "DISPATCH Restart" and "Stand by" 
+rst_stremote	escape sequence to specify "DISPATCH Restarted by remote JOB"
+rst_sun		restart real-time DISPATCH process for sun 
+sd_cycle	DISPATCH cycle time report (Sh)
+sd_ex_firstlast		shovel start-up and tie-Up report (Sh) 
+sd_liftrep	show positive/negative lift from blast to dump (Sh) 
+sd_timecat	show time spent in each reason category (Sh) 
+sd_trk_firstlast	truck start-up and tie-up report (Sh) 
+setuptrk	truck set up parameters (P) 
+shiftaux	shift auxiliary equipment records; includes unit, id, equipment type, location, status, reason, comment (Sh)
+shiftchng	shift data base change utility menu (Sh)
+shiftdata	dump a shift data base to an ASCII file (Sh) 
+shiftdrill	shift drill records; includes time, drill, blast, load, tons, depth (Sh)
+shiftdump	shift dump records; includes truck, shovel, blast, time arrive, material, grade (Sh)
+shifteqmt	shift equipment records; includes id, type, size, location, load, status, reason (Sh)
+shiftexpr	expressions used by various DISPATCH utilities which modify shift data bases (Sh)
+shiftexpr2	expressions used by various DISPATCH utilities which modify shift data bases; includes add grade expression (Sh)
+shiftfuel	shift fuel records; includes equipment type, id, start/end, duration, diesel (Sh)
+shiftgrade	shift grade records; includes grade, load, blend, ore components (Sh)
+shiftkey	shift key records; includes time, key id, equipment type, id (Sh) 
+shiftload	shift load records; includes shovel, truck, time full, location, material, tons, floorstock, dump location/time (Sh)
+shiftload2	shift load records; same as above but can also add record (Sh)
+shiftloc	shift location records; includes unit type, id, elevation, pit/region location (Sh)
+shiftoper	shift operator records; includes name, id, crew, equipment, status (attendance) (Sh)
+shiftreport	expressions for shift reports to run over multiple shift files; uses SHIFT_LOOPER (Sh)
+shiftreport2	expressions for shift reports to run over multiple shift files; uses one_per_shift expression (Sh)
+shiftreport2_rw		binds user data base symbols to run shiftdump reports; also opens the shift file with write access (Sh)
+shiftroot	change the root information in a shift data base (Sh) 
+shifttram	shift tram records; includes shovel, time, location, material, grade, dump, bay, count (Sh)
+shovlmod	shovelmod utility; includes operator, location, dig rate, fuel, status, priority, spotting time (P)
+showcpu		CPU usage display form invoked by TOPCPU and NETCPU 
+shvlneed	shovel need utility; includes LP summary, actual/required trucks, status, priority, location, material (P)
+shvprior	shovel priority utility; includes id, material, priority, disabled status (P)
+shvprior_include	not used
+signexcept	exception menus/FORMS code to be added to except.frm; generates exception for missed/unexpected signpost detections
+sim		check for EXITDSP status 
+sim_convert	simulator copy routine (P)
+sim_copy	simulation copy event form; shift data base event extractor (Sh)
+sim_dstr	edit the simulation distribution times (P)
+sim_edit	simulation event editor (Sh) 
+sim_run		multi-shift simulation driver (Sh) 
+sim_stats	simulation shift event analysis form (Sh) 
+simulator	generic simulator restart form (only for UNIX) (P)
+simulmod	DISPATCH simulation utility (P)
+skip		expression to skip all white spaces in a string
+statchng	change status utility (Sh)
+status_pie_menu		status pie graph utility (Sh) 
+sum_avail	equiment availability report (Sh)
+sum_availbyfleet	availability detail report by fleet (Sh) 
+sum_avtype	availability detail report (Sh) 
+sum_blastgrade	blast grade report (crusher dumped tons) (Sh) 
+sum_crew	form included in rep_sumreport.frm; management report by crew (Sh)
+sum_excav	shovel production report; includes loads, tons, tons/hour, used hours per ore type (Sh)
+sum_excav1	shovel production report; includes loads, tons, tons/hour (Sh) 
+sum_exdump	shovel dump report summary; includes shovel, composite, dump, ore type, tons (Sh)
+sum_fuel	truck fuel report summary; includes quantity, capacity, tons per volume, hours worked, volume per hour (Sh) 
+sum_inven	inventory report summary; includes starting/ending inventory, loaded, dumped by location (Sh)
+sum_manrep	form included in rep_sumreport.frm; management report (Sh)
+sum_matl	blast/dump reconciliation report (Sh)
+sum_statbycode	equipment status report by code (Sh)
+sum_statbyday	equipment status report; displays by shift type (Sh)
+sum_statbydur	equipment status report by duration (Sh)
+sum_status	equipment status report (Sh)
+sum_tavail	equipment availability report by unit (Sh)
+sum_tfuel	truck fuel report; includes working hours, tonnage, tons/hour, fuel/hour, ton-mile/gallon (Sh) 
+sum_truck	truck production report; includes loads, tons, used hours, miles traveled (empty, full, average) (Sh)
+sum_truck2	not used
+summarize	summarize utility (create monthly summary from shift files) (Sh)
+t_vsms		display VSMS alarms by truck (P) 
+tcl_selector	form that works in conjunction with tcl to provide GUI driven forms selection
+teff		truck & mine efficiency report; includes travel time, empty/full time, idle/spotting time (Sh)
+testpie		demo pie chart 
+thauls		generic haulage lift report (Sh) 
+timecat_pie	get reason frequencies and total duration by unit, status, and reason (Sh)
+timesheet	interactive time-sheet entry form 
+timesheetrpt	dump out a text summary report of timesheet data bases which the accounting system can understand
+tire		top level TIRE utility (tire)
+tire41		options to convert V4.1 to V4.2 tire data base (tire) 
+tire_compute	compute ready times/distances at start of month from tire data base and summary info from previous month (tire)
+tire_convert	convert V4.1 tire data base to monthly V4.2 tire data base files (tire)
+tire_create	create a new tire data base from tires and transactions in the previous month's data base file (tire)
+tire_dates	collect and set original mount dates in all tire records (tire) 
+tire_eqmtsum	summary of equipment with active tire records (tire) 
+tire_include	provide support for "tyre" nomenclature throughout the tire utility engl reports and forms (tire)
+tire_newddb	create empty tire data base (tire) 
+tire_rep1	missing tire report; reports on any time periods for which each position on each truck had no tire mounted (tire)
+tire_rep2	report for tire hours and distance traveled both cumulative at start of month and total this month (tire)
+tire_rep3	mounted tire report; includes equipment, position and mount/remove date (tire)
+tire_rep4	weekly tire tread report; includes manufacturer, fit dates, tread used hours and position (tire) 
+tire_rep5	tire transaction history report (tire) 
+tire_rep6	compute hours and distance information for "scrap" transactions (tire) 
+tire_rep7	tire transaction history report with times and distances (tire)
+tire_rep8	tire hours for last tire transaction and life-to-date by equipment ID (tire)
+tire_rep9	current tire inventory with life-to-date hours sorted by size or manufacturer (tire)
+tire_report	menu of tire reports (tire) 
+tire_tiresum	summary of active tires; tire id, mount date, equipment id, position (tire)
+tiremod		modify tire/transaction records for the currently selected monthly tire file (tire)
+tiretreadmod	modify tread depths for the currently selected monthly tire file (tire)
+tkgraphics	utility for Tk/Tcl pit graphics (P)
+tmph		current truck ton-miles per hour (P) 
+topcpu		top CPU usage display 
+transact	DISPATCH transaction display; includes status by loads and tons (P)
+travtime	empty vs. loaded travel times in minutes between locations (P) 
+travtimediff_hist	actual minus expected travel time histogram (Sh)
+travtimediff_stats	actual minus expected travel time distribution statistics (Sh) 
+travtimepct_hist	percent of actual minus expected travel time histogram (Sh) 
+travtimepct_stats	percent of actual minus expected travel time distribution statistics (Sh) 
+travtimestats_reports	travel times statistical reports (Sh) 
+trk_bar		truck bars/locks utility (P)
+trk_cycle_oper_fleet	load/dump averages by truck-type/driver (Sh)
+trkdumploc	truck to dump lock utility (P) 
+trksize		truck size and type; includes material and shovel bar; shovel, region and dump lock (P) 
+trkspeed	truck speed factors by status; includes empty and loaded over downhill, level and uphill (P) 
+trucklpinfo	truck LP information utility (P) 
+truckmod	truckmod utility; includes crew, operator, location, material, locks/bars, fuel, status, maintenance (P)
+unit_config	client descriptors used in form and report headers
+unit_statbydur	equipment breakdown frequency report (Sh) 
+vandetail	lineup van detail (P) 
+vdate		expressions to define date variables 
+view_trans	display and sort transactions 
+vt100		graphical keypad for vt100 terminals 
+vt200		not used
+vt220		graphical keypad for vt200 terminals 
+work_holiday	holiday override screen; can restart DISPATCH (transaction screen) after entering shift 
+workrmod	workrmod utility; includes payroll number, name, crew, attendance, seniority, equipment (P)

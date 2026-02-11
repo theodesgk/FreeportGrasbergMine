@@ -1,0 +1,9 @@
+Pantograph Raising	16908288
+Pantograph Lowering	16908289
+RadEye Scan Data	16973824
+RadEye Background Reading	16973825
+RadEye HV Error	16973826
+RadEye Detector Error	16973827
+RadEye Low Battery Voltage	16973828
+RadEye Alarm	16973829
+RadEye Flag for Overload	16973830

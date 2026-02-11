@@ -1,0 +1,345 @@
+Tire 1 (1L) Pressure Low Minimum (Legacy)	335609856
+Tire 1 (1L) Pressure Very Low (Legacy)	335609857
+Tire 1 (1L) Pressure Low (Legacy)	335609858
+Tire 1 (1L) Pressure High Maximum (Legacy)	335609859
+Tire 1 (1L) Pressure Very High (Legacy)	335609860
+Tire 1 (1L) Pressure High (Legacy)	335609861
+Tire 1 (1L) Sensor Timeout (Legacy)	335609862
+Tire 1 (1L) Sensor High Pressure Change Rate (Legacy)	335609863
+Tire 1 (1L) Sensor Battery Low (Legacy)	335609864
+Tire 1 (1L) Sensor Internal Fault (Legacy)	335609865
+Tire 1 (1L) Temperature High Maximum (Legacy)	335609866
+Tire 1 (1L) Temperature High (Legacy)	335609867
+Tire 1 (1L) Test Transmission (Legacy)	335609868
+Tire 2 (1R) Pressure Low Minimum (Legacy)	335609869
+Tire 2 (1R) Pressure Very Low (Legacy)	335609870
+Tire 2 (1R) Pressure Low (Legacy)	335609871
+Tire 2 (1R) Pressure High Maximum (Legacy)	335609872
+Tire 2 (1R) Pressure Very High (Legacy)	335609873
+Tire 2 (1R) Pressure High (Legacy)	335609874
+Tire 2 (1R) Sensor Timeout (Legacy)	335609875
+Tire 2 (1R) Sensor High Pressure Change Rate (Legacy)	335609876
+Tire 2 (1R) Sensor Battery Low (Legacy)	335609877
+Tire 2 (1R) Sensor Internal Fault (Legacy)	335609878
+Tire 2 (1R) Temperature High Maximum (Legacy)	335609879
+Tire 2 (1R) Temperature High (Legacy)	335609880
+Tire 2 (1R) Test Transmission (Legacy)	335609881
+Tire 6 (2Lo) Pressure Low Minimum (Legacy)	335609882
+Tire 6 (2Lo) Pressure Very Low (Legacy)	335609883
+Tire 6 (2Lo) Pressure Low (Legacy)	335609884
+Tire 6 (2Lo) Pressure High Maximum (Legacy)	335609885
+Tire 6 (2Lo) Pressure Very High (Legacy)	335609886
+Tire 6 (2Lo) Pressure High (Legacy)	335609887
+Tire 6 (2Lo) Sensor Timeout (Legacy)	335609888
+Tire 6 (2Lo) Sensor High Pressure Change Rate (Legacy)	335609889
+Tire 6 (2Lo) Sensor Battery Low (Legacy)	335609890
+Tire 6 (2Lo) Sensor Internal Fault (Legacy)	335609891
+Tire 6 (2Lo) Temperature High Maximum (Legacy)	335609892
+Tire 6 (2Lo) Temperature High (Legacy)	335609893
+Tire 6 (2Lo) Test Transmission (Legacy)	335609894
+Tire 5 (2Li) Pressure Low Minimum (Legacy)	335609895
+Tire 5 (2Li) Pressure Very Low (Legacy)	335609896
+Tire 5 (2Li) Pressure Low (Legacy)	335609897
+Tire 5 (2Li) Pressure High Maximum (Legacy)	335609898
+Tire 5 (2Li) Pressure Very High (Legacy)	335609899
+Tire 5 (2Li) Pressure High (Legacy)	335609900
+Tire 5 (2Li) Sensor Timeout (Legacy)	335609901
+Tire 5 (2Li) Sensor High Pressure Change Rate (Legacy)	335609902
+Tire 5 (2Li) Sensor Battery Low (Legacy)	335609903
+Tire 5 (2Li) Sensor Internal Fault (Legacy)	335609904
+Tire 5 (2Li) Temperature High Maximum (Legacy)	335609905
+Tire 5 (2Li) Temperature High (Legacy)	335609906
+Tire 5 (2Li) Test Transmission (Legacy)	335609907
+Tire 4 (2Ri) Pressure Low Minimum (Legacy)	335609908
+Tire 4 (2Ri) Pressure Very Low (Legacy)	335609909
+Tire 4 (2Ri) Pressure Low (Legacy)	335609910
+Tire 4 (2Ri) Pressure High Maximum (Legacy)	335609911
+Tire 4 (2Ri) Pressure Very High (Legacy)	335609912
+Tire 4 (2Ri) Pressure High (Legacy)	335609913
+Tire 4 (2Ri) Sensor Timeout (Legacy)	335609914
+Tire 4 (2Ri) Sensor High Pressure Change Rate (Legacy)	335609915
+Tire 4 (2Ri) Sensor Battery Low (Legacy)	335609916
+Tire 4 (2Ri) Sensor Internal Fault (Legacy)	335609917
+Tire 4 (2Ri) Temperature High Maximum (Legacy)	335609918
+Tire 4 (2Ri) Temperature High (Legacy)	335609919
+Tire 4 (2Ri) Test Transmission (Legacy)	335609920
+Tire 3 (2Ro) Pressure Low Minimum (Legacy)	335609921
+Tire 3 (2Ro) Pressure Very Low (Legacy)	335609922
+Tire 3 (2Ro) Pressure Low (Legacy)	335609923
+Tire 3 (2Ro) Pressure High Maximum (Legacy)	335609924
+Tire 3 (2Ro) Pressure Very High (Legacy)	335609925
+Tire 3 (2Ro) Pressure High (Legacy)	335609926
+Tire 3 (2Ro) Sensor Timeout (Legacy)	335609927
+Tire 3 (2Ro) Sensor High Pressure Change Rate (Legacy)	335609928
+Tire 3 (2Ro) Sensor Battery Low (Legacy)	335609929
+Tire 3 (2Ro) Sensor Internal Fault (Legacy)	335609930
+Tire 3 (2Ro) Temperature High Maximum (Legacy)	335609931
+Tire 3 (2Ro) Temperature High (Legacy)	335609932
+Tire 3 (2Ro) Test Transmission (Legacy)	335609933
+Rx Channel A Not Receiving Messages (Legacy)	335609934
+Rx Channel B Not Receiving Messages (Legacy)	335609935
+Supply Voltage Error Flag (Legacy)	335609936
+Internal Temperature Outside Limits (Legacy)	335609937
+Data Card 90 Pct Full (Legacy)	335609938
+Tire 1 Pressure Low Minimum (Extended)	335610856
+Tire 1 Pressure Very Low (Extended)	335610857
+Tire 1 Pressure Low (Extended)	335610858
+Tire 1 Pressure High Maximum (Extended)	335610859
+Tire 1 Pressure Very High (Extended)	335610860
+Tire 1 Pressure High (Extended)	335610861
+Tire 1 Sensor Timeout (Extended)	335610862
+Tire 1 Sensor High Pressure Change Rate (Extended)	335610863
+Tire 1 Sensor Battery Low (Extended)	335610864
+Tire 1 Sensor Internal Fault (Extended)	335610865
+Tire 1 Temperature High Maximum (Extended)	335610866
+Tire 1 Temperature High (Extended)	335610867
+Tire 1 Test Transmission (Extended)	335610868
+Tire 2 Pressure Low Minimum (Extended)	335610869
+Tire 2 Pressure Very Low (Extended)	335610870
+Tire 2 Pressure Low (Extended)	335610871
+Tire 2 Pressure High Maximum (Extended)	335610872
+Tire 2 Pressure Very High (Extended)	335610873
+Tire 2 Pressure High (Extended)	335610874
+Tire 2 Sensor Timeout (Extended)	335610875
+Tire 2 Sensor High Pressure Change Rate (Extended)	335610876
+Tire 2 Sensor Battery Low (Extended)	335610877
+Tire 2 Sensor Internal Fault (Extended)	335610878
+Tire 2 Temperature High Maximum (Extended)	335610879
+Tire 2 Temperature High (Extended)	335610880
+Tire 2 Test Transmission (Extended)	335610881
+Tire 3 Pressure Low Minimum (Extended)	335610882
+Tire 3 Pressure Very Low (Extended)	335610883
+Tire 3 Pressure Low (Extended)	335610884
+Tire 3 Pressure High Maximum (Extended)	335610885
+Tire 3 Pressure Very High (Extended)	335610886
+Tire 3 Pressure High (Extended)	335610887
+Tire 3 Sensor Timeout (Extended)	335610888
+Tire 3 Sensor High Pressure Change Rate (Extended)	335610889
+Tire 3 Sensor Battery Low (Extended)	335610890
+Tire 3 Sensor Internal Fault (Extended)	335610891
+Tire 3 Temperature High Maximum (Extended)	335610892
+Tire 3 Temperature High (Extended)	335610893
+Tire 3 Test Transmission (Extended)	335610894
+Tire 4 Pressure Low Minimum (Extended)	335610895
+Tire 4 Pressure Very Low (Extended)	335610896
+Tire 4 Pressure Low (Extended)	335610897
+Tire 4 Pressure High Maximum (Extended)	335610898
+Tire 4 Pressure Very High (Extended)	335610899
+Tire 4 Pressure High (Extended)	335610900
+Tire 4 Sensor Timeout (Extended)	335610901
+Tire 4 Sensor High Pressure Change Rate (Extended)	335610902
+Tire 4 Sensor Battery Low (Extended)	335610903
+Tire 4 Sensor Internal Fault (Extended)	335610904
+Tire 4 Temperature High Maximum (Extended)	335610905
+Tire 4 Temperature High (Extended)	335610906
+Tire 4 Test Transmission (Extended)	335610907
+Tire 5 Pressure Low Minimum (Extended)	335610908
+Tire 5 Pressure Very Low (Extended)	335610909
+Tire 5 Pressure Low (Extended)	335610910
+Tire 5 Pressure High Maximum (Extended)	335610911
+Tire 5 Pressure Very High (Extended)	335610912
+Tire 5 Pressure High (Extended)	335610913
+Tire 5 Sensor Timeout (Extended)	335610914
+Tire 5 Sensor High Pressure Change Rate (Extended)	335610915
+Tire 5 Sensor Battery Low (Extended)	335610916
+Tire 5 Sensor Internal Fault (Extended)	335610917
+Tire 5 Temperature High Maximum (Extended)	335610918
+Tire 5 Temperature High (Extended)	335610919
+Tire 5 Test Transmission (Extended)	335610920
+Tire 6 Pressure Low Minimum (Extended)	335610921
+Tire 6 Pressure Very Low (Extended)	335610922
+Tire 6 Pressure Low (Extended)	335610923
+Tire 6 Pressure High Maximum (Extended)	335610924
+Tire 6 Pressure Very High (Extended)	335610925
+Tire 6 Pressure High (Extended)	335610926
+Tire 6 Sensor Timeout (Extended)	335610927
+Tire 6 Sensor High Pressure Change Rate (Extended)	335610928
+Tire 6 Sensor Battery Low (Extended)	335610929
+Tire 6 Sensor Internal Fault (Extended)	335610930
+Tire 6 Temperature High Maximum (Extended)	335610931
+Tire 6 Temperature High (Extended)	335610932
+Tire 6 Test Transmission (Extended)	335610933
+Tire 7 Pressure Low Minimum (Extended)	335610934
+Tire 7 Pressure Very Low (Extended)	335610935
+Tire 7 Pressure Low (Extended)	335610936
+Tire 7 Pressure High Maximum (Extended)	335610937
+Tire 7 Pressure Very High (Extended)	335610938
+Tire 7 Pressure High (Extended)	335610939
+Tire 7 Sensor Timeout (Extended)	335610940
+Tire 7 Sensor High Pressure Change Rate (Extended)	335610941
+Tire 7 Sensor Battery Low (Extended)	335610942
+Tire 7 Sensor Internal Fault (Extended)	335610943
+Tire 7 Temperature High Maximum (Extended)	335610944
+Tire 7 Temperature High (Extended)	335610945
+Tire 7 Test Transmission (Extended)	335610946
+Tire 8 Pressure Low Minimum (Extended)	335610947
+Tire 8 Pressure Very Low (Extended)	335610948
+Tire 8 Pressure Low (Extended)	335610949
+Tire 8 Pressure High Maximum (Extended)	335610950
+Tire 8 Pressure Very High (Extended)	335610951
+Tire 8 Pressure High (Extended)	335610952
+Tire 8 Sensor Timeout (Extended)	335610953
+Tire 8 Sensor High Pressure Change Rate (Extended)	335610954
+Tire 8 Sensor Battery Low (Extended)	335610955
+Tire 8 Sensor Internal Fault (Extended)	335610956
+Tire 8 Temperature High Maximum (Extended)	335610957
+Tire 8 Temperature High (Extended)	335610958
+Tire 8 Test Transmission (Extended)	335610959
+Tire 9 Pressure Low Minimum (Extended)	335610960
+Tire 9 Pressure Very Low (Extended)	335610961
+Tire 9 Pressure Low (Extended)	335610962
+Tire 9 Pressure High Maximum (Extended)	335610963
+Tire 9 Pressure Very High (Extended)	335610964
+Tire 9 Pressure High (Extended)	335610965
+Tire 9 Sensor Timeout (Extended)	335610966
+Tire 9 Sensor High Pressure Change Rate (Extended)	335610967
+Tire 9 Sensor Battery Low (Extended)	335610968
+Tire 9 Sensor Internal Fault (Extended)	335610969
+Tire 9 Temperature High Maximum (Extended)	335610970
+Tire 9 Temperature High (Extended)	335610971
+Tire 9 Test Transmission (Extended)	335610972
+Tire 10 Pressure Low Minimum (Extended)	335610973
+Tire 10 Pressure Very Low (Extended)	335610974
+Tire 10 Pressure Low (Extended)	335610975
+Tire 10 Pressure High Maximum (Extended)	335610976
+Tire 10 Pressure Very High (Extended)	335610977
+Tire 10 Pressure High (Extended)	335610978
+Tire 10 Sensor Timeout (Extended)	335610979
+Tire 10 Sensor High Pressure Change Rate (Extended)	335610980
+Tire 10 Sensor Battery Low (Extended)	335610981
+Tire 10 Sensor Internal Fault (Extended)	335610982
+Tire 10 Temperature High Maximum (Extended)	335610983
+Tire 10 Temperature High (Extended)	335610984
+Tire 10 Test Transmission (Extended)	335610985
+Tire 11 Pressure Low Minimum (Extended)	335610986
+Tire 11 Pressure Very Low (Extended)	335610987
+Tire 11 Pressure Low (Extended)	335610988
+Tire 11 Pressure High Maximum (Extended)	335610989
+Tire 11 Pressure Very High (Extended)	335610990
+Tire 11 Pressure High (Extended)	335610991
+Tire 11 Sensor Timeout (Extended)	335610992
+Tire 11 Sensor High Pressure Change Rate (Extended)	335610993
+Tire 11 Sensor Battery Low (Extended)	335610994
+Tire 11 Sensor Internal Fault (Extended)	335610995
+Tire 11 Temperature High Maximum (Extended)	335610996
+Tire 11 Temperature High (Extended)	335610997
+Tire 11 Test Transmission (Extended)	335610998
+Tire 12 Pressure Low Minimum (Extended)	335610999
+Tire 12 Pressure Very Low (Extended)	335611000
+Tire 12 Pressure Low (Extended)	335611001
+Tire 12 Pressure High Maximum (Extended)	335611002
+Tire 12 Pressure Very High (Extended)	335611003
+Tire 12 Pressure High (Extended)	335611004
+Tire 12 Sensor Timeout (Extended)	335611005
+Tire 12 Sensor High Pressure Change Rate (Extended)	335611006
+Tire 12 Sensor Battery Low (Extended)	335611007
+Tire 12 Sensor Internal Fault (Extended)	335611008
+Tire 12 Temperature High Maximum (Extended)	335611009
+Tire 12 Temperature High (Extended)	335611010
+Tire 12 Test Transmission (Extended)	335611011
+Tire 13 Pressure Low Minimum (Extended)	335611012
+Tire 13 Pressure Very Low (Extended)	335611013
+Tire 13 Pressure Low (Extended)	335611014
+Tire 13 Pressure High Maximum (Extended)	335611015
+Tire 13 Pressure Very High (Extended)	335611016
+Tire 13 Pressure High (Extended)	335611017
+Tire 13 Sensor Timeout (Extended)	335611018
+Tire 13 Sensor High Pressure Change Rate (Extended)	335611019
+Tire 13 Sensor Battery Low (Extended)	335611020
+Tire 13 Sensor Internal Fault (Extended)	335611021
+Tire 13 Temperature High Maximum (Extended)	335611022
+Tire 13 Temperature High (Extended)	335611023
+Tire 13 Test Transmission (Extended)	335611024
+Tire 14 Pressure Low Minimum (Extended)	335611025
+Tire 14 Pressure Very Low (Extended)	335611026
+Tire 14 Pressure Low (Extended)	335611027
+Tire 14 Pressure High Maximum (Extended)	335611028
+Tire 14 Pressure Very High (Extended)	335611029
+Tire 14 Pressure High (Extended)	335611030
+Tire 14 Sensor Timeout (Extended)	335611031
+Tire 14 Sensor High Pressure Change Rate (Extended)	335611032
+Tire 14 Sensor Battery Low (Extended)	335611033
+Tire 14 Sensor Internal Fault (Extended)	335611034
+Tire 14 Temperature High Maximum (Extended)	335611035
+Tire 14 Temperature High (Extended)	335611036
+Tire 14 Test Transmission (Extended)	335611037
+Tire 15 Pressure Low Minimum (Extended)	335611038
+Tire 15 Pressure Very Low (Extended)	335611039
+Tire 15 Pressure Low (Extended)	335611040
+Tire 15 Pressure High Maximum (Extended)	335611041
+Tire 15 Pressure Very High (Extended)	335611042
+Tire 15 Pressure High (Extended)	335611043
+Tire 15 Sensor Timeout (Extended)	335611044
+Tire 15 Sensor High Pressure Change Rate (Extended)	335611045
+Tire 15 Sensor Battery Low (Extended)	335611046
+Tire 15 Sensor Internal Fault (Extended)	335611047
+Tire 15 Temperature High Maximum (Extended)	335611048
+Tire 15 Temperature High (Extended)	335611049
+Tire 15 Test Transmission (Extended)	335611050
+Tire 16 Pressure Low Minimum (Extended)	335611051
+Tire 16 Pressure Very Low (Extended)	335611052
+Tire 16 Pressure Low (Extended)	335611053
+Tire 16 Pressure High Maximum (Extended)	335611054
+Tire 16 Pressure Very High (Extended)	335611055
+Tire 16 Pressure High (Extended)	335611056
+Tire 16 Sensor Timeout (Extended)	335611057
+Tire 16 Sensor High Pressure Change Rate (Extended)	335611058
+Tire 16 Sensor Battery Low (Extended)	335611059
+Tire 16 Sensor Internal Fault (Extended)	335611060
+Tire 16 Temperature High Maximum (Extended)	335611061
+Tire 16 Temperature High (Extended)	335611062
+Tire 16 Test Transmission (Extended)	335611063
+Tire 17 Pressure Low Minimum (Extended)	335611064
+Tire 17 Pressure Very Low (Extended)	335611065
+Tire 17 Pressure Low (Extended)	335611066
+Tire 17 Pressure High Maximum (Extended)	335611067
+Tire 17 Pressure Very High (Extended)	335611068
+Tire 17 Pressure High (Extended)	335611069
+Tire 17 Sensor Timeout (Extended)	335611070
+Tire 17 Sensor High Pressure Change Rate (Extended)	335611071
+Tire 17 Sensor Battery Low (Extended)	335611072
+Tire 17 Sensor Internal Fault (Extended)	335611073
+Tire 17 Temperature High Maximum (Extended)	335611074
+Tire 17 Temperature High (Extended)	335611075
+Tire 17 Test Transmission (Extended)	335611076
+Tire 18 Pressure Low Minimum (Extended)	335611077
+Tire 18 Pressure Very Low (Extended)	335611078
+Tire 18 Pressure Low (Extended)	335611079
+Tire 18 Pressure High Maximum (Extended)	335611080
+Tire 18 Pressure Very High (Extended)	335611081
+Tire 18 Pressure High (Extended)	335611082
+Tire 18 Sensor Timeout (Extended)	335611083
+Tire 18 Sensor High Pressure Change Rate (Extended)	335611084
+Tire 18 Sensor Battery Low (Extended)	335611085
+Tire 18 Sensor Internal Fault (Extended)	335611086
+Tire 18 Temperature High Maximum (Extended)	335611087
+Tire 18 Temperature High (Extended)	335611088
+Tire 18 Test Transmission (Extended)	335611089
+Rx Channel A Not Receiving Messages (Extended)	335611090
+Rx Channel B Not Receiving Messages (Extended)	335611091
+Supply Voltage Error Flag (Extended)	335611092
+Internal Temperature Outside Limits (Extended)	335611093
+Data Card 90 Pct Full (Extended)	335611094
+Miscellaneous Hardware Faults (Extended)	335611095
+Ethernet Fault (Extended)	335611096
+GPS Fault (Extended)	335611097
+3G Fault (Extended)	335611098
+Bluetooth Fault (Extended)	335611099
+Wi-Fi Fault (Extended)	335611100
+CAN 1 Fault (Extended)	335611101
+CAN 2 Fault (Extended)	335611102
+CAN 3 Fault (Extended)	335611103
+Tkph Ok (Green) (Extended)	335611104
+Tkph Ok Tyre Cold (Start) (Extended)	335611105
+Tkph High (Amber) (Extended)	335611106
+Tkph High Max (Red) (Extended)	335611107
+Error: Not Configured (Extended)	335611108
+Error: Hardware Error (Extended)	335611109
+Error: Cycle Detection Error (Extended)	335611110
+Error: Cycle Error (Extended)	335611111
+Error: Internal Error (Extended)	335611112
+Anticipated Tkph (Extended)	335611113
+OEM Interface Timeout	335675360
+OEM Interface Normal	335675361
+Driver Interface Timeout	335675362
+Driver Interface Normal	335675363

@@ -1,0 +1,5 @@
+302055425	Current Dipper Weight	200	0	19
+302055426	Total Truck Load	600	0	19
+302055427	Current Swing Angle	360	-360	4
+302055428	Machine Hours	9999999	0	7
+302055429	Dig/Propel	1	0	0

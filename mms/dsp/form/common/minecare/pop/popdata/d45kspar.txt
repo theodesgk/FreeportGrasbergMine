@@ -1,0 +1,25 @@
+788594689	Rotary Head Position	100	-5	17
+788594690	Rotary Head RPM	100	0	28
+788594691	Fuel Level	105	0	25
+788594692	Compressor Oil Temperature	210	-40	5
+788594693	Feed Pressure	30000	0	9
+788594694	Receiver Air Pressure	30000	0	9
+788594695	Rotation Pressure	30000	0	9
+788594696	Working Air Pressure	30000	0	9
+788594697	Battery Voltage	32	0	31
+788594698	Engine Boost Pressure	200	0	9
+788594699	Engine Inlet Manifold Temperature	210	-40	5
+788594700	Engine Oil Pressure	1000	0	9
+788594701	Engine Fuel Injection Rate Estimate	200	0	13
+788594702	Engine Fuel Temperature	210	-40	5
+788594703	Engine Speed	8032	0	28
+788594704	Engine Coolant Temperature	210	-40	5
+788594705	Engine Coolant Level	100	0	25
+788594706	Engine Percent Load	125	0	25
+788594707	Engine Percent Torque	125	0	9
+788594708	Engine Hours	60000	0	7
+788594709	Engine Fuel Consumption Total Estimate	65535	0	14
+788594710	Drill Bit Position	100	-5	17
+788594711	Drill Penetration Rate	2	-2	39
+788594712	Mast Angle Lateral	180	-180	4
+788594713	Mast Angle Longitudinal	180	-180	4

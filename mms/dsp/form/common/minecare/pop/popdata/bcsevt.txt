@@ -1,0 +1,1055 @@
+Engine Oil Change Lh (Inactive)	520159232
+Engine Oil Change Lh (Active)	520159233
+Engine Water Level Lh (Inactive)	520159234
+Engine Water Level Lh (Active)	520159235
+R Contact Generator Lh (Inactive)	520159236
+R Contact Generator Lh (Active)	520159237
+Diesel Engine Air Filter Lh (Inactive)	520159238
+Diesel Engine Air Filter Lh (Active)	520159239
+Idle Timer On Lh (Inactive)	520159240
+Idle Timer On Lh (Active)	520159241
+Engine Oil Change Rh (Inactive)	520159242
+Engine Oil Change Rh (Active)	520159243
+Engine Water Level Rh (Inactive)	520159244
+Engine Water Level Rh (Active)	520159245
+R Contact Generator Rh (Inactive)	520159246
+R Contact Generator Rh (Active)	520159247
+Diesel Engine Air Filter Rh (Inactive)	520159248
+Diesel Engine Air Filter Rh (Active)	520159249
+Idle Timer On Rh (Inactive)	520159250
+Idle Timer On Rh (Active)	520159251
+Motor Start Enable (Inactive)	520159252
+Motor Start Enable (Active)	520159253
+Cable Reel Error (Inactive)	520159254
+Cable Reel Error (Active)	520159255
+Motor Protection Relay Error (Inactive)	520159256
+Motor Protection Relay Error (Active)	520159257
+Pt100 Error Stop At 140 C (Inactive)	520159258
+Pt100 Error Stop At 140 C (Active)	520159259
+Pt100 Error Warning At 120 C (Inactive)	520159260
+Pt100 Error Warning At 120 C (Active)	520159261
+Earth Fault High Voltage (Inactive)	520159262
+Earth Fault High Voltage (Active)	520159263
+Phase Monitoring (Inactive)	520159264
+Phase Monitoring (Active)	520159265
+Motor Ready For Switch On (Inactive)	520159266
+Motor Ready For Switch On (Active)	520159267
+Motor Runing (Inactive)	520159268
+Motor Runing (Active)	520159269
+Emergency Motor Switch On (Inactive)	520159270
+Emergency Motor Switch On (Active)	520159271
+High Voltage On (Inactive)	520159272
+High Voltage On (Active)	520159273
+Emergency Outhigh Voltage (Inactive)	520159274
+Emergency Outhigh Voltage (Active)	520159275
+Emergency Out Motor (Inactive)	520159276
+Emergency Out Motor (Active)	520159277
+Ladder Out 1 (Inactive)	520159278
+Ladder Out 1 (Active)	520159279
+R Contact Auxiliary Engine (Inactive)	520159280
+R Contact Auxiliary Engine (Active)	520159281
+Drive Break (Inactive)	520159282
+Drive Break (Active)	520159283
+Insulation Fault 110 V (Inactive)	520159284
+Insulation Fault 110 V (Active)	520159285
+Insulation Fault 230 V (Inactive)	520159286
+Insulation Fault 230 V (Active)	520159287
+Insulation Fault 400 V (Inactive)	520159288
+Insulation Fault 400 V (Active)	520159289
+Insulation Fault 525 V (Inactive)	520159290
+Insulation Fault 525 V (Active)	520159291
+Fi Fault 400 V (Inactive)	520159292
+Fi Fault 400 V (Active)	520159293
+Fi Fault 525 V (Inactive)	520159294
+Fi Fault 525 V (Active)	520159295
+Overload Transformer Ptc (Inactive)	520159296
+Overload Transformer Ptc (Active)	520159297
+Overload Starter Trans.Ptc (Inactive)	520159298
+Overload Starter Trans.Ptc (Active)	520159299
+Lh Ignition On And N_Act=0.0 (Inactive)	520159300
+Lh Ignition On And N_Act=0.0 (Active)	520159301
+Lh Sr Water Temp. Cable Broken (Inactive)	520159302
+Lh Sr Water Temp. Cable Broken (Active)	520159303
+Lh Sr Water Temp. Cable Short (Inactive)	520159304
+Lh Sr Water Temp. Cable Short (Active)	520159305
+Lh Prop. Valve 1 Cable Short (Inactive)	520159306
+Lh Prop. Valve 1 Cable Short (Active)	520159307
+Lh Prop. Valve 1 Cable Broken (Inactive)	520159308
+Lh Prop. Valve 1 Cable Broken (Active)	520159309
+Lh Prop. Valve 2 Cable Short (Inactive)	520159310
+Lh Prop. Valve 2 Cable Short (Active)	520159311
+Lh Prop. Valve 2 Cable Broken (Inactive)	520159312
+Lh Prop. Valve 2 Cable Broken (Active)	520159313
+Lh Prop. Valve 3 Cable Short (Inactive)	520159314
+Lh Prop. Valve 3 Cable Short (Active)	520159315
+Lh Prop. Valve 3 Cable Broken (Inactive)	520159316
+Lh Prop. Valve 3 Cable Broken (Active)	520159317
+Lh Sr Hydr. Temp. Cable Broken (Inactive)	520159318
+Lh Sr Hydr. Temp. Cable Broken (Active)	520159319
+Lh Sr Hydr. Temp. Cable Short (Inactive)	520159320
+Lh Sr Hydr. Temp. Cable Short (Active)	520159321
+Lh Hydr. Oil Over Temp. (Inactive)	520159322
+Lh Hydr. Oil Over Temp. (Active)	520159323
+Lh Cooling Water Over Temp. (Inactive)	520159324
+Lh Cooling Water Over Temp. (Active)	520159325
+Lh Dsl Switch Active (Inactive)	520159326
+Lh Dsl Switch Active (Active)	520159327
+Lh Trans. Load Sensing Defect (Inactive)	520159328
+Lh Trans. Load Sensing Defect (Active)	520159329
+Lh Task Init Error (Inactive)	520159330
+Lh Task Init Error (Active)	520159331
+Lh Cable Governor Lever Broken (Inactive)	520159332
+Lh Cable Governor Lever Broken (Active)	520159333
+Lh Pms Slave Defect (Inactive)	520159334
+Lh Pms Slave Defect (Active)	520159335
+Lh Can Communication Error (Inactive)	520159336
+Lh Can Communication Error (Active)	520159337
+Lh Diesel Engine Warm Up Time (Inactive)	520159338
+Lh Diesel Engine Warm Up Time (Active)	520159339
+Rh Ignition On And N_Act=0.0 (Inactive)	520159340
+Rh Ignition On And N_Act=0.0 (Active)	520159341
+Rh Sr Water Temp. Cable Broken (Inactive)	520159342
+Rh Sr Water Temp. Cable Broken (Active)	520159343
+Rh Sr Water Temp. Cable Short (Inactive)	520159344
+Rh Sr Water Temp. Cable Short (Active)	520159345
+Rh Prop. Valve 1 Cable Short (Inactive)	520159346
+Rh Prop. Valve 1 Cable Short (Active)	520159347
+Rh Prop. Valve 1 Cable Broken (Inactive)	520159348
+Rh Prop. Valve 1 Cable Broken (Active)	520159349
+Rh Prop. Valve 2 Cable Short (Inactive)	520159350
+Rh Prop. Valve 2 Cable Short (Active)	520159351
+Rh Prop. Valve 2 Cable Broken (Inactive)	520159352
+Rh Prop. Valve 2 Cable Broken (Active)	520159353
+Rh Prop. Valve 3 Cable Short (Inactive)	520159354
+Rh Prop. Valve 3 Cable Short (Active)	520159355
+Rh Prop. Valve 3 Cable Broken (Inactive)	520159356
+Rh Prop. Valve 3 Cable Broken (Active)	520159357
+Rh Sr Hydr. Temp. Cable Broken (Inactive)	520159358
+Rh Sr Hydr. Temp. Cable Broken (Active)	520159359
+Rh Sr Hydr. Temp. Cable Short (Inactive)	520159360
+Rh Sr Hydr. Temp. Cable Short (Active)	520159361
+Rh Hydr. Oil Over Temp. (Inactive)	520159362
+Rh Hydr. Oil Over Temp. (Active)	520159363
+Rh Cooling Water Over Temp. (Inactive)	520159364
+Rh Cooling Water Over Temp. (Active)	520159365
+Rh Dsl Switch Active (Inactive)	520159366
+Rh Dsl Switch Active (Active)	520159367
+Rh Trans. Load Sensing Defect (Inactive)	520159368
+Rh Trans. Load Sensing Defect (Active)	520159369
+Rh Task Init Error (Inactive)	520159370
+Rh Task Init Error (Active)	520159371
+Rh Cable Governor Lever Broken (Inactive)	520159372
+Rh Cable Governor Lever Broken (Active)	520159373
+Rh Pms Slave Defect (Inactive)	520159374
+Rh Pms Slave Defect (Active)	520159375
+Rh Can Communication Error (Inactive)	520159376
+Rh Can Communication Error (Active)	520159377
+Rh Diesel Engine Warm Up Time (Inactive)	520159378
+Rh Diesel Engine Warm Up Time (Active)	520159379
+Error Cense Lh	520159381
+Error Cense Rh	520159383
+Error Centry Lh (Inactive)	520159384
+Error Centry Lh (Active)	520159385
+Error Centry Rh (Inactive)	520159386
+Error Centry Rh (Active)	520159387
+Can Comm. Error Der I A (Inactive)	520159388
+Can Comm. Error Der I A (Active)	520159389
+Can Comm. Error Der I B (Inactive)	520159390
+Can Comm. Error Der I B (Active)	520159391
+Can Comm. Error Der Ii A (Inactive)	520159392
+Can Comm. Error Der Ii A (Active)	520159393
+Can Comm. Error Der Ii B (Inactive)	520159394
+Can Comm. Error Der Ii B (Active)	520159395
+Can Comm. Error Der Iii A (Inactive)	520159396
+Can Comm. Error Der Iii A (Active)	520159397
+Can Comm. Error Der Iii B (Inactive)	520159398
+Can Comm. Error Der Iii B (Active)	520159399
+Can Comm. Error Der Vi A (Inactive)	520159400
+Can Comm. Error Der Vi A (Active)	520159401
+Can Comm. Error Der Vi B (Inactive)	520159402
+Can Comm. Error Der Vi B (Active)	520159403
+Can Comm. Error Der V A (Inactive)	520159404
+Can Comm. Error Der V A (Active)	520159405
+Can Comm. Error Der V B (Inactive)	520159406
+Can Comm. Error Der V B (Active)	520159407
+Can Comm. Error Cms (Inactive)	520159408
+Can Comm. Error Cms (Active)	520159409
+Can Comm. Error Pms Master (Inactive)	520159410
+Can Comm. Error Pms Master (Active)	520159411
+Can Comm. Error Pms Slave (Inactive)	520159412
+Can Comm. Error Pms Slave (Active)	520159413
+Trans. Contamination Lh (Inactive)	520159414
+Trans. Contamination Lh (Active)	520159415
+Trans. Contamination Rh (Inactive)	520159416
+Trans. Contamination Rh (Active)	520159417
+Gear Pressure 1 (Inactive)	520159418
+Gear Pressure 1 (Active)	520159419
+Gear Pressure 2 (Inactive)	520159420
+Gear Pressure 2 (Active)	520159421
+Servo Seat Contact (Inactive)	520159422
+Servo Seat Contact (Active)	520159423
+Min. Hydraulic Fluid Level (Inactive)	520159424
+Min. Hydraulic Fluid Level (Active)	520159425
+Hydraulic Fluid Filter 1 (Inactive)	520159426
+Hydraulic Fluid Filter 1 (Active)	520159427
+Hydraulic Fluid Filter 2 (Inactive)	520159428
+Hydraulic Fluid Filter 2 (Active)	520159429
+Feed Pump 1 Contamination (Inactive)	520159430
+Feed Pump 1 Contamination (Active)	520159431
+Feed Pump 2 Contamination (Inactive)	520159432
+Feed Pump 2 Contamination (Active)	520159433
+Feed Pump 3 Contamination (Inactive)	520159434
+Feed Pump 3 Contamination (Active)	520159435
+Feed Pump 4 Contamination (Inactive)	520159436
+Feed Pump 4 Contamination (Active)	520159437
+Main Pump 1 Contamination (Inactive)	520159438
+Main Pump 1 Contamination (Active)	520159439
+Main Pump 2 Contamination (Inactive)	520159440
+Main Pump 2 Contamination (Active)	520159441
+Main Pump 3 Contamination (Inactive)	520159442
+Main Pump 3 Contamination (Active)	520159443
+Main Pump 4 Contamination (Inactive)	520159444
+Main Pump 4 Contamination (Active)	520159445
+Main Pump 5 Contamination (Inactive)	520159446
+Main Pump 5 Contamination (Active)	520159447
+Main Pump 6 Contamination (Inactive)	520159448
+Main Pump 6 Contamination (Active)	520159449
+Main Pump 7 Contamination (Inactive)	520159450
+Main Pump 7 Contamination (Active)	520159451
+Main Pump 8 Contamination (Inactive)	520159452
+Main Pump 8 Contamination (Active)	520159453
+Slewing Drive 1 Contamination (Inactive)	520159454
+Slewing Drive 1 Contamination (Active)	520159455
+Slewing Drive 2 Contamination (Inactive)	520159456
+Slewing Drive 2 Contamination (Active)	520159457
+Slewing Drive 3 Contamination (Inactive)	520159458
+Slewing Drive 3 Contamination (Active)	520159459
+Slewing Drive 4 Contamination (Inactive)	520159460
+Slewing Drive 4 Contamination (Active)	520159461
+Slewing Drive 5 Contamination (Inactive)	520159462
+Slewing Drive 5 Contamination (Active)	520159463
+Slewing Drive 6 Contamination (Inactive)	520159464
+Slewing Drive 6 Contamination (Active)	520159465
+Slewing Pump 1 Contamination (Inactive)	520159466
+Slewing Pump 1 Contamination (Active)	520159467
+Slewing Pump 2 Contamination (Inactive)	520159468
+Slewing Pump 2 Contamination (Active)	520159469
+Slewing Pump 3 Contamination (Inactive)	520159470
+Slewing Pump 3 Contamination (Active)	520159471
+Slewing Pump 4 Contamination (Inactive)	520159472
+Slewing Pump 4 Contamination (Active)	520159473
+Slewing Pump 5 Contamination (Inactive)	520159474
+Slewing Pump 5 Contamination (Active)	520159475
+Slewing Pump 6 Contamination (Inactive)	520159476
+Slewing Pump 6 Contamination (Active)	520159477
+Slewing Pump 1 Housing Temp (Inactive)	520159478
+Slewing Pump 1 Housing Temp (Active)	520159479
+Slewing Pump 2 Housing Temp (Inactive)	520159480
+Slewing Pump 2 Housing Temp (Active)	520159481
+Slewing Pump 3 Housing Temp (Inactive)	520159482
+Slewing Pump 3 Housing Temp (Active)	520159483
+Slewing Pump 4 Housing Temp (Inactive)	520159484
+Slewing Pump 4 Housing Temp (Active)	520159485
+Slewing Pump 5 Housing Temp (Inactive)	520159486
+Slewing Pump 5 Housing Temp (Active)	520159487
+Slewing Pump 6 Housing Temp (Inactive)	520159488
+Slewing Pump 6 Housing Temp (Active)	520159489
+Leak Oil Pressure Boom Lh (Inactive)	520159490
+Leak Oil Pressure Boom Lh (Active)	520159491
+Leak Oil Pressure Boom Rh (Inactive)	520159492
+Leak Oil Pressure Boom Rh (Active)	520159493
+Leak Oil Pressure Stick Lh (Inactive)	520159494
+Leak Oil Pressure Stick Lh (Active)	520159495
+Leak Oil Pressure Stick Rh (Inactive)	520159496
+Leak Oil Pressure Stick Rh (Active)	520159497
+Leak Oil Pressure Bucket Lh (Inactive)	520159498
+Leak Oil Pressure Bucket Lh (Active)	520159499
+Leak Oil Pressure Bucket Rh (Inactive)	520159500
+Leak Oil Pressure Bucket Rh (Active)	520159501
+Lubrication Level Low (Inactive)	520159502
+Lubrication Level Low (Active)	520159503
+Lubrication System On (Inactive)	520159504
+Lubrication System On (Active)	520159505
+Lubrication System Malfunction (Inactive)	520159506
+Lubrication System Malfunction (Active)	520159507
+Tanklift Down (Inactive)	520159508
+Tanklift Down (Active)	520159509
+Travel Brake (Inactive)	520159510
+Travel Brake (Active)	520159511
+Travel Stage 2 (Inactive)	520159512
+Travel Stage 2 (Active)	520159513
+Pressure Switch Load (Inactive)	520159514
+Pressure Switch Load (Active)	520159515
+Pressure Switch Drive (Inactive)	520159516
+Pressure Switch Drive (Active)	520159517
+Pressure Switch Slew (Inactive)	520159518
+Pressure Switch Slew (Active)	520159519
+Slewing Brake (Inactive)	520159520
+Slewing Brake (Active)	520159521
+Cms (Inactive)	520159522
+Cms (Active)	520159523
+Engine Run Lh (Inactive)	520159524
+Engine Run Lh (Active)	520159525
+Engine Run Rh (Inactive)	520159526
+Engine Run Rh (Active)	520159527
+Ladder Out 2 (Inactive)	520159528
+Ladder Out 2 (Active)	520159529
+Data Packet Version	520159530
+Track Tensioning (Inactive)	520159532
+Track Tensioning (Active)	520159533
+Boost Travel Pressure (Inactive)	520159534
+Boost Travel Pressure (Active)	520159535
+Servo (Inactive)	520159536
+Servo (Active)	520159537
+Switch Position Slewing Break (Inactive)	520159538
+Switch Position Slewing Break (Active)	520159539
+Switch Position Travel Break (Inactive)	520159540
+Switch Position Travel Break (Active)	520159541
+Switch Position Travel Stage 2 (Inactive)	520159542
+Switch Position Travel Stage 2 (Active)	520159543
+Horn (Inactive)	520159546
+Horn (Active)	520159547
+Pressure Switch Load (Inactive)	520159548
+Pressure Switch Load (Active)	520159549
+Pressure Switch Travel (Inactive)	520159550
+Pressure Switch Travel (Active)	520159551
+Engine Run Lh (Inactive)	520159552
+Engine Run Lh (Active)	520159553
+Engine Run Rh (Inactive)	520159554
+Engine Run Rh (Active)	520159555
+Travel Break (Inactive)	520159556
+Travel Break (Active)	520159557
+Slewing Break (Inactive)	520159558
+Slewing Break (Active)	520159559
+Reverse Travel Alarm (Inactive)	520159560
+Reverse Travel Alarm (Active)	520159561
+Pressure Switch Slewing (Inactive)	520159562
+Pressure Switch Slewing (Active)	520159563
+Travel Step 2 (Inactive)	520159564
+Travel Step 2 (Active)	520159565
+Ladder Out (Inactive)	520159566
+Ladder Out (Active)	520159567
+Direction Bit Hand Lever Left Xp (Inactive)	520159568
+Direction Bit Hand Lever Left Xp (Active)	520159569
+Hand Lever Left Xm (Inactive)	520159570
+Hand Lever Left Xm (Active)	520159571
+Hand Lever Left Yp (Inactive)	520159572
+Hand Lever Left Yp (Active)	520159573
+Hand Lever Left Ym (Inactive)	520159574
+Hand Lever Left Ym (Active)	520159575
+Hand Lever Right Xp (Inactive)	520159578
+Hand Lever Right Xp (Active)	520159579
+Hand Lever Right Xm (Inactive)	520159580
+Hand Lever Right Xm (Active)	520159581
+Hand Lever Right Yp (Inactive)	520159582
+Hand Lever Right Yp (Active)	520159583
+Hand Lever Right Ym (Inactive)	520159584
+Hand Lever Right Ym (Active)	520159585
+Footpedal Left Yp (Inactive)	520159588
+Footpedal Left Yp (Active)	520159589
+Footpedal Left Ym (Inactive)	520159590
+Footpedal Left Ym (Active)	520159591
+Footpedal Middle Yp (Inactive)	520159592
+Footpedal Middle Yp (Active)	520159593
+Footpedal Middle Ym (Inactive)	520159594
+Footpedal Middle Ym (Active)	520159595
+Footpedal Right Yp (Inactive)	520159596
+Footpedal Right Yp (Active)	520159597
+Footpedal Right Ym (Inactive)	520159598
+Footpedal Right Ym (Active)	520159599
+Cylinder Stop (Inactive)	520159600
+Cylinder Stop (Active)	520159601
+Cylinder Cut Off (Inactive)	520159602
+Cylinder Cut Off (Active)	520159603
+Clam Boost Pressure (Inactive)	520159606
+Clam Boost Pressure (Active)	520159607
+Engine Idle Lh (Inactive)	520159610
+Engine Idle Lh (Active)	520159611
+Engine Idle Rh (Inactive)	520159612
+Engine Idle Rh (Active)	520159613
+Engine Run Lh (Inactive)	520159614
+Engine Run Lh (Active)	520159615
+Engine Run Rh (Inactive)	520159616
+Engine Run Rh (Active)	520159617
+Grease Fault (Inactive)	520159618
+Grease Fault (Active)	520159619
+Grease Container Empty (Inactive)	520159620
+Grease Container Empty (Active)	520159621
+Lubrication On (Inactive)	520159622
+Lubrication On (Active)	520159623
+Initiator 1 (Inactive)	520159624
+Initiator 1 (Active)	520159625
+Initiator 2 (Inactive)	520159626
+Initiator 2 (Active)	520159627
+Pressure Over 350 Bar (Inactive)	520159628
+Pressure Over 350 Bar (Active)	520159629
+Pressure Sensor Cable Broken (Inactive)	520159630
+Pressure Sensor Cable Broken (Active)	520159631
+Sensor Grease Cont. Cable Broken (Inactive)	520159632
+Sensor Grease Cont. Cable Broken (Active)	520159633
+Under Carriage Pressure Sensor Cable Broken (Inactive)	520159634
+Under Carriage Pressure Sensor Cable Broken (Active)	520159635
+Lubrication Undercarriage Fault (Inactive)	520159636
+Lubrication Undercarriage Fault (Active)	520159637
+Lubrication Undercarriage On (Inactive)	520159638
+Lubrication Undercarriage On (Active)	520159639
+Cylinder Cut Off (Inactive)	520159640
+Cylinder Cut Off (Active)	520159641
+Shut Off Valve Closed (Inactive)	520159646
+Shut Off Valve Closed (Active)	520159647
+Contamination Servo Control (Inactive)	520159648
+Contamination Servo Control (Active)	520159649
+Pump Transfer Gear Lh Oil Level Min (Inactive)	520159652
+Pump Transfer Gear Lh Oil Level Min (Active)	520159653
+Pump Transfer Gear Rh Oil Level Min (Inactive)	520159654
+Pump Transfer Gear Rh Oil Level Min (Active)	520159655
+Clamp 01 (Inactive)	520159656
+Clamp 01 (Active)	520159657
+Clamp 02 (Inactive)	520159658
+Clamp 02 (Active)	520159659
+Clamp 03 (Inactive)	520159660
+Clamp 03 (Active)	520159661
+Clamp 04 (Inactive)	520159662
+Clamp 04 (Active)	520159663
+Clamp 05 (Inactive)	520159664
+Clamp 05 (Active)	520159665
+Clamp 06 (Inactive)	520159666
+Clamp 06 (Active)	520159667
+Clamp 07 (Inactive)	520159668
+Clamp 07 (Active)	520159669
+Clamp 08 (Inactive)	520159670
+Clamp 08 (Active)	520159671
+Clamp 09 (Inactive)	520159672
+Clamp 09 (Active)	520159673
+Clamp 10 (Inactive)	520159674
+Clamp 10 (Active)	520159675
+Clamp 11 (Inactive)	520159676
+Clamp 11 (Active)	520159677
+Clamp 12 (Inactive)	520159678
+Clamp 12 (Active)	520159679
+Clamp 13 (Inactive)	520159680
+Clamp 13 (Active)	520159681
+Clamp 14 (Inactive)	520159682
+Clamp 14 (Active)	520159683
+Clamp 15 (Inactive)	520159684
+Clamp 15 (Active)	520159685
+Clamp 16 (Inactive)	520159686
+Clamp 16 (Active)	520159687
+Clamp 17 (Inactive)	520159688
+Clamp 17 (Active)	520159689
+Clamp 18 (Inactive)	520159690
+Clamp 18 (Active)	520159691
+Clamp 19 (Inactive)	520159692
+Clamp 19 (Active)	520159693
+Clamp 20 (Inactive)	520159694
+Clamp 20 (Active)	520159695
+Clamp 21 (Inactive)	520159696
+Clamp 21 (Active)	520159697
+Clamp 22 (Inactive)	520159698
+Clamp 22 (Active)	520159699
+Clamp 23 (Inactive)	520159700
+Clamp 23 (Active)	520159701
+Clamp 24 (Inactive)	520159702
+Clamp 24 (Active)	520159703
+Clamp 25 (Inactive)	520159704
+Clamp 25 (Active)	520159705
+Clamp 26 (Inactive)	520159706
+Clamp 26 (Active)	520159707
+Clamp 27 (Inactive)	520159708
+Clamp 27 (Active)	520159709
+Clamp 28 (Inactive)	520159710
+Clamp 28 (Active)	520159711
+Clamp 29 (Inactive)	520159712
+Clamp 29 (Active)	520159713
+Clamp 30 (Inactive)	520159714
+Clamp 30 (Active)	520159715
+Clamp 31 (Inactive)	520159716
+Clamp 31 (Active)	520159717
+Clamp 32 (Inactive)	520159718
+Clamp 32 (Active)	520159719
+Clamp 37 (Inactive)	520159720
+Clamp 37 (Active)	520159721
+Clamp 38 (Inactive)	520159722
+Clamp 38 (Active)	520159723
+Clamp 39 (Inactive)	520159724
+Clamp 39 (Active)	520159725
+Clamp 40 (Inactive)	520159726
+Clamp 40 (Active)	520159727
+Clamp 41 (Inactive)	520159728
+Clamp 41 (Active)	520159729
+Clamp 42 (Inactive)	520159730
+Clamp 42 (Active)	520159731
+Clamp 43 (Inactive)	520159732
+Clamp 43 (Active)	520159733
+Clamp 44 (Inactive)	520159734
+Clamp 44 (Active)	520159735
+Clamp 45 (Inactive)	520159736
+Clamp 45 (Active)	520159737
+Clamp 46 (Inactive)	520159738
+Clamp 46 (Active)	520159739
+Clamp 47 (Inactive)	520159740
+Clamp 47 (Active)	520159741
+Clamp 48 (Inactive)	520159742
+Clamp 48 (Active)	520159743
+Clamp 49 (Inactive)	520159744
+Clamp 49 (Active)	520159745
+Clamp 50 (Inactive)	520159746
+Clamp 50 (Active)	520159747
+Clamp 51 (Inactive)	520159748
+Clamp 51 (Active)	520159749
+Clamp 52 (Inactive)	520159750
+Clamp 52 (Active)	520159751
+Clamp 54 (Inactive)	520159752
+Clamp 54 (Active)	520159753
+Clamp 55 (Inactive)	520159754
+Clamp 55 (Active)	520159755
+Clamp 56 (Inactive)	520159756
+Clamp 56 (Active)	520159757
+Clamp 57 (Inactive)	520159758
+Clamp 57 (Active)	520159759
+Clamp 58 (Inactive)	520159760
+Clamp 58 (Active)	520159761
+Clamp 59 (Inactive)	520159762
+Clamp 59 (Active)	520159763
+Clamp 60 (Inactive)	520159764
+Clamp 60 (Active)	520159765
+Clamp 61 (Inactive)	520159766
+Clamp 61 (Active)	520159767
+Clamp 62 (Inactive)	520159768
+Clamp 62 (Active)	520159769
+Clamp 63 (Inactive)	520159770
+Clamp 63 (Active)	520159771
+Clamp 64 (Inactive)	520159772
+Clamp 64 (Active)	520159773
+Clamp 65 (Inactive)	520159774
+Clamp 65 (Active)	520159775
+Clamp 66 (Inactive)	520159776
+Clamp 66 (Active)	520159777
+Clamp 67 (Inactive)	520159778
+Clamp 67 (Active)	520159779
+Can Communication Error Der 1 (Inactive) (V2.4)	520160232
+Can Communication Error Der 1 (Active) (V2.4)	520160233
+Can Communication Error Der 2 (Inactive) (V2.4)	520160234
+Can Communication Error Der 2 (Active) (V2.4)	520160235
+Can Communication Error Der 3 (Inactive) (V2.4)	520160236
+Can Communication Error Der 3 (Active) (V2.4)	520160237
+Can Communication Error Der 4 (Inactive) (V2.4)	520160238
+Can Communication Error Der 4 (Active) (V2.4)	520160239
+Can Communication Error Der 5 (Inactive) (V2.4)	520160240
+Can Communication Error Der 5 (Active) (V2.4)	520160241
+Can Communication Error Cms (Inactive) (V2.4)	520160242
+Can Communication Error Cms (Active) (V2.4)	520160243
+Can Communication Error Pms Master (Inactive) (V2.4)	520160244
+Can Communication Error Pms Master (Active) (V2.4)	520160245
+Can Communication Error Plc (Inactive) (V2.4)	520160246
+Can Communication Error Plc (Active) (V2.4)	520160247
+Can Communication Error Pms Slave (Inactive) (V2.4)	520160248
+Can Communication Error Pms Slave (Active) (V2.4)	520160249
+Can Communication Error Mpr (Inactive) (V2.4)	520160250
+Can Communication Error Mpr (Active) (V2.4)	520160251
+Cms State Info Bit 0 (Inactive) (V2.4)	520160252
+Cms State Info Bit 0 (Active) (V2.4)	520160253
+Cms State Info Bit 1 (Inactive) (V2.4)	520160254
+Cms State Info Bit 1 (Active) (V2.4)	520160255
+Cms State Info Bit 2 (Inactive) (V2.4)	520160256
+Cms State Info Bit 2 (Active) (V2.4)	520160257
+Cms State Info Bit 3 (Inactive) (V2.4)	520160258
+Cms State Info Bit 3 (Active) (V2.4)	520160259
+Cms State Info Bit 4 (Inactive) (V2.4)	520160260
+Cms State Info Bit 4 (Active) (V2.4)	520160261
+Cms State Info Bit 5 (Inactive) (V2.4)	520160262
+Cms State Info Bit 5 (Active) (V2.4)	520160263
+Cms State Info Bit 6 (Inactive) (V2.4)	520160264
+Cms State Info Bit 6 (Active) (V2.4)	520160265
+Cms State Info Bit 7 (Inactive) (V2.4)	520160266
+Cms State Info Bit 7 (Active) (V2.4)	520160267
+Cms State Info Bit 8 (Inactive) (V2.4)	520160268
+Cms State Info Bit 8 (Active) (V2.4)	520160269
+Cms State Info Bit 9 (Inactive) (V2.4)	520160270
+Cms State Info Bit 9 (Active) (V2.4)	520160271
+Cms State Info Bit 10 (Inactive) (V2.4)	520160272
+Cms State Info Bit 10 (Active) (V2.4)	520160273
+Cms State Info Bit 11 (Inactive) (V2.4)	520160274
+Cms State Info Bit 11 (Active) (V2.4)	520160275
+Cms State Info Bit 12 (Inactive) (V2.4)	520160276
+Cms State Info Bit 12 (Active) (V2.4)	520160277
+Cms State Info Bit 13 (Inactive) (V2.4)	520160278
+Cms State Info Bit 13 (Active) (V2.4)	520160279
+Cms State Info Bit 14 (Inactive) (V2.4)	520160280
+Cms State Info Bit 14 (Active) (V2.4)	520160281
+Cms State Info Bit 15 (Inactive) (V2.4)	520160282
+Cms State Info Bit 15 (Active) (V2.4)	520160283
+Cms State Info Bit 16 (Inactive) (V2.4)	520160284
+Cms State Info Bit 16 (Active) (V2.4)	520160285
+Cms State Info Bit 17 (Inactive) (V2.4)	520160286
+Cms State Info Bit 17 (Active) (V2.4)	520160287
+Cms State Info Bit 18 (Inactive) (V2.4)	520160288
+Cms State Info Bit 18 (Active) (V2.4)	520160289
+Cms State Info Bit 19 (Inactive) (V2.4)	520160290
+Cms State Info Bit 19 (Active) (V2.4)	520160291
+Cms State Info Bit 20 (Inactive) (V2.4)	520160292
+Cms State Info Bit 20 (Active) (V2.4)	520160293
+Left Engine Gearbox Cont (Inactive) (V2.4)	520160294
+Left Engine Gearbox Cont (Active) (V2.4)	520160295
+Right Engine Gearbox Cont (Inactive) (V2.4)	520160296
+Right Engine Gearbox Cont (Active) (V2.4)	520160297
+Left Engine Gear Box Oil Min (Inactive) (V2.4)	520160298
+Left Engine Gear Box Oil Min (Active) (V2.4)	520160299
+Right Engine Gearbox Oil Min (Inactive) (V2.4)	520160300
+Right Engine Gearbox Oil Min (Active) (V2.4)	520160301
+Left Engine Gearbox Pressure (Inactive) (V2.4)	520160302
+Left Engine Gearbox Pressure (Active) (V2.4)	520160303
+Right Engine Gearbox Pressure (Inactive) (V2.4)	520160304
+Right Engine Gearbox Pressure (Active) (V2.4)	520160305
+Bcs Led State 0 (Inactive) (V2.4)	520160306
+Bcs Led State 0 (Active) (V2.4)	520160307
+Bcs Led State 1 (Inactive) (V2.4)	520160308
+Bcs Led State 1 (Active) (V2.4)	520160309
+Bcs Led State 2 (Inactive) (V2.4)	520160310
+Bcs Led State 2 (Active) (V2.4)	520160311
+Bcs Led State 3 (Inactive) (V2.4)	520160312
+Bcs Led State 3 (Active) (V2.4)	520160313
+Bcs Led State 4 (Inactive) (V2.4)	520160314
+Bcs Led State 4 (Active) (V2.4)	520160315
+Bcs Led State 5 (Inactive) (V2.4)	520160316
+Bcs Led State 5 (Active) (V2.4)	520160317
+Bcs Led State 6 (Inactive) (V2.4)	520160318
+Bcs Led State 6 (Active) (V2.4)	520160319
+Bcs Led State 7 (Inactive) (V2.4)	520160320
+Bcs Led State 7 (Active) (V2.4)	520160321
+Bcs Led State 8 (Inactive) (V2.4)	520160322
+Bcs Led State 8 (Active) (V2.4)	520160323
+Bcs Led State 9 (Inactive) (V2.4)	520160324
+Bcs Led State 9 (Active) (V2.4)	520160325
+Bcs Led State 10 (Inactive) (V2.4)	520160326
+Bcs Led State 10 (Active) (V2.4)	520160327
+Bcs Led State 11 (Inactive) (V2.4)	520160328
+Bcs Led State 11 (Active) (V2.4)	520160329
+Bcs Led State 12 (Inactive) (V2.4)	520160330
+Bcs Led State 12 (Active) (V2.4)	520160331
+Left Engine Run (Inactive) (V2.4)	520160332
+Left Engine Run (Active) (V2.4)	520160333
+Left Engine Idle (Inactive) (V2.4)	520160334
+Left Engine Idle (Active) (V2.4)	520160335
+Left Engine Wat Level (Inactive) (V2.4)	520160336
+Left Engine Wat Level (Active) (V2.4)	520160337
+Left Engine Airfilter 1 (Inactive) (V2.4)	520160338
+Left Engine Airfilter 1 (Active) (V2.4)	520160339
+Left Engine Airfilter 2 (Inactive) (V2.4)	520160340
+Left Engine Airfilter 2 (Active) (V2.4)	520160341
+Left Engine Protection Lamp (Inactive) (V2.4)	520160342
+Left Engine Protection Lamp (Active) (V2.4)	520160343
+Left Engine Amber Lamp (Inactive) (V2.4)	520160344
+Left Engine Amber Lamp (Active) (V2.4)	520160345
+Left Engine Red Lamp (Inactive) (V2.4)	520160346
+Left Engine Red Lamp (Active) (V2.4)	520160347
+Right Engine Run (Inactive) (V2.4)	520160348
+Right Engine Run (Active) (V2.4)	520160349
+Right Engine Idle (Inactive) (V2.4)	520160350
+Right Engine Idle (Active) (V2.4)	520160351
+Right Engine Wat Level (Inactive) (V2.4)	520160352
+Right Engine Wat Level (Active) (V2.4)	520160353
+Right Engine Air Filter 1 (Inactive) (V2.4)	520160354
+Right Engine Air Filter 1 (Active) (V2.4)	520160355
+Right Engine Air Filter 2 (Inactive) (V2.4)	520160356
+Right Engine Air Filter 2 (Active) (V2.4)	520160357
+Right Engine Protection Lamp (Inactive) (V2.4)	520160358
+Right Engine Protection Lamp (Active) (V2.4)	520160359
+Right Engine Amber Lamp (Inactive) (V2.4)	520160360
+Right Engine Amber Lamp (Active) (V2.4)	520160361
+Right Engine Red Lamp (Inactive) (V2.4)	520160362
+Right Engine Red Lamp (Active) (V2.4)	520160363
+Electric High Volt On (Inactive) (V2.4)	520160364
+Electric High Volt On (Active) (V2.4)	520160365
+Electric Motor On (Inactive) (V2.4)	520160366
+Electric Motor On (Active) (V2.4)	520160367
+Electric Motor Stop (Inactive) (V2.4)	520160368
+Electric Motor Stop (Active) (V2.4)	520160369
+Motor Start Enable (Inactive) (V2.4)	520160370
+Motor Start Enable (Active) (V2.4)	520160371
+Electric Motor Start Restart Lock (Inactive) (V2.4)	520160372
+Electric Motor Start Restart Lock (Active) (V2.4)	520160373
+Electric Trip (Inactive) (V2.4)	520160374
+Electric Trip (Active) (V2.4)	520160375
+Electric Motor Temperature Overload (Inactive) (V2.4)	520160376
+Electric Motor Temperature Overload (Active) (V2.4)	520160377
+Electric Rtd Alarm (Inactive) (V2.4)	520160378
+Electric Rtd Alarm (Active) (V2.4)	520160379
+Mpr Error (Inactive) (V2.4)	520160380
+Mpr Error (Active) (V2.4)	520160381
+Electric Phase Fault (Inactive) (V2.4)	520160382
+Electric Phase Fault (Active) (V2.4)	520160383
+Electric Overload 4Mmv (Inactive) (V2.4)	520160384
+Electric Overload 4Mmv (Active) (V2.4)	520160385
+Electric Ground Fault 400V Air Com (Inactive) (V2.4)	520160386
+Electric Ground Fault 400V Air Com (Active) (V2.4)	520160387
+Electric Ground Fault 230V 400V (Inactive) (V2.4)	520160388
+Electric Ground Fault 230V 400V (Active) (V2.4)	520160389
+Electric Fault Voltage Monitor (Inactive) (V2.4)	520160390
+Electric Fault Voltage Monitor (Active) (V2.4)	520160391
+Main Pump 1 Cont (Inactive) (V2.4)	520160392
+Main Pump 1 Cont (Active) (V2.4)	520160393
+Main Pump 2 Cont (Inactive) (V2.4)	520160394
+Main Pump 2 Cont (Active) (V2.4)	520160395
+Main Pump 3 Cont (Inactive) (V2.4)	520160396
+Main Pump 3 Cont (Active) (V2.4)	520160397
+Main Pump 4 Cont (Inactive) (V2.4)	520160398
+Main Pump 4 Cont (Active) (V2.4)	520160399
+Main Pump 5 Cont (Inactive) (V2.4)	520160400
+Main Pump 5 Cont (Active) (V2.4)	520160401
+Main Pump 6 Cont (Inactive) (V2.4)	520160402
+Main Pump 6 Cont (Active) (V2.4)	520160403
+Main Pump 7 Cont (Inactive) (V2.4)	520160404
+Main Pump 7 Cont (Active) (V2.4)	520160405
+Main Pump 8 Cont (Inactive) (V2.4)	520160406
+Main Pump 8 Cont (Active) (V2.4)	520160407
+Slew Pump 1 Cont (Inactive) (V2.4)	520160408
+Slew Pump 1 Cont (Active) (V2.4)	520160409
+Slew Pump 2 Cont (Inactive) (V2.4)	520160410
+Slew Pump 2 Cont (Active) (V2.4)	520160411
+Slew Pump 3 Cont (Inactive) (V2.4)	520160412
+Slew Pump 3 Cont (Active) (V2.4)	520160413
+Slew Pump 4 Cont (Inactive) (V2.4)	520160414
+Slew Pump 4 Cont (Active) (V2.4)	520160415
+Slew Pump 5 Cont (Inactive) (V2.4)	520160416
+Slew Pump 5 Cont (Active) (V2.4)	520160417
+Slew Pump 6 Cont (Inactive) (V2.4)	520160418
+Slew Pump 6 Cont (Active) (V2.4)	520160419
+Slew Pump 1 Hse Temperature High (Inactive) (V2.4)	520160420
+Slew Pump 1 Hse Temperature High (Active) (V2.4)	520160421
+Slew Pump 2 Hse Temperature High (Inactive) (V2.4)	520160422
+Slew Pump 2 Hse Temperature High (Active) (V2.4)	520160423
+Slew Pump 3 Hse Temperature High (Inactive) (V2.4)	520160424
+Slew Pump 3 Hse Temperature High (Active) (V2.4)	520160425
+Slew Pump 4 Hse Temperature High (Inactive) (V2.4)	520160426
+Slew Pump 4 Hse Temperature High (Active) (V2.4)	520160427
+Slew Pump 5 Hse Temperature High (Inactive) (V2.4)	520160428
+Slew Pump 5 Hse Temperature High (Active) (V2.4)	520160429
+Slew Pump 6 Hse Temperature High (Inactive) (V2.4)	520160430
+Slew Pump 6 Hse Temperature High (Active) (V2.4)	520160431
+Slew Drive 1 Cont (Inactive) (V2.4)	520160432
+Slew Drive 1 Cont (Active) (V2.4)	520160433
+Slew Drive 2 Cont (Inactive) (V2.4)	520160434
+Slew Drive 2 Cont (Active) (V2.4)	520160435
+Slew Drive 3 Cont (Inactive) (V2.4)	520160436
+Slew Drive 3 Cont (Active) (V2.4)	520160437
+Slew Drive 4 Cont (Inactive) (V2.4)	520160438
+Slew Drive 4 Cont (Active) (V2.4)	520160439
+Slew Drive 5 Cont (Inactive) (V2.4)	520160440
+Slew Drive 5 Cont (Active) (V2.4)	520160441
+Slew Drive 6 Cont (Inactive) (V2.4)	520160442
+Slew Drive 6 Cont (Active) (V2.4)	520160443
+Feed Pump 1 Cont (Inactive) (V2.4)	520160444
+Feed Pump 1 Cont (Active) (V2.4)	520160445
+Feed Pump 2 Cont (Inactive) (V2.4)	520160446
+Feed Pump 2 Cont (Active) (V2.4)	520160447
+Feed Pump 3 Cont (Inactive) (V2.4)	520160448
+Feed Pump 3 Cont (Active) (V2.4)	520160449
+Feed Pump 4 Cont (Inactive) (V2.4)	520160450
+Feed Pump 4 Cont (Active) (V2.4)	520160451
+Hydraulic Oil Filter 1 Blocked (Inactive) (V2.4)	520160452
+Hydraulic Oil Filter 1 Blocked (Active) (V2.4)	520160453
+Hydraulic Oil Filter 2 Blocked (Inactive) (V2.4)	520160454
+Hydraulic Oil Filter 2 Blocked (Active) (V2.4)	520160455
+Hydraulic Shut Off Dev 1 (Inactive) (V2.4)	520160456
+Hydraulic Shut Off Dev 1 (Active) (V2.4)	520160457
+Hydraulic Shut Off Dev 2 (Inactive) (V2.4)	520160458
+Hydraulic Shut Off Dev 2 (Active) (V2.4)	520160459
+Hydraulic Shut Off Dev 3 (Inactive) (V2.4)	520160460
+Hydraulic Shut Off Dev 3 (Active) (V2.4)	520160461
+Min Hydraulic Fluid Level (Inactive) (V2.4)	520160462
+Min Hydraulic Fluid Level (Active) (V2.4)	520160463
+Electric Lube Upc On (Inactive) (V2.4)	520160464
+Electric Lube Upc On (Active) (V2.4)	520160465
+Electric Lube Unc On (Inactive) (V2.4)	520160466
+Electric Lube Unc On (Active) (V2.4)	520160467
+Electric Grease Barrel Empty (Inactive) (V2.4)	520160468
+Electric Grease Barrel Empty (Active) (V2.4)	520160469
+Electric Lube System Malfunction (Inactive) (V2.4)	520160470
+Electric Lube System Malfunction (Active) (V2.4)	520160471
+Lubrification Level Low Line 1 (Inactive) (V2.4)	520160472
+Lubrification Level Low Line 1 (Active) (V2.4)	520160473
+Lubrification Level Low Line 2 (Inactive) (V2.4)	520160474
+Lubrification Level Low Line 2 (Active) (V2.4)	520160475
+Electric Pressure Over 350 (Inactive) (V2.4)	520160476
+Electric Pressure Over 350 (Active) (V2.4)	520160477
+Max Lube Pressure Not Reached (Inactive) (V2.4)	520160478
+Max Lube Pressure Not Reached (Active) (V2.4)	520160479
+Pressure Sensor Cable Break Upc (Inactive) (V2.4)	520160480
+Pressure Sensor Cable Break Upc (Active) (V2.4)	520160481
+Grease Line 1 Upc Init 1 Fault (Inactive) (V2.4)	520160482
+Grease Line 1 Upc Init 1 Fault (Active) (V2.4)	520160483
+Grease Line 2 Upc Init 1 Fault (Inactive) (V2.4)	520160484
+Grease Line 2 Upc Init 1 Fault (Active) (V2.4)	520160485
+Lube Bypass (Inactive) (V2.4)	520160486
+Lube Bypass (Active) (V2.4)	520160487
+Lube System Reset (Inactive) (V2.4)	520160488
+Lube System Reset (Active) (V2.4)	520160489
+Lube Switch Override (Inactive) (V2.4)	520160490
+Lube Switch Override (Active) (V2.4)	520160491
+Electric Grease Tank Cable Break (Inactive) (V2.4)	520160492
+Electric Grease Tank Cable Break (Active) (V2.4)	520160493
+Electric Unc Fault (Inactive) (V2.4)	520160494
+Electric Unc Fault (Active) (V2.4)	520160495
+Electric Cyl Cutoff (Inactive) (V2.4)	520160496
+Electric Cyl Cutoff (Active) (V2.4)	520160497
+Electric Time Until Cutoff Clamp (Inactive) (V2.4)	520160498
+Electric Time Until Cutoff Clamp (Active) (V2.4)	520160499
+Electric Unc Cable Break (Inactive) (V2.4)	520160500
+Electric Unc Cable Break (Active) (V2.4)	520160501
+Electric Grease Line A (Inactive) (V2.4)	520160502
+Electric Grease Line A (Active) (V2.4)	520160503
+Electric Grease Line B (Inactive) (V2.4)	520160504
+Electric Grease Line B (Active) (V2.4)	520160505
+Der 1 D0 (Inactive) (V2.4)	520160506
+Der 1 D0 (Active) (V2.4)	520160507
+Der 1 D1 (Inactive) (V2.4)	520160508
+Der 1 D1 (Active) (V2.4)	520160509
+Der 1 D2 (Inactive) (V2.4)	520160510
+Der 1 D2 (Active) (V2.4)	520160511
+Der 1 D3 (Inactive) (V2.4)	520160512
+Der 1 D3 (Active) (V2.4)	520160513
+Der 1 D4 (Inactive) (V2.4)	520160514
+Der 1 D4 (Active) (V2.4)	520160515
+Der 1 D5 (Inactive) (V2.4)	520160516
+Der 1 D5 (Active) (V2.4)	520160517
+Der 1 D6 (Inactive) (V2.4)	520160518
+Der 1 D6 (Active) (V2.4)	520160519
+Der 1 D7 (Inactive) (V2.4)	520160520
+Der 1 D7 (Active) (V2.4)	520160521
+Der 1 D8 (Inactive) (V2.4)	520160522
+Der 1 D8 (Active) (V2.4)	520160523
+Der 1 D9 (Inactive) (V2.4)	520160524
+Der 1 D9 (Active) (V2.4)	520160525
+Der 1 D10 (Inactive) (V2.4)	520160526
+Der 1 D10 (Active) (V2.4)	520160527
+Der 1 D11 (Inactive) (V2.4)	520160528
+Der 1 D11 (Active) (V2.4)	520160529
+Der 1 D12 (Inactive) (V2.4)	520160530
+Der 1 D12 (Active) (V2.4)	520160531
+Der 1 D13 (Inactive) (V2.4)	520160532
+Der 1 D13 (Active) (V2.4)	520160533
+Der 1 D14 (Inactive) (V2.4)	520160534
+Der 1 D14 (Active) (V2.4)	520160535
+Der 1 D15 (Inactive) (V2.4)	520160536
+Der 1 D15 (Active) (V2.4)	520160537
+Der 2 D0 (Inactive) (V2.4)	520160538
+Der 2 D0 (Active) (V2.4)	520160539
+Der 2 D1 (Inactive) (V2.4)	520160540
+Der 2 D1 (Active) (V2.4)	520160541
+Der 2 D2 (Inactive) (V2.4)	520160542
+Der 2 D2 (Active) (V2.4)	520160543
+Der 2 D3 (Inactive) (V2.4)	520160544
+Der 2 D3 (Active) (V2.4)	520160545
+Der 2 D4 (Inactive) (V2.4)	520160546
+Der 2 D4 (Active) (V2.4)	520160547
+Der 2 D5 (Inactive) (V2.4)	520160548
+Der 2 D5 (Active) (V2.4)	520160549
+Der 2 D6 (Inactive) (V2.4)	520160550
+Der 2 D6 (Active) (V2.4)	520160551
+Der 2 D7 (Inactive) (V2.4)	520160552
+Der 2 D7 (Active) (V2.4)	520160553
+Der 2 D8 (Inactive) (V2.4)	520160554
+Der 2 D8 (Active) (V2.4)	520160555
+Der 2 D9 (Inactive) (V2.4)	520160556
+Der 2 D9 (Active) (V2.4)	520160557
+Der 2 D10 (Inactive) (V2.4)	520160558
+Der 2 D10 (Active) (V2.4)	520160559
+Der 2 D11 (Inactive) (V2.4)	520160560
+Der 2 D11 (Active) (V2.4)	520160561
+Der 2 D12 (Inactive) (V2.4)	520160562
+Der 2 D12 (Active) (V2.4)	520160563
+Der 2 D13 (Inactive) (V2.4)	520160564
+Der 2 D13 (Active) (V2.4)	520160565
+Der 2 D14 (Inactive) (V2.4)	520160566
+Der 2 D14 (Active) (V2.4)	520160567
+Der 2 D15 (Inactive) (V2.4)	520160568
+Der 2 D15 (Active) (V2.4)	520160569
+Der 3 D0 (Inactive) (V2.4)	520160570
+Der 3 D0 (Active) (V2.4)	520160571
+Der 3 D1 (Inactive) (V2.4)	520160572
+Der 3 D1 (Active) (V2.4)	520160573
+Der 3 D2 (Inactive) (V2.4)	520160574
+Der 3 D2 (Active) (V2.4)	520160575
+Der 3 D3 (Inactive) (V2.4)	520160576
+Der 3 D3 (Active) (V2.4)	520160577
+Der 3 D4 (Inactive) (V2.4)	520160578
+Der 3 D4 (Active) (V2.4)	520160579
+Der 3 D5 (Inactive) (V2.4)	520160580
+Der 3 D5 (Active) (V2.4)	520160581
+Der 3 D6 (Inactive) (V2.4)	520160582
+Der 3 D6 (Active) (V2.4)	520160583
+Der 3 D7 (Inactive) (V2.4)	520160584
+Der 3 D7 (Active) (V2.4)	520160585
+Der 3 D8 (Inactive) (V2.4)	520160586
+Der 3 D8 (Active) (V2.4)	520160587
+Der 3 D9 (Inactive) (V2.4)	520160588
+Der 3 D9 (Active) (V2.4)	520160589
+Der 3 D10 (Inactive) (V2.4)	520160590
+Der 3 D10 (Active) (V2.4)	520160591
+Der 3 D11 (Inactive) (V2.4)	520160592
+Der 3 D11 (Active) (V2.4)	520160593
+Der 3 D12 (Inactive) (V2.4)	520160594
+Der 3 D12 (Active) (V2.4)	520160595
+Der 3 D13 (Inactive) (V2.4)	520160596
+Der 3 D13 (Active) (V2.4)	520160597
+Der 3 D14 (Inactive) (V2.4)	520160598
+Der 3 D14 (Active) (V2.4)	520160599
+Der 3 D15 (Inactive) (V2.4)	520160600
+Der 3 D15 (Active) (V2.4)	520160601
+Elr Io State 1 (Inactive) (V2.4)	520160602
+Elr Io State 1 (Active) (V2.4)	520160603
+Elr Io State 2 (Inactive) (V2.4)	520160604
+Elr Io State 2 (Active) (V2.4)	520160605
+Elr Io State 3 (Inactive) (V2.4)	520160606
+Elr Io State 3 (Active) (V2.4)	520160607
+Elr Io State 4 (Inactive) (V2.4)	520160608
+Elr Io State 4 (Active) (V2.4)	520160609
+Elr Io State 5 (Inactive) (V2.4)	520160610
+Elr Io State 5 (Active) (V2.4)	520160611
+Elr Io State 6 (Inactive) (V2.4)	520160612
+Elr Io State 6 (Active) (V2.4)	520160613
+Elr Io State 7 (Inactive) (V2.4)	520160614
+Elr Io State 7 (Active) (V2.4)	520160615
+Elr Io State 8 (Inactive) (V2.4)	520160616
+Elr Io State 8 (Active) (V2.4)	520160617
+Elr Io State 9 (Inactive) (V2.4)	520160618
+Elr Io State 9 (Active) (V2.4)	520160619
+Elr Io State 10 (Inactive) (V2.4)	520160620
+Elr Io State 10 (Active) (V2.4)	520160621
+Elr Io State 11 (Inactive) (V2.4)	520160622
+Elr Io State 11 (Active) (V2.4)	520160623
+Elr Io State 12 (Inactive) (V2.4)	520160624
+Elr Io State 12 (Active) (V2.4)	520160625
+Elr Io State 13 (Inactive) (V2.4)	520160626
+Elr Io State 13 (Active) (V2.4)	520160627
+Elr Io State 14 (Inactive) (V2.4)	520160628
+Elr Io State 14 (Active) (V2.4)	520160629
+Elr Io State 15 (Inactive) (V2.4)	520160630
+Elr Io State 15 (Active) (V2.4)	520160631
+Elr Io State 16 (Inactive) (V2.4)	520160632
+Elr Io State 16 (Active) (V2.4)	520160633
+Elr Io State 17 (Inactive) (V2.4)	520160634
+Elr Io State 17 (Active) (V2.4)	520160635
+Elr Io State 18 (Inactive) (V2.4)	520160636
+Elr Io State 18 (Active) (V2.4)	520160637
+Elr Io State 19 (Inactive) (V2.4)	520160638
+Elr Io State 19 (Active) (V2.4)	520160639
+Elr Io State 20 (Inactive) (V2.4)	520160640
+Elr Io State 20 (Active) (V2.4)	520160641
+Elr Io State 21 (Inactive) (V2.4)	520160642
+Elr Io State 21 (Active) (V2.4)	520160643
+Elr Io State 22 (Inactive) (V2.4)	520160644
+Elr Io State 22 (Active) (V2.4)	520160645
+Elr Io State 23 (Inactive) (V2.4)	520160646
+Elr Io State 23 (Active) (V2.4)	520160647
+Elr Io State 24 (Inactive) (V2.4)	520160648
+Elr Io State 24 (Active) (V2.4)	520160649
+Elr Io State 25 (Inactive) (V2.4)	520160650
+Elr Io State 25 (Active) (V2.4)	520160651
+Elr Io State 26 (Inactive) (V2.4)	520160652
+Elr Io State 26 (Active) (V2.4)	520160653
+Elr Io State 27 (Inactive) (V2.4)	520160654
+Elr Io State 27 (Active) (V2.4)	520160655
+Elr Io State 28 (Inactive) (V2.4)	520160656
+Elr Io State 28 (Active) (V2.4)	520160657
+Elr Io State 29 (Inactive) (V2.4)	520160658
+Elr Io State 29 (Active) (V2.4)	520160659
+Elr Io State 30 (Inactive) (V2.4)	520160660
+Elr Io State 30 (Active) (V2.4)	520160661
+Elr Io State 31 (Inactive) (V2.4)	520160662
+Elr Io State 31 (Active) (V2.4)	520160663
+Elr Io State 32 (Inactive) (V2.4)	520160664
+Elr Io State 32 (Active) (V2.4)	520160665
+Elr Io State 33 (Inactive) (V2.4)	520160666
+Elr Io State 33 (Active) (V2.4)	520160667
+Elr Io State 34 (Inactive) (V2.4)	520160668
+Elr Io State 34 (Active) (V2.4)	520160669
+Elr Io State 35 (Inactive) (V2.4)	520160670
+Elr Io State 35 (Active) (V2.4)	520160671
+Elr Io State 36 (Inactive) (V2.4)	520160672
+Elr Io State 36 (Active) (V2.4)	520160673
+Elr Io State 37 (Inactive) (V2.4)	520160674
+Elr Io State 37 (Active) (V2.4)	520160675
+Elr Io State 38 (Inactive) (V2.4)	520160676
+Elr Io State 38 (Active) (V2.4)	520160677
+Elr Io State 39 (Inactive) (V2.4)	520160678
+Elr Io State 39 (Active) (V2.4)	520160679
+Elr Io State 40 (Inactive) (V2.4)	520160680
+Elr Io State 40 (Active) (V2.4)	520160681
+Elr Io State 41 (Inactive) (V2.4)	520160682
+Elr Io State 41 (Active) (V2.4)	520160683
+Elr Io State 42 (Inactive) (V2.4)	520160684
+Elr Io State 42 (Active) (V2.4)	520160685
+Elr Io State 43 (Inactive) (V2.4)	520160686
+Elr Io State 43 (Active) (V2.4)	520160687
+Elr Io State 44 (Inactive) (V2.4)	520160688
+Elr Io State 44 (Active) (V2.4)	520160689
+Elr Io State 45 (Inactive) (V2.4)	520160690
+Elr Io State 45 (Active) (V2.4)	520160691
+Elr Io State 46 (Inactive) (V2.4)	520160692
+Elr Io State 46 (Active) (V2.4)	520160693
+Elr Io State 47 (Inactive) (V2.4)	520160694
+Elr Io State 47 (Active) (V2.4)	520160695
+Elr Io State 48 (Inactive) (V2.4)	520160696
+Elr Io State 48 (Active) (V2.4)	520160697
+Elr Io State 49 (Inactive) (V2.4)	520160698
+Elr Io State 49 (Active) (V2.4)	520160699
+Elr Io State 50 (Inactive) (V2.4)	520160700
+Elr Io State 50 (Active) (V2.4)	520160701
+Elr Io State 51 (Inactive) (V2.4)	520160702
+Elr Io State 51 (Active) (V2.4)	520160703
+Elr Io State 52 (Inactive) (V2.4)	520160704
+Elr Io State 52 (Active) (V2.4)	520160705
+Elr Io State 53 (Inactive) (V2.4)	520160706
+Elr Io State 53 (Active) (V2.4)	520160707
+Elr Io State 54 (Inactive) (V2.4)	520160708
+Elr Io State 54 (Active) (V2.4)	520160709
+Elr Io State 55 (Inactive) (V2.4)	520160710
+Elr Io State 55 (Active) (V2.4)	520160711
+Elr Io State 56 (Inactive) (V2.4)	520160712
+Elr Io State 56 (Active) (V2.4)	520160713
+Elr Io State 57 (Inactive) (V2.4)	520160714
+Elr Io State 57 (Active) (V2.4)	520160715
+Elr Io State 58 (Inactive) (V2.4)	520160716
+Elr Io State 58 (Active) (V2.4)	520160717
+Elr Io State 59 (Inactive) (V2.4)	520160718
+Elr Io State 59 (Active) (V2.4)	520160719
+Elr Io State 60 (Inactive) (V2.4)	520160720
+Elr Io State 60 (Active) (V2.4)	520160721
+Elr Io State 61 (Inactive) (V2.4)	520160722
+Elr Io State 61 (Active) (V2.4)	520160723
+Elr Io State 62 (Inactive) (V2.4)	520160724
+Elr Io State 62 (Active) (V2.4)	520160725
+Elr Io State 63 (Inactive) (V2.4)	520160726
+Elr Io State 63 (Active) (V2.4)	520160727
+Elr Io State 64 (Inactive) (V2.4)	520160728
+Elr Io State 64 (Active) (V2.4)	520160729
+Left Engine Lowering (Inactive) (V2.4)	520160730
+Left Engine Lowering (Active) (V2.4)	520160731
+Right Engine Lowering (Inactive) (V2.4)	520160732
+Right Engine Lowering (Active) (V2.4)	520160733
+Left Engine Pressure Switch Travel (Inactive) (V2.4)	520160734
+Left Engine Pressure Switch Travel (Active) (V2.4)	520160735
+Right Engine Pressure Switch Travel (Inactive) (V2.4)	520160736
+Right Engine Pressure Switch Travel (Active) (V2.4)	520160737
+Left Engine Pressure Switch Load (Inactive) (V2.4)	520160738
+Left Engine Pressure Switch Load (Active) (V2.4)	520160739
+Right Engine Pressure Switch Load (Inactive) (V2.4)	520160740
+Right Engine Pressure Switch Load (Active) (V2.4)	520160741
+Left Engine Pressure Switch Lifting Force (Inactive) (V2.4)	520160742
+Left Engine Pressure Switch Lifting Force (Active) (V2.4)	520160743
+Right Engine Pressure Switch Lifting Force (Inactive) (V2.4)	520160744
+Right Engine Pressure Switch Lifting Force (Active) (V2.4)	520160745
+Left Engine Pressure Switch Clam (Inactive) (V2.4)	520160746
+Left Engine Pressure Switch Clam (Active) (V2.4)	520160747
+Right Engine Pressure Switch Clam (Inactive) (V2.4)	520160748
+Right Engine Pressure Switch Clam (Active) (V2.4)	520160749
+Left Engine Switch Lowering (Inactive) (V2.4)	520160750
+Left Engine Switch Lowering (Active) (V2.4)	520160751
+Right Engine Switch Lowering (Inactive) (V2.4)	520160752
+Right Engine Switch Lowering (Active) (V2.4)	520160753
+Oem Interface Timeout (V2.4)	520224736
+Oem Interface Normal (V2.4)	520224737
+Driver Interface Timeout (V2.4)	520224738
+Driver Interface Normal (V2.4)	520224739

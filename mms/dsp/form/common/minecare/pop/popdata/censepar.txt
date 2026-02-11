@@ -1,0 +1,78 @@
+117506049	Coolant Pressure	0	0	9
+117506050	Coolant Temperature	0	0	5
+117506051	Fuel Rail Pressure	0	0	9
+117506052	Average Fuel Consumption	0	0	13
+117506053	Blowby Pressure	0	0	9
+117506054	Engine Speed	0	0	28
+117506055	Average Load Factor	0	0	25
+117506056	BHp	0	0	3
+117506057	ECM Temperature	0	0	5
+117506058	Total Engine Hours	0	0	7
+117506059	Hours to Rebuild	0	0	7
+117506060	Engine Idle Hours	0	0	7
+117506061	Pre Lube Oil Filter Pressure	0	0	9
+117506062	Post Lube Oil Filter Pressure	0	0	9
+117506063	Lube Oil Temperature	0	0	5
+117506064	Ambient Air Pressure	0	0	9
+117506065	Intake Manifold Temp Left Front	0	0	5
+117506066	Intake Manifold Temp Left Rear	0	0	5
+117506067	Intake Manifold Temp Right Front	0	0	5
+117506068	Intake Manifold Temp Right Rear	0	0	5
+117506069	Intake Manifold Pressure Left Bank	0	0	9
+117506070	Intake Manifold Pressure Right Bank	0	0	9
+117506071	#1 Left Bank Exh Port Temperature	0	0	5
+117506072	#2 Left Bank Exh Port Temperature	0	0	5
+117506073	#3 Left Bank Exh Port Temperature	0	0	5
+117506074	#4 Left Bank Exh Port Temperature	0	0	5
+117506075	#5 Left Bank Exh Port Temperature	0	0	5
+117506076	#6 Left Bank Exh Port Temperature	0	0	5
+117506077	#7 Left Bank Exh Port Temperature	0	0	5
+117506078	#8 Left Bank Exh Port Temperature	0	0	5
+117506079	#1 Right Bank Exh Port Temperature	0	0	5
+117506080	#2 Right Bank Exh Port Temperature	0	0	5
+117506081	#3 Right Bank Exh Port Temperature	0	0	5
+117506082	#4 Right Bank Exh Port Temperature	0	0	5
+117506083	#5 Right Bank Exh Port Temperature	0	0	5
+117506084	#6 Right Bank Exh Port Temperature	0	0	5
+117506085	#7 Right Bank Exh Port Temperature	0	0	5
+117506086	#8 Right Bank Exh Port Temperature	0	0	5
+117506087	Oil Filter Differential Pressure	0	0	9
+117516049	Coolant Pressure	0	0	9
+117516050	Coolant Temperature	0	0	5
+117516051	Fuel Rail Pressure	0	0	9
+117516052	Average Fuel Consumption	0	0	13
+117516053	Blowby Pressure	0	0	9
+117516054	Engine Speed	0	0	28
+117516055	Average Load Factor	0	0	25
+117516056	BHp	0	0	3
+117516057	ECM Temperature	0	0	5
+117516058	Total Engine Hours	0	0	7
+117516059	Hours to Rebuild	0	0	7
+117516060	Engine Idle Hours	0	0	7
+117516061	Pre Lube Oil Filter Pressure	0	0	9
+117516062	Post Lube Oil Filter Pressure	0	0	9
+117516063	Lube Oil Temperature	0	0	5
+117516064	Ambient Air Pressure	0	0	9
+117516065	Intake Manifold Temp Left Front	0	0	5
+117516066	Intake Manifold Temp Left Rear	0	0	5
+117516067	Intake Manifold Temp Right Front	0	0	5
+117516068	Intake Manifold Temp Right Rear	0	0	5
+117516069	Intake Manifold Pressure Left Bank	0	0	9
+117516070	Intake Manifold Pressure Right Bank	0	0	9
+117516071	#1 Left Bank Exh Port Temperature	0	0	5
+117516072	#2 Left Bank Exh Port Temperature	0	0	5
+117516073	#3 Left Bank Exh Port Temperature	0	0	5
+117516074	#4 Left Bank Exh Port Temperature	0	0	5
+117516075	#5 Left Bank Exh Port Temperature	0	0	5
+117516076	#6 Left Bank Exh Port Temperature	0	0	5
+117516077	#7 Left Bank Exh Port Temperature	0	0	5
+117516078	#8 Left Bank Exh Port Temperature	0	0	5
+117516079	#1 Right Bank Exh Port Temperature	0	0	5
+117516080	#2 Right Bank Exh Port Temperature	0	0	5
+117516081	#3 Right Bank Exh Port Temperature	0	0	5
+117516082	#4 Right Bank Exh Port Temperature	0	0	5
+117516083	#5 Right Bank Exh Port Temperature	0	0	5
+117516084	#6 Right Bank Exh Port Temperature	0	0	5
+117516085	#7 Right Bank Exh Port Temperature	0	0	5
+117516086	#8 Right Bank Exh Port Temperature	0	0	5
+117516087	Oil Filter Differential Pressure	0	0	9

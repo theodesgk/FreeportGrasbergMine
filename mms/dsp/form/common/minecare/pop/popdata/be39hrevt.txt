@@ -1,0 +1,111 @@
+Programming Forces Inactive	637599744
+Programming Forces Active	637599745
+Default Data Loaded Inactive	637599746
+Default Data Loaded Active	637599747
+Profibus Node 1 (Cab Rack) Fault Inactive	637599748
+Profibus Node 1 (Cab Rack) Fault Active	637599749
+Profibus Node 2 (Operator Display) Fault Inactive	637599750
+Profibus Node 2 (Operator Display) Fault Active	637599751
+Profibus Node 3 (Main Frame Rack) Fault Inactive	637599752
+Profibus Node 3 (Main Frame Rack) Fault Active	637599753
+Profibus Node 4 (Power Module Rack) Fault Inactive	637599754
+Profibus Node 4 (Power Module Rack) Fault Active	637599755
+Profibus Node 5 (Mast Rack) Fault Inactive	637599756
+Profibus Node 5 (Mast Rack) Fault Active	637599757
+Profibus Node 6 (Head Encoder) Fault Inactive	637599758
+Profibus Node 6 (Head Encoder) Fault Active	637599759
+Profibus Node 9 (Radio Remote) Fault Inactive	637599760
+Profibus Node 9 (Radio Remote) Fault Active	637599761
+Profibus Node 14 (Power Module 2) Fault Inactive	637599762
+Profibus Node 14 (Power Module 2) Fault Active	637599763
+Compressor Oil Cooling Failure Inactive	637599764
+Compressor Oil Cooling Failure Active	637599765
+Compressor Overheating Fault Inactive	637599766
+Compressor Overheating Fault Active	637599767
+Compressor Oil Filter Clogged Inactive	637599768
+Compressor Oil Filter Clogged Active	637599769
+Compressor High Air Temperature Fault Inactive	637599770
+Compressor High Air Temperature Fault Active	637599771
+Tilt Warning Inactive	637599772
+Tilt Warning Active	637599773
+Compressor Oil Pressure Loss Inactive	637599774
+Compressor Oil Pressure Loss Active	637599775
+Head Calibration / Limits Out Of Range Inactive	637599776
+Head Calibration / Limits Out Of Range Active	637599777
+Head Overspeed Fault Inactive	637599778
+Head Overspeed Fault Active	637599779
+Machine Setting(S) Out Of Range Inactive	637599780
+Machine Setting(S) Out Of Range Active	637599781
+Radio Remote Propel Shutdown Inactive	637599782
+Radio Remote Propel Shutdown Active	637599783
+Emergency Stop Inactive	637599784
+Emergency Stop Active	637599785
+Diesel Shutdown Alarm Inactive	637599786
+Diesel Shutdown Alarm Active	637599787
+Pipe Collision Averted Inactive	637599788
+Pipe Collision Averted Active	637599789
+Boarding Stairs Down Inactive	637599790
+Boarding Stairs Down Active	637599791
+Pipe In Hole Warning Inactive	637599792
+Pipe In Hole Warning Active	637599793
+Jacks Not Retracted Inactive	637599794
+Jacks Not Retracted Active	637599795
+Hydraulic Suction Valve Closed Inactive	637599796
+Hydraulic Suction Valve Closed Active	637599797
+Hydraulic Filters Clogged Inactive	637599798
+Hydraulic Filters Clogged Active	637599799
+Control Disabled Due To Low Engine Speed Inactive	637599800
+Control Disabled Due To Low Engine Speed Active	637599801
+Hydraulic Oil Level Low Inactive	637599802
+Hydraulic Oil Level Low Active	637599803
+Control Disabled Due To Masterswitches Not In Neutral Inactive	637599804
+Control Disabled Due To Masterswitches Not In Neutral Active	637599805
+Pipe Arm Not Fully Lowered Inactive	637599806
+Pipe Arm Not Fully Lowered Active	637599807
+Head Not Above Pipe Arm Limit Inactive	637599808
+Head Not Above Pipe Arm Limit Active	637599809
+Clamp Or Gate Note Closed Inactive	637599810
+Clamp Or Gate Note Closed Active	637599811
+Head / Main Frame Collision Warning Inactive	637599812
+Head / Main Frame Collision Warning Active	637599813
+Masterswitches Not In Neutral Inactive	637599814
+Masterswitches Not In Neutral Active	637599815
+Incorrect Pipe Count Inactive	637599816
+Incorrect Pipe Count Active	637599817
+Tilt Alarm - Radio Remote Shutdown Inactive	637599818
+Tilt Alarm - Radio Remote Shutdown Active	637599819
+Low Oil Pressure In Pdt Inactive	637599820
+Low Oil Pressure In Pdt Active	637599821
+Front-Rear Deck Angle Sensor (Frdas) Error Inactive	637599822
+Front-Rear Deck Angle Sensor (Frdas) Error Active	637599823
+Machine Left-Right Angle Sensor (Mlras) Error Inactive	637599824
+Machine Left-Right Angle Sensor (Mlras) Error Active	637599825
+Compressor Air Temperature Transmitter (Catt) Error Inactive	637599826
+Compressor Air Temperature Transmitter (Catt) Error Active	637599827
+Compressor Oil Temperature Transmitter (Cott) Error Inactive	637599828
+Compressor Oil Temperature Transmitter (Cott) Error Active	637599829
+Air Compressor Pressure Transducer (Acpt) Error Inactive	637599830
+Air Compressor Pressure Transducer (Acpt) Error Active	637599831
+Hoist Line Pressure Transducer (Hptd) Error Inactive	637599832
+Hoist Line Pressure Transducer (Hptd) Error Active	637599833
+Pulldown Pressure Transducer (Pptd) Error Inactive	637599834
+Pulldown Pressure Transducer (Pptd) Error Active	637599835
+Rotary Speed Feedback (Rsf) Error Inactive	637599836
+Rotary Speed Feedback (Rsf) Error Active	637599837
+Mast Angle Sensor (Maas) Error Inactive	637599838
+Mast Angle Sensor (Maas) Error Active	637599839
+Head Control Fault Inactive	637599840
+Head Control Fault Active	637599841
+Pipe Arm Raised Inactive	637599842
+Pipe Arm Raised Active	637599843
+Propel Switch Mode Inactive	637599844
+Propel Switch Mode Active	637599845
+Drill Switch Mode Inactive	637599846
+Drill Switch Mode Active	637599847
+Tool Wrench Extended Inactive	637599848
+Tool Wrench Extended Active	637599849
+New Hole Started	637599850
+Oem Interface Timeout	637665248
+Oem Interface Normal	637665249
+Driver Interface Timeout	637665250
+Driver Interface Normal	637665251

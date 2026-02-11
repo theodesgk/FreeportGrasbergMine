@@ -1,0 +1,18 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/Bays.cfg
+ln -sf ../English/Options.cfg
+ln -sf ../English/Trucks.cfg
+ln -sf ../English/w0.cfg
+ln -sf ../English/w0.Clock.cfg
+ln -sf ../English/w0.Sl1.cfg
+ln -sf ../English/w0.Sl2.cfg
+ln -sf ../English/w0.Text.cfg
+ln -sf ../English/w0.Title.cfg
+ln -sf ../English/w0.Trucks.cfg
+ln -sf ../English/w0.v1.cfg
+ln -sf ../English/w0.v2.cfg
+ln -sf ../English/w0.v3.cfg
+ln -sf ../English/WinMgr.cfg

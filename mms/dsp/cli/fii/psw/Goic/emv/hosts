@@ -1,0 +1,19 @@
+%!/psw/cpp
+
+#Origianl Can_5.1 in AT for SSR address
+host SSR_5 Can.1
+
+#Origianl Can_6.1 in AT for SSR address
+host SSR_6 Can.1
+
+#Origianl Can_5.-2 in AT for broadcast on Can bus
+host CtrlNetBcast_5 Can.-2
+
+#Origianl Can_4.-2 in AT for broadcast on Can bus
+host CtrlNetBcast_4 Can.-2
+
+#Origianl Can_5.0 in AT for Hub on Can bus
+host HUB_5 Can.0
+ 
+
+

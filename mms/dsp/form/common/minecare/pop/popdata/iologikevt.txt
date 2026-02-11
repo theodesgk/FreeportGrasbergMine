@@ -1,0 +1,6 @@
+Fuel Level At 10%	1711341568
+Fuel Level At 20%	1711341569
+OEM Interface Timeout	1711407072
+OEM Interface Normal	1711407073
+Driver Interface Timeout	1711407074
+Driver Interface Normal	1711407075

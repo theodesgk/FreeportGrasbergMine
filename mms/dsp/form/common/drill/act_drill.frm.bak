@@ -1,0 +1,1256 @@
+..
+..DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: act_drill.frm.bak,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:11 $
+..    $State: Exp $
+..
+.include drill/dbdrill
+..
+.. initialize drill symbols so that the following actions don't get
+.. unknown symbol errors when dispatch fires up.
+..
+..init \
+  DB$SYMBOL( PIT$FD, "pitloc", "DRILLLOC$" ),
+  db_drill,
+  DB$SYMBOL( "DRILLDAT", "tran", "DTR$", "create"),
+  DB$SYMBOL( "DRILLDAT", "part", "DPA$", "create"),
+  DB$SYMBOL( "DRILLDAT", "blas", "DBL$", "create"),
+  DB$SYMBOL( "DRILLDAT", "conf", "DCO$", "create"),
+  DB$SYMBOL( "DRILLSHI", "tran", "STR$", "append"),
+  DB$SYMBOL( "DRILLSHI", "part", "SPA$", "create"),
+  DB$SYMBOL( "DRILLSHI", "hole", "SHO$", "create"),
+  DB$SYMBOL( "DRILLPRO", "conf", "SCO$", "create"),
+  DB$SYMBOL( "DRILLPRO", "prof", "SPR$", "create")
+..
+.vstr strvar
+..
+.. the following global variables are used to pass drill specific
+.. statuses and operator messages
+..
+.vint drill_kstate
+.export drill_kstate
+..
+.vstr drill_statmsg
+.export drill_statmsg
+..
+.vstr drill_opmsg
+.export drill_opmsg
+..
+.. this little total is used to keep track of endhole actions
+.. for thos interfaces where there might be more than one way
+.. to signify this
+..
+.def Interface, HasBit, DepthWhenPressed, PressedBefore, 
+  ActiveThisShift, Infos
+.total drillinfo(nil).Infos
+..
+.expr IS_DRILL DSP$UNIT = unit_drill
+..
+.expr open_file( *fd, fname, ftype) \
+  !DB$OPEN( fname, ftype, "gw", fd ) ?
+    TRN$SCREEN( "!!! Can't access Drill database `%s'.", fname),
+  return( fd)
+..
+.vint dfd
+.expr file_exists( fname, ftype) \
+  DB$OPEN( fname, ftype, "o", dfd) ?
+  (
+    DB$CLOSE( dfd), 
+    return( 1)
+  ) :
+    return( 0)
+..
+.expr is_from_field \
+  DSP$SOURCE = "Panel"
+..
+.expr packet_arg \
+  is_from_field ? DSP$COMMENT := PSW$ARGV(0) : DSP$COMMENT
+..
+.vint drdatdf
+.vint drshidf
+.vint drprodf
+.vint drill_active
+.init drill_active := 1
+.vint drill_startup
+.init drill_startup := 0
+..
+.expr DRILL$STARTUP \
+..
+.. the current shift has just started. so run a form that will
+.. 'reconcile' the previous shift database and carry over any
+.. current parts and unfinished holes into the current shift
+..
+  drillinfo("zap") := 1,
+  drill_startup := 1,
+  DSP$ISSIM ? 
+    !ASK("b", "Do you want to use the drill databases in DSP_OPNS ? ") ?
+    (
+      drill_active := 0,
+      return( 0)
+    ),
+..
+  TRN$SCREEN( "### Creating new Drill database..."),
+  SPAWN( "",
+         "/dsp/bin/mms keypad form=drill/drillcreate",
+         "/dev/null",
+         "/dev/null"),
+..
+  loop( A$ID.( A$UNIT = unit_drill ) )
+..(
+    A$BEANS := 0.0,
+    A$DEPTH := 0.0,
+    A$DIGITAL.20 := 0
+  )
+..
+.expr DRILL$RESTART \
+..
+.. dispatch was started up.
+..
+  DSP$ISSIM ?
+  !drill_startup ? 
+  !ASK("b", "Do you want to use the drill databases in DSP_OPNS ? ") ?
+    (
+      drill_active := 0,
+      return( 0)
+    ),
+..
+  !open_file( drdatdf, drilldat_file, "DRILLDAT") ?
+    return( 0),
+  !open_file( drshidf, drillshi_file(SH$DATE), "DRILLSHI") ?
+    return( 0),
+  STORE_HOLE_PROFILES ?
+    !open_file( drprodf, drillpro_file(SH$DATE), "DRILLPRO") ?
+      return( 0),
+..
+.. link symbols to the open databases
+..
+  DB$SYMBOL( drdatdf, "tran", "DTR$", "create"),  .. drilldat
+  DB$SYMBOL( drdatdf, "part", "DPA$", "create"),  .. drilldat
+  DB$SYMBOL( drdatdf, "blas", "DBL$", "create"),  .. drilldat
+  DB$SYMBOL( drdatdf, "conf", "DCO$", "create"),  .. drilldat
+  DB$SYMBOL( drshidf, "tran", "STR$", "append"),  .. shiftdat
+  DB$SYMBOL( drshidf, "part", "SPA$", "create"),  .. shiftdat
+  DB$SYMBOL( drshidf, "hole", "SHO$", "create"),  .. shiftdat
+  STORE_HOLE_PROFILES ?
+  (
+    DB$SYMBOL( drprodf, "conf", "SCO$", "create"),.. shiftprof
+    DB$SYMBOL( drprodf, "prof", "SPR$", "create") .. shiftprof
+  ),
+  loop(A$ID.(A$UNIT = unit_drill))
+..(
+   drillinfo("create") := A$ID[%..2s],
+   A$CONFIG ?? DCO$ID( A$CONFIG) ?
+     drillinfo.Interface := DCO$INTERF
+  )
+..
+.. that's it for the initialisation part
+..
+.venum ecode PCODE
+.venum epart DRPART
+.venum epos PPOS
+.vbool missingpart
+..
+.expr parts_mounted \
+..
+.. the default check is just whether a drill has a bit mounted
+.. expand this as required
+..
+  drillinfo("create") := A$ID[%..2s],
+  drillinfo.HasBit=nil ?
+  (
+    drillinfo.HasBit := 0,
+    loop( DTR$ID.( DTR$PART=part_bit & DTR$EQMT=A$ID[%..2s])) ..(
+      !DTR$DISMOUNT ? drillinfo.HasBit := 1)
+  ),
+  !drillinfo.HasBit ?
+  (
+    epart := part_bit,
+    is_from_field ?
+      TRN$PANEL("KD You must first mount a %s !", epart),
+    TRN$SCREEN("---%s pressed %s but has no %s mounted",
+      DSP$EQMT, DSP$ACTION, epart)
+  ),
+  return( drillinfo.HasBit)
+..
+.expr update_parts( part) \
+..
+.. update our totaliser for additions of parts. a drill can
+.. only mount parts (and not specifically dismount them) in act_drill
+..
+  drillinfo("create") := A$ID[%..2s],
+  case( int part)
+..(
+    part_bit: drillinfo.HasBit := 1
+  )
+..
+.expr DRILL$POWERUP \
+..
+.. this expression handles any special actions that need to be performed
+.. whenever a drill powers up
+..
+.. update Goic with current (last) material known
+..
+  ( int A$MATERIAL > 0) & SENDDRILLMATERIAL ? TRN$PANEL( "KMATL %s", A$MATERIAL),
+..
+  return( 1)
+..
+.vstr matl
+..
+.expr DRILL$LOAD \
+..
+.. the drill operator has changed the material type.
+..
+  matl := packet_arg,
+  !ENUM( enum DRILL_LOAD 0, matl) ?
+  (
+    TRN$EXCEPT( 0),
+    return( 0)
+  ),
+  A$MATERIAL := matl,
+  ( A$BLAST <> nil) & DBL$ID( A$BLAST) ?
+    DBL$MATL := A$MATERIAL,
+  TRN$SCREEN( "---%s changed material type to %s", DSP$EQMT, matl),
+  return( 1)
+..
+.expr DRILL$STATE( action) \
+..
+.. this expression traps any special events that occur for drills that
+.. need different treatment than those for other aux equipment. it also
+.. sets the next action where this is drill specific and similarly the
+.. kstate numbers for which we assume a set of predefined state symbols
+.. 'drill_starthole', 'drill_endhole', 'drill_moving'. these symbols
+.. must be defined in act_dispatch. DRILL$STATE
+.. should be called before the kstate rpcs are sent to field equipment
+.. but after the generic aux equipment status handling. iow, use
+.. DRILL$STATE to override the generic stuff.
+.. since clients sites are going to differ in Goic designs and there-
+.. fore kstate definitions, the actual kstate commands are left for
+.. act_dispatch to process
+..
+.. to help act_dispatch, two string variables are defined which can be
+.. used in subsequent KSTATE or KD commands. They are :
+..
+.. 'drill_statmsg'  : Status of drill eg. "Ready at blast XXX" or
+..                    "Moving to New Hole"
+.. 'drill_opmsg'    : Drilling msg. if drilling, this string will
+..                    contain either "Drill XXX" or "Redrill XX"
+..                    with XXX the hole name in client format
+..
+.. the final drill kstate is defined in 'drill_kstate'. act_dispatch
+.. should check this variable; if not zero, then the drill msg strings
+.. and drill kstate are valid. DRILL$STATE also returns 1 if ths is the
+.. case, '0' otherwise
+..
+  A$ACTLAST=0 ? A$ACTLAST := "Ready",
+  A$ACTSAVE=0 ? A$ACTSAVE := "Ready",
+  A$ACTNEXT=0 ? A$ACTNEXT := "Start Hole",
+  drill_kstate := 0,
+  drill_statmsg := (A$STATUS, A$LOC, A$LOC.0)[%s at %s %s],
+  drill_opmsg := "",
+..
+.. anything that's handled here, will result in a case <> 0
+..
+  case( action)
+..(
+    act_delay:
+      A$REASON = DR_DELAYMOVING ?
+      (
+        drill_kstate := drill_moving,
+        drill_statmsg := "Moving to New Hole",
+        A$ACTNEXT := act_starthole,
+        1
+      ) : 0
+..
+    act_ready:
+      A$ACTNEXT <> act_endhole ? A$ACTNEXT := act_starthole,
+      1
+..
+    act_except,
+    act_endhole,
+    act_starthole: 1
+..
+    default: 0
+  ) ?
+  (
+    action = act_except ? return( 1),
+    case(int A$ACTNEXT)
+..  (
+      act_endhole:
+        drill_kstate := drill_endhole,
+        strvar := SUBSTR( A$HOLE, STRLEN(A$HOLE) - 
+          STRLEN(REDRILL_SUFFIX), STRLEN(REDRILL_SUFFIX)),
+        strvar = REDRILL_SUFFIX ?
+          drill_opmsg := "Redrill " :
+          drill_opmsg := "Hole ",
+        drill_opmsg := drill_opmsg + A$HOLE,
+        drill_statmsg := "Drilling..."
+..
+      act_starthole:
+        drill_kstate <> drill_moving ? drill_kstate := drill_starthole
+    )
+  ),
+  !A$DIGITAL.20 ?
+  (
+.. first time this shift that we have rec'd a starthole from
+.. this drill. some drills keep an on-board accumulated depth
+.. drilled. we like to reset this each shift. NOTE that if
+.. dispatch is restarted, it will also cause acc to be reset
+..
+    drillinfo("create") := A$ID[%..2s],
+    drillinfo.Interface = nil & A$CONFIG & DCO$ID( A$CONFIG) ?
+      drillinfo.Interface := DCO$INTERF,
+    case( drillinfo.Interface)
+..  (
+      intf_ph,
+      intf_be: 
+       (
+        TRN$PANEL( "%{drillinfo.Interface}-VSHIFT"),
+        TRN$SCREEN("###%{drillinfo.Interface} Shift Begin Signal sent to %{DSP$EQMT}")
+       )
+    ),
+    A$DIGITAL.20 := drillinfo.ActiveThisShift := 1
+  ),
+..
+  return( drill_kstate)
+..
+.vstr rsn
+.vstr prt
+.vstr pos
+.vstr id
+.vstr eqmt
+..
+.expr DRILL$PART \
+..
+.. this expression handles the received packet from a drill
+.. indicating that a new part has been mounted
+..
+.. decode packet. packet must consist of
+.. "part type/[pos]/remove reason/new part id" where the
+.. part type, pos and reason are enumerated variables defined
+.. in 'drillconfig.frm'
+..
+  DECODE( packet_arg, "%s/%s/%s/%s", prt, pos, rsn, id ),
+..
+.. check that we know this particular reason, it can be either
+.. a string or number, but has to be part of enumerated PCODE
+.. if it's not, set to value 0 which will cause an exception
+..
+  prt := nvl(prt,0), pos := nvl(pos,0), rsn := nvl(rsn,0),
+..
+  !ENUM( enum PCODE 0, rsn) ?
+    rsn := 0,
+..
+.. same for part
+..
+  !ENUM( enum DRPART 0, prt) ?
+    prt := 0,
+..
+.. same for position
+..
+  !ENUM( enum PPOS 0, pos) ?
+    pos := 0,
+..
+  epart := prt,
+  epos := pos,
+  ecode := rsn,
+..
+.. even if good position was entered, if the part doesn't need
+.. ( = allow) one then ignore it
+..
+  needs_position( epart) <> 1 ? pos := 0,
+..
+.. make sure the new part name conforms to client conventions. The
+.. function parse_partname is defined in drillconfig and redefined in
+.. drillclient if needed. It returns 'nil' if name not valid, or a
+.. correctly formatted version of the original name
+..
+  id := parse_partname( id),
+..
+.. check if all information is supplied
+..
+  do_except := 0,
+  DRILLEXCEPTCMNT := nil,
+  rsn = 0 ? 
+  (
+    do_except := 1, 
+    DRILLEXCEPTCMNT := "No dismount reason"
+  ),
+  (needs_position( int epart) & pos = 0) ? 
+  (
+    do_except := 1,
+    DRILLEXCEPTCMNT := nvl(DRILLEXCEPTCMNT + "; ", "") + "No position"
+  ),
+  id = nil ?
+  (
+    do_except := 1,
+    DRILLEXCEPTCMNT := nvl(DRILLEXCEPTCMNT + "; ", "") + "No valid part name"
+  ),
+  do_except ?
+  (
+    TRN$EXCEPT( 0),
+    return( 0)
+  ),
+..
+.. check whether part id already exists in part table
+..
+  DPA$ID(id) ?
+  (
+..
+.. it exists so check whether it is listed as already mounted
+..
+    DTR$ID(id) ?
+    (
+      ( DTR$DISMOUNT=nil) & ( DTR$MOUNT<>nil) ?
+      (
+        is_from_field ?
+        (
+          TRN$PANEL( "KD %s is already mounted\\nas %s%s on %s !\rKBEEP 1",
+            id, epos, DTR$PART, DTR$EQMT)
+        ) :
+          TRN$EXCEPT( 1),
+        return( 0)
+      )
+    )
+  ) :
+  (
+..
+.. it doesn't exist yet. depending on the mine, we accept it as a valid
+.. new part or create an exception to make sure
+..
+    ( DSP$SOURCE<>"Except") & !DR_ACCEPT_NEWPART ?
+    (
+      TRN$EXCEPT( 2),
+      return( 0)
+    ),
+..
+.. and set everything as far as we know
+..
+    DPA$ID := id,
+    DPA$FIRSTKNOWN := "\\" + CLOCK,
+    DPA$PART := epart,
+    DPA$MANF := part_manufact(id),
+    DPA$MODEL := part_model( id),
+    DPA$SIZE := part_size( id)
+  ),
+..
+.. make sure that there's a related part record in the shift
+.. database
+..
+  !SPA$ID( id) ? DB$COPY( "DPA$ID", "SPA$ID"),
+..
+.. epos will be nil if there is no position info. now check
+.. for the existence of any parts of the same type in the
+.. same position on the same drill and dismount those
+..
+  eqmt := A$ID[%..2s],
+  loop( DTR$ID.( ( DTR$EQMT=eqmt) & ( DTR$DISMOUNT=nil)))
+..(
+    ( DTR$PART=epart) & ( DTR$POS>0 ? DTR$POS=epos : 1) ?
+    (
+..
+.. first update the 'snapshot' drill database
+..
+      DTR$DISMOUNT := "\\" + CLOCK,
+      DTR$CODE := rsn,
+..
+.. then update the current shift database
+..
+      loop( STR$ID.( STR$ID=DTR$ID))
+..    (
+        STR$DISMOUNT=nil ?
+        (
+          STR$DISMOUNT := DTR$DISMOUNT,
+          STR$CODE := rsn,
+          TRN$PANEL( "KD Dismounted%s%s %s\\nReason: %s",
+            epos, epart, STR$ID, STR$CODE),
+          TRN$SCREEN( "---%s dismounted%s%s %s for reason: %s",
+            DSP$EQMT, epos, epart, STR$ID, STR$CODE)
+        )
+      )
+    )
+  ),
+..
+.. point to new or existing transaction record for this part
+.. the drill snapshot database has the transaction records
+.. sorted by unique id. the shift transaction table on the
+.. other hand can have more than one record per part (=id)
+..
+  !DTR$ID(id) ? DTR$ID := id,
+..
+.. then, fill in the new things we know about this part
+..
+  DTR$MOUNT := "\\" + CLOCK,
+  DTR$DISMOUNT := nil,
+  DTR$EQMT := A$ID[%..2s],
+  DTR$POS := epos,
+  DTR$PART := epart,
+..
+.. copy new transaction record to the shift database. the
+.. transaction records do not need unique ids
+..
+  DB$COPY( "DTR$ID", "STR$ID"),
+..
+  TRN$PANEL("KD Mounted%s%s %s", epos, epart, id),
+  TRN$SCREEN( "---%s mounted%s%s %s.",
+    DSP$EQMT, epos, epart, id),
+..
+  update_parts( epart),
+..
+.. if the automatic delay 'mounting new part' is selected, then
+.. put the drill into delay
+..
+  DR_DELAY_ON_MOUNT ? 
+    A$ACTION := (act_delay, DR_DELAYMOUNTING)[%d, %d],
+..
+  return( 1)
+..
+.expr DRILL$BLAST \
+..
+.. this is called when the drill changes blast location
+..
+  newloc := packet_arg,
+..
+.. if the drill is drilling and the action was originated by the
+.. drill operator, then we can discard it after supplying appro-
+.. priate feedback
+..
+  A$ACTNEXT = act_endhole ?
+  (
+    is_from_field ?
+    (
+      TRN$SCREEN("---%s pressed BLAST while drilling, ignored",
+        DSP$EQMT),
+      TRN$PANEL("KD You must FINISH HOLE first !"),
+      return( 0)
+    )
+  ),
+..
+.. is this a valid blast location (if check required)
+..
+  !DRILLLOC$ID( newloc) | DRILLLOC$UNIT <> unit_blast ?
+  (
+    DR_ACCEPT_ANYBLAST ?
+    (
+      A$BLAST := newloc
+    ) :
+    (
+      is_from_field ?
+      (
+        TRN$PANEL( "KBEEP 1\rKD No blast with name %s", newloc)
+      ) :
+        TRN$EXCEPT( 0),
+      return( 0)
+    )
+  ) :
+  (
+    A$BLAST := newloc,
+..
+.. now in some mines blasts are different to locations. by default
+.. however, we link the drill location to the current blast
+.. if not required, change the DR_LOC_IS_BLAST macro in drillclient.frm
+..
+    DR_BLAST_IS_LOC ?
+      A$LOC := (unit_blast, A$BLAST)[%d,%s]
+  ),
+..
+  TRN$SCREEN( "---%s now drilling in blast %s", DSP$EQMT, A$BLAST),
+  is_from_field ?
+    TRN$PANEL( "KD Current blast is %s", A$BLAST),
+..
+.. if there is not yet a record for this blast, create one. if there
+.. is, update drill material with the blast material (if specified)
+..
+  !DBL$ID( A$BLAST) ?
+  (
+    DBL$ID := A$BLAST,
+    DBL$START := "\\" + CLOCK,
+..
+.. carry over the previously drilled material, basically as a
+.. starting point for an unknown blast
+..
+    ( int A$MATERIAL > 0) ? 
+      DBL$MATL := A$MATERIAL :
+      DBL$MATL := "Unknown"
+  ) :
+  (
+..
+.. the blast was known before so we must assume that the blast
+.. material is correct
+..
+    !( DBL$MATL > 0) ? DBL$MATL := "Unknown",
+    A$MATERIAL := DBL$MATL
+  ),
+  is_from_field & ( int A$MATERIAL > 0 ) &
+   SENDDRILLMATERIAL ? TRN$PANEL( "KMATL %s", A$MATERIAL),
+  return( 1)
+..
+.vstr redrill
+.vint holenum
+.vstr hole
+..
+.expr DRILL$STARTHOLE \
+..
+.. the totaliser 'drillinfo' is used to keep track of several
+.. things for each drill. one of these is the current drill
+.. hardware interface, it saves us from looking it up every
+.. single time a packet with hole data comes through.
+.. to keep track of config changes though, we have to refresh
+.. it, now is as good a time as any
+..
+  drillinfo("create") := A$ID[%..2s],
+  A$CONFIG ?? DCO$ID( A$CONFIG) ?
+    drillinfo.Interface := DCO$INTERF,
+..
+.. if drill interface is P&H, this packet can be originated
+.. by the P&H drill controller. This drill actually gets a
+.. signal from us to start a hole and then it responds with
+.. a 'START HOLE' rpc when it detects it's drilling. so for
+.. these drills, we can get two START HOLES in a row. the
+.. time of the second one is the more accurate start time
+..
+  (drillinfo.Interface = intf_ph & DSP$PKTNO = 0x0434) |
+  (drillinfo.Interface = intf_be & DSP$PKTNO = 0x0422) ?
+  (
+    SHO$ID(A$HOLE) & !SHO$ENDTIME ?
+    (
+      SHO$STARTTIME := "\\" + CLOCK,
+      TRN$SCREEN( "---%s START HOLE received from %s controller",
+        DSP$EQMT, drillinfo.Interface)
+    ) :
+..
+.. the drill knows something we don't; create exception
+..
+      TRN$EXCEPT( 4),
+    return( 0)
+  ),
+..
+.. make sure that the drill has the right parts mounted to
+.. attempt this: the 'parts_mounted' procedure checks this and
+.. tells the operator if there's something missing
+..
+  !parts_mounted ? return( 0),
+..
+.. check whether the drill is supposed to start a hole. accept
+.. it anyway from the controller
+..
+  DR_STARTHOLE_OK = 0 ?
+  (
+    A$ACTNEXT & A$ACTNEXT <> act_starthole & is_from_field ?
+    (
+      TRN$SCREEN( "---%s pressed <Start Hole>, expected <%s>",
+        DSP$EQMT, A$ACTNEXT),
+      TRN$PANEL( "KD Expected <%Z>\rKBEEP 1", A$ACTNEXT),
+      return( 0)
+    )
+  ),
+..
+.. make sure that we know which blast the drill is drilling at
+.. if in this mine location and blast are the same, check whether
+.. the location is a blast, if it is we make sure that the blast
+.. for this hole is set to the current location.
+..
+  DR_BLAST_IS_LOC & A$LOC = unit_blast ?
+  (
+    A$BLAST := A$LOC.0
+  ) :
+  (
+    !( DR_ACCEPT_ANYBLAST & A$BLAST) ?
+      !( A$BLAST & DRILLLOC$ID( A$BLAST) & DRILLLOC$UNIT = unit_blast) ?
+      (
+        !( A$LOC = unit_blast) ?
+        (
+          TRN$EXCEPT( 0),
+          return( 0)
+        ) :
+          A$BLAST := A$LOC.0
+      )
+  ),
+..
+.. and make sure we have a blast record
+..
+  !DBL$ID( A$BLAST) ?
+  (
+    DBL$ID := A$BLAST,
+    DBL$START := "\\" + CLOCK
+  ),
+..
+.. if the hole number supplied is not positive, then we'll just allocate
+.. a new hole number to this hole. This is for those mines where
+.. they're not too worried about exact hole numbers. we'll just take
+.. the first available number
+..
+  redrill := nil,
+  holenum := 0,
+  DECODE( packet_arg, "%d%s", holenum, redrill),
+..
+.. if there was just the hole number, redrill will still be nil
+.. was a valid hole number supplied ?
+.. 
+  int holenum <= 0 ?
+  (
+..
+.. we find the next available free hole number
+..
+    loop( MAXHOLES-1)
+..  (
+      idx := * +1,
+      DBL$HOLES.idx <> 1 ? ( holenum := idx, break)
+    ),
+    holenum < 0 ?
+    (
+..
+.. now this will truly rarely happen, but should trap anyway
+.. the event that there are no hole numbers left to allocate.
+..
+      TRN$EXCEPT( 1),
+      return( 0)
+    )
+  ),
+..
+.. even though we know that the last action of the drill was
+.. endhole, still make sure that the previous hole has an ending
+.. time
+..
+  SHO$ID(A$HOLE) ?
+  (
+    !SHO$ENDTIME ?
+    (
+      SHO$ENDTIME := "\\" + CLOCK,
+      TRN$SCREEN( "---%s finished drilling hole %s (depth=%0.1f %s)",
+        DSP$EQMT, SHO$ID, SHO$DEPTH, DRDEPTH_UNIT)
+    )
+  ),
+..
+.. does a hole with that number already exist and no redrill
+.. was specified ? this is only accepted from the controller
+.. (which means that it's already the result of an exception)
+..
+  (DBL$HOLES.holenum = 1) & !redrill ?
+    is_from_field ?
+    (
+      TRN$PANEL( "KD Hole %03d has already been drilled !", holenum),
+      TRN$EXCEPT( 2),
+      return( 0)
+    ),
+..
+.. was a redrill specified while an existing hole with this
+.. number doesn't exist ? this is only acceptable if it came from
+.. the controller (again, the result of an exception)
+..
+  redrill & (DBL$HOLES.holenum <> 1) ?
+    is_from_field ?
+    (
+      TRN$EXCEPT( 3),
+      return( 0)
+    ),
+..
+.. reaching this point means that we know that a hole of this number
+.. has either been drilled before or is being drilled right now
+..
+  DBL$HOLES.holenum := 1,
+..
+.. set the redrill flag for this hole if it ends up being a redrill
+..
+  redrill ? DBL$REDRILLS.holenum := 1,
+..
+.. create the hole name
+..
+  holename := HOLENAME( A$BLAST, holenum, (redrill ? REDRILL_SUFFIX : "")),
+..
+.. update the drill record to reflect the hole being drilled
+..
+  A$HOLE := holename,
+..
+.. Ready the drill if it is currently on a delay.
+..
+  A$STATUS <> stat_ready ?
+  (
+..
+.. set the ready code
+..
+    DSP$CODE := DR_READYDRILLING,
+..
+.. as ready comment, specify the hole it's drilling
+..
+    DSP$COMMENT := holename,
+    TRN$READY
+  ),
+..
+.. create a new hole record in the drill hole table
+..
+  SHO$ID := holename,
+  SHO$EQMT := A$ID[%..2s],
+  SHO$BLAST := A$BLAST,
+  SHO$HOLE := str holenum + ( redrill ? REDRILL_SUFFIX : ""),
+  SHO$STARTTIME := "\\" + CLOCK,
+  SHO$ENDTIME := nil,
+..
+.. set next action for the drill to be endhole
+..
+  A$ACTLAST := act_starthole,
+  A$ACTSAVE := A$ACTNEXT := act_endhole,
+..
+.. update our endhole store (see endhole action)
+..
+  drillinfo("create") := A$ID[%..2s],
+  drillinfo.PressedBefore := 0,
+  drillinfo.Interface=nil ?
+    A$CONFIG ?? DCO$ID( A$CONFIG) ?
+      drillinfo.Interface := DCO$INTERF,
+..
+.. output to transaction screen
+..
+  redrill ?
+    TRN$SCREEN( "---%s redrilling hole #%s at blast %s",
+      DSP$EQMT, SHO$HOLE, SHO$BLAST) :
+    TRN$SCREEN( "---%s started hole #%s at Blast %s.",
+      DSP$EQMT, SHO$HOLE, SHO$BLAST ),
+    TRN$PANEL( "KD Started hole #%s at %s.",SHO$HOLE, SHO$BLAST ),
+..
+.. tell a P&H drill controller to START HOLE, plus the hole
+.. number (number only, so now redrill/blast info)
+..
+  drillinfo.Interface = intf_ph |
+  drillinfo.Interface = intf_be ?
+   (
+   TRN$PANEL( "%{drillinfo.Interface}-VBEGIN" ),
+   drillinfo.Interface = intf_ph ?
+    TRN$PANEL( "P&H-HOLENUM %d", holenum),
+   TRN$SCREEN("###%{drillinfo.Interface} Hole Begin Signal sent to %{DSP$EQMT}")
+   ) :
+  drillinfo.Interface = intf_ir ?
+   A$SAMPLE := 0,
+..
+  return( 1)
+..
+.vfloat offs.MAXPRO
+.vfloat mult.MAXPRO
+.vstr prevconfig
+.init prevconfig := "this is never going to be a config name"
+.vint pr_depth_idx
+.vfloat pr_depth
+.vfloat pr_incr
+..
+.expr DRILL$RATES \
+..
+.. a packet was received with drill hole profile data. we must
+.. assume that the current hole is the one named in the drill
+.. 'hole' field. with all these different interfaces, we can't
+.. assume that these packets are consistently sent either
+.. during drilling or just before or after the endhole packet
+..
+.. Must have a hole record created
+..
+  !SHO$ID(A$HOLE) ?
+   TRN$SCREEN("*** No Hole record exist for %s at %s", A$ID, A$BLAST"),
+..
+.. the drillinfo totaliser keeps track of some handy things for
+.. us
+..
+  drillinfo("create") := A$ID[%..2s],
+  drillinfo.Interface=nil ?
+    A$CONFIG ?? DCO$ID( A$CONFIG) ?
+      drillinfo.Interface := DCO$INTERF,
+..
+.. access this hole profile record
+..
+  !SPR$ID( A$HOLE) ?
+  (
+..
+.. didn't exist yet. create. the starttime is the time of first
+.. receive of hole profile data. also make sure that record with
+.. the configuration information exists in the shift profile db.
+.. this information describes the type and unit of measurement for
+.. each profile
+..
+    SPR$ID := A$HOLE,
+    SPR$STARTTIME := "\\" + CLOCK,
+..
+.. if the config record is not in the profile table, find the config
+.. record in the drilldat table and copy over
+..
+    !SCO$ID( A$CONFIG) ?
+      DCO$ID( A$CONFIG) ?
+        DB$COPY( "DCO$ID", "SCO$ID"),
+..
+.. and link hole profile to config record
+..
+    SPR$CONFIG := SCO$ID
+  ),
+..
+.. get the drill interface callibration data from the drilldat database
+.. if needed
+..
+  !(prevconfig = A$CONFIG) ?
+    DCO$ID( A$CONFIG) ?
+    (
+      prevconfig := A$CONFIG,
+      pr_depth_idx := -1,
+      pr_depth := 0,
+      loop( MAXPRO)
+..    (
+        offs.* := DCO$OFFSET.*,
+        mult.* := DCO$MULT.*,
+        DCO$DESCR.* = 'Depth' ? pr_depth_idx := *
+      )
+    ) :
+    (
+..
+.. no calibration is available, so keep the raw data unscaled
+..
+      loop( MAXPRO)
+..    (
+        offs.* := 0.0,
+        mult.* := 1.0
+      )
+    ),
+..
+.. most drill interfaces use some common themes. A$SAMPLE is a
+.. counter that tells us how many data points have been rec'd
+.. for a hole profile
+..
+  index := A$SAMPLE,
+  index >= MAXPOINTS ? index := MAXPOINTS -1,
+..
+  case( drillinfo.Interface)
+..(
+    intf_mms:
+    (
+..
+.. the mms interface sends one packet (array of nn bytes) for each
+.. separate measurement taken, after the endhole is issued by the
+.. operator. the first element of each array gives the number of
+.. the profile
+..
+.. an optional number after the array gives the interval between samples
+.. in 1/DEPTH_SCALINGths of the unit of measurement
+.. 
+      type := DSP$BINARY.0,
+      dnum := DSP$BINARY -1,
+      dnum > MAXPOINTS ? dnum := MAXPOINTS,
+      (pr_depth=0) & (PSW$ARGC>1) & (pr_depth_idx>-1) ?
+      (
+        pr_incr := ( float PSW$ARGV( 1)) / DEPTH_SCALING,
+        pr_depth := pr_incr,
+        loop( dnum)
+..      (
+          SPR$PRO$VAL(pr_depth_idx).* := pr_depth,
+          pr_depth := pr_depth + pr_incr
+        )
+      ),
+      type <> pr_depth_idx ?
+        loop( dnum)
+..      (
+          SPR$PRO$VAL(type).* := offs.type + mult.type * DSP$BINARY.( * +1)
+        ),
+      TRN$SCREEN( "---%s sent hole profile type %d", DSP$EQMT, type)
+    )
+    intf_ph:
+    !MOD(PSW$ARGV(0),6) ?
+    (
+..
+.. the p&h interface sends out hole data throughout the drilling process
+.. each packet can contain a multiple of 'nn' numbers where each number
+.. modulo 'nn' is related to a specific h/w measurement. default nn=6 ?
+..
+      loop( PSW$ARGV( 0))
+..    (
+        type := MOD( *, 6),
+        SPR$PRO$VAL(type).index := offs.type + mult.type * PSW$ARGV( 0).*,
+        type = 5 ? index < MAXPOINTS -1 ?
+          index := index + 1
+      ),
+      A$SAMPLE := index,
+..
+.. there's a bit of hard coding in here, we assume that the depth is
+.. in the first element
+..
+      SHO$DEPTH := SPR$PRO$VAL(0).( index -1),
+      TRN$SCREEN( "---%s reached depth %4.1f%s",
+        DSP$EQMT, SHO$DEPTH, DRDEPTH_UNIT)
+    )
+    intf_be:
+    !MOD(PSW$ARGV(0),8) ?
+    (
+..
+.. the p&h interface sends out hole data throughout the drilling process
+.. each packet can contain a multiple of 'nn' numbers where each number
+.. modulo 'nn' is related to a specific h/w measurement. default nn=8 ?
+..
+      loop( PSW$ARGV( 0))
+..    (
+        type := MOD( *, 8),
+        SPR$PRO$VAL(type).index := offs.type + mult.type * PSW$ARGV( 0).*,
+        type = 7 ? index < MAXPOINTS -1 ? index := index + 1
+      ),
+      A$SAMPLE := index,
+..
+.. there's a bit of hard coding in here, we assume that the depth is
+.. in the first element
+..
+      SHO$DEPTH := SPR$PRO$VAL(0).( index -1),
+      TRN$SCREEN( "---%s reached depth %4.1f%s",
+        DSP$EQMT, SHO$DEPTH, DRDEPTH_UNIT)
+    )
+    intf_ir:
+    (
+..
+.. the ir interface sends out hole data throughout the drilling process.
+.. one packet will contain one set of measurements at one depth. ir uses
+.. unsigned integers for data presentation whereas we use signed integers
+.. so adjust the MSB where needed
+..
+      loop( 7)
+..    (
+        SPR$PRO$VAL(*).index := offs.* + mult.* * PSW$ARGV( *)
+      ),
+      PSW$ARGV( 3) < 0 ?
+        SPR$PRO$VAL(3).index := 65536 + PSW$ARGV( 3),
+      A$SAMPLE := A$SAMPLE + 1,
+..
+.. depth is in 5th element of list
+..
+      SHO$DEPTH := SPR$PRO$VAL(4).index,
+      TRN$SCREEN( "---%{DSP$EQMT} reached depth %4.1f%s", 
+                   SPR$PRO$VAL(4).index, DRDEPTH_UNIT)
+    )
+  ),
+..
+.. and finally, update the endtime field for this profile record, it'll
+.. show the last time that data was received for this profile
+..
+  SPR$ENDTIME := "\\" + CLOCK,
+..
+  return( 0)
+..
+.vfloat hole_depth
+..
+.expr DRILL$ENDHOLE \
+..
+.. is this what we expect the drill to do ?
+.. exception is when operator pressed end of hole before the drill sends
+.. its auto end of hole message ( BE AND P&H).
+..
+  A$ACTNEXT <> act_endhole & !(DSP$PKTNO = 0x0424 | DSP$PKTNO = 0x0438) ?
+  (
+    TRN$SCREEN("---%s pressed %s, should %s",
+      DSP$EQMT, DSP$ACTION, A$ACTNEXT),
+    is_from_field ?
+      TRN$PANEL( "KBEEP 1\rKD Expected <%Z>", A$ACTNEXT),
+    return( 0)
+  ),
+..
+.. find the corresponding hole record
+..
+  !SHO$ID(A$HOLE) ?
+  (
+..
+.. for some reason, there is no record for this hole. might
+.. as well create one and fill in as much as we know.
+..
+    SHO$ID := A$HOLE,
+    SHO$EQMT := DSP$EQMT[%..2s],
+    SHO$BLAST := A$BLAST,
+    SHO$HOLE := HOLENUMB( A$HOLE),
+..
+.. we don't know the start time but should fill something in
+.. to simplify later reporting
+..
+    SHO$STARTTIME := "\\" + CLOCK
+  ),
+..
+.. the endhole packet can have a variety of flavours depending
+.. on the particular drill interface(s) in use in the mine
+..
+.. No interface or MMS interf. : 
+..
+..            ENDHOLE <material>/<depth>
+..
+.. P&H interface : 
+..
+..            VLAST [last series of profile data] or can be
+..            ENDHOLE <material>
+..
+.. Ingersoll Rand interface : 
+..
+..            ENDHOLE <material>
+..
+.. keep track of endhole actions with a little totaliser.
+..
+  drillinfo("create") := A$ID[%..2s],
+  drillinfo.DepthWhenPressed := SHO$DEPTH,
+  drillinfo.Interface=nil ?
+    A$CONFIG ?? DCO$ID( A$CONFIG) ?
+      drillinfo.Interface := DCO$INTERF,
+..
+  matl := nil,
+..
+  case( drillinfo.Interface)
+..(
+    intf_mms : DECODE( packet_arg, "%s/%f", matl, hole_depth)
+    intf_ir  : DECODE( packet_arg, "%s", matl),
+               hole_depth := SHO$DEPTH,
+               A$SAMPLE := 0
+    intf_ph  :
+    (
+      DSP$PKTNO = 0x0438 ?
+      (
+        DRILL$RATES,
+        TRN$PANEL((int A$SAMPLE)[P&H-VSAMPLE %d]),
+        TRN$SCREEN( "---%s END HOLE received from P&H controller",
+          DSP$EQMT),
+        A$SAMPLE := 0
+      ) :
+      (
+        TRN$PANEL( "P&H-VENDHOL\rKD END HOLE SENT TO DRILL"),
+        TRN$SCREEN( "###%s END HOLE manually selected by operator",
+          DSP$EQMT)
+      ),
+      hole_depth := SHO$DEPTH
+    )
+    intf_be  :
+    (
+      DSP$PKTNO = 0x0424 ?
+      (
+        DRILL$RATES,
+        TRN$SCREEN( "---%s END HOLE received from BE controller",
+          DSP$EQMT),
+        A$SAMPLE := 0
+      ),
+      hole_depth := SHO$DEPTH
+    )
+    default: DECODE( packet_args, "%s/%f", matl, hole_depth)
+  ),
+..
+.. if hole depth is not valid, default to a predefined depth
+..
+  !( hole_depth > 0) ? hole_depth := DEFAULT_HOLE_DEPTH,
+..
+.. update hole record
+..
+  SHO$ENDTIME := "\\" + CLOCK,
+  SHO$DEPTH := hole_depth,
+..
+.. if the packet contained material info, update our material
+.. fields
+..
+  ( matl <> nil) & ( int ENUM( enum DRILL_LOAD 0, matl) > 0) ?
+    A$MATERIAL := str ENUM( enum DRILL_LOAD 0, matl),
+..
+.. if material is not specified anywhere, make sure it's set to
+.. SOMETHING
+..
+  A$MATERIAL = "" | A$MATERIAL = nil ? A$MATERIAL := "Unknown",
+  SHO$MATL := A$MATERIAL,
+..
+.. at the moment, assume one record per hole. in the drillhole form
+.. they can add bulk hole records
+..
+  SHO$NUMHOLES := 1,
+..
+.. update the blast record to reflect the latest
+..
+  !DBL$ID( SHO$BLAST) ?
+  (
+    DBL$ID := SHO$BLAST,
+    DBL$START := "\\" + CLOCK
+  ),
+  DBL$LAST := "\\" + CLOCK,
+  DBL$MATL := A$MATERIAL,
+..
+.. to update the drill record, we make sure that we use the last
+.. info from the field and don't end up adding things up twice
+.. for those drills that can send two endhole actions per hole
+..
+  !drillinfo.PressedBefore ?
+  (
+    A$BEANS := A$BEANS + 1,
+    A$DEPTH := A$DEPTH + hole_depth,
+    drillinfo.PressedBefore := 1
+  ) :
+  (
+    A$DEPTH := A$DEPTH - drillinfo.DepthWhenPressed + hole_depth
+  ),
+  A$ACTLAST := act_endhole,
+  A$ACTSAVE := A$ACTNEXT := act_starthole,
+..
+.. if the mine wants to automatically put the drill in a delay for
+.. moving drill, do just that.
+..
+  DR_DELAY_ON_ENDHOLE ? 
+    A$ACTION := (act_delay, DR_DELAYMOVING)[%d, %d],
+.. 
+.. output to transaction screen and operator panel if from field
+..
+  TRN$SCREEN( "---%s finished hole #%s (depth: %0.1f%s) at blast %s",
+  DSP$EQMT, SHO$HOLE, SHO$DEPTH, DRDEPTH_UNIT, A$BLAST),
+  is_from_field ?
+  (
+    TRN$PANEL( "KD Hole %s : %0.1f%s\rWAIT 5000\rKD Material : %s",
+      SHO$ID, SHO$DEPTH, DRDEPTH_UNIT, SHO$MATL)
+  ),
+..
+  return( 1)
+..
+.total AlarmList(nil).1
+.expr DRILL$ALARM \
+  drillinfo("create") := A$ID[%..2s],
+  drillinfo.Interface = nil & A$CONFIG & DCO$ID( A$CONFIG) ?
+   drillinfo.Interface := DCO$INTERF,
+  case( drillinfo.Interface )
+..(
+   intf_be:
+    (
+    temp := list1 := list2 := "",
+..  make current list
+       loop(PSW$ARGV(0))
+..     (
+        list1 := list1 + (PSW$ARGV(0).*)[%03d,]
+       ),
+.. retrieve old list
+       AlarmList("create") := A$ID[%..2s],
+       AlarmList.0 ?
+        list2 := AlarmList.0,
+.. look for new alarms
+       length := STRLEN(list1) / 4,
+       loop(length)
+..     (
+        stpos := * * 4,
+        strcode := SUBSTR(list1,stpos,4),
+        becode := int (strcode - ","),
+        temp := list2 - strcode,
+        temp = list2 ?   ..if the same new alarm has occurred
+         (
+          TRN$SCREEN("!!!%{DSP$EQMT} ALARM ACTIVE: %{get_be_alarm(becode)}"),
+          exceptExpr := (get_be_alarm(becode))[BEALARM := \"%s\"],
+          TRN$EXCEPT(0)
+         ) :             ..else alarm was present on previous list
+         (
+          list2 := temp
+         )
+       ),
+..  whatever remains on list2 are alarms which are not present on new list,
+..  hence they have become normal
+       length := STRLEN(list2) / 4,
+       loop(length)
+..     (
+        stpos := * * 4,
+        strcode := SUBSTR(list2,stpos,3),
+        becode := int (strcode - ","),
+        TRN$SCREEN("!!!%{DSP$EQMT} ALARM NORMAL:%{get_be_alarm(becode)}"),
+        exceptExpr := (get_be_alarm(becode))[BEALARM := \"%s\"],
+        TRN$EXCEPT(1)
+       ),
+..  update total
+       AlarmList.0 := list1
+    )
+   intf_ph:
+    (
+     TRN$SCREEN("!!!%{DSP$EQMT} P&H Memory Full Warning Received."),
+     TRN$EXCEPT(2)
+    )
+   )

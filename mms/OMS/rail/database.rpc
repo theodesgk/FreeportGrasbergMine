@@ -1,0 +1,443 @@
+#########################################################
+#	PERSISTENT DB TYPECODES   0x7D00 - 0x7EFF	#
+#########################################################
+package com.mmsi.rail
+0x7d00	RailRoad
+0x7d01	Branch
+0x7d02	Track
+0x7d03	Yard
+0x7d04	RailFederation$Segment
+0x7d05	ConnectedSegment
+0x7d06	SwitchingMachine
+0x7d07	RailCar$Category
+0x7d08	RailCar$Type
+0x7d09	RailCar$Defect
+0x7d0a	AuxEquipment
+0x7d0b	AuxEquipment$Type
+0x7d0c	CargoRailCar
+0x7d0d	CargoRailCar$Load
+0x7d0e	CargoRailCar$Type
+0x7d0f	Locomotive
+0x7d10	Locomotive$Type
+0x7d11	PassangerRailCar
+0x7d12	PassangerRailCar$Type
+0x7d13	Plan
+0x7d14	Train
+0x7d15	Train$Type
+0x7d16	Train$Composition
+0x7d17	Activity
+0x7d18	Activity$Definition
+0x7d1a  CommandRailCar$OnboardEquipment
+0x7d1c	Train$Movement$Segment
+0x7d1d  SpeedProfile$Entry
+0x7d1e  SpeedProfile
+0x7d1f  SpeedRestrictedArea
+0x7d20  DispatchingZone
+0x7d22  MovementAuthorization$Segment
+0x7d23  RailCar$Health
+0x7d24  CommandRailCar$Health
+0x7d25  Train$Activity
+0x7d26  Crew
+0x7d27  Worker
+0x7d28  CompositionActivity
+0x7d29  RailRoad$Point
+0x7d2a  RailCar$MaintenanceEvent
+0x7d2b	SignalingSystem$PendingCommand
+0x7d2e	DerailmentDetector
+0x7d2f	ComposedSignalingSegment
+0x7d30	ElectricLock
+0x7d31  SimpleSegment
+0x7d32  DynamicPoint
+0x7d33  DynamicPoint$Accuracy
+0x7d34  DynamicPoint$Accuracy$Sanity
+0x7d35  DynamicPoint$Accuracy$Type
+0x7d36  Note
+0x7d39	MatchedSignalingSegment
+0x7d3a	Crossover
+0x7d3b	SplitedSignalingSegment
+0x7d3c	SignalingRoute
+0x7d3d  Movement$Segment$Position
+0x7d3e  Worker$Role
+0x7d3f  SignalingSwitch
+0x7d40  TrackInterdiction
+0x7d41  DerailmentDetector$State
+0x7d42	ControlStation
+0x7d43	Plan$Movement$Segment
+0x7d44  WaitingActivity
+0x7d45	ActivityLocation
+0x7d46	Train$Cycle
+0x7d47	Train$Activities
+0x7d48	Plan$Movement
+0x7d49  PartialDirectedFedSegment
+0x7d4a  Train$Path
+0x7d4b	CompositionalTagReader
+0x7d4c  Hotbox
+0x7d4d  BlockingSection
+0x7d4e  CompositeRoute
+0x7d4f	TrafficLight
+0x7d51  TrackWarrant
+0x7d52  Hotbox$Alarm
+0x7d55  GradeCrossing
+0x7d56  ValidDispatchLocation$RouteStart
+0x7d57  ValidDispatchLocation$TWStart
+0x7d58  ValidDispatchLocation$RouteEnd
+0x7d59  ValidDispatchLocation$TWEnd
+0x7d5a  CarNote
+0x7d5b  TrainNote
+0x7d5c  Plan$Helper
+0x7d5d  PlanningZone
+0x7d5e  Plan$Prefix
+0x7d5f  BaseLine
+0x7d60  DispatcherNote
+0x7d61  PlannerNote
+0x7d62	Sensor
+0x7d63	BaseLine$Point
+0x7d64	EnumDirection
+0x7d65  PlannerZone
+0x7d66  RailException
+0x7d67  MaintainingZone
+0x7d68  BasicNote
+0x7d69  FieldHardware
+0x7d6a  FieldHardwareType
+0x7d6c  DefaultNoteKeyword
+0x7d6d  Train$Movement
+0x7d6e  Train$Authorization
+0x7d6f  TrackIntervention
+0x7d70  Train$PrefixEvent
+0x7d71  BaseLine$ActivitiesContainer
+0x7d72  BaseLine$PrefixesContainer
+0x7d73  RailCar$Axles
+0x7d74  SignalingRoute$Segments
+0x7d77  MovementAuthorization
+0x7d78  ManeuveringZone
+0x7d79  Yard$States
+0x7d7a  Train$YardStop
+0x7d7c  SegmentRestriction
+0x7d7d  OptimizedPlan
+0x7d7e  ElementTranslator
+0x7d7f  Ramp
+0x7d86  SignalingCrossover
+
+
+#### FUEL CONSUMPTION
+package com.mmsi.rail.fuel
+0x7d82  FuelLevel
+0x7d83  FuelConfig
+
+#### WTS - worker tracking system
+package com.mmsi.rail.wts.server
+0x7d85  WorkerTracker$HistoricalRequest
+
+#### MAINT - maintenance system
+package com.mmsi.rail.maint.exception
+0x7da0  EqpmException
+0x7da1  RailCarException
+0x7da3  SensorAlarm
+0x7da4  SnmpAlarm
+0x7da5  MaintEquipException
+
+package com.mmsi.rail.maint.snmp
+0x7daa  FieldSnmp
+0x7dab  FieldSnmp$MonitoredHardware
+
+#### ?
+package com.mmsi.cli.cvrd.rail
+0x7db0  LocoHealthInfo
+
+package com.mmsi.rail.sim.util
+0x7e01  MovementSimStatus
+
+#### TP - TrainPlanner
+package com.mmsi.rail.tp
+0x7e0a  DMLateTrain
+0x7e0b  DMMessage
+
+package com.mmsi.rail.tp.conflicts
+0x7e0c  Conflict
+
+#### TG - Train Graph
+package com.mmsi.rail.tg
+0x7e05  TGConfig
+0x7e06  TGConfig$DepTmFrame
+0x7e07  TGConfig$TrainColor
+0x7e08  ShiftTeams
+0x7e09  ShiftTeams$Team
+
+package com.mmsi.rail.tg.tools
+0x7dc0  TPLocal$Updater
+
+#### EPT - Equipment Position Tracking
+package com.mmsi.rail.ept
+0x7e10  RelevantLocation
+
+package com.mmsi.rail.ept.dl
+0x7e11  Component
+0x7e12  OccupationState
+0x7e13  Step
+0x7e14  EventStates
+0x7e15  StateFlow
+0x7e16  Flow
+
+package com.mmsi.rail.ept.util
+0x7e19  Config
+0x7e20  EPTStatus
+
+
+package com.mmsi.rail.hotbox
+0x7e2a  HbConfig
+0x7e2b  HotboxPassage
+0x7e2f  Axle
+
+package com.mmsi.rail.hotbox.alarms
+0x7e2c	AlarmPart
+0x7e2d	HotboxAlarm
+
+package com.mmsi.rail.hotbox.config
+0x7e2e	HotboxConfig
+
+#### Historical Objects
+package com.mmsi.rail.historical
+0x7e33  TMVEvent
+0x7e34  ArrDepIntervals
+0x7e35  TrainCompositionEvent
+0x7e36  TrainCompositionEvent$Car
+0x7e37  TrainCompositionEvent$Tag
+0x7e38  ShiftRecord
+0x7e39  HistoricalMaint
+0x7e41  TrainAccuracy
+0x7e42  MaintProvEvent
+0x7e43  MTMRecord
+0x7e44  FuelConsumptionEvent
+0x7e45  TrainTypeEvent
+0x7e46  AtcMessageRecord
+
+#### OR - Operation Restrictions
+package com.mmsi.rail.or
+0x7e30  SpeedViolation
+0x7e31  TrackInterdictionViolation
+0x7e32  MovAuthViolation
+
+package com.mmsi.rail.or.util
+0x7e40  Config
+
+package com.mmsi.rail.or.server
+0x7e49  RestrictionsServer$AvoidablePolicy
+0x7e50  RestrictionsServer$HistoricalRequest
+0x7e51  RestrictionsServer$HistoricalRestrictedArea
+0x7e52  RestrictionsServer$HistoricalTimeRestrictedArea
+0x7e53  RestrictionsServer$HistoricalSpeedRestrictedArea
+0x7e54  RestrictionsServer$HistoricalTrackInterdiction
+
+#### LS - Loco Safety System
+package com.mmsi.rail.ls.msgs
+0x7e55  LSEvent
+0x7e56  LSRequest
+
+package com.mmsi.rail.ls.util
+0x7e57  Config
+
+#### Hotbox
+package com.mmsi.cli.cvrd.rail.hotbox
+0x7e83 Hb9000Record
+0x7e84 Hb9000Record$Detail
+0x7e85 Hb9000Adapter$Config
+
+#### MOW
+package com.mmsi.rail.mow
+0x7e90  MOWArea
+
+
+#### UTIL
+package com.mmsi.rail.util
+0x7ea0  PathSearchResult
+
+
+#### BUILDER
+package com.mmsi.cli.cvrd.rail.builder
+0x7eb0	Mapper
+
+
+#### QTRON
+package com.mmsi.cli.cvrd.rail.qtron
+0x7eb5	QtronDiagRecord
+0x7eb6  QtronDataRecord
+0x7eb7  Qtron$Indicator
+0x7eb8  Qtron$QAlarm
+0x7eb9  Qtron$Fault
+0x7eba	Qtron
+0x7ebb	QtronAdapter$Config
+0x7ebc  Qtron$Sensor
+0x7ebd 	Qtron$ComposedSensor
+
+package com.mmsi.cli.cvrd.rail.qtron.data
+0x7eb4  QtronConfig
+
+package com.mmsi.cli.cvrd.rail.qtron.alarm
+0x7ebe  QtronSensorAlarm
+0x7ebf  QtronDiagAlarm
+0x7eb2  QtronStatusAlarm
+
+#### FUELLINK
+package com.mmsi.cli.cvrd.rail.fuellink
+0x7eb3 Fuellink
+
+#### STD
+package	com.mmsi.cli.cvrd.rail.std
+0x7ec0	RemoteStation
+0x7ec1	RemoteStation$Controller
+0x7ec2	ElementConfig
+0x7ec3	AlarmConfig
+0x7ec4	RemoteStation$CtrlBackup
+0x7ec5	ElementConfig$Commands
+0x7ec6	ElementConfig$Statuses
+0x7ec7	StdSweep
+
+
+### Maint - Maintenance System
+package com.mmsi.rail.maint
+0x7edC  MaintStr
+0x7edD  MaintExprStr
+0x7da7  MaintEquipment$Component
+0x7da8  MaintEquipment$Property
+
+#### TP - Train Planner
+package com.mmsi.rail.tp
+0x7ee0 TTBYScheme
+0x7ee1 TTBYScheme$Segment
+0x7ee2 TrackStop
+0x7ee3 TrackStop$TrainStop
+0x7ee4 DMConfig
+0x7ee5 DMConfig$TimeFrame
+0x7eeb DMConfig$BaseLineConfig
+
+#### CSI - Corporate Systems Interface
+package com.mmsi.cli.cvrd.rail.csi
+0x7ee6 CSIDefaultPat
+0x7ee7 CSIDefaultPat$Stops
+0x7ee8 CSIDefaultPat$Stops$Activities
+0x7ee9 CSIMap
+0x7eea CSIMap$CSIMapETA
+
+#### TDS -
+package com.mmsi.rail.tds
+0x7ef0 TWRequest
+0x7ef1 TDSConfig
+0x7ef2 DispatchStr
+0x7ef3 DZSecurity
+0x7efa DZScheme
+0x7efb DZScheme$DispZone
+
+#### TDS -
+package com.mmsi.rail.tds.shifts
+0x7efc Shift
+0x7efd Shift$TeamMember
+0x7efe ShiftsConfig
+
+#### TDS - Auto-dispatch
+package com.mmsi.rail.tds.ad
+0x7d7b AutomaticDispatch$ADStr
+0x7d80 ADZone
+0x7d81 ADConfig
+
+#### Field Sims
+package com.mmsi.rail.sim.fs
+0x7e60	SimEvent
+0x7e61	SimEvent$Data
+0x7e62	FieldSim$TRConfig
+0x7e63	FieldSim$HBConfig
+0x7e64	FieldSim$TRData
+0x7e65	FieldSim$HBData
+0x7e66	FieldSim$SSData
+0x7e68	FieldSim$HBSimCfg
+
+#### ECT
+package com.mmsi.rail.ect
+0x7e67  ECTConfig
+
+package com.mmsi.cli.cvrd.rail.builder.scenarios
+0x7e70	Scenario
+0x7e71	Scenario$Train
+0x7e72	Scenario$MovementPoint
+0x7e73	Scenario$TrainNote
+
+package com.mmsi.rail.field.server.util
+0x7e80  FieldDBMapper
+0x7e81  Replica
+0x7e82  Replica$Config
+
+package com.mmsi.rail.rgv
+0x7dc1  RGVGrid$Data
+0x7dc2  RGVGrid$Conf
+0x7dc3  RGVGrid$Conn
+0x7dc4  RGVGrid$SimpleConn
+0x7dc5  RGVGrid$ArrayConn
+0x7dc6  RGVGrid$BlockAreaData
+0x7dc7  RGVGrid$Piece
+0x7dc8  RGVGrid$ComplexPiece
+0x7dc9  RGVGrid$SimplePiece
+0x7dca  RGVGrid$Path
+0x7dcb  RGVGrid$Segment
+0x7dcc  RGVGrid$SignalComp
+0x7dcd  RGVGrid$TrackComp
+0x7dce  RGVGrid$Yard
+0x7dcf  RGVGrid$SerializableArray
+
+### WOT - Work Order Track
+package com.mmsi.rail.wot.config
+0x7dd0  WOTConfig
+0x7de2  EventTypeConfig
+0x7de3  WOTComponent
+0x7de4  SequenceNumber
+0x7de6  ReportConf
+
+package com.mmsi.rail.wot
+0x7dd1  Area
+0x7dd2  AuxiliaryOccurrence
+0x7dd3  CarOccurrence
+0x7dd4  Category
+0x7dd5  Defect
+0x7dd6  Element
+0x7dd7  Location
+0x7dd8  LocationOccurrence
+0x7dd9  LocoOccurrence
+0x7dda  Maintenance
+0x7ddb  MaintPlan
+0x7ddc  Occurrence$Followup
+0x7ddd  Occurrence$Impact
+0x7dde  Responsable
+0x7ddf  WorkOrder
+0x7de0  LaborTeam
+0x7de1  Service
+0x7de5  MaintArea
+0x7de7  Occurrence$OccDefect
+0x7de8  RailCarOccurrence$Composition
+0x7de9  BaseOffice
+0x7df0  WorkOrder$WOOcc
+0x7df1  Occurrence
+
+package com.mmsi.rail.mp
+0x7dec MaintProvision
+0x7ded MaintProvSrvCfg
+
+package com.mmsi.rail.mtm
+0x7dea  MTMEvent
+0x7deb  MTMConfig
+
+package com.mmsi.rail.ss
+0x7d2b	SignalingSystem$PendingCommand
+0x7d2c	SignalingSystem$NamedFieldElement
+0x7d2d	SignalingSystem$NamedFieldElementAlias
+0x7d6b  SignalingSystem$Alarm
+0x7d75  SignalingSystem$NamedFieldElement$Commands
+0x7d76  SignalingSystem$NamedFieldElement$Alarms
+0x7d84  SpuriousStatus
+
+#### SSVMC
+package com.mmsi.cli.cvrd.rail.ssvmc
+0x7ec9  ElementConfig
+0x7eca  ElementConfig$Commands
+0x7ecb  ElementConfig$Statuses
+0x7ecd  CMT
+
+package com.mmsi.cli.cvrd.rail.ssvmc.msgs
+0x7ecc  SimulatedStatusMsg

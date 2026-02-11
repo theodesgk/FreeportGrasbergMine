@@ -1,0 +1,47 @@
+#
+# * * * * * * * * * * * * * * * * * *
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-1994
+#               All Rights Reserved
+#  $RCSfile: client.rpc,v $
+# $Revision: 1.6 $
+#   $Author: weslake $
+#     $Date: 2007/01/11 16:05:27 $
+#    $State: Exp $
+#   Purpose: 
+# * * * * * * * * * * * * * * * * * *
+#
+# include generic rpcs
++$OMSROOT/client.rpc
+#
+# include HPGPS rpcs
++$OMSROOT/hpgps/hpgps.rpc
+#
+# include tire interface rpcs
+#+/dsp/form/common/tireintf/tireintf.rpc
+#
+##  Show setup below
+#
+#
+# forwarding of corrections should be done on router
+#
+# The first router should be configured thusly:
+#   Router reBcast:y
+# To send out low precision corrections on all channels:
+#   GpsGround sendTo:Rp.-2:Master.-2 save
+# To send out low precision corrections on channel one only:
+#   GpsGround sendTo:Rp.-2 save
+#             or
+#   GpsGround sendTo:Master.-2 save
+#
+# To send out high precision corrections on all channels:
+#   GpsGround sendCPDTo:Rp.-2:Master.-2 save
+# To send out high precision corrections on channel one:
+#   GpsGround sendCPDTo:Rp.-2 save
+#             or
+#   GpsGround sendCPDTo:Master.-2 save
+#
+# The second router should be configured thusly:
+#   Router reBcast:y timeBcast:-1 save
+#
+result  DDEC-CONFIG      900 240 [128 84 128 92 128 94 128 100 175 100 128 153 128 102 175 102 128 108 128 110 128 111 128 168 175 168]

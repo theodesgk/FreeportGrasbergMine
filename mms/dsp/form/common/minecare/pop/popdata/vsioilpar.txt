@@ -1,0 +1,168 @@
+654376961	Crankcase - Raw Polarity (VSI_Legacy)	255	0	0
+654376962	Crankcase - Raw Conductivity (VSI_Legacy)	255	0	0
+654376963	Crankcase - Raw Water (VSI_Legacy)	255	0	0
+654376964	Crankcase - Raw Fuel (VSI_Legacy)	255	0	0
+654376965	Crankcase - Oil Temperature (VSI_Legacy)	150	-41	5
+654376966	Crankcase - Oil Oxidation (VSI_Legacy)	9	0	0
+654376967	Crankcase - Coolant Contamination (VSI_Legacy)	9	0	0
+654376968	Crankcase - Additive Content (VSI_Legacy)	9	0	0
+654376969	Crankcase - Fuel Contamination (VSI_Legacy)	9	0	0
+654376970	Crankcase - Excess Soot (VSI_Legacy)	9	0	0
+654376971	Crankcase - Quality Ratio (VSI_Legacy)	255	0	0
+654376972	Crankcase - Additive Calibration Value (VSI_Legacy)	255	0	0
+654376973	Crankcase - Water Limit (VSI_Legacy)	9	1	0
+654376974	Crankcase - Fuel Limit (VSI_Legacy)	9	1	0
+654376975	Crankcase - Oxidation Sensitivity (VSI_Legacy)	255	0	0
+654376976	Transmission - Raw Polarity (VSI_Legacy)	255	0	0
+654376977	Transmission - Raw Conductivity (VSI_Legacy)	255	0	0
+654376978	Transmission - Raw Water (VSI_Legacy)	255	0	0
+654376979	Transmission - Raw Fuel (VSI_Legacy)	255	0	0
+654376980	Transmission - Oil Temperature (VSI_Legacy)	150	-41	5
+654376981	Transmission - Oil Oxidation (VSI_Legacy)	9	0	0
+654376982	Transmission - Coolant Contamination (VSI_Legacy)	9	0	0
+654376983	Transmission - Additive Content (VSI_Legacy)	9	0	0
+654376984	Transmission - Fuel Contamination (VSI_Legacy)	9	0	0
+654376985	Transmission - Excess Soot (VSI_Legacy)	9	0	0
+654376986	Transmission - Quality Ratio (VSI_Legacy)	255	0	0
+654376987	Transmission - Additive Calibration Value (VSI_Legacy)	255	0	0
+654376988	Transmission - Water Limit (VSI_Legacy)	9	1	0
+654376989	Transmission - Fuel Limit (VSI_Legacy)	9	1	0
+654376990	Transmission - Oxidation Sensitivity (VSI_Legacy)	255	0	0
+654376991	Hydraulics - Raw Polarity (VSI_Legacy)	255	0	0
+654376992	Hydraulics - Raw Conductivity (VSI_Legacy)	255	0	0
+654376993	Hydraulics - Raw Water (VSI_Legacy)	255	0	0
+654376994	Hydraulics - Raw Fuel (VSI_Legacy)	255	0	0
+654376995	Hydraulics - Oil Temperature (VSI_Legacy)	150	-41	5
+654376996	Hydraulics - Oil Oxidation (VSI_Legacy)	9	0	0
+654376997	Hydraulics - Coolant Contamination (VSI_Legacy)	9	0	0
+654376998	Hydraulics - Additive Content (VSI_Legacy)	9	0	0
+654376999	Hydraulics - Fuel Contamination (VSI_Legacy)	9	0	0
+654377000	Hydraulics - Excess Soot (VSI_Legacy)	9	0	0
+654377001	Hydraulics - Quality Ratio (VSI_Legacy)	255	0	0
+654377002	Hydraulics - Additive Calibration Value (VSI_Legacy)	255	0	0
+654377003	Hydraulics - Water Limit (VSI_Legacy)	9	1	0
+654377004	Hydraulics - Fuel Limit (VSI_Legacy)	9	1	0
+654377005	Hydraulics - Oxidation Sensitivity (VSI_Legacy)	255	0	0
+654377006	Power Steering - Raw Polarity (VSI_Legacy)	255	0	0
+654377007	Power Steering - Raw Conductivity (VSI_Legacy)	255	0	0
+654377008	Power Steering - Raw Water (VSI_Legacy)	255	0	0
+654377009	Power Steering - Raw Fuel (VSI_Legacy)	255	0	0
+654377010	Power Steering - Oil Temperature (VSI_Legacy)	150	-41	5
+654377011	Power Steering - Oil Oxidation (VSI_Legacy)	9	0	0
+654377012	Power Steering - Coolant Contamination (VSI_Legacy)	9	0	0
+654377013	Power Steering - Additive Content (VSI_Legacy)	9	0	0
+654377014	Power Steering - Fuel Contamination (VSI_Legacy)	9	0	0
+654377015	Power Steering - Excess Soot (VSI_Legacy)	9	0	0
+654377016	Power Steering - Quality Ratio (VSI_Legacy)	255	0	0
+654377017	Power Steering - Additive Calibration Value (VSI_Legacy)	255	0	0
+654377018	Power Steering - Water Limit (VSI_Legacy)	9	1	0
+654377019	Power Steering - Fuel Limit (VSI_Legacy)	9	1	0
+654377020	Power Steering - Oxidation Sensitivity (VSI_Legacy)	255	0	0
+654377021	Differential - Raw Polarity (VSI_Legacy)	255	0	0
+654377022	Differential - Raw Conductivity (VSI_Legacy)	255	0	0
+654377023	Differential - Raw Water (VSI_Legacy)	255	0	0
+654377024	Differential - Raw Fuel (VSI_Legacy)	255	0	0
+654377025	Differential - Oil Temperature (VSI_Legacy)	150	-41	5
+654377026	Differential - Oil Oxidation (VSI_Legacy)	9	0	0
+654377027	Differential - Coolant Contamination (VSI_Legacy)	9	0	0
+654377028	Differential - Additive Content (VSI_Legacy)	9	0	0
+654377029	Differential - Fuel Contamination (VSI_Legacy)	9	0	0
+654377030	Differential - Excess Soot (VSI_Legacy)	9	0	0
+654377031	Differential - Quality Ratio (VSI_Legacy)	255	0	0
+654377032	Differential - Additive Calibration Value (VSI_Legacy)	255	0	0
+654377033	Differential - Water Limit (VSI_Legacy)	9	1	0
+654377034	Differential - Fuel Limit (VSI_Legacy)	9	1	0
+654377035	Differential - Oxidation Sensitivity (VSI_Legacy)	255	0	0
+654377036	Number Of Sensors (VSI_Legacy)	5	0	0
+654377961	Crankcase - Raw Polarity (V2)	255	0	0
+654377962	Crankcase - Raw Conductivity (V2)	255	0	0
+654377963	Crankcase - Raw Water (V2)	255	0	0
+654377964	Crankcase - Raw Fuel (V2)	255	0	0
+654377965	Crankcase - Oil Temperature (V2)	150	-41	5
+654377966	Crankcase - Oil Oxidation (V2)	9	0	0
+654377967	Crankcase - Coolant Contamination (V2)	9	0	0
+654377968	Crankcase - Additive Content (V2)	9	0	0
+654377969	Crankcase - Fuel Contamination (V2)	9	0	0
+654377970	Crankcase - Excess Soot (V2)	9	0	0
+654377971	Crankcase - Quality Ratio (V2)	255	0	0
+654377972	Crankcase - Additive Calibration Value (V2)	255	0	0
+654377973	Crankcase - Water Limit (V2)	9	1	0
+654377974	Crankcase - Fuel Limit (V2)	9	1	0
+654377975	Crankcase - Oxidation Sensitivity (V2)	255	0	0
+654377976	Transmission - Raw Polarity (V2)	255	0	0
+654377977	Transmission - Raw Conductivity (V2)	255	0	0
+654377978	Transmission - Raw Water (V2)	255	0	0
+654377979	Transmission - Raw Fuel (V2)	255	0	0
+654377980	Transmission - Oil Temperature (V2)	150	-41	5
+654377981	Transmission - Oil Oxidation (V2)	9	0	0
+654377982	Transmission - Coolant Contamination (V2)	9	0	0
+654377983	Transmission - Additive Content (V2)	9	0	0
+654377984	Transmission - Fuel Contamination (V2)	9	0	0
+654377985	Transmission - Excess Soot (V2)	9	0	0
+654377986	Transmission - Quality Ratio (V2)	255	0	0
+654377987	Transmission - Additive Calibration Value (V2)	255	0	0
+654377988	Transmission - Water Limit (V2)	9	1	0
+654377989	Transmission - Fuel Limit (V2)	9	1	0
+654377990	Transmission - Oxidation Sensitivity (V2)	255	0	0
+654377991	Hydraulics - Raw Polarity (V2)	255	0	0
+654377992	Hydraulics - Raw Conductivity (V2)	255	0	0
+654377993	Hydraulics - Raw Water (V2)	255	0	0
+654377994	Hydraulics - Raw Fuel (V2)	255	0	0
+654377995	Hydraulics - Oil Temperature (V2)	150	-41	5
+654377996	Hydraulics - Oil Oxidation (V2)	9	0	0
+654377997	Hydraulics - Coolant Contamination (V2)	9	0	0
+654377998	Hydraulics - Additive Content (V2)	9	0	0
+654377999	Hydraulics - Fuel Contamination (V2)	9	0	0
+654378000	Hydraulics - Excess Soot (V2)	9	0	0
+654378001	Hydraulics - Quality Ratio (V2)	255	0	0
+654378002	Hydraulics - Additive Calibration Value (V2)	255	0	0
+654378003	Hydraulics - Water Limit (V2)	9	1	0
+654378004	Hydraulics - Fuel Limit (V2)	9	1	0
+654378005	Hydraulics - Oxidation Sensitivity (V2)	255	0	0
+654378006	Power Steering - Raw Polarity (V2)	255	0	0
+654378007	Power Steering - Raw Conductivity (V2)	255	0	0
+654378008	Power Steering - Raw Water (V2)	255	0	0
+654378009	Power Steering - Raw Fuel (V2)	255	0	0
+654378010	Power Steering - Oil Temperature (V2)	150	-41	5
+654378011	Power Steering - Oil Oxidation (V2)	9	0	0
+654378012	Power Steering - Coolant Contamination (V2)	9	0	0
+654378013	Power Steering - Additive Content (V2)	9	0	0
+654378014	Power Steering - Fuel Contamination (V2)	9	0	0
+654378015	Power Steering - Excess Soot (V2)	9	0	0
+654378016	Power Steering - Quality Ratio (V2)	255	0	0
+654378017	Power Steering - Additive Calibration Value (V2)	255	0	0
+654378018	Power Steering - Water Limit (V2)	9	1	0
+654378019	Power Steering - Fuel Limit (V2)	9	1	0
+654378020	Power Steering - Oxidation Sensitivity (V2)	255	0	0
+654378021	Differential - Pump Status (V2)	255	0	0
+654378022	Differential - Oil Tank Status (V2)	255	0	0
+654378023	Differential - Raw Water (V2)	255	0	0
+654378024	Differential - Raw Fuel (V2)	255	0	0
+654378025	Differential - Oil Temperature (V2)	150	-41	5
+654378026	Differential - Oil Oxidation (V2)	9	0	0
+654378027	Differential - Coolant Contamination (V2)	9	0	0
+654378028	Differential - Additive Content (V2)	9	0	0
+654378029	Differential - Fuel Contamination (V2)	9	0	0
+654378030	Differential - Excess Soot (V2)	9	0	0
+654378031	Differential - Quality Ratio (V2)	255	0	0
+654378032	Differential - Additive Calibration Value (V2)	255	0	0
+654378033	Differential - Water Limit (V2)	9	1	0
+654378034	Differential - Fuel Limit (V2)	9	1	0
+654378035	Differential - Oxidation Sensitivity (V2)	255	0	0
+654378036	Number Of Sensors (V2)	5	0	0
+654378961	Pump Oil Time (ROS)	999	0	0
+654378962	Pump Air Time (ROS)	999	0	0
+654378963	Raw Water Measurement (ROS)	255	0	0
+654378964	Raw Fuel Measurement (ROS)	255	0	0
+654378965	Oil Temperature (ROS)	150	-41	5
+654378966	Pump Status (ROS)	1	0	0
+654378967	Tank Status (ROS)	1	0	0
+654378968	Temperature Compensated Water Content (ROS)	9	0	0
+654378969	Temperature Compensated Fuel Content (ROS)	9	0	0
+654378970	Water Trip Value (ROS)	9	0	0
+654378971	Fuel Trip Value (ROS)	9	0	0
+654378972	Ambient Temperature (ROS)	150	-41	5
+654378973	Tank Voltage (ROS)	500	0	0
+654378974	Pump Voltage (ROS)	500	0	0
+654378975	Tank Empty Counter (ROS)	999	0	0
+654378976	Tank Full Counter (ROS)	999	0	0

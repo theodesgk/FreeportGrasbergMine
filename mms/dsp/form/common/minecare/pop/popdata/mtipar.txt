@@ -1,0 +1,160 @@
+1157693441	Strength Channel #1	0	0	0
+1157693442	Strength Channel #2	0	0	0
+1157693443	Strength Channel #3	0	0	0
+1157693444	Strength Channel #4	0	0	0
+1157693445	Strength Channel #5	0	0	0
+1157693446	Strength Channel #6	0	0	0
+1157693447	Strength Channel #7	0	0	0
+1157693448	Strength Channel #8	0	0	0
+1157693449	Strength Channel #9	0	0	0
+1157693450	Strength Channel #10	0	0	0
+1157693451	Strength Channel #11	0	0	0
+1157693452	Strength Channel #12	0	0	0
+1157693453	Strength Channel #13	0	0	0
+1157693454	Strength Channel #14	0	0	0
+1157693455	Strength Channel #15	0	0	0
+1157693456	Strength Channel #16	0	0	0
+1157693457	Strength Channel #17	0	0	0
+1157693458	Strength Channel #18	0	0	0
+1157693459	Strength Channel #19	0	0	0
+1157693460	Strength Channel #20	0	0	0
+1157693461	Strength Channel #21	0	0	0
+1157693462	Strength Channel #22	0	0	0
+1157693463	Strength Channel #23	0	0	0
+1157693464	Strength Channel #24	0	0	0
+1157693465	Strength Channel #25	0	0	0
+1157693466	Strength Max Channel #1	0	0	0
+1157693467	Strength Max Channel #2	0	0	0
+1157693468	Strength Max Channel #3	0	0	0
+1157693469	Strength Max Channel #4	0	0	0
+1157693470	Strength Max Channel #5	0	0	0
+1157693471	Strength Max Channel #6	0	0	0
+1157693472	Strength Max Channel #7	0	0	0
+1157693473	Strength Max Channel #8	0	0	0
+1157693474	Strength Max Channel #9	0	0	0
+1157693475	Strength Max Channel #10	0	0	0
+1157693476	Strength Max Channel #11	0	0	0
+1157693477	Strength Max Channel #12	0	0	0
+1157693478	Strength Max Channel #13	0	0	0
+1157693479	Strength Max Channel #14	0	0	0
+1157693480	Strength Max Channel #15	0	0	0
+1157693481	Strength Max Channel #16	0	0	0
+1157693482	Strength Max Channel #17	0	0	0
+1157693483	Strength Max Channel #18	0	0	0
+1157693484	Strength Max Channel #19	0	0	0
+1157693485	Strength Max Channel #20	0	0	0
+1157693486	Strength Max Channel #21	0	0	0
+1157693487	Strength Max Channel #22	0	0	0
+1157693488	Strength Max Channel #23	0	0	0
+1157693489	Strength Max Channel #24	0	0	0
+1157693490	Strength Max Channel #25	0	0	0
+1157693491	Fatigue Channel #1	0	0	0
+1157693492	Fatigue Channel #2	0	0	0
+1157693493	Fatigue Channel #3	0	0	0
+1157693494	Fatigue Channel #4	0	0	0
+1157693495	Fatigue Channel #5	0	0	0
+1157693496	Fatigue Channel #6	0	0	0
+1157693497	Fatigue Channel #7	0	0	0
+1157693498	Fatigue Channel #8	0	0	0
+1157693499	Fatigue Channel #9	0	0	0
+1157693500	Fatigue Channel #10	0	0	0
+1157693501	Fatigue Channel #11	0	0	0
+1157693502	Fatigue Channel #12	0	0	0
+1157693503	Fatigue Channel #13	0	0	0
+1157693504	Fatigue Channel #14	0	0	0
+1157693505	Fatigue Channel #15	0	0	0
+1157693506	Fatigue Channel #16	0	0	0
+1157693507	Fatigue Channel #17	0	0	0
+1157693508	Fatigue Channel #18	0	0	0
+1157693509	Fatigue Channel #19	0	0	0
+1157693510	Fatigue Channel #20	0	0	0
+1157693511	Fatigue Channel #21	0	0	0
+1157693512	Fatigue Channel #22	0	0	0
+1157693513	Fatigue Channel #23	0	0	0
+1157693514	Fatigue Channel #24	0	0	0
+1157693515	Fatigue Channel #25	0	0	0
+1157693516	Enable Channel #1	0	0	0
+1157693517	Enable Channel #2	0	0	0
+1157693518	Enable Channel #3	0	0	0
+1157693519	Enable Channel #4	0	0	0
+1157693520	Enable Channel #5	0	0	0
+1157693521	Enable Channel #6	0	0	0
+1157693522	Enable Channel #7	0	0	0
+1157693523	Enable Channel #8	0	0	0
+1157693524	Enable Channel #9	0	0	0
+1157693525	Enable Channel #10	0	0	0
+1157693526	Enable Channel #11	0	0	0
+1157693527	Enable Channel #12	0	0	0
+1157693528	Enable Channel #13	0	0	0
+1157693529	Enable Channel #14	0	0	0
+1157693530	Enable Channel #15	0	0	0
+1157693531	Enable Channel #16	0	0	0
+1157693532	Enable Channel #17	0	0	0
+1157693533	Enable Channel #18	0	0	0
+1157693534	Enable Channel #19	0	0	0
+1157693535	Enable Channel #20	0	0	0
+1157693536	Enable Channel #21	0	0	0
+1157693537	Enable Channel #22	0	0	0
+1157693538	Enable Channel #23	0	0	0
+1157693539	Enable Channel #24	0	0	0
+1157693540	Enable Channel #25	0	0	0
+1157693541	X Coordinate Channel #1	0	0	0
+1157693542	X Coordinate Channel #2	0	0	0
+1157693543	X Coordinate Channel #3	0	0	0
+1157693544	X Coordinate Channel #4	0	0	0
+1157693545	X Coordinate Channel #5	0	0	0
+1157693546	X Coordinate Channel #6	0	0	0
+1157693547	X Coordinate Channel #7	0	0	0
+1157693548	X Coordinate Channel #8	0	0	0
+1157693549	X Coordinate Channel #9	0	0	0
+1157693550	X Coordinate Channel #10	0	0	0
+1157693551	X Coordinate Channel #11	0	0	0
+1157693552	X Coordinate Channel #12	0	0	0
+1157693553	X Coordinate Channel #13	0	0	0
+1157693554	X Coordinate Channel #14	0	0	0
+1157693555	X Coordinate Channel #15	0	0	0
+1157693556	X Coordinate Channel #16	0	0	0
+1157693557	X Coordinate Channel #17	0	0	0
+1157693558	X Coordinate Channel #18	0	0	0
+1157693559	X Coordinate Channel #19	0	0	0
+1157693560	X Coordinate Channel #20	0	0	0
+1157693561	X Coordinate Channel #21	0	0	0
+1157693562	X Coordinate Channel #22	0	0	0
+1157693563	X Coordinate Channel #23	0	0	0
+1157693564	X Coordinate Channel #24	0	0	0
+1157693565	X Coordinate Channel #25	0	0	0
+1157693566	Y Coordinate Channel #1	0	0	0
+1157693567	Y Coordinate Channel #2	0	0	0
+1157693568	Y Coordinate Channel #3	0	0	0
+1157693569	Y Coordinate Channel #4	0	0	0
+1157693570	Y Coordinate Channel #5	0	0	0
+1157693571	Y Coordinate Channel #6	0	0	0
+1157693572	Y Coordinate Channel #7	0	0	0
+1157693573	Y Coordinate Channel #8	0	0	0
+1157693574	Y Coordinate Channel #9	0	0	0
+1157693575	Y Coordinate Channel #10	0	0	0
+1157693576	Y Coordinate Channel #11	0	0	0
+1157693577	Y Coordinate Channel #12	0	0	0
+1157693578	Y Coordinate Channel #13	0	0	0
+1157693579	Y Coordinate Channel #14	0	0	0
+1157693580	Y Coordinate Channel #15	0	0	0
+1157693581	Y Coordinate Channel #16	0	0	0
+1157693582	Y Coordinate Channel #17	0	0	0
+1157693583	Y Coordinate Channel #18	0	0	0
+1157693584	Y Coordinate Channel #19	0	0	0
+1157693585	Y Coordinate Channel #20	0	0	0
+1157693586	Y Coordinate Channel #21	0	0	0
+1157693587	Y Coordinate Channel #22	0	0	0
+1157693588	Y Coordinate Channel #23	0	0	0
+1157693589	Y Coordinate Channel #24	0	0	0
+1157693590	Y Coordinate Channel #25	0	0	0
+1157693591	Threshold Strength Green	0	0	0
+1157693592	Threshold Strength Yellow	0	0	0
+1157693593	Threshold Strength Orange	0	0	0
+1157693594	Threshold Strength Red	0	0	0
+1157693595	Threshold Fatigue Green	0	0	0
+1157693596	Threshold Fatigue Yellow	0	0	0
+1157693597	Threshold Fatigue Orange	0	0	0
+1157693598	Threshold Fatigue Red	0	0	0
+1157693599	Calibrate State	1	0	0
+1157693600	Calibration Comment	0	0	0

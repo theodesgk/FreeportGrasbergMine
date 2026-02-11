@@ -1,0 +1,29 @@
+1879113729	Fuel Consumption Rate	3212.75	0	13
+1879113730	Fuel Feed Rate	3212.75	0	13
+1879113731	Fuel Return Rate	3212.75	0	13
+1879113732	Fuel Tank Level Percentage	125	0	25
+1879113733	Fuel Consumption Total	41110812.15	-1000000	14
+1879113734	Vehicle Total Distance	4211081215	0	17
+1879113735	Feed/Tank Temperature	1734.96875	-273	5
+1879113736	Return/Engine Outlet Temperature	1734.96875	-273	5
+1879113737	Controller Temperature 	1734.96875	-273	5
+1879113738	Feed Fuel Total	41110812.15	-1000000	14
+1879113739	Return Fuel Total	41110812.15	-1000000	14
+1879113740	Diagnostic Status Bitmask	4211081215	0	0
+1879113741	Cellular Signal Bars	64255	0	0
+1879113742	Celllular DB	32127	-32128	0
+1879113743	Vehicle Altitude	5531.875	-2500	17
+1879113744	Vehicle Pitch Angle	64.51	-64	4
+1879113745	Vehicle Roll Angle	64.51	-64	4
+1879113746	Dump body Mass	642550	0	38
+1879113747	Vehicle Lateral Accelleration 	322.55	-320	0
+1879113748	Vehicle Longitudinal Accelleration	322.55	-320	0
+1879113749	Vehicle Vertical Accelleration	322.55	-320	0
+1879113750	Total Posative Vertical Travel	421108121.5	0	17
+1879113751	Total Posative Vertical Travel When Loaded	421108121.5	0	17
+1879113752	Last Cycle Average Loaded Grade	64.51	-64	4
+1879113753	Last Cycle Average Unloaded Grade	64.51	-64	4
+1879113754	Last Cycle Average Loaded RPM	8031.875	0	28
+1879113755	Last Cycle Average Unloaded RPM 	8031.875	0	28
+1879113756	Last Cycle Average Dump Body Tip  RPM	8031.875	0	28
+1879113757	Last Cycle Max Dump Body Tip RPM	8031.875	0	28

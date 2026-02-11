@@ -1,0 +1,45 @@
+# CLASS * OBJECT,NameToStoreInAmsDdb  (Driver from h objects) - eg: see /mms/boot/MineCare/*/Main.cfg
+Ams2000Driver * ams2000,Ams2000
+BCSDriver * bcs,BCS
+Be39hrDriver * be39hr,Be39hr
+BridgestoneDriver * bridgestone,Bridgestone
+BucyrusDriver * buc,Bucyrus
+CenseDriver * cense,Cense
+ChuqDriver * chuq,Chuq
+ContronicsDriver * contronics,Contronics
+CumminsDriver * cummins,Cummins
+DdecDriver * ddec,Ddec
+DpiDriver * dpi,Dpi
+FullerBrosDriver * fullerbros,FullerBros
+GoodyearDriver * goodyear,Goodyear
+HitachiDriver * hitachi,Hitachi
+Inclinometer * Inclinometer,Inclinometer
+LetWsDriver * letws,LetWs
+LiebExcavDriver * lieb,LiebExcav
+LiebherrDriver * lie,Liebherr
+LincsDriver * lincs,Lincs
+LoadRiteDriver * loadrite,Loadrite
+LubrizolDriver * lubrizol,Lubrizol
+MEMSRVDriver * memsrv,MEMSRV
+MEMSDriver * michelin,Michelin
+ModbusBusMgr * Mdbs,Modbus
+Mvi56Driver * mvi56,Mvi56
+PlmDriver * plm,Plm
+PlmII * PlmII,PlmII
+RimexDriver * rimex,Rimex
+SensorMgrDriver * sensormgr,SensorMgr
+SeaDriver * sea,Siemens
+SiemensACWDriver*siemensacw,SiemensACW
+StatexDriver * statex,Statex
+TciDriver * tci,TCI
+TpmsDriver * tpms,Tpms
+UnitRigDriver * unitrig,UnitRig
+VHMSDriver * vhms,VHMS
+VimsDriver * vims,Vims
+VimsGeneralDriver * vims,VimsGeneral
+VimsModelDriver * vims,VimsModel
+VistDriver * vist,Vist
+VitalSignsDriver * vs,VitalSigns
+VsiOilDriver * vsioil,VsiOil
+Vsms * Vsms,Vsms
+end

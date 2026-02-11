@@ -1,0 +1,20 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-1996
+ *               All Rights Reserved
+ *  $RCSfile: Icon,v $
+ * $Revision: 1.1 $
+ *   $Author: olson $
+ *     $Date: 2002/05/17 18:56:45 $
+ *    $State: Exp $
+ *   Purpose: Load just the GOIC font/icon partition.
+ * * * * * * * * * * * * * * * * * * *
+ */
+#if #class(nil) || #class(psw)
+	echo usage: net/Goic/Icon _CLASS_=[truck|shovel|...]
+#else
+#	include <Icon.h>
+#endif
+

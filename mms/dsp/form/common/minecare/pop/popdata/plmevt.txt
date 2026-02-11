@@ -1,0 +1,56 @@
+Dipper	33619968
+Dump	33619969
+Tons	33619970
+Quick Estimate	33619971
+Cycle	33619972
+Stopped Without Load	33619973
+Running Without Load	33619974
+Loading	33619975
+Running With Load	33619976
+Stopped With Load	33619977
+Dumping	33619978
+Frame Torque Threshold Exceeded	33619979
+Sprung Weight Threshold Exceeded	33619980
+Continuous Loading (PLM4)	33619981
+Loading To Dumping (PLM4)	33619982
+No Final Load (PLM4)	33619983
+Maneuvering To Dumping (PLM4)	33619984
+Average Load (PLM4)	33619985
+Final Zone To Dumping (PLM4)	33619986
+False Body Up Signal (PLM4)	33619987
+Body Up Signal Failed (PLM4)	33619988
+Speed Sensor Failed (PLM4)	33619989
+New Tare Not Calculated (PLM4)	33619990
+Incomplete Haul Cycle (PLM4)	33619991
+Haul Cycle Too Long (PLM4)	33619992
+Sensor Input Error (PLM4)	33619993
+False Swingload (PLM4)	33619994
+Truck Overloaded (PLM4)	33619996
+Remaining Load (OLS) (PLM4)	33619995
+Left Front Sensor Signal High	33619997
+Left Front Sensor Signal Low	33619998
+Right Front Sensor Signal High	33619999
+Right Front Sensor Signal Low	33620000
+Left Rear Sensor Signal High	33620001
+Left Rear Sensor Signal Low	33620002
+Right Rear Sensor Signal High	33620003
+Right Rear Sensor Signal Low	33620004
+Inclinometer Signal High	33620005
+Inclinometer Signal Low	33620006
+Speed Input Failure	33620007
+Brake Lock Input Failure	33620008
+Body Up Input Failure	33620009
+Checksum Failure	33620010
+Memory Write Failure	33620011
+Memory Read Failure	33620012
+Right Rear Suspension Flat	33620013
+Left Rear Suspension Flat	33620014
+Time Change	33620015
+Tare Value Reset	33620016
+Excessive Carryback	33620017
+User Switch Fault – Select	33620018
+User Switch Fault – Clear	33620019
+OEM Interface Timeout	33685472
+OEM Interface Normal	33685473
+Driver Interface Timeout	33685474
+Driver Interface Normal	33685475

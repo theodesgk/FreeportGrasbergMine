@@ -1,0 +1,45 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1995
+..               All Rights Reserved
+..  $RCSfile: .#db_fatigue_translate.frm.1.4,v $
+.. $Revision: 1.1 $
+..   $Author: dcitron $
+..     $Date: 2018/05/14 05:16:08 $
+..    $State: Exp $
+..
+..
+.def dict_risknorm    "Normal"
+.def dict_riskpre     "Pré-alerte"
+.def dict_riskwarn    "Avertissement"
+.def dict_riskalarm   "Alarme"
+..
+.def dict_astscorelbl "Score Fatigue:"
+..
+.. Definitions indicating "All Crews" for email alerts
+..
+.def dict_all_crews   "Toutes les équipes"
+..
+.. The following definitions are the questions and responses posted to the operator when their fatigue
+.. level is increased (When using OP_SAFE_MESSAGES). By default all three questions are the same but 
+.. you can customize each question for the transition between increasing levels.
+.. The Opetator Popup is only supported for equipment with NEWUI.
+..
+.def dict_qfatalarm   "Votre niveau de fatigue a augmenté.\\n Vous sentez-vous assez alerte pour continuer?" 
+.def dict_qfatwarn    "Votre niveau de fatigue a augmenté.\\n Vous sentez-vous assez alerte pour continuer?" 
+.def dict_qfatpre     "Votre niveau de fatigue a augmenté.\\n Vous sentez-vous assez alerte pour continuer?" 
+.def dict_accrej      "FatigueManagement"
+.def dict_btn1        "Oui"
+.def dict_btn2        "Non"
+..
+.. These definitions will be sent to the equipment operators for ClassicUI
+..
+.def dict_alarm       "Fatigue Alarme: Niveau"
+.def dict_warning     "Fatigue Avertissement: Niveau"
+.def dict_pre         "Fatigue Préavertissement: Niveau"
+..
+.. These definitions will be sent as email alerts
+.. 
+.def dict_email_pre   Equipement: %s a atteint un niveau de fatigue FatigueManagement de PRE-AVERTISSEMENT Heure:%h
+.def dict_email_warn  Equipement: %s a atteint un niveau de fatigue FatigueManagement d'AVERTISSEMENT Heure:%h
+.def dict_email_alarm Equipement: %s a atteint un niveau de fatigue FatigueManagement d'ALARME Heure:%h

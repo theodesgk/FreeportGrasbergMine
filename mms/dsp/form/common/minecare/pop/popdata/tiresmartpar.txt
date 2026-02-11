@@ -1,0 +1,160 @@
+755040257	A11 - Tire Location	0	0	0
+755040258	A11 - Tire Pressure	1000	0	9
+755040259	A11 - Tire Temperature	1735	-273	5
+755040260	A11 - CTI Wheel Electrical Fault	0	0	33
+755040261	A11 - Tire Pressure Threshold Detection	0	0	33
+755040262	A12 - Tire Location	0	0	0
+755040263	A12 - Tire Pressure	1000	0	9
+755040264	A12 - Tire Temperature	1735	-273	5
+755040265	A12 - CTI Wheel Electrical Fault	0	0	33
+755040266	A12 - Tire Pressure Threshold Detection	0	0	33
+755040267	A21 - Tire Location	0	0	0
+755040268	A21 - Tire Pressure	1000	0	9
+755040269	A21 - Tire Temperature	1735	-273	5
+755040270	A21 - CTI Wheel Electrical Fault	0	0	33
+755040271	A21 - Tire Pressure Threshold Detection	0	0	33
+755040272	A22 - Tire Location	0	0	0
+755040273	A22 - Tire Pressure	1000	0	9
+755040274	A22 - Tire Temperature	1735	-273	5
+755040275	A22 - CTI Wheel Electrical Fault	0	0	33
+755040276	A22 - Tire Pressure Threshold Detection	0	0	33
+755040277	A23 - Tire Location	0	0	0
+755040278	A23 - Tire Pressure	1000	0	9
+755040279	A23 - Tire Temperature	1735	-273	5
+755040280	A23 - CTI Wheel Electrical Fault	0	0	33
+755040281	A23 - Tire Pressure Threshold Detection	0	0	33
+755040282	A24 - Tire Location	0	0	0
+755040283	A24 - Tire Pressure	1000	0	9
+755040284	A24 - Tire Temperature	1735	-273	5
+755040285	A24 - CTI Wheel Electrical Fault	0	0	33
+755040286	A24 - Tire Pressure Threshold Detection	0	0	33
+755040287	A31 - Tire Location	0	0	0
+755040288	A31 - Tire Pressure	1000	0	9
+755040289	A31 - Tire Temperature	1735	-273	5
+755040290	A31 - CTI Wheel Electrical Fault	0	0	33
+755040291	A31 - Tire Pressure Threshold Detection	0	0	33
+755040292	A32 - Tire Location	0	0	0
+755040293	A32 - Tire Pressure	1000	0	9
+755040294	A32 - Tire Temperature	1735	-273	5
+755040295	A32 - CTI Wheel Electrical Fault	0	0	33
+755040296	A32 - Tire Pressure Threshold Detection	0	0	33
+755040297	A33 - Tire Location	0	0	0
+755040298	A33 - Tire Pressure	1000	0	9
+755040299	A33 - Tire Temperature	1735	-273	5
+755040300	A33 - CTI Wheel Electrical Fault	0	0	33
+755040301	A33 - Tire Pressure Threshold Detection	0	0	33
+755040302	A34 - Tire Location	0	0	0
+755040303	A34 - Tire Pressure	1000	0	9
+755040304	A34 - Tire Temperature	1735	-273	5
+755040305	A34 - CTI Wheel Electrical Fault	0	0	33
+755040306	A34 - Tire Pressure Threshold Detection	0	0	33
+755040307	A41 - Tire Location	0	0	0
+755040308	A41 - Tire Pressure	1000	0	9
+755040309	A41 - Tire Temperature	1735	-273	5
+755040310	A41 - CTI Wheel Electrical Fault	0	0	33
+755040311	A41 - Tire Pressure Threshold Detection	0	0	33
+755040312	A42 - Tire Location	0	0	0
+755040313	A42 - Tire Pressure	1000	0	9
+755040314	A42 - Tire Temperature	1735	-273	5
+755040315	A42 - CTI Wheel Electrical Fault	0	0	33
+755040316	A42 - Tire Pressure Threshold Detection	0	0	33
+755040317	A43 - Tire Location	0	0	0
+755040318	A43 - Tire Pressure	1000	0	9
+755040319	A43 - Tire Temperature	1735	-273	5
+755040320	A43 - CTI Wheel Electrical Fault	0	0	33
+755040321	A43 - Tire Pressure Threshold Detection	0	0	33
+755040322	A44 - Tire Location	0	0	0
+755040323	A44 - Tire Pressure	1000	0	9
+755040324	A44 - Tire Temperature	1735	-273	5
+755040325	A44 - CTI Wheel Electrical Fault	0	0	33
+755040326	A44 - Tire Pressure Threshold Detection	0	0	33
+755040327	A51 - Tire Location	0	0	0
+755040328	A51 - Tire Pressure	1000	0	9
+755040329	A51 - Tire Temperature	1735	-273	5
+755040330	A51 - CTI Wheel Electrical Fault	0	0	33
+755040331	A51 - Tire Pressure Threshold Detection	0	0	33
+755040332	A52 - Tire Location	0	0	0
+755040333	A52 - Tire Pressure	1000	0	9
+755040334	A52 - Tire Temperature	1735	-273	5
+755040335	A52 - CTI Wheel Electrical Fault	0	0	33
+755040336	A52 - Tire Pressure Threshold Detection	0	0	33
+755040337	A11 - Tire Sensor ID	0	0	0
+755040338	A11 - Tire Pressure Deviation	500	-500	9
+755040339	A11 - Future Expansion 3	0	0	0
+755040340	A11 - Future Expansion 4	0	0	0
+755040341	A11 - Future Expansion 5	0	0	0
+755040342	A12 - Tire Sensor ID	0	0	0
+755040343	A12 - Tire Pressure Deviation	500	-500	9
+755040344	A12 - Future Expansion 3	0	0	0
+755040345	A12 - Future Expansion 4	0	0	0
+755040346	A12 - Future Expansion 5	0	0	0
+755040347	A21 - Tire Sensor ID	0	0	0
+755040348	A21 - Tire Pressure Deviation	500	-500	9
+755040349	A21 - Future Expansion 3	0	0	0
+755040350	A21 - Future Expansion 4	0	0	0
+755040351	A21 - Future Expansion 5	0	0	0
+755040352	A22 - Tire Sensor ID	0	0	0
+755040353	A22 - Tire Pressure Deviation	500	-500	9
+755040354	A22 - Future Expansion 3	0	0	0
+755040355	A22 - Future Expansion 4	0	0	0
+755040356	A22 - Future Expansion 5	0	0	0
+755040357	A23 - Tire Sensor ID	0	0	0
+755040358	A23 - Tire Pressure Deviation	500	-500	9
+755040359	A23 - Future Expansion 3	0	0	0
+755040360	A23 - Future Expansion 4	0	0	0
+755040361	A23 - Future Expansion 5	0	0	0
+755040362	A24 - Tire Sensor ID	0	0	0
+755040363	A24 - Tire Pressure Deviation	500	-500	9
+755040364	A24 - Future Expansion 3	0	0	0
+755040365	A24 - Future Expansion 4	0	0	0
+755040366	A24 - Future Expansion 5	0	0	0
+755040367	A31 - Tire Sensor ID	0	0	0
+755040368	A31 - Tire Pressure Deviation	500	-500	9
+755040369	A31 - Future Expansion 3	0	0	0
+755040370	A31 - Future Expansion 4	0	0	0
+755040371	A31 - Future Expansion 5	0	0	0
+755040372	A32 - Tire Sensor ID	0	0	0
+755040373	A32 - Tire Pressure Deviation	500	-500	9
+755040374	A32 - Future Expansion 3	0	0	0
+755040375	A32 - Future Expansion 4	0	0	0
+755040376	A32 - Future Expansion 5	0	0	0
+755040377	A33 - Tire Sensor ID	0	0	0
+755040378	A33 - Tire Pressure Deviation	500	-500	9
+755040379	A33 - Future Expansion 3	0	0	0
+755040380	A33 - Future Expansion 4	0	0	0
+755040381	A33 - Future Expansion 5	0	0	0
+755040382	A34 - Tire Sensor ID	0	0	0
+755040383	A34 - Tire Pressure Deviation	500	-500	9
+755040384	A34 - Future Expansion 3	0	0	0
+755040385	A34 - Future Expansion 4	0	0	0
+755040386	A34 - Future Expansion 5	0	0	0
+755040387	A41 - Tire Sensor ID	0	0	0
+755040388	A41 - Tire Pressure Deviation	500	-500	9
+755040389	A41 - Future Expansion 3	0	0	0
+755040390	A41 - Future Expansion 4	0	0	0
+755040391	A41 - Future Expansion 5	0	0	0
+755040392	A42 - Tire Sensor ID	0	0	0
+755040393	A42 - Tire Pressure Deviation	500	-500	9
+755040394	A42 - Future Expansion 3	0	0	0
+755040395	A42 - Future Expansion 4	0	0	0
+755040396	A42 - Future Expansion 5	0	0	0
+755040397	A43 - Tire Sensor ID	0	0	0
+755040398	A43 - Tire Pressure Deviation	500	-500	9
+755040399	A43 - Future Expansion 3	0	0	0
+755040400	A43 - Future Expansion 4	0	0	0
+755040401	A43 - Future Expansion 5	0	0	0
+755040402	A44 - Tire Sensor ID	0	0	0
+755040403	A44 - Tire Pressure Deviation	500	-500	9
+755040404	A44 - Future Expansion 3	0	0	0
+755040405	A44 - Future Expansion 4	0	0	0
+755040406	A44 - Future Expansion 5	0	0	0
+755040407	A51 - Tire Sensor ID	0	0	0
+755040408	A51 - Tire Pressure Deviation	500	-500	9
+755040409	A51 - Future Expansion 3	0	0	0
+755040410	A51 - Future Expansion 4	0	0	0
+755040411	A51 - Future Expansion 5	0	0	0
+755040412	A52 - Tire Sensor ID	0	0	0
+755040413	A52 - Tire Pressure Deviation	500	-500	9
+755040414	A52 - Future Expansion 3	0	0	0
+755040415	A52 - Future Expansion 4	0	0	0
+755040416	A52 - Future Expansion 5	0	0	0

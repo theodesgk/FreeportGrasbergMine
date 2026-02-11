@@ -1,0 +1,48 @@
+1862336513	Tire 1 Temperature 	999.9	-99.9	5
+1862336514	Tire 1 Pressure	9999.9	0	9
+1862336515	Tire 1 Corrected Pressure	9999.9	0	9
+1862336516	Tire 1 Target Pressure	9999.9	0	9
+1862336517	Tire 1 Temperature Alarm Status	3	0	0
+1862336518	Tire 1 Pressure Alarm Status	4	0	0
+1862336519	Tire 2 Temperature 	999.9	-99.9	5
+1862336520	Tire 2 Pressure	9999.9	0	9
+1862336521	Tire 2 Corrected Pressure	9999.9	0	9
+1862336522	Tire 2 Target Pressure	9999.9	0	9
+1862336523	Tire 2 Temperature Alarm Status	3	0	0
+1862336524	Tire 2 Pressure Alarm Status	4	0	0
+1862336525	Tire 3 Temperature 	999.9	-99.9	5
+1862336526	Tire 3 Pressure	9999.9	0	9
+1862336527	Tire 3 Corrected Pressure	9999.9	0	9
+1862336528	Tire 3 Target Pressure	9999.9	0	9
+1862336529	Tire 3 Temperature Alarm Status	3	0	0
+1862336530	Tire 3 Pressure Alarm Status	4	0	0
+1862336531	Tire 4 Temperature 	999.9	-99.9	5
+1862336532	Tire 4 Pressure	9999.9	0	9
+1862336533	Tire 4 Corrected Pressure	9999.9	0	9
+1862336534	Tire 4 Target Pressure	9999.9	0	9
+1862336535	Tire 4 Temperature Alarm Status	3	0	0
+1862336536	Tire 4 Pressure Alarm Status	4	0	0
+1862336537	Tire 5 Temperature 	999.9	-99.9	5
+1862336538	Tire 5 Pressure	9999.9	0	9
+1862336539	Tire 5 Corrected Pressure	9999.9	0	9
+1862336540	Tire 5 Target Pressure	9999.9	0	9
+1862336541	Tire 5 Temperature Alarm Status	3	0	0
+1862336542	Tire 5 Pressure Alarm Status	4	0	0
+1862336543	Tire 6 Temperature 	999.9	-99.9	5
+1862336544	Tire 6 Pressure	9999.9	0	9
+1862336545	Tire 6 Corrected Pressure	9999.9	0	9
+1862336546	Tire 6 Target Pressure	9999.9	0	9
+1862336547	Tire 6 Temperature Alarm Status	3	0	0
+1862336548	Tire 6 Pressure Alarm Status	4	0	0
+1862337012	Tire 1 Serial Number	0	0	0
+1862337013	Tire 1 Sensor Id	0	0	0
+1862337014	Tire 2 Serial Number	0	0	0
+1862337015	Tire 2 Sensor Id	0	0	0
+1862337016	Tire 3 Serial Number	0	0	0
+1862337017	Tire 3 Sensor Id	0	0	0
+1862337018	Tire 4 Serial Number	0	0	0
+1862337019	Tire 4 Sensor Id	0	0	0
+1862337020	Tire 5 Serial Number	0	0	0
+1862337021	Tire 5 Sensor Id	0	0	0
+1862337022	Tire 6 Serial Number	0	0	0
+1862337023	Tire 6 Sensor Id	0	0	0

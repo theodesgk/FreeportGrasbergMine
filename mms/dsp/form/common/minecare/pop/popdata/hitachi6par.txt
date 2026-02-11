@@ -1,0 +1,68 @@
+989921281	Ambient Air Temperature	210	-40	5
+989921282	Battery Voltage	321.275	0	31
+989921283	Hydraulic Oil Tank Temperature	210	-40	5
+989921284	Fuel Level Gauge	250	0	0
+989921285	Engine Coolant Temperature	210	-40	5
+989921286	Engine Oil Pressure	1000	0	9
+989921287	Engine Oil Temperature	1734.96875	-273	5
+989921288	Engine Speed	8031.875	0	28
+989921289	Left Engine Coolant Temperature	210	-40	5
+989921290	Left Engine Oil Pressure	1000	0	9
+989921291	Left Engine Oil Temperature	1734.96875	-273	5
+989921292	Left Engine Speed	8031.875	0	28
+989921293	Right Engine Coolant Temperature	210	-40	5
+989921294	Right Engine Oil Pressure	1000	0	9
+989921295	Right Engine Oil Temperature	1734.96875	-273	5
+989921296	Right Engine Speed	8031.875	0	28
+989921297	Pilot Pump Pressure	6	0	22
+989921298	Travel Operation	3	0	0
+989921299	Excluding Travel Operation	3	0	0
+989921300	Auto-Idle Switch Status	3	0	0
+989921301	Travel Mode Switch Status	3	0	0
+989921302	Prelub Function Status (Left)	3	0	0
+989921303	Prelub Function Status (Right)	3	0	0
+989921304	Boost Pressure 1 (Left)	500	0	9
+989921305	Boost Pressure 2 (Left)	500	0	9
+989921306	After Cooler Temp 1 (Left)	210	-40	5
+989921307	After Cooler Temp 2 (Left)	210	-40	5
+989921308	Hour Meter	210554060.75	0	7
+989921309	Boost Pressure 1 (Right)	500	0	9
+989921310	Boost Pressure 2 (Right)	500	0	9
+989921311	After Cooler Temp 1 (Right)	210	-40	5
+989921312	After Cooler Temp 2 (Right)	210	-40	5
+989921313	Exhaust Temperature #1 (Left)	1734.96875	-273	5
+989921314	Exhaust Temperature #2 (Left)	1734.96875	-273	5
+989921315	Exhaust Temperature #3 (Left)	1734.96875	-273	5
+989921316	Exhaust Temperature #4 (Left)	1734.96875	-273	5
+989921317	Exhaust Temperature #5 (Left)	1734.96875	-273	5
+989921318	Exhaust Temperature #6 (Left)	1734.96875	-273	5
+989921319	Exhaust Temperature #7 (Left)	1734.96875	-273	5
+989921320	Exhaust Temperature #8 (Left)	1734.96875	-273	5
+989921321	Exhaust Temperature #9 (Left)	1734.96875	-273	5
+989921322	Exhaust Temperature #10 (Left)	1734.96875	-273	5
+989921323	Exhaust Temperature #11 (Left)	1734.96875	-273	5
+989921324	Exhaust Temperature #12 (Left)	1734.96875	-273	5
+989921325	Exhaust Temperature #13 (Left)	1734.96875	-273	5
+989921326	Exhaust Temperature #14 (Left)	1734.96875	-273	5
+989921327	Exhaust Temperature #15 (Left)	1734.96875	-273	5
+989921328	Exhaust Temperature #16 (Left)	1734.96875	-273	5
+989921329	Exhaust Temperature #1 (Right)	1734.96875	-273	5
+989921330	Exhaust Temperature #2 (Right)	1734.96875	-273	5
+989921331	Exhaust Temperature #3 (Right)	1734.96875	-273	5
+989921332	Exhaust Temperature #4 (Right)	1734.96875	-273	5
+989921333	Exhaust Temperature #5 (Right)	1734.96875	-273	5
+989921334	Exhaust Temperature #6 (Right)	1734.96875	-273	5
+989921335	Exhaust Temperature #7 (Right)	1734.96875	-273	5
+989921336	Exhaust Temperature #8 (Right)	1734.96875	-273	5
+989921337	Exhaust Temperature #9 (Right)	1734.96875	-273	5
+989921338	Exhaust Temperature #10 (Right)	1734.96875	-273	5
+989921339	Exhaust Temperature #11 (Right)	1734.96875	-273	5
+989921340	Exhaust Temperature #12 (Right)	1734.96875	-273	5
+989921341	Exhaust Temperature #13 (Right)	1734.96875	-273	5
+989921342	Exhaust Temperature #14 (Right)	1734.96875	-273	5
+989921343	Exhaust Temperature #15 (Right)	1734.96875	-273	5
+989921344	Exhaust Temperature #16 (Right)	1734.96875	-273	5
+989921345	After Cooler Temp 3 (Left)	210	-40	5
+989921346	After Cooler Temp 4 (Left)	210	-40	5
+989921347	After Cooler Temp 3 (Right)	210	-40	5
+989921348	After Cooler Temp 4 (Right)	210	-40	5

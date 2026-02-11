@@ -1,0 +1,28 @@
+#!/bin/sh
+#
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-1994
+#               All Rights Reserved
+#  $RCSfile: hpgpscfg_restore,v $
+# $Revision: 1.1 $
+#   $Author: olson $
+#     $Date: 2002/05/24 02:07:13 $
+#    $State: Exp $
+#
+# This script is used by the HP-GPS configuration system
+# to restore production versions of files after test changes.
+#
+# $1 is the full path of the target directory,
+# $2 is the filename.
+#
+
+. /dsp/sh/functions
+
+cd $1
+
+# If this is a client site don't do anything:
+if [ ! $linktest /dsp/client -a -f $2 ]; then
+  co -f $2
+  ci -u $2
+fi
+echo "Finished with "$2

@@ -1,0 +1,1434 @@
+#
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-2002
+#               All Rights Reserved
+#  $RCSfile: dispatch.rpc,v $
+# $Revision: 1.1 $
+#   $Author: zambetis $
+#     $Date: 2010/02/03 00:12:10 $
+#    $State: Exp $
+#   Purpose: RPC definitions for OMS network.
+#
+# rpc-#		rpc-name	rpc-class	rpc-template	rpc-defn
+
+#
+# Typecodes for MineCare generic maintenance system
+#
++$OMSROOT/minecare/core.rpc
++$OMSROOT/minecare/interfaces.rpc
++$OMSROOT/minecare/eep3.rpc
+
+#
+# RPC definitions for the HP systems
+#
++$OMSROOT/hpgps/hpgps.rpc
++$OMSROOT/hpgps/services.rpc
+
+#
+# Include a definition for the general RPC-RESULT
+# RPC.  Note that newer PSWD versions require this
+# definition to properly return result packets.
+#
+0xffff		RPC-RESULT	rpc		v
+
+#
+# Boot PROM RPCs
+#
+0x0100		BOOT-FILE	boot		s
+0x0101		BOOT-REQUEST	boot		dd
+
+#
+# RPC data-base lookup.  Note that these packets MUST be in
+# class "pswd" for the packet switcher to answer rpc-byname
+# and rpc-bynumber requests.
+#
+0x00e1		BB-FORMATS	pswd		v,[b]
+0x00e2		BB-PORTS	pswd		v,dd
+result		0 0
+0x0102		RPC-BYNAME	pswd		s?s
+0x0103		RPC-BYNUMBER	pswd		d?s
+
+#
+# Remote console RPCs.  Note that we leave off the templates
+# for these RPCs so the debug screen doesn't display them.
+#
+0x0104		CONS-IN		cons
+0x0105		CONS-OUT	cons
+0x0106		CONS-SET	cons
+
+#
+# Obsolete Rev-C packet routing RPCs
+#
+0x0107		ROUTE-ERROR	route		d
+0x0108		ROUTE-RETRY	retry		d
+0x0109		ROUTE-UP	route
+0x010a		ROUTE-DOWN	route
+0x0111		UP-RETRY	retry		d
+
+#
+# Obsolete Rev-C packet debugging RPCs
+#
+0x010b		DEBUG-OUT	debug		dd?dd
+0x010c		DEBUG-INACK	debug		dd?dd
+0x010d		DEBUG-OUTACK	debug		dd?dd
+0x010e		DEBUG-INRES	debug		dd?dd
+0x010f		DEBUG-OUTRES	debug		dd?dd
+0x0110		DEBUG-ERROR	debug		dd?dd
+
+#
+# Remote object shell communication access RPCs, via the
+# v2.4.0 Pipe object.
+#
+0x0113		OBJSH		objsh		s
+0x0113		RPCSH		objsh		s
+0x0114		OBJRES		objsh		s
+
+#
+# Evalate CEX expression, for OIP and VSMS boards.
+#
+0x0115		CEX		builtin		s
+defn		oip		cex($1)
+0x0119		CONFIG		builtin		?ss,s
+0x011a		SAVE		builtin		v
+0x011b		LOOPCT		builtin		v,d
+0x011c		RELAY		builtin		d
+0x011d		STATS		builtin		v,[d]
+0x011e		VERSION		builtin		v,s
+defn		oip		return(version())
+0x011f		CINIT		builtin		v
+0x0120		TIME		builtin		dddddd
+0x0121		*		builtin		d
+0x0122		TALK		builtin		s
+0x0123		SLEEP		builtin		d	sleep($1)
+0x0124		CSIGN		builtin		bd
+defn		oip		csign($1,$2)
+0x0126		BAUD		builtin		d
+0x0127		CHANNEL		builtin		d
+0x0127		GETCHAN		builtin		v,d
+0x0128		RP-SET		builtin		bd
+    0x0128	RPKEY		builtin		0d
+    0x0128	RPKEY2		builtin		1d
+    0x0128	RPK2TM		builtin		2d
+    0x0128	RPACKTM		builtin		3d
+    0x0128	RPSLOTS		builtin		4d
+    0x0128	RPRETRIES	builtin		5d
+    0x0128	RPRETRYTM	builtin		6d
+    0x0128	RPSPEED		builtin		7d
+0x0129		TIME-SET	builtin		l
+0x012a		ECHO		builtin		d
+0x012b		RPX-SET		builtin		bd
+    0x012b	RPXACTIVE	builtin		0d
+    0x012b	RPXBUSY		builtin		1d
+    0x012b	RPXKEY		builtin		2d
+0x012c		MODE		builtin		d
+0x012d		BOOTME		builtin		v
+0x012e		SET		builtin		s?s
+0x012f		C_RP_SAVE	builtin		?s
+0x0203		ID		builtin		d
+0x020d		CRESET		builtin		v
+0x020d		RESET		builtin		d
+
+#
+# Caterpillar weigh system interface
+#
+0x003e		OLD-TPMS	cat	d[d]
+0x0138		TPMS-TONS	cat	d[d]
+0x0139		TPMS-LOAD	cat	v
+0x013a		TPMS-ASSIGN	cat	v
+0x013d		TPMS-SHOW	cat	d
+defn		oip		v3=sprintf("%d Tons",$1)
+0x013e		TPMS-GETTONS	cat	v,d
+0x013f		TPMS-MON	cat	d	KEYBD
+0x013f		PMC-MON		cat	d	KEYBD
+defn		oip		wsid=$1,last=tons=0
+
+#
+# VSMS Gathering Data. (Integrating interface data)
+#
+#	VSMS-GETTYPES (Get the datatypes that will be used)
+#		      (return a byte array with the types)
+#
+0x0150		VSMS-GETTYPES	rec	s,d[b]
+
+#
+# Object Replicator RPCs, used for replicating status information
+# in AT project.  Note that they don't really take void arguments,
+# but the template decoder isn't smart enough yet to decode them.
+#
+package com.mmsi.net
+0x0154		ReplicaRequest	replica	iii
+0x0155		ReplicaResponse	replica	iii
+package
+
+#
+# Repeater control RPCs which communicate with the MMS
+# bit regenerator.
+#
+# BRG-FIND	Broadcast to find active repeater
+# BRG-ACTIVE	Sent by active repeater in response to BRG-FIND
+# BRG-SELECT	Broadcast to select active repeater, A or B
+# BRG-STATUS	Request repeater status information
+#		status bits
+#		  0:	power-failure
+#		  1:	over-temperature
+#		  2:	antenna failure
+#		  3:	heartbeat, toggles at 1 hz rate
+#		  4:	repeater is active
+#		  5:	door is open
+#		  6:	configuration error
+#		  7:	repeater directly connected via SLIP port
+#		forward power, millivolts
+#		reverse power, millivolts
+#		input power (VIN), millivolts
+#		temperature, degrees C
+# BRG-PWRUP	Repeater power-up
+#
+0x0158	BRG-FIND	brg	v
+0x0159	BRG-ACTIVE	brg	v
+0x015a	BRG-SELECT	brg	s
+0x015b	BRG-STATUS	brg	v,[d]
+0x015c	BRG-PWRUP	brg	l
+
+#
+# Caterpillar VIMS (Vital Information Management System)
+#
+0x0160	VIMS-DIPPER	vims	d,v
+defn	oip		dipper($1)
+defn	gsp		port-0
+result	gsp		0
+0x0161	VIMS-LOAD	vims	d,v
+defn	gsp		port-0
+result	gsp		0
+0x0162	VIMS-CYCLE	vims	[d]
+defn	gsp		port-0
+0x0163	VIMS-INFO	vims	[d],[d]
+defn	gsp		port-2
+0x0164	VIMS-EVENT	vims	db,v
+defn	gsp		port-0
+result	gsp		0
+0x0165	VIMS-HOURS	vims	v,l
+defn	gsp		port-2
+0x0166	VIMS-OPERID	vims	s
+defn	gsp		port-2
+0x0167	VIMS-AUTO	vims	[b],d
+defn	gsp		port-0
+result  gsp		1
+0x0168	VIMS-SEND	vims	dd,[b]
+defn	gsp		port-2
+0x0169	VIMS-CMND       vims	[b]
+defn	gsp		port-2
+0x016a	VIMS-EDEACK	vims	db,v
+defn	gsp		port-0
+result  gsp		0
+0x016b	VIMS-XMIT	vims	d[d]
+
+#
+# Cummins Engine VSMS system
+#
+0x016f	CECO_DELTA		ceco		d[d][d]
+defn	gsp		port-0
+0x0170	CECO_DATA		ceco		dd[b][d]
+defn	gsp		port-0
+0x0171	CECO_DIAG		ceco		d[d]
+defn	gsp		port-0
+0x0172	CECO_QUERY		ceco		dd
+defn	gsp		port-2
+0x0173	CECO_CONFIG		ceco		d[d]
+defn	gsp	        port-2
+0x0174	CECO_PWRUP		ceco		d
+defn	gsp		port-0
+0x0175	CECO_LOG		ceco		d
+defn	gsp		port-2
+
+#
+# Wiseda weigh system interface
+#
+0x0178	WIS_DIPPER	wiseda		d
+defn	gsp		up
+defn	oip		dipper($1)
+0x0179	WIS_TONS	wiseda		d
+defn	gsp		up
+0x017a	WIS_FAULT	wiseda		d
+defn	gsp		up
+
+#
+# Trolley monitoring interface (used by BGM, but pretty generic)
+#
+0x017c	TROLLEY-PROFILE		trolley		[b][b]
+0x017d	TROLLEY-ALARM		trolley		bb
+
+#
+# DDEC interface procedures
+#
+# The DDEC-CONFIG() RPC must return the following configuration parameters:
+#
+# a) xmittm - periodic retransmit interval.  If zero, the DDEC interface
+#    doesn't transmit DDEC-DATASET on a timeout basis; if non-zero, the DDEC
+#    interface transmits DDEC-DATASET(-2,[data]) every `xmittm' seconds.
+# b) diagtm - timeout DDEC-DIAG alarm messages such that alarms from any
+#    specific <MID,PID> pair are never transmitted more frequently than
+#    every `diagtm' seconds.
+# c) xmitset - list of <MID,PID> pairs to transmit in each DDEC-DATASET
+#    message.  The incoming DDEC-DATASET packets contain a vector of
+#    values in the same order as specified in this list.
+#
+#	MID	PID	Parameter
+#	---	---	---------
+#	128	190	engine RPM
+#	128	92	% engine load
+#	128	110	coolant temperature
+#	128	94	fuel pressure
+#	128	174	fuel temperature
+#	128	100	oil pressure
+#	175	175	oil temperature
+#	175	102	turbo boost
+#	128	84	vehicle speed		(not available)
+#	128	182	trip fuel		(not available)
+#	128	250	total fuel used
+#	128	247	engine hours
+#	128	248	PTO hours
+#	175	100	oil pressure
+#
+0x0140		DDEC-INFO	ddec		bb,s
+0x0141		DDEC-NTH	ddec		d,ds
+0x0142		DDEC-DIAG	ddec		bbbl
+0x0143		DDEC-CONFIG	ddec		v,dd[b]
+0x0144		DDEC-XMITTM	ddec		d
+0x0145		DDEC-XMITSET	ddec		[b]
+0x0146		DDEC-DATASET	ddec		d[l]
+0x0147		DDEC-REQUEST	ddec		d
+
+#
+# Define a list of beacons at which the DDEC interface transmits
+# DDEC-DATASET packets.  Note that the incoming data set at beacon
+# arrival contains the beacon ID number as its first parameter.
+# For example:
+#
+# result	truck	[100]
+#
+0x0148		DDEC-BEACONS	ddec		v,[d]
+0x0149		DDEC-RELAY	ddec		b
+0x014a		DDEC-OFF	ddec		d
+
+#
+# NOVRAM booting procedures
+#
+0x0180		NVBOOT-APPL	pswd		s,d
+0x0181		NVBOOT-REQUEST	pswd		dd,s
+0x0182		NVBOOT-ERROR	pswd		ss
+
+#
+# Generic bar-code RPC
+#
+0x0184		BARCODE		barcode		s
+
+#
+# ComProc routing procedures
+#
+0x0185		CP-RESET	com
+0x0186		CP-REGISTER	com
+0x0187		CP-OK		com		d?s
+0x0188		CP-FAILED	com		d?s
+0x0189		CP-BUSY		com		d
+0x018a		CP-SWITCH	com		b
+0x018b		CP-PING		com		dd,d
+0x018c		CP-RFBEACON	com		b
+0x018d		CP-BEACON	com		db?b
+0x018e		CP-RFBCL	com		v,b
+0x018f		CP-RPCTO	com		sr
+0x0190		CP-XMIT		com		v
+0x0191		CP-UPSTREAM	com		d.d
+0x0192		CP-PWRUP	com		v
+defn		oip		cp_ok($1)
+defn		oip		cp_failed($1)
+defn		oip		cp_busy($1)
+defn		oip		cp_switch($1)
+defn		oip		cp_beacon($1,$2)
+defn		oip		return(rfbcl)
+
+#
+# MEOS crash dump request
+#
+0x0195		CrashDump	com		s
+
+#
+# GPS interface functions.
+#
+# GPS-FIND       b  Receiver type identifier
+#               [d] GridX:     Embedded Grid X coordinate
+#                   GridY:     Embedded Grid Y coordinate
+#                   elev:      WGS-84 in scaled units
+#                   rcvStat:   status of the receiver
+#                   satTrk:    number of satellites tracked by receiver
+#                   satUse:    number of satellites used by receiver
+#                   satVis:    number of satellites visible to receiver
+#               [l] latitude:  in mSec
+#                   longitude: in mSec
+#                   gmt:       UNIX time
+# GPS-CONFIG	[=] (Now obsolete)...
+#                   Older GPS units have the following configuration information,
+#                   fetched on power-up from the central computer.
+#		[l] Xorigin:	Longitude of <0,0> coordinate, scaled mSecs
+#		    Yorigin:	Latitude of <0,0> coordinate, scaled mSecs
+#		[d] Scale:      Divisor to scale mSec to desired units
+#		    Stopped:    Velocity, cm/sec, below which vehicle is stopped
+#		    XmitTm:	Maximum beacon ID retransmit time, secs
+#		    XmitDist:	Max distance change for position transmission, scaled mSecs
+#		    ArriveCt:	Arrival retransmit counter
+#		    DepartCt:	Departure retransmit counter
+#		    GmtOff:	(GMT - LocalTime), minutes
+#		    Stale:	Beacon stale timeout, minutes
+#		    PathTm:	Time between GPS-PATH samples, seconds
+# GPS-BEACONS	[=] Vector of GPS beacon definition records, broadcast by
+#		    central computer and by other GPS units having a non-zero
+#		    BeaconID (ie shovels).  Each GPS beacon definition contains
+#		    the following values:
+#		    ID:		16-bit beacon ID number
+#		    Type:	8-bit beacon type
+#		    Radius:	8-bit beacon radius, scaled mSec
+#                   X:		16-bit longitude, scaled mSec relative to Xorigin
+#		    Y:		16-bit latitude, scaled mSec relative to Yorigin
+# GPS-BEACON	[=] Single GPS beacon definition that can be used to send either
+#                   individual standard GPS beacons or, more commonly, to send
+#                   a single polygon definition to a single equipment or broadcast
+#                   The template is as follows:
+#                   ID:         16-bit beacon ID number
+#                   Type:       8-bit beacon type. For polygons the 0x40 bit is '1'
+#                   Radius:     8-bit beacon radius, scaled mSec. This is unused for
+#                               polgon beacons but necessary for backwards compatibility
+#                   X0:         16-bit longitude, scaled mSec relative to Xorigin
+#                   Y0:         16-bit latitude, scaled mSec relative to Yorigin
+#                   Optionally followed by an array of (X,Y) coordinates for all vertices:
+#                     length:   16-bit number of vertices in array
+#                     X:	16-bit longitude, scaled mSec relative to Xorigin
+#		      Y:	16-bit latitude, scaled mSec relative to Yorigin
+# GPS-ARRIVE	[=] Indicates arrival within the coverage area of the given
+#		    beacon ID.  GPS-ARRIVE includes the following values:
+#		    ID:		GPS beacon ID number
+#			        Note that the reserved ID number 0 indicates
+#			        a position update based on a timeout or movement
+#				by more than the configured maximum value.
+#		    X:		16-bit longitude, scaled mSec relative to Xorigin
+#		    Y:		16-bit latitude, scaled mSec relative to Yorigin
+#		    Z:		16-bit elevation
+#                   V:          16-bit velocity
+# GPS-DEPART	[=] Indicates departure from the coverage area of the given
+#		    beacon ID.  GPS-DEPART includes the same values as the
+#		    GPS-ARRIVE RPC.
+# GPS-REFRESH       Used to trigger refreshes in Pit Graphics.  Arguments are:
+#		 d  X:		16-bit longitude, scaled mSec relative to Xorigin
+#		 d  Y:		16-bit latitude, scaled mSec relative to Yorigin
+#		 d  Unit:	int enum UNIT of the equipment's unit
+#		 d  Type:	int enum QUALIF of the equipment's qualif type
+#		 d  Status:     int enum STATUS of the equipment's status
+#		?d  Load:	optional int enum LOAD of the equipment's Load type.
+# GPS-QUERY	[=] Return a character string containing the following comma 
+#		    seperated pieces of information, in the following order, 
+#		    depending on the GPS-QUERY integer argument (the sum of all):
+#			NOTE: some items may not be available from the receiver or 
+#			      implemented by the driver (eg. SK8 velocity)
+#		    0x02:  "X,Y" coordinate relative to origin, scaled mSec
+#		    0x01:  "Latitude, longitude"
+#		    0x04:  "Elevation" scaled (/zScale-zOffset)
+#		    0x08:  "Velocity, heading"
+#		    0x10:  "GMT time"
+#		    0x20:  "Local time"
+#		    0x40:  "Sats visible"
+#		    0x80:  "Sats tracked"
+#		    0x100: "Sats used"
+#		    0x200: "Receiver status"
+#			the first 4 bits are:
+#			  e = centimeter
+#			  f = decimeter
+#			  0 = meter
+#			  1 = 10 meter
+#			  2 = 100 meter
+#			  3 = >100 meter
+#			  7 = no position
+#			the second 4 bits are the number of sats used
+#		   -1: All of the above
+# GPS-SIMUL	[=] Simulate movement from x1/y1 to x2/y2 over a period of N secs.
+# GPS-TESTMODE	[=] Enable test mode, transmitting latitude/longitude every N secs.
+# GPS-TEST	[=] Incoming GPS-TEST mode latitude/longitude/elevation packet.
+# GPS-DIFF      [=] Differential corrections broadcast
+# GPS-PATH	[=] GPS coordinates at fixed intervals
+#		    1) Sample time, secs
+#		    2) Vector of <grid_x,grid_y,z_meters,status>
+#		    3) Optional version number (1 indicates new status codes)
+#                   4) Optional vector of <heading, velocity, direction> with
+#                       heading = compass heading 1/10ths deg: N=0, E=900, S=1800, W=2700
+#                       velocity = cm/s
+#                       direction = 0=don't know, 1=forward, 2=backward
+# GPS-PATH-HP	[=] High precision GPS-PATH data
+#		    1) Sample time, secs
+#		    2) X-coordinate (longitude) of first point (mSecs)
+#		    3) Y-coordinate (latitude) of first point (mSecs)
+#		    4) Elevation of first point (centimeters)
+#		    5) Vector of <delta_x,delta_y,delta_z,status,dop>
+#		       delta_x [=] 16-bit mSecs from first point
+#		       delta_y [=] 16-bit mSecs from first point
+#		       delta_z [=] 16-bit centimeters from first point
+#		       status  [=] 8-bit receiver status
+#		       dop     [=] 8-bit dilution of precision (tenths of a DOP)
+#
+0x01a1		GPS-REFRESH	gpsout		ddddd?d
+0x01a2		GPS-STATUS	gps		b
+0x01a3		GPS-RECORD	gps		v
+0x01a4		GPS-CONFIG	gps		v,[l][d]
+0x01a5		GPS-BEACONS	gpsout		[dbbdd]
+0x01bf		GPS-BEACON	gpsout		dbbdd?[dd]
+0x01a6		GPS-ARRIVE	gps		ddd?dd
+log		GPS-ARRIVE
+0x01a7		GPS-DEPART	gps		ddd?dd
+0x01a8		GPS-QUERY	gpsout		d,s
+0x01a9		GPS-SIMUL	gps		ddddd
+0x01aa		GPS-TESTMODE	gpsout		?d
+0x01ab		GPS-TEST	gps		s
+log		GPS-TEST
+0x01ac		GPS-DIFF	gpsdiff		d[bdbb]?b[bb]
+0x01ad		GPS-PATH	gps		d[dddb]?b[ddb]
+0x01ae		GPS-ERROR	gps		b
+0x01af		GPS-PATH-HP	gps		dlll[dddbb]?b
+0x7300		GPS-RAIL-POINT	gps		llbbblblddldb
+0x7301		GPS-RAIL-PATH	gps		llld[iiibbbddb]
+
+
+#
+# High-precision GPS support
+#
+0x0820		GPS-CPDIFF	gpsdiff		lb[bbbll]?lllbbb
+0x0821		GPS-CPDIFFZ	gpsdiff		[b]
+0x0822		GPS-POS-HP	gps		l[lllddbbbb]
+#0x0823		GPS-INCL-HP	gps		llll
+0x0824		GPS-RTCM	gpsdiff		[b]
+0x0825		INCLINATION	nav		dd
+0x0827		GPS-DIFF-REQ	gps		dd
+0x0828		GPS-RTCM3	gpsdiff		[b]
+0x9043		POS-PATH	gps		llld[dddbbbbbb]
+0x9044		GPS-LOGDATA	gps		bllllbbbblddldlll
+
+#
+# NFS remote file access
+#
+0x01b0		NFS-OPEN	pswd		sds?ll,ddld?lll
+0x01b1		NFS-CLOSE	pswd		d,d
+0x01b2		NFS-READ	pswd		dld,dd
+0x01b3		NFS-WRITE	pswd		dl,dd
+
+#
+# LoadMetrics interface
+#
+
+0x0790          LM-NEWTRUCK        LoadMetrics    ?s?d   
+0x0791          LM-LOADCOMPLETE    LoadMetrics    v       
+0x0792          LM-DIPPER          LoadMetrics    ff?s    
+0x0793          LM-LOAD            LoadMetrics    f?s     
+
+
+#
+# Radiation Scanner Interface
+#
+
+0x0794    RS-REQUEST-SCAN     RadiationScanner    v
+0x0795    RS-BKGRNDCHECK      RadiationScanner    v
+0x0796    RS-SCAN-DATA        RadiationScanner    dfdfdfdf
+0x0797    RS-FAULTS           RadiationScanner    [d][d]
+0x0798    COMMAND-MSG         RadiationScanner    bd
+0x0799    REGISTER-SCANNER    RadiationScanner    d
+0x079A    RS-FAULTLAMP        RadiationScanner    b
+0x079B    RS-CONFIG-STATUS    RadiationScanner    b?d
+0x079C    RS-STATUS           RadiationScanner    [b]f   
+0x079D    RS-ABORT-OPERATION  RadiationScanner    v
+
+#
+# P&H Centurion Interface
+#
+
+0x07A0    CENT_CYCLE          CenturionDriver     dddddddddddddddddds
+0x07A1    CENT_FAULT          CenturionDriver     dssss
+0x07A2    CENT_PROPEL_START   CenturionDriver     ds
+0x07A3    CENT_PROPEL_END     CenturionDriver     dss
+0x07A4    CENT_GET_TIME       CenturionDriver     d
+0x07A5    CENT_GET_TIME_RESP  CenturionDriver     ds
+0x07A6    CENT_TRUCK_ARRIVE   CenturionDriver     dssdssds
+0x07A7    CENT_DIPPER         CenturionDriver     dsdds
+0x07A8    CENT_TRUCK_DEPART   CenturionDriver     dsdddss
+0x07A9    CENT_STATUS         CenturionDriver     ddss
+0x07AA    CENT_OPERATOR       CenturionDriver     dsss
+0x07AB    CENT_SHIFT          CenturionDriver     dds
+0x07AC    CENT_LOCATION       CenturionDriver     dssd
+
+0x07B9    SHOV_TRUCK_ARRIVE   centurion           ssdsdb
+0x07BA    SHOV_TRUCK_DEPART   centurion           ssdd
+0x07BB    SHOV_DIPPER         centurion           ffff
+0x07BC    SHOV_STATUS         centurion           d
+0x07BD    SHOV_OPERATOR       centurion           s
+0x07BE    SHOV_SHIFT          centurion           d
+0x07BF    SHOV_GPS_REQ        centurion           v
+0x07C0    SHOV_GPS            centurion           fff
+0x07C1    SHOV_PAYLOAD        centurion           sf
+0x07C2    SHOV_STARTUP        centurion           v
+
+#
+# Road Roughness Detection System
+#
+
+0x07C3    RRDS_CFG            RRDS                  bbdd?[d]
+0x07C4    RRDS_EVENT          RRDS                  bbddd
+0x07C5    RRDS_STATISTICS     RRDS                  [d][d][d]
+0x07C6    RRDS_STARTUP        RRDS                  b
+
+
+#
+# OMS service requests
+#
+package com.mmsi.net
+0x01b8		ServiceRequest	oms		s?s
+0x01b9		KeepAlive	oms		v,b
+0x01ba		Blob		oms		v
+package
+
+#
+# GE Statex and TCI interfaces
+#
+0x01c0		STATEX-QUERY	statex		sd,s
+0x01c1		STATEX-ALARM	statex		ds[f][b]?d
+0x01c2		STATEX-TRAYUP	statex		b
+0x01c3		STATEX-DATA	statex		s[f][b]
+0x01c4		STATEX-XMIT	statex		dd
+0x01c5		STATEX-DIAG	statex		s
+0x01c6		STATEX-ODO	statex		l
+
+0x01c8		TCI-QUERY	statex		sd,s
+0x01c9		TCI-ALARM	statex		[d]
+0x01ca		TCI-TRAYUP	statex		b
+0x01cb		TCI-DATA	statex		[b][f][d]
+0x01cc		TCI-XMIT	statex		dd
+0x01cd		TCI-DIAG	statex		s
+0x01ce		TCI-ODO		statex		l
+
+#
+# OMS name service support
+#
+0x01f0	NS-TYPEBYNAME		ns		s
+0x01f1	NS-TYPEBYCODE		ns		i
+0x01f2	NS-DEVICEBYNAME		ns		s
+0x01f3	NS-DEVICEBYADDR		ns		X
+0x01f4	NS-GETSUBCLASS		ns		ii
+0x01f7	NS-GETENV		ns		s
+0x01f8	NS-PUTENV		ns		ss
+0x01f9	NS-GETTYPEATTR		ns		sbss
+0x01fa	NS-RESTART		ns		v
+0x01fb	NS-GETDEVICEATTR	ns		sbss
+0x01fc	NS-SETADDR		ns		sss
+0x01fd	NS-GETDEVICES		ns		s
+
+#
+# Miscellaneous RPCs sent down the network
+#
+0x0203		OUT-ID		out		d
+0x0209		OUT-HARDID	out
+0x020a		OUT-ENDLOOP	out		d
+0x020b		OUT-ATOD	out
+0x020d		OUT-RESET	builtin		?d
+0x020e		STUCK-RADIO	out		v
+0x020f		OUT-NOTALKS	out		dd
+
+#
+# IR beacon RPCs
+#
+0x0201		IR-PING		ir		bd
+0x0202		IR-ACK		ir		bd
+0x0203		IR-PANEL	ir		d
+0x0204		IR-ACTIVE	ir		d
+0x0208		IR-CONNECT	ir
+0x020c		IR-ROUTE	ir		bdbdd
+0x0302		IR-CLASS	ir		v,d
+
+#
+# V6.4 and earlier COM boards sent up a nil software identifier.  On these
+# boards, we want to configure the COM board to return an active beacon
+# for trucks.  In V6.5 COM (V6.0 OIP) firmware, the OIP stores the IR beacon
+# class in the "irbcl" variable.
+#
+defn	truck	"int 1"
+defn	excav	"int 0"
+defn	oip	return(irbcl)
+result	truck	1
+result	excav	0
+
+#
+# Foreman's panel interface RPCs.
+#
+# The foreman request RPC contains the following parameters:
+#
+# type:		byte, specifies the type of object specified.
+#		1 [=] truck
+#		2 [=] shovel
+#		3 [=] dump
+#		4 [=] block
+#		5 [=] aux equipment
+# id:		string, name of object for this request
+# req:		string, request identifier
+#		info [=] Information request
+#		dlck [=] Lock shovel or block to dump
+#		dbar [=] Bar shovel or block from dump
+#		capy [=] Set dump capacity
+#		madd [=] Add dump material
+#		mdel [=] Remove dump material
+#		pri  [=] Set shovel priority
+#		dis  [=] Disable shovel
+#		ena  [=] Enable shovel
+#		lmat [=] Set shovel left-side material
+#		rmat [=] Set shovel right-side material
+#		asn  [=] Assign truck to destination
+#		sbar [=] Bar truck from shovel
+#		mbar [=] Bar truck from material
+#		dbar [=] Bar truck from dump
+#		ready, down, delay, standby [=] Set status
+# ob1:		First object, if required
+# ob2:		Second object, if required
+#
+0x0210		FOREMAN-REQ	foreman		bss?ss
+0x0211		FOREMAN-INFO	foreman		sss
+
+#
+# Network routing domain RPCs to define network in non-masterlink networks.
+#
+# 0x0212 used by /dsp/form/common/client.rpc
+0x0213		NETAPS		domain
+0x0214		GETARPINFO	domain	bbbbbb,bbbbbbl
+0x0215		ARPINFO		domain	bbbbbbl
+0x0216		NETDOMAIN	domain	llll
+0x0217		GETDOMAIN	domain	l
+
+#
+# OMS event logging messages.
+#
+package	com.mmsi.net
+0x0218	Event			event
+0x0219	EventLog		event
+0x021a	EventLogs		event
+package
+
+#
+# Slope monitoring system RPCs
+
+#
+# Slope monitor configuration parameters:
+#
+# sample-time xmit-time xmit-dist smooth-mSecs smooth-count
+#
+#
+0x220		SM-READING	slope		lbb
+0x221		SM-DISCON	slope		v
+0x222		SM-SET		slope		ddd
+0x223		SM-GET		slope		v,ddd
+result		slope		[5 600 5 250 8]
+0x224		SM-WAKEUP	slope		v
+0x225		SM-DANGER	slope		sss
+0x226		SM-STATUS	slope		sss
+0x227		SM-RELAY	slope		b
+
+#
+# Komatsu Dresser reserved (0x230..0x23f)
+#
+# PLM-DIPPER sends the following values, in vehicle specified units
+#   a) Current total tonnage
+#   b) Projected tonnage if another dipper added.
+#   c) vehicle type (0=Lg metric tons,     1=Lg short tons,
+#                    2=Sm metric 0.1 tons, 3=Sm short 0.1tons)
+#   d) vector of four strut pressures (lf,rf,lr,rr)
+#
+0x230		PLM-DIPPER	plm		ddb?[d]
+0x231		PLM-TONS	plm		db?[d]
+0x232		PLM-DATA	plm		s[f][b]
+0x233		PLM-QUERY	plm		sd,s
+0x234		PLM-XMIT	plm		dd
+0x236		PLM-CYCLE	plm		[d]
+0x237           PLM-DUMP        plm             d?[d]
+0x23a		PLM-RT-DATA	plm		[d][b]
+0x23b		PLM-RT-START	plm		v
+0x23c		PLM-RT-STOP	plm		v
+0x23d           PLM3-DS-EVENT   plm             ddbb
+0x23e           PLM3-CYCLE      plm             l[d][d][d]
+#
+# Pmc (Powertrain Management Controller from Komatsu)
+#
+0x238		PMC-IN		pmc		sd[b]
+0x239		PMC-OUT		pmc		sd[b]
+#
+# Hitachi Interface RPC's from Ling Yang.
+#
+0x0240		HIT-PWRUP	hitachi		v
+0x0241		HIT-DATA	hitachi		bb[b]?[d][l]
+0x0242		HIT-REQDATA	hitachi		bbbb
+0x0243		HIT-EVENT	hitachi		bb[b]?[d][l]
+0x0244		HIT-REQEVENT	hitachi		bbb
+0x0245		HIT-GET		hitachi		bb[b],[b]
+
+#
+# MTU R082 Electronical Governor reserved (0x250..0x253)
+#
+0x0250		MTU-ALARM       mtu		dbbbddd,v
+0x0251		MTU-QUERY       mtu		v,dddbbd
+0x0252		MTU-XMIT	mtu		dd
+0x0253		MTU-DATA	mtu		dddbbd
+
+#
+# Unitrig interface
+#
+0x0258		UR-BUCKET	unitrig		d
+defn		gsp		port-0
+0x0259		UR-LOAD		unitrig		d
+defn		gsp		port-0
+0x025a		UR-FLYWGT	unitrig		d
+defn		gsp		port-0
+0x025b		UR-COMMAND	unitrig		b?[b],b?[b]
+defn		gsp		port-2
+
+#
+# TPC (Thunderbird Pacific Corporation) RPCs (0x260..0x268)
+#	The actual rpc 0x0260 used is TPC in vsms.rpc.
+#
+0x0260		TPC		tpc		[b]
+0x0261		TPC-DATA2	tpc		[b]
+log		TPC
+
+#
+# XENTECH Weighing System (0x26a..0x26f)
+#
+0x026a          LCS-BEGIN       xent             v
+defn		gsp		port-2
+0x026b          LCS-END         xent             v
+defn		gsp		port-2
+0x026c          LCS-WEIGHT      xent             d
+defn		gsp		port-0
+0x026d          LCS-FINAL       xent             d
+defn		gsp		port-0
+
+#
+# Ingersoll-Rand drill interface 0x270 through 0x271
+#
+0x0270  IR-DRILL        dispatch        ddddddd
+defn    gsp		up
+
+#
+# UniComSignal "RAPS" tire monitoring system
+#
+0x0274	RAPS-CONFIG	raps		[b]
+defn	gsp		port-0
+0x0275	RAPS-PRESS	raps		[b]
+defn	gsp      	port-0
+0x0276	RAPS-TEMP	raps		[b]
+defn	gsp     	port-0
+0x0277	RAPS-BATT	raps		[b]
+defn	gsp     	port-0
+0x0278	RAPS-ALARM	raps		[b]
+defn	gsp     	port-0
+0x0279	RAPS-FIELD	raps		[b]
+defn	gsp     	port-0
+0x027a	RAPS-LIMIT	raps		[b]
+defn	gsp     	port-0
+0x027b	RAPS-VERSION	raps		[b]
+defn	gsp    		port-0
+0x027c	RAPS-CORRCONST	raps		[b]
+defn	gsp  		port-0
+0x027d	RAPS-TIME	raps		[b]
+defn	gsp     	port-0
+0x027e	RAPS-COMMAND	raps		[b]
+defn	gsp    		port-2
+0x027f	RAPS-CORRDATA	raps		[b]
+defn	gsp   		port-0
+
+#
+# Testing RPCs
+#
+0x280	PLUS		test	dd,d
+0x281	MINUS		test	dd,d
+0x282	TIMES		test	dd,d
+0x283	DIVIDE		test	dd,d
+0x284	INFO		test	v,s
+
+#
+# RPCs supporting workstation/Goic report functionality
+# eg: REPT-REQ(w0.Text, lproute) means the Text object wants the lproute report
+#
+0x290	REPT-REQ	report	ss
+
+#
+# Locally processed RPCs usually handled by a hub or router
+#
+0x0300	LOCAL-NIL	local
+0x0301	LOCAL-ID	local	d,d
+result	truck		0
+result	excav		1
+0x0305	LOCAL-ROUTE	local
+0x0306	LOCAL-TEST	local
+0x0307	LOCAL-LOOPCT	local
+0x0308	NETMETRIC	local	llll
+0x0309	GETMETRIC	local	v,llll
+
+#
+# Power-up check by boot ROM.  If this RPC returns non-zero,
+# the boot ROM immediately runs the application;  if it returns
+# zero, the boot ROM remains in ROM.
+#
+0x0310	BOOT-PWRUP	local	v,b
+
+#
+# Port proxy routing RPCs.
+#
+# void PP_RESET()
+#
+#    Broadcast from ProxyRouter to ProxyPort clients
+#    to reregister interests after the proxy gets reset.
+#
+# struct RemotePort { short port, long ifaddr };
+# RemotePort PP_REGISTER(char#port, short rpcs[])
+#
+#    Route `rpcs' back to the ProxyPort on this device.
+#    Clear all RPC interests if the length of rpcs[] is zero.
+#    Return the port number of the given port name.
+#
+# void PP_SENDTO(short port, long addr, Rpc rpc)
+#
+#    Sent from ProxyPort to ProxyRouter to transmit `rpc'
+#    to the given remote device.
+#
+# void PP_RCVFROM(short port, long addr, Rpc rpc)
+#
+#    Sent from ProxyRouter to ProxyPort to when `rpc'
+#    is received from the given remote device.
+#
+0x0320	PP-RESET	proxy		v
+0x0321	PP-REGISTER	proxy		s[d],dl
+0x0322	PP-SENDTO	proxy		dlr
+0x0323	PP-RCVFROM	proxy		dlr
+
+#
+# Microcell radio support RPCs
+#
+0x0380	UCELL-PKT	ucell	ldddb
+0x0381	UCELL-CELL	ucell	l
+0x0382	UCELL-ACK	ucell	ldddb
+0x0383	UCELL-BATTERY	ucell	d
+
+#
+# RPC services handled locally by PSWD
+#
+0x0200	PING		pswd
+0x0207	SPRAY		none
+0x0400	UHF_STATS	uhf	llllb[bb]
+0x0402	TIME-GET	pswd	v,ld
+
+#
+# Condor shovel monitoring RPCs
+#
+#  CONDOR-FULL(void)	   [=] Sent to Condor when shovel finishes loading
+#  CONDOR-DIGAT([x,y,z,s]) [=] Sent by Condor in response to CONDOR-FULL
+#	x [=] 16-bit longitude relative to mine origin, 1/100 sec
+#	y [=] 16-bit latitude relative to mine origin,  1/100 sec
+#	z [=] 16-bit elevation, meters
+#	s [=] 8-bit status, like GPS-PATH
+#
+0x0410	CONDOR-FULL	condor	v
+0x0411	CONDOR-DIGAT	condor	dddb
+
+#
+# Evaluation systems operator drowsiness indicator
+#
+0x0414	ESYS-DROWSY	esys	lbb
+
+#
+# IOC train monitoring RPCs.
+#
+0x0418 ZTR-STATUS	ztr	bbb
+0x0419 ZTR-ALARM	ztr	bb
+
+#
+# Bucyrus Erie interface RPCs.
+#
+0x0420	BE-VSHIFT	berie	v
+0x0421	BE-VBEGIN	berie	v
+0x0422	BE-VDRILL	berie	v
+0x0423	BE-VDATA	berie	[d]
+0x0424	BE-VLAST	berie	[d]
+0x0425	BE-ALARM	berie	[d]
+0x0426	BE-STARTHOLE	berie	v
+0x0427	BE-ENDHOLE	berie	v
+
+#
+# DEMAG Text Monitor RPCs.
+#
+#	DEMAG-ALARM(status, code, hours)
+#
+#	status [=] 0:alarm inactive 1:alarm active
+#	code   [=] Alarm status code
+#	hours  [=] Engine hours
+#
+0x0428	DEMAG-ALARM	demag	bds
+
+#
+# P&H Drill System RPCs
+#
+0x042b	P&H-LOC		pandh	dd
+0x042c	P&H-DIPPER	pandh	d
+0x042d	P&H-ID		pandh	sd
+0x042e	P&H-FULL	pandh	sd
+0x042f	P&H-DELAY	pandh	d
+0x0430  P&H-VSHIFT	pandh	v
+0x0431	P&H-HOLENUM	pandh	d
+0x0432  P&H-VBEGIN	pandh	v
+0x0434  P&H-VDRILL	pandh	v
+0x0436  P&H-VDATA	pandh	[d]
+0x0438  P&H-VLAST	pandh	[d]
+0x043a  P&H-VSAMPLE	pandh	d
+0x043c  P&H-VENDHOL	pandh	v
+0x043e  P&H-VMEMFUL	pandh	v
+0x043f	P&H-TONS	pandh	d
+0x0448	P&H-DRILL1	pandh	dddddl
+0x0449	P&H-DRILL2	pandh	dddddl
+0x044a	P&H-SPARE1	pandh	dddddl
+0x044b	P&H-SPARE2	pandh	ddl
+0x044c	P&H-FAULT1	pandh	dddddddd
+0x044d	P&H-FAULT2	pandh	dddddddl
+
+#
+# Optim/Hitachi Ex3500 System RPCs
+#
+0x0440	OPTIM-RECVD	optim	v
+0x0441	OPTIM-ALARM	optim	[d]
+
+#
+# Aquila drill system interface
+#
+# AMSL_HOLE_INFO
+#	string HoleName
+#	long HoleKey
+#	string OperatorName
+#	string PatternNumber
+#	string BlastPattern
+# AMSL_HOLE_TIME
+#	long HoleKey
+#	long StartTime		(GMT secs since 1970)
+#	long EndTime		(GMT secs since 1970)
+#	long SecondsDrilling
+#	long SecondsNonDrilling
+#	long SecondsPropelling
+# AMSL_HOLE_DATA
+#	long HoleKey
+#	long DepthDrilled	(meters*100)
+#	long CollarElevation	(meters*100)
+#	long Northing		(meters*100)
+#	long Easting		(meters*100)
+# AMSL_HOLE_AVSIGNALS
+#	long HoleKey
+#	long PenetrationRate	(meters/sec*1000)
+#	long RPM		(rpm*1000)
+#	long PulldownPressure
+#	long Torque
+#	long AirPressure
+#	long MastLateralVibration
+#	long HeadAxialVibration
+#	long HeadLateralVibration
+# AMSL_HOLE_CONSUMABLES
+#	long HoleKey
+#	string BitName
+#	string StabilizerName
+#	string SteelName1
+#	string SteelName2
+#	string SteelName3
+# AMSL_DELAY_START
+#	string DelayCodeName
+#	long DelayKey
+#	long StartTime		(GMT secs since 1970)
+#	string OperatorName
+# AMSL_DELAY_END
+#	long DelayKey
+#	long EndTime		(GMT secs since 1970)
+#
+0x0450	AMSL_HOLE_INFO		amsl	slsss
+0x0451	AMSL_HOLE_TIME		amsl	llllll
+0x0452	AMSL_HOLE_DATA		amsl	lllll
+0x0453	AMSL_HOLE_AVSIGNALS	amsl	lllllllll
+0x0454	AMSL_HOLE_CONSUMABLES	amsl	lsssss
+0x0455	AMSL_DELAY_START	amsl	sls
+0x0456	AMSL_DELAY_END		amsl	sl
+
+#
+# DPI Drill System
+#
+# ENDHOLE <cm drilled> <time drilled>
+#
+0x045a  DPI-ENDHOLE     dpi     dd
+
+#
+# P&H Shovel RPCs
+#
+0x0460	P&H-SHVL-DIPPER	pandh	dddl
+0x0461	P&H-SHVL-LOC	pandh	ddddd
+0x0462	P&H-SHVL-ID	pandh	sds
+0x0463	P&H-SHVL-INFO	pandh	dsdl
+0x0464	P&H-SHVL-DELAY	pandh	dd
+
+#
+# Packet modem RPCs
+#
+0x0500	PM-SENDTO	pm	ds
+0x0501	PM-SEND		pm	s
+0x0502	PM-PROTO	pm	d
+0x0503	PM-TO		pm	d
+0x0504	PM-REMOTE	pm	ds,s
+0x0505	PM-ECHO		pm	d
+0x0506	PM-FLOW		pm	d
+0x0507	PM-DOACK	pm	d
+0x0508	PM-ACK		pm	d
+0x0509	PM-NACK		pm	d
+
+#
+# JPEG interface RPCs.
+#
+0x0510	JPEG-ENCODE	jpeg	s
+0x0511	JPEG-DONE	jpeg	v
+
+#
+# Equipment Information interface RPCs.
+#
+0x0580	EQMT-INFO	eqpinf	lb
+
+#
+# Tag Reader RPCS
+#
+#	first number is tag reader ID
+#	second number is tag ID
+0x0600		RFID-ERROR	rfid	dd
+    0x0600	RFID-NORMAL	rfid	0
+    0x0600	RFID-BROKEN	rfid	1
+0x0601		RFID-ARRIVE	rfid	dd
+log		RFID-ARRIVE
+0x0602		RFID-DEPART	rfid	dd
+0x0603		RFID-DEBUG	rfid	b
+0x0604		RFID-TAGS	rfid	dd[l]?[d]
+
+#
+# Cotag personnel tag reader...
+#
+0x0610		COTAG-ID	cotag	dd
+
+#
+# Psion...
+#
+0x0620		PSION-WS	none	d
+
+#
+# CAT high-precision shovel GPS system interface.
+#
+# CAES-DONE	[=] Sent from MMS to CAT at end of load cycle
+# CAES-TRUCK	[=] Truck ID sent from MMS to CAT at start of load cycle
+# CAES-LOAD	[=] Sent from CAT to MMS with load cycle information
+#		    NAME	character string block name
+#		    COUNT	8-bit dipper count
+#                   COUNT       8-bit dipper count
+#                   Q           8-bit GPS quality, units to be determined
+#		    SRC		8-bit flag indicating whether this rpc was requested
+#                               by MMS or initiated by CAES
+#		    X		32-bit msec longitude
+#		    Y		32-bit msec latitude
+#		    Z		32-bit cm elevation
+#		    COMMENT	miscellaneous character string information
+#
+0x0630		CAES-DONE	caes	s
+0x0631		CAES-TRUCK	caes	s
+0x0632		CAES-LOAD	caes	sbbbllls
+
+#
+# Michelin tire monitoring RPCs.
+#
+0x0640		MICHELIN-DATA	michelin	sl[d]
+0x0641		MICHELIN-POLL	michelin	v
+0x0643		MICHELIN-DATA-GPS	michelin	sl[d]ddd
+
+#
+# Rimex TyreSense tire monitoring RPCs
+#
+0x064a		TS-GETDATA	rimex		b
+0x064b		TS-GETVERSION	rimex		v
+0x064c		TS-STATUS	rimex		v
+
+#
+# Goodyear tire monitoring RPCs
+#
+0x0650		GOODYEAR-DATA		goodyear	bdbbb
+0x0651		GOODYEAR-DATA-POS	goodyear	bdbbbdddb
+
+#
+# Loadman and Loadrite data transfer RPCs
+#
+0x0660		LOADMAN-DATA	loadman		s
+0x0661		LOADRITE-DATA	loadrite	s
+
+#
+# Elphinstone weigh systems (Easyweigh & PCS)
+#
+0x0664		EASYWEIGH-LOAD	pms	d
+
+#
+# Generic Payload system RPCs
+#
+0x0670		PLD-DIPPER	pms	d?[d]
+0x0671		PLD-TONS	pms	d?[d]
+0x0672		PLD-STARTDUMP	pms	v
+0x0673		PLD-ENDDUMP	pms	v
+0x0674		PLD-SHOW	pms	s
+
+#
+# Letourneau LINCS interface
+#
+0x0677		LINCS-DIPPER	letourneau	bdbd
+0x0678		LINCS-TONS	letourneau	bd
+0x0679		LINCS-TPH	letourneau	bd
+0x067a		LINCS-LED	letourneau	ddd
+0x067b		LINCS-TEXT	letourneau	bbs
+
+#
+# ISI dragline interface RPCs
+#
+0x0680		ISI-DATA	Isi		v
+
+#
+# EUCLID Contronics interface
+#
+0x0690		CONTR-FAULT	Contronics	d
+0x0691		GE-EVENT	Contronics	d
+0x0692		GE-SPECIFIC	Contronics	db
+
+#
+# Generic truck type rpcs
+#
+# DUMPAT	dd: GPS Grid XY coordinates
+#		b:  GPS status
+#		possible future expansion to add z.
+#
+0x0700		DUMPAT		dispatch	ddb
+0x0701		GPS-INIT	gpsout		v
+
+#
+# System Health rpc - Used to pass a warning from
+#                     the System Health Utility
+#                     thru act_psw.frm into except.frm
+#                     activating the OTHER_300 exception
+#
+0x0705          SYSTEM-HEALTH  dispatch         s
+
+#
+# Fuller Bros TAS (Tire Analysis System)
+#
+0x0710		TAS-ALARM	tas	v
+0x0711		TAS-QUERY	tas	v
+
+# Generic excav type rpcs # GPS-LOC ddd: GPS Z, Grid XY coordinates #
+# dd: scaled cosine,sine # b: GPS status # b: stopped indicator #
+# possible future expansion to add z.  # 0x0720 GPS-LOC gps dddddbb
+#0x0720	GPS-LOC         dispatch        dddddbb
+
+#
+# Siemens AC-drive interface
+#
+0x0730		SEA-DATA	sea	[b]
+
+#
+# DCS Shovel payload system
+#
+0x0740		DCS-TARGET	dcs	d
+0x0741		DCS-FULL	dcs	v
+0x0742		DCS-PAYLOAD	dcs	[d]
+0x0743		DCS-ALARM	dcs	[l][d]
+0x0744		DCS-START	dcs	ddl
+
+#
+# Enaex explosives truck EC200 interface
+#
+0x0750		EC-GETINFO	enaex	b
+0x0751		EC-UNIT		enaex	b
+0x0752		EC-CAPACITIES	enaex	[bd]
+0x0753		EC-LEVELS	enaex	[bd]
+0x0754		EC-OPERNAME	enaex	s
+0x0755		EC-TRUCKID	enaex	s
+0x0756		EC-TRUCKSTATUS	enaex	b
+0x0757		EC-QUERY	enaex	v
+0x0758		EC-WRITELOC	enaex	ssslll
+0x0759		EC-WRITEFORMULA	enaex	bdd
+0x075a		EC-ENDH		enaex	ssll[bdd]
+0x075b		EC-STARTH	enaex	ssld
+0x075c		EC-ALARM	enaex	dslls
+0x075d		EC-BLASTINFREQ	enaex	v
+0x075e		EC-BLASTDATA	enaex	v
+
+#
+# generic modularready - dispatch vital signs exchange
+#
+0x0770		VS-REQUEST	minecare	ddd[l]
+0x0771		VS-DATA		minecare	[l][f]?[l][s]
+0x0772		VS-EVENT	minecare	l?fddd
+0x0773		VS-SNOOZE	minecare	ld
+
+# Fatigue Management Rpcs
+0x0776  	FATG-MSG         oip             dssss
+0x0777  	FATG-RESP        dispatch        ds
+
+#
+# generic modbus interface query rpc
+#
+0x077a		MOD-QUERY	modbus	dd,s
+0x077b		MVI56-PUTDATA	none	l[d]
+
+#
+# Bucyrus (siemens PC - ethernet interface)
+#
+0x0780		BUC-TRUCK	buc	v
+0x0781		BUC-POLL	buc	v
+0x0782		BUC-PAUSE	buc	v
+0x0783		BUC-DATA	buc	ssssdddb
+0x0784		BUC-MDATA	buc	ssssdddb
+0x0785		BUC-FAULT	buc	sd
+0x0786		BUC-PROPEL	buc	sd
+
+#
+# Store Forward Rpcs
+#
+0x078b		SFDATA		storeforward	ss?s
+0x078c          MINEINFO        storeforward    s[d][s]
+
+#
+# Haul-Cycle Automation Rpcs
+#
+0x078d          EQMTINFO        autohaulcycle   ssddds?sss
+
+#
+# Generic GPS RPCs via SLIP 0x0800 - 0x08ff
+#
+0x0800		GPS-GPOS	gps	v,lllb
+0x0801		GPS-SPOS	gps	lllb,v
+0x0802		GPS-GDIFF	gpsdiff	v,d[bldb]
+0x0803		GPS-PDIFF	gpsdiff	d[bldb],v
+0x0804		GPS-VEND	gps	b,[dss]
+0x0805		GPS-VREQ	gps	b?s,s
+0x0806		GPS-GVEL	gps	v,dd
+0x0807		GPS-GTIME	gps	v,lb
+
+#
+# OMS DBMSD interface messages
+#
+package com.mmsi.disp.dbms
+0x0880	DbmsdClose	dbmsd	ll
+0x0881	DbmsdDelete	dbmsd	llll
+0x0882	DbmsdFields	dbmsd	lls
+0x0883	DbmsdFind	dbmsd	llll
+0x0884	DbmsdOpen	dbmsd	sll
+0x0885	DbmsdPing	dbmsd	s
+0x0886	DbmsdRead	dbmsd	llll
+0x0887	DbmsdStat	dbmsd	v
+0x0888	DbmsdTableGet	dbmsd	lll
+0x0889	DbmsdType	dbmsd	s
+0x088a	DbmsdUpdate	dbmsd	lllll
+0x088b	DbmsdWrite	dbmsd	lllll
+0x088c	DbmsdMtime	dbmsd	s
+0x088d	DbmsdSelect	dbmsd	lll
+0x088e	DbmsdReadV	dbmsd	llll
+0x088f	DbmsdReset	dbmsd	v
+package
+
+#
+# Some miscellaneous OMS testing RPCs.
+#
+package com.mmsi.test
+0x08f0	Test	Test
+0x08f1	Test_1	Test	s
+0x08f2	Test_2	Test	i
+0x08f3	Test_3	Test	f
+0x08f4	Test_4	Test	F
+0x08f5	Test_5	Test	X
+0x08f6	Test_6	Test	[z]
+0x08f7	Test_7	Test	[b]
+0x08f8	Test_8	Test	[d]
+0x08f9	Test_9	Test	[i]
+0x08fa	Test_10	Test
+0x08fb	TestReplicator$Counter Test sl
+package
+
+#
+# Network statistics monitoring RPCs. 0x0900..0x093f
+#
+package com.mmsi.net
+0x0900	NetStats	NetStats	lllllll
+0x0901	PrismNetStats	NetStats	lllllll
+
+0x0903	CanNetStats	NetStats
+0x0904	RpNetStats	NetStats
+0x0905	SlipNetStats	NetStats
+0x0906	TMpNetStats	NetStats
+0x0909  RouterInfo	RouterInfo	lllbbllbl
+package com.mmsi.masterlink
+0x0909	Node		Node
+package com.mmsi.gps
+0x0920	LogData		LogData		lllbbbblllllll
+package
+0x0930	LoadTestEntry	LoadTestEntry
+0x0931	LoadTestStats	LoadTestStats
+0x0932	LoadTestStartMsg	LoadTestStartMsg
+0x0933	LoadTestDoneMsg	LoadTestDoneMsg
+0x0934	LoadTestConfigMsg	LoadTestConfigMsg
+0x0935	LoadTestStatsMsg	LoadTestStatsMsg
+0x0936	LoadTestAckMsg	LoadTestAckMsg
+#
+# KOMATSU Ltd. rpcs 0x1000 - 0x1fff
+#
+#
+# GPS-GGA(latitude,
+#	  longitude,
+#	  quality,
+#	  numSat,
+#	  dop,
+#	  elevation,
+#	  rtcmAge,
+#	  utcTime,
+#	  gst,
+#	  gstZ,
+#	  velocity,
+#	  heading,
+#	  errors)
+#
+0x1042		GPS-GGA		gps	llbbblblddldb
+
+#
+# LVS / Dispatch Proximity RPCs.
+#
+0x0155a LVS-PROX        lvs     sbdds
+0x0155b LVS-WARN        oip     d
+0x0155c LVS-MESS        lvs     s
+
+#
+# Include board-specific RPCs.
+#
++$OMSROOT/oip.rpc
++$OMSROOT/vsms.rpc
++$OMSROOT/com.rpc
+
+#
+# These are special RPC for AHS system.
+#
++$OMSROOT/ahs.rpc
+
+#
+# Typecodes for RailRoad Management System
+#
++$OMSROOT/rail/core.rpc
++$OMSROOT/rail/services.rpc
++$OMSROOT/rail/database.rpc
++$OMSROOT/rail/interface.rpc
+
+#
+# Include client-specific RPCs last so it can override any standard definitions.
+#
++client.rpc

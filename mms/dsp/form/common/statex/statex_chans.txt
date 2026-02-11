@@ -1,0 +1,66 @@
+Statex channels monitored by Dispatch system:
+	Alternator Output Voltage
+        Commanded Engine Speed
+        Retard Pedal Input Request
+        Motor 1 Armature Current
+        Alternator Field Current
+        Select Retard Speed
+        Motor 2 Armature Current
+        Alternator Field Command
+        Trolley Line Voltage
+        +15Vdc Supply Voltage
+        Motor Field Current
+        Motor Field Command
+        Trolley Line Current
+        -15Vdc Supply Voltage
+	Power Output to Wheelmotors
+        Trolley Leakage Current
+        Foot Pedal Voltage Reference
+        Motor 2 Armature Voltage
+        Battery Voltage
+        Engine Speed
+        Accel Pedal Input Request
+        Motor 1 Speed (MPH)
+        Engine Crankcase Pressure
+	Motor 1 Speed (RPM)
+        Ground Fault Current
+        Motor 2 Speed (MPH)
+        Engine Coolant Pressure
+        Motor 2 Speed (RPM)
+        AFSE Altern Tertiary Current
+        Motor 1 Temperature
+        Engine Oil Pressure
+        Motor 2 Temperature
+        Engine Coolant Temperature
+        digin_103_p0
+	digin_103_p1
+        digin_103_p2
+        digin_103_p3
+        digin_104_p0
+        digin_104_p1
+        digin_104_p2
+        digin_104_p3
+        digin_104_t1_p0
+        digin_104_t1_p1
+        digin_104_t1_p2
+        digin_104_t1_p3
+ 	digin_104_t2_p0
+        digin_104_t2_p1
+        digin_104_t2_p2
+        digin_104_t2_p3
+        digout_103_0
+        digout_103_1
+        digout_103_2
+        digout_103_3
+        digout_104_0
+        digout_104_1
+        digout_104_2
+	digout_104_3
+        digout_104_t1_0
+        digout_104_t1_1
+        digout_104_t1_2
+        digout_104_t1_3
+        digout_104_t2_0
+        digout_104_t2_1
+        digout_104_t2_2
+        digout_104_t2_3

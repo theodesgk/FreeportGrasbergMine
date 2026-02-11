@@ -1,0 +1,15 @@
+1610678272	Scan Count	1000	0	0
+1610678273	Version	65535	0	0
+1610678274	Alarm	1	0	0
+1610678275	Delayed Fault	1	0	0
+1610678276	Instant Fault	1	0	0
+1610678277	Dipper Trip	1	0	0
+1610678278	Send Truck (Horn)	1	0	0
+1610678279	Ladder Down	1	0	0
+1610678280	Shovel Running	1	0	0
+1610678281	Propel	1	0	0
+1610678282	Crowd Brake Set	1	0	0
+1610678283	Hoist Brakes Set	1	0	0
+1610678284	Swing Brakes Set	1	0	0
+1610678285	Stage 1 Boom Jack	1	0	0
+1610678286	Stage 2 Boom Jack	1	0	0

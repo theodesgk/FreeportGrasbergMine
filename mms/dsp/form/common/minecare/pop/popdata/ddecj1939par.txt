@@ -1,0 +1,150 @@
+1241579521	Engine / Retarder Torque Mode - EEC1	15	0	0
+1241579522	Drivers Demand Engine - Pct Torque	125	-125	25
+1241579523	Actual Engine - Percent Torque	125	-125	25
+1241579524	Engine Speed	8031.875	0	28
+1241579525	Accelerator Pedal Position (TPS)	100	0	25
+1241579526	Percent Load At Current Speed	250	0	25
+1241579527	Total Idle Fuel Used	2105540607.5	0	14
+1241579528	Total Idle Hours	210554060.75	0	7
+1241579529	Turbo Oil Pressure	1000	0	9
+1241579530	Turbo Speed	257020	0	28
+1241579531	Nominal Friction - Percent Torque	125	-125	25
+1241579532	Engine Desired Operating Speed	8031.875	0	28
+1241579533	Engine Desired Operating Speed Asymmetry Adjustment	250	0	0
+1241579534	Trip Distance	526385151.875	0	8
+1241579535	Total Vehicle Distance	526385151.875	0	8
+1241579536	Refrigerant Press 1	3	0	0
+1241579537	Lamp Commands	3	0	0
+1241579538	Engine Shutdown Approaching	3	0	0
+1241579539	Total Engine Hours	210554060.75	0	7
+1241579540	Total Engine Revolutions	10000000000	0	27
+1241579541	Total Vehicle Hours	210554060.75	0	7
+1241579542	Total Power Takeoff Hours	210554060.75	0	7
+1241579543	Trip Fuel	2105540607.5	0	14
+1241579544	Total Fuel Used	2105540607.5	0	14
+1241579545	Maximum Vehicle Speed Limit	250	0	11
+1241579546	Cruise Control High Set Limit Speed	250	0	11
+1241579547	Cruise Control Low Set Limit Speed	250	0	11
+1241579548	Engine Coolant Temperature	210	-40	5
+1241579549	Fuel Temperature	210	-40	5
+1241579550	Engine Oil Temperature	1734.96875	-273	5
+1241579551	Turbo Oil Temperature	1734.96875	-273	5
+1241579552	Engine Intercooler Temperature	210	-40	5
+1241579553	Fuel Delivery Pressure	1000	0	9
+1241579554	Engine Oil Level	100	0	25
+1241579555	Engine Oil Pressure	1000	0	9
+1241579556	Crankcase Pressure	251.99	-250	9
+1241579557	Coolant Pressure	500	0	9
+1241579558	Coolant Level	100	0	25
+1241579559	Power Takeoff Oil Temperature	210	-40	5
+1241579560	Power Takeoff Speed	8031.875	0	28
+1241579561	Power Takeoff Set Speed	8031.875	0	28
+1241579562	Remote PTO Variable Speed Control Switch	3	0	0
+1241579563	Two Speed Axle Switch	3	0	0
+1241579564	Wheel Based Vehicle Speed	251	0	11
+1241579565	Cruise Control Set Speed	250	0	11
+1241579566	PTO State	31	0	0
+1241579567	Cruise Control State	7	0	0
+1241579568	Idle Increment Switch	3	0	0
+1241579569	Idle Decrement Switch	3	0	0
+1241579570	Engine Test Mode Switch	3	0	0
+1241579571	Fuel Rate	3212.75	0	37
+1241579572	Instantaneous Fuel Economy	125.498046875	0	0
+1241579573	Average Fuel Economy	125.498046875	0	0
+1241579574	Barometric Pressure	125	0	9
+1241579575	Cab Interior Temperature	1734.96875	-273	5
+1241579576	Ambient Air Temperature	1734.96875	-273	5
+1241579577	Air Inlet Temperature	210	-40	5
+1241579578	Road Surface Temperature	1734.96875	-273	5
+1241579579	Particulate Trap Inlet Pressure	125	0	9
+1241579580	Boost Pressure	500	0	9
+1241579581	Intake Manifold Temperature	210	-40	5
+1241579582	Air Inlet Pressure	500	0	9
+1241579583	Air Filter Differential Pressure	12.5	0	9
+1241579584	Exhaust Gas Temperature	1734.96875	-273	5
+1241579585	Coolant Filter Differential Pressure	125	0	9
+1241579586	Exhaust Gas Port 1 Temperature	1734.96875	-273	5
+1241579587	Exhaust Gas Port 2 Temperature	1734.96875	-273	5
+1241579588	Exhaust Gas Port 3 Temperature	1734.96875	-273	5
+1241579589	Exhaust Gas Port 4 Temperature	1734.96875	-273	5
+1241579590	Exhaust Gas Port 5 Temperature	1734.96875	-273	5
+1241579591	Exhaust Gas Port 6 Temperature	1734.96875	-273	5
+1241579592	Exhaust Gas Port 7 Temperature	1734.96875	-273	5
+1241579593	Exhaust Gas Port 8 Temperature	1734.96875	-273	5
+1241579594	Exhaust Gas Port 9 Temperature	1734.96875	-273	5
+1241579595	Exhaust Gas Port 10 Temperature	1734.96875	-273	5
+1241579596	Exhaust Gas Port 11 Temperature	1734.96875	-273	5
+1241579597	Exhaust Gas Port 12 Temperature	1734.96875	-273	5
+1241579598	Exhaust Gas Port 13 Temperature	1734.96875	-273	5
+1241579599	Exhaust Gas Port 14 Temperature	1734.96875	-273	5
+1241579600	Exhaust Gas Port 15 Temperature	1734.96875	-273	5
+1241579601	Exhaust Gas Port 16 Temperature	1734.96875	-273	5
+1241579602	Net Battery Current	125	-125	2
+1241579603	Alternator Current	250	0	2
+1241579604	Alternator Potential (Voltage)	3212.75	0	31
+1241579605	Electrical Potential (Voltage)	3212.75	0	31
+1241579606	Battery Potential (Voltage) /Switched	3212.75	0	31
+1241579607	Blower Bypass Valve Position	100	0	25
+1241579608	Gas Supply Pressure	32127.5	0	9
+1241579609	Auxiliary Pump Pressure	4000	0	9
+1241579610	Injection Control Pressure	250.996	0	22
+1241579611	Injector Metering Rail Pressure	250.996	0	22
+1241579612	High Resolution Total Vehicle Distance	10000000000	0	17
+1241579613	High Resolution Trip Distance	10000000000	0	17
+1241579614	Rated Engine Power	32127.5	0	12
+1241579615	Rated Engine Speed	8031.875	0	28
+1241579616	Estimated Percent Fan Speed	100	0	25
+1241579617	Fan Drive State	15	0	0
+1241579618	Engine/Retarder Torque Mode - ERC1	15	0	0
+1241579619	Retarder Enable - Brake Assist Switch	3	0	0
+1241579620	Retarder Enable - Shift Assist Switch	3	0	0
+1241579621	Actual Retarder - Percent Torque	125	-125	25
+1241579622	Intended Retarder Percent Torque	125	-125	25
+1241579623	Coolant Load Increase	3	0	0
+1241579624	Software Identification	0	0	0
+1241579625	Component Identification	0	0	0
+1241579626	Retarder Control Method	250	0	0
+1241579627	Retarder Speed At Idle - Point 1	8031.875	0	28
+1241579628	Percent Torque At Idle - Point 1 - Retarded	125	-125	25
+1241579629	Maximum Retarder Speed - Point 2	8031.875	0	28
+1241579630	Percent Torque At Maximum Speed - Point 2	125	-125	25
+1241579631	Retarder Speed At Point 3	8031.875	0	28
+1241579632	Percent Torque At Point 3 - Retarded	125	-125	25
+1241579633	Retarder Speed At Point 4	8031.875	0	28
+1241579634	Percent Torque At Point 4 - Retarded	125	-125	25
+1241579635	Retarder Speed At Peak Torque - Point 5	8031.875	0	28
+1241579636	Reference Retarder Torque	64255	0	24
+1241579637	Percent Torque At Peak Torque - Point 5	125	-125	25
+1241579638	Engine Speed At Idle - Point 1	8031.875	0	28
+1241579639	Percent Torque At Idle - Point 1 - Engine	125	-125	25
+1241579640	Engine Speed At Point 2	8031.875	0	28
+1241579641	Percent Torque At Point 2	125	-125	25
+1241579642	Engine Speed At Point 3	8031.875	0	28
+1241579643	Percent Torque At Point 3 - Engine	125	-125	25
+1241579644	Engine Speed At Point 4	8031.875	0	28
+1241579645	Percent Torque At Point 4 - Engine	125	-125	25
+1241579646	Engine Speed At Point 5	8031.875	0	28
+1241579647	Percent Torque At Point 5	125	-125	25
+1241579648	Engine Speed At High Idle - Point 6	8031.875	0	28
+1241579649	(KP) Of Endspeed Governor	50.2	0	0
+1241579650	Reference Engine Torque	64255	0	24
+1241579651	Maximum Momentary Engine Override Speed - Point 7	8031.875	0	28
+1241579652	Maximum Momentary Engine Override Time Limit	25	0	29
+1241579653	Requested Speed Control Range Lower Limit	2500	0	28
+1241579654	Requested Speed Control Range Upper Limit	2500	0	28
+1241579655	Requested Torque Control Range Lower Limit	125	-125	25
+1241579656	Requested Torque Control Range Upper Limit	125	-125	25
+1241579657	Speed Of Forward Vehicle	250	0	11
+1241579658	Distance To Forward Vehicle	250	0	17
+1241579659	Adaptive Cruise Control Set Speed	250	0	11
+1241579660	Adaptive Cruise Control Set Distance Mode	7	0	0
+1241579661	Road Curvature	251.992	-250	0
+1241579662	Torque Converter Lockup Engaged	3	0	0
+1241579663	Output Shaft Speed	8031.875	0	28
+1241579664	Percent Clutch Slip	100	0	25
+1241579665	Input Shaft Speed	8032	0	28
+1241579666	Exhaust Gas Port 17 Temperature	1734.96875	-273	5
+1241579667	Exhaust Gas Port 18 Temperature	1734.96875	-273	5
+1241579668	Exhaust Gas Port 19 Temperature	1734.96875	-273	5
+1241579669	Exhaust Gas Port 20 Temperature	1734.96875	-273	5
+1241579670	Engine Turbocharger 1 Compressor Outlet Temperature	1734.96875	-273	5

@@ -1,0 +1,48 @@
+Truck Status: Circulation Stand By	1208025088
+Truck Status: Empty Running	1208025089
+Truck Status: Loading	1208025090
+Truck Status: Payload Calculation	1208025091
+Truck Status:  Loading Running	1208025092
+Truck Status: Tipping	1208025093
+Truck Status: Carry Back Calculation 	1208025094
+Speed Signal Calibration Fault - Active	1208025095
+Speed Signal Calibration Fault - Inactive	1208025096
+Key Switch Or Speed Signal Abnormal - Active	1208025097
+Key Switch Or Speed Signal Abnormal - Normal	1208025098
+Load Brake Signal Or Speed Signal Abnormal - Active	1208025099
+Load Brake Signal Or Speed Signal Abnormal - Normal	1208025100
+Hoist Signal Abnormal - Active	1208025101
+Hoist Signal Abnormal - Inactive	1208025102
+LF Suspension Analog Signal Input Abnormal Alarm - Active	1208025103
+LF Suspension Analog Signal Input Abnormal Alarm - Inactive	1208025104
+RF Suspension Analog Signal Input Abnormal Alarm - Active	1208025105
+RF Suspension Analog Signal Input Abnormal Alarm - Inactive	1208025106
+LR Suspension Analog Signal Input Abnormal Alarm - Active	1208025107
+LR Suspension Analog Signal Input Abnormal Alarm - Inactive	1208025108
+RR Suspension Analog Signal Input Abnormal Alarm - Active	1208025109
+RR Suspension Analog Signal Input Abnormal Alarm - Inactive	1208025110
+X Inclination Analog Signal Input Abnormal Alarm - Active	1208025111
+X Inclination Analog Signal Input Abnormal Alarm - Inactive	1208025112
+Y Inclination Analog Signal Input Abnormal Alarm - Active	1208025113
+Y Inclination Analog Signal Input Abnormal Alarm - Inactive	1208025114
+Analog Signal Input Abnormal Alarm - No Input	1208025115
+Analog Signal Input Abnormal Alarm - Normal	1208025116
+LF Suspension Analog Signal Calibration Alarm - Active	1208025117
+LF Suspension Analog Signal Calibration Alarm - Inactive	1208025118
+RF Suspension Analog Signal Calibration Alarm - Active	1208025119
+RF Suspension Analog Signal Calibration Alarm - Inactive	1208025120
+LR Suspension Analog Signal Calibration Alarm - Active	1208025121
+LR Suspension Analog Signal Calibration Alarm - Inactive	1208025122
+RR Suspension Analog Signal Calibration Alarm - Active	1208025123
+RR Suspension Analog Signal Calibration Alarm - Inactive	1208025124
+FR Inclination Analog Signal Calibration Alarm - Active	1208025125
+FR Inclination Analog Signal Calibration Alarm - Inactive	1208025126
+LF Inclination Analog Signal Calibration Alarm - Active	1208025127
+LF Inclination Analog Signal Calibration Alarm - Inactive	1208025128
+Analog Signal Calibration Alarm - No Input	1208025129
+Analog Signal Calibration Alarm - Normal	1208025130
+Dipper	1208025131
+OEM Interface Timeout	1208090592
+OEM Interface Normal	1208090593
+Driver Interface Timeout	1208090594
+Driver Interface Normal	1208090595

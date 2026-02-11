@@ -1,0 +1,50 @@
+1426128897	Odometer Per Shift	526385151.875	0	8
+1426128898	Odometer Per Load	526385151.875	0	8
+1426128899	Weight	32127.5	0	19
+1426128900	Fuel Level Percent	100	0	25
+1426128901	Front Left Suspension Pressure	25000	0	9
+1426128902	Front Right Suspension Pressure	25000	0	9
+1426128903	Rear Left Suspension Pressure	25000	0	9
+1426128904	Rear Right Suspension Pressure	25000	0	9
+1426128905	Fuel Level Liter	64255	0	14
+1426128906	Tangage	125	-125	4
+1426128907	Shift Number	250	0	0
+1426128908	Trips Per Shift	64255	0	0
+1426128909	Status Truck Loaded	1	0	0
+1426128910	Status Truck In Move	1	0	0
+1426128911	Move Forward	3	0	0
+1426128912	Move Back	3	0	0
+1426128913	Lifting Platform	3	0	0
+1426128914	Ready To Move	3	0	0
+1426128915	Load 50 Pct	3	0	0
+1426128916	Load 80 Pct	3	0	0
+1426128917	Load 100 Pct	3	0	0
+1426128918	Platform Status	3	0	0
+1426128919	Inclinometer Status	3	0	0
+1426128920	Fuel Sensor Status	3	0	0
+1426128921	Rear Right Sensor Status	3	0	0
+1426128922	Rear Left Sensor Status	3	0	0
+1426128923	Front Right Sensor Status 	3	0	0
+1426128924	Front Left Sensor Status	3	0	0
+1426128925	Weight On The Last Trip	32127.5	0	19
+1426128926	Incline	3288.1	-3137.4	25
+1426128927	Current Unloading	250	0	25
+1426128928	Speed	250	0	11
+1426128929	Tire 1 Pressure (FL)	1000	0	9
+1426128930	Tire 2 Pressure (FR)	1000	0	9
+1426128931	Tire 3 Pressure (RLO)	1000	0	9
+1426128932	Tire 4 Pressure (RLI)	1000	0	9
+1426128933	Tire 5 Pressure (RRI)	1000	0	9
+1426128934	Tire 6 Pressure (RRO)	1000	0	9
+1426128935	Sensor Temperature	1734.96875	-273	5
+1426128936	Sensor Battery Status	3	0	0
+1426128937	Estimate Tire Pressure Status	7	0	0
+1426128938	Distance From Dump / New Shift	64255	0	17
+1426128939	Weight On Loading	64255	0	19
+1426128940	Refined Weight On Dump	64255	0	19
+1426128941	Time Of Fueling	64255	0	14
+1426128942	Distance From Loading	64255	0	17
+1426128943	Fuel Level Before Fueling	64255	0	14
+1426128944	Fuel Level After Fueling	64255	0	14
+1426128945	Event Type	64255	0	0
+1426128946	Truck Status	3	0	0

@@ -1,0 +1,3 @@
+1224802305	Oil Temperature	0	0	5
+1224802306	Ambient Temperature 	0	0	5
+1224802307	Oil Condition	0	0	25

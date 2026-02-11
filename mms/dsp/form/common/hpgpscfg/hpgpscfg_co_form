@@ -1,0 +1,44 @@
+#!/bin/sh
+#
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-1994
+#               All Rights Reserved
+#  $RCSfile: hpgpscfg_co_form,v $
+# $Revision: 1.1 $
+#   $Author: olson $
+#     $Date: 2002/05/24 02:07:13 $
+#    $State: Exp $
+#
+# This script is used by the HP-GPS configuration system
+# to check out a specified file in the client's form directory.
+# At a client site, though, the file goes in hack.
+#
+# $1 is /dsp/cli/xxx
+# $2 is the filename.
+#
+# If the target directory doesn't exist, the script
+# creates both it and an RCS subdirectory.
+
+. /dsp/sh/functions
+
+if [ ! $linktest /dsp/client -a ! -d $1/form ]; then
+  mkdir -p $1/form
+  mkdir -p $1/form/RCS
+elif [ $linktest /dsp/client -a ! -d $1/hack ]; then
+  mkdir -p $1/hack
+fi
+
+if [ ! $linktest /dsp/client ]; then
+  cd $1/form
+else
+  cd $1/hack
+fi
+
+if [ -f $2 ]; then
+  if [ ! $linktest /dsp/client ]; then
+    co -l $2
+  else
+    echo "Setting permissions to write for "$2
+    chmod 664 $2
+  fi
+fi

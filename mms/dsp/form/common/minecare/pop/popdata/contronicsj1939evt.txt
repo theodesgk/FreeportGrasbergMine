@@ -1,0 +1,553 @@
+Oem Interface Timeout	922877920
+Oem Interface Normal	922877921
+Driver Interface Timeout	922877922
+Driver Interface Normal	922877923
+Stop (L7) - Off (EH1700)	922812416
+Stop (L7) - On (EH1700)	922812417
+Stop (L7) - Flashing (EH1700)	922812418
+Caution (L6) - Off (EH1700)	922812432
+Caution (L6) - On (EH1700)	922812433
+Caution (L6) - Flashing (EH1700)	922812434
+Engine Oil Pressure - Low (L4) - Off (EH1700)	922812448
+Engine Oil Pressure - Low (L4) - On (EH1700)	922812449
+Engine Oil Pressure - Low (L4) - Flashing (EH1700)	922812450
+Engine Coolant Temperature - High (L15) - Off (EH1700)	922812464
+Engine Coolant Temperature - High (L15) - On (EH1700)	922812465
+Engine Coolant Temperature - High (L15) - Flashing (EH1700)	922812466
+Engine Coolant Level - Low (L10) - Off (EH1700)	922812480
+Engine Coolant Level - Low (L10) - On (EH1700)	922812481
+Engine Coolant Level - Low (L10) - Flashing (EH1700)	922812482
+Transmission Oil Pressure - Low (L11) - Off (EH1700)	922812496
+Transmission Oil Pressure - Low (L11) - On (EH1700)	922812497
+Transmission Oil Pressure - Low (L11) - Flashing (EH1700)	922812498
+Transmission Oil Temperature High - (L12) - Off (EH1700)	922812512
+Transmission Oil Temperature High - (L12) - On (EH1700)	922812513
+Transmission Oil Temperature High - (L12) - Flashing (EH1700)	922812514
+Charge (Alternator/Battery) - Low/High (L5) - Off (EH1700)	922812528
+Charge (Alternator/Battery) - Low/High (L5) - On (EH1700)	922812529
+Charge (Alternator/Battery) - Low/High (L5) - Flashing (EH1700)	922812530
+Check Filter (L9) - Off (EH1700)	922812544
+Check Filter (L9) - On (EH1700)	922812545
+Check Filter (L9) - Flashing (EH1700)	922812546
+Steer Oil Pressure - Low - Off (EH1700)	922812560
+Steer Oil Pressure - Low - On (EH1700)	922812561
+Steer Oil Pressure - Low - Flashing (EH1700)	922812562
+Brake Oil Pressure - Low (L21) - Off (EH1700)	922812576
+Brake Oil Pressure - Low (L21) - On (EH1700)	922812577
+Brake Oil Pressure - Low (L21) - Flashing (EH1700)	922812578
+Brake Oil Temperature - High (L22) - Off (EH1700)	922812592
+Brake Oil Temperature - High (L22) - On (EH1700)	922812593
+Brake Oil Temperature - High (L22) - Flashing (EH1700)	922812594
+Park Brake Applied (L8) - Off (EH1700)	922812608
+Park Brake Applied (L8) - On (EH1700)	922812609
+Park Brake Applied (L8) - Flashing (EH1700)	922812610
+Atc Applied (L19) - Off (EH1700)	922812624
+Atc Applied (L19) - On (EH1700)	922812625
+Atc Applied (L19) - Flashing (EH1700)	922812626
+Edsc Applied (L20) - Off (EH1700)	922812640
+Edsc Applied (L20) - On (EH1700)	922812641
+Edsc Applied (L20) - Flashing (EH1700)	922812642
+Body Up (L1) - Off (EH1700)	922812656
+Body Up (L1) - On (EH1700)	922812657
+Body Up (L1) - Flashing (EH1700)	922812658
+Load Weight Yellow (L2) - Off (EH1700)	922812672
+Load Weight Yellow (L2) - On (EH1700)	922812673
+Load Weight Yellow (L2) - Flashing (EH1700)	922812674
+Load Weight Red (L3) - Off (EH1700)	922812688
+Load Weight Red (L3) - On (EH1700)	922812689
+Load Weight Red (L3) - Flashing (EH1700)	922812690
+Fuel Level Low (L16) - Off (EH1700)	922812704
+Fuel Level Low (L16) - On (EH1700)	922812705
+Fuel Level Low (L16) - Flashing (EH1700)	922812706
+Seat Belt - Off (EH1700)	922812720
+Seat Belt - On (EH1700)	922812721
+Seat Belt - Flashing (EH1700)	922812722
+Engine Warning - No Warning (EH1700)	922812736
+Engine Warning - Engine Check Warning (EH1700)	922812737
+Engine Warning - Engine Stop Warning (EH1700)	922812738
+Engine Coolant Temperature Warning - No Warning (EH1700)	922812752
+Engine Coolant Temperature Warning - Engine Coolant Temp High (EH1700)	922812753
+Engine Coolant Temperature Warning - Engine Coolant Temp Very High (EH1700)	922812754
+Engine Speed Warning - No Warning (EH1700)	922812768
+Engine Speed Warning - Engine Speed To High (EH1700)	922812769
+Engine Air Filters Warning - No Warning (EH1700)	922812784
+Engine Air Filters Warning - Engine Air Filter 1 Clogged (EH1700)	922812785
+Engine Air Filters Warning - Engine Air Filter 2 Clogged (EH1700)	922812786
+Engine Air Filters Warning - Both Air Filters Clogged (EH1700)	922812787
+Engine Data Link Loss - No Warning (EH1700)	922812800
+Engine Data Link Loss - Engine Data Link Loss (EH1700)	922812801
+Transmission Data Link Loss - No Warning (EH1700)	922812816
+Transmission Data Link Loss - Transmission Data Link Loss (EH1700)	922812817
+Transmission Oil Temperature Warning - No Warning (EH1700)	922812832
+Transmission Oil Temperature Warning - Transmission Oil Temperature High (EH1700)	922812833
+Transmission Oil Temperature Warning - Transmission Oil Temperature Very High (EH1700)	922812834
+Transmission Oil Temperature Warning - Transmission Oil Temperature Reading Error (EH1700)	922812835
+Transmission Oil Filter Warning - No Warning (EH1700)	922812848
+Transmission Oil Filter Warning - Transmission Oil Filter Clogged (EH1700)	922812849
+Park Brake Oil Pressure Warning - No Warning (EH1700)	922812864
+Park Brake Oil Pressure Warning - Park Brake Oil Pressure High (EH1700)	922812865
+Steer Oil Filter Warning - No Warning (EH1700)	922812880
+Steer Oil Filter Warning - Steer Oil Filter Clogged (EH1700)	922812881
+Hoist Oil Filter Warning - No Warning (EH1700)	922812896
+Hoist Oil Filter Warning - Hoist Oil Filter Clogged (EH1700)	922812897
+Ccu Internal Battery Warning - No Warning (EH1700)	922812912
+Ccu Internal Battery Warning - Ccu Internal Date/Time Battery Is Low (EH1700)	922812913
+Ccu Sensor 24V Supply Warning - No Warning (EH1700)	922812928
+Ccu Sensor 24V Supply Warning - Sensor 24V Supply Is Low (EH1700)	922812929
+Ccu Sensor 5V Supply Warning - No Warning (EH1700)	922812944
+Ccu Sensor 5V Supply Warning - Sensor 5V Supply Is Low (EH1700)	922812945
+Alternator Warning - No Warning (EH1700)	922812960
+Alternator Warning - Alternator Output Is Low (EH1700)	922812961
+Alternator Warning - Alternator Output Is High (EH1700)	922812962
+Alternator Warning - Alternator Reading Error (EH1700)	922812963
+Operation Reverse Inhibit Warning - No Warning (EH1700)	922812976
+Operation Reverse Inhibit Warning - Reverse Motion Inhibited (EH1700)	922812977
+Transmission Check Warning - No Warning (EH1700)	922812992
+Transmission Check Warning - Transmission Check Warning (EH1700)	922812993
+Steer Oil Temperature Warning - No Warning (EH1700)	922813008
+Steer Oil Temperature Warning - Steering Oil Temperature High (EH1700)	922813009
+Steer Oil Temperature Warning - Steering Oil Temperature Error (EH1700)	922813011
+Brake Cooling Oil Temperature - No Warning (EH1700)	922813024
+Brake Cooling Oil Temperature - Brake Cooling Oil Temperature High (EH1700)	922813025
+Brake Cooling Oil Temperature - Brake Cooling Oil Temperature Very High (EH1700)	922813026
+Buzzer Warning - Buzzer Off (EH1700)	922813040
+Buzzer Warning - Buzzer Continuously On (EH1700)	922813041
+Buzzer Warning - Buzzer Alternating (0.5Sec On 0.5Sec Off) (EH1700)	922813042
+Buzzer Warning - Buzzer Alternating (0.25Sec On 0.25Sec Off) (EH1700)	922813043
+Seat Cushion Warning - No Warning (EH1700)	922813056
+Seat Cushion Warning - Seat Cushion Warning (EH1700)	922813057
+Park Brake Warning - No Warning (EH1700)	922813072
+Park Brake Warning - Park Brake Warning (EH1700)	922813073
+Engine Idle Timer - No Warning (EH1700)	922813088
+Engine Idle Timer - Engine Idle Timer Active Warning (EH1700)	922813089
+Inclinometer Warning - No Warning (EH1700)	922813104
+Inclinometer Warning - Inclinometer Warning (EH1700)	922813105
+Strut Pressure Warning - No Warning (EH1700)	922813120
+Strut Pressure Warning - Strut Pressure Warning (EH1700)	922813121
+Load Weigh System Warning - No Warning (EH1700)	922813136
+Load Weigh System Warning - Load Weigh System Malfunction (EH1700)	922813137
+Load Weigh System Warning - Load Weigh System Disabled (EH1700)	922813138
+Solenoid Electrical Failure Warning - No Warning (EH1700)	922813152
+Solenoid Electrical Failure Warning - Solenoid Electrical Failure (EH1700)	922813153
+Load Dump Warning - No Warning (EH1700)	922813168
+Load Dump Warning - Load Dump On (EH1700)	922813169
+Hill Hold - No Warning (EH1700)	922813184
+Hill Hold - Hill Hold On (EH1700)	922813185
+Vehicle Speed Limit - No Warning (EH1700)	922813200
+Vehicle Speed Limit - Vehicle Speed Limit On (EH1700)	922813201
+Road Condition Enabled - Road Condition Disabled (EH1700)	922813216
+Road Condition Enabled - Road Condition Enabled (EH1700)	922813217
+Road Condition Short Run - Good (EH1700)	922813232
+Road Condition Short Run - Normal (EH1700)	922813233
+Road Condition Short Run - Bad (EH1700)	922813234
+Road Condition Short Run - Very Bad (EH1700)	922813235
+Road Condition Short Run - Undetected (EH1700)	922813238
+Road Condition Short Run - System Error (EH1700)	922813239
+Road Condition Long Run - Good (EH1700)	922813248
+Road Condition Long Run - Normal (EH1700)	922813249
+Road Condition Long Run - Bad (EH1700)	922813250
+Road Condition Long Run - Very Bad (EH1700)	922813251
+Road Condition Long Run - Undetected (EH1700)	922813254
+Road Condition Long Run - System Error (EH1700)	922813255
+Central Indicator -Normal (EH3500)	922814416
+Central Indicator - Stop (EH3500)	922814417
+Central Indicator - Caution (EH3500)	922814418
+Central Indicator - Invalid (EH3500)	922814419
+Hydraulic Oil Level Indicator - Off (EH3500)	922814432
+Hydraulic Oil Level Indicator - On (EH3500)	922814433
+Hydraulic Oil Level Indicator - Invalid (EH3500)	922814435
+Hydraulic Oil Overheat Indicator - Off (EH3500)	922814448
+Hydraulic Oil Overheat Indicator - On (EH3500)	922814449
+Hydraulic Oil Overheat Indicator - Invalid (EH3500)	922814451
+Seat Belt & No Driver On Seat Warnning Indicator - Off (EH3500)	922814464
+No Driver On Seat (EH3500)	922814465
+Seat Belt Warning (EH3500)	922814466
+Seat Belt & No Driver On Seat Warnning Indicator - Invalid (EH3500)	922814467
+Brake/Steering Oil Pressure Wanring Indicator - Off (EH3500)	922814480
+Brake/Steering Oil Pressure Wanring Indicator - On (EH3500)	922814481
+Brake/Steering Oil Pressure Wanring Indicator - Invalid (EH3500)	922814483
+Parking Brake Indicator - Off (EH3500)	922814496
+Parking Brake Indicator - On (EH3500)	922814497
+Parking Brake Indicator - Warning (EH3500)	922814498
+Parking Brake Indicator - Invalid (EH3500)	922814499
+Load/Dump Brake Status Indicator - Off (EH3500)	922814512
+Load/Dump Brake Status Indicator - On (EH3500)	922814513
+Load/Dump Brake Status Indicator -Warning (EH3500)	922814514
+Load/Dump Brake Status Indicator - Invalid (EH3500)	922814515
+Auto-Lubrication Indicator - Off (EH3500)	922814528
+Auto-Lubrication Indicator - Normal (EH3500)	922814529
+Auto-Lubrication Indicator - Warning (EH3500)	922814530
+Auto-Lubrication Indicator - Invalid (EH3500)	922814531
+Dump Body Up Status Indicator - Lowered On The Frame Rail (EH3500)	922814544
+Dump Body Up Status Indicator - Body Up (EH3500)	922814545
+Dump Body Up Status Indicator - Invalid (EH3500)	922814547
+Hoist Level Position Status Indicator - Off (EH3500)	922814560
+Hoist Level Position Status Indicator - On (EH3500)	922814561
+Hoist Level Position Status Indicator - Invalid (EH3500)	922814563
+Stop Valve Indicator - Off (EH3500)	922814576
+Stop Valve Indicator - On (EH3500)	922814577
+Stop Valve Indicator - Invalid (EH3500)	922814579
+Emergency Engine Stop Switch - Off (EH3500)	922814592
+Emergency Engine Stop Switch - On (EH3500)	922814593
+Emergency Engine Stop Switch - Invalid (EH3500)	922814595
+Dipper	922815367
+Loaded	922815368
+Dumping	922815369
+Empty	922815370
+Calibration	922815371
+Body Up During Final Caulation State (EH5000)	922815417
+Body Up During Maneuvering State (EH5000)	922815433
+Load Weight Lamp - Yellow Lamp Off (EH5000)	922815448
+Load Weight Lamp - Yellow Lamp On (EH5000)	922815449
+Load Weight Lamp - Yellow Lamp Flashing (EH5000)	922815450
+Load Weight Lamp - Red Lamp Off (EH5000)	922815464
+Load Weight Lamp - Red Lamp On (EH5000)	922815465
+Load Weight Lamp - Red Lamp Flashing (EH5000)	922815466
+Overload Flag - >120% Overload (EH5000)	922815481
+Overload Flag - >110% Overload (EH5000)	922815482
+Reverse Alarm (EH5000)	922815497
+Seat Belt Status - Warning (EH5000)	922815513
+Seat Belt Status - Alarm (EH5000)	922815514
+Need Park Brake On (EH5000)	922815529
+Service Brake Limit Warning (EH5000)	922815545
+Brake Oil Pressure Indicator -On (EH5000)	922815561
+Brake Oil Pressure Indicator -Error (EH5000)	922815562
+Hydraulic Oil Filter 1 Status - Warning (EH5000)	922815577
+Hydraulic Oil Filter 1 Status - Error (EH5000)	922815578
+Hydraulic Oil Filter 2 Status - Warning (EH5000)	922815593
+Hydraulic Oil Filter 2 Status - Error (EH5000)	922815594
+Body Up Warning Speed Restriction (EH5000)	922815609
+Steer Oil Filter Status - Dirty (EH5000)	922815625
+Steer Oil Filter Status - Bad Sensor (EH5000)	922815626
+Steer Oil Pressure Indicator - On (EH5000)	922815641
+Steer Oil Pressure Indicator - Flashing (EH5000)	922815642
+Accumulator 1 Pressure Warning - Low (EH5000)	922815657
+Accumulator 1 Pressure Warning - High (EH5000)	922815658
+Accumulator 1 Pressure Warning - Error Reading (EH5000)	922815659
+Accumulator 2 Pressure Warning - Low (EH5000)	922815673
+Accumulator 2 Pressure Warning - High (EH5000)	922815674
+Accumulator 2 Pressure Warning - Error Reading (EH5000)	922815675
+Lever Position Warning - Error (EH5000)	922815690
+Body Angle Sensor Error - Out Of Range Or Bad Device (EH5000)	922815705
+Central Warning/Alarm - Warning (EH5000)	922815721
+Central Warning/Alarm - Alarm (EH5000)	922815722
+Air Filter Status #1 - Dirty (EH5000)	922815737
+Air Filter Status #1 - Sensor Fault/No Connection (EH5000)	922815738
+Air Filter Status #2 - Dirty (EH5000)	922815753
+Air Filter Status #2 - Sensor Fault/No Connection (EH5000)	922815754
+Air Filter Status #3 - Dirty (EH5000)	922815769
+Air Filter Status #3 - Sensor Fault/No Connection (EH5000)	922815770
+Air Filter Status #4 - Dirty (EH5000)	922815785
+Air Filter Status #4 - Sensor Fault/No Connection (EH5000)	922815786
+Fuel Level Warning - Low (EH5000)	922815801
+Fuel Level Warning - Sensor Fault/No Connection (EH5000)	922815802
+Drive Warning Active (Level 1 Fault) (EH5000)	922815817
+Drive Fault Active (Level 2 Fault) (EH5000)	922815833
+Propel Inhibit (EH5000)	922815849
+Truck Speed > Set Speed 1 (EH5000)	922815865
+Truck Speed > Set Speed 2 ($BSPMXEX) (EH5000)	922815881
+Service Brake Switch (EH5000)	922815897
+CAN Link Not Available (EH5000)	922815913
+Loading (EH5000)	922815929
+Hauling (EH5000)	922815932
+Dumping (EH5000)	922815933
+Body Up During Final Caulation State (EH5000DDEC)	922816417
+Body Up During Maneuvering State (EH5000DDEC)	922816433
+Load Weight Lamp - Yellow Lamp Off (EH5000DDEC)	922816448
+Load Weight Lamp - Yellow Lamp On (EH5000DDEC)	922816449
+Load Weight Lamp - Yellow Lamp Flashing (EH5000DDEC)	922816450
+Load Weight Lamp - Red Lamp Off (EH5000DDEC)	922816464
+Load Weight Lamp - Red Lamp On (EH5000DDEC)	922816465
+Load Weight Lamp - Red Lamp Flashing (EH5000DDEC)	922816466
+Overload Flag - >120% Overload (EH5000DDEC)	922816481
+Overload Flag - >110% Overload (EH5000DDEC)	922816482
+Reverse Alarm (EH5000DDEC)	922816497
+Seat Belt Status - Warning (EH5000DDEC)	922816513
+Seat Belt Status - Alarm (EH5000DDEC)	922816514
+Need Park Brake On (EH5000DDEC)	922816529
+Service Brake Limit Warning (EH5000DDEC)	922816545
+Brake Oil Pressure Indicator -On (EH5000DDEC)	922816561
+Brake Oil Pressure Indicator -Error (EH5000DDEC)	922816562
+Hydraulic Oil Filter 1 Status - Warning (EH5000DDEC)	922816577
+Hydraulic Oil Filter 1 Status - Error (EH5000DDEC)	922816578
+Hydraulic Oil Filter 2 Status - Warning (EH5000DDEC)	922816593
+Hydraulic Oil Filter 2 Status - Error (EH5000DDEC)	922816594
+Body Up Warning Speed Restriction (EH5000DDEC)	922816609
+Steer Oil Filter Status - Dirty (EH5000DDEC)	922816625
+Steer Oil Filter Status - Bad Sensor (EH5000DDEC)	922816626
+Steer Oil Pressure Indicator - On (EH5000DDEC)	922816641
+Steer Oil Pressure Indicator - Flashing (EH5000DDEC)	922816642
+Accumulator 1 Pressure Warning - Low (EH5000DDEC)	922816657
+Accumulator 1 Pressure Warning - High (EH5000DDEC)	922816658
+Accumulator 1 Pressure Warning - Error Reading (EH5000DDEC)	922816659
+Accumulator 2 Pressure Warning - Low (EH5000DDEC)	922816673
+Accumulator 2 Pressure Warning - High (EH5000DDEC)	922816674
+Accumulator 2 Pressure Warning - Error Reading (EH5000DDEC)	922816675
+Lever Position Warning - Error (EH5000DDEC)	922816690
+Body Angle Sensor Error - Out Of Range Or Bad Device (EH5000DDEC)	922816705
+Central Warning/Alarm - Warning (EH5000DDEC)	922816721
+Central Warning/Alarm - Alarm (EH5000DDEC)	922816722
+Air Filter Status #1 - Dirty (EH5000DDEC)	922816737
+Air Filter Status #1 - Sensor Fault/No Connection (EH5000DDEC)	922816738
+Air Filter Status #2 - Dirty (EH5000DDEC)	922816753
+Air Filter Status #2 - Sensor Fault/No Connection (EH5000DDEC)	922816754
+Air Filter Status #3 - Dirty (EH5000DDEC)	922816769
+Air Filter Status #3 - Sensor Fault/No Connection (EH5000DDEC)	922816770
+Air Filter Status #4 - Dirty (EH5000DDEC)	922816785
+Air Filter Status #4 - Sensor Fault/No Connection (EH5000DDEC)	922816786
+Fuel Level Warning - Low (EH5000DDEC)	922816801
+Fuel Level Warning - Sensor Fault/No Connection (EH5000DDEC)	922816802
+Drive Warning Active (Level 1 Fault) (EH5000DDEC)	922816817
+Drive Fault Active (Level 2 Fault) (EH5000DDEC)	922816833
+Propel Inhibit (EH5000DDEC)	922816849
+Truck Speed > Set Speed 1 (EH5000DDEC)	922816865
+Truck Speed > Set Speed 2 ($BSPMXEX) (EH5000DDEC)	922816881
+Service Brake Switch (EH5000DDEC)	922816897
+CAN Link Not Available (EH5000DDEC)	922816913
+Loading (EH5000DDEC)	922816929
+Hauling (EH5000DDEC)	922816932
+Dumping (EH5000DDEC)	922816933
+Lincoln Lube Pressure - Off (EH5000DDEC)	922816944
+Lincoln Lube Pressure - On (EH5000DDEC)	922816945
+Lincoln Lube Grease Level Low - Low (EH5000DDEC)	922816961
+Engine Oil Level Low - Low (EH5000DDEC)	922816977
+AP Low Idle Switch - In Low Idle Condition (EH5000DDEC)	922816993
+AP Low Idle Switch - Not Configured (EH5000DDEC)	922816995
+AP Kickdown Switch - Kickdown Passive (EH5000DDEC)	922817008
+AP Kickdown Switch - Kickdown Active (EH5000DDEC)	922817009
+AP Kickdown Switch - Not Configured (EH5000DDEC)	922817011
+PTO Enable Switch - Switch Off (EH5000DDEC)	922817024
+PTO Enable Switch - Switch On (EH5000DDEC)	922817025
+PTO Enable Switch - Not Configured (EH5000DDEC)	922817027
+Remote PTO Preprogrammed Speed Control - Switch Off (EH5000DDEC)	922817040
+Remote PTO Preprogrammed Speed Control - Switch On (EH5000DDEC)	922817041
+Remote PTO Preprogrammed Speed Control - Not Configured (EH5000DDEC)	922817043
+PTO Set Switch - Switch Off (EH5000DDEC)	922817056
+PTO Set Switch - Switch On (EH5000DDEC)	922817057
+PTO Set Switch - Not Configured (EH5000DDEC)	922817059
+PTO Coast/Decelerate Switch - Switch Off (EH5000DDEC)	922817072
+PTO Coast/Decelerate Switch - Switch On (EH5000DDEC)	922817073
+PTO Coast/Decelerate Switch - Not Configured (EH5000DDEC)	922817075
+PTO Resume Switch - Switch Off (EH5000DDEC)	922817088
+PTO Resume Switch - Switch On (EH5000DDEC)	922817089
+PTO Resume Switch - Not Configured (EH5000DDEC)	922817091
+PTO Accelerate Switch - Switch Off (EH5000DDEC)	922817104
+PTO Accelerate Switch - Switch On (EH5000DDEC)	922817105
+PTO Accelerate Switch - Not Configured (EH5000DDEC)	922817107
+Fuel Pressure (Extended Range) Low (EH5000DDEC)	922817116
+Fuel Pressure (Extended Range) Voltage High (EH5000DDEC)	922817117
+Fuel Pressure (Extended Range) Voltage Low (EH5000DDEC)	922817118
+Oil Pressure (Extended Range) Low (EH5000DDEC)	922817119
+Oil Pressure (Extended Range) Voltage High (EH5000DDEC)	922817120
+Oil Pressure (Extended Range) Voltage Low (EH5000DDEC)	922817121
+Coolant Pressure (Extended Range) Low (EH5000DDEC)	922817122
+Coolant Pressure (Extended Range) Voltage High (EH5000DDEC)	922817123
+Coolant Pressure (Extended Range) Voltage Low (EH5000DDEC)	922817124
+Ic Coolant Temp Voltage High (EH5000DDEC)	922817125
+Ic Coolant Temp Voltage Low (EH5000DDEC)	922817126
+Parking Brake Switch Voltage Low (EH5000DDEC)	922817127
+Accel. Pedal Position Voltage High (EH5000DDEC)	922817128
+Accel. Pedal Position Voltage Low (EH5000DDEC)	922817129
+Fuel Pressure Low (EH5000DDEC)	922817130
+Fuel Pressure Voltage High (EH5000DDEC)	922817131
+Fuel Pressure Voltage Low (EH5000DDEC)	922817132
+Oil Filter Diff Pressure High (EH5000DDEC)	922817133
+Oil Filter Diff Pressure Voltage High (EH5000DDEC)	922817134
+Oil Filter Diff Pressure Voltage Low (EH5000DDEC)	922817135
+Oil Pressure Low (EH5000DDEC)	922817136
+Oil Pressure Voltage High (EH5000DDEC)	922817137
+Oil Pressure Voltage Low (EH5000DDEC)	922817138
+Crankcase Pressure High (EH5000DDEC)	922817139
+Crankcase Pressure Voltage High (EH5000DDEC)	922817140
+Crankcase Pressure Voltage Low (EH5000DDEC)	922817141
+Boost Pressure Voltage High (EH5000DDEC)	922817142
+Boost Pressure Voltage Low (EH5000DDEC)	922817143
+Coolant Pressure Low (EH5000DDEC)	922817144
+Coolant Pressure Voltage High (EH5000DDEC)	922817145
+Coolant Pressure Voltage Low (EH5000DDEC)	922817146
+Coolant Temperature High (EH5000DDEC)	922817147
+Coolant Temperature Voltage High (EH5000DDEC)	922817148
+Coolant Temperature Voltage Low (EH5000DDEC)	922817149
+Engine Power Derate Due To Coolant Temperature (EH5000DDEC)	922817150
+Coolant Level Grounded Circuit (EH5000DDEC)	922817151
+Coolant Level Low (EH5000DDEC)	922817152
+Coolant Level Open Circuit (EH5000DDEC)	922817153
+Coolant Level Voltage High (EH5000DDEC)	922817154
+Coolant Level Voltage Low (EH5000DDEC)	922817155
+Crankcase Pressure (Extended Range) High (EH5000DDEC)	922817156
+Crankcase Pressure (Extended Range) Voltage High (EH5000DDEC)	922817157
+Crankcase Pressure (Extended Range) Voltage Low (EH5000DDEC)	922817158
+Injection Cntl Pressure High (EH5000DDEC)	922817159
+Injection Cntl Pressure Low (EH5000DDEC)	922817160
+Injection Cntl Pressure Voltage High (EH5000DDEC)	922817161
+Injection Cntl Pressure Voltage Low (EH5000DDEC)	922817162
+Battery Voltage High (EH5000DDEC)	922817163
+Battery Voltage Low (EH5000DDEC)	922817164
+Air Inlet Temperature High (EH5000DDEC)	922817165
+Air Inlet Temperature Voltage High (EH5000DDEC)	922817166
+Air Inlet Temperature Voltage Low (EH5000DDEC)	922817167
+Fuel Temperature High (EH5000DDEC)	922817168
+Fuel Temperature Voltage High (EH5000DDEC)	922817169
+Fuel Temperature Voltage Low (EH5000DDEC)	922817170
+Oil Temperature High (EH5000DDEC)	922817171
+Oil Temperature Voltage High (EH5000DDEC)	922817172
+Oil Temperature Voltage Low (EH5000DDEC)	922817173
+Pto Signal Voltage High (EH5000DDEC)	922817174
+Pto Signal Voltage Low (EH5000DDEC)	922817175
+Engine Speed High (EH5000DDEC)	922817176
+J1708 Data Link Failure (EH5000DDEC)	922817177
+Sensor Supply High (EH5000DDEC)	922817178
+Sensor Supply Low (EH5000DDEC)	922817179
+J1922 Data Link Failure (EH5000DDEC)	922817180
+Stop Engine Light Voltage High (EH5000DDEC)	922817181
+Stop Engine Light Voltage Low (EH5000DDEC)	922817182
+Check Engine Light Voltage High (EH5000DDEC)	922817183
+Check Engine Light Voltage Low (EH5000DDEC)	922817184
+Proprietary Link Abnormal Period (EH5000DDEC)	922817185
+Proprietary Link Abnormal Update Rate (EH5000DDEC)	922817186
+Controller Failure (EH5000DDEC)	922817187
+Calibration Memory Failure (EH5000DDEC)	922817188
+Position Sensor High (EH5000DDEC)	922817189
+Position Sensor Low (EH5000DDEC)	922817190
+J1939 Data Link Failure (EH5000DDEC)	922817191
+Ext. Protection Input #1 / Ext. Protection Input #2 (EH5000DDEC)	922817192
+Injector #01 High (EH5000DDEC)	922817193
+Injector #01 Low (EH5000DDEC)	922817194
+Injector #02 High (EH5000DDEC)	922817195
+Injector #02 Low (EH5000DDEC)	922817196
+Injector #03 High (EH5000DDEC)	922817197
+Injector #03 Low (EH5000DDEC)	922817198
+Injector #04 High (EH5000DDEC)	922817199
+Injector #04 Low (EH5000DDEC)	922817200
+Injector #05 High (EH5000DDEC)	922817201
+Injector #05 Low (EH5000DDEC)	922817202
+Injector #06 High (EH5000DDEC)	922817203
+Injector #06 Low (EH5000DDEC)	922817204
+Injector #07 High (EH5000DDEC)	922817205
+Injector #07 Low (EH5000DDEC)	922817206
+Injector #08 High (EH5000DDEC)	922817207
+Injector #08 Low (EH5000DDEC)	922817208
+Injector #09 High (EH5000DDEC)	922817209
+Injector #09 Low (EH5000DDEC)	922817210
+Injector #10 High (EH5000DDEC)	922817211
+Injector #10 Low (EH5000DDEC)	922817212
+Injector #11 High (EH5000DDEC)	922817213
+Injector #11 Low (EH5000DDEC)	922817214
+Injector #12 High (EH5000DDEC)	922817215
+Injector #12 Low (EH5000DDEC)	922817216
+Injector #13 High (EH5000DDEC)	922817217
+Injector #13 Low (EH5000DDEC)	922817218
+Injector #14 High (EH5000DDEC)	922817219
+Injector #14 Low (EH5000DDEC)	922817220
+Injector #15 High (EH5000DDEC)	922817221
+Injector #15 Low (EH5000DDEC)	922817222
+Injector #16 High (EH5000DDEC)	922817223
+Injector #16 Low (EH5000DDEC)	922817224
+Pwm Driver #1 High (EH5000DDEC)	922817225
+Pwm Driver #1 Low (EH5000DDEC)	922817226
+Pwm Driver #2 High (EH5000DDEC)	922817227
+Pwm Driver #2 Low (EH5000DDEC)	922817228
+Pwm Driver #3 High (EH5000DDEC)	922817229
+Pwm Driver #3 Low (EH5000DDEC)	922817230
+Pwm Driver #3 Voltage High (EH5000DDEC)	922817231
+Pwm Driver #3 Voltage Low (EH5000DDEC)	922817232
+Pwm Driver #4 High (EH5000DDEC)	922817233
+Central Indicator -Normal (EH5000AC3)	922817416
+Central Indicator - Stop (EH5000AC3)	922817417
+Central Indicator - Caution (EH5000AC3)	922817418
+Central Indicator - Invalid (EH5000AC3)	922817419
+Hydraulic Oil Level Indicator - Off (EH5000AC3)	922817432
+Hydraulic Oil Level Indicator - On (EH5000AC3)	922817433
+Hydraulic Oil Level Indicator - Invalid (EH5000AC3)	922817435
+Hydraulic Oil Overheat Indicator - Off (EH5000AC3)	922817448
+Hydraulic Oil Overheat Indicator - On (EH5000AC3)	922817449
+Hydraulic Oil Overheat Indicator - Invalid (EH5000AC3)	922817451
+Seat Belt & No Driver On Seat Warnning Indicator - Off (EH5000AC3)	922817464
+No Driver On Seat (EH5000AC3)	922817465
+Seat Belt Warning (EH5000AC3)	922817466
+Seat Belt & No Driver On Seat Warnning Indicator - Invalid (EH5000AC3)	922817467
+Brake/Steering Oil Pressure Wanring Indicator - Off (EH5000AC3)	922817480
+Brake/Steering Oil Pressure Wanring Indicator - On (EH5000AC3)	922817481
+Brake/Steering Oil Pressure Wanring Indicator - Invalid (EH5000AC3)	922817483
+Parking Brake Indicator - Off (EH5000AC3)	922817496
+Parking Brake Indicator - On (EH5000AC3)	922817497
+Parking Brake Indicator - Warning (EH5000AC3)	922817498
+Parking Brake Indicator - Invalid (EH5000AC3)	922817499
+Load/Dump Brake Status Indicator - Off (EH5000AC3)	922817512
+Load/Dump Brake Status Indicator - On (EH5000AC3)	922817513
+Load/Dump Brake Status Indicator -Warning (EH5000AC3)	922817514
+Load/Dump Brake Status Indicator - Invalid (EH5000AC3)	922817515
+Auto-Lubrication Indicator - Off (EH5000AC3)	922817528
+Auto-Lubrication Indicator - Normal (EH5000AC3)	922817529
+Auto-Lubrication Indicator - Warning (EH5000AC3)	922817530
+Auto-Lubrication Indicator - Invalid (EH5000AC3)	922817531
+Dump Body Up Status Indicator - Lowered On The Frame Rail (EH5000AC3)	922817544
+Dump Body Up Status Indicator - Body Up (EH5000AC3)	922817545
+Dump Body Up Status Indicator - Invalid (EH5000AC3)	922817547
+Hoist Level Position Status Indicator - Off (EH5000AC3)	922817560
+Hoist Level Position Status Indicator - On (EH5000AC3)	922817561
+Hoist Level Position Status Indicator - Invalid (EH5000AC3)	922817563
+Stop Valve Indicator - Off (EH5000AC3)	922817576
+Stop Valve Indicator - On (EH5000AC3)	922817577
+Stop Valve Indicator - Invalid (EH5000AC3)	922817579
+Emergency Engine Stop Switch - Off (EH5000AC3)	922817592
+Emergency Engine Stop Switch - On (EH5000AC3)	922817593
+Emergency Engine Stop Switch - Invalid (EH5000AC3)	922817595
+AC Drive System Status Indicator - OFF (EH5000AC3)	922817608
+AC Drive System Status Indicator - Failure (EH5000AC3)	922817609
+AC Drive System Status Indicator - Invalid (EH5000AC3)	922817611
+AC Drive System Maintenance Required Indicator - OFF (EH5000AC3)	922817624
+AC Drive System Maintenance Required Indicator - ON (EH5000AC3)	922817625
+AC Drive System Maintenance Required Indicator - Invalid (EH5000AC3)	922817627
+Reatrder Status Indicator - OFF (EH5000AC3)	922817640
+Reatrder Status Indicator - ON (EH5000AC3)	922817641
+Reatrder Status Indicator - Warnning (EH5000AC3)	922817642
+Reatrder Status Indicator - Invalid (EH5000AC3)	922817643
+Wheel Motor Temp Indicator - Normal (EH5000AC3)	922817656
+Wheel Motor Temp Indicator - Most Severe Level (EH5000AC3)	922817657
+Wheel Motor Temp Indicator - Moderately Severe Level (EH5000AC3)	922817658
+Wheel Motor Temp Indicator - Invalid (EH5000AC3)	922817659
+Wheel Motor& Alternator Blower Indicator - OFF (EH5000AC3)	922817672
+Wheel Motor& Alternator Blower Indicator - ON (EH5000AC3)	922817673
+Wheel Motor& Alternator Blower Indicator - Invalid (EH5000AC3)	922817675
+Grid Dry Indicator - OFF (EH5000AC3)	922817688
+Grid Dry Indicator - ON (EH5000AC3)	922817689
+Grid Dry Indicator - Invlaid (EH5000AC3)	922817691
+Trolley Status Indicator - OFF (EH5000AC3)	922817704
+Trolley Status Indicator - ON (EH5000AC3)	922817705
+Trolley Status Indicator - Diesel Wait (EH5000AC3)	922817706
+Trolley Status Indicator - Warnning (EH5000AC3)	922817707
+HDC Status Indicator - Normal (EH5000AC3)	922817720
+HDC Status Indicator - Control Mode (EH5000AC3)	922817721
+HDC Status Indicator - SW OFF (EH5000AC3)	922817722
+HDC Status Indicator - Warnning (EH5000AC3)	922817723
+Engine Shutdown/Service Indicator - Normal (EH5000AC3)	922817736
+Engine Shutdown/Service Indicator - Most Severe Level (EH5000AC3)	922817737
+Engine Shutdown/Service Indicator - Moderately Severe Level (EH5000AC3)	922817738
+Engine Shutdown/Service Indicator - Invalid (EH5000AC3)	922817739
+Engine Coolant Level Indicator - Normal (EH5000AC3)	922817752
+Engine Coolant Level Indicator - Most Severe Level (EH5000AC3)	922817753
+Engine Coolant Level Indicator - Moderately Severe Level (EH5000AC3)	922817754
+Engine Coolant Level Indicator - Invalid (EH5000AC3)	922817755
+Engine Coolant Overheat Indicator - Normal (EH5000AC3)	922817768
+Engine Coolant Overheat Indicator - Most Severe Level (EH5000AC3)	922817769
+Engine Coolant Overheat Indicator - Moderately Severe Level (EH5000AC3)	922817770
+Engine Coolant Overheat Indicator - Lock On Low Idle (EH5000AC3)	922817771
+Engine Oil Presssure Indicator - Normal (EH5000AC3)	922817784
+Engine Oil Presssure Indicator - Most Severe Level (EH5000AC3)	922817785
+Engine Oil Presssure Indicator - Moderately Severe Level (EH5000AC3)	922817786
+Engine Oil Presssure Indicator - Invalid (EH5000AC3)	922817787
+Air Clearner Restriction Warning Indicator - OFF (EH5000AC3)	922817800
+Air Clearner Restriction Warning Indicator - ON (EH5000AC3)	922817801
+Air Clearner Restriction Warning Indicator - Invalid (EH5000AC3)	922817803
+Battery Charge Warning Indicator - OFF (EH5000AC3)	922817816
+Battery Charge Warning Indicator - ON (EH5000AC3)	922817817
+Battery Charge Warning Indicator - Invalid (EH5000AC3)	922817819
+Fuel Empty Indicator - OFF (EH5000AC3)	922817832
+Fuel Empty Indicator - ON (EH5000AC3)	922817833
+Fuel Empty Indicator - Invalid (EH5000AC3)	922817835
+Dipper	922818367
+Loaded	922818368
+Dumping	922818369
+Empty	922818370
+Calibration	922818371

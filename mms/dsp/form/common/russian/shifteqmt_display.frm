@@ -1,0 +1,16 @@
+CONFIDENTIALITY NOTICE: This document is intended solely for 
+use by individuals and entities as explicitly authorized by 
+Modular Mining Systems Inc. and may contain information that is 
+privileged, proprietary and/or confidential.  Any unauthorized 
+use, dissemination, disclosure, or reverse-engineering is 
+strictly prohibited.  Confidentiality, privilege, or copyright 
+is not waived or lost because you have received this in error.  
+If you have received this document in error, please notify us 
+immediately by email to postmaster@mmsi.com and destroy the 
+original document and any copies of it.
+
+ENCODER VERSION: -FormsEncryptor 2.0-
+È·,F¨ê∂z≈e
+∑ãøõrîEâÅ+1Å¬]Úo∂ü%	:mßK»%ê¯’h<K•Ø‡í’µËõâø+Âª—œ‚Ÿe·`œ˘V^Ãí¥·´42p nﬂ9yQ®ˆ•Z	ı§∂£˜ 1´“Oã˜$∏à∫¢tè˙
+Êˇ8ÕURsﬁãîÁH7Ï'D0T$Œm§–≥Åu‹ìÔì(Ëú;‚æΩ§ÑÊùÜãÉyüÙº‡™Û€P˘P^©Ωrnÿ[WCÚ≤o»5sëëÈ‚≈©À≠+_A≥ø/gêÎ»ΩÉyÖ†ø:‘√«Â≈®¿ÛPQ6/	 Ûõ∂ù§<ÙßÇÅ£µûÙˆpË≠ú_:Áòœ"
+.equ ûˇ:ñÔH.Íï¬Õ_nﬂ{(éÜ

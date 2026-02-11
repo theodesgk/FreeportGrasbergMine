@@ -1,0 +1,55 @@
+1845559297	Protocol Version	0	0	0	
+1845559298	Software Version	0	0	0	
+1845559299	Machine Type	0	0	0	
+1845559300	Machine Serial Number	0	0	0	
+1845559301	Engine Total Operation Time	71582788.25	0	7	
+1845559302	Engine Total Fuel Used	4294967295	0	14	
+1845559303	Accepted Hole Count	4294967295	0	0	
+1845559304	Rejected Hole Count	4294967295	0	0	
+1845559305	Accepted Total Drilled Depth	42949672.95	0	17	
+1845559306	Rejected Total Drilled Depth	42949672.95	0	17	
+1845559307	Total Drill Time	1193046.47083333	0	7	
+1845559308	Total Tramming Time	1193046.47083333	0	7	
+1845559309	Total Pipe Handling Time	1193046.47083333	0	7	
+1845559310	Functional State	255	0	0	
+1845559311	Engine Status	255	0	0	
+1845559312	Drill/Rotary Head Position	4294967.295	0	17	
+1845559313	Jacks Retracted	255	0	0	
+1845559314	Jacks On Ground	255	0	0	
+1845559315	Mast Locked	255	0	0	
+1845559316	Mast Unlocked	255	0	0	
+1845559317	Holding Wrench Extended	255	0	0	
+1845559318	Holding Wrench Retracted	255	0	0	
+1845559319	E-Stop Active	255	0	0	
+1845559320	Hole In Progress	255	0	0	
+1845559321	Current Bit Depth	4294967.295	0	17	
+1845559322	Current Hole Depth	4294967.295	0	17	
+1845559323	Feed Pressure	65535	0	10	
+1845559324	Feed Force	65535	0	38	
+1845559325	Rotation Pressure	65535	0	10	
+1845559326	Percussion Pressure	65535	0	10	
+1845559327	Working Air Pressure	65535	0	10	
+1845559328	Rotation Speed	6553.5	0	28	
+1845559329	Drill/Rotary Head Speed	715827.8825	0	39	
+1845559330	Engine Speed	65535	0	28	
+1845559331	Engine Desired Speed	65535	0	28	
+1845559332	Engine Load	255	0	25	
+1845559333	Fuel Tank Level	255	0	25	
+1845559334	Fuel Temperature	3276.7	-3276.7	5	
+1845559335	Engine Coolant Temperature	3276.7	-3276.7	5	
+1845559336	Engine Coolant Level	255	0	25	
+1845559337	Engine Intake Air Temperature	3276.7	-3276.7	5	
+1845559338	Engine Intake Manifold Pressure	65535	0	10	
+1845559339	Engine Oil Temperature	3276.7	-3276.7	5	
+1845559340	Engine Oil Pressure	65535	0	10	
+1845559341	Engine Exhaust Temperature	3276.7	-3276.7	5	
+1845559342	Engine Fan Speed	255	0	25	
+1845559343	Compressor Temperature	3276.7	-3276.7	5	
+1845559344	Compressor Pressure	65535	0	10	
+1845559345	Compressor Fan Speed	255	0	25	
+1845559346	Hydraulic Oil Temperature	3276.7	-3276.7	5	
+1845559347	Hydraulic Oil Tank Level	255	0	25	
+1845559348	Hydraulic Oil Fan Speed	255	0	25	
+1845559349	Battery Voltage	6553.5	0	31	
+1845559350	Water Tank Level	255	0	25	
+1845559351	Def Tank Level	255	0	25	

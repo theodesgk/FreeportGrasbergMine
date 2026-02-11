@@ -1,0 +1,25 @@
+1442906113	Truck Load	255	0	0
+1442906114	Buckets Number	255	0	0
+1442906115	Load Time	255	0	0
+1442906116	Propel Time	255	0	0
+1442906117	Swing Time	255	0	0
+1442906118	Bucket Fill Time	255	0	0
+1442906119	First Pass Cycle Time	255	0	0
+1442906120	Bucket Fill Energy	255	0	0
+1442906121	Future 1	255	0	0
+1442906122	Future 2	255	0	0
+1442906123	Alarm Code	255	0	0
+1442906124	Hoist Ref	255	0	0
+1442906125	Crowd Ref	255	0	0
+1442906126	Swing Ref	255	0	0
+1442906127	Alarm Hoist Volt	255	0	0
+1442906128	Alarm Crowd  Volt	255	0	0
+1442906129	Alarm Swing Volt	255	0	0
+1442906130	Alarm Hoist Current	255	0	0
+1442906131	Alarm Crowd  Current	255	0	0
+1442906132	Alarm Swing Current	255	0	0
+1442906133	Alarm Hoist Field	255	0	0
+1442906134	Alarm Crowd  Field	255	0	0
+1442906135	Alarm Swing Field	255	0	0
+1442906136	Alarm Hoist Position	255	0	0
+1442906137	Alarm Crowd  Position	255	0	0

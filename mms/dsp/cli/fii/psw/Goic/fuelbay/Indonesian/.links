@@ -1,0 +1,11 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/w0.cfg
+ln -sf ../English/w0.ScrnCntrl.cfg
+ln -sf ../English/w0.Text.cfg
+ln -sf ../English/w0.v1.cfg
+ln -sf ../English/w0.v2.cfg
+ln -sf ../English/w0.v3.cfg
+ln -sf ../English/WinMgr.cfg

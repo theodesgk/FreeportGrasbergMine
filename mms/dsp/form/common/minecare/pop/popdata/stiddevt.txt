@@ -1,0 +1,10 @@
+Driver Buckled	721485824
+Driver Unbuckled	721485825
+Passenger Buckled	721485826
+Passenger Unbuckled	721485827
+Driver Seat Load Exceeds Limit	721485828
+Passenger Seat Load Exceeds Limit	721485829
+OEM Interface Timeout	721551328
+OEM Interface Normal	721551329
+Driver Interface Timeout	721551330
+Driver Interface Normal	721551331

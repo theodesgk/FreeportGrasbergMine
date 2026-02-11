@@ -1,0 +1,17 @@
+fsutil hardlink create w0.v1.cfg ..\English\w0.v1.cfg
+fsutil hardlink create w0.v2.cfg ..\English\w0.v2.cfg
+fsutil hardlink create w0.v3.cfg ..\English\w0.v3.cfg
+fsutil hardlink create w1.cfg ..\English\w1.cfg
+fsutil hardlink create w1.Text.cfg ..\English\w1.Text.cfg
+fsutil hardlink create w2.cfg ..\English\w2.cfg
+fsutil hardlink create w2.Text.cfg ..\English\w2.Text.cfg
+fsutil hardlink create w3.Text.cfg ..\English\w3.Text.cfg
+fsutil hardlink create w4.cfg ..\English\w4.cfg
+fsutil hardlink create w4.Text.cfg ..\English\w4.Text.cfg
+fsutil hardlink create w5.cfg ..\English\w5.cfg
+fsutil hardlink create Region.cfg ..\English\Region.cfg
+fsutil hardlink create DownL_.cfg ..\English\DownL_.cfg
+fsutil hardlink create DelayL_.cfg ..\English\DelayL_.cfg
+fsutil hardlink create ReadyL_.cfg ..\English\ReadyL_.cfg
+fsutil hardlink create StandbyL_.cfg ..\English\StandbyL_.cfg
+fsutil hardlink create Lock.cfg ..\English\Lock.cfg

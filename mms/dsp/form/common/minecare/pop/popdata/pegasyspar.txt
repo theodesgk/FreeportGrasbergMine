@@ -1,0 +1,104 @@
+1140916225	Hoist Loop #1 Cfb Scaled	0	0	2
+1140916226	Hoist Loop #2 Cfb Scaled	0	0	2
+1140916227	Hoist Loop #1 Vfb Scaled	0	0	31
+1140916228	Hoist Loop #2 Vfb Scaled	0	0	31
+1140916229	Hoist Loop #3 Cfb Scaled	0	0	2
+1140916230	Hoist Loop #4 Cfb Scaled	0	0	2
+1140916231	Hoist Loop #3 Vfb Scaled	0	0	31
+1140916232	Hoist Loop #4 Vfb Scaled	0	0	31
+1140916233	Hoist Motor Fld Cfb Scaled	0	0	2
+1140916234	Hoist Motor Speed Scaled 	0	0	28
+1140916235	Hoist Motor Torque (Total)	0	0	0
+1140916236	Hoist Drive Reference	0	0	0
+1140916237	Hoist Rope Length	0	0	17
+1140916238	Hoist Rope Total Force	0	0	0
+1140916239	Hoist Rope Velocity	0	0	39
+1140916240	Hoist Rear Torque Kgm	0	0	0
+1140916241	Hoist Rear Force	0	0	0
+1140916242	Drag/Propel Loopl #1 Cfb Scaled	0	0	2
+1140916243	Drag/Propel Loop #2 Cfb Scaled	0	0	2
+1140916244	Drag Loop #1 Vfb Scaled	0	0	31
+1140916245	Drag Loop #2 Vfb Scaled	0	0	31
+1140916246	Drag/Propel Loopl #3 Cfb Scaled	0	0	2
+1140916247	Drag/Propel Loop #4 Cfb Scaled	0	0	2
+1140916248	Drag Loop #3 Vfb Scaled	0	0	31
+1140916249	Drag Loop #4 Vfb Scaled	0	0	31
+1140916250	Drag Motor Fld Cfb Scaled	0	0	2
+1140916251	Drag Motor Speed Scaled	0	0	28
+1140916252	Drag Motor Torque (Total)	0	0	0
+1140916253	Drag Drive Reference	0	0	0
+1140916254	Drag Rope Length	0	0	17
+1140916255	Drag Rope Total Force	0	0	0
+1140916256	Drag Rope Velocity 	0	0	39
+1140916257	Swing Loop #1 Cfb Scaled 	0	0	2
+1140916258	Swing Loop #2 Cfb Scaled	0	0	2
+1140916259	Swing Loop #1 Vfb Scaled 	0	0	31
+1140916260	Swing Loop #2 Vfb Scaled	0	0	31
+1140916261	Swing Loop #3 Cfb Scaled	0	0	2
+1140916262	Swing Loop #4 Cfb Scaled	0	0	2
+1140916263	Swing Loop #3 Vfb Scaled	0	0	31
+1140916264	Swing Loop #4 Vfb Scaled	0	0	31
+1140916265	Swing Motor Fld Cfb Scaled	0	0	2
+1140916266	Swing Motor Speed Scaled	0	0	28
+1140916267	Swing Motor Torque Scaled	0	0	24
+1140916268	Swing Drive Reference	0	0	0
+1140916269	Swing Position 	0	0	4
+1140916270	Swing Angular Veolcity	0	0	0
+1140916271	Left Shoe Position	0	0	4
+1140916272	Right Shoe Position 	0	0	4
+1140916273	Left Propel Field Amps 	0	0	2
+1140916274	Right Propel Field Amps 	0	0	2
+1140916275	Left Propel Torque Nm 	0	0	24
+1140916276	Right Propel Torque Nm 	0	0	24
+1140916277	Propel Mode Active 	0	0	0
+1140916278	Line Excitation On	0	0	0
+1140916279	A Step Is Being Taken	0	0	0
+1140916280	Dump Switch	0	0	0
+1140916281	Bucket X Position	0	0	0
+1140916282	Bucket Y Position	0	0	0
+1140916283	Year No. 	0	0	0
+1140916284	Month 	0	0	0
+1140916285	Day 	0	0	0
+1140916286	Hour 	0	0	0
+1140916287	Minute 	0	0	0
+1140916288	Second 	0	0	0
+1140916289	Millisecond	0	0	0
+1140916290	Cycle No. 	0	0	0
+1140916291	Last Payload In Kgs (Updated End Of Swing)	0	0	0
+1140916292	"State (0-Null,1-Fill,2-Swing,3-Return,4-Dump) "	0	0	0
+1140916293	Operator Id 	0	0	0
+1140916294	Activity Id 	0	0	0
+1140916295	Strain Gauge Reading 1	0	0	0
+1140916296	Strain Gauge Reading 2	0	0	0
+1140916297	Strain Gauge Reading 3	0	0	0
+1140916298	Strain Gauge Reading 4	0	0	0
+1140916299	Strain Gauge Reading 5	0	0	0
+1140916300	Strain Gauge Reading 6	0	0	0
+1140916301	Strain Gauge Reading 7	0	0	0
+1140916302	Strain Gauge Reading 8	0	0	0
+1140916303	Strain Gauge Reading 9	0	0	0
+1140916304	Strain Gauge Reading 10	0	0	0
+1140916305	Strain Gauge Reading 11	0	0	0
+1140916306	Strain Gauge Reading 12	0	0	0
+1140916307	Strain Gauge Reading 13	0	0	0
+1140916308	Strain Gauge Reading 14	0	0	0
+1140916309	Strain Gauge Reading 15	0	0	0
+1140916310	Strain Gauge Reading 16	0	0	0
+1140916311	Strain Gauge Reading 17	0	0	0
+1140916312	Strain Gauge Reading 18	0	0	0
+1140916313	Strain Gauge Reading 19	0	0	0
+1140916314	Strain Gauge Reading 20	0	0	0
+1140916315	Strain Gauge Reading 21	0	0	0
+1140916316	Strain Gauge Reading 22	0	0	0
+1140916317	Strain Gauge Reading 23	0	0	0
+1140916318	Strain Gauge Reading 24	0	0	0
+1140916319	Strain Gauge Reading 25	0	0	0
+1140916320	Strain Gauge Reading 26	0	0	0
+1140916321	Strain Gauge Reading 27	0	0	0
+1140916322	Strain Gauge Reading 28	0	0	0
+1140916323	Strain Gauge Reading 29	0	0	0
+1140916324	Strain Gauge Reading 30	0	0	0
+1140916325	Strain Gauge Reading 31	0	0	0
+1140916326	Strain Gauge Reading 32	0	0	0
+1140916327	Hoist Sheave Encoder Reading 	0	0	0
+1140916328	Bucket and Rigging Weight 	0	0	0

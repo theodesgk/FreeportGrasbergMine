@@ -1,0 +1,52 @@
+855703553	FMS Axle 1 weight	32127.5	0	38
+855703554	FMS Axle 2 weight	32127.5	0	38
+855703555	FMS Axle 3 weight	32127.5	0	38
+855703556	FMS Axle 4 weight	32127.5	0	38
+855703557	Barometric Pressure 	125	0	9
+855703558	Ambient Air Temperature	1735	-273	5
+855703559	0.8 bar Park Brake	1	0	33
+855703560	Gearbox in Reverse	1	0	33
+855703561	Wheel-based vehicle speed	251	0	11
+855703562	Clutch switch	1	0	33
+855703563	Brake switch	1	0	33
+855703564	Cruise control active	1	1	33
+855703565	Fuel Level	100	0	25
+855703566	ASR Engine Control Active	1	0	33
+855703567	ASR Brake Control Active	1	0	33
+855703568	ABS Active	1	0	33
+855703569	EBS Brake Switch	1	0	33
+855703570	Brake Pedal Position	100	0	25
+855703571	Engine Derate Switch	1	0	33
+855703572	Halt Brake Switch	1	0	33
+855703573	Engine Speed	8031.875	0	28
+855703574	Accelerator pedal (AP) position	100	0	25
+855703575	Retarder brake assist enabled	1	0	33
+855703576	Retarder shift assist enabled	1	0	33
+855703577	Actual Max Available Retarder Percent Torque	125	-125	25
+855703578	Selected Gear	125	-125	25
+855703579	Actual gear ratio	64255	0	0
+855703580	Current Gear	125	-125	25
+855703581	Engine speed at high idle point 6	8031.875	0	28
+855703582	Reference Engine Torque	64255	0	24
+855703583	Maximum momentary engine override speed point 7	8031.875	0	28
+855703584	Fuel Delivery Pressure	1000	0	9
+855703585	Extended crankcase blow-by pressure	125	0	9
+855703586	Engine Oil Level	100	0	25
+855703587	Engine Oil Pressure	1000	0	9
+855703588	Crankcase Pressure	251.99	-250	9
+855703589	Coolant Pressure	500	0	9
+855703590	Coolant Level	100	0	25
+855703591	Total engine hours	210554060.8	0	7
+855703592	Engine Coolant Temperature	210	-40	5
+855703593	Total Fuel Used	2105540608	0	14
+855703594	Fuel Rate	3212.75	0	13
+855703595	Instantaneous Fuel Economy	125.5	0	15
+855703596	Average Fuel Economy	125.5	0	15
+855703597	Throttle Position	100	0	25
+855703598	High resolution total vehicle distance	21055406	0	8
+855703599	Boost Pressure	500	0	9
+855703600	Intake Manifold Temperature	210	-40	5
+855703601	PTO Engaged	1	0	0
+855703602	PTO Split Shaft	1	0	0
+855703603	Service Distance	160640	?160635	8
+855703604	Tachograph Vehicle Speed	250996	0	11

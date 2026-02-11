@@ -1,0 +1,12 @@
+134283265	Tire Position 1 Temperature	125.0	0.0	5
+134283266	Tire Position 2 Temperature	125.0	0.0	5
+134283267	Tire Position 3 Temperature	125.0	0.0	5
+134283268	Tire Position 4 Temperature	125.0	0.0	5
+134283269	Tire Position 5 Temperature	125.0	0.0	5
+134283270	Tire Position 6 Temperature	125.0	0.0	5
+134283271	Tire Position 1 Pressure	1171.3	0.0	9
+134283272	Tire Position 2 Pressure	1171.3	0.0	9
+134283273	Tire Position 3 Pressure	1171.3	0.0	9
+134283274	Tire Position 4 Pressure	1171.3	0.0	9
+134283275	Tire Position 5 Pressure	1171.3	0.0	9
+134283276	Tire Position 6 Pressure	1171.3	0.0	9

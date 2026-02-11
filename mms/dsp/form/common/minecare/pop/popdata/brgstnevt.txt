@@ -1,0 +1,140 @@
+Oem Interface Timeout	503447520
+Oem Interface Normal	503447521
+Driver Interface Timeout	503447522
+Driver Interface Normal	503447523
+1St Tire Temp. - The First Threshold In The Upper Side Inactive	503382016
+1St Tire Temp. - The First Threshold In The Upper Side Active	503382017
+1St Tire Temp. - The Second Threshold In The Upper Side Inactive	503382018
+1St Tire Temp. - The Second Threshold In The Upper Side Active	503382019
+1St Tire Temp. - The Third Threshold In The Upper Side Inactive	503382020
+1St Tire Temp. - The Third Threshold In The Upper Side Active	503382021
+1St Tire Press. - The Threshold In The Upper Side Inactive	503382022
+1St Tire Press. - The Threshold In The Upper Side Active	503382023
+1St Tire Press. - The First Threshold In The Lower Side Inactive	503382024
+1St Tire Press. - The First Threshold In The Lower Side Active	503382025
+1St Tire Press. - The Second Threshold In The Lower Side Inactive	503382026
+1St Tire Press. - The Second Threshold In The Lower Side Active	503382027
+1St Tire Press. - The Third Threshold In The Lower Side Inactive	503382028
+1St Tire Press. - The Third Threshold In The Lower Side Active	503382029
+1St Tire Press. - The First Threshold Of Decrease Ratio Inactive	503382030
+1St Tire Press. - The First Threshold Of Decrease Ratio Active	503382031
+1St Tire Press. - The Second Threshold Of Decrease Ratio Inactive	503382032
+1St Tire Press. - The Second Threshold Of Decrease Ratio Active	503382033
+2Nd Tire Temp. - The First Threshold In The Upper Side Inactive	503382034
+2Nd Tire Temp. - The First Threshold In The Upper Side Active	503382035
+2Nd Tire Temp. - The Second Threshold In The Upper Side Inactive	503382036
+2Nd Tire Temp. - The Second Threshold In The Upper Side Active	503382037
+2Nd Tire Temp. - The Third Threshold In The Upper Side Inactive	503382038
+2Nd Tire Temp. - The Third Threshold In The Upper Side Active	503382039
+2Nd Tire Press. - The Threshold In The Upper Side Inactive	503382040
+2Nd Tire Press. - The Threshold In The Upper Side Active	503382041
+2Nd Tire Press. - The First Threshold In The Lower Side Inactive	503382042
+2Nd Tire Press. - The First Threshold In The Lower Side Active	503382043
+2Nd Tire Press. - The Second Threshold In The Lower Side Inactive	503382044
+2Nd Tire Press. - The Second Threshold In The Lower Side Active	503382045
+2Nd Tire Press. - The Third Threshold In The Lower Side Inactive	503382046
+2Nd Tire Press. - The Third Threshold In The Lower Side Active	503382047
+2Nd Tire Press. - The First Threshold Of Decrease Ratio Inactive	503382048
+2Nd Tire Press. - The First Threshold Of Decrease Ratio Active	503382049
+2Nd Tire Press. - The Second Threshold Of Decrease Ratio Inactive	503382050
+2Nd Tire Press. - The Second Threshold Of Decrease Ratio Active	503382051
+3St Tire Temp. - The First Threshold In The Upper Side Inactive	503382052
+3St Tire Temp. - The First Threshold In The Upper Side Active	503382053
+3St Tire Temp. - The Second Threshold In The Upper Side Inactive	503382054
+3St Tire Temp. - The Second Threshold In The Upper Side Active	503382055
+3Rd Tire Temp. - The Third Threshold In The Upper Side Inactive	503382056
+3Rd Tire Temp. - The Third Threshold In The Upper Side Active	503382057
+3St Tire Press. - The Threshold In The Upper Side Inactive	503382058
+3St Tire Press. - The Threshold In The Upper Side Active	503382059
+3St Tire Press. - The First Threshold In The Lower Side Inactive	503382060
+3St Tire Press. - The First Threshold In The Lower Side Active	503382061
+3St Tire Press. - The Second Threshold In The Lower Side Inactive	503382062
+3St Tire Press. - The Second Threshold In The Lower Side Active	503382063
+3St Tire Press. - The Third Threshold In The Lower Side Inactive	503382064
+3St Tire Press. - The Third Threshold In The Lower Side Active	503382065
+3St Tire Press. - The First Threshold Of Decrease Ratio Inactive	503382066
+3St Tire Press. - The First Threshold Of Decrease Ratio Active	503382067
+3St Tire Press. - The Second Threshold Of Decrease Ratio Inactive	503382068
+3St Tire Press. - The Second Threshold Of Decrease Ratio Active	503382069
+4Th Tire Temp. - The First Threshold In The Upper Side Inactive	503382070
+4Th Tire Temp. - The First Threshold In The Upper Side Active	503382071
+4Th Tire Temp. - The Second Threshold In The Upper Side Inactive	503382072
+4Th Tire Temp. - The Second Threshold In The Upper Side Active	503382073
+4Th Tire Temp. - The Third Threshold In The Upper Side Inactive	503382074
+4Th Tire Temp. - The Third Threshold In The Upper Side Active	503382075
+4Th Tire Press. - The Threshold In The Upper Side Inactive	503382076
+4Th Tire Press. - The Threshold In The Upper Side Active	503382077
+4Th Tire Press. - The First Threshold In The Lower Side Inactive	503382078
+4Th Tire Press. - The First Threshold In The Lower Side Active	503382079
+4Th Tire Press. - The Second Threshold In The Lower Side Inactive	503382080
+4Th Tire Press. - The Second Threshold In The Lower Side Active	503382081
+4Th Tire Press. - The Third Threshold In The Lower Side Inactive	503382082
+4Th Tire Press. - The Third Threshold In The Lower Side Active	503382083
+4Th Tire Press. - The First Threshold Of Decrease Ratio Inactive	503382084
+4Th Tire Press. - The First Threshold Of Decrease Ratio Active	503382085
+4Th Tire Press. - The Second Threshold Of Decrease Ratio Inactive	503382086
+4Th Tire Press. - The Second Threshold Of Decrease Ratio Active	503382087
+5Th Tire Temp. - The First Threshold In The Upper Side Inactive	503382088
+5Th Tire Temp. - The First Threshold In The Upper Side Active	503382089
+5Th Tire Temp. - The Second Threshold In The Upper Side Inactive	503382090
+5Th Tire Temp. - The Second Threshold In The Upper Side Active	503382091
+5Th Tire Temp. - The Third Threshold In The Upper Side Inactive	503382092
+5Th Tire Temp. - The Third Threshold In The Upper Side Active	503382093
+5Th Tire Press. - The Threshold In The Upper Side Inactive	503382094
+5Th Tire Press. - The Threshold In The Upper Side Active	503382095
+5Th Tire Press. - The First Threshold In The Lower Side Inactive	503382096
+5Th Tire Press. - The First Threshold In The Lower Side Active	503382097
+5Th Tire Press. - The Second Threshold In The Lower Side Inactive	503382098
+5Th Tire Press. - The Second Threshold In The Lower Side Active	503382099
+5Th Tire Press. - The Third Threshold In The Lower Side Inactive	503382100
+5Th Tire Press. - The Third Threshold In The Lower Side Active	503382101
+5Th Tire Press. - The First Threshold Of Decrease Ratio Inactive	503382102
+5Th Tire Press. - The First Threshold Of Decrease Ratio Active	503382103
+5Th Tire Press. - The Second Threshold Of Decrease Ratio Inactive	503382104
+5Th Tire Press. - The Second Threshold Of Decrease Ratio Active	503382105
+6Th Tire Temp. - The First Threshold In The Upper Side Inactive	503382106
+6Th Tire Temp. - The First Threshold In The Upper Side Active	503382107
+6Th Tire Temp. - The Second Threshold In The Upper Side Inactive	503382108
+6Th Tire Temp. - The Second Threshold In The Upper Side Active	503382109
+6Th Tire Temp. - The Third Threshold In The Upper Side Inactive	503382110
+6Th Tire Temp. - The Third Threshold In The Upper Side Active	503382111
+6Th Tire Press. - The Threshold In The Upper Side Inactive	503382112
+6Th Tire Press. - The Threshold In The Upper Side Active	503382113
+6Th Tire Press. - The First Threshold In The Lower Side Inactive	503382114
+6Th Tire Press. - The First Threshold In The Lower Side Active	503382115
+6Th Tire Press. - The Second Threshold In The Lower Side Inactive	503382116
+6Th Tire Press. - The Second Threshold In The Lower Side Active	503382117
+6Th Tire Press. - The Third Threshold In The Lower Side Inactive	503382118
+6Th Tire Press. - The Third Threshold In The Lower Side Active	503382119
+6Th Tire Press. - The First Threshold Of Decrease Ratio Inactive	503382120
+6Th Tire Press. - The First Threshold Of Decrease Ratio Active	503382121
+6Th Tire Press. - The Second Threshold Of Decrease Ratio Inactive	503382122
+6Th Tire Press. - The Second Threshold Of Decrease Ratio Active	503382123
+System Alarm - Inactive (Deprecated/Removed)	503382124
+System Alarm - Active (Deprecated/Removed)	503382125
+System Alarm - Position 1 Receiver Inactive	503382128
+System Alarm - Position 1 Receiver Active	503382129
+System Alarm - Position 2 Receiver Inactive	503382130
+System Alarm - Position 2 Receiver Active	503382131
+System Alarm - Position 3 Receiver Inactive	503382132
+System Alarm - Position 3 Receiver Active	503382133
+System Alarm - Position 4 Receiver Inactive	503382134
+System Alarm - Position 4 Receiver Active	503382135
+System Alarm - Ecu Memory Failure Inactive	503382136
+System Alarm - Ecu Memory Failure Active	503382137
+System Alarm - Sd Card Fault Inactive	503382138
+System Alarm - Sd Card Fault Active	503382139
+System Alarm - Bluetooth Module Fault Inactive	503382140
+System Alarm - Bluetooth Module Fault Active	503382141
+System Alarm - Position 1 Sensor Inactive	503382148
+System Alarm - Position 1 Sensor Active	503382149
+System Alarm - Position 2 Sensor Inactive	503382150
+System Alarm - Position 2 Sensor Active	503382151
+System Alarm - Position 3 Sensor Inactive	503382152
+System Alarm - Position 3 Sensor Active	503382153
+System Alarm - Position 4 Sensor Inactive	503382154
+System Alarm - Position 4 Sensor Active	503382155
+System Alarm - Position 5 Sensor Inactive	503382156
+System Alarm - Position 5 Sensor Active	503382157
+System Alarm - Position 6 Sensor Inactive	503382158
+System Alarm - Position 6 Sensor Active	503382159

@@ -1,0 +1,388 @@
+100728832	Engine Sensor 1	0	0	0
+100728833	Engine Sensor 2	0	0	0
+100728834	Engine Sensor 3	0	0	0
+100728835	Engine Sensor 4	0	0	0
+100728836	Engine Sensor 5	0	0	0
+100728837	Engine Sensor 6	0	0	0
+100728838	Engine Sensor 7	0	0	0
+100728839	Engine Sensor 8	0	0	0
+100728840	Engine Sensor 9	0	0	0
+100728841	Engine Sensor 10	0	0	0
+100728842	Engine Sensor 11	0	0	0
+100728843	Engine Sensor 12	0	0	0
+100728844	Engine Sensor 13	0	0	0
+100728845	Engine Sensor 14	0	0	0
+100728846	Engine Sensor 15	0	0	0
+100728847	Engine Sensor 16	0	0	0
+100728848	Engine Sensor 17	0	0	0
+100728849	Engine Sensor 18	0	0	0
+100728850	Engine Sensor 19	0	0	0
+100728851	Engine Sensor 20	0	0	0
+100728852	Engine Oil Level	0	0	0
+100728853	Engine Oil Pressure	0	0	0
+100728854	Engine Oil Temperature	0	0	0
+100728855	Coolant Level	0	0	0
+100728856	Coolant Pressure	0	0	0
+100728857	Coolant Temperature	0	0	0
+100728858	Blowby Pressure	0	0	0
+100728859	Engine Speed	0	0	0
+100728860	Brake Horsepower	0	0	0
+100728861	Pre Lube Oil Filter Pressure	0	0	0
+100728862	Post Lube Oil Filter Pressure	0	0	0
+100728863	Lube Oil Temperature	0	0	0
+100728864	Left Bank Compressor Inlet Air Temperature	0	0	0
+100728865	Right Bank Compressor Inlet Air Temperature	0	0	0
+100728866	Ambient Air Pressure	0	0	0
+100728867	Left Intake Manifold Temperature	0	0	0
+100728868	Right Intake Manifold Temperature	0	0	0
+100728869	Left Bank Intake Manifold Pressure	0	0	0
+100728870	Right Bank Intake Manifold Pressure	0	0	0
+100728871	Left Bank Exhaust Port Temperature	0	0	0
+100728872	Right Bank Exhaust Port Temperature	0	0	0
+100728873	Oil Filter Differential Pressure	0	0	0
+100728874	Engine Fan Speed	0	0	0
+100728875	Fuel Level	0	0	0
+100729832	Hydraulic Sensor 1	0	0	0
+100729833	Hydraulic Sensor 2	0	0	0
+100729834	Hydraulic Sensor 3	0	0	0
+100729835	Hydraulic Sensor 4	0	0	0
+100729836	Hydraulic Sensor 5	0	0	0
+100729837	Hydraulic Sensor 6	0	0	0
+100729838	Hydraulic Sensor 7	0	0	0
+100729839	Hydraulic Sensor 8	0	0	0
+100729840	Hydraulic Sensor 9	0	0	0
+100729841	Hydraulic Sensor 10	0	0	0
+100729842	Hydraulic Sensor 11	0	0	0
+100729843	Hydraulic Sensor 12	0	0	0
+100729844	Hydraulic Sensor 13	0	0	0
+100729845	Hydraulic Sensor 14	0	0	0
+100729846	Hydraulic Sensor 15	0	0	0
+100729847	Hydraulic Sensor 16	0	0	0
+100729848	Hydraulic Sensor 17	0	0	0
+100729849	Hydraulic Sensor 18	0	0	0
+100729850	Hydraulic Sensor 19	0	0	0
+100729851	Hydraulic Sensor 20	0	0	0
+100729852	Hydraulic Oil Level	0	0	0
+100729853	Hydraulic Oil Pressure	0	0	0
+100729854	Hydraulic Oil Temperature	0	0	0
+100729855	Hydraulic Tank Temperature	0	0	0
+100729856	Hoist Cylinder Press and Lift	0	0	0
+100729857	Trolley Pump Pressure	0	0	0
+100729858	Steering Pump Pressure	0	0	0
+100729859	Steering Accum Pressure	0	0	0
+100729860	Pump Inlet Valve Status	0	0	0
+100729861	Case Drain Filter Status	0	0	0
+100729862	High Pressure Filter Status	0	0	0
+100729863	Hoist Screen Status	0	0	0
+100729864	Hydraulic Return Filter Status	0	0	0
+100729865	Front Pump Temperature	0	0	0
+100729866	Rear Pump Temperature	0	0	0
+100729867	Hydraulic Fan Speed	0	0	0
+100729868	Lift Cylinder Pressure	0	0	0
+100729869	Tilt Cylinder Pressure	0	0	0
+100729870	Lift Link Position	0	0	0
+100729871	Tilt Link Position	0	0	0
+100729872	Lift Lever Postion	0	0	0
+100729873	Tilt Lever Position	0	0	0
+100729874	Lift Raise Current	0	0	0
+100729875	Lift Lower Current	0	0	0
+100729876	Tilt Dump Current	0	0	0
+100729877	Tilt Rack Current	0	0	0
+100729878	Implement Lock	0	0	0
+100729879	Variable Pump Pressure	0	0	0
+100729880	Fixed Pump Pressure	0	0	0
+100729881	Lift Link Sensor Status	0	0	0
+100729882	Tilt Link Sensor Status	0	0	0
+100729883	Lift Lever Sensor Status	0	0	0
+100729884	Tilt Lever Sensor Status	0	0	0
+100730832	Electrical Sensor 1	0	0	0
+100730833	Electrical Sensor 2	0	0	0
+100730834	Electrical Sensor 3	0	0	0
+100730835	Electrical Sensor 4	0	0	0
+100730836	Electrical Sensor 5	0	0	0
+100730837	Electrical Sensor 6	0	0	0
+100730838	Electrical Sensor 7	0	0	0
+100730839	Electrical Sensor 8	0	0	0
+100730840	Electrical Sensor 9	0	0	0
+100730841	Electrical Sensor 10	0	0	0
+100730842	Electrical Sensor 11	0	0	0
+100730843	Electrical Sensor 12	0	0	0
+100730844	Electrical Sensor 13	0	0	0
+100730845	Electrical Sensor 14	0	0	0
+100730846	Electrical Sensor 15	0	0	0
+100730847	Electrical Sensor 16	0	0	0
+100730848	Electrical Sensor 17	0	0	0
+100730849	Electrical Sensor 18	0	0	0
+100730850	Electrical Sensor 19	0	0	0
+100730851	Electrical Sensor 20	0	0	0
+100730852	Battery Voltage	0	0	0
+100730853	Alternator Voltage	0	0	0
+100730854	System Voltage	0	0	0
+100731832	Drivetrain Sensor 1	0	0	0
+100731833	Drivetrain Sensor 2	0	0	0
+100731834	Drivetrain Sensor 3	0	0	0
+100731835	Drivetrain Sensor 4	0	0	0
+100731836	Drivetrain Sensor 5	0	0	0
+100731837	Drivetrain Sensor 6	0	0	0
+100731838	Drivetrain Sensor 7	0	0	0
+100731839	Drivetrain Sensor 8	0	0	0
+100731840	Drivetrain Sensor 9	0	0	0
+100731841	Drivetrain Sensor 10	0	0	0
+100731842	Drivetrain Sensor 11	0	0	0
+100731843	Drivetrain Sensor 12	0	0	0
+100731844	Drivetrain Sensor 13	0	0	0
+100731845	Drivetrain Sensor 14	0	0	0
+100731846	Drivetrain Sensor 15	0	0	0
+100731847	Drivetrain Sensor 16	0	0	0
+100731848	Drivetrain Sensor 17	0	0	0
+100731849	Drivetrain Sensor 18	0	0	0
+100731850	Drivetrain Sensor 19	0	0	0
+100731851	Drivetrain Sensor 20	0	0	0
+100731852	Ground fault current	0	0	0
+100731853	Motor#1 armature current	0	0	0
+100731854	Motor#2 armature current	0	0	0
+100731855	Motor field current	0	0	0
+100731856	Alternator field current	0	0	0
+100731857	Accelerator pedal input request 	0	0	0
+100731858	Retard pedal input request	0	0	0
+100731859	Alternator field voltage	0	0	0
+100731860	Alternator output voltage	0	0	0
+100731861	Foot pedal reference voltage	0	0	0
+100731862	Motor #1 revolutions 	0	0	0
+100731863	Motor #2 revolutions	0	0	0
+100731864	Motor #1 speed 	0	0	0
+100731865	Motor #2 speed	0	0	0
+100731866	Motor #1 Temperature	0	0	0
+100731867	Motor #2 Temperature	0	0	0
+100731868	Commanded Engine Speed	0	0	0
+100731869	Power Output	0	0	0
+100731870	Accelerator pedal switch status	0	0	0
+100731871	Retard pedal switch status	0	0	0
+100731872	Blower pressure switch status	0	0	0
+100731873	Dump override switch status	0	0	0
+100731874	Engine shutdown status	0	0	0
+100731875	Idle Switch status	0	0	0
+100731876	Differential Oil Level	0	0	0
+100731877	Differential Temperature	0	0	0
+100731878	Differential Filter Switch Status	0	0	0
+100731879	Differential Lube Pressure	0	0	0
+100731880	Differential Fan Speed	0	0	0
+100731881	Gear Select	0	0	0
+100731882	Actual Gear	0	0	0
+100731883	Transmission Out Revolutions	0	0	0
+100731884	Transmission Charge Filter Status	0	0	0
+100731885	Transmission Lube Filter Status	0	0	0
+100731886	Transmission Slip Status	0	0	0
+100731887	Lockup Slip Status	0	0	0
+100731888	Transmission Lube Temperature	0	0	0
+100731889	Transmission Lock Status	0	0	0
+100731890	Transmission Pump Pressure	0	0	0
+100731891	Front Axle Temperature	0	0	0
+100731892	Rear Axle Temperature	0	0	0
+100731893	Implement Oil Level	0	0	0
+100731894	Implement Filter Status	0	0	0
+100731895	Implement Oil Pressure	0	0	0
+100732832	Brake Sensor 1	0	0	0
+100732833	Brake Sensor 2	0	0	0
+100732834	Brake Sensor 3	0	0	0
+100732835	Brake Sensor 4	0	0	0
+100732836	Brake Sensor 5	0	0	0
+100732837	Brake Sensor 6	0	0	0
+100732838	Brake Sensor 7	0	0	0
+100732839	Brake Sensor 8	0	0	0
+100732840	Brake Sensor 9	0	0	0
+100732841	Brake Sensor 10	0	0	0
+100732842	Brake Sensor 11	0	0	0
+100732843	Brake Sensor 12	0	0	0
+100732844	Brake Sensor 13	0	0	0
+100732845	Brake Sensor 14	0	0	0
+100732846	Brake Sensor 15	0	0	0
+100732847	Brake Sensor 16	0	0	0
+100732848	Brake Sensor 17	0	0	0
+100732849	Brake Sensor 18	0	0	0
+100732850	Brake Sensor 19	0	0	0
+100732851	Brake Sensor 20	0	0	0
+100732852	Front Service Brake Pressure	0	0	0
+100732853	Front Brake Oil Temperature	0	0	0
+100732854	Rear Brake Oil Temperature	0	0	0
+100732855	Brake Oil Level	0	0	0
+100732856	Retarder Position	0	0	0
+100732857	Retarder Temperature	0	0	0
+100732858	Parking brake switch status	0	0	0
+100732859	Service brake switch status	0	0	0
+100732860	Front Brake Pressure	0	0	0
+100732861	Rear Brake Pressure	0	0	0
+100732862	Primary Brake Pressure	0	0	0
+100732863	Secondary Brake Pressure	0	0	0
+100732864	Brake Filter status	0	0	0
+100732865	Brake Stroke status	0	0	0
+100732866	Front Brake Accumulator Pressure	0	0	0
+100732867	Rear Brake Accumulator Pressure	0	0	0
+100733832	Aux. System Sensor 1	0	0	0
+100733833	Aux. System Sensor 2	0	0	0
+100733834	Aux. System Sensor 3	0	0	0
+100733835	Aux. System Sensor 4	0	0	0
+100733836	Aux. System Sensor 5	0	0	0
+100733837	Aux. System Sensor 6	0	0	0
+100733838	Aux. System Sensor 7	0	0	0
+100733839	Aux. System Sensor 8	0	0	0
+100733840	Aux. System Sensor 9	0	0	0
+100733841	Aux. System Sensor 10	0	0	0
+100733842	Aux. System Sensor 11	0	0	0
+100733843	Aux. System Sensor 12	0	0	0
+100733844	Aux. System Sensor 13	0	0	0
+100733845	Aux. System Sensor 14	0	0	0
+100733846	Aux. System Sensor 15	0	0	0
+100733847	Aux. System Sensor 16	0	0	0
+100733848	Aux. System Sensor 17	0	0	0
+100733849	Aux. System Sensor 18	0	0	0
+100733850	Aux. System Sensor 19	0	0	0
+100733851	Aux. System Sensor 20	0	0	0
+100733852	Steering Pressure	0	0	0
+100733853	Steering Flow	0	0	0
+100733854	Steering Temperature	0	0	0
+100733855	Steering Filter Status	0	0	0
+100733856	Steering Pilot Pressure	0	0	0
+100733857	Steering Oil Level	0	0	0
+100733858	Steering Lock Status	0	0	0
+100734832	Frame Sensor 1	0	0	0
+100734833	Frame Sensor 2	0	0	0
+100734834	Frame Sensor 3	0	0	0
+100734835	Frame Sensor 4	0	0	0
+100734836	Frame Sensor 5	0	0	0
+100734837	Frame Sensor 6	0	0	0
+100734838	Frame Sensor 7	0	0	0
+100734839	Frame Sensor 8	0	0	0
+100734840	Frame Sensor 9	0	0	0
+100734841	Frame Sensor 10	0	0	0
+100734842	Frame Sensor 11	0	0	0
+100734843	Frame Sensor 12	0	0	0
+100734844	Frame Sensor 13	0	0	0
+100734845	Frame Sensor 14	0	0	0
+100734846	Frame Sensor 15	0	0	0
+100734847	Frame Sensor 16	0	0	0
+100734848	Frame Sensor 17	0	0	0
+100734849	Frame Sensor 18	0	0	0
+100734850	Frame Sensor 19	0	0	0
+100734851	Frame Sensor 20	0	0	0
+100734852	LF Strut Pressure	0	0	0
+100734853	LR Strut Pressure	0	0	0
+100734854	RF Strut Pressure	0	0	0
+100734855	RR Strut Pressure	0	0	0
+100735832	Drill Sensor 1	0	0	0
+100735833	Drill Sensor 2	0	0	0
+100735834	Drill Sensor 3	0	0	0
+100735835	Drill Sensor 4	0	0	0
+100735836	Drill Sensor 5	0	0	0
+100735837	Drill Sensor 6	0	0	0
+100735838	Drill Sensor 7	0	0	0
+100735839	Drill Sensor 8	0	0	0
+100735840	Drill Sensor 9	0	0	0
+100735841	Drill Sensor 10	0	0	0
+100735842	Drill Sensor 11	0	0	0
+100735843	Drill Sensor 12	0	0	0
+100735844	Drill Sensor 13	0	0	0
+100735845	Drill Sensor 14	0	0	0
+100735846	Drill Sensor 15	0	0	0
+100735847	Drill Sensor 16	0	0	0
+100735848	Drill Sensor 17	0	0	0
+100735849	Drill Sensor 18	0	0	0
+100735850	Drill Sensor 19	0	0	0
+100735851	Drill Sensor 20	0	0	0
+100735852	Main Air Pressure	0	0	0
+100735853	Rotary Current	0	0	0
+100735854	Bit Air Pressure	0	0	0
+100735855	Hydraulic Pull-down Pressure	0	0	0
+100735856	Pull-down Current	0	0	0
+100735857	Ambient Temperature	0	0	0
+100735858	Shaft Encoder	0	0	0
+100735859	Drill string Revolutions	0	0	0
+100735860	Rotary Motor Current Sensor	0	0	0
+100736832	Shovel Sensor 1	0	0	0
+100736833	Shovel Sensor 2	0	0	0
+100736834	Shovel Sensor 3	0	0	0
+100736835	Shovel Sensor 4	0	0	0
+100736836	Shovel Sensor 5	0	0	0
+100736837	Shovel Sensor 6	0	0	0
+100736838	Shovel Sensor 7	0	0	0
+100736839	Shovel Sensor 8	0	0	0
+100736840	Shovel Sensor 9	0	0	0
+100736841	Shovel Sensor 10	0	0	0
+100736842	Shovel Sensor 11	0	0	0
+100736843	Shovel Sensor 12	0	0	0
+100736844	Shovel Sensor 13	0	0	0
+100736845	Shovel Sensor 14	0	0	0
+100736846	Shovel Sensor 15	0	0	0
+100736847	Shovel Sensor 16	0	0	0
+100736848	Shovel Sensor 17	0	0	0
+100736849	Shovel Sensor 18	0	0	0
+100736850	Shovel Sensor 19	0	0	0
+100736851	Shovel Sensor 20	0	0	0
+100736852	Swing Status	0	0	0
+100736853	Hoist Status	0	0	0
+100736854	Trip Signal Status	0	0	0
+100736855	Propel Status	0	0	0
+100736856	Front Swing Oil Level	0	0	0
+100736857	Left Rear Swing Oil Level	0	0	0
+100736858	Right Rear Swing Oil Level	0	0	0
+100736859	Swing Brake Status	0	0	0
+100736860	Swing Pump Status	0	0	0
+100736861	Left Swing Motor Status	0	0	0
+100736862	Right Swing Motor Status	0	0	0
+100736863	Swing Pressure Switch Status	0	0	0
+100736864	Travel Pressure Switch Status	0	0	0
+100736865	Boom Float Pressure	0	0	0
+100736866	Boom Float Switch Status	0	0	0
+100736867	Horn Switch Status	0	0	0
+100736868	Service Console Status	0	0	0
+100736869	Travel Alarm Status	0	0	0
+100736870	Air Pressure	0	0	0
+100736871	Ladder Position Status	0	0	0
+100736872	Travel Brake Status	0	0	0
+100737832	Vital Signs Analog Input 1	0	0	0
+100737833	Vital Signs Analog Input 2	0	0	0
+100737834	Vital Signs Analog Input 3	0	0	0
+100737835	Vital Signs Analog Input 4	0	0	0
+100737836	Vital Signs Analog Input 5	0	0	0
+100737837	Vital Signs Analog Input 6	0	0	0
+100737838	Vital Signs Analog Input 7	0	0	0
+100737839	Vital Signs Analog Input 8	0	0	0
+100737840	Vital Signs Digital Input 1	0	0	0
+100737841	Vital Signs Digital Input 2	0	0	0
+100737842	Vital Signs Digital Input 3	0	0	0
+100737843	Vital Signs Digital Input 4	0	0	0
+100737844	Vital Signs Digital Input 5	0	0	0
+100737845	Vital Signs Digital Input 6	0	0	0
+100737846	Vital Signs Digital Input 7	0	0	0
+100737847	Vital Signs Digital Input 8	0	0	0
+100737848	Vital Signs Digital Input 9	0	0	0
+100737849	Vital Signs Digital Input 10	0	0	0
+100737850	Vital Signs Digital Input 11	0	0	0
+100737851	Vital Signs Digital Input 12	0	0	0
+100737852	Vital Signs Digital Input 13	0	0	0
+100737853	Vital Signs Digital Input 14	0	0	0
+100737854	Vital Signs Digital Input 15	0	0	0
+100737855	Vital Signs Digital Input 16	0	0	0
+100737856	General Sensor 1	0	0	0
+100737857	General Sensor 2	0	0	0
+100737858	General Sensor 3	0	0	0
+100737859	General Sensor 4	0	0	0
+100737860	General Sensor 5	0	0	0
+100737861	General Sensor 6	0	0	0
+100737862	General Sensor 7	0	0	0
+100737863	General Sensor 8	0	0	0
+100737864	General Sensor 9	0	0	0
+100737865	General Sensor 10	0	0	0
+100737866	Body Position 	0	0	0
+100737867	Body Lever Status	0	0	0
+100737868	Payload	0	0	0
+100737869	Cabin Temperature	0	0	0
+100737870	Ambient Temperature	0	0	0
+100737871	Engine Shutdown Switch Status	0	0	0
+100737872	Atmospheric Pressure	0	0	0
+100737873	Lube Pressure	0	0	0
+100737874	AutoLube	0	0	0
+100737875	Machine Pitch	0	0	0
+100737876	Machine Rack	0	0	0
+100737877	Reel Lube Switch Status	0	0	0
+100737878	Key Switch Status	0	0	0

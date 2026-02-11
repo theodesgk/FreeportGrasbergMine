@@ -1,0 +1,2554 @@
+Dipper (calculated)	956366849
+Dump (calculated)	956366851
+TSC Is Inactive - Inactive	956366852
+TSC Is Inactive - Active	956366853
+Propulsion Inhibit Request - Inactive	956366854
+Propulsion Inhibit Request - Active	956366855
+Park Brake Switch On D - Inactive	956366856
+Park Brake Switch On D - Active	956366857
+Dump Body Up - Inactive	956366858
+Dump Body Up - Active	956366859
+Park Brake Pressure Switch - Inactive	956366860
+Park Brake Pressure Switch - Active	956366861
+Park Brake Switch On T - Inactive	956366862
+Park Brake Switch On T - Active	956366863
+Propulsion Inhibit/Enable Switch - Inactive	956366864
+Propulsion Inhibit/Enable Switch - Active	956366865
+Service Brake Proximity Switch - Inactive	956366866
+Service Brake Proximity Switch - Active	956366867
+Slip Slide Control Switch - Inactive	956366868
+Slip Slide Control Switch - Active	956366869
+Windshield Washer Cleaning Fluid Switch - Inactive	956366870
+Windshield Washer Cleaning Fluid Switch - Active	956366871
+Wiper Code A - Inactive	956366872
+Wiper Code A - Active	956366873
+Wiper Code B - Inactive	956366874
+Wiper Code B - Active	956366875
+Wiper Code C - Inactive	956366876
+Wiper Code C - Active	956366877
+Alarm Test Switch - Inactive	956366878
+Alarm Test Switch - Active	956366879
+Auto-Lube Pressure Switch - Inactive	956366880
+Auto-Lube Pressure Switch - Active	956366881
+Axle Box Hi Temperature Switch - Inactive	956366882
+Axle Box Hi Temperature Switch - Active	956366883
+Brake And Steering Filter Bypass Switch - Inactive	956366884
+Brake And Steering Filter Bypass Switch - Active	956366885
+Brake And Steering Filter Bypass Switch (Return) - Inactive	956366886
+Brake And Steering Filter Bypass Switch (Return) - Active	956366887
+Clearance Lights Switch - Inactive	956366888
+Clearance Lights Switch - Active	956366889
+Cruise Control Adjustment Switch (Down) - Inactive	956366890
+Cruise Control Adjustment Switch (Down) - Active	956366891
+Axle Box Light Switch - Inactive	956366892
+Axle Box Light Switch - Active	956366893
+Brake And Steering Hydraulic Fluid Level OK - Inactive	956366894
+Brake And Steering Hydraulic Fluid Level OK - Active	956366895
+Hydraulic Tank Level OK (Hoist/Dump) - Inactive	956366896
+Hydraulic Tank Level OK (Hoist/Dump) - Active	956366897
+Ladder Propulsion Inhibit - Inactive	956366898
+Ladder Propulsion Inhibit - Active	956366899
+Ladder Up Proximity Switch - Inactive	956366900
+Ladder Up Proximity Switch - Active	956366901
+Manual Lube Switch - Inactive	956366902
+Manual Lube Switch - Active	956366903
+Main Blower Pressure Switch - Inactive	956366904
+Main Blower Pressure Switch - Active	956366905
+Dump Body Override Switch - Inactive	956366906
+Dump Body Override Switch - Active	956366907
+Park Brake Pressure Switch - Inactive	956366908
+Park Brake Pressure Switch - Active	956366909
+Dump Body Fully Up - Inactive	956366910
+Dump Body Fully Up - Active	956366911
+Engine Stop Switch - Inactive	956366912
+Engine Stop Switch - Active	956366913
+Fault Reset Switch - Inactive	956366914
+Fault Reset Switch - Active	956366915
+Hand Brake Switch - Inactive	956366916
+Hand Brake Switch - Active	956366917
+Engine High Idle Switch - Inactive	956366918
+Engine High Idle Switch - Active	956366919
+Cruise Control Switch Enable - Inactive	956366920
+Cruise Control Switch Enable - Active	956366921
+Cruise Control Adjustment Up - Inactive	956366922
+Cruise Control Adjustment Up - Active	956366923
+Curve Control Enable Switch - Inactive	956366924
+Curve Control Enable Switch - Active	956366925
+Door Proximity Switch - Inactive	956366926
+Door Proximity Switch - Active	956366927
+Hoist Filter Bypass Pressure Switch 1 - Inactive	956366928
+Hoist Filter Bypass Pressure Switch 1 - Active	956366929
+Hoist Filter Bypass Pressure Switch 2 - Inactive	956366930
+Hoist Filter Bypass Pressure Switch 2 - Active	956366931
+Hoist Return Filter Bypass Pressure Switch - Inactive	956366932
+Hoist Return Filter Bypass Pressure Switch - Active	956366933
+Dump Body Fully Down - Inactive	956366934
+Dump Body Fully Down - Active	956366935
+Hoist Oil Cooling Solenoid - Inactive	956366936
+Hoist Oil Cooling Solenoid - Active	956366937
+Backup Indicator - Inactive	956366938
+Backup Indicator - Active	956366939
+Brake And Steering Fault Indicator - Inactive	956366940
+Brake And Steering Fault Indicator - Active	956366941
+Fault Buzzer - Inactive	956366942
+Fault Buzzer - Active	956366943
+Dump Body Up Indicator - Inactive	956366944
+Dump Body Up Indicator - Active	956366945
+Dump Body Clearance Lights - Inactive	956366946
+Dump Body Clearance Lights - Active	956366947
+Drive System Fault Indicator - Inactive	956366948
+Drive System Fault Indicator - Active	956366949
+Gear Oil Cooling Solenoid Left (Bypass Cooler) - Inactive	956366950
+Gear Oil Cooling Solenoid Left (Bypass Cooler) - Active	956366951
+Gear Oil Cooling Solenoid Right (Bypass Cooler) - Inactive	956366952
+Gear Oil Cooling Solenoid Right (Bypass Cooler) - Active	956366953
+Gear Oil Cooling Solenoid Flow Disable - Inactive	956366954
+Gear Oil Cooling Solenoid Flow Disable - Active	956366955
+Hand Brake Indicator - Inactive	956366956
+Hand Brake Indicator - Active	956366957
+High Wiper Command - Inactive	956366958
+High Wiper Command - Active	956366959
+Hour Meter Enable - Inactive	956366960
+Hour Meter Enable - Active	956366961
+Hoist Float Command - Inactive	956366962
+Hoist Float Command - Active	956366963
+Ladder Lower Enable - Inactive	956366964
+Ladder Lower Enable - Active	956366965
+Low Wiper Command - Inactive	956366966
+Low Wiper Command - Active	956366967
+Hydraulic Fault Indicator - Inactive	956366968
+Hydraulic Fault Indicator - Active	956366969
+Park Brake Indicator - Inactive	956366970
+Park Brake Indicator - Active	956366971
+Park Brake Cab Light - Inactive	956366972
+Park Brake Cab Light - Active	956366973
+Park Brake Solenoid Command - Inactive	956366974
+Park Brake Solenoid Command - Active	956366975
+Propulsion Inhibit Indicator - Inactive	956366976
+Propulsion Inhibit Indicator - Active	956366977
+Steering Pressure Bleed Down Solenoid - Inactive	956366978
+Steering Pressure Bleed Down Solenoid - Active	956366979
+Engine Start Enable - Inactive	956366980
+Engine Start Enable - Active	956366981
+Fc1 Electronic (Card) - (HIGH) - Inactive	956366982
+Fc1 Electronic (Card) - (HIGH) - Active	956366983
+Fc1 Power Part (Power Stack) - (SILENT) - Inactive	956366984
+Fc1 Power Part (Power Stack) - (SILENT) - Active	956366985
+Fc1 No Motor Torque - (SILENT) - Inactive	956366986
+Fc1 No Motor Torque - (SILENT) - Active	956366987
+Fc1 Ch Overvoltage - (HIGH) - Inactive	956366988
+Fc1 Ch Overvoltage - (HIGH) - Active	956366989
+Fc1 Ch Undervoltage - (HIGH) - Inactive	956366990
+Fc1 Ch Undervoltage - (HIGH) - Active	956366991
+Fc1 Encoder - (HIGH) - Inactive	956366992
+Fc1 Encoder - (HIGH) - Active	956366993
+Fc1 Overspeed - (MEDIUM) - Inactive	956366994
+Fc1 Overspeed - (MEDIUM) - Active	956366995
+Fc1 No Lifesign - (HIGH) - Inactive	956366996
+Fc1 No Lifesign - (HIGH) - Active	956366997
+Fc1 No Param Received - (HIGH) - Inactive	956366998
+Fc1 No Param Received - (HIGH) - Active	956366999
+Fc1 Tracking Fault - (SILENT) - Inactive	956367000
+Fc1 Tracking Fault - (SILENT) - Active	956367001
+Fc1 Can Error - (HIGH) - Inactive	956367002
+Fc1 Can Error - (HIGH) - Active	956367003
+Fc1 No Drive Ready - (HIGH) - Inactive	956367004
+Fc1 No Drive Ready - (HIGH) - Active	956367005
+Fc1 No Valid Parameter - (SILENT) - Inactive	956367006
+Fc1 No Valid Parameter - (SILENT) - Active	956367007
+Fc1 Chopper Overload - (SILENT) - Inactive	956367008
+Fc1 Chopper Overload - (SILENT) - Active	956367009
+Fc1 Earth Fault - (SILENT) - Inactive	956367010
+Fc1 Earth Fault - (SILENT) - Active	956367011
+Fc1 Motor Phase Fault - (SILENT) - Inactive	956367012
+Fc1 Motor Phase Fault - (SILENT) - Active	956367013
+Fc1 Emergency Stop - (CRITICAL) - Inactive	956367014
+Fc1 Emergency Stop - (CRITICAL) - Active	956367015
+Fc1 Overcurrent - (HIGH) - Inactive	956367016
+Fc1 Overcurrent - (HIGH) - Active	956367017
+Fc1 Igbt Overload - (MEDIUM) - Inactive	956367018
+Fc1 Igbt Overload - (MEDIUM) - Active	956367019
+Fc1 Drive Deadlocked - (MEDIUM) - Inactive	956367020
+Fc1 Drive Deadlocked - (MEDIUM) - Active	956367021
+Fc1 Gate Driver - (HIGH) - Inactive	956367022
+Fc1 Gate Driver - (HIGH) - Active	956367023
+Fc1 Undefined - (HIGH) - Inactive	956367024
+Fc1 Undefined - (HIGH) - Active	956367025
+Fc2 Electronic (Card) - (HIGH) - Inactive	956367026
+Fc2 Electronic (Card) - (HIGH) - Active	956367027
+Fc2 Power Part (Power Stack) - (SILENT) - Inactive	956367028
+Fc2 Power Part (Power Stack) - (SILENT) - Active	956367029
+Fc2 No Motor Torque - (SILENT) - Inactive	956367030
+Fc2 No Motor Torque - (SILENT) - Active	956367031
+Fc2 Ch Overvoltage - (HIGH) - Inactive	956367032
+Fc2 Ch Overvoltage - (HIGH) - Active	956367033
+Fc2 Ch Undervoltage - (HIGH) - Inactive	956367034
+Fc2 Ch Undervoltage - (HIGH) - Active	956367035
+Fc2 Encoder - (HIGH) - Inactive	956367036
+Fc2 Encoder - (HIGH) - Active	956367037
+Fc2 Overspeed - (MEDIUM) - Inactive	956367038
+Fc2 Overspeed - (MEDIUM) - Active	956367039
+Fc2 No Lifesign - (HIGH) - Inactive	956367040
+Fc2 No Lifesign - (HIGH) - Active	956367041
+Fc2 No Param Received - (HIGH) - Inactive	956367042
+Fc2 No Param Received - (HIGH) - Active	956367043
+Fc2 Tracking Fault - (SILENT) - Inactive	956367044
+Fc2 Tracking Fault - (SILENT) - Active	956367045
+Fc2 Can Error - (HIGH) - Inactive	956367046
+Fc2 Can Error - (HIGH) - Active	956367047
+Fc2 No Drive Ready - (HIGH) - Inactive	956367048
+Fc2 No Drive Ready - (HIGH) - Active	956367049
+Fc2 No Valid Parameter - (SILENT) - Inactive	956367050
+Fc2 No Valid Parameter - (SILENT) - Active	956367051
+Fc2 Chopper Overload - (SILENT) - Inactive	956367052
+Fc2 Chopper Overload - (SILENT) - Active	956367053
+Fc2 Earth Fault - (SILENT) - Inactive	956367054
+Fc2 Earth Fault - (SILENT) - Active	956367055
+Fc2 Motor Phase Fault - (SILENT) - Inactive	956367056
+Fc2 Motor Phase Fault - (SILENT) - Active	956367057
+Fc2 Emergency Stop - (CRITICAL) - Inactive	956367058
+Fc2 Emergency Stop - (CRITICAL) - Active	956367059
+Fc2 Overcurrent - (HIGH) - Inactive	956367060
+Fc2 Overcurrent - (HIGH) - Active	956367061
+Fc2 Igbt Overload - (MEDIUM) - Inactive	956367062
+Fc2 Igbt Overload - (MEDIUM) - Active	956367063
+Fc2 Drive Deadlocked - (MEDIUM) - Inactive	956367064
+Fc2 Drive Deadlocked - (MEDIUM) - Active	956367065
+Fc2 Gate Driver - (HIGH) - Inactive	956367066
+Fc2 Gate Driver - (HIGH) - Active	956367067
+Fc2 Undefined - (HIGH) - Inactive	956367068
+Fc2 Undefined - (HIGH) - Active	956367069
+Fc3 Electronic (Card) - (HIGH) - Inactive	956367070
+Fc3 Electronic (Card) - (HIGH) - Active	956367071
+Fc3 Power Part (Power Stack) - (SILENT) - Inactive	956367072
+Fc3 Power Part (Power Stack) - (SILENT) - Active	956367073
+Fc3 No Motor Torque - (SILENT) - Inactive	956367074
+Fc3 No Motor Torque - (SILENT) - Active	956367075
+Fc3 Ch Overvoltage - (HIGH) - Inactive	956367076
+Fc3 Ch Overvoltage - (HIGH) - Active	956367077
+Fc3 Ch Undervoltage - (HIGH) - Inactive	956367078
+Fc3 Ch Undervoltage - (HIGH) - Active	956367079
+Fc3 Encoder - (HIGH) - Inactive	956367080
+Fc3 Encoder - (HIGH) - Active	956367081
+Fc3 Overspeed - (MEDIUM) - Inactive	956367082
+Fc3 Overspeed - (MEDIUM) - Active	956367083
+Fc3 No Lifesign - (HIGH) - Inactive	956367084
+Fc3 No Lifesign - (HIGH) - Active	956367085
+Fc3 No Param Received - (HIGH) - Inactive	956367086
+Fc3 No Param Received - (HIGH) - Active	956367087
+Fc3 Tracking Fault - (SILENT) - Inactive	956367088
+Fc3 Tracking Fault - (SILENT) - Active	956367089
+Fc3 Can Error - (HIGH) - Inactive	956367090
+Fc3 Can Error - (HIGH) - Active	956367091
+Fc3 No Drive Ready - (HIGH) - Inactive	956367092
+Fc3 No Drive Ready - (HIGH) - Active	956367093
+Fc3 No Valid Parameter - (SILENT) - Inactive	956367094
+Fc3 No Valid Parameter - (SILENT) - Active	956367095
+Fc3 Chopper Overload - (SILENT) - Inactive	956367096
+Fc3 Chopper Overload - (SILENT) - Active	956367097
+Fc3 Earth Fault - (SILENT) - Inactive	956367098
+Fc3 Earth Fault - (SILENT) - Active	956367099
+Fc3 Motor Phase Fault - (SILENT) - Inactive	956367100
+Fc3 Motor Phase Fault - (SILENT) - Active	956367101
+Fc3 Emergency Stop - (CRITICAL) - Inactive	956367102
+Fc3 Emergency Stop - (CRITICAL) - Active	956367103
+Fc3 Overcurrent - (HIGH) - Inactive	956367104
+Fc3 Overcurrent - (HIGH) - Active	956367105
+Fc3 Igbt Overload - (MEDIUM) - Inactive	956367106
+Fc3 Igbt Overload - (MEDIUM) - Active	956367107
+Fc3 Drive Deadlocked - (MEDIUM) - Inactive	956367108
+Fc3 Drive Deadlocked - (MEDIUM) - Active	956367109
+Fc3 Gate Driver - (HIGH) - Inactive	956367110
+Fc3 Gate Driver - (HIGH) - Active	956367111
+Fc3 Undefined - (HIGH) - Inactive	956367112
+Fc3 Undefined - (HIGH) - Active	956367113
+Fc4 Electronic (Card) - (HIGH) - Inactive	956367114
+Fc4 Electronic (Card) - (HIGH) - Active	956367115
+Fc4 Power Part (Power Stack) - (SILENT) - Inactive	956367116
+Fc4 Power Part (Power Stack) - (SILENT) - Active	956367117
+Fc4 No Motor Torque - (SILENT) - Inactive	956367118
+Fc4 No Motor Torque - (SILENT) - Active	956367119
+Fc4 Ch Overvoltage - (HIGH) - Inactive	956367120
+Fc4 Ch Overvoltage - (HIGH) - Active	956367121
+Fc4 Ch Undervoltage - (HIGH) - Inactive	956367122
+Fc4 Ch Undervoltage - (HIGH) - Active	956367123
+Fc4 Encoder - (HIGH) - Inactive	956367124
+Fc4 Encoder - (HIGH) - Active	956367125
+Fc4 Overspeed - (MEDIUM) - Inactive	956367126
+Fc4 Overspeed - (MEDIUM) - Active	956367127
+Fc4 No Lifesign - (HIGH) - Inactive	956367128
+Fc4 No Lifesign - (HIGH) - Active	956367129
+Fc4 No Param Received - (HIGH) - Inactive	956367130
+Fc4 No Param Received - (HIGH) - Active	956367131
+Fc4 Tracking Fault - (SILENT) - Inactive	956367132
+Fc4 Tracking Fault - (SILENT) - Active	956367133
+Fc4 Can Error - (HIGH) - Inactive	956367134
+Fc4 Can Error - (HIGH) - Active	956367135
+Fc4 No Drive Ready - (HIGH) - Inactive	956367136
+Fc4 No Drive Ready - (HIGH) - Active	956367137
+Fc4 No Valid Parameter - (SILENT) - Inactive	956367138
+Fc4 No Valid Parameter - (SILENT) - Active	956367139
+Fc4 Chopper Overload - (SILENT) - Inactive	956367140
+Fc4 Chopper Overload - (SILENT) - Active	956367141
+Fc4 Earth Fault - (SILENT) - Inactive	956367142
+Fc4 Earth Fault - (SILENT) - Active	956367143
+Fc4 Motor Phase Fault - (SILENT) - Inactive	956367144
+Fc4 Motor Phase Fault - (SILENT) - Active	956367145
+Fc4 Emergency Stop - (CRITICAL) - Inactive	956367146
+Fc4 Emergency Stop - (CRITICAL) - Active	956367147
+Fc4 Overcurrent - (HIGH) - Inactive	956367148
+Fc4 Overcurrent - (HIGH) - Active	956367149
+Fc4 Igbt Overload - (MEDIUM) - Inactive	956367150
+Fc4 Igbt Overload - (MEDIUM) - Active	956367151
+Fc4 Drive Deadlocked - (MEDIUM) - Inactive	956367152
+Fc4 Drive Deadlocked - (MEDIUM) - Active	956367153
+Fc4 Gate Driver - (HIGH) - Inactive	956367154
+Fc4 Gate Driver - (HIGH) - Active	956367155
+Fc4 Undefined - (HIGH) - Inactive	956367156
+Fc4 Undefined - (HIGH) - Active	956367157
+Fc5 Electronic (Card ) - (HIGH) - Inactive	956367158
+Fc5 Electronic (Card ) - (HIGH) - Active	956367159
+Fc5 Power Part (Power Stack) - (SILENT) - Inactive	956367160
+Fc5 Power Part (Power Stack) - (SILENT) - Active	956367161
+Fc5 No Motor Torque - (SILENT) - Inactive	956367162
+Fc5 No Motor Torque - (SILENT) - Active	956367163
+Fc5 Ch Overvoltage - (HIGH) - Inactive	956367164
+Fc5 Ch Overvoltage - (HIGH) - Active	956367165
+Fc5 Ch Undervoltage - (HIGH) - Inactive	956367166
+Fc5 Ch Undervoltage - (HIGH) - Active	956367167
+Fc5 Encoder - (HIGH) - Inactive	956367168
+Fc5 Encoder - (HIGH) - Active	956367169
+Fc5 Overspeed - (MEDIUM) - Inactive	956367170
+Fc5 Overspeed - (MEDIUM) - Active	956367171
+Fc5 No Lifesign - (HIGH) - Inactive	956367172
+Fc5 No Lifesign - (HIGH) - Active	956367173
+Fc5 No Param Received - (HIGH) - Inactive	956367174
+Fc5 No Param Received - (HIGH) - Active	956367175
+Fc5 Tracking Fault - (SILENT) - Inactive	956367176
+Fc5 Tracking Fault - (SILENT) - Active	956367177
+Fc5 Can Error - (HIGH) - Inactive	956367178
+Fc5 Can Error - (HIGH) - Active	956367179
+Fc5 No Drive Ready - (HIGH) - Inactive	956367180
+Fc5 No Drive Ready - (HIGH) - Active	956367181
+Fc5 No Valid Parameter - (SILENT) - Inactive	956367182
+Fc5 No Valid Parameter - (SILENT) - Active	956367183
+Fc5 Chopper Overload - (SILENT) - Inactive	956367184
+Fc5 Chopper Overload - (SILENT) - Active	956367185
+Fc5 Earth Fault - (SILENT) - Inactive	956367186
+Fc5 Earth Fault - (SILENT) - Active	956367187
+Fc5 Motor Phase Fault - (SILENT) - Inactive	956367188
+Fc5 Motor Phase Fault - (SILENT) - Active	956367189
+Fc5 Emergency Stop - (CRITICAL) - Inactive	956367190
+Fc5 Emergency Stop - (CRITICAL) - Active	956367191
+Fc5 Overcurrent - (HIGH) - Inactive	956367192
+Fc5 Overcurrent - (HIGH) - Active	956367193
+Fc5 Igbt Overload - (MEDIUM) - Inactive	956367194
+Fc5 Igbt Overload - (MEDIUM) - Active	956367195
+Fc5 Drive Deadlocked - (MEDIUM) - Inactive	956367196
+Fc5 Drive Deadlocked - (MEDIUM) - Active	956367197
+Fc5 Gate Driver - (HIGH) - Inactive	956367198
+Fc5 Gate Driver - (HIGH) - Active	956367199
+Fc5 Undefined - (HIGH) - Inactive	956367200
+Fc5 Undefined - (HIGH) - Active	956367201
+Dcdc Electronic (Card) - (CRITICAL) - Inactive	956367202
+Dcdc Electronic (Card) - (CRITICAL) - Active	956367203
+Dcdc Power Part - (CRITICAL) - Inactive	956367204
+Dcdc Power Part - (CRITICAL) - Active	956367205
+Dcdc Ch Overvoltage - (CRITICAL) - Inactive	956367206
+Dcdc Ch Overvoltage - (CRITICAL) - Active	956367207
+Dcdc Ch Undervoltage - (CRITICAL) - Inactive	956367208
+Dcdc Ch Undervoltage - (CRITICAL) - Active	956367209
+Dcdc No Lifesign - (CRITICAL) - Inactive	956367210
+Dcdc No Lifesign - (CRITICAL) - Active	956367211
+Dcdc Can Error - (CRITICAL) - Inactive	956367212
+Dcdc Can Error - (CRITICAL) - Active	956367213
+Dcdc Overcurrent - (CRITICAL) - Inactive	956367214
+Dcdc Overcurrent - (CRITICAL) - Active	956367215
+Dcdc Gate Driver - (CRITICAL) - Inactive	956367216
+Dcdc Gate Driver - (CRITICAL) - Active	956367217
+Dcdc Undefined - (CRITICAL) - Inactive	956367218
+Dcdc Undefined - (CRITICAL) - Active	956367219
+Hw Fc Grid Blower - (CRITICAL) - Inactive	956367220
+Hw Fc Grid Blower - (CRITICAL) - Active	956367221
+Hw Fc Main Blower - (MAJOR) - Inactive	956367222
+Hw Fc Main Blower - (MAJOR) - Active	956367223
+Hw Fc Oil Cool Pump - (MAJOR) - Inactive	956367224
+Hw Fc Oil Cool Pump - (MAJOR) - Active	956367225
+Hw Fc Coolant Pump - (CRITICAL) - Inactive	956367226
+Hw Fc Coolant Pump - (CRITICAL) - Active	956367227
+Hw Dc Dc Converter - (CRITICAL) - Inactive	956367228
+Hw Dc Dc Converter - (CRITICAL) - Active	956367229
+Hw Rectifier - (MAJOR) - Inactive	956367230
+Hw Rectifier - (MAJOR) - Active	956367231
+Over Temp Cool Sys Fwd - (HIGH) - Inactive	956367232
+Over Temp Cool Sys Fwd - (HIGH) - Active	956367233
+Over Temp Cool Sys Rev - (HIGH) - Inactive	956367234
+Over Temp Cool Sys Rev - (HIGH) - Active	956367235
+Fc1 Speed Monitor - (MAJOR) - Inactive	956367236
+Fc1 Speed Monitor - (MAJOR) - Active	956367237
+Fc2 Speed Monitor - (MAJOR) - Inactive	956367238
+Fc2 Speed Monitor - (MAJOR) - Active	956367239
+Fc3 Speed Monitor - (MAJOR) - Inactive	956367240
+Fc3 Speed Monitor - (MAJOR) - Active	956367241
+Fc4 Speed Monitor - (MAJOR) - Inactive	956367242
+Fc4 Speed Monitor - (MAJOR) - Active	956367243
+Left Front Speed Sensor Failure - (LOW) - Inactive	956367244
+Left Front Speed Sensor Failure - (LOW) - Active	956367245
+Right Front Speed Sensor Failure - (LOW) - Inactive	956367246
+Right Front Speed Sensor Failure - (LOW) - Active	956367247
+Dplc Can Fc Drives - (CRITICAL) - Inactive	956367248
+Dplc Can Fc Drives - (CRITICAL) - Active	956367249
+Motor1 Over Temperature - (HIGH) - Inactive	956367250
+Motor1 Over Temperature - (HIGH) - Active	956367251
+Motor2 Over Temperature - (HIGH) - Inactive	956367252
+Motor2 Over Temperature - (HIGH) - Active	956367253
+Motor3 Over Temperature - (HIGH) - Inactive	956367254
+Motor3 Over Temperature - (HIGH) - Active	956367255
+Motor4 Over Temperature - (HIGH) - Inactive	956367256
+Motor4 Over Temperature - (HIGH) - Active	956367257
+Motor 1 Bearing Drive Over Temperature - (MEDIUM) - Inactive	956367258
+Motor 1 Bearing Drive Over Temperature - (MEDIUM) - Active	956367259
+Motor 2 Bearing Drive Over Temperature - (MEDIUM) - Inactive	956367260
+Motor 2 Bearing Drive Over Temperature - (MEDIUM) - Active	956367261
+Motor 3 Bearing Drive Over Temperature - (MEDIUM) - Inactive	956367262
+Motor 3 Bearing Drive Over Temperature - (MEDIUM) - Active	956367263
+Motor 4 Bearing Drive Over Temperature - (MEDIUM) - Inactive	956367264
+Motor 4 Bearing Drive Over Temperature - (MEDIUM) - Active	956367265
+Motor 1 Bearing Non-Drive Over Temperature - (MEDIUM) - Inactive	956367266
+Motor 1 Bearing Non-Drive Over Temperature - (MEDIUM) - Active	956367267
+Motor 2 Bearing Non-Drive Over Temperature - (MEDIUM) - Inactive	956367268
+Motor 2 Bearing Non-Drive Over Temperature - (MEDIUM) - Active	956367269
+Motor 3 Bearing Non-Drive Over Temperature - (MEDIUM) - Inactive	956367270
+Motor 3 Bearing Non-Drive Over Temperature - (MEDIUM) - Active	956367271
+Motor 4 Bearing Non-Drive Over Temperature - (MEDIUM) - Inactive	956367272
+Motor 4 Bearing Non-Drive Over Temperature - (MEDIUM) - Active	956367273
+Gear 1 Oil Over Temperature - (MEDIUM) - Inactive	956367274
+Gear 1 Oil Over Temperature - (MEDIUM) - Active	956367275
+Gear 2 Oil Over Temperature - (MEDIUM) - Inactive	956367276
+Gear 2 Oil Over Temperature - (MEDIUM) - Active	956367277
+Gear 3 Oil Over Temperature - (MEDIUM) - Inactive	956367278
+Gear 3 Oil Over Temperature - (MEDIUM) - Active	956367279
+Gear 4 Oil Over Temperature - (MEDIUM) - Inactive	956367280
+Gear 4 Oil Over Temperature - (MEDIUM) - Active	956367281
+Alternator Stator Over Temperature - (MEDIUM) - Inactive	956367282
+Alternator Stator Over Temperature - (MEDIUM) - Active	956367283
+Alternator Bearing Over Temperature - (MEDIUM) - Inactive	956367284
+Alternator Bearing Over Temperature - (MEDIUM) - Active	956367285
+Alternator Ambient Temp Sensor Damage - (LOW) - Inactive	956367286
+Alternator Ambient Temp Sensor Damage - (LOW) - Active	956367287
+Press Switch Axle Box Ds - (LOW) - Inactive	956367288
+Press Switch Axle Box Ds - (LOW) - Active	956367289
+Field Reg Fuse Tripped - (MAJOR) - Inactive	956367290
+Field Reg Fuse Tripped - (MAJOR) - Active	956367291
+Over Temp Field Reg - (MAJOR) - Inactive	956367292
+Over Temp Field Reg - (MAJOR) - Active	956367293
+Dc Bus Voltage Sensor Warning - (MEDIUM) - Inactive	956367294
+Dc Bus Voltage Sensor Warning - (MEDIUM) - Active	956367295
+Dc Bus Voltage Sensor Failure - (CRITICAL) - Inactive	956367296
+Dc Bus Voltage Sensor Failure - (CRITICAL) - Active	956367297
+Sensor Supply Failed - (CRITICAL) - Inactive	956367298
+Sensor Supply Failed - (CRITICAL) - Active	956367299
+Emergency Chopper Active - (CRITICAL) - Inactive	956367300
+Emergency Chopper Active - (CRITICAL) - Active	956367301
+Udc Over Voltage Ipc - (CRITICAL) - Inactive	956367302
+Udc Over Voltage Ipc - (CRITICAL) - Active	956367303
+Current Sensor Failure Ipc - (CRITICAL) - Inactive	956367304
+Current Sensor Failure Ipc - (CRITICAL) - Active	956367305
+Open Sensor Connection Ipc - (CRITICAL) - Inactive	956367306
+Open Sensor Connection Ipc - (CRITICAL) - Active	956367307
+Voltage Signal To Plc Overcurrent Ipc - (HIGH) - Inactive	956367308
+Voltage Signal To Plc Overcurrent Ipc - (HIGH) - Active	956367309
+Fuse Coolant Pump Supply - (MAJOR) - Inactive	956367310
+Fuse Coolant Pump Supply - (MAJOR) - Active	956367311
+Fuse Oil Cooling Pump Supply - (HIGH) - Inactive	956367312
+Fuse Oil Cooling Pump Supply - (HIGH) - Active	956367313
+Ricos Module 0 - (HIGH) - Inactive	956367314
+Ricos Module 0 - (HIGH) - Active	956367315
+Ricos Module 1 - (HIGH) - Inactive	956367316
+Ricos Module 1 - (HIGH) - Active	956367317
+Ricos Module 2 - (HIGH) - Inactive	956367318
+Ricos Module 2 - (HIGH) - Active	956367319
+Ricos Module 3 - (HIGH) - Inactive	956367320
+Ricos Module 3 - (HIGH) - Active	956367321
+Ricos Module 4 - (HIGH) - Inactive	956367322
+Ricos Module 4 - (HIGH) - Active	956367323
+Ricos Module 5 - (HIGH) - Inactive	956367324
+Ricos Module 5 - (HIGH) - Active	956367325
+Ricos Module 6 - (HIGH) - Inactive	956367326
+Ricos Module 6 - (HIGH) - Active	956367327
+Ricos Module 7 - (HIGH) - Inactive	956367328
+Ricos Module 7 - (HIGH) - Active	956367329
+Ricos Module 8 - (HIGH) - Inactive	956367330
+Ricos Module 8 - (HIGH) - Active	956367331
+Ricos Module 9 - (HIGH) - Inactive	956367332
+Ricos Module 9 - (HIGH) - Active	956367333
+Ricos Module A - (HIGH) - Inactive	956367334
+Ricos Module A - (HIGH) - Active	956367335
+Ricos Module B - (HIGH) - Inactive	956367336
+Ricos Module B - (HIGH) - Active	956367337
+Ricos Module C - (HIGH) - Inactive	956367338
+Ricos Module C - (HIGH) - Active	956367339
+Ricos Module D - (HIGH) - Inactive	956367340
+Ricos Module D - (HIGH) - Active	956367341
+Ricos Module E - (HIGH) - Inactive	956367342
+Ricos Module E - (HIGH) - Active	956367343
+Ricos Module F - (HIGH) - Inactive	956367344
+Ricos Module F - (HIGH) - Active	956367345
+Can Node 9 Coolantpump - (HIGH) - Inactive	956367346
+Can Node 9 Coolantpump - (HIGH) - Active	956367347
+Can Node 10 Main Blower - (HIGH) - Inactive	956367348
+Can Node 10 Main Blower - (HIGH) - Active	956367349
+Can Node 11 Grid Blower - (HIGH) - Inactive	956367350
+Can Node 11 Grid Blower - (HIGH) - Active	956367351
+Can Node 20 Main Blower Lbc - (HIGH) - Inactive	956367352
+Can Node 20 Main Blower Lbc - (HIGH) - Active	956367353
+Can Node 13 Oil Pump - (HIGH) - Inactive	956367354
+Can Node 13 Oil Pump - (HIGH) - Active	956367355
+Can Node 2 Ricos Io - (HIGH) - Inactive	956367356
+Can Node 2 Ricos Io - (HIGH) - Active	956367357
+Can Node 14 Wago Io - (HIGH) - Inactive	956367358
+Can Node 14 Wago Io - (HIGH) - Active	956367359
+Can Node 3 Microcontrol - (HIGH) - Inactive	956367360
+Can Node 3 Microcontrol - (HIGH) - Active	956367361
+Can Node X Undefined - (MEDIUM) - Inactive	956367362
+Can Node X Undefined - (MEDIUM) - Active	956367363
+Can 14 Wago Deactivated - (LOW) - Inactive	956367364
+Can 14 Wago Deactivated - (LOW) - Active	956367365
+Can 13 Oil Pump Deactivated - (HIGH) - Inactive	956367366
+Can 13 Oil Pump Deactivated - (HIGH) - Active	956367367
+Can 3 Microcontrol Deactivated - (LOW) - Inactive	956367368
+Can 3 Microcontrol Deactivated - (LOW) - Active	956367369
+Fnr Selector Malfunction - (HIGH) - Inactive	956367370
+Fnr Selector Malfunction - (HIGH) - Active	956367371
+Brake/Steering Fault - (HIGH) - Inactive	956367372
+Brake/Steering Fault - (HIGH) - Active	956367373
+Service Brake Pressure Low - (MAJOR) - Inactive	956367374
+Service Brake Pressure Low - (MAJOR) - Active	956367375
+Steering Pressure Low - (CRITICAL) - Inactive	956367376
+Steering Pressure Low - (CRITICAL) - Active	956367377
+Engine Oil Pressure Low - (CRITICAL) - Inactive	956367378
+Engine Oil Pressure Low - (CRITICAL) - Active	956367379
+Engine Coolant Temp High - (MAJOR) - Inactive	956367380
+Engine Coolant Temp High - (MAJOR) - Active	956367381
+Control Voltage High - (MAJOR) - Inactive	956367382
+Control Voltage High - (MAJOR) - Active	956367383
+Hw Control Voltage Low - (MAJOR) - Inactive	956367384
+Hw Control Voltage Low - (MAJOR) - Active	956367385
+Accel Pedal Input Too Low - (HIGH) - Inactive	956367386
+Accel Pedal Input Too Low - (HIGH) - Active	956367387
+Accel Pedal Input Too High - (HIGH) - Inactive	956367388
+Accel Pedal Input Too High - (HIGH) - Active	956367389
+Accel Pedal Input Fault - (HIGH) - Inactive	956367390
+Accel Pedal Input Fault - (HIGH) - Active	956367391
+Retard Pedal Input Too High - (HIGH) - Inactive	956367392
+Retard Pedal Input Too High - (HIGH) - Active	956367393
+Retard Pedal Input Too Low - (HIGH) - Inactive	956367394
+Retard Pedal Input Too Low - (HIGH) - Active	956367395
+Retard Pedal Input Fault - (HIGH) - Inactive	956367396
+Retard Pedal Input Fault - (HIGH) - Active	956367397
+Hand Brake Press Too High - (MAJOR) - Inactive	956367398
+Hand Brake Press Too High - (MAJOR) - Active	956367399
+Hand Brake Press Too Low - (HIGH) - Inactive	956367400
+Hand Brake Press Too Low - (HIGH) - Active	956367401
+Hand Brake Press Sensor Fault - (HIGH) - Inactive	956367402
+Hand Brake Press Sensor Fault - (HIGH) - Active	956367403
+Hydraulic Dump Suction Temp Too Low - (LOW) - Inactive	956367404
+Hydraulic Dump Suction Temp Too Low - (LOW) - Active	956367405
+Hydraulic Dump Suction Temp High - (HIGH) - Inactive	956367406
+Hydraulic Dump Suction Temp High - (HIGH) - Active	956367407
+Hydraulic Dump Suction Temp Too High - (LOW) - Inactive	956367408
+Hydraulic Dump Suction Temp Too High - (LOW) - Active	956367409
+Hydraulic Dump Suction Temp Sensor Fault - (LOW) - Inactive	956367410
+Hydraulic Dump Suction Temp Sensor Fault - (LOW) - Active	956367411
+Brake Steering Temp Too Low - (LOW) - Inactive	956367412
+Brake Steering Temp Too Low - (LOW) - Active	956367413
+Brake Steering Temp High - (LOW) - Inactive	956367414
+Brake Steering Temp High - (LOW) - Active	956367415
+Brake Steering Temp Too High - (LOW) - Inactive	956367416
+Brake Steering Temp Too High - (LOW) - Active	956367417
+Brake Steering Temp Sensor Fault - (LOW) - Inactive	956367418
+Brake Steering Temp Sensor Fault - (LOW) - Active	956367419
+Front Brake Supply Press Too Low - (CRITICAL) - Inactive	956367420
+Front Brake Supply Press Too Low - (CRITICAL) - Active	956367421
+Front Brake Supply Press Too High - (MAJOR) - Inactive	956367422
+Front Brake Supply Press Too High - (MAJOR) - Active	956367423
+Front Brake Supply Press Sensor Fault - (HIGH) - Inactive	956367424
+Front Brake Supply Press Sensor Fault - (HIGH) - Active	956367425
+Rear Brake Supply Press Too Low - (CRITICAL) - Inactive	956367426
+Rear Brake Supply Press Too Low - (CRITICAL) - Active	956367427
+Rear Brake Supply Press Too High - (MAJOR) - Inactive	956367428
+Rear Brake Supply Press Too High - (MAJOR) - Active	956367429
+Rear Brake Supply Press Sens Fault - (HIGH) - Inactive	956367430
+Rear Brake Supply Press Sens Fault - (HIGH) - Active	956367431
+Steering Press Too Low - (CRITICAL) - Inactive	956367432
+Steering Press Too Low - (CRITICAL) - Active	956367433
+Steering Press Too High - (MAJOR) - Inactive	956367434
+Steering Press Too High - (MAJOR) - Active	956367435
+Steering Press Sensor Disc. - (HIGH) - Inactive	956367436
+Steering Press Sensor Disc. - (HIGH) - Active	956367437
+Front Brake Drag Press Too High - (MAJOR) - Inactive	956367438
+Front Brake Drag Press Too High - (MAJOR) - Active	956367439
+Front Brake Drag Press Too Low - (LOW) - Inactive	956367440
+Front Brake Drag Press Too Low - (LOW) - Active	956367441
+Front Brake Drag Pres Sens Disc. - (MEDIUM) - Inactive	956367442
+Front Brake Drag Pres Sens Disc. - (MEDIUM) - Active	956367443
+Steering Temp Too Low - (LOW) - Inactive	956367444
+Steering Temp Too Low - (LOW) - Active	956367445
+Steering Temp High - (LOW) - Inactive	956367446
+Steering Temp High - (LOW) - Active	956367447
+Steering Temp Too High - (MAJOR) - Inactive	956367448
+Steering Temp Too High - (MAJOR) - Active	956367449
+Steering Temp Sensor Disc. - (LOW) - Inactive	956367450
+Steering Temp Sensor Disc. - (LOW) - Active	956367451
+Rear Brake Drag Press Too High - (MAJOR) - Inactive	956367452
+Rear Brake Drag Press Too High - (MAJOR) - Active	956367453
+Rear Brake Drag Press Too Low - (LOW) - Inactive	956367454
+Rear Brake Drag Press Too Low - (LOW) - Active	956367455
+Rear Brake Drag Press Fault - (MEDIUM) - Inactive	956367456
+Rear Brake Drag Press Fault - (MEDIUM) - Active	956367457
+Hydraulic Brake Steering Level Fault - (CRITICAL) - Inactive	956367458
+Hydraulic Brake Steering Level Fault - (CRITICAL) - Active	956367459
+Axle Box Temp Too High - (HIGH) - Inactive	956367460
+Axle Box Temp Too High - (HIGH) - Active	956367461
+Front Brakes Are Dragging - (HIGH) - Inactive	956367462
+Front Brakes Are Dragging - (HIGH) - Active	956367463
+Rear Brakes Are Dragging - (HIGH) - Inactive	956367464
+Rear Brakes Are Dragging - (HIGH) - Active	956367465
+Eng High (Fault) Turbo Speed Etc1 - (MAJOR) - Inactive	956367466
+Eng High (Fault) Turbo Speed Etc1 - (MAJOR) - Active	956367467
+Eng High (Fault) Ecu Power Supply Voltage - (MAJOR) - Inactive	956367468
+Eng High (Fault) Ecu Power Supply Voltage - (MAJOR) - Active	956367469
+Eng High Press Fault Crankcase - (MAJOR) - Inactive	956367470
+Eng High Press Fault Crankcase - (MAJOR) - Active	956367471
+Eng High Temp Turbo Air Fault - (MAJOR) - Inactive	956367472
+Eng High Temp Turbo Air Fault - (MAJOR) - Active	956367473
+Eng High Temp Fault Coolant - (MAJOR) - Inactive	956367474
+Eng High Temp Fault Coolant - (MAJOR) - Active	956367475
+Eng High Temp Fault Fuel - (MAJOR) - Inactive	956367476
+Eng High Temp Fault Fuel - (MAJOR) - Active	956367477
+Eng High Oil Temp Fault - (MAJOR) - Inactive	956367478
+Eng High Oil Temp Fault - (MAJOR) - Active	956367479
+Engine Low Ecu Power Supply Voltage Fault - (MAJOR) - Inactive	956367480
+Engine Low Ecu Power Supply Voltage Fault - (MAJOR) - Active	956367481
+Eng Coolant Low Press After Pump Fault - (MAJOR) - Inactive	956367482
+Eng Coolant Low Press After Pump Fault - (MAJOR) - Active	956367483
+Engine Low Coolant Press Intercooler Fault - (MAJOR) - Inactive	956367484
+Engine Low Coolant Press Intercooler Fault - (MAJOR) - Active	956367485
+Engine Low Fuel Press Fault - (MAJOR) - Inactive	956367486
+Engine Low Fuel Press Fault - (MAJOR) - Active	956367487
+Engine Low Oil Press Fault - (MAJOR) - Inactive	956367488
+Engine Low Oil Press Fault - (MAJOR) - Active	956367489
+Eng Preheatlow Temp Fault - (MAJOR) - Inactive	956367490
+Eng Preheatlow Temp Fault - (MAJOR) - Active	956367491
+Can Truck Node 2 Disc. (Ceb) - (CRITICAL) - Inactive	956367492
+Can Truck Node 2 Disc. (Ceb) - (CRITICAL) - Active	956367493
+Can Truck Node 3 Disc. (Ceb) - (HIGH) - Inactive	956367494
+Can Truck Node 3 Disc. (Ceb) - (HIGH) - Active	956367495
+Can Truck Node 8 Disc. (L. Frame) - (HIGH) - Inactive	956367496
+Can Truck Node 8 Disc. (L. Frame) - (HIGH) - Active	956367497
+Can Truck Node 33 Disc (Axle Box) - (HIGH) - Inactive	956367498
+Can Truck Node 33 Disc (Axle Box) - (HIGH) - Active	956367499
+Dc Link Overvoltage - (HIGH) - Inactive	956367500
+Dc Link Overvoltage - (HIGH) - Active	956367501
+Fuse Sensor Supply - (CRITICAL) - Inactive	956367502
+Fuse Sensor Supply - (CRITICAL) - Active	956367503
+Cool Level Alarm Control Cabine - (HIGH) - Inactive	956367504
+Cool Level Alarm Control Cabine - (HIGH) - Active	956367505
+Redundant 24V Failed - (MEDIUM) - Inactive	956367506
+Redundant 24V Failed - (MEDIUM) - Active	956367507
+Dc Link Out Of Range - (HIGH) - Inactive	956367508
+Dc Link Out Of Range - (HIGH) - Active	956367509
+Dc Link Input Out Of Range - (HIGH) - Inactive	956367510
+Dc Link Input Out Of Range - (HIGH) - Active	956367511
+Excitor Current Out Of Range - (HIGH) - Inactive	956367512
+Excitor Current Out Of Range - (HIGH) - Active	956367513
+Gnd Flt Resistance Out Of Range - (HIGH) - Inactive	956367514
+Gnd Flt Resistance Out Of Range - (HIGH) - Active	956367515
+Fb Field Regulator On - (SILENT) - Inactive	956367516
+Fb Field Regulator On - (SILENT) - Active	956367517
+Powerstack Supply Missing - (CRITICAL) - Inactive	956367518
+Powerstack Supply Missing - (CRITICAL) - Active	956367519
+Exciter Machine Error - (MAJOR) - Inactive	956367520
+Exciter Machine Error - (MAJOR) - Active	956367521
+Cool Front Temp Sensor Failure - (MEDIUM) - Inactive	956367522
+Cool Front Temp Sensor Failure - (MEDIUM) - Active	956367523
+Cool Rear Temp Sensor Failure - (MEDIUM) - Inactive	956367524
+Cool Rear Temp Sensor Failure - (MEDIUM) - Active	956367525
+Ground Fault - (HIGH) - Inactive	956367526
+Ground Fault - (HIGH) - Active	956367527
+Engine Speed Encoder Fail - (LOW) - Inactive	956367528
+Engine Speed Encoder Fail - (LOW) - Active	956367529
+Low Cool Flow Main B - (HIGH) - Inactive	956367530
+Low Cool Flow Main B - (HIGH) - Active	956367531
+Low Cool Flow Grid B - (HIGH) - Inactive	956367532
+Low Cool Flow Grid B - (HIGH) - Active	956367533
+Low Cool Flow Dc Dc - (HIGH) - Inactive	956367534
+Low Cool Flow Dc Dc - (HIGH) - Active	956367535
+Low Cool Flow Right Front - (HIGH) - Inactive	956367536
+Low Cool Flow Right Front - (HIGH) - Active	956367537
+Low Cool Flow Bc - (HIGH) - Inactive	956367538
+Low Cool Flow Bc - (HIGH) - Active	956367539
+Low Cool Flow Ps1 - (HIGH) - Inactive	956367540
+Low Cool Flow Ps1 - (HIGH) - Active	956367541
+Low Cool Flow Ps2 - (HIGH) - Inactive	956367542
+Low Cool Flow Ps2 - (HIGH) - Active	956367543
+Low Cool Flow Ps3 - (HIGH) - Inactive	956367544
+Low Cool Flow Ps3 - (HIGH) - Active	956367545
+Low Cool Flow Ps4 - (HIGH) - Inactive	956367546
+Low Cool Flow Ps4 - (HIGH) - Active	956367547
+Drive Io Bus Offline - (HIGH) - Inactive	956367548
+Drive Io Bus Offline - (HIGH) - Active	956367549
+Cool Temp Sensor Failure Main B - (MEDIUM) - Inactive	956367550
+Cool Temp Sensor Failure Main B - (MEDIUM) - Active	956367551
+Cool Temp Sensor Failure Grid B - (MEDIUM) - Inactive	956367552
+Cool Temp Sensor Failure Grid B - (MEDIUM) - Active	956367553
+Cool Temp Sensor Failure Dc Dc - (MEDIUM) - Inactive	956367554
+Cool Temp Sensor Failure Dc Dc - (MEDIUM) - Active	956367555
+Cool Temp Sensor Failureright Front - (MEDIUM) - Inactive	956367556
+Cool Temp Sensor Failureright Front - (MEDIUM) - Active	956367557
+Cool Temp Sensor Failure Bc - (MEDIUM) - Inactive	956367558
+Cool Temp Sensor Failure Bc - (MEDIUM) - Active	956367559
+Cool Temp Sensor Failure Ps1 - (MEDIUM) - Inactive	956367560
+Cool Temp Sensor Failure Ps1 - (MEDIUM) - Active	956367561
+Cool Temp Sensor Failure Ps2 - (MEDIUM) - Inactive	956367562
+Cool Temp Sensor Failure Ps2 - (MEDIUM) - Active	956367563
+Cool Temp Sensor Failure Ps3 - (MEDIUM) - Inactive	956367564
+Cool Temp Sensor Failure Ps3 - (MEDIUM) - Active	956367565
+Cool Temp Sensor Failure Ps4 - (MEDIUM) - Inactive	956367566
+Cool Temp Sensor Failure Ps4 - (MEDIUM) - Active	956367567
+High Temp Coolant Main B - (MEDIUM) - Inactive	956367568
+High Temp Coolant Main B - (MEDIUM) - Active	956367569
+High Temp Coolant Grid B - (MEDIUM) - Inactive	956367570
+High Temp Coolant Grid B - (MEDIUM) - Active	956367571
+High Temp Coolant Dc Dc - (MEDIUM) - Inactive	956367572
+High Temp Coolant Dc Dc - (MEDIUM) - Active	956367573
+High Temp Coolantright Front - (MEDIUM) - Inactive	956367574
+High Temp Coolantright Front - (MEDIUM) - Active	956367575
+High Temp Coolant Bc - (MEDIUM) - Inactive	956367576
+High Temp Coolant Bc - (MEDIUM) - Active	956367577
+High Temp Coolant Ps1 - (MEDIUM) - Inactive	956367578
+High Temp Coolant Ps1 - (MEDIUM) - Active	956367579
+High Temp Coolant Ps2 - (MEDIUM) - Inactive	956367580
+High Temp Coolant Ps2 - (MEDIUM) - Active	956367581
+High Temp Coolant Ps3 - (MEDIUM) - Inactive	956367582
+High Temp Coolant Ps3 - (MEDIUM) - Active	956367583
+High Temp Coolant Ps4 - (MEDIUM) - Inactive	956367584
+High Temp Coolant Ps4 - (MEDIUM) - Active	956367585
+Bc Igbt1 Short Cut - (CRITICAL) - Inactive	956367586
+Bc Igbt1 Short Cut - (CRITICAL) - Active	956367587
+Bc Igbt2 Short Cut - (CRITICAL) - Inactive	956367588
+Bc Igbt2 Short Cut - (CRITICAL) - Active	956367589
+Bc Igbt3 Short Cut - (CRITICAL) - Inactive	956367590
+Bc Igbt3 Short Cut - (CRITICAL) - Active	956367591
+Bc Igbt4 Short Cut - (CRITICAL) - Inactive	956367592
+Bc Igbt4 Short Cut - (CRITICAL) - Active	956367593
+Grid Blower Speed Too Low - (CRITICAL) - Inactive	956367594
+Grid Blower Speed Too Low - (CRITICAL) - Active	956367595
+Main Blower Speed Too Low - (CRITICAL) - Inactive	956367596
+Main Blower Speed Too Low - (CRITICAL) - Active	956367597
+Cooling Pump Speed Too Low - (CRITICAL) - Inactive	956367598
+Cooling Pump Speed Too Low - (CRITICAL) - Active	956367599
+Oil Pump Speed Too Low - (HIGH) - Inactive	956367600
+Oil Pump Speed Too Low - (HIGH) - Active	956367601
+Hw Gridblower Over Temp - (HIGH) - Inactive	956367602
+Hw Gridblower Over Temp - (HIGH) - Active	956367603
+Hw Main Blower Over Temp - (HIGH) - Inactive	956367604
+Hw Main Blower Over Temp - (HIGH) - Active	956367605
+Hw Oilcooling Pump Over Temp - (HIGH) - Inactive	956367606
+Hw Oilcooling Pump Over Temp - (HIGH) - Active	956367607
+Can Bus 2 Disconnected (X14 Can2) - (CRITICAL) - Inactive	956367608
+Can Bus 2 Disconnected (X14 Can2) - (CRITICAL) - Active	956367609
+Can Bus 3 Disconnected (X15 Can3) - (CRITICAL) - Inactive	956367610
+Can Bus 3 Disconnected (X15 Can3) - (CRITICAL) - Active	956367611
+Tplc Can Io - (CRITICAL) - Inactive	956367612
+Tplc Can Io - (CRITICAL) - Active	956367613
+Lsat No Lifesign - (LOW) - Inactive	956367614
+Lsat No Lifesign - (LOW) - Active	956367615
+Lsat Version Conflict - (LOW) - Inactive	956367616
+Lsat Version Conflict - (LOW) - Active	956367617
+Engine Communications Lost - (CRITICAL) - Inactive	956367618
+Engine Communications Lost - (CRITICAL) - Active	956367619
+Ods Ob Display Segment 1 Fault - (LOW) - Inactive	956367620
+Ods Ob Display Segment 1 Fault - (LOW) - Active	956367621
+Ods Ob Display Segment 2 Fault - (LOW) - Inactive	956367622
+Ods Ob Display Segment 2 Fault - (LOW) - Active	956367623
+Ods Ob Display Segment 3 Fault - (LOW) - Inactive	956367624
+Ods Ob Display Segment 3 Fault - (LOW) - Active	956367625
+Ds Ob Display Segment 1 Fault - (LOW) - Inactive	956367626
+Ds Ob Display Segment 1 Fault - (LOW) - Active	956367627
+Ds Ob Display Segment 2 Fault - (LOW) - Inactive	956367628
+Ds Ob Display Segment 2 Fault - (LOW) - Active	956367629
+Ds Ob Display Segment 3 Fault - (LOW) - Inactive	956367630
+Ds Ob Display Segment 3 Fault - (LOW) - Active	956367631
+Steering Encoder Channel B Fault - (LOW) - Inactive	956367632
+Steering Encoder Channel B Fault - (LOW) - Active	956367633
+Steering Encoder Channel A Fault - (LOW) - Inactive	956367634
+Steering Encoder Channel A Fault - (LOW) - Active	956367635
+Operator Retard Over Speed - (HIGH) - Inactive	956367636
+Operator Retard Over Speed - (HIGH) - Active	956367637
+Cool Level Warning Control Cabine - (MEDIUM) - Inactive	956367638
+Cool Level Warning Control Cabine - (MEDIUM) - Active	956367639
+Hw Motor1 Stator Temp Warn - (LOW) - Inactive	956367640
+Hw Motor1 Stator Temp Warn - (LOW) - Active	956367641
+Motor1 Stator Temp Sens Short - (SILENT) - Inactive	956367642
+Motor1 Stator Temp Sens Short - (SILENT) - Active	956367643
+Motor1 Stator Temp Sens Cut Wire - (SILENT) - Inactive	956367644
+Motor1 Stator Temp Sens Cut Wire - (SILENT) - Active	956367645
+Hw Motor2 Stator Temp Warn - (LOW) - Inactive	956367646
+Hw Motor2 Stator Temp Warn - (LOW) - Active	956367647
+Motor2 Stator Temp Sens Short - (HIGH) - Inactive	956367648
+Motor2 Stator Temp Sens Short - (HIGH) - Active	956367649
+Motor2 Stator Temp Sens Cut Wire - (HIGH) - Inactive	956367650
+Motor2 Stator Temp Sens Cut Wire - (HIGH) - Active	956367651
+Hw Motor3 Stator Temp Warn - (LOW) - Inactive	956367652
+Hw Motor3 Stator Temp Warn - (LOW) - Active	956367653
+Motor3 Stator Temp Sens Short - (HIGH) - Inactive	956367654
+Motor3 Stator Temp Sens Short - (HIGH) - Active	956367655
+Motor3 Stator Temp Sens Cut Wire - (HIGH) - Inactive	956367656
+Motor3 Stator Temp Sens Cut Wire - (HIGH) - Active	956367657
+Hw Motor4 Stator Temp Warn - (LOW) - Inactive	956367658
+Hw Motor4 Stator Temp Warn - (LOW) - Active	956367659
+Motor4 Stator Temp Sens Short - (SILENT) - Inactive	956367660
+Motor4 Stator Temp Sens Short - (SILENT) - Active	956367661
+Motor4 Stator Temp Sens Cut Wire - (SILENT) - Inactive	956367662
+Motor4 Stator Temp Sens Cut Wire - (SILENT) - Active	956367663
+Motor 1 Drive Bearing Temp Warning - (LOW) - Inactive	956367664
+Motor 1 Drive Bearing Temp Warning - (LOW) - Active	956367665
+Motor 1 Drive Bearing Temp Short - (SILENT) - Inactive	956367666
+Motor 1 Drive Bearing Temp Short - (SILENT) - Active	956367667
+Motor 1Drive Bearing Temp Cut Wire - (SILENT) - Inactive	956367668
+Motor 1Drive Bearing Temp Cut Wire - (SILENT) - Active	956367669
+Motor 2 Drive Bearing Temp Warning - (LOW) - Inactive	956367670
+Motor 2 Drive Bearing Temp Warning - (LOW) - Active	956367671
+Motor 2 Drive Bearing Temp Short - (LOW) - Inactive	956367672
+Motor 2 Drive Bearing Temp Short - (LOW) - Active	956367673
+Motor 2 Drive Bearing Temp Cut Wire - (LOW) - Inactive	956367674
+Motor 2 Drive Bearing Temp Cut Wire - (LOW) - Active	956367675
+Motor 3 Drive Bearing Temp Warning - (LOW) - Inactive	956367676
+Motor 3 Drive Bearing Temp Warning - (LOW) - Active	956367677
+Motor 3 Drive Bearing Temp Short - (LOW) - Inactive	956367678
+Motor 3 Drive Bearing Temp Short - (LOW) - Active	956367679
+Motor 3 Drvie Bearing Temp Cut Wire - (LOW) - Inactive	956367680
+Motor 3 Drvie Bearing Temp Cut Wire - (LOW) - Active	956367681
+Motor 4 Drive Bearing Temp Warning - (LOW) - Inactive	956367682
+Motor 4 Drive Bearing Temp Warning - (LOW) - Active	956367683
+Motor 4 Drive Bearing Temp Short - (SILENT) - Inactive	956367684
+Motor 4 Drive Bearing Temp Short - (SILENT) - Active	956367685
+Motor 4 Drive Bearing Temp Cut Wire - (SILENT) - Inactive	956367686
+Motor 4 Drive Bearing Temp Cut Wire - (SILENT) - Active	956367687
+Motor 1 Non-Drive Bearing Temp Warning - (LOW) - Inactive	956367688
+Motor 1 Non-Drive Bearing Temp Warning - (LOW) - Active	956367689
+Motor 1 Non-Drive Bearing Temp Short - (SILENT) - Inactive	956367690
+Motor 1 Non-Drive Bearing Temp Short - (SILENT) - Active	956367691
+Motor 1 Non-Drive Bearing Temp Cut Wire - (SILENT) - Inactive	956367692
+Motor 1 Non-Drive Bearing Temp Cut Wire - (SILENT) - Active	956367693
+Motor 2 Non-Drive Bearing Temp Warning - (LOW) - Inactive	956367694
+Motor 2 Non-Drive Bearing Temp Warning - (LOW) - Active	956367695
+Motor 2 Non-Drive Bearing Short - (LOW) - Inactive	956367696
+Motor 2 Non-Drive Bearing Short - (LOW) - Active	956367697
+Motor 2 Non-Drive Bearing Cut Wire - (LOW) - Inactive	956367698
+Motor 2 Non-Drive Bearing Cut Wire - (LOW) - Active	956367699
+Motor 3 Non-Drive Bearing Temp Warning - (LOW) - Inactive	956367700
+Motor 3 Non-Drive Bearing Temp Warning - (LOW) - Active	956367701
+Motor 3 Non-Drive Bearing Short - (LOW) - Inactive	956367702
+Motor 3 Non-Drive Bearing Short - (LOW) - Active	956367703
+Motor 3 Non-Drive Bearing Cut Wire - (LOW) - Inactive	956367704
+Motor 3 Non-Drive Bearing Cut Wire - (LOW) - Active	956367705
+Motor 4 Non-Drive Bearing Temp Warning - (LOW) - Inactive	956367706
+Motor 4 Non-Drive Bearing Temp Warning - (LOW) - Active	956367707
+Motor 4 Non-Drive Bearing Short - (SILENT) - Inactive	956367708
+Motor 4 Non-Drive Bearing Short - (SILENT) - Active	956367709
+Motor 4 Non-Drive Bearing Cut Wire - (SILENT) - Inactive	956367710
+Motor 4 Non-Drive Bearing Cut Wire - (SILENT) - Active	956367711
+Gear 1 Oil Temp Warning - (LOW) - Inactive	956367712
+Gear 1 Oil Temp Warning - (LOW) - Active	956367713
+Gear 1 Oil Sensor Short - (LOW) - Inactive	956367714
+Gear 1 Oil Sensor Short - (LOW) - Active	956367715
+Gear 1 Oil Sensor Cut Wire - (LOW) - Inactive	956367716
+Gear 1 Oil Sensor Cut Wire - (LOW) - Active	956367717
+Gear 2 Oil Temp Warning - (UNUSED) - Inactive	956367718
+Gear 2 Oil Temp Warning - (UNUSED) - Active	956367719
+Gear 2 Oil Sensor Short - (UNUSED) - Inactive	956367720
+Gear 2 Oil Sensor Short - (UNUSED) - Active	956367721
+Gear 2 Oil Sensor Cut Wire - (UNUSED) - Inactive	956367722
+Gear 2 Oil Sensor Cut Wire - (UNUSED) - Active	956367723
+Gear 3 Oil Temp Warning - (UNUSED) - Inactive	956367724
+Gear 3 Oil Temp Warning - (UNUSED) - Active	956367725
+Gear 3 Oil Sensor Short - (UNUSED) - Inactive	956367726
+Gear 3 Oil Sensor Short - (UNUSED) - Active	956367727
+Gear 3 Oil Sensor Cut Wire - (UNUSED) - Inactive	956367728
+Gear 3 Oil Sensor Cut Wire - (UNUSED) - Active	956367729
+Gear 4 Oil Temp Warning - (LOW) - Inactive	956367730
+Gear 4 Oil Temp Warning - (LOW) - Active	956367731
+Gear 4 Oil Sensor Short - (SILENT) - Inactive	956367732
+Gear 4 Oil Sensor Short - (SILENT) - Active	956367733
+Gear 4 Oil Sensor Cut Wire - (SILENT) - Inactive	956367734
+Gear 4 Oil Sensor Cut Wire - (SILENT) - Active	956367735
+Alternator Stator Temp Warning - (LOW) - Inactive	956367736
+Alternator Stator Temp Warning - (LOW) - Active	956367737
+Alternator Stator Temp Sensor Short - (LOW) - Inactive	956367738
+Alternator Stator Temp Sensor Short - (LOW) - Active	956367739
+Alternator Stator Temp Sensor Cut Wire - (LOW) - Inactive	956367740
+Alternator Stator Temp Sensor Cut Wire - (LOW) - Active	956367741
+Alternator Bearing Temp Warning - (LOW) - Inactive	956367742
+Alternator Bearing Temp Warning - (LOW) - Active	956367743
+Alternator Bearing Temp Sensor Short - (LOW) - Inactive	956367744
+Alternator Bearing Temp Sensor Short - (LOW) - Active	956367745
+Alternator Bearing Temp Sensor Cut Wire - (LOW) - Inactive	956367746
+Alternator Bearing Temp Sensor Cut Wire - (LOW) - Active	956367747
+Alternator Ambient Temp Warning - (LOW) - Inactive	956367748
+Alternator Ambient Temp Warning - (LOW) - Active	956367749
+Alternator Ambient Temp Sensor Short - (LOW) - Inactive	956367750
+Alternator Ambient Temp Sensor Short - (LOW) - Active	956367751
+Alternator Ambient Temp Sensor Cut Wire - (LOW) - Inactive	956367752
+Alternator Ambient Temp Sensor Cut Wire - (LOW) - Active	956367753
+Alternator Wire Bridge Is Missing - (LOW) - Inactive	956367754
+Alternator Wire Bridge Is Missing - (LOW) - Active	956367755
+Alternator On Not Used Input - (LOW) - Inactive	956367756
+Alternator On Not Used Input - (LOW) - Active	956367757
+Motor1 Over Load - (LOW) - Inactive	956367758
+Motor1 Over Load - (LOW) - Active	956367759
+Motor2 Over Load - (LOW) - Inactive	956367760
+Motor2 Over Load - (LOW) - Active	956367761
+Motor3 Over Load - (LOW) - Inactive	956367762
+Motor3 Over Load - (LOW) - Active	956367763
+Motor4 Over Load - (LOW) - Inactive	956367764
+Motor4 Over Load - (LOW) - Active	956367765
+Auto Retard - (MEDIUM) - Inactive	956367766
+Auto Retard - (MEDIUM) - Active	956367767
+M1 Reduced Retard Pwr - (HIGH) - Inactive	956367768
+M1 Reduced Retard Pwr - (HIGH) - Active	956367769
+M2 Reduced Retard Pwr - (HIGH) - Inactive	956367770
+M2 Reduced Retard Pwr - (HIGH) - Active	956367771
+M3 Reduced Retard Pwr - (HIGH) - Inactive	956367772
+M3 Reduced Retard Pwr - (HIGH) - Active	956367773
+M4 Reduced Retard Pwr - (HIGH) - Inactive	956367774
+M4 Reduced Retard Pwr - (HIGH) - Active	956367775
+Propel Inhibit Switch Active - (LOW) - Inactive	956367776
+Propel Inhibit Switch Active - (LOW) - Active	956367777
+Service Brake Feedback - (MEDIUM) - Inactive	956367778
+Service Brake Feedback - (MEDIUM) - Active	956367779
+Motor1 Temp Communication - (HIGH) - Inactive	956367780
+Motor1 Temp Communication - (HIGH) - Active	956367781
+Motor2 Temp Communication - (UNUSED) - Inactive	956367782
+Motor2 Temp Communication - (UNUSED) - Active	956367783
+Motor3 Temp Communication - (UNUSED) - Inactive	956367784
+Motor3 Temp Communication - (UNUSED) - Active	956367785
+Motor4 Temp Communication - (HIGH) - Inactive	956367786
+Motor4 Temp Communication - (HIGH) - Active	956367787
+Motor 1 Bearing Drive Communication - (LOW) - Inactive	956367788
+Motor 1 Bearing Drive Communication - (LOW) - Active	956367789
+Motor 2 Bearing Drive Communication - (UNUSED) - Inactive	956367790
+Motor 2 Bearing Drive Communication - (UNUSED) - Active	956367791
+Motor 3 Bearing Drive Communication - (UNUSED) - Inactive	956367792
+Motor 3 Bearing Drive Communication - (UNUSED) - Active	956367793
+Motor 4 Bearing Drive Communication - (LOW) - Inactive	956367794
+Motor 4 Bearing Drive Communication - (LOW) - Active	956367795
+Motor 1 Bearing Non-Drive Communication - (LOW) - Inactive	956367796
+Motor 1 Bearing Non-Drive Communication - (LOW) - Active	956367797
+Motor 2 Bearing Non-Drive Communication - (UNUSED) - Inactive	956367798
+Motor 2 Bearing Non-Drive Communication - (UNUSED) - Active	956367799
+Motor 3 Bearing Non-Drive Communication - (UNUSED) - Inactive	956367800
+Motor 3 Bearing Non-Drive Communication - (UNUSED) - Active	956367801
+Motor 4 Bearing Non-Drive Communication - (LOW) - Inactive	956367802
+Motor 4 Bearing Non-Drive Communication - (LOW) - Active	956367803
+Gear 1 Oil Temp Communication - (LOW) - Inactive	956367804
+Gear 1 Oil Temp Communication - (LOW) - Active	956367805
+Gear 2 Oil Temp Communication - (UNUSED) - Inactive	956367806
+Gear 2 Oil Temp Communication - (UNUSED) - Active	956367807
+Gear 3 Oil Temp Communication - (UNUSED) - Inactive	956367808
+Gear 3 Oil Temp Communication - (UNUSED) - Active	956367809
+Gear 4 Oil Temp Communication - (LOW) - Inactive	956367810
+Gear 4 Oil Temp Communication - (LOW) - Active	956367811
+Alternator Stator Temp Communication - (TEST) - Inactive	956367812
+Alternator Stator Temp Communication - (TEST) - Active	956367813
+Alternator Bearing Temp Communication - (UNUSED) - Inactive	956367814
+Alternator Bearing Temp Communication - (UNUSED) - Active	956367815
+Alternator Ambient Temp Communication - (LOW) - Inactive	956367816
+Alternator Ambient Temp Communication - (LOW) - Active	956367817
+Hw Service Brake Error - (SILENT) - Inactive	956367818
+Hw Service Brake Error - (SILENT) - Active	956367819
+Operator Overloaded Truck Warning - (SILENT) - Inactive	956367820
+Operator Overloaded Truck Warning - (SILENT) - Active	956367821
+Operator Overloaded Truck Fault - (LOW) - Inactive	956367822
+Operator Overloaded Truck Fault - (LOW) - Active	956367823
+Op Max. Engine Speed Detected - (SILENT) - Inactive	956367824
+Op Max. Engine Speed Detected - (SILENT) - Active	956367825
+Operator Exceeded Dump Speed Limit - (SILENT) - Inactive	956367826
+Operator Exceeded Dump Speed Limit - (SILENT) - Active	956367827
+Operator Exceeded Forward Speed Limit - (SILENT) - Inactive	956367828
+Operator Exceeded Forward Speed Limit - (SILENT) - Active	956367829
+Operator Exceeded Reverse Speed Limit - (SILENT) - Inactive	956367830
+Operator Exceeded Reverse Speed Limit - (SILENT) - Active	956367831
+Can Truck Node 6 Offline - (SILENT) - Inactive	956367832
+Can Truck Node 6 Offline - (SILENT) - Active	956367833
+Can Truck Temp Module Node 7 Offline - (LOW) - Inactive	956367834
+Can Truck Temp Module Node 7 Offline - (LOW) - Active	956367835
+Can Truck Temp Module Node 9 Offline - (SILENT) - Inactive	956367836
+Can Truck Temp Module Node 9 Offline - (SILENT) - Active	956367837
+Can Truck Temp Module Node 10 Offline - (SILENT) - Inactive	956367838
+Can Truck Temp Module Node 10 Offline - (SILENT) - Active	956367839
+Can Truck Temp Module Node 12 Offline - (SILENT) - Inactive	956367840
+Can Truck Temp Module Node 12 Offline - (SILENT) - Active	956367841
+Can Truck Speedo Node 13 Offline - (SILENT) - Inactive	956367842
+Can Truck Speedo Node 13 Offline - (SILENT) - Active	956367843
+Can Truck Tach Node 14 Offline - (SILENT) - Inactive	956367844
+Can Truck Tach Node 14 Offline - (SILENT) - Active	956367845
+Hw Can Truck Node 15 - (SILENT) - Inactive	956367846
+Hw Can Truck Node 15 - (SILENT) - Active	956367847
+Hw Can Truck Node 16 - (LOW) - Inactive	956367848
+Hw Can Truck Node 16 - (LOW) - Active	956367849
+Can Truck Engine Controller Offline - (CRITICAL) - Inactive	956367850
+Can Truck Engine Controller Offline - (CRITICAL) - Active	956367851
+Ds Outboard Display Disconnected - (LOW) - Inactive	956367852
+Ds Outboard Display Disconnected - (LOW) - Active	956367853
+Ods Outboard Display Disconnected - (LOW) - Inactive	956367854
+Ods Outboard Display Disconnected - (LOW) - Active	956367855
+Fuse Heaters - (SILENT) - Inactive	956367856
+Fuse Heaters - (SILENT) - Active	956367857
+Hw Overtemp Gridbox - (SILENT) - Inactive	956367858
+Hw Overtemp Gridbox - (SILENT) - Active	956367859
+B Chopper 1 Curr Out Of Range - (MAJOR) - Inactive	956367860
+B Chopper 1 Curr Out Of Range - (MAJOR) - Active	956367861
+B Chopper 2 Curr Out Of Range - (MAJOR) - Inactive	956367862
+B Chopper 2 Curr Out Of Range - (MAJOR) - Active	956367863
+B Chopper 3 Curr Out Of Range - (MAJOR) - Inactive	956367864
+B Chopper 3 Curr Out Of Range - (MAJOR) - Active	956367865
+B Chopper 4 Curr Out Of Range - (MAJOR) - Inactive	956367866
+B Chopper 4 Curr Out Of Range - (MAJOR) - Active	956367867
+Fc Torque Limit Mismatch - (MEDIUM) - Inactive	956367868
+Fc Torque Limit Mismatch - (MEDIUM) - Active	956367869
+Steering Angle Sensor Failure - (LOW) - Inactive	956367870
+Steering Angle Sensor Failure - (LOW) - Active	956367871
+Control Box Temp Sensor Failure - (SILENT) - Inactive	956367872
+Control Box Temp Sensor Failure - (SILENT) - Active	956367873
+Ambient Temp Sensor Failure - (LOW) - Inactive	956367874
+Ambient Temp Sensor Failure - (LOW) - Active	956367875
+Air Filter Control Box - (LOW) - Inactive	956367876
+Air Filter Control Box - (LOW) - Active	956367877
+Fnr Position Fault - (HIGH) - Inactive	956367878
+Fnr Position Fault - (HIGH) - Active	956367879
+Auto Lube Early End Of Line Switch - (LOW) - Inactive	956367880
+Auto Lube Early End Of Line Switch - (LOW) - Active	956367881
+Auto Lube No End Of Line Switch - (LOW) - Inactive	956367882
+Auto Lube No End Of Line Switch - (LOW) - Active	956367883
+Auto Lube Always End Of Line Switch - (LOW) - Inactive	956367884
+Auto Lube Always End Of Line Switch - (LOW) - Active	956367885
+Flt 453 Contact Engineering - (SILENT) - Inactive	956367886
+Flt 453 Contact Engineering - (SILENT) - Active	956367887
+Flt 454 Contact Engineering - (SILENT) - Inactive	956367888
+Flt 454 Contact Engineering - (SILENT) - Active	956367889
+Joystick Offline - (LOW) - Inactive	956367890
+Joystick Offline - (LOW) - Active	956367891
+Flt 456 Contact Engineering - (SILENT) - Inactive	956367892
+Flt 456 Contact Engineering - (SILENT) - Active	956367893
+Steering Angle Input Too Low - (LOW) - Inactive	956367894
+Steering Angle Input Too Low - (LOW) - Active	956367895
+Steering Angle Input Sensor Error - (LOW) - Inactive	956367896
+Steering Angle Input Sensor Error - (LOW) - Active	956367897
+Steering Encoder Sensor Failure - (LOW) - Inactive	956367898
+Steering Encoder Sensor Failure - (LOW) - Active	956367899
+Steering Angle Max. Change Rate Exceed - (SILENT) - Inactive	956367900
+Steering Angle Max. Change Rate Exceed - (SILENT) - Active	956367901
+Flt 461 Contact Engineering - (SILENT) - Inactive	956367902
+Flt 461 Contact Engineering - (SILENT) - Active	956367903
+Air Filter 1 Sensor Failure - (LOW) - Inactive	956367904
+Air Filter 1 Sensor Failure - (LOW) - Active	956367905
+Air Filter 2 Sensor Failure - (LOW) - Inactive	956367906
+Air Filter 2 Sensor Failure - (LOW) - Active	956367907
+Air Filter 3 Sensor Failure - (LOW) - Inactive	956367908
+Air Filter 3 Sensor Failure - (LOW) - Active	956367909
+Air Filter 4 Sensor Failure - (LOW) - Inactive	956367910
+Air Filter 4 Sensor Failure - (LOW) - Active	956367911
+Air Filter 1 Dirty - (MEDIUM) - Inactive	956367912
+Air Filter 1 Dirty - (MEDIUM) - Active	956367913
+Air Filter 2 Dirty - (MEDIUM) - Inactive	956367914
+Air Filter 2 Dirty - (MEDIUM) - Active	956367915
+Air Filter 3 Dirty - (MEDIUM) - Inactive	956367916
+Air Filter 3 Dirty - (MEDIUM) - Active	956367917
+Air Filter 4 Dirty - (MEDIUM) - Inactive	956367918
+Air Filter 4 Dirty - (MEDIUM) - Active	956367919
+Fuel Level Low Warning - (LOW) - Inactive	956367920
+Fuel Level Low Warning - (LOW) - Active	956367921
+Fuel Level Low Fault - (LOW) - Inactive	956367922
+Fuel Level Low Fault - (LOW) - Active	956367923
+Fuel Level Sensor Disc. - (LOW) - Inactive	956367924
+Fuel Level Sensor Disc. - (LOW) - Active	956367925
+Flt 473 Contact Engineering - (SILENT) - Inactive	956367926
+Flt 473 Contact Engineering - (SILENT) - Active	956367927
+Flt 474 Contact Engineering - (SILENT) - Inactive	956367928
+Flt 474 Contact Engineering - (SILENT) - Active	956367929
+Left Front Strut Press Too High - (SILENT) - Inactive	956367930
+Left Front Strut Press Too High - (SILENT) - Active	956367931
+Left Front Strut Press Too Low - (SILENT) - Inactive	956367932
+Left Front Strut Press Too Low - (SILENT) - Active	956367933
+Left Front Strut Press Fault - (LOW) - Inactive	956367934
+Left Front Strut Press Fault - (LOW) - Active	956367935
+Right Front Strut Press Too High - (SILENT) - Inactive	956367936
+Right Front Strut Press Too High - (SILENT) - Active	956367937
+Right Front Strut Press Too Low - (SILENT) - Inactive	956367938
+Right Front Strut Press Too Low - (SILENT) - Active	956367939
+Right Front Strut Press Fault - (LOW) - Inactive	956367940
+Right Front Strut Press Fault - (LOW) - Active	956367941
+Left Rear Strut Press Too High - (SILENT) - Inactive	956367942
+Left Rear Strut Press Too High - (SILENT) - Active	956367943
+Left Rear Strut Press Too Low - (SILENT) - Inactive	956367944
+Left Rear Strut Press Too Low - (SILENT) - Active	956367945
+Left Rear Strut Press Sens Fault - (LOW) - Inactive	956367946
+Left Rear Strut Press Sens Fault - (LOW) - Active	956367947
+Right Rear Strut Press Too High - (SILENT) - Inactive	956367948
+Right Rear Strut Press Too High - (SILENT) - Active	956367949
+Right Rear Strut Press Too Low - (SILENT) - Inactive	956367950
+Right Rear Strut Press Too Low - (SILENT) - Active	956367951
+Right Rear Strut Press Sens Fault - (LOW) - Inactive	956367952
+Right Rear Strut Press Sens Fault - (LOW) - Active	956367953
+Left Rear Gear Oil Pressure M1 Too High - (MAJOR) - Inactive	956367954
+Left Rear Gear Oil Pressure M1 Too High - (MAJOR) - Active	956367955
+Left Rear Gear Oil Pressure M1 Too Low - (SILENT) - Inactive	956367956
+Left Rear Gear Oil Pressure M1 Too Low - (SILENT) - Active	956367957
+Left Rear Gear Oil Press M1 Fault - (SILENT) - Inactive	956367958
+Left Rear Gear Oil Press M1 Fault - (SILENT) - Active	956367959
+Right Rear Gear Oil Pressm2 Too High - (MAJOR) - Inactive	956367960
+Right Rear Gear Oil Pressm2 Too High - (MAJOR) - Active	956367961
+Right Rear Gear Oil Press M2 Too Low - (SILENT) - Inactive	956367962
+Right Rear Gear Oil Press M2 Too Low - (SILENT) - Active	956367963
+Right Rear Gear Oil Press M2 Fault - (SILENT) - Inactive	956367964
+Right Rear Gear Oil Press M2 Fault - (SILENT) - Active	956367965
+Left Rear Gear Oil Press M3 Too High - (MAJOR) - Inactive	956367966
+Left Rear Gear Oil Press M3 Too High - (MAJOR) - Active	956367967
+Left Rear Gear Oil Pressure M3 Too Low - (SILENT) - Inactive	956367968
+Left Rear Gear Oil Pressure M3 Too Low - (SILENT) - Active	956367969
+Left Rear Gear Oil Press M3 Fault - (SILENT) - Inactive	956367970
+Left Rear Gear Oil Press M3 Fault - (SILENT) - Active	956367971
+Right Rear Gear Oil Press M4 Too High - (MAJOR) - Inactive	956367972
+Right Rear Gear Oil Press M4 Too High - (MAJOR) - Active	956367973
+Right Rear Gear Oil Press M4 Too Low - (SILENT) - Inactive	956367974
+Right Rear Gear Oil Press M4 Too Low - (SILENT) - Active	956367975
+Right Rear Gear Oil Press M4 Too Fault - (SILENT) - Inactive	956367976
+Right Rear Gear Oil Press M4 Too Fault - (SILENT) - Active	956367977
+Left Rear Gear Oil Temp M1 Too High - (MAJOR) - Inactive	956367978
+Left Rear Gear Oil Temp M1 Too High - (MAJOR) - Active	956367979
+Left Rear Gear Oil Temp M1 Too Low - (SILENT) - Inactive	956367980
+Left Rear Gear Oil Temp M1 Too Low - (SILENT) - Active	956367981
+Left Rear Gear Oil Temp M1 Fault - (SILENT) - Inactive	956367982
+Left Rear Gear Oil Temp M1 Fault - (SILENT) - Active	956367983
+Right Rear Gear Oil Temp M2 Too High - (MAJOR) - Inactive	956367984
+Right Rear Gear Oil Temp M2 Too High - (MAJOR) - Active	956367985
+Right Rear Gear Oil Temp M2 Too Low - (SILENT) - Inactive	956367986
+Right Rear Gear Oil Temp M2 Too Low - (SILENT) - Active	956367987
+Right Rear Gear Oil Temp M2 Fault - (LOW) - Inactive	956367988
+Right Rear Gear Oil Temp M2 Fault - (LOW) - Active	956367989
+Left Rear Gear Oil Temp M3 Too High - (MAJOR) - Inactive	956367990
+Left Rear Gear Oil Temp M3 Too High - (MAJOR) - Active	956367991
+Left Rear Gear Oil Temp M3 Too Low - (LOW) - Inactive	956367992
+Left Rear Gear Oil Temp M3 Too Low - (LOW) - Active	956367993
+Left Rear Gear Oil Temp M3 Fault - (LOW) - Inactive	956367994
+Left Rear Gear Oil Temp M3 Fault - (LOW) - Active	956367995
+Right Rear Gear Oil Temp M4 Too High - (MAJOR) - Inactive	956367996
+Right Rear Gear Oil Temp M4 Too High - (MAJOR) - Active	956367997
+Right Rear Gear Oil Temp M4 Too Low - (LOW) - Inactive	956367998
+Right Rear Gear Oil Temp M4 Too Low - (LOW) - Active	956367999
+Right Rear Gear Oil Temp M4 Fault - (LOW) - Inactive	956368000
+Right Rear Gear Oil Temp M4 Fault - (LOW) - Active	956368001
+Slt Engine Speed Too Low - (SILENT) - Inactive	956368002
+Slt Engine Speed Too Low - (SILENT) - Active	956368003
+Hyd Valves Closed During Start - (MAJOR) - Inactive	956368004
+Hyd Valves Closed During Start - (MAJOR) - Active	956368005
+Can Bus Offline - (HIGH) - Inactive	956368006
+Can Bus Offline - (HIGH) - Active	956368007
+Bypass Brake & Steer Return Filter Miswire - (LOW) - Inactive	956368008
+Bypass Brake & Steer Return Filter Miswire - (LOW) - Active	956368009
+Hydraulic Return Filters Miswire - (LOW) - Inactive	956368010
+Hydraulic Return Filters Miswire - (LOW) - Active	956368011
+Bypass Brake/Steer Press Filter Miswire - (LOW) - Inactive	956368012
+Bypass Brake/Steer Press Filter Miswire - (LOW) - Active	956368013
+Ds Hoist Bypass Press Filter Dirty - (LOW) - Inactive	956368014
+Ds Hoist Bypass Press Filter Dirty - (LOW) - Active	956368015
+Ods Hoist Bypass Press Filter Dirty - (LOW) - Inactive	956368016
+Ods Hoist Bypass Press Filter Dirty - (LOW) - Active	956368017
+Hydraulic Return Filters Dirty - (LOW) - Inactive	956368018
+Hydraulic Return Filters Dirty - (LOW) - Active	956368019
+Driver Side Hoist Bypass Press Filter Dirty - (LOW) - Inactive	956368020
+Driver Side Hoist Bypass Press Filter Dirty - (LOW) - Active	956368021
+Off Drv Side Hoist Bypass Press Filter Dirty - (LOW) - Inactive	956368022
+Off Drv Side Hoist Bypass Press Filter Dirty - (LOW) - Active	956368023
+Bypass Brake & Steer Return Filter Dirty - (LOW) - Inactive	956368024
+Bypass Brake & Steer Return Filter Dirty - (LOW) - Active	956368025
+Bypass Brake/Steer Press Filter Miswire - (LOW) - Inactive	956368026
+Bypass Brake/Steer Press Filter Miswire - (LOW) - Active	956368027
+Hydraulic Brake And Steer Filters Dirty - (LOW) - Inactive	956368028
+Hydraulic Brake And Steer Filters Dirty - (LOW) - Active	956368029
+Check Hydraulic Filters Asap - (LOW) - Inactive	956368030
+Check Hydraulic Filters Asap - (LOW) - Active	956368031
+Hoist Hydraulic Fluid Levellow - (MAJOR) - Inactive	956368032
+Hoist Hydraulic Fluid Levellow - (MAJOR) - Active	956368033
+Hoist Suction Temp High - (LOW) - Inactive	956368034
+Hoist Suction Temp High - (LOW) - Active	956368035
+Brake Steer Suction Temp High - (HIGH) - Inactive	956368036
+Brake Steer Suction Temp High - (HIGH) - Active	956368037
+Brake/Steering Fluid Levellow - (MAJOR) - Inactive	956368038
+Brake/Steering Fluid Levellow - (MAJOR) - Active	956368039
+Hoist Hydraulic Fluid Levellow - (CRITICAL) - Inactive	956368040
+Hoist Hydraulic Fluid Levellow - (CRITICAL) - Active	956368041
+Engine Hi Air Filter Dirty - (LOW) - Inactive	956368042
+Engine Hi Air Filter Dirty - (LOW) - Active	956368043
+Engine Hi Turbo Speed Etc1 - (LOW) - Inactive	956368044
+Engine Hi Turbo Speed Etc1 - (LOW) - Active	956368045
+Engine Hi Fuel Filter Restr - (LOW) - Inactive	956368046
+Engine Hi Fuel Filter Restr - (LOW) - Active	956368047
+Engine Hi Level Water Fuel Prefilter - (LOW) - Inactive	956368048
+Engine Hi Level Water Fuel Prefilter - (LOW) - Active	956368049
+Engine High Crankcase Press Warn - (MAJOR) - Inactive	956368050
+Engine High Crankcase Press Warn - (MAJOR) - Active	956368051
+Engine High Common Rail Press Warn - (MAJOR) - Inactive	956368052
+Engine High Common Rail Press Warn - (MAJOR) - Active	956368053
+Engine High Oil Press Differential - (MAJOR) - Inactive	956368054
+Engine High Oil Press Differential - (MAJOR) - Active	956368055
+Engine Hi Supply Voltage - (MAJOR) - Inactive	956368056
+Engine Hi Supply Voltage - (MAJOR) - Active	956368057
+Engine High Turbo Air Temp - (LOW) - Inactive	956368058
+Engine High Turbo Air Temp - (LOW) - Active	956368059
+Engine High Cool Temp Warning - (LOW) - Inactive	956368060
+Engine High Cool Temp Warning - (LOW) - Active	956368061
+Engine High Intercooler Temp Warn - (LOW) - Inactive	956368062
+Engine High Intercooler Temp Warn - (LOW) - Active	956368063
+Engine High Fuel Temp Warn - (LOW) - Inactive	956368064
+Engine High Fuel Temp Warn - (LOW) - Active	956368065
+Engine High Oil Temp Warn - (LOW) - Inactive	956368066
+Engine High Oil Temp Warn - (LOW) - Active	956368067
+Engine Low Coolant Level - (MAJOR) - Inactive	956368068
+Engine Low Coolant Level - (MAJOR) - Active	956368069
+Engine Turbo Air Pressure Low - (LOW) - Inactive	956368070
+Engine Turbo Air Pressure Low - (LOW) - Active	956368071
+Engine Coolant After Pumplow Press - (MAJOR) - Inactive	956368072
+Engine Coolant After Pumplow Press - (MAJOR) - Active	956368073
+Engine Low Intercooler Press - (MAJOR) - Inactive	956368074
+Engine Low Intercooler Press - (MAJOR) - Active	956368075
+Engine Low Fuel Press - (HIGH) - Inactive	956368076
+Engine Low Fuel Press - (HIGH) - Active	956368077
+Engine Low Common Rail Press - (HIGH) - Inactive	956368078
+Engine Low Common Rail Press - (HIGH) - Active	956368079
+Engine Low Lube Press - (LOW) - Inactive	956368080
+Engine Low Lube Press - (LOW) - Active	956368081
+Engine Low Supply Voltage - (MAJOR) - Inactive	956368082
+Engine Low Supply Voltage - (MAJOR) - Active	956368083
+Engine Low Preheat Temp Warn - (MEDIUM) - Inactive	956368084
+Engine Low Preheat Temp Warn - (MEDIUM) - Active	956368085
+Engine Ecu Defective - (LOW) - Inactive	956368086
+Engine Ecu Defective - (LOW) - Active	956368087
+Engine Prelube Fault - (MAJOR) - Inactive	956368088
+Engine Prelube Fault - (MAJOR) - Active	956368089
+Engine Demanded Speed Alarm - (SILENT) - Inactive	956368090
+Engine Demanded Speed Alarm - (SILENT) - Active	956368091
+Engine Ss Engine Speed Low - (SILENT) - Inactive	956368092
+Engine Ss Engine Speed Low - (SILENT) - Active	956368093
+Engine Ss Overspeed - (SILENT) - Inactive	956368094
+Engine Ss Overspeed - (SILENT) - Active	956368095
+Setup Wheelbase Fault - (HIGH) - Inactive	956368096
+Setup Wheelbase Fault - (HIGH) - Active	956368097
+Setup Gear Ratio Fault - (HIGH) - Inactive	956368098
+Setup Gear Ratio Fault - (HIGH) - Active	956368099
+Setup Tire Diameter Fault - (HIGH) - Inactive	956368100
+Setup Tire Diameter Fault - (HIGH) - Active	956368101
+Setup Max. Engine Speed Fault - (HIGH) - Inactive	956368102
+Setup Max. Engine Speed Fault - (HIGH) - Active	956368103
+Setup Trackwidth Fault - (HIGH) - Inactive	956368104
+Setup Trackwidth Fault - (HIGH) - Active	956368105
+Setup Fc1 Norm Factor Fault - (HIGH) - Inactive	956368106
+Setup Fc1 Norm Factor Fault - (HIGH) - Active	956368107
+Setup Fc2 Norm Factor Fault - (HIGH) - Inactive	956368108
+Setup Fc2 Norm Factor Fault - (HIGH) - Active	956368109
+Setup Fc3 Norm Factor Fault - (HIGH) - Inactive	956368110
+Setup Fc3 Norm Factor Fault - (HIGH) - Active	956368111
+Setup Fc4 Norm Factor Fault - (HIGH) - Inactive	956368112
+Setup Fc4 Norm Factor Fault - (HIGH) - Active	956368113
+Sw Bug Array Out Of Bounds - (CRITICAL) - Inactive	956368114
+Sw Bug Array Out Of Bounds - (CRITICAL) - Active	956368115
+Sw Bug Divide By Zero - (CRITICAL) - Inactive	956368116
+Sw Bug Divide By Zero - (CRITICAL) - Active	956368117
+Setup Fast Task Cycle Invalid - (CRITICAL) - Inactive	956368118
+Setup Fast Task Cycle Invalid - (CRITICAL) - Active	956368119
+Setup Steering Angle Table Fault - (MAJOR) - Inactive	956368120
+Setup Steering Angle Table Fault - (MAJOR) - Active	956368121
+Setup Retard Torque Table Fault - (MAJOR) - Inactive	956368122
+Setup Retard Torque Table Fault - (MAJOR) - Active	956368123
+Setup Drive Torque Table Fault - (MAJOR) - Inactive	956368124
+Setup Drive Torque Table Fault - (MAJOR) - Active	956368125
+Setup Diesel Table Fault - (MAJOR) - Inactive	956368126
+Setup Diesel Table Fault - (MAJOR) - Active	956368127
+Setup Exciter Current Table Fault - (MAJOR) - Inactive	956368128
+Setup Exciter Current Table Fault - (MAJOR) - Active	956368129
+Setup Diesel Control Parameter Fault - (MAJOR) - Inactive	956368130
+Setup Diesel Control Parameter Fault - (MAJOR) - Active	956368131
+Setup Pedal Sensitive - (SILENT) - Inactive	956368132
+Setup Pedal Sensitive - (SILENT) - Active	956368133
+Setup Pedal Too High Threshold Not Set - (SILENT) - Inactive	956368134
+Setup Pedal Too High Threshold Not Set - (SILENT) - Active	956368135
+Setup Pedal Too Low Threshold Not Set - (SILENT) - Inactive	956368136
+Setup Pedal Too Low Threshold Not Set - (SILENT) - Active	956368137
+Setup Joystick Too High Threshold Not Set - (SILENT) - Inactive	956368138
+Setup Joystick Too High Threshold Not Set - (SILENT) - Active	956368139
+Setup Alt. Stator Temp Too High Threshold Not Set - (SILENT) - Inactive	956368140
+Setup Alt. Stator Temp Too High Threshold Not Set - (SILENT) - Active	956368141
+Setup Alt. Bear Temp Too High Threshold Not Set - (SILENT) - Inactive	956368142
+Setup Alt. Bear Temp Too High Threshold Not Set - (SILENT) - Active	956368143
+Setup Mot. Stator Temp Too High Threshold Not Set - (SILENT) - Inactive	956368144
+Setup Mot. Stator Temp Too High Threshold Not Set - (SILENT) - Active	956368145
+Setup Mot. Bearing Temp Too High Threshold Not Set - (SILENT) - Inactive	956368146
+Setup Mot. Bearing Temp Too High Threshold Not Set - (SILENT) - Active	956368147
+Setup Gear Oil Temp Too High Threshold Not Set - (SILENT) - Inactive	956368148
+Setup Gear Oil Temp Too High Threshold Not Set - (SILENT) - Active	956368149
+Setup Engine Coolant Temp High Threshold Not Set - (SILENT) - Inactive	956368150
+Setup Engine Coolant Temp High Threshold Not Set - (SILENT) - Active	956368151
+Setup Fnr Lever Fault Delay Not Set - (SILENT) - Inactive	956368152
+Setup Fnr Lever Fault Delay Not Set - (SILENT) - Active	956368153
+Setup Eop Low Threshold Not Set - (SILENT) - Inactive	956368154
+Setup Eop Low Threshold Not Set - (SILENT) - Active	956368155
+Setup: Payload Eww Not Set - (SILENT) - Inactive	956368156
+Setup: Payload Eww Not Set - (SILENT) - Active	956368157
+Setup: Vehicle Id Not Set - (SILENT) - Inactive	956368158
+Setup: Vehicle Id Not Set - (SILENT) - Active	956368159
+Press Switch Axle Box Ods - (LOW) - Inactive	956368160
+Press Switch Axle Box Ods - (LOW) - Active	956368161
+Can Truck Temp Module Node 11 Offline - (SILENT) - Inactive	956368162
+Can Truck Temp Module Node 11 Offline - (SILENT) - Active	956368163
+Setup: Mousetype.Cfg Is Not Installed - (SILENT) - Inactive	956368164
+Setup: Mousetype.Cfg Is Not Installed - (SILENT) - Active	956368165
+Setup: Iso_Hmi.Ttf Is Not Installed - (SILENT) - Inactive	956368166
+Setup: Iso_Hmi.Ttf Is Not Installed - (SILENT) - Active	956368167
+Setup: 7Za Is Not Installed - (SILENT) - Inactive	956368168
+Setup: 7Za Is Not Installed - (SILENT) - Active	956368169
+Press Service Brake To Release Park Brake - (MEDIUM) - Inactive	956368170
+Press Service Brake To Release Park Brake - (MEDIUM) - Active	956368171
+Raise Ladder To Release Park Brake - (MEDIUM) - Inactive	956368172
+Raise Ladder To Release Park Brake - (MEDIUM) - Active	956368173
+Enable Propulsion To Release Park Brake - (MEDIUM) - Inactive	956368174
+Enable Propulsion To Release Park Brake - (MEDIUM) - Active	956368175
+Cannot Engage Park Brake Trucks Moving - (MEDIUM) - Inactive	956368176
+Cannot Engage Park Brake Trucks Moving - (MEDIUM) - Active	956368177
+No Pressure Feedback From Park Brake - (MEDIUM) - Inactive	956368178
+No Pressure Feedback From Park Brake - (MEDIUM) - Active	956368179
+You Must Cycle Park Brake Switch - (MEDIUM) - Inactive	956368180
+You Must Cycle Park Brake Switch - (MEDIUM) - Active	956368181
+The Engine Is Producing Too Much Power - (LOW) - Inactive	956368182
+The Engine Is Producing Too Much Power - (LOW) - Active	956368183
+The File Freediskmemory.Sh Is Missing - (LOW) - Inactive	956368184
+The File Freediskmemory.Sh Is Missing - (LOW) - Active	956368185
+The Drive Was Unable To Discharge The Dc Link Bus - (HIGH) - Inactive	956368186
+The Drive Was Unable To Discharge The Dc Link Bus - (HIGH) - Active	956368187
+The Engine Has A Red Alarm - (CRITICAL) - Inactive	956368188
+The Engine Has A Red Alarm - (CRITICAL) - Active	956368189
+The Engine Has A Yellow Alarm - (MEDIUM) - Inactive	956368190
+The Engine Has A Yellow Alarm - (MEDIUM) - Active	956368191
+The File Data_Log_Header_A.Txt Is Missing - (SILENT) - Inactive	956368196
+The File Data_Log_Header_A.Txt Is Missing - (SILENT) - Active	956368197
+The File Data_Log_Header_B.Txt Is Missing - (SILENT) - Inactive	956368198
+The File Data_Log_Header_B.Txt Is Missing - (SILENT) - Active	956368199
+Fc1 Warning - (SILENT) - Inactive	956368200
+Fc1 Warning - (SILENT) - Active	956368201
+Fc2 Warning - (SILENT) - Inactive	956368202
+Fc2 Warning - (SILENT) - Active	956368203
+Fc3 Warning - (SILENT) - Inactive	956368204
+Fc3 Warning - (SILENT) - Active	956368205
+Fc4 Warning - (SILENT) - Inactive	956368206
+Fc4 Warning - (SILENT) - Active	956368207
+Fc5 Warning - (SILENT) - Inactive	956368208
+Fc5 Warning - (SILENT) - Active	956368209
+Brake Chopper 1 Open Circuit - (HIGH) - Inactive	956368210
+Brake Chopper 1 Open Circuit - (HIGH) - Active	956368211
+Brake Chopper 2 Open Circuit - (HIGH) - Inactive	956368212
+Brake Chopper 2 Open Circuit - (HIGH) - Active	956368213
+Brake Chopper 3 Open Circuit - (HIGH) - Inactive	956368214
+Brake Chopper 3 Open Circuit - (HIGH) - Active	956368215
+Brake Chopper 4 Open Circuit - (HIGH) - Inactive	956368216
+Brake Chopper 4 Open Circuit - (HIGH) - Active	956368217
+The Brake/Steer Tank Pressure Sensor Is Damaged - (LOW) - Inactive	956368218
+The Brake/Steer Tank Pressure Sensor Is Damaged - (LOW) - Active	956368219
+The Brake/Steer Tank Pressure Is Low - (SILENT) - Inactive	956368220
+The Brake/Steer Tank Pressure Is Low - (SILENT) - Active	956368221
+The Brake/Steer Tank Pressure Is Low - (LOW) - Inactive	956368222
+The Brake/Steer Tank Pressure Is Low - (LOW) - Active	956368223
+The Brake/Steer Tank Pressure Is High - (LOW) - Inactive	956368224
+The Brake/Steer Tank Pressure Is High - (LOW) - Active	956368225
+The Hoist Tank Pressure Sensor Is Damaged - (LOW) - Inactive	956368226
+The Hoist Tank Pressure Sensor Is Damaged - (LOW) - Active	956368227
+The Hoist Tank Pressure Is Low - (SILENT) - Inactive	956368228
+The Hoist Tank Pressure Is Low - (SILENT) - Active	956368229
+The Hoist Tank Pressure Is Low - (LOW) - Inactive	956368230
+The Hoist Tank Pressure Is Low - (LOW) - Active	956368231
+The Hoist Tank Pressure Is High - (LOW) - Inactive	956368232
+The Hoist Tank Pressure Is High - (LOW) - Active	956368233
+Can Truck Node 4 Disc. (L. Frame) - (HIGH) - Inactive	956368234
+Can Truck Node 4 Disc. (L. Frame) - (HIGH) - Active	956368235
+Ground Fault Warning - (SILENT) - Inactive	956368258
+Ground Fault Warning - (SILENT) - Active	956368259
+Generator Voltage Is Too Low - (LOW) - Inactive	956368260
+Generator Voltage Is Too Low - (LOW) - Active	956368261
+Noise On Speed Signal Fc1 Detected - (SILENT) - Inactive	956368262
+Noise On Speed Signal Fc1 Detected - (SILENT) - Active	956368263
+Noise On Speed Signal Fc2 Detected - (SILENT) - Inactive	956368264
+Noise On Speed Signal Fc2 Detected - (SILENT) - Active	956368265
+Noise On Speed Signal Fc3 Detected - (SILENT) - Inactive	956368266
+Noise On Speed Signal Fc3 Detected - (SILENT) - Active	956368267
+Noise On Speed Signal Fc4 Detected - (SILENT) - Inactive	956368268
+Noise On Speed Signal Fc4 Detected - (SILENT) - Active	956368269
+The Steering Pressure Did Not Bleed Down Properly - (MEDIUM) - Inactive	956368272
+The Steering Pressure Did Not Bleed Down Properly - (MEDIUM) - Active	956368273
+Main Blower Pressure Switch In Axle Box Is Damaged - (LOW) - Inactive	956368274
+Main Blower Pressure Switch In Axle Box Is Damaged - (LOW) - Active	956368275
+Main Blower Pressure Switch In Axle Box (Ods) Is Damaged - (LOW) - Inactive	956368276
+Main Blower Pressure Switch In Axle Box (Ods) Is Damaged - (LOW) - Active	956368277
+Main Blower Hose At Axle Box Disc (Ods). - (HIGH) - Inactive	956368278
+Main Blower Hose At Axle Box Disc (Ods). - (HIGH) - Active	956368279
+Main Blower Hose At Axle Box Disc (Ds). - (HIGH) - Inactive	956368280
+Main Blower Hose At Axle Box Disc (Ds). - (HIGH) - Active	956368281
+Power Stack 1 Fault - (CRITICAL) - Inactive	956368282
+Power Stack 1 Fault - (CRITICAL) - Active	956368283
+Load	956368285
+Empty	956368287
+Power Stack 2 Fault - (CRITICAL) - Inactive	956368288
+Power Stack 2 Fault - (CRITICAL) - Active	956368289
+Power Stack 3 Fault - (CRITICAL) - Inactive	956368290
+Power Stack 3 Fault - (CRITICAL) - Active	956368291
+Power Stack 4 Fault - (CRITICAL) - Inactive	956368292
+Power Stack 4 Fault - (CRITICAL) - Active	956368293
+Brake Chopper Fault - (CRITICAL) - Inactive	956368294
+Brake Chopper Fault - (CRITICAL) - Active	956368295
+Operator Going Over Truck Speed Limit - (MEDIUM) - Inactive	956368296
+Operator Going Over Truck Speed Limit - (MEDIUM) - Active	956368297
+Could Not Find Cf Card - (SILENT) - Inactive	956368298
+Could Not Find Cf Card - (SILENT) - Active	956368299
+Could Not Clear Memory - (SILENT) - Inactive	956368300
+Could Not Clear Memory - (SILENT) - Active	956368301
+Driver Dumping Without Seatbelt - (MEDIUM) - Inactive	956368302
+Driver Dumping Without Seatbelt - (MEDIUM) - Active	956368303
+Driver Driving Without Seatbelt - (LOW) - Inactive	956368304
+Driver Driving Without Seatbelt - (LOW) - Active	956368305
+Passenger Is Not Wearing Seatbelt. - (LOW) - Inactive	956368306
+Passenger Is Not Wearing Seatbelt. - (LOW) - Active	956368307
+Dcdc Converter Fault - (CRITICAL) - Inactive	956368308
+Dcdc Converter Fault - (CRITICAL) - Active	956368309
+Udc Deflection Too High - (SILENT) - Inactive	956368310
+Udc Deflection Too High - (SILENT) - Active	956368311
+Possible Brake Abuse - (SILENT) - Inactive	956368312
+Possible Brake Abuse - (SILENT) - Active	956368313
+Engine Emergency Stop Pressed - (MEDIUM) - Inactive	956368314
+Engine Emergency Stop Pressed - (MEDIUM) - Active	956368315
+Left Front Service Break Dragging - (HIGH) - Inactive	956368316
+Left Front Service Break Dragging - (HIGH) - Active	956368317
+Left Rear Service Break Dragging - (HIGH) - Inactive	956368318
+Left Rear Service Break Dragging - (HIGH) - Active	956368319
+Right Front Service Break Dragging - (MEDIUM) - Inactive	956368320
+Right Front Service Break Dragging - (MEDIUM) - Active	956368321
+Right Rear Service Break Dragging - (MEDIUM) - Inactive	956368322
+Right Rear Service Break Dragging - (MEDIUM) - Active	956368323
+Left Front Break Drag Sensor Is Damaged - (MEDIUM) - Inactive	956368324
+Left Front Break Drag Sensor Is Damaged - (MEDIUM) - Active	956368325
+Left Rear Break Drag Sensor Is Damaged - (MEDIUM) - Inactive	956368326
+Left Rear Break Drag Sensor Is Damaged - (MEDIUM) - Active	956368327
+Right Rear Break Drag Sensor Is Damaged - (HIGH) - Inactive	956368328
+Right Rear Break Drag Sensor Is Damaged - (HIGH) - Active	956368329
+Right Front Break Drag Sensor Is Damaged - (HIGH) - Inactive	956368330
+Right Front Break Drag Sensor Is Damaged - (HIGH) - Active	956368331
+EPEC Node 30 Is Disconected From The CAN Truck - (HIGH) - Inactive	956368334
+EPEC Node 30 Is Disconected From The CAN Truck - (HIGH) - Active	956368335
+Front Brake Pilot Pressure Sensor Is Disconnected - (CRITICAL) - Inactive	956368336
+Front Brake Pilot Pressure Sensor Is Disconnected - (CRITICAL) - Active	956368337
+Rear Brake Pilot Pressure Sensor Is Disconnected - (CRITICAL) - Inactive	956368338
+Rear Brake Pilot Pressure Sensor Is Disconnected - (CRITICAL) - Active	956368339
+Front Brake Accumulator Pressure Is Low - (SILENT) - Inactive	956368340
+Front Brake Accumulator Pressure Is Low - (SILENT) - Active	956368341
+Rear Brake Accumulator Pressure Is Low - (MEDIUM) - Inactive	956368342
+Rear Brake Accumulator Pressure Is Low - (MEDIUM) - Active	956368343
+The File DataLogHeaderC.txt Is Missing - (HIGH) - Inactive	956368344
+The File DataLogHeaderC.txt Is Missing - (HIGH) - Active	956368345
+Driver Leaves Cab With Park Break Not Set - (HIGH) - Inactive	956368346
+Driver Leaves Cab With Park Break Not Set - (HIGH) - Active	956368347
+Engine Speed Too Low - (HIGH) - Inactive	956368348
+Engine Speed Too Low - (HIGH) - Active	956368349
+Driver1 Was Propel Inhibited - (HIGH) - Inactive	956368350
+Driver1 Was Propel Inhibited - (HIGH) - Active	956368351
+Driver2 Was Propel Inhibited - (HIGH) - Inactive	956368352
+Driver2 Was Propel Inhibited - (HIGH) - Active	956368353
+Driver3 Was Propel Inhibited - (SILENT) - Inactive	956368354
+Driver3 Was Propel Inhibited - (SILENT) - Active	956368355
+Driver4 Was Propel Inhibited - (LOW) - Inactive	956368356
+Driver4 Was Propel Inhibited - (LOW) - Active	956368357
+The File ClearFiles.sh Is Missing - (LOW) - Inactive	956368358
+The File ClearFiles.sh Is Missing - (LOW) - Active	956368359
+Anti Rollback Not Reliable - (LOW) - Inactive	956368360
+Anti Rollback Not Reliable - (LOW) - Active	956368361
+Driver Is Pressing Accel And Decel Pedals At The Same Time - (LOW) - Inactive	956368362
+Driver Is Pressing Accel And Decel Pedals At The Same Time - (LOW) - Active	956368363
+Door Is Ajar And Park Break Is Not Properly Secured - (MAJOR) - Inactive	956368364
+Door Is Ajar And Park Break Is Not Properly Secured - (MAJOR) - Active	956368365
+Autolube Test Is In Progress - (MAJOR) - Inactive	956368366
+Autolube Test Is In Progress - (MAJOR) - Active	956368367
+The N2XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (MAJOR) - Inactive	956368368
+The N2XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (MAJOR) - Active	956368369
+The N3XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (MAJOR) - Inactive	956368370
+The N3XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (MAJOR) - Active	956368371
+The N4XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (MAJOR) - Inactive	956368372
+The N4XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (MAJOR) - Active	956368373
+The N8XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (MAJOR) - Inactive	956368374
+The N8XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (MAJOR) - Active	956368375
+The N30XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (TEST) - Inactive	956368376
+The N30XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (TEST) - Active	956368377
+The N33XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (TEST) - Inactive	956368378
+The N33XM122 Shorted Pin Is Used As A 24V Reference For Sensors - (TEST) - Active	956368379
+The Left Front Strut Pressure Signal Is Unresponsive - (TEST) - Inactive	956368380
+The Left Front Strut Pressure Signal Is Unresponsive - (TEST) - Active	956368381
+The Right Front Strut Pressure Signal Is Unresponsive - (TEST) - Inactive	956368382
+The Right Front Strut Pressure Signal Is Unresponsive - (TEST) - Active	956368383
+The Left Rear Strut Pressure Signal Is Unresponsive - (SILENT) - Inactive	956368384
+The Left Rear Strut Pressure Signal Is Unresponsive - (SILENT) - Active	956368385
+The Right Rear Strut Pressure Signal Is Unresponsive - (SILENT) - Inactive	956368386
+The Right Rear Strut Pressure Signal Is Unresponsive - (SILENT) - Active	956368387
+Left Front Strut Pressure Is Too High - (SILENT) - Inactive	956368388
+Left Front Strut Pressure Is Too High - (SILENT) - Active	956368389
+Left Front Strut Pressure Is Too Low - (SILENT) - Inactive	956368390
+Left Front Strut Pressure Is Too Low - (SILENT) - Active	956368391
+Right Front Strut Pressure Is Too High - (SILENT) - Inactive	956368392
+Right Front Strut Pressure Is Too High - (SILENT) - Active	956368393
+Right Front Strut Pressure Is Too Low - (SILENT) - Inactive	956368394
+Right Front Strut Pressure Is Too Low - (SILENT) - Active	956368395
+Left Rear Strut Pressure Is Too High - (SILENT) - Inactive	956368396
+Left Rear Strut Pressure Is Too High - (SILENT) - Active	956368397
+Left Rear Strut Pressure Is Too Low - (SILENT) - Inactive	956368398
+Left Rear Strut Pressure Is Too Low - (SILENT) - Active	956368399
+Right Rear Strut Pressure Is Too High - (LOW) - Inactive	956368400
+Right Rear Strut Pressure Is Too High - (LOW) - Active	956368401
+Right Rear Strut Pressure Is Too Low - (HIGH) - Inactive	956368402
+Right Rear Strut Pressure Is Too Low - (HIGH) - Active	956368403
+The Traction Control System Is OFF - (CRITICAL) - Inactive	956368404
+The Traction Control System Is OFF - (CRITICAL) - Active	956368405
+Different DC-Link Voltage Reading Between FCs And PLC - (CRITICAL) - Inactive	956368406
+Different DC-Link Voltage Reading Between FCs And PLC - (CRITICAL) - Active	956368407
+Difference Of Reference And Actual DC-Link Voltage - (CRITICAL) - Inactive	956368408
+Difference Of Reference And Actual DC-Link Voltage - (CRITICAL) - Active	956368409
+Measured Resistor Current Higher - (CRITICAL) - Inactive	956368410
+Measured Resistor Current Higher - (CRITICAL) - Active	956368411
+Major Powerpart Failure/groundfault - (LOW) - Inactive	956368412
+Major Powerpart Failure/groundfault - (LOW) - Active	956368413
+Major Powerpart Failure/drop DC Link Voltage - (LOW) - Inactive	956368414
+Major Powerpart Failure/drop DC Link Voltage - (LOW) - Active	956368415
+Left Front Wheel Shows Wrong Direction - (SILENT) - Inactive	956368416
+Left Front Wheel Shows Wrong Direction - (SILENT) - Active	956368417
+Right Front Wheel Shows Wrong Direction - (SILENT) - Inactive	956368418
+Right Front Wheel Shows Wrong Direction - (SILENT) - Active	956368419
+Ladder Raise Timeout - (SILENT) - Inactive	956368420
+Ladder Raise Timeout - (SILENT) - Active	956368421
+Ladder Lower Timeout - (SILENT) - Inactive	956368422
+Ladder Lower Timeout - (SILENT) - Active	956368423
+Ladder Accum Fault - (SILENT) - Inactive	956368424
+Ladder Accum Fault - (SILENT) - Active	956368425
+Ladder High Pressure - (SILENT) - Inactive	956368426
+Ladder High Pressure - (SILENT) - Active	956368427
+Ladder Low Pressure - (SILENT) - Inactive	956368428
+Ladder Low Pressure - (SILENT) - Active	956368429
+Ladder Shorted Switch - (SILENT) - Inactive	956368430
+Ladder Shorted Switch - (SILENT) - Active	956368431
+FC1 Warning OC - (SILENT) - Inactive	956368432
+FC1 Warning OC - (SILENT) - Active	956368433
+FC2 Warning OC - (SILENT) - Inactive	956368434
+FC2 Warning OC - (SILENT) - Active	956368435
+FC3 Warning OC - (SILENT) - Inactive	956368436
+FC3 Warning OC - (SILENT) - Active	956368437
+FC4 Warning OC - (SILENT) - Inactive	956368438
+FC4 Warning OC - (SILENT) - Active	956368439
+FC5 Warning OC - (SILENT) - Inactive	956368440
+FC5 Warning OC - (SILENT) - Active	956368441
+FC1 Warning NF - (SILENT) - Inactive	956368442
+FC1 Warning NF - (SILENT) - Active	956368443
+FC2 Warning NF - (SILENT) - Inactive	956368444
+FC2 Warning NF - (SILENT) - Active	956368445
+FC3 Warning NF - (SILENT) - Inactive	956368446
+FC3 Warning NF - (SILENT) - Active	956368447
+FC4 Warning NF - (SILENT) - Inactive	956368448
+FC4 Warning NF - (SILENT) - Active	956368449
+FC5 Warning NF - (TEST) - Inactive	956368450
+FC5 Warning NF - (TEST) - Active	956368451
+DCDC Warning - (TEST) - Inactive	956368452
+DCDC Warning - (TEST) - Active	956368453
+Accum Bledr Vlv Ooen Steer - (TEST) - Inactive	956368454
+Accum Bledr Vlv Ooen Steer - (TEST) - Active	956368455
+Accum Bledr Vlv Ooen Steer Brake Frnt Supply - (TEST) - Inactive	956368456
+Accum Bledr Vlv Ooen Steer Brake Frnt Supply - (TEST) - Active	956368457
+Accum Bledr Vlv Ooen Steer Brake Rear Supply - (TEST) - Inactive	956368458
+Accum Bledr Vlv Ooen Steer Brake Rear Supply - (TEST) - Active	956368459
+Accum Bledr Vlv Ooen Steer Brake Frnt Pilot - (SILENT) - Inactive	956368460
+Accum Bledr Vlv Ooen Steer Brake Frnt Pilot - (SILENT) - Active	956368461
+Accum Bledr Vlv Ooen Steer Brake Rear Pilot - (SILENT) - Inactive	956368462
+Accum Bledr Vlv Ooen Steer Brake Rear Pilot - (SILENT) - Active	956368463
+High Torque Test Is Active And Running - (SILENT) - Inactive	956368464
+High Torque Test Is Active And Running - (SILENT) - Active	956368465
+Warning Level For Main Blower Coolant Liquide - (SILENT) - Inactive	956368466
+Warning Level For Main Blower Coolant Liquide - (SILENT) - Active	956368467
+Warning Level For Grid Blower Coolant Liquide - (SILENT) - Inactive	956368468
+Warning Level For Grid Blower Coolant Liquide - (SILENT) - Active	956368469
+Warning Level For DCDC Converter Coolant Liquide - (SILENT) - Inactive	956368470
+Warning Level For DCDC Converter Coolant Liquide - (SILENT) - Active	956368471
+Warning Level For Rectifier Coolant Liquide - (SILENT) - Inactive	956368472
+Warning Level For Rectifier Coolant Liquide - (SILENT) - Active	956368473
+Warning Level For Brakechopper Coolant Liquide - (SILENT) - Inactive	956368474
+Warning Level For Brakechopper Coolant Liquide - (SILENT) - Active	956368475
+Warning Level For Powerstack 1 Coolant Liquide - (SILENT) - Inactive	956368476
+Warning Level For Powerstack 1 Coolant Liquide - (SILENT) - Active	956368477
+Warning Level For Powerstack 2 Coolant Liquide - (SILENT) - Inactive	956368478
+Warning Level For Powerstack 2 Coolant Liquide - (SILENT) - Active	956368479
+Warning Level For Powerstack 3 Coolant Liquide - (CRITICAL) - Inactive	956368480
+Warning Level For Powerstack 3 Coolant Liquide - (CRITICAL) - Active	956368481
+Warning Level For Powerstack 4 Coolant Liquide - (CRITICAL) - Inactive	956368482
+Warning Level For Powerstack 4 Coolant Liquide - (CRITICAL) - Active	956368483
+Main Blower Converter - Motor Is Disconnected - (CRITICAL) - Inactive	956368484
+Main Blower Converter - Motor Is Disconnected - (CRITICAL) - Active	956368485
+Grid Blower Converter - Motor Is Disconnected - (TEST) - Inactive	956368486
+Grid Blower Converter - Motor Is Disconnected - (TEST) - Active	956368487
+Coolant Pump Converter - Motor Is Disconnected - (TEST) - Inactive	956368488
+Coolant Pump Converter - Motor Is Disconnected - (TEST) - Active	956368489
+GV Radar 1 FLT - (TEST) - Inactive	956368490
+GV Radar 1 FLT - (TEST) - Active	956368491
+GV Radar 2 FLT - (TEST) - Inactive	956368492
+GV Radar 2 FLT - (TEST) - Active	956368493
+GV Radar 3 FLT - (TEST) - Inactive	956368494
+GV Radar 3 FLT - (TEST) - Active	956368495
+GV Radar 4 FLT - (TEST) - Inactive	956368496
+GV Radar 4 FLT - (TEST) - Active	956368497
+GV Radar 5 FLT - (TEST) - Inactive	956368498
+GV Radar 5 FLT - (TEST) - Active	956368499
+GV Radar 6 FLT - (TEST) - Inactive	956368500
+GV Radar 6 FLT - (TEST) - Active	956368501
+GV Radar 7 FLT - (LOW) - Inactive	956368502
+GV Radar 7 FLT - (LOW) - Active	956368503
+GV Radar 8 FLT - (LOW) - Inactive	956368504
+GV Radar 8 FLT - (LOW) - Active	956368505
+Main Controller Software Version Mismatch - (CRITICAL) - Inactive	956368506
+Main Controller Software Version Mismatch - (CRITICAL) - Active	956368507
+Software Version Mismatch - (LOW) - Inactive	956368508
+Software Version Mismatch - (LOW) - Active	956368509
+Speed Signal Lost - (CRITICAL) - Inactive	956368510
+Speed Signal Lost - (CRITICAL) - Active	956368511
+Int Man Press 1 Ckt Failed High - (MEDIUM) - Inactive	956368512
+Int Man Press 1 Ckt Failed High - (MEDIUM) - Active	956368513
+Int Man Press 1 Ckt Failed Low - (MEDIUM) - Inactive	956368514
+Int Man Press 1 Ckt Failed Low - (MEDIUM) - Active	956368515
+High Int Man Press 1 - (MEDIUM) - Inactive	956368516
+High Int Man Press 1 - (MEDIUM) - Active	956368517
+Oil Press Ckt Failed High - (MEDIUM) - Inactive	956368518
+Oil Press Ckt Failed High - (MEDIUM) - Active	956368519
+Oil Press Ckt Failed Low - (MEDIUM) - Inactive	956368520
+Oil Press Ckt Failed Low - (MEDIUM) - Active	956368521
+Low Oil Press - (MEDIUM) - Inactive	956368522
+Low Oil Press - (MEDIUM) - Active	956368523
+Coolant Temp Ckt Failed High - (MEDIUM) - Inactive	956368524
+Coolant Temp Ckt Failed High - (MEDIUM) - Active	956368525
+Coolant Temp Ckt Failed Low - (MEDIUM) - Inactive	956368526
+Coolant Temp Ckt Failed Low - (MEDIUM) - Active	956368527
+Coolant Temp Above Normal - (MEDIUM) - Inactive	956368528
+Coolant Temp Above Normal - (MEDIUM) - Active	956368529
+High Coolant Temp - (CRITICAL) - Inactive	956368530
+High Coolant Temp - (CRITICAL) - Active	956368531
+Int Man Temp 1 Ckt Failed High - (MEDIUM) - Inactive	956368532
+Int Man Temp 1 Ckt Failed High - (MEDIUM) - Active	956368533
+Int Man Temp 1 Ckt Failed Low - (MEDIUM) - Inactive	956368534
+Int Man Temp 1 Ckt Failed Low - (MEDIUM) - Active	956368535
+High Int Man Temp 1 - (CRITICAL) - Inactive	956368536
+High Int Man Temp 1 - (CRITICAL) - Active	956368537
+Int Man Temp 2 Ckt Failed High - (MEDIUM) - Inactive	956368538
+Int Man Temp 2 Ckt Failed High - (MEDIUM) - Active	956368539
+Int Man Temp 2 Ckt Failed Low - (MEDIUM) - Inactive	956368540
+Int Man Temp 2 Ckt Failed Low - (MEDIUM) - Active	956368541
+Int Man Temp 3 Ckt Failed High - (MEDIUM) - Inactive	956368544
+Int Man Temp 3 Ckt Failed High - (MEDIUM) - Active	956368545
+Int Man Temp 3 Ckt Failed Low - (MEDIUM) - Inactive	956368546
+Int Man Temp 3 Ckt Failed Low - (MEDIUM) - Active	956368547
+High Int Man Temp 3 - (CRITICAL) - Inactive	956368548
+High Int Man Temp 3 - (CRITICAL) - Active	956368549
+Int Man Temp 4 Ckt Failed High - (MEDIUM) - Inactive	956368550
+Int Man Temp 4 Ckt Failed High - (MEDIUM) - Active	956368551
+Int Man Temp 4 Ckt Failed Low - (MEDIUM) - Inactive	956368552
+Int Man Temp 4 Ckt Failed Low - (MEDIUM) - Active	956368553
+High Int Man Temp 4 - (CRITICAL) - Inactive	956368554
+High Int Man Temp 4 - (CRITICAL) - Active	956368555
+Sensor Supply 2 Ckt Failed Low - (MEDIUM) - Inactive	956368556
+Sensor Supply 2 Ckt Failed Low - (MEDIUM) - Active	956368557
+Coolant Level Ckt Failed High - (MEDIUM) - Inactive	956368558
+Coolant Level Ckt Failed High - (MEDIUM) - Active	956368559
+Coolant Level Ckt Failed Low - (MEDIUM) - Inactive	956368560
+Coolant Level Ckt Failed Low - (MEDIUM) - Active	956368561
+Coolant Level Below Normal - (MEDIUM) - Inactive	956368562
+Coolant Level Below Normal - (MEDIUM) - Active	956368563
+Oil Temp Ckt Failed High - (MEDIUM) - Inactive	956368564
+Oil Temp Ckt Failed High - (MEDIUM) - Active	956368565
+Oil Temp Ckt Failed Low - (MEDIUM) - Inactive	956368566
+Oil Temp Ckt Failed Low - (MEDIUM) - Active	956368567
+Ambient Air Press Failed High - (MEDIUM) - Inactive	956368568
+Ambient Air Press Failed High - (MEDIUM) - Active	956368569
+Ambient Air Press Failed Low - (MEDIUM) - Inactive	956368570
+Ambient Air Press Failed Low - (MEDIUM) - Active	956368571
+Centinel Burn Valve Below Normal - (MEDIUM) - Inactive	956368572
+Centinel Burn Valve Below Normal - (MEDIUM) - Active	956368573
+Centinel Burn Valve Above Normal - (MEDIUM) - Inactive	956368574
+Centinel Burn Valve Above Normal - (MEDIUM) - Active	956368575
+Sensor Supply 2 Ckt Failed High - (MEDIUM) - Inactive	956368576
+Sensor Supply 2 Ckt Failed High - (MEDIUM) - Active	956368577
+Very Low Coolant Pressure - (CRITICAL) - Inactive	956368578
+Very Low Coolant Pressure - (CRITICAL) - Active	956368579
+Coolant Press Ckt Failed High - (MEDIUM) - Inactive	956368580
+Coolant Press Ckt Failed High - (MEDIUM) - Active	956368581
+Coolant Press Ckt Failed Low - (MEDIUM) - Inactive	956368582
+Coolant Press Ckt Failed Low - (MEDIUM) - Active	956368583
+Eng Overspeed - (CRITICAL) - Inactive	956368584
+Eng Overspeed - (CRITICAL) - Active	956368585
+Low Coolant Level - (CRITICAL) - Inactive	956368586
+Low Coolant Level - (CRITICAL) - Active	956368587
+Sensor Supply 3 Ckt Failed Low - (MEDIUM) - Inactive	956368590
+Sensor Supply 3 Ckt Failed Low - (MEDIUM) - Active	956368591
+Fan Control Circuit Failed Low - (MEDIUM) - Inactive	956368592
+Fan Control Circuit Failed Low - (MEDIUM) - Active	956368593
+High Fuel Temp( Moderate Level ) - (MEDIUM) - Inactive	956368594
+High Fuel Temp( Moderate Level ) - (MEDIUM) - Active	956368595
+Fuel Temp Ckt Failed High - (MEDIUM) - Inactive	956368596
+Fuel Temp Ckt Failed High - (MEDIUM) - Active	956368597
+Fuel Temp Ckt Failed Low - (MEDIUM) - Inactive	956368598
+Fuel Temp Ckt Failed Low - (MEDIUM) - Active	956368599
+High Fuel Temp( Most Sever Level ) - (CRITICAL) - Inactive	956368600
+High Fuel Temp( Most Sever Level ) - (CRITICAL) - Active	956368601
+Fuel Pump Press 1 Ckt Failed Low - (MEDIUM) - Inactive	956368602
+Fuel Pump Press 1 Ckt Failed Low - (MEDIUM) - Active	956368603
+Fuel Pump Press 1 Ckt Failed High - (MEDIUM) - Inactive	956368604
+Fuel Pump Press 1 Ckt Failed High - (MEDIUM) - Active	956368605
+J1939 PGN Timeout Error - (MEDIUM) - Inactive	956368606
+J1939 PGN Timeout Error - (MEDIUM) - Active	956368607
+J1939 Configuration Error - (MEDIUM) - Inactive	956368608
+J1939 Configuration Error - (MEDIUM) - Active	956368609
+Aux Pressure 1 Exception - (CRITICAL) - Inactive	956368610
+Aux Pressure 1 Exception - (CRITICAL) - Active	956368611
+Real Time Clock - Data Erratic - (LOW) - Inactive	956368612
+Real Time Clock - Data Erratic - (LOW) - Active	956368613
+Injector Sol Driver Cyl 1 Below Normal - (MEDIUM) - Inactive	956368614
+Injector Sol Driver Cyl 1 Below Normal - (MEDIUM) - Active	956368615
+Injector Sol Driver Cyl 5 Below Normal - (MEDIUM) - Inactive	956368616
+Injector Sol Driver Cyl 5 Below Normal - (MEDIUM) - Active	956368617
+Injector Sol Driver Cyl 3 Below Normal - (MEDIUM) - Inactive	956368618
+Injector Sol Driver Cyl 3 Below Normal - (MEDIUM) - Active	956368619
+Injector Sol Driver Cyl 6 Below Normal - (MEDIUM) - Inactive	956368620
+Injector Sol Driver Cyl 6 Below Normal - (MEDIUM) - Active	956368621
+Injector Sol Driver Cyl 2 Below Normal - (MEDIUM) - Inactive	956368622
+Injector Sol Driver Cyl 2 Below Normal - (MEDIUM) - Active	956368623
+Injector Sol Driver Cyl 4 Below Normal - (MEDIUM) - Inactive	956368624
+Injector Sol Driver Cyl 4 Below Normal - (MEDIUM) - Active	956368625
+Calibration Incompatibility Error - (CRITICAL) - Inactive	956368626
+Calibration Incompatibility Error - (CRITICAL) - Active	956368627
+ECM Hardware Issue Non Mission Disabling - (MEDIUM) - Inactive	956368628
+ECM Hardware Issue Non Mission Disabling - (MEDIUM) - Active	956368629
+Injector Power Supply Failed - (MEDIUM) - Inactive	956368630
+Injector Power Supply Failed - (MEDIUM) - Active	956368631
+Sensor Supply 1 Ckt Failed Low - (MEDIUM) - Inactive	956368632
+Sensor Supply 1 Ckt Failed Low - (MEDIUM) - Active	956368633
+Sensor Supply 1 Ckt Failed High - (MEDIUM) - Inactive	956368634
+Sensor Supply 1 Ckt Failed High - (MEDIUM) - Active	956368635
+Very Low Oil Pressure - (CRITICAL) - Inactive	956368636
+Very Low Oil Pressure - (CRITICAL) - Active	956368637
+WIF Indicator Warning - (LOW) - Inactive	956368638
+WIF Indicator Warning - (LOW) - Active	956368639
+Engine Oil Temp Above Normal - (MEDIUM) - Inactive	956368640
+Engine Oil Temp Above Normal - (MEDIUM) - Active	956368641
+J1939 Datalink Can Not Transmit - (LOW) - Inactive	956368642
+J1939 Datalink Can Not Transmit - (LOW) - Active	956368643
+Idle Validation Invalid - (MEDIUM) - Inactive	956368644
+Idle Validation Invalid - (MEDIUM) - Active	956368645
+Idle Validation Calibration Error - (CRITICAL) - Inactive	956368646
+Idle Validation Calibration Error - (CRITICAL) - Active	956368647
+Low Battery Voltage - (MEDIUM) - Inactive	956368648
+Low Battery Voltage - (MEDIUM) - Active	956368649
+High Battery Voltage - (MEDIUM) - Inactive	956368650
+High Battery Voltage - (MEDIUM) - Active	956368651
+High Rail Pressure - (CRITICAL) - Inactive	956368652
+High Rail Pressure - (CRITICAL) - Active	956368653
+Rail Press Ckt Failed High - (MEDIUM) - Inactive	956368654
+Rail Press Ckt Failed High - (MEDIUM) - Active	956368655
+Rail Press Ckt Failed Low - (MEDIUM) - Inactive	956368656
+Rail Press Ckt Failed Low - (MEDIUM) - Active	956368657
+Ether Bottle Empty - (MEDIUM) - Inactive	956368658
+Ether Bottle Empty - (MEDIUM) - Active	956368659
+High Intake Manifold Temp - (MEDIUM) - Inactive	956368660
+High Intake Manifold Temp - (MEDIUM) - Active	956368661
+AXG Speed Low Error - (MEDIUM) - Inactive	956368662
+AXG Speed Low Error - (MEDIUM) - Active	956368663
+Dual Output A Failed High - (MEDIUM) - Inactive	956368666
+Dual Output A Failed High - (MEDIUM) - Active	956368667
+Dual Output B Failed High - (MEDIUM) - Inactive	956368668
+Dual Output B Failed High - (MEDIUM) - Active	956368669
+Fuel Del Pressure Ckt Failed High - (MEDIUM) - Inactive	956368670
+Fuel Del Pressure Ckt Failed High - (MEDIUM) - Active	956368671
+Fuel Del Pressure Ckt Failed Low - (MEDIUM) - Inactive	956368672
+Fuel Del Pressure Ckt Failed Low - (MEDIUM) - Active	956368673
+Crankcase Pressure Above Normal - (MEDIUM) - Inactive	956368674
+Crankcase Pressure Above Normal - (MEDIUM) - Active	956368675
+High Crankcase Pressure - (CRITICAL) - Inactive	956368676
+High Crankcase Pressure - (CRITICAL) - Active	956368677
+Rail Pressure 1 Below Normal - (MEDIUM) - Inactive	956368678
+Rail Pressure 1 Below Normal - (MEDIUM) - Active	956368679
+Aux Commanded Dual Output Shutdown - (CRITICAL) - Inactive	956368680
+Aux Commanded Dual Output Shutdown - (CRITICAL) - Active	956368681
+Engine Hot Shutdown - (LOW) - Inactive	956368682
+Engine Hot Shutdown - (LOW) - Active	956368683
+Low Power Cylinder 1 - (LOW) - Inactive	956368684
+Low Power Cylinder 1 - (LOW) - Active	956368685
+Low Power Cylinder 3 - (LOW) - Inactive	956368686
+Low Power Cylinder 3 - (LOW) - Active	956368687
+Low Power Cylinder 5 - (LOW) - Inactive	956368688
+Low Power Cylinder 5 - (LOW) - Active	956368689
+Low Power Cylinder 7 - (LOW) - Inactive	956368690
+Low Power Cylinder 7 - (LOW) - Active	956368691
+Low Power Cylinder 9 - (LOW) - Inactive	956368692
+Low Power Cylinder 9 - (LOW) - Active	956368693
+Low Power Cylinder 11 - (LOW) - Inactive	956368694
+Low Power Cylinder 11 - (LOW) - Active	956368695
+Low Power Cylinder 13 - (LOW) - Inactive	956368696
+Low Power Cylinder 13 - (LOW) - Active	956368697
+Low Power Cylinder 15 - (LOW) - Inactive	956368698
+Low Power Cylinder 15 - (LOW) - Active	956368699
+Low Power Cylinder 2 - (LOW) - Inactive	956368700
+Low Power Cylinder 2 - (LOW) - Active	956368701
+Low Power Cylinder 4 - (LOW) - Inactive	956368702
+Low Power Cylinder 4 - (LOW) - Active	956368703
+Low Power Cylinder 6 - (LOW) - Inactive	956368704
+Low Power Cylinder 6 - (LOW) - Active	956368705
+Low Power Cylinder 8 - (LOW) - Inactive	956368706
+Low Power Cylinder 8 - (LOW) - Active	956368707
+Low Power Cylinder 10 - (LOW) - Inactive	956368708
+Low Power Cylinder 10 - (LOW) - Active	956368709
+Low Power Cylinder 12 - (LOW) - Inactive	956368710
+Low Power Cylinder 12 - (LOW) - Active	956368711
+Low Power Cylinder 14 - (LOW) - Inactive	956368712
+Low Power Cylinder 14 - (LOW) - Active	956368713
+Low Power Cylinder 16 - (LOW) - Inactive	956368714
+Low Power Cylinder 16 - (LOW) - Active	956368715
+Exh Temp Ckt Failed Low Cylinder 1 - (LOW) - Inactive	956368716
+Exh Temp Ckt Failed Low Cylinder 1 - (LOW) - Active	956368717
+Exh Temp Ckt Failed Low Cylinder 3 - (LOW) - Inactive	956368718
+Exh Temp Ckt Failed Low Cylinder 3 - (LOW) - Active	956368719
+Exh Temp Ckt Failed Low Cylinder 5 - (LOW) - Inactive	956368720
+Exh Temp Ckt Failed Low Cylinder 5 - (LOW) - Active	956368721
+Exh Temp Ckt Failed Low Cylinder 7 - (LOW) - Inactive	956368722
+Exh Temp Ckt Failed Low Cylinder 7 - (LOW) - Active	956368723
+Exh Temp Ckt Failed Low Cylinder 9 - (LOW) - Inactive	956368724
+Exh Temp Ckt Failed Low Cylinder 9 - (LOW) - Active	956368725
+Exh Temp Ckt Failed Low Cylinder 11 - (LOW) - Inactive	956368726
+Exh Temp Ckt Failed Low Cylinder 11 - (LOW) - Active	956368727
+Exh Temp Ckt Failed Low Cylinder 13 - (LOW) - Inactive	956368728
+Exh Temp Ckt Failed Low Cylinder 13 - (LOW) - Active	956368729
+Exh Temp Ckt Failed Low Cylinder 15 - (LOW) - Inactive	956368730
+Exh Temp Ckt Failed Low Cylinder 15 - (LOW) - Active	956368731
+Engine Crankshaft Speed Erratic - (MEDIUM) - Inactive	956368732
+Engine Crankshaft Speed Erratic - (MEDIUM) - Active	956368733
+ECM Temp Ckt Failed High - (MEDIUM) - Inactive	956368734
+ECM Temp Ckt Failed High - (MEDIUM) - Active	956368735
+ECM Temp Ckt Failed Low - (MEDIUM) - Inactive	956368736
+ECM Temp Ckt Failed Low - (MEDIUM) - Active	956368737
+Exh Temp Ckt Failed Low Cylinder 2 - (LOW) - Inactive	956368738
+Exh Temp Ckt Failed Low Cylinder 2 - (LOW) - Active	956368739
+Exh Temp Ckt Failed Low Cylinder 4 - (LOW) - Inactive	956368740
+Exh Temp Ckt Failed Low Cylinder 4 - (LOW) - Active	956368741
+Exh Temp Ckt Failed Low Cylinder 6 - (LOW) - Inactive	956368742
+Exh Temp Ckt Failed Low Cylinder 6 - (LOW) - Active	956368743
+Exh Temp Ckt Failed Low Cylinder 8 - (LOW) - Inactive	956368744
+Exh Temp Ckt Failed Low Cylinder 8 - (LOW) - Active	956368745
+Exh Temp Ckt Failed Low Cylinder 10 - (LOW) - Inactive	956368746
+Exh Temp Ckt Failed Low Cylinder 10 - (LOW) - Active	956368747
+Exh Temp Ckt Failed Low Cylinder 12 - (LOW) - Inactive	956368748
+Exh Temp Ckt Failed Low Cylinder 12 - (LOW) - Active	956368749
+Exh Temp Ckt Failed Low Cylinder 14 - (LOW) - Inactive	956368750
+Exh Temp Ckt Failed Low Cylinder 14 - (LOW) - Active	956368751
+Exh Temp Ckt Failed Low Cylinder 16 - (LOW) - Inactive	956368752
+Exh Temp Ckt Failed Low Cylinder 16 - (LOW) - Active	956368753
+Engine Speed Cam/Crank Misalignment - (MEDIUM) - Inactive	956368754
+Engine Speed Cam/Crank Misalignment - (MEDIUM) - Active	956368755
+J1939 Datalink 2 Can Not Transmit - (MEDIUM) - Inactive	956368756
+J1939 Datalink 2 Can Not Transmit - (MEDIUM) - Active	956368757
+Rapid Rise Intake Manifold Temperature 1 - (CRITICAL) - Inactive	956368758
+Rapid Rise Intake Manifold Temperature 1 - (CRITICAL) - Active	956368759
+Power Lost With Ignition On - (LOW) - Inactive	956368760
+Power Lost With Ignition On - (LOW) - Active	956368761
+J1939 Datalink 2 Can Not Transmit - (CRITICAL) - Inactive	956368762
+J1939 Datalink 2 Can Not Transmit - (CRITICAL) - Active	956368763
+Module ID Input State Error - (MEDIUM) - Inactive	956368764
+Module ID Input State Error - (MEDIUM) - Active	956368765
+Module ID Input State Error - (CRITICAL) - Inactive	956368766
+Module ID Input State Error - (CRITICAL) - Active	956368767
+Remote Oil Level Below Normal - (MEDIUM) - Inactive	956368768
+Remote Oil Level Below Normal - (MEDIUM) - Active	956368769
+Accel Pedal Sensor 1 Ckt Failed High - (MEDIUM) - Inactive	956368770
+Accel Pedal Sensor 1 Ckt Failed High - (MEDIUM) - Active	956368771
+Accel Pedal Sensor 1 Ckt Failed Low - (MEDIUM) - Inactive	956368772
+Accel Pedal Sensor 1 Ckt Failed Low - (MEDIUM) - Active	956368773
+Remote Accel Pedal 1 Ckt Failed High - (MEDIUM) - Inactive	956368774
+Remote Accel Pedal 1 Ckt Failed High - (MEDIUM) - Active	956368775
+High Lube Oil Filter Restriction - (MEDIUM) - Inactive	956368776
+High Lube Oil Filter Restriction - (MEDIUM) - Active	956368777
+Int Man Press 1 Below Normal - (LOW) - Inactive	956368778
+Int Man Press 1 Below Normal - (LOW) - Active	956368779
+Pre Filter Oil Press Ckt Failed High - (LOW) - Inactive	956368780
+Pre Filter Oil Press Ckt Failed High - (LOW) - Active	956368781
+Pre Filter Oil Press Ckt Failed Low - (LOW) - Inactive	956368782
+Pre Filter Oil Press Ckt Failed Low - (LOW) - Active	956368783
+Aux Temp Input 1 Ckt Failed High - (LOW) - Inactive	956368784
+Aux Temp Input 1 Ckt Failed High - (LOW) - Active	956368785
+Aux Press Input 1 Ckt Failed High - (LOW) - Inactive	956368786
+Aux Press Input 1 Ckt Failed High - (LOW) - Active	956368787
+Aux Press Input 1 Ckt Failed Low - (LOW) - Inactive	956368788
+Aux Press Input 1 Ckt Failed Low - (LOW) - Active	956368789
+Ether Injection Ckt Failed - (LOW) - Inactive	956368790
+Ether Injection Ckt Failed - (LOW) - Active	956368791
+Turbo Speed Sensor Ckt Failed High - (LOW) - Inactive	956368792
+Turbo Speed Sensor Ckt Failed High - (LOW) - Active	956368793
+Turbo Speed Sensor Ckt Failed Low - (LOW) - Inactive	956368794
+Turbo Speed Sensor Ckt Failed Low - (LOW) - Active	956368795
+Engine Speed Cam/Crank Data Erratic - (LOW) - Inactive	956368796
+Engine Speed Cam/Crank Data Erratic - (LOW) - Active	956368797
+Post Filter Oil Press Ckt Failed High - (LOW) - Inactive	956368798
+Post Filter Oil Press Ckt Failed High - (LOW) - Active	956368799
+Post Filter Oil Press Ckt Failed Low - (LOW) - Inactive	956368800
+Post Filter Oil Press Ckt Failed Low - (LOW) - Active	956368801
+Aux Temp Input 1 Ckt Exception - (LOW) - Inactive	956368802
+Aux Temp Input 1 Ckt Exception - (LOW) - Active	956368803
+Int Man Press 1 Failed High - (LOW) - Inactive	956368804
+Int Man Press 1 Failed High - (LOW) - Active	956368805
+Int Man Press 1 Failed Low - (LOW) - Inactive	956368806
+Int Man Press 1 Failed Low - (LOW) - Active	956368807
+Int Man Press 2 Failed High - (LOW) - Inactive	956368808
+Int Man Press 2 Failed High - (LOW) - Active	956368809
+Int Man Press 2 Failed Low - (LOW) - Inactive	956368810
+Int Man Press 2 Failed Low - (LOW) - Active	956368811
+J1939 Engine Commanded Shutdown - (LOW) - Inactive	956368812
+J1939 Engine Commanded Shutdown - (LOW) - Active	956368813
+Gen Output Freq Ckt Failed High - (MEDIUM) - Inactive	956368814
+Gen Output Freq Ckt Failed High - (MEDIUM) - Active	956368815
+Droop Adj Ckt Failed High - (MEDIUM) - Inactive	956368816
+Droop Adj Ckt Failed High - (MEDIUM) - Active	956368817
+Gain Adj Ckt Failed High - (MEDIUM) - Inactive	956368818
+Gain Adj Ckt Failed High - (MEDIUM) - Active	956368819
+Overspeed Shutdown Relay Driver Error - (MEDIUM) - Inactive	956368820
+Overspeed Shutdown Relay Driver Error - (MEDIUM) - Active	956368821
+Low Oil Press Shutdown Relay Driver Err - (MEDIUM) - Inactive	956368822
+Low Oil Press Shutdown Relay Driver Err - (MEDIUM) - Active	956368823
+High Eng Temp Shutdown Relay Driver Err - (MEDIUM) - Inactive	956368824
+High Eng Temp Shutdown Relay Driver Err - (MEDIUM) - Active	956368825
+Oil Pressure Relay Driver Error - (MEDIUM) - Inactive	956368826
+Oil Pressure Relay Driver Error - (MEDIUM) - Active	956368827
+High Engine Temp Relay Driver Error - (MEDIUM) - Inactive	956368828
+High Engine Temp Relay Driver Error - (MEDIUM) - Active	956368829
+Engine Cold- Potential Starting Issue - (MEDIUM) - Inactive	956368830
+Engine Cold- Potential Starting Issue - (MEDIUM) - Active	956368831
+Accel Pedal Pos Sensor Ckt 1 Freq Issue - (MEDIUM) - Inactive	956368832
+Accel Pedal Pos Sensor Ckt 1 Freq Issue - (MEDIUM) - Active	956368833
+Engine Crankshaft Speed Above Normal - (LOW) - Inactive	956368834
+Engine Crankshaft Speed Above Normal - (LOW) - Active	956368835
+ECM Detects Most Severe Fault - (CRITICAL) - Inactive	956368836
+ECM Detects Most Severe Fault - (CRITICAL) - Active	956368837
+ECM Detects Moderately Severe Fault - (MEDIUM) - Inactive	956368838
+ECM Detects Moderately Severe Fault - (MEDIUM) - Active	956368839
+ECM Detects Least Severe Fault - (LOW) - Inactive	956368840
+ECM Detects Least Severe Fault - (LOW) - Active	956368841
+Exh Temp Ckt Failed High Cylinder 3 - (LOW) - Inactive	956368842
+Exh Temp Ckt Failed High Cylinder 3 - (LOW) - Active	956368843
+Exh Temp Ckt Failed High Cylinder 5 - (LOW) - Inactive	956368844
+Exh Temp Ckt Failed High Cylinder 5 - (LOW) - Active	956368845
+Exh Temp Ckt Failed High Cylinder 7 - (LOW) - Inactive	956368846
+Exh Temp Ckt Failed High Cylinder 7 - (LOW) - Active	956368847
+Exh Temp Ckt Failed High Cylinder 9 - (LOW) - Inactive	956368848
+Exh Temp Ckt Failed High Cylinder 9 - (LOW) - Active	956368849
+Exh Temp Ckt Failed High Cylinder 11 - (LOW) - Inactive	956368850
+Exh Temp Ckt Failed High Cylinder 11 - (LOW) - Active	956368851
+Exh Temp Ckt Failed High Cylinder 13 - (LOW) - Inactive	956368852
+Exh Temp Ckt Failed High Cylinder 13 - (LOW) - Active	956368853
+Exh Temp Ckt Failed High Cylinder 15 - (LOW) - Inactive	956368854
+Exh Temp Ckt Failed High Cylinder 15 - (LOW) - Active	956368855
+Exh Temp Ckt Failed High Cylinder 17 - (LOW) - Inactive	956368856
+Exh Temp Ckt Failed High Cylinder 17 - (LOW) - Active	956368857
+Exh Temp Ckt Failed High Cylinder 2 - (LOW) - Inactive	956368858
+Exh Temp Ckt Failed High Cylinder 2 - (LOW) - Active	956368859
+Exh Temp Ckt Failed High Cylinder 6 - (LOW) - Inactive	956368860
+Exh Temp Ckt Failed High Cylinder 6 - (LOW) - Active	956368861
+Exh Temp Ckt Failed High Cylinder 8 - (LOW) - Inactive	956368862
+Exh Temp Ckt Failed High Cylinder 8 - (LOW) - Active	956368863
+Exh Temp Ckt Failed High Cylinder 10 - (LOW) - Inactive	956368864
+Exh Temp Ckt Failed High Cylinder 10 - (LOW) - Active	956368865
+Exh Temp Ckt Failed High Cylinder 12 - (LOW) - Inactive	956368866
+Exh Temp Ckt Failed High Cylinder 12 - (LOW) - Active	956368867
+Exh Temp Ckt Failed High Cylinder 14 - (LOW) - Inactive	956368868
+Exh Temp Ckt Failed High Cylinder 14 - (LOW) - Active	956368869
+Exh Temp Ckt Failed High Cylinder 16 - (LOW) - Inactive	956368870
+Exh Temp Ckt Failed High Cylinder 16 - (LOW) - Active	956368871
+Exh Temp Ckt Failed High Cylinder 18 - (LOW) - Inactive	956368872
+Exh Temp Ckt Failed High Cylinder 18 - (LOW) - Active	956368873
+Aux Pressure Sensor Input 1 Exception - (LOW) - Inactive	956368874
+Aux Pressure Sensor Input 1 Exception - (LOW) - Active	956368875
+Injector Sol Driver 7 Below Normal - (MEDIUM) - Inactive	956368876
+Injector Sol Driver 7 Below Normal - (MEDIUM) - Active	956368877
+Injector Sol Driver 8 Below Normal - (MEDIUM) - Inactive	956368878
+Injector Sol Driver 8 Below Normal - (MEDIUM) - Active	956368879
+Injector Sol Driver 10 Below Normal - (MEDIUM) - Inactive	956368880
+Injector Sol Driver 10 Below Normal - (MEDIUM) - Active	956368881
+Injector Sol Driver 11 Below Normal - (MEDIUM) - Inactive	956368882
+Injector Sol Driver 11 Below Normal - (MEDIUM) - Active	956368883
+Injector Sol Driver 12 Below Normal - (MEDIUM) - Inactive	956368884
+Injector Sol Driver 12 Below Normal - (MEDIUM) - Active	956368885
+Injector Sol Driver 13 Below Normal - (MEDIUM) - Inactive	956368886
+Injector Sol Driver 13 Below Normal - (MEDIUM) - Active	956368887
+Injector Sol Driver 14 Below Normal - (MEDIUM) - Inactive	956368888
+Injector Sol Driver 14 Below Normal - (MEDIUM) - Active	956368889
+Injector Sol Driver 15 Below Normal - (MEDIUM) - Inactive	956368890
+Injector Sol Driver 15 Below Normal - (MEDIUM) - Active	956368891
+Injector Sol Driver 16 Below Normal - (MEDIUM) - Inactive	956368892
+Injector Sol Driver 16 Below Normal - (MEDIUM) - Active	956368893
+Injector Sol Driver 17 Below Normal - (MEDIUM) - Inactive	956368894
+Injector Sol Driver 17 Below Normal - (MEDIUM) - Active	956368895
+Injector Sol Driver 18 Below Normal - (MEDIUM) - Inactive	956368896
+Injector Sol Driver 18 Below Normal - (MEDIUM) - Active	956368897
+Remote Accel Pedal 1 Ckt Failed High - (MEDIUM) - Inactive	956368898
+Remote Accel Pedal 1 Ckt Failed High - (MEDIUM) - Active	956368899
+Aux Temp Sensor Input 1 Ckt Failed Low - (LOW) - Inactive	956368900
+Aux Temp Sensor Input 1 Ckt Failed Low - (LOW) - Active	956368901
+ECM Criticial Internal Failure - (LOW) - Inactive	956368902
+ECM Criticial Internal Failure - (LOW) - Active	956368903
+Exh Temp Ckt Failed High Cylinder 1 - (LOW) - Inactive	956368904
+Exh Temp Ckt Failed High Cylinder 1 - (LOW) - Active	956368905
+Exh Temp Ckt Failed High Cylinder 4 - (LOW) - Inactive	956368906
+Exh Temp Ckt Failed High Cylinder 4 - (LOW) - Active	956368907
+Injector Sol Driver 9 Below Normal - (MEDIUM) - Inactive	956368908
+Injector Sol Driver 9 Below Normal - (MEDIUM) - Active	956368909
+Int Man Press 2 Above Normal - (MEDIUM) - Inactive	956368910
+Int Man Press 2 Above Normal - (MEDIUM) - Active	956368911
+Int Man Press 2 Below Normal - (LOW) - Inactive	956368912
+Int Man Press 2 Below Normal - (LOW) - Active	956368913
+Crankcase Press Ckt Failed High - (MEDIUM) - Inactive	956368914
+Crankcase Press Ckt Failed High - (MEDIUM) - Active	956368915
+Crankcase Press Ckt Failed Low - (MEDIUM) - Inactive	956368916
+Crankcase Press Ckt Failed Low - (MEDIUM) - Active	956368917
+WIF Indicator Ckt Failed High - (LOW) - Inactive	956368918
+WIF Indicator Ckt Failed High - (LOW) - Active	956368919
+WIF Indicator Ckt Failed Low - (LOW) - Inactive	956368920
+WIF Indicator Ckt Failed Low - (LOW) - Active	956368921
+Engine Coolant Temp Exception - (CRITICAL) - Inactive	956368922
+Engine Coolant Temp Exception - (CRITICAL) - Active	956368923
+WIF Indicator Above Normal - (MEDIUM) - Inactive	956368924
+WIF Indicator Above Normal - (MEDIUM) - Active	956368925
+J1939 Accel Pedal Error - (LOW) - Inactive	956368926
+J1939 Accel Pedal Error - (LOW) - Active	956368927
+J1939 Remote Accel Pedal Error - (LOW) - Inactive	956368928
+J1939 Remote Accel Pedal Error - (LOW) - Active	956368929
+Engine Oil Change Interval Exceeded - (MEDIUM) - Inactive	956368930
+Engine Oil Change Interval Exceeded - (MEDIUM) - Active	956368931
+Inj Rail Pressure Above Normal - (MEDIUM) - Inactive	956368932
+Inj Rail Pressure Above Normal - (MEDIUM) - Active	956368933
+Load Bias Ckt Failed High - (MEDIUM) - Inactive	956368934
+Load Bias Ckt Failed High - (MEDIUM) - Active	956368935
+Load Bias Ckt Failed Low - (MEDIUM) - Inactive	956368936
+Load Bias Ckt Failed Low - (MEDIUM) - Active	956368937
+Int Man Temp 2 Above Normal - (MEDIUM) - Inactive	956368938
+Int Man Temp 2 Above Normal - (MEDIUM) - Active	956368939
+Int Man Temp 3 Above Normal - (MEDIUM) - Inactive	956368940
+Int Man Temp 3 Above Normal - (MEDIUM) - Active	956368941
+Int Man Temp 4 Above Normal - (MEDIUM) - Inactive	956368942
+Int Man Temp 4 Above Normal - (MEDIUM) - Active	956368943
+Int Man Temp 5 Above Normal - (MEDIUM) - Inactive	956368944
+Int Man Temp 5 Above Normal - (MEDIUM) - Active	956368945
+Int Man Temp 6 Above Normal - (MEDIUM) - Inactive	956368946
+Int Man Temp 6 Above Normal - (MEDIUM) - Active	956368947
+Engine Speed Above Normal - (CRITICAL) - Inactive	956368948
+Engine Speed Above Normal - (CRITICAL) - Active	956368949
+High Exhaust Temp Cyl 1 - (MEDIUM) - Inactive	956368950
+High Exhaust Temp Cyl 1 - (MEDIUM) - Active	956368951
+High Exhaust Temp Cyl 3 - (MEDIUM) - Inactive	956368952
+High Exhaust Temp Cyl 3 - (MEDIUM) - Active	956368953
+High Exhaust Temp Cyl 5 - (MEDIUM) - Inactive	956368954
+High Exhaust Temp Cyl 5 - (MEDIUM) - Active	956368955
+High Exhaust Temp Cyl 7 - (MEDIUM) - Inactive	956368956
+High Exhaust Temp Cyl 7 - (MEDIUM) - Active	956368957
+High Exhaust Temp Cyl 9 - (MEDIUM) - Inactive	956368958
+High Exhaust Temp Cyl 9 - (MEDIUM) - Active	956368959
+High Exhaust Temp Cyl 11 - (MEDIUM) - Inactive	956368960
+High Exhaust Temp Cyl 11 - (MEDIUM) - Active	956368961
+High Exhaust Temp Cyl 13 - (MEDIUM) - Inactive	956368962
+High Exhaust Temp Cyl 13 - (MEDIUM) - Active	956368963
+High Exhaust Temp Cyl 15 - (MEDIUM) - Inactive	956368964
+High Exhaust Temp Cyl 15 - (MEDIUM) - Active	956368965
+High Exhaust Temp Cyl 17 - (MEDIUM) - Inactive	956368966
+High Exhaust Temp Cyl 17 - (MEDIUM) - Active	956368967
+High Exhaust Temp Cyl 2 - (MEDIUM) - Inactive	956368968
+High Exhaust Temp Cyl 2 - (MEDIUM) - Active	956368969
+High Exhaust Temp Cyl 4 - (MEDIUM) - Inactive	956368970
+High Exhaust Temp Cyl 4 - (MEDIUM) - Active	956368971
+High Exhaust Temp Cyl 6 - (MEDIUM) - Inactive	956368972
+High Exhaust Temp Cyl 6 - (MEDIUM) - Active	956368973
+High Exhaust Temp Cyl 8 - (MEDIUM) - Inactive	956368974
+High Exhaust Temp Cyl 8 - (MEDIUM) - Active	956368975
+High Exhaust Temp Cyl 10 - (MEDIUM) - Inactive	956368976
+High Exhaust Temp Cyl 10 - (MEDIUM) - Active	956368977
+High Exhaust Temp Cyl 12 - (MEDIUM) - Inactive	956368978
+High Exhaust Temp Cyl 12 - (MEDIUM) - Active	956368979
+High Exhaust Temp Cyl 14 - (MEDIUM) - Inactive	956368980
+High Exhaust Temp Cyl 14 - (MEDIUM) - Active	956368981
+High Exhaust Temp Cyl 16 - (MEDIUM) - Inactive	956368982
+High Exhaust Temp Cyl 16 - (MEDIUM) - Active	956368983
+High Exhaust Temp Cyl 18 - (MEDIUM) - Inactive	956368984
+High Exhaust Temp Cyl 18 - (MEDIUM) - Active	956368985
+Exh Temp Ckt Failed Low Cylinder 17 - (LOW) - Inactive	956368986
+Exh Temp Ckt Failed Low Cylinder 17 - (LOW) - Active	956368987
+Exh Temp Ckt Failed Low Cylinder 18 - (LOW) - Inactive	956368988
+Exh Temp Ckt Failed Low Cylinder 18 - (LOW) - Active	956368989
+Low Power Cylinder 17 - (LOW) - Inactive	956368990
+Low Power Cylinder 17 - (LOW) - Active	956368991
+Low Power Cylinder 18 - (LOW) - Inactive	956368992
+Low Power Cylinder 18 - (LOW) - Active	956368993
+Rapid Rise Int Man Temp 2 - (CRITICAL) - Inactive	956368994
+Rapid Rise Int Man Temp 2 - (CRITICAL) - Active	956368995
+Rapid Rise Int Man Temp 3 - (CRITICAL) - Inactive	956368996
+Rapid Rise Int Man Temp 3 - (CRITICAL) - Active	956368997
+Rapid Rise Int Man Temp 4 - (CRITICAL) - Inactive	956368998
+Rapid Rise Int Man Temp 4 - (CRITICAL) - Active	956368999
+Sensor Supply 4 Ckt Above Normal - (MEDIUM) - Inactive	956369000
+Sensor Supply 4 Ckt Above Normal - (MEDIUM) - Active	956369001
+Sensor Supply 4 Ckt Below Normal - (MEDIUM) - Inactive	956369002
+Sensor Supply 4 Ckt Below Normal - (MEDIUM) - Active	956369003
+Fuel Pump Pressure Below Normal - (MEDIUM) - Inactive	956369004
+Fuel Pump Pressure Below Normal - (MEDIUM) - Active	956369005
+High Int Man Temp 5 - (CRITICAL) - Inactive	956369006
+High Int Man Temp 5 - (CRITICAL) - Active	956369007
+Int Man Temp 5 Ckt Failed High - (MEDIUM) - Inactive	956369008
+Int Man Temp 5 Ckt Failed High - (MEDIUM) - Active	956369009
+Int Man Temp 5 Ckt Failed Low - (MEDIUM) - Inactive	956369010
+Int Man Temp 5 Ckt Failed Low - (MEDIUM) - Active	956369011
+Rapid Rise Int Man Temp 2 - (CRITICAL) - Inactive	956369012
+Rapid Rise Int Man Temp 2 - (CRITICAL) - Active	956369013
+Int Man Temp 6 Ckt Failed High - (MEDIUM) - Inactive	956369016
+Int Man Temp 6 Ckt Failed High - (MEDIUM) - Active	956369017
+Int Man Temp 6 Ckt Failed Low - (MEDIUM) - Inactive	956369018
+Int Man Temp 6 Ckt Failed Low - (MEDIUM) - Active	956369019
+Rapid Rise Int Man Temp 6 - (CRITICAL) - Inactive	956369020
+Rapid Rise Int Man Temp 6 - (CRITICAL) - Active	956369021
+Fuel Pump Del Pressure Above Normal - (LOW) - Inactive	956369022
+Fuel Pump Del Pressure Above Normal - (LOW) - Active	956369023
+Fuel Pump Del Pressure Below Normal - (LOW) - Inactive	956369024
+Fuel Pump Del Pressure Below Normal - (LOW) - Active	956369025
+Lift Pump Supply Ckt Failed High - (MEDIUM) - Inactive	956369026
+Lift Pump Supply Ckt Failed High - (MEDIUM) - Active	956369027
+Lift Pump Supply Ckt Failed Low - (MEDIUM) - Inactive	956369028
+Lift Pump Supply Ckt Failed Low - (MEDIUM) - Active	956369029
+Fuel Injection Valve Ckt Error - (MEDIUM) - Inactive	956369030
+Fuel Injection Valve Ckt Error - (MEDIUM) - Active	956369031
+Engine Crankshaft Speed - Data Erratic - (LOW) - Inactive	956369032
+Engine Crankshaft Speed - Data Erratic - (LOW) - Active	956369033
+Engine Camshaft Speed - Data Erratic - (LOW) - Inactive	956369034
+Engine Camshaft Speed - Data Erratic - (LOW) - Active	956369035
+Fan Control Ckt Failed High - (MEDIUM) - Inactive	956369036
+Fan Control Ckt Failed High - (MEDIUM) - Active	956369037
+Aux PWM Driver 1 Ckt Failed High - (MEDIUM) - Inactive	956369038
+Aux PWM Driver 1 Ckt Failed High - (MEDIUM) - Active	956369039
+Aux PWM Driver 1 Ckt Failed Low - (MEDIUM) - Inactive	956369040
+Aux PWM Driver 1 Ckt Failed Low - (MEDIUM) - Active	956369041
+Engine Coolant Temp Above Normal - (LOW) - Inactive	956369042
+Engine Coolant Temp Above Normal - (LOW) - Active	956369043
+Int Man Temp 1 Above Normal - (LOW) - Inactive	956369044
+Int Man Temp 1 Above Normal - (LOW) - Active	956369045
+Trans Output Shaft Speed Above Normal - (MEDIUM) - Inactive	956369046
+Trans Output Shaft Speed Above Normal - (MEDIUM) - Active	956369047
+Truck Type Undefined - (CRITICAL) - Inactive	956369048
+Truck Type Undefined - (CRITICAL) - Active	956369049
+Drive System Ready Counter Incomplete - (MEDIUM) - Inactive	956369050
+Drive System Ready Counter Incomplete - (MEDIUM) - Active	956369051
+Auto Lube Diverter Valve Not Detected - (LOW) - Inactive	956369052
+Auto Lube Diverter Valve Not Detected - (LOW) - Active	956369053
+Front Brake Lining Damage Warning - (TEST) - Inactive	956369054
+Front Brake Lining Damage Warning - (TEST) - Active	956369055
+Front Brake Lining Damage Fault - (TEST) - Inactive	956369056
+Front Brake Lining Damage Fault - (TEST) - Active	956369057
+Rear Brake Lining Damage Warning - (TEST) - Inactive	956369058
+Rear Brake Lining Damage Warning - (TEST) - Active	956369059
+Rear Brake Lining Damage Warning - (TEST) - Inactive	956369060
+Rear Brake Lining Damage Warning - (TEST) - Active	956369061
+Engine Will Not Shutdown With Park Brake On - (LOW) - Inactive	956369062
+Engine Will Not Shutdown With Park Brake On - (LOW) - Active	956369063
+Engine Will Not Shutdown While Moving - (LOW) - Inactive	956369064
+Engine Will Not Shutdown While Moving - (LOW) - Active	956369065
+Left Front Strut May Be Flat - (TEST) - Inactive	956369066
+Left Front Strut May Be Flat - (TEST) - Active	956369067
+Right Front Strut May Be Flat - (TEST) - Inactive	956369068
+Right Front Strut May Be Flat - (TEST) - Active	956369069
+Left Rear Strut May Be Flat - (TEST) - Inactive	956369070
+Left Rear Strut May Be Flat - (TEST) - Active	956369071
+Right Rear Strut May Be Flat - (TEST) - Inactive	956369072
+Right Rear Strut May Be Flat - (TEST) - Active	956369073
+Longtime Front Struts Force Intensity Uneven (Left/Right) - (TEST) - Inactive	956369074
+Longtime Front Struts Force Intensity Uneven (Left/Right) - (TEST) - Active	956369075
+Longtime Rear Struts Force Intensity Uneven (Left/Right) - (TEST) - Inactive	956369076
+Longtime Rear Struts Force Intensity Uneven (Left/Right) - (TEST) - Active	956369077
+Noise On Engine Speed Detected - (SILENT) - Inactive	956369078
+Noise On Engine Speed Detected - (SILENT) - Active	956369079
+CAN Truck Node 35 Disc (Liebherr Ladder) - (LOW) - Inactive	956369080
+CAN Truck Node 35 Disc (Liebherr Ladder) - (LOW) - Active	956369081
+Set Park Brake Before Lowering - (LOW) - Inactive	956369082
+Set Park Brake Before Lowering - (LOW) - Active	956369083
+Dump Body Override Speed Limit Exceeded - (TEST) - Inactive	956369084
+Dump Body Override Speed Limit Exceeded - (TEST) - Active	956369085
+Overloaded Speed Limit Exceeded - (TEST) - Inactive	956369086
+Overloaded Speed Limit Exceeded - (TEST) - Active	956369087
+Key Switch Input Is Not Detected - (LOW) - Inactive	956369088
+Key Switch Input Is Not Detected - (LOW) - Active	956369089
+Engine Shutdown Timer Bypassed - (SILENT) - Inactive	956369090
+Engine Shutdown Timer Bypassed - (SILENT) - Active	956369091
+High Int Man Temp 2 - (CRITICAL) - Inactive	956369092
+High Int Man Temp 2 - (CRITICAL) - Active	956369093
+Front Hand Brake Failure - (HIGH) - Inactive	956369114
+Front Hand Brake Failure - (HIGH) - Active	956369115
+Rear Hand Brake Failure - (HIGH) - Inactive	956369116
+Rear Hand Brake Failure - (HIGH) - Active	956369117
+Front Brake Caliper Overpressure - (LOW) - Inactive	956369118
+Front Brake Caliper Overpressure - (LOW) - Active	956369119
+Rear Brake Caliper Overpressure - (LOW) - Inactive	956369120
+Rear Brake Caliper Overpressure - (LOW) - Active	956369121
+Engine Fan Speed Request Failure - (LOW) - Inactive	956369122
+Engine Fan Speed Request Failure - (LOW) - Active	956369123
+Clock Battery Error - (TEST) - Inactive	956369130
+Clock Battery Error - (TEST) - Active	956369131
+Date Out Of Range - (TEST) - Inactive	956369132
+Date Out Of Range - (TEST) - Active	956369133
+Non Matching Error - (TEST) - Inactive	956369134
+Non Matching Error - (TEST) - Active	956369135
+Steering Encoder Input Too Low DS - (LOW) - Inactive	956369140
+Steering Encoder Input Too Low DS - (LOW) - Active	956369141
+Steering Encoder Input Too High DS - (LOW) - Inactive	956369142
+Steering Encoder Input Too High DS - (LOW) - Active	956369143
+Steering Encoder Input Too Low ODS - (LOW) - Inactive	956369146
+Steering Encoder Input Too Low ODS - (LOW) - Active	956369147
+Steering Encoder Input Too High ODS - (LOW) - Inactive	956369148
+Steering Encoder Input Too High ODS - (LOW) - Active	956369149
+Cummins Engine Clutch Value Mismatch - (HIGH) - Inactive	956369150
+Cummins Engine Clutch Value Mismatch - (HIGH) - Active	956369151
+Maximum Engine Derate Exceeded - (SILENT) - Inactive	956369152
+Maximum Engine Derate Exceeded - (SILENT) - Active	956369153
+Dump Body Raising Has Been Disabled - (LOW) - Inactive	956369154
+Dump Body Raising Has Been Disabled - (LOW) - Active	956369155
+Circulation Loop Bypass Filter Dirty - (LOW) - Inactive	956369156
+Circulation Loop Bypass Filter Dirty - (LOW) - Active	956369157
+Circulation Loop Filter Miswired - (LOW) - Inactive	956369158
+Circulation Loop Filter Miswired - (LOW) - Active	956369159
+CAN Node 21 Grid Blower - (HIGH) - Inactive	956369160
+CAN Node 21 Grid Blower - (HIGH) - Active	956369161
+No Grid Blower Detected Online - (HIGH) - Inactive	956369162
+No Grid Blower Detected Online - (HIGH) - Active	956369163
+Both Grid Blower Detected Online - (HIGH) - Inactive	956369164
+Both Grid Blower Detected Online - (HIGH) - Active	956369165
+Propulsion Inhibit Has Been Overridden - (MEDIUM) - Inactive	956369166
+Propulsion Inhibit Has Been Overridden - (MEDIUM) - Active	956369167
+Dynamic Brake Is Not Available - (MEDIUM) - Inactive	956369168
+Dynamic Brake Is Not Available - (MEDIUM) - Active	956369169
+Propel Inhibit Override By Operator - (MEDIUM) - Inactive	956369170
+Propel Inhibit Override By Operator - (MEDIUM) - Active	956369171
+Hoist Pump Blending Disabled - Inactive	956369172
+Hoist Pump Blending Disabled - Active	956369173
+Brake Pilot Piston Front - Inactive	956369174
+Brake Pilot Piston Front - Active	956369175
+Brake Supply Piston Front - Inactive	956369176
+Brake Supply Piston Front - Active	956369177
+Brake Pilot Piston Rear - Inactive	956369178
+Brake Pilot Piston Rear - Active	956369179
+Brake Supply Piston Rear - Inactive	956369180
+Brake Supply Piston Rear - Active	956369181
+Steer Supply Piston Ds - Inactive	956369182
+Steer Supply Piston Ds - Active	956369183
+Steer Supply Piston Ods - Inactive	956369184
+Steer Supply Piston Ods - Active	956369185
+Pump Accum Piston - Inactive	956369186
+Pump Accum Piston - Active	956369187
+Hyd Press Precharge - Inactive	956369188
+Hyd Press Precharge - Active	956369189
+Hyd Temp Precharge - Inactive	956369190
+Hyd Temp Precharge - Active	956369191
+Hoist Temp Precharge - Inactive	956369192
+Hoist Temp Precharge - Active	956369193
+Brake Steer Temp Precharge - Inactive	956369194
+Brake Steer Temp Precharge - Active	956369195
+Hw Air Syst Press Sensor Error - Inactive	956369196
+Hw Air Syst Press Sensor Error - Active	956369197
+Hw Air Syst Low Fault - Inactive	956369198
+Hw Air Syst Low Fault - Active	956369199
+Engine Fan Overspeed - Inactive	956369204
+Engine Fan Overspeed - Active	956369205
+Hw Diff Dc Link Reading Fc1 - Inactive	956369208
+Hw Diff Dc Link Reading Fc1 - Active	956369209
+Hw Diff Dc Link Reading Fc4 - Inactive	956369210
+Hw Diff Dc Link Reading Fc4 - Active	956369211
+Hw Diff Dc Link Reading Ricos - Inactive	956369212
+Hw Diff Dc Link Reading Ricos - Active	956369213
+Left Rear Cal Press Low - Inactive	956369214
+Left Rear Cal Press Low - Active	956369215
+Right Rear Cal Press Low - Inactive	956369216
+Right Rear Cal Press Low - Active	956369217
+Left Front Cal Press Low - Inactive	956369218
+Left Front Cal Press Low - Active	956369219
+Right Front Cal Press Low - Inactive	956369220
+Right Front Cal Press Low - Active	956369221
+Left Rear Cal Press High - Inactive	956369222
+Left Rear Cal Press High - Active	956369223
+Right Rear Cal Press High - Inactive	956369224
+Right Rear Cal Press High - Active	956369225
+Left Front Cal Press High - Inactive	956369228
+Left Front Cal Press High - Active	956369229
+Right Front Cal Press High - Inactive	956369230
+Right Front Cal Press High - Active	956369231
+Lube Tank Level Sensor Error - Inactive	956369232
+Lube Tank Level Sensor Error - Active	956369233
+Lube Tank Level Low - Inactive	956369234
+Lube Tank Level Low - Active	956369235
+Manual Lube Overuse - Inactive	956369236
+Manual Lube Overuse - Active	956369237
+Engine Noshutdown Shift Lever Non Neutral - Inactive	956369238
+Engine Noshutdown Shift Lever Non Neutral - Active	956369239
+Acc Bled Vlv Open Brake Frnt Suply 4Acc - Inactive	956369240
+Acc Bled Vlv Open Brake Frnt Suply 4Acc - Active	956369241
+Acc Bled Vlv Open Brake Rear Suply 4Acc - Inactive	956369242
+Acc Bled Vlv Open Brake Rear Suply 4Acc - Active	956369243
+Trolley Panto Ds Press Low Low - Inactive	956369248
+Trolley Panto Ds Press Low Low - Active	956369249
+Trolley Hscb No Feedback - Inactive	956369256
+Trolley Hscb No Feedback - Active	956369257
+Trolley Dc Pos No Feedback - Inactive	956369258
+Trolley Dc Pos No Feedback - Active	956369259
+Trolley Panto Press Remains - Inactive	956369264
+Trolley Panto Press Remains - Active	956369265
+Trolley Panto Not Lowered - Inactive	956369266
+Trolley Panto Not Lowered - Active	956369267
+Trolley Dc Neg No Feedback - Inactive	956369268
+Trolley Dc Neg No Feedback - Active	956369269
+Trolley Cid No Feedback - Inactive	956369270
+Trolley Cid No Feedback - Active	956369271
+Trolley Tib Ctrl Overvoltage - Inactive	956369284
+Trolley Tib Ctrl Overvoltage - Active	956369285
+Trolley Tib Ctrl Currentwarning - Inactive	956369286
+Trolley Tib Ctrl Currentwarning - Active	956369287
+Trolley Tib Ctrl Voltagewarning - Inactive	956369288
+Trolley Tib Ctrl Voltagewarning - Active	956369289
+Trolley Tib Ctrl Plugmonitor - Inactive	956369290
+Trolley Tib Ctrl Plugmonitor - Active	956369291
+Trolley Tib Ctrl Overcurrent - Inactive	956369292
+Trolley Tib Ctrl Overcurrent - Active	956369293
+Trolley Tib Q2 Dc Sw Switching Cycles - Inactive	956369294
+Trolley Tib Q2 Dc Sw Switching Cycles - Active	956369295
+Trolley Tib Q3 Dc Sw Switching Cycles - Inactive	956369296
+Trolley Tib Q3 Dc Sw Switching Cycles - Active	956369297
+Trolley Tib Q3 Dc Sw Switching Cycles Warning - Inactive	956369298
+Trolley Tib Q3 Dc Sw Switching Cycles Warning - Active	956369299
+Trolley Tib Q2 Dc Sw Switching Cycles Warning - Inactive	956369300
+Trolley Tib Q2 Dc Sw Switching Cycles Warning - Active	956369301
+Trolley Tib Hscb Sw Switching Cycles Warning - Inactive	956369302
+Trolley Tib Hscb Sw Switching Cycles Warning - Active	956369303
+Trolley Tib Hscb Switching Cycles - Inactive	956369328
+Trolley Tib Hscb Switching Cycles - Active	956369329
+Trolley Tib Ctrl Communication - Inactive	956369330
+Trolley Tib Ctrl Communication - Active	956369331
+Trolley Pantograph Pressure Ds Low - Inactive	956369334
+Trolley Pantograph Pressure Ds Low - Active	956369335
+Trolley Pantograph Pressure Ods Low - Inactive	956369336
+Trolley Pantograph Pressure Ods Low - Active	956369337
+Trolley Pantograph Pressure Ods High - Inactive	956369338
+Trolley Pantograph Pressure Ods High - Active	956369339
+Trolley Pantograph Pressure Ds High - Inactive	956369340
+Trolley Pantograph Pressure Ds High - Active	956369341
+Trolley Pantograph Pressure Ds High High - Inactive	956369342
+Trolley Pantograph Pressure Ds High High - Active	956369343
+Trolley Pantograph Pressure Ods High High - Inactive	956369344
+Trolley Pantograph Pressure Ods High High - Active	956369345
+Trolley Pantograph Pressure Ods Sensor Error - Inactive	956369346
+Trolley Pantograph Pressure Ods Sensor Error - Active	956369347
+Trolley Panto Ods Press Low Low - Inactive	956369350
+Trolley Panto Ods Press Low Low - Active	956369351
+Trolley Under Voltage - Inactive	956369360
+Trolley Under Voltage - Active	956369361
+Trolley Hscb Voltage Out Of Range - Inactive	956369362
+Trolley Hscb Voltage Out Of Range - Active	956369363
+Trolley Dclink Voltage Out Of Range - Inactive	956369364
+Trolley Dclink Voltage Out Of Range - Active	956369365
+Trolley Ground Voltage Out Of Range - Inactive	956369366
+Trolley Ground Voltage Out Of Range - Active	956369367
+Trolley Self Test Failed - Inactive	956369424
+Trolley Self Test Failed - Active	956369425
+Trolley Diff Dc Link Reading - Inactive	956369426
+Trolley Diff Dc Link Reading - Active	956369427
+Trolley Dclink Adjust - Inactive	956369428
+Trolley Dclink Adjust - Active	956369429
+Trolley Current Adjust - Inactive	956369430
+Trolley Current Adjust - Active	956369431
+Trolley Voltage To High For Selftest - Inactive	956369432
+Trolley Voltage To High For Selftest - Active	956369433
+Trolley Lower Switch Error - Inactive	956369434
+Trolley Lower Switch Error - Active	956369435
+Trolley Panto Not Grounded - Inactive	956369442
+Trolley Panto Not Grounded - Active	956369443
+Trolley Overload Dc Contactors Warning - Inactive	956369444
+Trolley Overload Dc Contactors Warning - Active	956369445
+Trolley Overload Dc Contactors Error - Inactive	956369446
+Trolley Overload Dc Contactors Error - Active	956369447
+Trolley Diff Current Reading - Inactive	956369448
+Trolley Diff Current Reading - Active	956369449
+Trolley Current Out Of Range - Inactive	956369450
+Trolley Current Out Of Range - Active	956369451
+Tib Fault Handling System - Inactive	956369458
+Tib Fault Handling System - Active	956369459
+Trolley Dpm Communication To Fc - Inactive	956369460
+Trolley Dpm Communication To Fc - Active	956369461
+Trolley Ground Voltage Offset To High - Inactive	956369466
+Trolley Ground Voltage Offset To High - Active	956369467
+Trolley Current Offset To High - Inactive	956369468
+Trolley Current Offset To High - Active	956369469
+Trolley Ground Fault - Inactive	956369470
+Trolley Ground Fault - Active	956369471
+Trolley Ground Warning - Inactive	956369472
+Trolley Ground Warning - Active	956369473
+Trolley Lost Can To Drive - Inactive	956369474
+Trolley Lost Can To Drive - Active	956369475
+Trolley Can Checksum Wrong - Inactive	956369476
+Trolley Can Checksum Wrong - Active	956369477
+Trolley No Type Defined - Inactive	956369478
+Trolley No Type Defined - Active	956369479
+Trolley Ctrl Indirecttelease - Inactive	956369482
+Trolley Ctrl Indirecttelease - Active	956369483
+Trolley Panto Not Lowered At Zero Speed - Inactive	956369492
+Trolley Panto Not Lowered At Zero Speed - Active	956369493
+Trolley Hscb Mechanical Overhaul Cycles Reached - Inactive	956369500
+Trolley Hscb Mechanical Overhaul Cycles Reached - Active	956369501
+Trolley Hscb Cid Mechanical Overhaul Cycles Reached - Inactive	956369502
+Trolley Hscb Cid Mechanical Overhaul Cycles Reached - Active	956369503
+Trolley Q2 Dc Mechanical Overhaul Cycles Reached - Inactive	956369504
+Trolley Q2 Dc Mechanical Overhaul Cycles Reached - Active	956369505
+Trolley Q3 Dc Mechanical Overhaul Cycles Reached - Inactive	956369506
+Trolley Q3 Dc Mechanical Overhaul Cycles Reached - Active	956369507
+Trolley Hscb Mechanical Overhaul Cycles Reached Warning - Inactive	956369508
+Trolley Hscb Mechanical Overhaul Cycles Reached Warning - Active	956369509
+Trolley Hscb Cid Mechanical Overhaul Cycles Reached Warning - Inactive	956369510
+Trolley Hscb Cid Mechanical Overhaul Cycles Reached Warning - Active	956369511
+Trolley Q2 Dc Mechanical Overhaul Cycles Reached Warning - Inactive	956369512
+Trolley Q2 Dc Mechanical Overhaul Cycles Reached Warning - Active	956369513
+Trolley Q3 Dc Mechanical Overhaul Cycles Reached Warning - Inactive	956369514
+Trolley Q3 Dc Mechanical Overhaul Cycles Reached Warning - Active	956369515
+Trolley Tib Hscb Cid Switching Cycles - Inactive	956369516
+Trolley Tib Hscb Cid Switching Cycles - Active	956369517
+Trolley Tib Hscb Cid Switching Cycles Warning - Inactive	956369518
+Trolley Tib Hscb Cid Switching Cycles Warning - Active	956369519
+Trolley Power Difference Limit Reached - Inactive	956369520
+Trolley Power Difference Limit Reached - Active	956369521
+Tib No Self Test Panto Up - Inactive	956369522
+Tib No Self Test Panto Up - Active	956369523
+Hw Can Dbwplc Node 5 Offline - Inactive	956369524
+Hw Can Dbwplc Node 5 Offline - Active	956369525
+Drive Software Mismatch - Inactive	956369530
+Drive Software Mismatch - Active	956369531
+Dbsc Disabled No Front Speed - Inactive	956369532
+Dbsc Disabled No Front Speed - Active	956369533
+Trolley Plc Exceeded Cycle Time - Inactive	956369544
+Trolley Plc Exceeded Cycle Time - Active	956369545
+Trolley Unexpected Drop Of Current - Inactive	956369546
+Trolley Unexpected Drop Of Current - Active	956369547
+Fs Park Brake Sw Mismatch - Inactive	956369550
+Fs Park Brake Sw Mismatch - Active	956369551
+Sf Wheel Speed Sensor Front Ds Error - Inactive	956369552
+Sf Wheel Speed Sensor Front Ds Error - Active	956369553
+Sf Wheel Speed Sensor Front Ods Error - Inactive	956369554
+Sf Wheel Speed Sensor Front Ods Error - Active	956369555
+Sf Both Front Wheel Speed Sensor Error - Inactive	956369556
+Sf Both Front Wheel Speed Sensor Error - Active	956369557
+Sf Park Brake Pressure Sw Mismatch - Inactive	956369558
+Sf Park Brake Pressure Sw Mismatch - Active	956369559
+Sf Park Brake Press Sw No Failure - Inactive	956369560
+Sf Park Brake Press Sw No Failure - Active	956369561
+Sf Safety Function Park Brake Failure - Inactive	956369562
+Sf Safety Function Park Brake Failure - Active	956369563
+Prepare Control FC 4 - Inactive	956374984
+Prepare Control FC 4 - Active	956374985
+Prepare Control FC 3 - Inactive	956374986
+Prepare Control FC 3 - Active	956374987
+Prepare Control FC 2 - Inactive	956374988
+Prepare Control FC 2 - Active	956374989
+Prepare Control FC 1 - Inactive	956374990
+Prepare Control FC 1 - Active	956374991
+High Torque Mode On FC 4 - Inactive	956374992
+High Torque Mode On FC 4 - Active	956374993
+High Torque Mode On FC 3 - Inactive	956374994
+High Torque Mode On FC 3 - Active	956374995
+High Torque Mode On FC 2 - Inactive	956374996
+High Torque Mode On FC 2 - Active	956374997
+High Torque Mode On FC 1 - Inactive	956374998
+High Torque Mode On FC 1 - Active	956374999
+Drive Ready FC 4 - Inactive	956375000
+Drive Ready FC 4 - Active	956375001
+Drive Ready FC 3 - Inactive	956375002
+Drive Ready FC 3 - Active	956375003
+Drive Ready FC 2 - Inactive	956375004
+Drive Ready FC 2 - Active	956375005
+Drive Ready FC 1 - Inactive	956375006
+Drive Ready FC 1 - Active	956375007
+Full Power Mode On - Inactive	956375008
+Full Power Mode On - Active	956375009
+Autolube Diverter Valve Prox - Inactive	956375010
+Autolube Diverter Valve Prox - Active	956375011
+Driver Seat Belt Switch - Inactive	956375012
+Driver Seat Belt Switch - Active	956375013
+Driver Seat Pressure Switch - Inactive	956375014
+Driver Seat Pressure Switch - Active	956375015
+Passenger Seat Belt Switch - Inactive	956375016
+Passenger Seat Belt Switch - Active	956375017
+Off Driver Seat Pressure Switch - Inactive	956375018
+Off Driver Seat Pressure Switch - Active	956375019
+Engine Valid Message 4 - Inactive	956375020
+Engine Valid Message 4 - Active	956375021
+Engine Dialog Message 4 - Inactive	956375022
+Engine Dialog Message 4 - Active	956375023
+Engine Valid Message 3 - Inactive	956375024
+Engine Valid Message 3 - Active	956375025
+Engine Dialog Message 3 - Inactive	956375026
+Engine Dialog Message 3 - Active	956375027
+Engine Valid Message 2 - Inactive	956375028
+Engine Valid Message 2 - Active	956375029
+Engine Dialog Message 2 - Inactive	956375030
+Engine Dialog Message 2 - Active	956375031
+Engine Valid Message 1 - Inactive	956375032
+Engine Valid Message 1 - Active	956375033
+Engine Dialog Message 1 - Inactive	956375034
+Engine Dialog Message 1 - Active	956375035
+Engine Start Sequence - Inactive	956375036
+Engine Start Sequence - Active	956375037
+Engine Binary Signal 3 Is Valid - Inactive	956375038
+Engine Binary Signal 3 Is Valid - Active	956375039
+Engine Binary Signal 3 - Inactive	956375040
+Engine Binary Signal 3 - Active	956375041
+Shift Lever In Forward - Inactive	956375042
+Shift Lever In Forward - Active	956375043
+Shift Lever In Neutral - Inactive	956375044
+Shift Lever In Neutral - Active	956375045
+Shift Lever In Reverse - Inactive	956375046
+Shift Lever In Reverse - Active	956375047
+Brake And Steering Inlet Temperature - Inactive	956375048
+Brake And Steering Inlet Temperature - Active	956375049
+T533 Y Solenoid F - Inactive	956375050
+T533 Y Solenoid F - Active	956375051
+T533 Y Solenoid E - Inactive	956375052
+T533 Y Solenoid E - Active	956375053
+T533 Y Solenoid B - Inactive	956375054
+T533 Y Solenoid B - Active	956375055
+T533 Y Solenoid A - Inactive	956375056
+T533 Y Solenoid A - Active	956375057
+Tank Burp Solenoid - Inactive	956375058
+Tank Burp Solenoid - Active	956375059
+External Retard Light Command (Axle Box) - Inactive	956375060
+External Retard Light Command (Axle Box) - Active	956375061
+Autolube (Grease) Solenoid Command - Inactive	956375062
+Autolube (Grease) Solenoid Command - Active	956375063
+Retard Roof Light Command - Inactive	956375064
+Retard Roof Light Command - Active	956375065
+OEM Interface TimeOut	956432352
+OEM Interface Normal	956432353
+Driver Interface TimeOut	956432354
+Driver Interface Normal	956432355

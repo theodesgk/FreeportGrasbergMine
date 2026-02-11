@@ -1,0 +1,16 @@
+16882072	Weigh Scale Tare	0	0	19
+16882073	Weigh Scale Tons	0	0	19
+16973824	RadEye Scan Data (Head 1)	0	0	0
+16973825	RadEye Scan Data (Head 2)	0	0	0
+16973826	RadEye Scan Data (Head 3)	0	0	0
+16973827	RadEye Scan Data (Head 4)	0	0	0
+16973828	RadEye High Value (Head 1)	0	0	0
+16973829	RadEye High Value (Head 2)	0	0	0
+16973830	RadEye High Value (Head 3)	0	0	0
+16973831	RadEye High Value (Head 4)	0	0	0
+16973832	RadEye Low Value (Head 1)	0	0	0
+16973833	RadEye Low Value (Head 2)	0	0	0
+16973834	RadEye Low Value (Head 3)	0	0	0
+16973835	RadEye Low Value (Head 4)	0	0	0
+16973836	RadEye Empty Truck	0	0	0
+16973837	RadEye Grade Const	0	0	0

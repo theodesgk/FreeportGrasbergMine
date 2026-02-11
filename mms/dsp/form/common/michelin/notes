@@ -1,0 +1,182 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1995
+..               All Rights Reserved
+..  $RCSfile: notes,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:15 $
+..    $State: Exp $
+..
+-------------
+OVERVIEW
+-------------
+
+  Currently, Michelin's tire chip sends in tire data to Dispatch 
+  every 5 mins, and we record that data in an ascii file:
+ 
+             michelin.YYMMDDlog
+  
+  and by setting up the alarms you can also create a second logfile
+  called:
+
+             michelinalarmYYMMDDS.log
+
+  This is all handled in act_michelin.frm, which is included in act_dispatch. 
+  There is currently no reports for this data. 
+
+  The log time can be configured under the General Tab in michelin_interface.frm.
+  The michelin default is 5 mins. In otherwords, michelin will send data every
+  5 mins no matter what Log time you set. The Log Time only applies to when the
+  data is written to the file. 
+
+  Our Alarm Interface (michelin_interface.frm) is designed to give the customer
+  the maximum flexibility possible at all times. When you run the Interface you'll
+  be given 3 Tabs to chose from.
+
+      General : Allows you to set the log time interval
+
+     Data Sets: Gives you the ability to turn off logging for any data sets
+                sent back to Dispatch.
+
+        Alarms: Lets you set the level of concern for each alarm condition, and
+                allows you the ability to turn-off and alarm(s) you're not
+                concerned with.
+
+   all of these can be changed on the fly without restarting dispatch.
+
+   When an alarm comes into Dispatch, based on the action level it can generate
+   two types of exceptions; informational, which doesn't require a response from
+   the Dispatcher, and an action exception which will require the dispatcher to
+   accept or reject it.
+
+   Besides recording data, you also have a Michelin Transaction Screen(michelin.frm).
+   This works like all of our other transaction screens, when running it will display
+   any data sent back by the Michelin system. The transaction screen doesn't have to 
+   be running for Dispatch to log data. 
+
+   And I've also included a packet switcher form(psw-mich.frm) that you can use to
+   test the forms code. To use this run the form, enter a Panel Id, then select
+   any of the five Michelin data inputs. This will generate a MICHELIN-DATA rpc 
+   which you can use while running the michelin transaction screen and simulations
+   to test the data collection, and alarm functions.
+
+   Once Michelin has completed their product, we should formalize a standard set of
+   reports and database structure.
+
+
+-------------
+RPC's :
+-------------
+
+  in /psw/etc/rpc make sure the following rpcs are
+  defined :
+
+#
+# Michelin tire monitoring RPCs.
+#
+0x0640          MICHELIN-DATA   michelin        s[d]
+0x0641          MICHELIN-POLL   michelin        v
+
+  if they're not update the client with the latest
+  code.
+
+-------------
+enum.c
+-------------
+
+  You'll need to add the following to enum.c:
+
+{ act_other,     0X0640, fmtascii }, /* Michelin Tire Interface */
+
+  this will map the incoming michelin rpc to a specific action in
+  act_dispatch.frm
+
+
+-------------
+FORMS:
+-------------
+ 
+1. dbini.frm
+
+.def APPEND_PIT MICHELIN michelin"
+.include michelin/db_michelin
+.init MICHELIN_RECORD
+
+DB$RECORD( "+EQMT", "bool tchip val=0",
+                    "string tirepos[4] val=nil",
+                    "string malarm[31] val=nil",
+                    "date lastposting nil")
+
+DB$SYMBOL(PIT$FD, "$truck", "T$",
+                  "only=T$TIREPOS",
+                  "only=T$MALARM",
+                  "only=T$TCHIP",
+                  "only=T$LASTPOSTING")
+
+DB$SYMBOL(PIT$FD,"michelin", "MTI$", "create" )
+
+
+2. act_dispatch.frm
+
+.include michelin/act_michelin
+
+.expr ACT$OTHER \
+  case( DSP$PKTNO )
+..
+.. This was used to test my code in ACT$MICHELIN2. By setting up
+.. a T$TCHIP field in the truck records I could turn on a test truck
+.. to debug my code, While the other ones ignored my code and
+.. just logged to the file every 5 mins.
+..
+    0X0640: T$TCHIP ? ACT$MICHELIN2 : ACT$MICHELIN
+  )
+
+
+3. except.frm
+
+.menu OTHER_100
+!!!ATTENTION DISPATCHER  MICHELIN TIRE ALARM
+   {OPER} on {DSP$EQMT} at {DSP$LOC}
+   Tire:{T$TIREPOS} has ALARM:{T$MALARM}
+.. 
+.vstr DUMMY{" "}
+.expr TIREALARM  PRINTF(BG_RED), PRINTF(WHITE), "SHOULD BE REASSIGNED TO TIRE SHOP           "
+..
+.menu OTHER_101
+!!!ATTENTION DISPATCHER  MICHELIN TIRE ALARM
+   {OPER} on {DSP$EQMT} at {DSP$LOC}
+   Tire:{T$TIREPOS} has ALARM:{T$MALARM}
+             <DUMMY<
+          {TIREALARM}
+..
+
+
+4. The forms you'll need are :
+
+     michelin/act_michelin.frm         - Handles incoming Michelin-Data rpc
+     michelin/db_michelin.frm          - Defines the michelin alarm database
+     michelin/michelin.frm             - A michelin Transaction screen 
+     michelin/michelin_interface.frm   - User interface, allows you to setup Config Values
+     michelin/psw-mich.frm             - Used for bench testing
+
+
+-------------
+INSTALLING
+-------------
+
+   Once all the new code is installed you'll
+   need to stop dispatch and clean the pit
+   database. Then you'll need to run the 
+   michelin_interface.frm to configure all
+   recording, data set, and alarms.
+
+
+-------------
+KNOWN BUGS
+-------------
+
+   Michelin hasn't been able to sort out all of the 
+   code combinations yet. So until they do there will
+   be some unknown codes coming across. 
+

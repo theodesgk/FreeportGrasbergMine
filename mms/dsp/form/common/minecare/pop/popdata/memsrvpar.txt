@@ -1,0 +1,121 @@
+335609857	Tire 1 (1L) Position (Legacy)	0	0	0
+335609858	Tire 1 (1L) Actual Pressure (Legacy)	0	0	9
+335609859	Tire 1 (1L) Recommended Pressure (Legacy)	0	0	9
+335609860	Tire 1 (1L) Temperature % Of Maximum (Legacy)	0	0	25
+335609861	Tire 1 (1L) Brand Number (Legacy)	0	0	0
+335609862	Tire 1 (1L) Serial Number (Legacy)	0	0	0
+335609863	Tire 2 (1R) Position (Legacy)	0	0	0
+335609864	Tire 2 (1R) Actual Pressure (Legacy)	0	0	9
+335609865	Tire 2 (1R) Recommended Pressure (Legacy)	0	0	9
+335609866	Tire 2 (1R) Temperature % Of Maximum (Legacy)	0	0	25
+335609867	Tire 2 (1R) Brand Number (Legacy)	0	0	0
+335609868	Tire 2 (1R) Serial Number (Legacy)	0	0	0
+335609869	Tire 6 (2Lo) Position (Legacy)	0	0	0
+335609870	Tire 6 (2Lo) Actual Pressure (Legacy)	0	0	9
+335609871	Tire 6 (2Lo) Recommended Pressure (Legacy)	0	0	9
+335609872	Tire 6 (2Lo) Temperature % Of Maximum (Legacy)	0	0	25
+335609873	Tire 6 (2Lo) Brand Number (Legacy)	0	0	0
+335609874	Tire 6 (2Lo) Serial Number (Legacy)	0	0	0
+335609875	Tire 5 (2Li) Position (Legacy)	0	0	0
+335609876	Tire 5 (2Li) Actual Pressure (Legacy)	0	0	9
+335609877	Tire 5 (2Li) Recommended Pressure (Legacy)	0	0	9
+335609878	Tire 5 (2Li) Temperature % Of Maximum (Legacy)	0	0	25
+335609879	Tire 5 (2Li) Brand Number (Legacy)	0	0	0
+335609880	Tire 5 (2Li) Serial Number (Legacy)	0	0	0
+335609881	Tire 4 (2Ri) Position (Legacy)	0	0	0
+335609882	Tire 4 (2Ri) Actual Pressure (Legacy)	0	0	9
+335609883	Tire 4 (2Ri) Recommended Pressure (Legacy)	0	0	9
+335609884	Tire 4 (2Ri) Temperature % Of Maximum (Legacy)	0	0	25
+335609885	Tire 4 (2Ri) Brand Number (Legacy)	0	0	0
+335609886	Tire 4 (2Ri) Serial Number (Legacy)	0	0	0
+335609887	Tire 3 (2Ro) Position (Legacy)	0	0	0
+335609888	Tire 3 (2Ro) Actual Pressure (Legacy)	0	0	9
+335609889	Tire 3 (2Ro) Recommended Pressure (Legacy)	0	0	9
+335609890	Tire 3 (2Ro) Temperature % Of Maximum (Legacy)	0	0	25
+335609891	Tire 3 (2Ro) Brand Number (Legacy)	0	0	0
+335609892	Tire 3 (2Ro) Serial Number (Legacy)	0	0	0
+335609893	Number Of Installed Tags (Legacy)	0	0	0
+335610857	Tire 1 Pressure (Extended)	0	0	9
+335610858	Tire 1 Recommended Pressure (Extended)	0	0	9
+335610859	Tire 1 Temperature pct Of Maximum (Extended)	0	0	25
+335610860	Tire 2 Pressure (Extended)	0	0	9
+335610861	Tire 2 Recommended Pressure (Extended)	0	0	9
+335610862	Tire 2 Temperature pct Of Maximum (Extended)	0	0	25
+335610863	Tire 3 Pressure (Extended)	0	0	9
+335610864	Tire 3 Recommended Pressure (Extended)	0	0	9
+335610865	Tire 3 Temperature pct Of Maximum (Extended)	0	0	25
+335610866	Tire 4 Pressure (Extended)	0	0	9
+335610867	Tire 4 Recommended Pressure (Extended)	0	0	9
+335610868	Tire 4 Temperature pct Of Maximum (Extended)	0	0	25
+335610869	Tire 5 Pressure (Extended)	0	0	9
+335610870	Tire 5 Recommended Pressure (Extended)	0	0	9
+335610871	Tire 5 Temperature pct Of Maximum (Extended)	0	0	25
+335610872	Tire 6 Pressure (Extended)	0	0	9
+335610873	Tire 6 Recommended Pressure (Extended)	0	0	9
+335610874	Tire 6 Temperature pct Of Maximum (Extended)	0	0	25
+335610875	Tire 7 Pressure (Extended)	0	0	9
+335610876	Tire 7 Recommended Pressure (Extended)	0	0	9
+335610877	Tire 7 Temperature pct Of Maximum (Extended)	0	0	25
+335610878	Tire 8 Pressure (Extended)	0	0	9
+335610879	Tire 8 Recommended Pressure (Extended)	0	0	9
+335610880	Tire 8 Temperature pct Of Maximum (Extended)	0	0	25
+335610881	Tire 9 Pressure (Extended)	0	0	9
+335610882	Tire 9 Recommended Pressure (Extended)	0	0	9
+335610883	Tire 9 Temperature pct Of Maximum (Extended)	0	0	25
+335610884	Tire 10 Pressure (Extended)	0	0	9
+335610885	Tire 10 Recommended Pressure (Extended)	0	0	9
+335610886	Tire 10 Temperature pct Of Maximum (Extended)	0	0	25
+335610887	Tire 11 Pressure (Extended)	0	0	9
+335610888	Tire 11 Recommended Pressure (Extended)	0	0	9
+335610889	Tire 11 Temperature pct Of Maximum (Extended)	0	0	25
+335610890	Tire 12 Pressure (Extended)	0	0	9
+335610891	Tire 12 Recommended Pressure (Extended)	0	0	9
+335610892	Tire 12 Temperature pct Of Maximum (Extended)	0	0	25
+335610893	Tire 13 Pressure (Extended)	0	0	9
+335610894	Tire 13 Recommended Pressure (Extended)	0	0	9
+335610895	Tire 13 Temperature pct Of Maximum (Extended)	0	0	25
+335610896	Tire 14 Pressure (Extended)	0	0	9
+335610897	Tire 14 Recommended Pressure (Extended)	0	0	9
+335610898	Tire 14 Temperature pct Of Maximum (Extended)	0	0	25
+335610899	Tire 15 Pressure (Extended)	0	0	9
+335610900	Tire 15 Recommended Pressure (Extended)	0	0	9
+335610901	Tire 15 Temperature pct Of Maximum (Extended)	0	0	25
+335610902	Tire 16 Pressure (Extended)	0	0	9
+335610903	Tire 16 Recommended Pressure (Extended)	0	0	9
+335610904	Tire 16 Temperature pct Of Maximum (Extended)	0	0	25
+335610905	Tire 17 Pressure (Extended)	0	0	9
+335610906	Tire 17 Recommended Pressure (Extended)	0	0	9
+335610907	Tire 17 Temperature pct Of Maximum (Extended)	0	0	25
+335610908	Tire 18 Pressure (Extended)	0	0	9
+335610909	Tire 18 Recommended Pressure (Extended)	0	0	9
+335610910	Tire 18 Temperature pct Of Maximum (Extended)	0	0	25
+335610911	Number Of Wheels On Truck	0	0	0
+335610912	Number Of Axles On Truck (Extended)	0	0	0
+335610913	Axle 1 Number Of Wheels (Extended)	0	0	0
+335610914	Axle 1 Powered (Extended)	0	0	0
+335610915	Axle 2 Number Of Wheels (Extended)	0	0	0
+335610916	Axle 2 Powered (Extended)	0	0	0
+335610917	Axle 3 Number Of Wheels (Extended)	0	0	0
+335610918	Axle 3 Powered (Extended)	0	0	0
+335610926	Tire 1 Wheel Position (Extended)	0	0	0
+335610927	Tire 2 Wheel Position (Extended)	0	0	0
+335610928	Tire 3 Wheel Position (Extended)	0	0	0
+335610929	Tire 4 Wheel Position (Extended)	0	0	0
+335610930	Tire 5 Wheel Position (Extended)	0	0	0
+335610931	Tire 6 Wheel Position (Extended)	0	0	0
+335610932	Tire 7 Wheel Position (Extended)	0	0	0
+335610933	Tire 8 Wheel Position (Extended)	0	0	0
+335610934	Tire 9 Wheel Position (Extended)	0	0	0
+335610935	Tire 10 Wheel Position (Extended)	0	0	0
+335610936	Tire 11 Wheel Position (Extended)	0	0	0
+335610937	Tire 12 Wheel Position (Extended)	0	0	0
+335610938	Tire 13 Wheel Position (Extended)	0	0	0
+335610939	Tire 14 Wheel Position (Extended)	0	0	0
+335610940	Tire 15 Wheel Position (Extended)	0	0	0
+335610941	Tire 16 Wheel Position (Extended)	0	0	0
+335610942	Tire 17 Wheel Position (Extended)	0	0	0
+335610943	Tire 18 Wheel Position (Extended)	0	0	0
+335610956	Truck TKPH (Extended)	0	0	20
+335610957	Alarm Status (Extended)	0	0	0
+335610958	TKPH Amber Threshold (Extended)	0	0	0
+335610959	TKPH Red Threshold (Extended)	0	0	0

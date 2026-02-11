@@ -1,0 +1,46 @@
+973144065	Bit Air Pressure	4000	0	9
+973144066	Pull-Down Pressure	60000	0	9
+973144067	Pull-Down Force	655350	0	40
+973144068	Weight On Bit	655350	0	40
+973144069	Head Position	24	-1	17
+973144070	Rate Of Penetration	3.2767	-3.2768	39
+973144071	Rod Count	65535	0	0
+973144072	Bit Depth	600.35	-55	17
+973144073	Hole Depth	655.35	0	17
+973144074	Rotation Pressure	60000	0	9
+973144075	Rotary Torque	27116.36	0	24
+973144076	Head Rotation Speed 	655.349985507328	0	28
+973144077	Machine Pitch Angle (Tram)	79.9999769901599	-79.9999769901599	4
+973144078	Machine Roll Angle (Tram)	79.9999769901599	-79.9999769901599	4
+973144079	Mast Angle	140.000002704615	-49.9999985104003	4
+973144080	Horizontal Vibration (X-Axis)	98.0665	-98.0665	0
+973144081	Horizontal Vibration (Y-Axis)	98.0665	-98.0665	0
+973144082	Vertical Vibration (Z-Axis)	98.0665	-98.0665	0
+973144083	Air Tank Pressure	4000	0	9
+973144084	Compressor Oil Temperature	300	-40	5
+973144085	Compressor Oil Pressure	4000	0	9
+973144086	Hydraulic Oil Temperature	300	-40	5
+973144087	Tram Mode	1	0	33
+973144088	Drill Mode	1	0	33
+973144089	Mast Locked	1	0	33
+973144090	Mast Unlocked	1	0	33
+973144091	Deck Wrench In	1	0	33
+973144092	Deck Wrench Out	1	0	33
+973144093	Start Of Hole Flag	1	0	33
+973144094	Engine Speed	8191.87458010919	0	28
+973144095	Engine Load	255	0	25
+973144096	Accelerator Pedal	102	0	25
+973144097	Actual Engine - Percent Torque	255	0	25
+973144098	Engine Oil Temperature	1774.969	-273	5
+973144099	Engine Coolant Temperature	215	-40	5
+973144100	Fuel Temperature	215	-40	5
+973144101	Air Inlet Temperature	215	-40	5
+973144102	Engine Oil Pressure	1020	0	9
+973144103	Engine Coolant Pressure	510	0	9
+973144104	Engine Crankcase Pressure	261.9922	-250	9
+973144105	Barometric Pressure	127.5	0	9
+973144106	Boost Pressure	510	0	9
+973144107	Fuel Rate	54.6124799998908	0	37
+973144108	Battery Potential	3276.75	0	31
+973144109	Engine Coolant Level	102	0	25
+973144110	Engine Oil Level	102	0	25

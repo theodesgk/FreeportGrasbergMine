@@ -1,0 +1,182 @@
+1761673217	Software Id	0	0	0
+1761673218	Make	0	0	0
+1761673219	Model	0	0	0
+1761673220	Serial Number	0	0	0
+1761673221	Unit Number	0	0	0
+1761673222	Battery Potential / Power Input 1	3212.75	0	31
+1761673246	Tire Pressure (Tire 1)	1000	0	9
+1761673247	Tire Temperature (Tire 1)	1734.96875	-273	5
+1761673248	CTI Wheel Sensor Status (Tire 1)	3	0	0
+1761673250	CTI Wheel End Electrical Fault (Tire 1)	3	0	0
+1761673251	CTI Tire Temperature Status  (Tire 1) (Lectronix)	3	0	0
+1761673253	Tire Reference Pressure (Tire 1)	2000	0	9
+1761673254	Current Tire Pressure (Tire 1)	2000	0	9
+1761673255	Age Of Tire Info (Tire 1)	250	0	0
+1761673256	RF Diag Info (Tire 1)	127	0	0
+1761673257	Packet Info (Tire 1)	1	0	0
+1761673258	Sensor S/N (Tire 1)	4211081215	0	0
+1761673261	Tire Pressure (Tire 2)	1000	0	9
+1761673262	Tire Temperature (Tire 2)	1734.96875	-273	5
+1761673263	CTI Wheel Sensor Status (Tire 2)	3	0	0
+1761673265	CTI Wheel End Electrical Fault (Tire 2)	3	0	0
+1761673266	CTI Tire Temperature Status  (Tire 2) (Lectronix)	3	0	0
+1761673268	Tire Reference Pressure (Tire 2)	2000	0	9
+1761673269	Current Tire Pressure (Tire 2)	2000	0	9
+1761673270	Age Of Tire Info (Tire 2)	250	0	0
+1761673271	RF Diag Info (Tire 2)	127	0	0
+1761673272	Packet Info (Tire 2)	1	0	0
+1761673273	Sensor S/N (Tire 2)	4211081215	0	0
+1761673276	Tire Pressure (Tire 3)	1000	0	9
+1761673277	Tire Temperature (Tire 3)	1734.96875	-273	5
+1761673278	CTI Wheel Sensor Status (Tire 3)	3	0	0
+1761673280	CTI Wheel End Electrical Fault (Tire 3)	3	0	0
+1761673281	CTI Tire Temperature Status  (Tire 3) (Lectronix)	3	0	0
+1761673283	Tire Reference Pressure (Tire 3)	2000	0	9
+1761673284	Current Tire Pressure (Tire 3)	2000	0	9
+1761673285	Age Of Tire Info (Tire 3)	250	0	0
+1761673286	RF Diag Info (Tire 3)	127	0	0
+1761673287	Packet Info (Tire 3)	1	0	0
+1761673288	Sensor S/N (Tire 3)	4211081215	0	0
+1761673291	Tire Pressure (Tire 4)	1000	0	9
+1761673292	Tire Temperature (Tire 4)	1734.96875	-273	5
+1761673293	CTI Wheel Sensor Status (Tire 4)	3	0	0
+1761673295	CTI Wheel End Electrical Fault (Tire 4)	3	0	0
+1761673296	CTI Tire Temperature Status  (Tire 4) (Lectronix)	3	0	0
+1761673298	Tire Reference Pressure (Tire 4)	2000	0	9
+1761673299	Current Tire Pressure (Tire 4)	2000	0	9
+1761673300	Age Of Tire Info (Tire 4)	250	0	0
+1761673301	RF Diag Info (Tire 4)	127	0	0
+1761673302	Packet Info (Tire 4)	1	0	0
+1761673303	Sensor S/N (Tire 4)	4211081215	0	0
+1761673306	Tire Pressure (Tire 5)	1000	0	9
+1761673307	Tire Temperature (Tire 5)	1734.96875	-273	5
+1761673308	CTI Wheel Sensor Status (Tire 5)	3	0	0
+1761673310	CTI Wheel End Electrical Fault (Tire 5)	3	0	0
+1761673311	CTI Tire Temperature Status  (Tire 5) (Lectronix)	3	0	0
+1761673313	Tire Reference Pressure (Tire 5)	2000	0	9
+1761673314	Current Tire Pressure (Tire 5)	2000	0	9
+1761673315	Age Of Tire Info (Tire 5)	250	0	0
+1761673316	RF Diag Info (Tire 5)	127	0	0
+1761673317	Packet Info (Tire 5)	1	0	0
+1761673318	Sensor S/N (Tire 5)	4211081215	0	0
+1761673321	Tire Pressure (Tire 6)	1000	0	9
+1761673322	Tire Temperature (Tire 6)	1734.96875	-273	5
+1761673323	CTI Wheel Sensor Status (Tire 6)	3	0	0
+1761673325	CTI Wheel End Electrical Fault (Tire 6)	3	0	0
+1761673326	CTI Tire Temperature Status  (Tire 6) (Lectronix)	3	0	0
+1761673328	Tire Reference Pressure (Tire 6)	2000	0	9
+1761673329	Current Tire Pressure (Tire 6)	2000	0	9
+1761673330	Age Of Tire Info (Tire 6)	250	0	0
+1761673331	RF Diag Info (Tire 6)	127	0	0
+1761673332	Packet Info (Tire 6)	1	0	0
+1761673333	Sensor S/N (Tire 6)	4211081215	0	0
+1761673336	Tire Pressure (Tire 7)	1000	0	9
+1761673337	Tire Temperature (Tire 7)	1734.96875	-273	5
+1761673338	CTI Wheel Sensor Status (Tire 7)	3	0	0
+1761673340	CTI Wheel End Electrical Fault (Tire 7)	3	0	0
+1761673341	CTI Tire Temperature Status  (Tire 7) (Lectronix)	3	0	0
+1761673343	Tire Reference Pressure (Tire 7)	2000	0	9
+1761673344	Current Tire Pressure (Tire 7)	2000	0	9
+1761673345	Age Of Tire Info (Tire 7)	250	0	0
+1761673346	RF Diag Info (Tire 7)	127	0	0
+1761673347	Packet Info (Tire 7)	1	0	0
+1761673348	Sensor S/N (Tire 7)	4211081215	0	0
+1761673351	Tire Pressure (Tire 8)	1000	0	9
+1761673352	Tire Temperature (Tire 8)	1734.96875	-273	5
+1761673353	CTI Wheel Sensor Status (Tire 8)	3	0	0
+1761673355	CTI Wheel End Electrical Fault (Tire 8)	3	0	0
+1761673356	CTI Tire Temperature Status  (Tire 8) (Lectronix)	3	0	0
+1761673358	Tire Reference Pressure (Tire 8)	2000	0	9
+1761673359	Current Tire Pressure (Tire 8)	2000	0	9
+1761673360	Age Of Tire Info (Tire 8)	250	0	0
+1761673361	RF Diag Info (Tire 8)	127	0	0
+1761673362	Packet Info (Tire 8)	1	0	0
+1761673363	Sensor S/N (Tire 8)	4211081215	0	0
+1761673366	Tire Pressure (Tire 9)	1000	0	9
+1761673367	Tire Temperature (Tire 9)	1734.96875	-273	5
+1761673368	CTI Wheel Sensor Status (Tire 9)	3	0	0
+1761673370	CTI Wheel End Electrical Fault (Tire 9)	3	0	0
+1761673371	CTI Tire Temperature Status  (Tire 9) (Lectronix)	3	0	0
+1761673373	Tire Reference Pressure (Tire 9)	2000	0	9
+1761673374	Current Tire Pressure (Tire 9)	2000	0	9
+1761673375	Age Of Tire Info (Tire 9)	250	0	0
+1761673376	RF Diag Info (Tire 9)	127	0	0
+1761673377	Packet Info (Tire 9)	1	0	0
+1761673378	Sensor S/N (Tire 9)	4211081215	0	0
+1761673381	Tire Pressure (Tire 10)	1000	0	9
+1761673382	Tire Temperature (Tire 10)	1734.96875	-273	5
+1761673383	CTI Wheel Sensor Status (Tire 10)	3	0	0
+1761673385	CTI Wheel End Electrical Fault (Tire 10)	3	0	0
+1761673386	CTI Tire Temperature Status  (Tire 10) (Lectronix)	3	0	0
+1761673388	Tire Reference Pressure (Tire 10)	2000	0	9
+1761673389	Current Tire Pressure (Tire 10)	2000	0	9
+1761673390	Age Of Tire Info (Tire 10)	250	0	0
+1761673391	RF Diag Info (Tire 10)	127	0	0
+1761673392	Packet Info (Tire 10)	1	0	0
+1761673393	Sensor S/N (Tire 10)	4211081215	0	0
+1761673396	Tire Pressure (Tire 11)	1000	0	9
+1761673397	Tire Temperature (Tire 11)	1734.96875	-273	5
+1761673398	CTI Wheel Sensor Status (Tire 11)	3	0	0
+1761673400	CTI Wheel End Electrical Fault (Tire 11)	3	0	0
+1761673401	CTI Tire Temperature Status  (Tire 11) (Lectronix)	3	0	0
+1761673403	Tire Reference Pressure (Tire 11)	2000	0	9
+1761673404	Current Tire Pressure (Tire 11)	2000	0	9
+1761673405	Age Of Tire Info (Tire 11)	250	0	0
+1761673406	RF Diag Info (Tire 11)	127	0	0
+1761673407	Packet Info (Tire 11)	1	0	0
+1761673408	Sensor S/N (Tire 11)	4211081215	0	0
+1761673411	Tire Pressure (Tire 12)	1000	0	9
+1761673412	Tire Temperature (Tire 12)	1734.96875	-273	5
+1761673413	CTI Wheel Sensor Status (Tire 12)	3	0	0
+1761673415	CTI Wheel End Electrical Fault (Tire 12)	3	0	0
+1761673416	CTI Tire Temperature Status  (Tire 12) (Lectronix)	3	0	0
+1761673418	Tire Reference Pressure (Tire 12)	2000	0	9
+1761673419	Current Tire Pressure (Tire 12)	2000	0	9
+1761673420	Age Of Tire Info (Tire 12)	250	0	0
+1761673421	RF Diag Info (Tire 12)	127	0	0
+1761673422	Packet Info (Tire 12)	1	0	0
+1761673423	Sensor S/N (Tire 12)	4211081215	0	0
+1761673426	Tire Pressure (Tire 13)	1000	0	9
+1761673427	Tire Temperature (Tire 13)	1734.96875	-273	5
+1761673428	CTI Wheel Sensor Status (Tire 13)	3	0	0
+1761673430	CTI Wheel End Electrical Fault (Tire 13)	3	0	0
+1761673431	CTI Tire Temperature Status  (Tire 13) (Lectronix)	3	0	0
+1761673433	Tire Reference Pressure (Tire 13)	2000	0	9
+1761673434	Current Tire Pressure (Tire 13)	2000	0	9
+1761673435	Age Of Tire Info (Tire 13)	250	0	0
+1761673436	RF Diag Info (Tire 13)	127	0	0
+1761673437	Packet Info (Tire 13)	1	0	0
+1761673438	Sensor S/N (Tire 13)	4211081215	0	0
+1761673441	Tire Pressure (Tire 14)	1000	0	9
+1761673442	Tire Temperature (Tire 14)	1734.96875	-273	5
+1761673443	CTI Wheel Sensor Status (Tire 14)	3	0	0
+1761673445	CTI Wheel End Electrical Fault (Tire 14)	3	0	0
+1761673446	CTI Tire Temperature Status  (Tire 14) (Lectronix)	3	0	0
+1761673448	Tire Reference Pressure (Tire 14)	2000	0	9
+1761673449	Current Tire Pressure (Tire 14)	2000	0	9
+1761673450	Age Of Tire Info (Tire 14)	250	0	0
+1761673451	RF Diag Info (Tire 14)	127	0	0
+1761673452	Packet Info (Tire 14)	1	0	0
+1761673453	Sensor S/N (Tire 14)	4211081215	0	0
+1761673456	Tire Pressure (Tire 15)	1000	0	9
+1761673457	Tire Temperature (Tire 15)	1734.96875	-273	5
+1761673458	CTI Wheel Sensor Status (Tire 15)	3	0	0
+1761673460	CTI Wheel End Electrical Fault (Tire 15)	3	0	0
+1761673461	CTI Tire Temperature Status  (Tire 15) (Lectronix)	3	0	0
+1761673463	Tire Reference Pressure (Tire 15)	2000	0	9
+1761673464	Current Tire Pressure (Tire 15)	2000	0	9
+1761673465	Age Of Tire Info (Tire 15)	250	0	0
+1761673466	RF Diag Info (Tire 15)	127	0	0
+1761673467	Packet Info (Tire 15)	1	0	0
+1761673468	Sensor S/N (Tire 15)	4211081215	0	0
+1761673471	Tire Pressure (Tire 16)	1000	0	9
+1761673472	Tire Temperature (Tire 16)	1734.96875	-273	5
+1761673473	CTI Wheel Sensor Status (Tire 16)	3	0	0
+1761673475	CTI Wheel End Electrical Fault (Tire 16)	3	0	0
+1761673476	CTI Tire Temperature Status  (Tire 16) (Lectronix)	3	0	0
+1761673478	Tire Reference Pressure (Tire 16)	2000	0	9
+1761673479	Current Tire Pressure (Tire 16)	2000	0	9
+1761673480	Age Of Tire Info (Tire 16)	250	0	0
+1761673481	RF Diag Info (Tire 16)	127	0	0
+1761673482	Packet Info (Tire 16)	1	0	0
+1761673483	Sensor S/N (Tire 16)	4211081215	0	0

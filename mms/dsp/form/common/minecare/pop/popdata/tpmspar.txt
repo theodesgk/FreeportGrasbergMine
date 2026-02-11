@@ -1,0 +1,8 @@
+251723777	Payload Weight	725.60	0.0	19
+251723778	Loading Time	7200.00	0.0	29
+251723779	Empty Stop Time	7200.00	0.0	29
+251723780	Empty Travel Time	7200.00	0.0	29
+251723781	Empty Travel Distance	80.00	0.0	8
+251723782	Loaded Stop Time	7200.00	0.0	29
+251723783	Loaded Travel Time	7200.00	0.0	29
+251723784	Loaded Travel Distance	80.00	0.0	8

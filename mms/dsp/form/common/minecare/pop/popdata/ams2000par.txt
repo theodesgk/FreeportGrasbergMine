@@ -1,0 +1,22 @@
+620822529	Firmware Version	0	0	0
+620822530	Driver ID	0	0	0
+620822531	Engine Speed	9999	0	28
+620822532	Oil Pressure	255	0	9
+620822533	Oil Pressure Trip Point	255	0	9
+620822534	P1 Channel Pressure	255	0	9
+620822535	P1 Channel Pressure Trip Setting	255	0	9
+620822536	T4 Channel Temperature	255	0	5
+620822537	T4 Channel Temperature Trip Setting	255	0	5
+620822538	T1 Channel Temperature	255	0	5
+620822539	T1 Channel Trip Point Setting	255	0	5
+620822540	T2 Channel Temperature	255	0	5
+620822541	T2 Channel Trip Point Setting	255	0	5
+620822542	T3 Channel Temperature	255	0	5
+620822543	T3 Channel Trip Point Setting	255	0	5
+620822544	Water Level	1	0	0
+620822545	Aux Channel 1	1	0	0
+620822546	Aux Channel 2	1	0	0
+620822547	Battery Voltage	51.2	0	31
+620822548	Hours to Next Service	9999	-9999	7
+620822549	Engine Hours	99999	0	7
+620822550	P1/T4 Indicator	1	0	0

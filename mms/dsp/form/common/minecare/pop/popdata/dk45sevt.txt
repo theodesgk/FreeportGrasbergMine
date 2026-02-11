@@ -1,0 +1,206 @@
+OEM interface Timeout	788660192
+OEM interface Normal	788660193
+Driver interface Timeout	788660194
+OEM interface Normal	788660195
+Compressor Air Filter-active	788594944
+Compressor Air Filter-inactive	788594945
+Compressor inter-stage temperature-active	788594946
+Compressor inter-stage temperature-inactive	788594947
+Compressor oil filter-active	788594948
+Compressor oil filter-inactive	788594949
+Compressor oil pressure-active	788594950
+Compressor oil pressure-inactive	788594951
+Compressor oil temperature-active	788594952
+Compressor oil temperature-inactive	788594953
+Engine air filter-active	788594954
+Engine air filter-inactive	788594955
+Engine coolant flow-active	788594956
+Engine coolant flow-inactive	788594957
+Fire suppression-active	788594958
+Fire suppression-inactive	788594959
+Fuel Level-active	788594960
+Fuel Level-inactive	788594961
+Hydraulic oil filter-active	788594962
+Hydraulic oil filter-inactive	788594963
+Hydraulic oil level-active	788594964
+Hydraulic oil level-inactive	788594965
+Hydraulic oil temperature-active	788594966
+Hydraulic oil temperature-inactive	788594967
+Lubrication oil level-active	788594968
+Lubrication oil level-inactive	788594969
+Pipe in hole-active	788594970
+Pipe in hole-inactive	788594971
+Receiver separator filter-active	788594972
+Receiver separator filter-inactive	788594973
+Zero Bit Position-active	788594974
+Zero Bit Position-inactive	788594975
+Low Engine Oil Pressure Shutdown SPN-100 FMI-1-active	788596480
+Low Engine Oil Pressure Shutdown SPN-100 FMI-1-inactive	788596481
+Low Engine Oil Pressure Derate SPN-100 FMI-18-active	788596482
+Low Engine Oil Pressure Derate SPN-100 FMI-18-inactive	788596483
+High Engine Coolant Temperature Shutdown SPN-110 FMI-0-active	788596484
+High Engine Coolant Temperature Shutdown SPN-110 FMI-0-inactive	788596485
+High Engine Coolant Temperature Derate SPN-110 FMI-16-active	788596486
+High Engine Coolant Temperature Derate SPN-110 FMI-16-inactive	788596487
+Low Engine Coolant Level Shutdown SPN-111 FMI-1-active	788596488
+Low Engine Coolant Level Shutdown SPN-111 FMI-1-inactive	788596489
+Low Engine Coolant Level Derate SPN-111 FMI-18-active	788596490
+Low Engine Coolant Level Derate SPN-111 FMI-18-inactive	788596491
+High Fuel Temperature Shutdown SPN-174 FMI-0-active	788596492
+High Fuel Temperature Shutdown SPN-174 FMI-0-inactive	788596493
+High Fuel Temperature Derate SPN-174 FMI-16-active	788596494
+High Fuel Temperature Derate SPN-174 FMI-16-inactive	788596495
+Engine Overspeed Shutdown SPN-190 FMI-0-active	788596496
+Engine Overspeed Shutdown SPN-190 FMI-0-inactive	788596497
+Injector Cylinder #1 open circuit SPN-651 FMI-5-active	788596498
+Injector Cylinder #1 open circuit SPN-651 FMI-5-inactive	788596499
+Injector Cylinder #1 short SPN-651 FMI-6-active	788596500
+Injector Cylinder #1 short SPN-651 FMI-6-inactive	788596501
+Injector Cylinder #1 fault SPN-651 FMI-11-active	788596502
+Injector Cylinder #1 fault SPN-651 FMI-11-inactive	788596503
+Injector Cylinder #2 open circuit SPN-652 FMI-5-active	788596504
+Injector Cylinder #2 open circuit SPN-652 FMI-5-inactive	788596505
+Injector Cylinder #2 short SPN-652 FMI-6-active	788596506
+Injector Cylinder #2 short SPN-652 FMI-6-inactive	788596507
+Injector Cylinder #2 fault SPN-652 FMI-11-active	788596508
+Injector Cylinder #2 fault SPN-652 FMI-11-inactive	788596509
+Injector Cylinder #3 open circuit SPN-653 FMI-5-active	788596510
+Injector Cylinder #3 open circuit SPN-653 FMI-5-inactive	788596511
+Injector Cylinder #3 short SPN-653 FMI-6-active	788596512
+Injector Cylinder #3 short SPN-653 FMI-6-inactive	788596513
+Injector Cylinder #3 fault SPN-653 FMI-11-active	788596514
+Injector Cylinder #3 fault SPN-653 FMI-11-inactive	788596515
+Injector Cylinder #4 open circuit SPN-654 FMI-5-active	788596516
+Injector Cylinder #4 open circuit SPN-654 FMI-5-inactive	788596517
+Injector Cylinder #4 short SPN-654 FMI-6-active	788596518
+Injector Cylinder #4 short SPN-654 FMI-6-inactive	788596519
+Injector Cylinder #4 fault SPN-654 FMI-11-active	788596520
+Injector Cylinder #4 fault SPN-654 FMI-11-inactive	788596521
+Injector Cylinder #5 open circuit SPN-655 FMI-5-active	788596522
+Injector Cylinder #5 open circuit SPN-655 FMI-5-inactive	788596523
+Injector Cylinder #5 short SPN-655 FMI-6-active	788596524
+Injector Cylinder #5 short SPN-655 FMI-6-inactive	788596525
+Injector Cylinder #5 fault SPN-655 FMI-11-active	788596526
+Injector Cylinder #5 fault SPN-655 FMI-11-inactive	788596527
+Injector Cylinder #6 open circuit SPN-656 FMI-5-active	788596528
+Injector Cylinder #6 open circuit SPN-656 FMI-5-inactive	788596529
+Injector Cylinder #6 short SPN-656 FMI-6-active	788596530
+Injector Cylinder #6 short SPN-656 FMI-6-inactive	788596531
+Injector Cylinder #6 fault SPN-656 FMI-11-active	788596532
+Injector Cylinder #6 fault SPN-656 FMI-11-inactive	788596533
+High Inlet Air Temperature Shutdown SPN-1636 FMI-0-active	788596534
+High Inlet Air Temperature Shutdown SPN-1636 FMI-0-inactive	788596535
+High Auxiliary Pressure Shutdown SPN-1835 FMI-0-active	788596536
+High Auxiliary Pressure Shutdown SPN-1835 FMI-0-inactive	788596537
+High Auxiliary Pressure Derate SPN-1835 FMI-16-active	788596538
+High Auxiliary Pressure Derate SPN-1835 FMI-16-inactive	788596539
+High Auxiliary Temperature Shutdown SPN-1836 FMI-0-active	788596540
+High Auxiliary Temperature Shutdown SPN-1836 FMI-0-inactive	788596541
+High Auxiliary Temperature Derate SPN-1836 FMI-16-active	788596542
+High Auxiliary Temperature Derate SPN-1836 FMI-16-inactive	788596543
+Throttle Position signal abnormal SPN-91 FMI-8-active	788596544
+Throttle Position signal abnormal SPN-91 FMI-8-inactive	788596545
+Throttle Position calibration required SPN-91 FMI-13-active	788596546
+Throttle Position calibration required SPN-91 FMI-13-inactive	788596547
+Fuel Pressure open/short to +batt SPN-94 FMI-3-active	788596548
+Fuel Pressure open/short to +batt SPN-94 FMI-3-inactive	788596549
+Fuel Pressure short to ground SPN-94 FMI-4-active	788596550
+Fuel Pressure short to ground SPN-94 FMI-4-inactive	788596551
+High Fuel Pressure Warning SPN-94 FMI-15-active	788596552
+High Fuel Pressure Warning SPN-94 FMI-15-inactive	788596553
+Engine Oil Pressure open/short to +batt SPN-100 FMI-3-active	788596554
+Engine Oil Pressure open/short to +batt SPN-100 FMI-3-inactive	788596555
+Engine Oil Pressure short to ground SPN-100 FMI-4-active	788596556
+Engine Oil Pressure short to ground SPN-100 FMI-4-inactive	788596557
+Engine Oil Pressure abnormal rate of change SPN-100 FMI-10-active  	788596558
+Engine Oil Pressure abnormal rate of change SPN-100 FMI-10-inactive	788596559
+Low Engine Oil Pressure Warning SPN-100 FMI-17-active	788596560
+Low Engine Oil Pressure Warning SPN-100 FMI-17-inactive	788596561
+Boost Pressure Sensor short to +batt SPN-102 FMI-3-active	788596562
+Boost Pressure Sensor short to +batt SPN-102 FMI-3-inactive	788596563
+Boost Pressure Sensor short to ground SPN-102 FMI-4-active	788596564
+Boost Pressure Sensor short to ground SPN-102 FMI-4-inactive	788596565
+Boost Pressure Sensor abnormal rate of change SPN-102 FMI-10-active	788596566
+Boost Pressure Sensor abnormal rate of change SPN-102 FMI-10-inactive	788596567
+Intake Manifold Air Temp open/short to +batt SPN-105 FMI-3-active	788596568
+Intake Manifold Air Temp open/short to +batt SPN-105 FMI-3-inactive	788596569
+Intake Manifold Air Temp short to ground SPN-105 FMI-4-active	788596570
+Intake Manifold Air Temp short to ground SPN-105 FMI-4-inactive	788596571
+Atmospheric Pressure open/short to +batt SPN-108 FMI-3-active	788596572
+Atmospheric Pressure open/short to +batt SPN-108 FMI-3-inactive	788596573
+Atmospheric Pressure short to ground SPN-108 FMI-4-active	788596574
+Atmospheric Pressure short to ground SPN-108 FMI-4-inactive	788596575
+Engine Coolant Temperature open/short to +batt SPN-110 FMI-3-active	788596576
+Engine Coolant Temperature open/short to +batt SPN-110 FMI-3-inactive	788596577
+Engine Coolant Temperature short to ground SPN-110 FMI-4-active	788596578
+Engine Coolant Temperature short to ground SPN-110 FMI-4-inactive	788596579
+High Engine Coolant Temperature Warning SPN-110 FMI-15-active	788596580
+High Engine Coolant Temperature Warning SPN-110 FMI-15-inactive	788596581
+Engine Coolant Level Sensor Loss of Signal SPN-111 FMI-2-active	788596582
+Engine Coolant Level Sensor Loss of Signal SPN-111 FMI-2-inactive	788596583
+Low Engine Coolant Level Warning SPN-111 FMI-17-active	788596584
+Low Engine Coolant Level Warning SPN-111 FMI-17-inactive	788596585
+System Voltage high SPN-168 FMI-0-active	788596586
+System Voltage high SPN-168 FMI-0-inactive	788596587
+System Voltage low SPN-168 FMI-1-active	788596588
+System Voltage low SPN-168 FMI-1-inactive	788596589
+System Voltage intermittent/erratic SPN-168 FMI-2-active	788596590
+System Voltage intermittent/erratic SPN-168 FMI-2-inactive	788596591
+Fuel Temperature open/short to +batt SPN-174 FMI-3-active	788596592
+Fuel Temperature open/short to +batt SPN-174 FMI-3-inactive	788596593
+Fuel Temperature short to ground SPN-174 FMI-4-active	788596594
+Fuel Temperature short to ground SPN-174 FMI-4-inactive	788596595
+High Fuel Temperature Warning SPN-174 FMI-15-active	788596596
+High Fuel Temperature Warning SPN-174 FMI-15-inactive	788596597
+Engine Speed signal abnormal SPN-190 FMI-8-active	788596598
+Engine Speed signal abnormal SPN-190 FMI-8-inactive	788596599
+Engine Overspeed Warning SPN-190 FMI-15-active	788596600
+Engine Overspeed Warning SPN-190 FMI-15-inactive	788596601
+5 Volt Sensor DC Power Supply short to +batt SPN-620 FMI-3-active	788596602
+5 Volt Sensor DC Power Supply short to +batt SPN-620 FMI-3-inactive	788596603
+5 Volt Sensor DC Power Supply short to ground SPN-620 FMI-4-active	788596604
+5 Volt Sensor DC Power Supply short to ground SPN-620 FMI-4-inactive	788596605
+Ether Start Relay or Injection Control Solenoid open/short to +batt SPN-626 FMI-5-active	788596606
+Ether Start Relay or Injection Control Solenoid open/short to +batt SPN-626 FMI-5-inactive	788596607
+Ether Start Relay or Injection Control Solenoid short to ground SPN-626 FMI-6-active	788596736
+Ether Start Relay or Injection Control Solenoid short to ground SPN-626 FMI-6-inactive	788596737
+Check Programmable Parameters SPN-630 FMI-2-active	788596738
+Check Programmable Parameters SPN-630 FMI-2-inactive	788596739
+Engine Timing calibration required SPN-637 FMI-13-active	788596740
+Engine Timing calibration required SPN-637 FMI-13-inactive	788596741
+J1939 Data Link communications SPN-639 FMI-9-active	788596742
+J1939 Data Link communications SPN-639 FMI-9-inactive	788596743
+8 Volt DC Supply short to +batt SPN-678 FMI-3-active	788596744
+8 Volt DC Supply short to +batt SPN-678 FMI-3-inactive	788596745
+8 Volt DC Supply short to ground SPN-678 FMI-4-active	788596746
+8 Volt DC Supply short to ground SPN-678 FMI-4-inactive	788596747
+Secondary Engine Speed signal abnormal SPN-723 FMI-8-active	788596748
+Secondary Engine Speed signal abnormal SPN-723 FMI-8-inactive	788596749
+5 Volt Sensor DC Power Supply short to +batt SPN-1079 FMI-3-active	788596750
+5 Volt Sensor DC Power Supply short to +batt SPN-1079 FMI-3-inactive	788596751
+5 Volt Sensor DC Power Supply short to ground SPN-1079 FMI-4-active	788596752
+5 Volt Sensor DC Power Supply short to ground SPN-1079 FMI-4-inactive	788596753
+High Inlet Air Temperature Warning SPN-1636 FMI-15-active	788596754
+High Inlet Air Temperature Warning SPN-1636 FMI-15-inactive	788596755
+Auxiliary Pressure Sensor open/short to +batt SPN-1835 FMI-3-active	788596756
+Auxiliary Pressure Sensor open/short to +batt SPN-1835 FMI-3-inactive	788596757
+Auxiliary Pressure Sensor short to ground SPN-1835 FMI-4-active	788596758
+Auxiliary Pressure Sensor short to ground SPN-1835 FMI-4-inactive	788596759
+High Auxiliary Pressure Warning SPN-1835 FMI-15-active	788596760
+High Auxiliary Pressure Warning SPN-1835 FMI-15-inactive	788596761
+Auxiliary Temperature Sensor open/short to +batt SPN-1836 FMI-3-active	788596762
+Auxiliary Temperature Sensor open/short to +batt SPN-1836 FMI-3-inactive	788596763
+Auxiliary Temperature Sensor short to ground SPN-1836 FMI-4-active	788596764
+Auxiliary Temperature Sensor short to ground SPN-1836 FMI-4-inactive	788596765
+High Auxiliary Temperature Warning SPN-1836 FMI-15-active	788596766
+High Auxiliary Temperature Warning SPN-1836 FMI-15-inactive	788596767
+Abnormal Supply Voltage-active	788596768
+Abnormal Supply Voltage-inactive	788596769
+Abnormal Module Temperature-active	788596770
+Abnormal Module Temperature-inactive	788596771
+Sensor Supply Failure-active	788596772
+Sensor Supply Failure-inactive	788596773
+Sensor Failure-active	788596774
+Sensor Failure-inactive	788596775
+Engine Link Error-active	788596776
+Engine Link Error-inactive	788596777

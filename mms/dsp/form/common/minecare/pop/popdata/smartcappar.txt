@@ -1,0 +1,3 @@
+1510014977	Fatigue Status Level	1	0	33
+1510014978	User Interaction Events Counter	1	0	33
+1510014979	Sensor Battery Level	1	0	33

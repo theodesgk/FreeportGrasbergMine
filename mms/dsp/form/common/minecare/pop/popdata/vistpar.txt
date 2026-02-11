@@ -1,0 +1,53 @@
+604045313	Message Version	0	0	0
+604045314	Equipment State	0	0	0
+604045315	Current Payload	300	0	18
+604045316	Last Dump Payload	300	0	18
+604045317	Fuel Level	3000	0	14
+604045318	Speed	80	0	11
+604045319	Travel Distance	4294967296	0	8
+604045320	Inclination	16	-16	4
+604046313	Current Weight	32767	-32768	19
+604046314	Weight For Last Cycle	32767	-32768	19
+604046315	Current Fuel Level	65535	0	14
+604046316	Current Fuel Level (%)	255	0	25
+604046317	Current Load	255	0	25
+604046318	Truck Status	255	0	0
+604046319	Incline	127	-128	4
+604046320	Incline (Ppm)	32767	-32768	0
+604046321	Distance Passed For Last Cycle	65535	0	17
+604046322	Distance Passed For Last Shift	4294967295	0	17
+604046323	Discrete Input Status	255	0	0
+604046324	Discrete Output Status	255	0	0
+604046325	Front Left Suspension Pressure (Bar)	255	0	0
+604046326	Front Right Suspension Pressure (Bar)	255	0	0
+604046327	Rear Left Suspension Pressure (Bar)	255	0	0
+604046328	Rear Right Suspension Pressure (Bar)	255	0	0
+604046329	Speed	255	0	11
+604046330	Shift Number	255	0	0
+604046331	Cycles Sheft Count	65535	0	0
+604046332	Front Left Sensor Status	255	0	0
+604046333	Front Right Sensor Status	255	0	0
+604046334	Rear Left Sensor Status	255	0	0
+604046335	Rear Right Sensor Status	255	0	0
+604046336	Fuel Sensor Status	255	0	0
+604046337	Inclinometer Status	255	0	0
+604046338	Platform Status	255	0	0
+604046339	Front Lef Tire Pressure	262140	0	9
+604046340	Front Lef Tire Temperature	32767	-32768	5
+604046341	Front Right Tire Pressure	262140	0	9
+604046342	Front Right Tire Temperature	32767	-32768	5
+604046343	Rear Left Outer Tire Pressure	262140	0	9
+604046344	Rear Left Outer Tire Temperature	32767	-32768	5
+604046345	Rear Left Inner Tire Pressure	262140	0	9
+604046346	Rear Left Inner Tire Temperature	32767	-32768	5
+604046347	Rear Right Inner Tire Pressure	262140	0	9
+604046348	Rear Right Inner Tire Temperature	32767	-32768	5
+604046349	Rear Right Outer Tire Pressure	262140	0	9
+604046350	Rear Right Outer Tire Temperature	32767	-32768	5
+604046351	Distance From Dump Or Start	65535	0	17
+604046352	Weight On Load	65535	0	19
+604046353	Accurate Weight On Load	65535	0	19
+604046354	Distance From Load	65535	0	17
+604046355	Fueling Time	65535	0	29
+604046356	Fuel Level At The Beginning Of Fueling	65535	0	14
+604046357	Fuel Level At The End Of Fueling	65535	0	14

@@ -1,0 +1,1714 @@
+369166289	Software Version D475	0	0	0
+369166290	Name And Type D475	0	0	0
+369166291	Wakeup Type D475	0	0	0
+369166292	Engine Speed D475	0	0	28
+369166293	Engine Water Temperature D475	0	0	5
+369166294	Engine Oil Temperature D475	0	0	5
+369166295	TC Oil Temperature D475	0	0	5
+369166296	Ambient Air Temp D475	0	0	5
+369166297	Engine Oil Pressure Gauge D475	0	0	9
+369166298	TM Main Pressure D475	0	0	9
+369166299	Hydraulic Oil Temperature D475	0	0	5
+369166300	Monitor SMR D475	0	0	7
+369166301	Travel Speed D475	0	0	11
+369166302	Pump 1 Pressure D475	0	0	9
+369166303	Pump 2 Pressure D475	0	0	9
+369167289	Software Version D375	0	0	0
+369167290	Name And Type D375	0	0	0
+369167291	Wakeup Type D375	0	0	0
+369167292	Engine Speed D375	0	0	28
+369167293	Engine Water Temperature D375	0	0	5
+369167294	Engine Oil Temperature D375	0	0	5
+369167295	TC Oil Temperature D375	0	0	5
+369167296	Ambient Air Temp D375	0	0	5
+369167297	Engine Oil Pressure Gauge D375	0	0	9
+369167298	TM Main Pressure D375	0	0	9
+369167299	Hydraulic Oil Temperature D375	0	0	5
+369167300	Atomos Pressure D375	0	0	9
+369167301	Monitor SMR D375	0	0	7
+369167302	Travel Speed D375	0	0	11
+369167303	Pump 1 Pressure D375	0	0	9
+369167304	Pump 2 Pressure D375	0	0	9
+369168289	Software Version 830E	0	0	0
+369168290	Name And Type 830E	0	0	0
+369168291	Wakeup Type 830E	0	0	0
+369168292	Brake Filter Switches (IM) 830E	0	0	0
+369168293	Brake Differential Sw2 (IM) 830E	0	0	0
+369168294	Brake Differential Sw3 (IM) 830E	0	0	0
+369168295	Steering Pressure Sw2 (IM) 830E	0	0	0
+369168296	Spare 2 Lo (IM) 830E	0	0	0
+369168297	Steering PreCharge Sw (IM) 830E	0	0	0
+369168298	Circuit Breaker Tripped (IM) 830E	0	0	0
+369168299	5 Minute Idle On (IM) 830E	0	0	0
+369168300	Brake Lock (IM) 830E	0	0	0
+369168301	Manual Backup Light (IM) 830E	0	0	0
+369168302	Hydraulic Tank Level (IM) 830E	0	0	0
+369168303	Dynamic Retard On (IM) 830E	0	0	0
+369168304	No Propel/Retard Sw (IM) 830E	0	0	0
+369168305	Diode Fault (IM) 830E	0	0	0
+369168306	Mode Switch 4 (IM) 830E	0	0	0
+369168307	Electric Drive Sys Fault (IM) 830E	0	0	0
+369168308	Pressure Feedback Switch (IM) 830E	0	0	0
+369168309	Motor Blower Off (IM) 830E	0	0	0
+369168310	Low Fuel Sw (IM) 830E	0	0	0
+369168311	Park Brake Set (IM) 830E	0	0	0
+369168312	Service Brake On (IM) 830E	0	0	0
+369168313	Body Up (IM) 830E	0	0	0
+369168314	Lamp Test Switch (IM) 830E	0	0	0
+369168315	Steering Pressure Sw (IM) 830E	0	0	0
+369168316	Brake Differential Sw1 (IM) 830E	0	0	0
+369168317	Brake Accum Pressure Sw (IM) 830E	0	0	0
+369168318	Brake Lock Degrade Sw (IM) 830E	0	0	0
+369168319	Low Steering PreCharge Sw1 (IM) 830E	0	0	0
+369168320	Low Steering PreCharge Sw2 (IM) 830E	0	0	0
+369168321	Pump Filter Switches (IM) 830E	0	0	0
+369168322	Low Steering PreCharge Sw4 (IM) 830E	0	0	0
+369168323	Motor Temperature High (IM) 830E	0	0	0
+369168324	Ground Fault (IM) 830E	0	0	0
+369168325	Reduced Retard Level Sw (IM) 830E	0	0	0
+369168326	Propel System Not Ready (IM) 830E	0	0	0
+369168327	Propel System At Rest (IM) 830E	0	0	0
+369168328	Retard Speed Control On (IM) 830E	0	0	0
+369168329	Key Switch (IM) 830E	0	0	0
+369168330	Mode Switch 1 (IM) 830E	0	0	0
+369168331	Mode Switch 2 (IM) 830E	0	0	0
+369168332	Mode Switch 3 (IM) 830E	0	0	0
+369168333	High Brake Hydr Temp (IM) 830E	0	0	0
+369168334	Ge Batt+ (IM) 830E	0	0	0
+369168335	Stop Engine Sw (IM) 830E	0	0	0
+369168336	Check Engine Sw (IM) 830E	0	0	0
+369168337	Starter Motor1 Energized (IM) 830E	0	0	0
+369168338	Starter Motor2 Energized (IM) 830E	0	0	0
+369168339	Spare 7 (FNR Indicator Neutral) (IM) 830E	0	0	0
+369168340	Spare 6 (Start Request) (IM) 830E	0	0	0
+369168341	Spare 5 Hi (Park Brake Request) (IM) 830E	0	0	0
+369168342	Mode Switch 6 (IM) 830E	0	0	0
+369168343	Mode Switch 5 (IM) 830E	0	0	0
+369168344	Auto Lube Control Sw (IM) 830E	0	0	0
+369168345	Spare 1 Lo (IM) 830E	0	0	0
+369168346	Engine Speed (IM) 830E	0	0	28
+369168347	Truck Speed (IM) 830E	0	0	11
+369168348	Radiator Fan Clutch Voltage (IM) 830E	0	0	31
+369168349	Steering Pressure (IM) 830E	0	0	9
+369168350	Ambient Air Temp (IM) 830E	0	0	5
+369168351	Ultrasonic Fuel Sensor (IM) 830E	0	0	25
+369168352	Battery Voltage A (12V) (IM) 830E	0	0	31
+369168353	Left Rear Brake Oil Temp (IM) 830E	0	0	5
+369168354	Display Dimming Voltage (IM) 830E	0	0	31
+369168355	Battery Voltage B (12V) (IM) 830E	0	0	31
+369168356	Hydraulic Tank Temperature (IM) 830E	0	0	5
+369168357	Battery Voltage C (12V) (IM) 830E	0	0	31
+369168358	Brake Pressure (IM) 830E	0	0	9
+369168359	Hoist Pressure 2 (IM) 830E	0	0	9
+369168360	Right Front Brake Oil Temp (IM) 830E	0	0	5
+369168361	Hoist Pressure 1 (IM) 830E	0	0	9
+369168362	Left Front Brake Oil Temp (IM) 830E	0	0	5
+369168363	Battery Voltage 24V (IM) 830E	0	0	31
+369168364	Service Brake Power (IM) 830E	0	0	35
+369168365	Eng Speed 830E	0	0	28
+369168366	Cool Temp 830E	0	0	5
+369168367	Eng Oil Temp 830E	0	0	5
+369168368	Ambient Air Temp 830E	0	0	5
+369168369	Blow By Aq 830E	0	0	9
+369168370	Eng Oil Pre Kg 830E	0	0	9
+369168371	Boost Pre Kg 830E	0	0	9
+369168372	Exh Gas Temp 830E	0	0	5
+369168373	Fuel Injection 830E	0	0	0
+369168374	Five Min Idle On 830E	0	0	0
+369168375	Auto Lube Sw 830E	0	0	0
+369168376	Batt 12V A 830E	0	0	31
+369168377	Batt 12V B 830E	0	0	31
+369168378	Batt 12V C 830E	0	0	31
+369168379	Batt 24V 830E	0	0	31
+369168380	Body Up IM 830E	0	0	0
+369168381	Brake Accum Press Sw 830E	0	0	0
+369168382	Brake Diff Sw 1 830E	0	0	0
+369168383	Brake Diff Sw 2 830E	0	0	0
+369168384	Brake Diff Sw 3 830E	0	0	0
+369168385	Brake Filter Sw 830E	0	0	0
+369168386	Brake Lock IM 830E	0	0	0
+369168387	Brake Lock Degrade Sw 830E	0	0	0
+369168388	Brake Press 830E	0	0	9
+369168389	Electric Drive Sys Fault 830E	0	0	0
+369168390	Brake Press FB Sw2 830E	0	0	0
+369168391	Calculated Data R1 830E	0	0	0
+369168392	Calculated Data R2 830E	0	0	0
+369168393	Calculated Data R3 830E	0	0	0
+369168394	Calculated Data R4 830E	0	0	0
+369168395	Check Eng Sw 830E	0	0	0
+369168396	Circuit Breaker Trip 830E	0	0	0
+369168397	Display Dim Volt 830E	0	0	31
+369168398	Dynamic Retard On 830E	0	0	0
+369168399	Eng Speed IM 830E	0	0	28
+369168400	Ge Batt Plus 830E	0	0	0
+369168401	High Brake Temp 830E	0	0	0
+369168402	Hoist Press 1 830E	0	0	9
+369168403	Hoist Press 2 830E	0	0	9
+369168404	Hyd Oil Temp 830E	0	0	5
+369168405	Hydraulic Level 830E	0	0	0
+369168406	Key Switch 830E	0	0	0
+369168407	Lamp Test Sw 830E	0	0	0
+369168408	Low Fuel Sw 830E	0	0	0
+369168409	Low Steer Pre Charge Sw1 830E	0	0	0
+369168410	Low Steer Pre Charge Sw2 830E	0	0	0
+369168411	Low Steer Pre Charge Sw3 830E	0	0	0
+369168412	Low Steer Pre Charge Sw4 830E	0	0	0
+369168413	Low Steer Press 830E	0	0	0
+369168414	Low Steer Press Sw2 830E	0	0	0
+369168415	Manual Backup Light 830E	0	0	0
+369168416	Mode Sw 1 830E	0	0	0
+369168417	Mode Sw 2 830E	0	0	0
+369168418	Mode Sw 3 830E	0	0	0
+369168419	Mode Sw 4 830E	0	0	0
+369168420	Mode Sw 5 830E	0	0	0
+369168421	Mode Sw 6 830E	0	0	0
+369168422	Diode Fault 830E	0	0	0
+369168423	No Prop Retard Sw 830E	0	0	0
+369168424	Park Brake Set 830E	0	0	0
+369168425	Prop Sys Rest 830E	0	0	0
+369168426	Motor Blower Off 830E	0	0	0
+369168427	Prop Sys Not Ready 830E	0	0	0
+369168428	Ground Fault 830E	0	0	0
+369168429	Motor Temp High 830E	0	0	0
+369168430	Pump Filter Sw 830E	0	0	0
+369168431	Radi Fan Clutch Volt 830E	0	0	31
+369168432	Reduced Retard Sw 830E	0	0	0
+369168433	Retard Speed Ctrl On 830E	0	0	0
+369168434	Hydraulic Tank Temp 830E	0	0	5
+369168435	Service Brake On 830E	0	0	0
+369168436	Service Brake Power 830E	0	0	35
+369168437	Spare 1 Lo 830E	0	0	0
+369168438	Spare 2 Lo 830E	0	0	0
+369168439	Spare 5 Hi 830E	0	0	0
+369168440	Spare 6 830E	0	0	0
+369168441	Spare 7 830E	0	0	0
+369168442	Starter 1 Energized 830E	0	0	0
+369168443	Starter 2 Energized 830E	0	0	0
+369168444	Steer Press 830E	0	0	9
+369168445	Stop Eng Sw 830E	0	0	0
+369168446	Ultra Sonic Fuel Sensor 830E	0	0	25
+369168447	Vehicle Speed IM 830E	0	0	11
+369168448	Fuel Rate 01L 830E	0	0	13
+369168449	Fuel Rate 1L 830E	0	0	13
+369168450	Sprung Weight 830E	0	0	18
+369168451	LF Suspension Pressure 830E	0	0	9
+369168452	RF Suspension Pressure 830E	0	0	9
+369168453	LR Suspension Pressure 830E	0	0	9
+369168454	RR Suspension Pressure 830E	0	0	9
+369168455	Incline 830E	0	0	4
+369168456	Vehicle Speed (PLM3) 830E	0	0	11
+369168457	Haul Cycle Status 830E	0	0	0
+369168458	Brake Lock (PLM3) 830E	0	0	0
+369168459	Body Up (PLM3) 830E	0	0	0
+369168460	Run Stop State 830E	0	0	0
+369168461	PLM Reserved 830E	0	0	0
+369168462	PLM Reserved 830E	0	0	0
+369168463	PLM Reserved 830E	0	0	0
+369168464	PLM Reserved 830E	0	0	0
+369168465	PLM Reserved 830E	0	0	0
+369168466	Haul Cycle State 830E	0	0	0
+369168467	PLM Reserved 1 830E	0	0	0
+369168468	Boost Press 830E	0	0	9
+369168469	Exh Temp L1278 830E	0	0	5
+369168470	Exh Temp L3456 830E	0	0	5
+369168471	Exh Temp R1278 830E	0	0	5
+369168472	Exh Temp R3456 830E	0	0	5
+369168473	Exh Temp L1 830E	0	0	5
+369168474	Exh Temp L2 830E	0	0	5
+369168475	Exh Temp L3 830E	0	0	5
+369168476	Exh Temp L4 830E	0	0	5
+369168477	Exh Temp L5 830E	0	0	5
+369168478	Exh Temp L6 830E	0	0	5
+369168479	Exh Temp L7 830E	0	0	5
+369168480	Exh Temp L8 830E	0	0	5
+369168481	Exh Temp R1 830E	0	0	5
+369168482	Exh Temp R2 830E	0	0	5
+369168483	Exh Temp R3 830E	0	0	5
+369168484	Exh Temp R4 830E	0	0	5
+369168485	Exh Temp R5 830E	0	0	5
+369168486	Exh Temp R6 830E	0	0	5
+369168487	Exh Temp R7 830E	0	0	5
+369168488	Exh Temp R8 830E	0	0	5
+369168489	Total Vehicle Hours 830E	6553.5	0	7
+369169289	Software Version 930E	0	0	0
+369169290	Name And Type 930E	0	0	0
+369169291	Wakeup Type 930E	0	0	0
+369169292	Brake Filter Switches (IM) 930E	0	0	0
+369169293	Brake Differential Sw2 (IM) 930E	0	0	0
+369169294	Brake Differential Sw (IM) 930E	0	0	0
+369169295	Steering Pressure Sw2 (IM) 930E	0	0	0
+369169296	Spare 2 Lo (IM) 930E	0	0	0
+369169297	Steering PreCharge Sw (IM) 930E	0	0	0
+369169298	Circuit Breaker Tripped (IM) 930E	0	0	0
+369169299	5 Minute Idle On (IM) 930E	0	0	0
+369169300	Brake Lock (IM) 930E	0	0	0
+369169301	Manual Backup Light (IM) 930E	0	0	0
+369169302	Hydraulic Tank Level (IM) 930E	0	0	0
+369169303	Dynamic Retard Onv 930E	0	0	0
+369169304	No Propel/Retard Sw (IM) 930E	0	0	0
+369169305	Diode Fault (IM) 930E	0	0	0
+369169306	Mode Switch 4 (IM) 930E	0	0	0
+369169307	Electric Drive Sys Fault (IM) 930E	0	0	0
+369169308	Pressure Feedback Switch (IM) 930E	0	0	0
+369169309	Motor Blower Off (IM) 930E	0	0	0
+369169310	Low Fuel Sw (IM) 930E	0	0	0
+369169311	Park Brake Set (IM) 930E	0	0	0
+369169312	Service Brake On (IM) 930E	0	0	0
+369169313	Body Up (IM) 930E	0	0	0
+369169314	Lamp Test Switch (IM) 930E	0	0	0
+369169315	Steering Pressure Sw (IM) 930E	0	0	0
+369169316	Brake Differential Sw1 (IM) 930E	0	0	0
+369169317	Brake Accum Pressure Sw (IM) 930E	0	0	0
+369169318	Brake Lock Degrade Sw (IM) 930E	0	0	0
+369169319	Low Steering PreCharge Sw1 (IM) 930E	0	0	0
+369169320	Low Steering PreCharge Sw2 (IM) 930E	0	0	0
+369169321	Pump Filter Switches (IM) 930E	0	0	0
+369169322	Low Steering PreCharge Sw4 (IM) 930E	0	0	0
+369169323	Motor Temperature High (IM) 930E	0	0	0
+369169324	Ground Fault (IM) 930E	0	0	0
+369169325	Reduced Retard Level Sw (IM) 930E	0	0	0
+369169326	Propel System Not Ready (IM) 930E	0	0	0
+369169327	Propel System At Rest (IM) 930E	0	0	0
+369169328	Retard Speed Control On (IM) 930E	0	0	0
+369169329	Keyswitch (IM) 930E	0	0	0
+369169330	Mode Switch 1 (IM) 930E	0	0	0
+369169331	Mode Switch 2 (IM) 930E	0	0	0
+369169332	Mode Switch 3 (IM) 930E	0	0	0
+369169333	High Brake Hydr Temp (IM) 930E	0	0	0
+369169334	Ge Batt+ (IM) 930E	0	0	0
+369169335	Stop Engine Sw (IM) 930E	0	0	0
+369169336	Check Engine Sw (IM) 930E	0	0	0
+369169337	Starter Motor1 Energized (IM) 930E	0	0	0
+369169338	Starter Motor2 Energized (IM) 930E	0	0	0
+369169339	Spare 7 (FNR Indicator Neutral) (IM) 930E	0	0	0
+369169340	Spare 6 (Start Request) (IM) 930E	0	0	0
+369169341	Spare 5 Hi (Park Brake Request) (IM) 930E	0	0	0
+369169342	Mode Switch 6 (IM) 930E	0	0	0
+369169343	Mode Switch 5 (IM) 930E	0	0	0
+369169344	Auto Lube Control Sw (IM) 930E	0	0	0
+369169345	Spare 1 Lo (IM) 930E	0	0	0
+369169346	Engine Speed (IM) 930E	0	0	28
+369169347	Truck Speed (IM) 930E	0	0	11
+369169348	Radiator Fan Clutch Voltage (IM) 930E	0	0	31
+369169349	Steering Pressure (IM) 930E	0	0	9
+369169350	Ambient Air Temp (IM) 930E	0	0	5
+369169351	Ultrasonic Fuel Sensor (IM) 930E	0	0	25
+369169352	Battery Voltage A (12V) (IM) 930E	0	0	31
+369169353	Left Rear Brake Oil Temp (IM) 930E	0	0	5
+369169354	Display Dimming Voltage (IM) 930E	0	0	31
+369169355	Battery Voltage B (12V) (IM) 930E	0	0	31
+369169356	Right Rear Brake Oil Temp (IM) 930E	0	0	5
+369169357	Battery Vottage C (12V) (IM) 930E	0	0	31
+369169358	Brake Pressure (IM) 930E	0	0	9
+369169359	Hoist Pressure 2 (IM) 930E	0	0	9
+369169360	Right Front Brake Oil Temp (IM) 930E	0	0	5
+369169361	Hoist Pressure 1 (IM) 930E	0	0	9
+369169362	Left Front Brake Oil Temp (IM) 930E	0	0	5
+369169363	Battery Voltage 24V (IM) 930E	0	0	31
+369169364	Service Brake Power (IM) 930E	0	0	35
+369169365	Engine Speed 930E	0	0	28
+369169366	Engine Water Temperture 930E	0	0	5
+369169367	Engine Oil Pressure Gauge 930E	0	0	9
+369169368	Vlotmeter Gauge 930E	0	0	31
+369169369	Hydraulic Oil Temp (LF) 930E	0	0	5
+369169370	Hydraulic Oil Temp (LR) 930E	0	0	5
+369169371	Hydraulic Oil Temp (RF) 930E	0	0	5
+369169372	Hydraulic Oil Temp (RR) 930E	0	0	5
+369169373	Digital Speed 930E	0	0	11
+369170289	Software Version WA1200	0	0	0
+369170290	Name And Type WA1200	0	0	0
+369170291	Wakeup Type WA1200	0	0	0
+369170292	Engine Speed WA1200	0	0	28
+369170293	Fuel Level WA1200	0	0	25
+369170294	Engine Water Temperature WA1200	0	0	5
+369170295	Engine Oil Temperature WA1200	0	0	5
+369170296	Travel Speed WA1200	0	0	11
+369170297	TC Oil Temperature WA1200	0	0	5
+369170298	Ambient Air Temp WA1200	0	0	5
+369170299	Engine Oil Pressure Gauge WA1200	0	0	9
+369170300	TM Main Pressure WA1200	0	0	9
+369170301	Steering Pump Pressure WA1200	0	0	9
+369170302	Hydraulic Oil Temperature WA1200	0	0	5
+369170303	Hydraulic Oil Pressure WA1200	0	0	9
+369170304	CGC Prod A Times WA1200	0	0	29
+369170305	CGC Prod A Tons WA1200	0	0	19
+369170306	CGC Prod A Reset T WA1200	0	0	29
+369170307	CGC Prod B Times WA1200	0	0	29
+369170308	CGC Prod B Tons WA1200	0	0	19
+369170309	CGC Prod B Reset T WA1200	0	0	29
+369170310	CGC Prod C Times WA1200	0	0	29
+369170311	CGC Prod C Tons WA1200	0	0	19
+369170312	CGC Prod C Reset T WA1200	0	0	29
+369170313	CGC Prod D Times WA1200	0	0	29
+369170314	CGC Prod D Tons WA1200	0	0	19
+369170315	CGC Prod D Reset T WA1200	0	0	29
+369170316	CGC Prod E Times WA1200	0	0	29
+369170317	CGC Prod E Tons WA1200	0	0	19
+369170318	CGC Prod E Reset T WA1200	0	0	29
+369170319	CGC Prod F Times WA1200	0	0	29
+369170320	CGC Prod F Tons WA1200	0	0	19
+369170321	CGC Prod F Reset T WA1200	0	0	29
+369170322	CGC Prod G Times WA1200	0	0	29
+369170323	CGC Prod G Tons WA1200	0	0	19
+369170324	CGC Prod G Reset T WA1200	0	0	29
+369170325	CGC Prod All Times WA1200	0	0	29
+369170326	CGC Prod All Tons WA1200	0	0	19
+369170327	CGC Prod All Reset T WA1200	0	0	29
+369170328	Atomos Pressure WA1200	0	0	9
+369170329	Gear Selected WA1200	0	0	0
+369171289	Software Version PC4000	0	0	0
+369171290	Name And Type PC4000	0	0	0
+369171291	Wakeup Type PC4000	0	0	0
+369171292	Ambient Temperature PC4000	0	0	5
+369171293	Hydraulic Oil Temperature PC4000	0	0	5
+369171294	CM Oil Temperature PC4000	0	0	5
+369171295	CM Coolant Temperature PC4000	0	0	5
+369171296	Engine Oil Level PC4000	0	0	9
+369171297	Oil Level PC4000	0	0	9
+369171298	CLS1 Grease Level PC4000	0	0	21
+369171299	SLS Grease Level PC4000	0	0	21
+369171300	Fuel Level PC4000	0	0	9
+369171301	CM Fuel Temperature PC4000	0	0	5
+369171302	Air Intake Manifold Temperature PC4000	0	0	5
+369171303	Transmission Oil Temp PC4000	0	0	5
+369171304	Hydraulic Oil Tank Level PC4000	0	0	9
+369171305	Engine Coolant Level PC4000	0	0	21
+369171306	CLS2 Grease Level PC4000	0	0	21
+369171307	Lubrication Cycle Counter CLS1 PC4000	0	0	0
+369171308	Lubrication Cycle Counter CLS2 PC4000	0	0	0
+369171309	Lubrication Cycle Counter SLS PC4000	0	0	0
+369171310	Operation Hours PC4000	0	0	7
+369171311	Hydraulic Pressure PUMP 1 PC4000	0	0	9
+369171312	Hydraulic Pressure PUMP 2 PC4000	0	0	9
+369171313	Hydraulic Pressure PUMP 3 PC4000	0	0	9
+369171314	Hydraulic Pressure PUMP 4 PC4000	0	0	9
+369172289	Software Version 730E	0	0	0
+369172290	Name And Type 730E	0	0	0
+369172291	Wakeup Type 730E	0	0	0
+369172292	Engine Speed 730E	0	0	28
+369172293	Engine Coolant Pressure 730E	0	0	9
+369172294	Engine Coolant Temperature 730E	0	0	5
+369172295	Engine Oil Temperature 730E	0	0	5
+369172296	Ambient Air Temperature 730E	0	0	5
+369172297	Ground Speed 730E	0	0	11
+369172298	Sprung Weight 730E	0	0	18
+369172299	Engine Oil Pressure 730E	0	0	9
+369172300	Boost Pressure Left 730E	0	0	9
+369172301	Boost Pressure Right 730E	0	0	9
+369172302	Total Vehicle Hours 730E	6553.5	0	7
+369173289	Software Version HD785-7	0	0	0
+369173290	Name And Type HD785-7	0	0	0
+369173291	Wakeup Type HD785-7	0	0	0
+369173292	Engine Speed HD785-7	0	0	28
+369173293	Engine Coolant Temperature HD785-7	0	0	5
+369173294	Engine Oil Temperature HD785-7	0	0	5
+369173295	TC Oil Temperature HD785-7	0	0	5
+369173296	Ambient Air Temperature HD785-7	0	0	5
+369173297	Engine Oil Pressure HD785-7	0	0	9
+369173299	Atmospheric Pressure HD785-7	0	0	9
+369173300	Vehicle Speed HD785-7	0	0	11
+369173301	Suspension Pressure Left Front HD785-7	0	0	22
+369173302	Suspension Pressure Right Front HD785-7	0	0	22
+369173303	Suspension Pressure Left Real HD785-7	0	0	22
+369173304	Suspension Pressure Right Real HD785-7	0	0	22
+369173305	Total Vehicle Hours HD785-7	0	0	7
+369173306	Fuel Level HD785-7	0	0	25
+369173307	Body Seating HD785-7	0	0	0
+369173308	Live Weight HD785-7	0	0	8
+369173309	Vehicle State HD785-7	0	0	0
+369173310	Gradient Degree HD785-7	0	0	4
+369173311	Retarder Position HD785-7	0	0	25
+369173312	TM Shift Position HD785-7	0	0	0
+369174289	Software Version HD1500-7	0	0	0
+369174290	Name And Type HD1500-7	0	0	0
+369174291	Wakeup Type HD1500-7	0	0	0
+369174292	Engine Speed HD1500-7	0	0	28
+369174293	Engine Coolant Temperature HD1500-7	0	0	5
+369174294	Engine Oil Temperature HD1500-7	0	0	5
+369174295	TC Oil Temperature HD1500-7	0	0	5
+369174296	Ambient Air Temperature HD1500-7	0	0	5
+369174297	Engine Oil Pressure HD1500-7	0	0	9
+369174298	Hydraulic Oil Temperature HD1500-7	0	0	5
+369174299	Atmospheric Pressure HD1500-7	0	0	9
+369174300	Vehicle Speed HD1500-7	0	0	11
+369174301	Suspension Pressure Left Front HD1500-7	0	0	22
+369174302	Suspension Pressure Right Front HD1500-7	0	0	22
+369174303	Suspension Pressure Left Real HD1500-7	0	0	22
+369174304	Suspension Pressure Right Real HD1500-7	0	0	22
+369174305	Total Vehicle Hours HD1500-7	0	0	7
+369174306	Fuel Level HD1500-7	0	0	25
+369175289	Software Version WA800-900	0	0	0
+369175290	Name And Type WA800-900	0	0	0
+369175291	Wakeup Type WA800-900	0	0	0
+369175292	Engine Speed WA800-900	0	0	28
+369175293	Engine Coolant Temperature WA800-900	0	0	5
+369175294	Engine Oil Temperature WA800-900	0	0	5
+369175295	TC Oil Temperature WA800-900	0	0	5
+369175296	Ambient Air Temperature WA800-900	0	0	5
+369175297	Engine Oil Pressure WA800-900	0	0	9
+369175298	TM Main Pressure WA800-900	0	0	9
+369175299	ST Pump Pressure WA800-900	0	0	9
+369175300	Main Pump Pressure WA800-900	0	0	9
+369175301	Hydraulic Oil Temperature WA800-900	0	0	5
+369175302	Atmospheric Pressure WA800-900	0	0	9
+369176289	Software Version PC1250-8	0	0	0
+369176290	Name And Type PC1250-8	0	0	0
+369176291	Wakeup Type PC1250-8	0	0	0
+369176292	Engine Speed PC1250-8	0	0	28
+369176293	Engine Coolant Temperature PC1250-8	0	0	5
+369176294	Engine Oil Temperature PC1250-8	0	0	5
+369176295	Ambient Air Temperature PC1250-8	0	0	5
+369176296	Engine Oil Pressure PC1250-8	0	0	9
+369176297	PTO Temperature PC1250-8	0	0	5
+369176298	Front Pump Pressure PC1250-8	0	0	9
+369176299	Rear Pump Pressure PC1250-8	0	0	9
+369176300	Hydraulic Oil Temperature PC1250-8	0	0	5
+369177289	Software Version 960E	0	0	0
+369177290	Name And Type 960E	0	0	0
+369177291	Wakeup Type 960E	0	0	0
+369177292	Brake Filter Sw (IM) 960E	0	0	0
+369177297	Steering PreCharge Sw (IM) 960E	0	0	0
+369177300	Brake Lock (IM) 960E	0	0	0
+369177302	Hydraulic Tank Level (IM) 960E	0	0	0
+369177303	Dynamic Retard On (IM) 960E	0	0	0
+369177304	No Propel/Retard Sw (IM) 960E	0	0	0
+369177307	Electric Drive Sys Fault (IM) 960E	0	0	0
+369177308	Pressure Feedback Switch (IM) 960E	0	0	0
+369177310	Low Fuel Sw (IM) 960E	0	0	0
+369177311	Park Brake Set (IM) 960E	0	0	0
+369177312	Service Brake On (IM) 960E	0	0	0
+369177313	Body Up (IM) 960E	0	0	0
+369177317	Brake Accum Pressure Sw (IM) 960E	0	0	0
+369177323	Motor Temperature High (IM) 960E	0	0	0
+369177324	Ground Fault (IM) 960E	0	0	0
+369177325	Reduced Retard Level Sw (IM) 960E	0	0	0
+369177326	Propel System Not Ready (IM) 960E	0	0	0
+369177327	Propel System At Rest (IM) 960E	0	0	0
+369177328	Retard Speed Control On (IM) 960E	0	0	0
+369177333	High Brake Hydr Temp (IM) 960E	0	0	5
+369177344	Auto Lube Control Sw (IM) 960E	0	0	0
+369177348	Radiator Fan Clutch Voltage (IM) 960E	0	0	31
+369177350	Ambient Air Temp (IM) 960E	0	0	5
+369177351	Fuel Tank Level (IM) 960E	0	0	25
+369177353	Brake Oil Temp LR (IM) 960E	0	0	5
+369177356	Brake Oil Temp RR (IM) 960E	0	0	5
+369177358	Brake Pressure (IM) 960E	0	0	9
+369177359	Hoist Pressure 2 (IM) 960E	0	0	9
+369177360	Brake Oil Temp RF (IM) 960E	0	0	5
+369177361	Hoist Pressure 1 (IM) 960E	0	0	9
+369177362	Brake Oil Temp LF (IM) 960E	0	0	5
+369177363	Battery Voltage 24V (IM) 960E	0	0	31
+369177364	Service Brake Power (IM) 960E	0	0	35
+369177365	Engine Speed 960E	0	0	28
+369177366	Engine Coolant Temp 960E	0	0	5
+369177367	Engine Oil Temp 960E	0	0	5
+369177368	Atmospheric Pressure 960E	0	0	9
+369177369	Hydraulic Oil Temp 960E	0	0	5
+369177370	Steering Pressure 960E	0	0	9
+369177371	Vehicle Speed 960E	0	0	11
+369177372	Engine Oil Pressure 960E	0	0	5
+369177373	Total Vehicle Hours 960E	6553.5	0	7
+369178289	Software Version HD465605-7	0	0	0
+369178290	Name And Type HD465605-7	0	0	0
+369178291	Wakeup Type HD465605-7	0	0	0
+369178292	Engine Speed HD465605-7	0	0	28
+369178293	Engine Coolant Temperature HD465605-7	0	0	5
+369178294	Engine Oil Temperature HD465605-7	0	0	5
+369178295	TC Oil Temperature HD465605-7	0	0	5
+369178296	Ambient Air Temperature HD465605-7	0	0	5
+369178297	Engine Oil Pressure HD465605-7	0	0	9
+369178298	Hydraulic Oil Temperature HD465605-7	0	0	5
+369178299	Atmospheric Pressure HD465605-7	0	0	9
+369178300	Vehicle Speed HD465605-7	0	0	11
+369179289	Software Version PC2000-8	0	0	0
+369179290	Name And Type PC2000-8	0	0	0
+369179291	Wakeup Type PC2000-8	0	0	0
+369179292	Engine Speed PC2000-8	0	0	28
+369179293	Engine Coolant Temperature PC2000-8	0	0	5
+369179294	Engine Oil Temperature PC2000-8	0	0	5
+369179295	Ambient Air Temperature PC2000-8	0	0	5
+369179296	Engine Oil Pressure PC2000-8	0	0	9
+369179297	PTO Temperature PC2000-8	0	0	5
+369179298	Pump 1F Pressure PC2000-8	0	0	9
+369179299	Pump 1R Pressure PC2000-8	0	0	9
+369179300	Pump 2F Pressure PC2000-8	0	0	9
+369179301	Pump 2R Pressure PC2000-8	0	0	9
+369179302	Hydraulic Oil Temperature PC2000-8	0	0	5
+369180289	Software Version PC3000	0	0	0
+369180290	Name And Type PC3000	0	0	0
+369180291	Wakeup Type PC3000	0	0	0
+369180292	Engine Speed PC3000	0	0	28
+369180293	Coolant Temperature PC3000	0	0	5
+369180294	Engine Oil Temperature PC3000	0	0	5
+369180295	Hydraulic Oil Temperature PC3000	0	0	5
+369180296	Ambient Temperature PC3000	0	0	5
+369180297	Blow-By Pressure PC3000	0	0	9
+369180298	Engine Oil Pressure PC3000	0	0	9
+369180299	Pump 1 And 2 Pressure PC3000	0	0	9
+369180300	Pump 3 And 4 Pressure PC3000	0	0	9
+369180301	Pump 5 And 6 Pressure PC3000	0	0	9
+369180302	Exhaust Temperature L1 PC3000	0	0	5
+369180303	Exhaust Temperature L2 PC3000	0	0	5
+369180304	Exhaust Temperature L3 PC3000	0	0	5
+369180305	Exhaust Temperature L4 PC3000	0	0	5
+369180306	Exhaust Temperature L5 PC3000	0	0	5
+369180307	Exhaust Temperature L6 PC3000	0	0	5
+369180308	Exhaust Temperature R1 PC3000	0	0	5
+369180309	Exhaust Temperature R2 PC3000	0	0	5
+369180310	Exhaust Temperature R3 PC3000	0	0	5
+369180311	Exhaust Temperature R4 PC3000	0	0	5
+369180312	Exhaust Temperature R5 PC3000	0	0	5
+369180313	Exhaust Temperature R6 PC3000	0	0	5
+369180314	Operation Hours PC3000	0	0	7
+369181289	Software Version PC5500-6D	0	0	0
+369181290	Name And Type PC5500-6D	0	0	0
+369181291	Wakeup Type PC5500-6D	0	0	0
+369181292	Ambient Temperature PC5500-6D	0	0	5
+369181293	Hydraulic Oil Temperature PC5500-6D	0	0	5
+369181294	Engine Oil Temperature (Engine1) PC5500-6D	0	0	5
+369181295	Coolant Temperature (Engine1) PC5500-6D	0	0	5
+369181296	Remote Oil Tank Level (Pressure/Engine1) PC5500-6D	0	0	9
+369181297	Hydraulic Oil Level (Pressure) PC5500-6D	0	0	9
+369181298	Grease Barrel Level (CLS1 Central) PC5500-6D	0	0	21
+369181299	Grease Barrel Level (SLS) PC5500-6D	0	0	21
+369181300	Fuel Level (Pressure) PC5500-6D	0	0	9
+369181301	Fuel Temperature (Engine1) PC5500-6D	0	0	5
+369181302	Air Intake Manifold Temperature (Engine1) PC5500-6D	0	0	5
+369181303	Transnission Oil Temperature (Transmission1) PC5500-6D	0	0	5
+369181304	Hydraulic Oil Tank Level (Pressure) PC5500-6D	0	0	9
+369181305	Coolant Level (Engine1) PC5500-6D	0	0	21
+369181306	Grease Barrel Level (CLS2 Attachment) PC5500-6D	0	0	21
+369181307	Lubrication Cycle Counter CLS1 PC5500-6D	0	0	0
+369181308	Lubrication Cycle Counter CLS2 PC5500-6D	0	0	0
+369181309	Lubrication Cycle Counter SLS PC5500-6D	0	0	0
+369181310	Engine Oil Temperature (Engine2) PC5500-6D	0	0	5
+369181311	Coolant Temperature (Engine2) PC5500-6D	0	0	5
+369181312	Remote Oil Tank Level (Pressure/Engine2) PC5500-6D	0	0	9
+369181313	Transnission Oil Temperature (Transmission2) PC5500-6D	0	0	5
+369181314	Coolant Level (Engine2) PC5500-6D	0	0	21
+369181315	Fuel Temperature (Engine2) PC5500-6D	0	0	5
+369181316	Air Intake Manifold Temperature (Engine2) PC5500-6D	0	0	5
+369181317	Operation Hours PC5500-6D	0	0	7
+369182289	Software Version PC5500E-6	0	0	0
+369182290	Name And Type PC5500E-6	0	0	0
+369182291	Wakeup Type PC5500E-6	0	0	0
+369182292	Ambient Temperature PC5500E-6	0	0	5
+369182293	Hydraulic Oil Temperature PC5500E-6	0	0	5
+369182294	Hydraulic Oil Level (Pressure) PC5500E-6	0	0	9
+369182295	Grease Barrel Level (CLS1 Central) PC5500E-6	0	0	21
+369182296	Grease Barrel Level (SLS) PC5500E-6	0	0	21
+369182297	Transmission Oil Temperature (Transmission2) PC5500E-6	0	0	5
+369182298	Transmission Oil Temperature (Transmission1) PC5500E-6	0	0	5
+369182299	Grease Barrel Level (CLS2 Attachment) PC5500E-6	0	0	21
+369182300	Lubrication Cycle Counter CLS1 PC5500E-6	0	0	0
+369182301	Lubrication Cycle Counter CLS2 PC5500E-6	0	0	0
+369182302	Lubrication Cycle Counter SLS PC5500E-6	0	0	0
+369182303	Motor Bearing Temperature Drive End (Motor1) PC5500E-6	0	0	5
+369182304	Motor Bearing Temperature Drive End (Motor2) PC5500E-6	0	0	5
+369182305	Motor Bearing Temperature Non Drive End (Motor1) PC5500E-6	0	0	5
+369182306	Motor Bearing Temperature Non Drive End (Motor2) PC5500E-6	0	0	5
+369182307	Motor Winding Temperature L1 (Motor1) PC5500E-6	0	0	5
+369182308	Motor Winding Temperature L1 (Motor2) PC5500E-6	0	0	5
+369182309	Motor Winding Temperature L2 (Motor1) PC5500E-6	0	0	5
+369182310	Motor Winding Temperature L2 (Motor2) PC5500E-6	0	0	5
+369182311	Motor Winding Temperature L3 (Motor1) PC5500E-6	0	0	5
+369182312	Motor Winding Temperature L3 (Motor2) PC5500E-6	0	0	5
+369182313	Motor Voltage PC5500E-6	0	0	31
+369182314	Service Meter Hours PC5500E-6	0	0	7
+369183289	Software Version PC8000-6	0	0	0
+369183290	Name And Type PC8000-6	0	0	0
+369183291	Wakeup Type PC8000-6	0	0	0
+369183292	Ambient Temperature PC8000-6	0	0	5
+369183293	Hydraulic Oil Temperature PC8000-6	0	0	5
+369183294	Engine Oil Temperature (Engine1) PC8000-6	0	0	5
+369183295	Coolant Temperature (Engine1) PC8000-6	0	0	5
+369183296	Remote Oil Tank Level (Pressure/Engine1) PC8000-6	0	0	9
+369183297	Hydraulic Oil Level (Pressure) PC8000-6	0	0	9
+369183298	Grease Barrel Level (CLS1 Central) PC8000-6	0	0	21
+369183299	Grease Barrel Level (SLS) PC8000-6	0	0	21
+369183300	Fuel Level (Pressure)	0	0	9
+369183301	Fuel Temperature (Engine1) PC8000-6	0	0	5
+369183302	Air Intake Manifold Temperature (Engine1) PC8000-6	0	0	5
+369183303	Transmission Oil Temperature (Transmission1) PC8000-6	0	0	5
+369183304	Coolant Level (Engine1) PC8000-6	0	0	21
+369183305	Grease Barrel Level (CLS2 Attachment) PC8000-6	0	0	21
+369183306	Lubrication Cycle Counter CLS1 PC8000-6	0	0	0
+369183307	Lubrication Cycle Counter CLS2 PC8000-6	0	0	0
+369183308	Lubrication Cycle Counter SLS PC8000-6	0	0	0
+369183309	Engine Oil Temperature (Engine2) PC8000-6	0	0	5
+369183310	Coolant Temperature (Engine2) PC8000-6	0	0	5
+369183311	Remote Oil Tank Level (Pressure/Engine2) PC8000-6	0	0	9
+369183312	Transmission Oil Temperature (Transmission2) PC8000-6	0	0	5
+369183313	Coolant Level (Engine2) PC8000-6	0	0	21
+369183314	Fuel Temperature (Engine2) PC8000-6	0	0	5
+369183315	Air Intake Manifold Temperature (Engine2) PC8000-6	0	0	5
+369183316	Operation Hours PC8000-6	0	0	7
+369184289	Software Version WA600-6	0	0	0
+369184290	Name And Type WA600-6	0	0	0
+369184291	Wakeup Type WA600-6	0	0	0
+369184292	Engine Speed WA600-6	0	0	28
+369184293	Engine Coolant Temperature WA600-6	0	0	5
+369184294	Engine Oil Temperature WA600-6	0	0	5
+369184295	TC Oil Temperature WA600-6	0	0	5
+369184296	Ambient Air Temperature WA600-6	0	0	5
+369184297	Engine Oil Pressure WA600-6	0	0	9
+369184298	Hydraulic Oil Temperature WA600-6	0	0	5
+369184299	Atomos Pressure WA600-6	0	0	9
+369184300	Loader Pump Pressure WA600-6	0	0	9
+369184301	ST Pump Pressure WA600-6	0	0	9
+369185289	Software Version WD600-6	0	0	0
+369185290	Name And Type WD600-6	0	0	0
+369185291	Wakeup Type WD600-6	0	0	0
+369185292	Engine Speed WD600-6	0	0	28
+369185293	Coolant Temperature WD600-6	0	0	5
+369185294	Engine Oil Temperature WD600-6	0	0	5
+369185295	TC Oil Temperature WD600-6	0	0	5
+369185296	Ambient Air Temperature WD600-6	0	0	5
+369185297	Engine Oil Pressure WD600-6	0	0	9
+369185298	Hydraulic Oil Temperature WD600-6	0	0	5
+369185299	Atomos Pressure WD600-6	0	0	9
+369185300	Loader Pump Pressure WD600-6	0	0	9
+369185301	ST Pump Pressure WD600-6	0	0	9
+369185302	Total Vehicle Hours WD600-6	0	0	7
+369185303	Wheel-Based Vehicle Speed WD600-6	0	0	11
+369185304	Eco On WD600-6	0	0	0
+369185305	Engine 1 Accelerator Pedal Position 1 WD600-6	0	0	25
+369185306	Engine 1 Fuel Injection WD600-6	0	0	0
+369185307	Engine 1 Fuel Rate WD600-6	0	0	13
+369185308	Torque Converter Lockup Engaged WD600-6	0	0	0
+369185309	Transmission Output Shaft Speed WD600-6	0	0	28
+369185310	T/M Modulation Pressure WD600-6	0	0	9
+369185311	Transmission Current Range WD600-6	0	0	0
+369185312	Articulate Angle WD600-6	0	0	4
+369185313	Brake Oil Temperature WD600-6	0	0	5
+369185314	Brake Oil Pressure Left/Front WD600-6	0	0	9
+369185315	Brake Oil Pressure Right/Rear WD600-6	0	0	9
+369185316	Foot Brake Position WD600-6	0	0	0
+369185317	Bucket Load Weight WD600-6	0	0	19
+369186289	Software Version 960E-1K	0	0	0
+369186290	Name And Type 960E-1K	0	0	0
+369186291	Wakeup Type 960E-1K	0	0	0
+369186292	Engine Speed 960E-1K	0	0	28
+369186293	Cool Temperature 960E-1K	0	0	5
+369186294	Engine Oil Temperature 960E-1K	0	0	5
+369186295	Ambient Air Temperature 960E-1K	0	0	5
+369186296	Blow By Aq 960E-1K	0	0	9
+369186297	Engine Oil Pre Kg 960E-1K	0	0	9
+369186298	Boost Pre Kg 960E-1K	0	0	9
+369186299	Exh Gas Temperature 960E-1K	0	0	5
+369186300	Atomos Pressure 960E-1K	0	0	9
+369186301	Fuel Injection 960E-1K	0	0	0
+369186302	Five Min Idle Off 960E-1K	0	0	0
+369186303	Auto Lube Sw 960E-1K	0	0	0
+369186304	Batt 12V A 960E-1K	0	0	31
+369186305	Batt 12V B 960E-1K	0	0	31
+369186306	Batt 12V C 960E-1K	0	0	31
+369186307	Batt 24V 960E-1K	0	0	31
+369186308	Body Up IM 960E-1K	0	0	0
+369186309	Brake Accum Press Sw 960E-1K	0	0	0
+369186310	Brake Diff Sw 1 960E-1K	0	0	0
+369186311	Brake Diff Sw 2 960E-1K	0	0	0
+369186312	Brake Diff Sw 3 960E-1K	0	0	0
+369186313	Brake Filter Sw 960E-1K	0	0	0
+369186314	Brake Lock IM 960E-1K	0	0	0
+369186315	Brake Lock Degrade SW 960E-1K	0	0	0
+369186316	Brake Press 960E-1K	0	0	0
+369186317	Brake Press FBSW1 960E-1K	0	0	0
+369186318	Brake Press FBSW2 960E-1K	0	0	0
+369186319	Calculated Data R1 960E-1K	0	0	0
+369186320	Calculated Data R2 960E-1K	0	0	0
+369186321	Calculated Data R3 960E-1K	0	0	0
+369186322	Calculated Data R4 960E-1K	0	0	0
+369186323	Check Engine Sw 960E-1K	0	0	0
+369186324	Circuit Breaker Trip 960E-1K	0	0	0
+369186325	Sensor 5v Monitor 960E-1K	0	0	31
+369186326	Dynamic Retard On 960E-1K	0	0	0
+369186327	Engine Speed IM 960E-1K	0	0	28
+369186328	Ge Batt Plus 960E-1K	0	0	0
+369186329	Brake Lock SW Power 960E-1K	0	0	0
+369186330	Hoist Press 1 960E-1K	0	0	9
+369186331	Hoist Press 2v	0	0	9
+369186332	Hyd Oil Temperature 960E-1K	0	0	5
+369186333	Hydraulic Level 960E-1K	0	0	0
+369186334	Key Switch 960E-1K	0	0	0
+369186335	Lamp Test Sw 960E-1K	0	0	0
+369186336	Brake Oil Temperature LF 960E-1K	0	0	5
+369186337	Brake Oil Temperature LR 960E-1K	0	0	5
+369186338	Snapshot 960E-1K	0	0	0
+369186339	Low Steer Pre Charge SW1 960E-1K	0	0	0
+369186340	Low Steer Pre Charge SW2 960E-1K	0	0	0
+369186341	Low Steer Pre Charge SW3 960E-1K	0	0	0
+369186342	Strg Bleed Press SW 960E-1K	0	0	0
+369186343	Low Steer Press 960E-1K	0	0	0
+369186344	Low Steer Press Sw2 960E-1K	0	0	0
+369186345	Crank Request 960E-1K	0	0	0
+369186346	Mode Sw 1 960E-1K	0	0	0
+369186347	Mode Sw 2 960E-1K	0	0	0
+369186348	Mode Sw 3 960E-1K	0	0	0
+369186349	Mode Sw 4 960E-1K	0	0	0
+369186350	Mode Sw 5 960E-1K	0	0	0
+369186351	Mode Sw 6 960E-1K	0	0	0
+369186352	No Propel Sw 960E-1K	0	0	0
+369186353	No Prop Retard Sw 960E-1K	0	0	0
+369186354	Park Brake Set 960E-1K	0	0	0
+369186355	Engine 2nd Shutdown SW 960E-1K	0	0	0
+369186356	Prop Sys Caution Sw 960E-1K	0	0	0
+369186357	Prop Sys Not Ready 960E-1K	0	0	0
+369186358	Prop Sys Reduced Sw 960E-1K	0	0	0
+369186359	Prop Sys Temperature Caution SW 960E-1K	0	0	0
+369186360	Pump Filter Sw 960E-1K	0	0	0
+369186361	Radi Fan Clutch Volt 960E-1K	0	0	31
+369186362	Reduced Retard Sw 960E-1K	0	0	0
+369186363	Crank Inhibit 960E-1K	0	0	0
+369186364	Brake Oil Temperature RF 960E-1K	0	0	5
+369186365	Brake Oil Temperature RR 960E-1K	0	0	5
+369186366	Drive Direction Sel 960E-1K	0	0	0
+369186367	Service Brake Power 960E-1K	0	0	35
+369186368	Five Min Idle Start 960E-1K	0	0	0
+369186369	Spare 2 Lo 960E-1K	0	0	0
+369186370	Park Brake Request 960E-1K	0	0	0
+369186371	Crank Sense 960E-1K	0	0	0
+369186372	Park Select 960E-1K	0	0	0
+369186373	Starter 1 Energized 960E-1K	0	0	0
+369186374	Starter 2 Energized 960E-1K	0	0	0
+369186375	Steer Press 960E-1K	0	0	9
+369186376	Stop Engine Sw 960E-1K	0	0	0
+369186377	Fuel Level 960E-1K	0	0	25
+369186378	Vehicle Speed IM 960E-1K	0	0	11
+369186379	Fuel Rate 01L 960E-1K	0	0	13
+369186380	Fuel Rate 1L 960E-1K	0	0	0
+369186381	DATE 960E-1K	0	0	0
+369186382	SMR0 960E-1K	0	0	0
+369186383	Sprung Weight 960E-1K	0	0	19
+369186384	LF Sus Press 960E-1K	0	0	9
+369186385	RF Sus Press 960E-1K	0	0	9
+369186386	LR Sus Press 960E-1K	0	0	9
+369186387	RR Sus Press 960E-1K	0	0	9
+369186388	Incline 960E-1K	0	0	4
+369186389	Vehicle Speed Signed 960E-1K	0	0	11
+369186390	Haulcycle Status 960E-1K	0	0	0
+369186391	Brake Lock PLM3 960E-1K	0	0	0
+369186392	Body Up PLM3 960E-1K	0	0	0
+369186393	Run Stop State 960E-1K	0	0	0
+369186394	PLM Reserved 3 960E-1K	0	0	0
+369186395	PLM Reserved 4 960E-1K	0	0	0
+369186396	PLM Reserved 5 960E-1K	0	0	0
+369186397	PLM Reserved 6 960E-1K	0	0	0
+369186398	PLM Reserved 7 960E-1K	0	0	0
+369186399	Haulcycle State 960E-1K	0	0	0
+369186400	PLM Reserved 1 960E-1K	0	0	0
+369186401	Cool Pressure 960E-1K	0	0	0
+369186402	Engine Oil Diff Pressure 960E-1K	0	0	0
+369186403	Blow By Pressure 960E-1K	0	0	9
+369186404	Engine Oil Pressure 960E-1K	0	0	9
+369186405	Boost Pressure 960E-1K	0	0	9
+369186406	Boost Pressure L 960E-1K	0	0	9
+369186407	Boost Pressure R 960E-1K	0	0	9
+369186408	Exh Gas Temperature Calc 960E-1K	0	0	5
+369186409	Exh Temperature LF (QSK78) 960E-1K	0	0	5
+369186410	Exh Temperature LR (QSK78) 960E-1K	0	0	5
+369186411	Exh Temperature RF (QSK78) 960E-1K	0	0	5
+369186412	Exh Temperature RR (QSK78) 960E-1K	0	0	5
+369186413	Exh Temperature LM (QSK78) 960E-1K	0	0	5
+369186414	Exh Temperature RM (QSK78) 960E-1K	0	0	5
+369186415	Exh Temperature L1 960E-1K	0	0	5
+369186416	Exh Temperature L2 960E-1K	0	0	5
+369186417	Exh Temperature L3 960E-1K	0	0	5
+369186418	Exh Temperature L4 960E-1K	0	0	5
+369186419	Exh Temperature L5 960E-1K	0	0	5
+369186420	Exh Temperature L6 960E-1K	0	0	5
+369186421	Exh Temperature L7 960E-1K	0	0	5
+369186422	Exh Temperature L8 960E-1K	0	0	5
+369186423	Exh Temperature L9 (QSK78) 960E-1K	0	0	5
+369186424	Exh Temperature R1 960E-1K	0	0	5
+369186425	Exh Temperature R2 960E-1K	0	0	5
+369186426	Exh Temperature R3 960E-1K	0	0	5
+369186427	Exh Temperature R4 960E-1K	0	0	5
+369186428	Exh Temperature R5 960E-1K	0	0	5
+369186429	Exh Temperature R6 960E-1K	0	0	5
+369186430	Exh Temperature R7 960E-1K	0	0	5
+369186431	Exh Temperature R8 960E-1K	0	0	5
+369186432	Exh Temperature R9 (QSK78) 960E-1K	0	0	5
+369186433	IMT LBF 960E-1K	0	0	0
+369186434	IMT LBM 960E-1K	0	0	0
+369186435	IMT LBR 960E-1K	0	0	0
+369186436	IMT RBF 960E-1K	0	0	0
+369186437	IMT RBM 960E-1K	0	0	0
+369186438	IMT RBR 960E-1K	0	0	0
+369186439	IMT Temperature 960E-1K	0	0	0
+369186440	IMT Temperature Limit 960E-1K	0	0	0
+369186441	Forward True 960E-1K	0	0	0
+369186442	Reverse True 960E-1K	0	0	0
+369186443	Retard Mode Active 960E-1K	0	0	0
+369186444	Propel Mode Active 960E-1K	0	0	0
+369186445	Cruise Control Engage 960E-1K	0	0	0
+369186446	Trolley Active 960E-1K	0	0	0
+369186447	Shift Position 960E-1K	0	0	0
+369186448	Effort Percent 960E-1K	0	0	0
+369186449	Service Brake Set 960E-1K	0	0	0
+369186450	Park Brake Released 960E-1K	0	0	0
+369186451	Load Dump Brake On 960E-1K	0	0	0
+369186452	CAN Link NA 960E-1K	0	0	0
+369186453	Dump Body Down 960E-1K	0	0	0
+369186454	Over Set Speed1 960E-1K	0	0	0
+369186455	Over Set Speed2 960E-1K	0	0	0
+369186456	Direct Trolley Mode 960E-1K	0	0	0
+369186457	Diesel Boast Mode 960E-1K	0	0	0
+369186458	Pantograph Up 960E-1K	0	0	0
+369186459	Propel Inhibit 960E-1K	0	0	0
+369186460	Propel Not Ready 960E-1K	0	0	0
+369186461	Truck Speed 960E-1K	0	0	11
+369186462	Cruise Control Speed 960E-1K	0	0	11
+369186463	Engine Speed Si 960E-1K	0	0	28
+369186464	DC Power 960E-1K	0	0	12
+369186465	DC Bus Volt 960E-1K	0	0	31
+369186466	DC Link Amp 960E-1K	0	0	2
+369186467	Motor A OP Power 960E-1K	0	0	12
+369186468	Motor B OP Power 960E-1K	0	0	12
+369186469	Motor A OP Torque 01 960E-1K	0	0	24
+369186470	Motor B OP Torque 01 960E-1K	0	0	24
+369186471	Wheel Motor A Speed 960E-1K	0	0	28
+369186472	Wheel Motor B Speed 960E-1K	0	0	28
+369186473	Inverter A Amp 960E-1K	0	0	2
+369186474	Inverter B Amp 960E-1K	0	0	2
+369186475	Alternator EX AMP 960E-1K	0	0	2
+369186476	Cooling Blower Volt 960E-1K	0	0	31
+369186477	Cooling Blower Amp 960E-1K	0	0	2
+369186478	Cooling Blower Power 960E-1K	0	0	12
+369186479	Trolley Line Volt 960E-1K	0	0	31
+369186480	Trolley Line Amp 960E-1K	0	0	2
+369186481	DC Power Off 960E-1K	0	0	0
+369186482	TSS Disabled 960E-1K	0	0	0
+369186483	Inverter A Ok 960E-1K	0	0	0
+369186484	Inverter B Ok 960E-1K	0	0	0
+369186485	DS Preheating Active 960E-1K	0	0	0
+369186486	Throttle Percentage 960E-1K	0	0	25
+369186487	Retard Percentage 960E-1K	0	0	25
+369186488	Truck Speed Limit 960E-1K	0	0	11
+369186489	Retard Blower On 960E-1K	0	0	0
+369186490	Motor A Winding Temperature 960E-1K	0	0	5
+369186491	Motor A DE Bearing Temperature 960E-1K	0	0	5
+369186492	Motor A NDE Bearing Temperature 960E-1K	0	0	5
+369186493	Motor B Winding Temperature 960E-1K	0	0	5
+369186494	Motor B DE Bearing Temperature 960E-1K	0	0	5
+369186495	Motor B NDE Bearing Temperature 960E-1K	0	0	5
+369186496	Alternator Winding Temperature 960E-1K	0	0	5
+369186497	Alternator Bearing Temperature 960E-1K	0	0	5
+369186498	INV Coolant In Temperature 960E-1K	0	0	5
+369186499	INV Coolant Out Temperature 960E-1K	0	0	5
+369186500	Cabinet Air Temperature 960E-1K	0	0	5
+369186501	INV Coolant Pump P 960E-1K	0	0	9
+369186502	Cooling Blower Freq 960E-1K	0	0	32
+369186503	Battery Voltage 960E-1K	0	0	31
+369186504	Wheel Motor In Air Temperature 960E-1K	0	0	5
+369186505	Service Brake Energy 960E-1K	0	0	0
+369186506	Brake Oil Temperature Max 960E-1K	0	0	5
+369187289	Software Version 830E-12010100200	0	0	0
+369187290	Name And Type 830E-12010100200	0	0	0
+369187291	Wakeup Type 830E-12010100200	0	0	0
+369187292	Engine 1 Speed 830E-12010100200	0	0	28
+369187293	Engine 1 Coolant Temperature 830E-12010100200	0	0	5
+369187294	Engine 1 Oil Temperature 1 830E-12010100200	0	0	5
+369187295	Ambient Air Temperature 830E-12010100200	0	0	5
+369187296	Barometric Pressure 830E-12010100200	0	0	9
+369187297	Steering Pressure 830E-12010100200	0	0	9
+369187298	Wheel-Based Vehicle Speed 830E-12010100200	0	0	11
+369187299	Engine 1 Oil Pressure 830E-12010100200	0	0	22
+369188289	Software Version 830E-AC-12010100200	0	0	0
+369188290	Name And Type 830E-AC-12010100200	0	0	0
+369188291	Wakeup Type 830E-AC-12010100200	0	0	0
+369188292	Engine 1 Speed 830E-AC-12010100200	0	0	28
+369188293	Engine 1 Coolant Temperature 830E-AC-12010100200	0	0	5
+369188294	Engine 1 Oil Temperature 1 830E-AC-12010100200	0	0	5
+369188295	Ambient Air Temperature 830E-AC-12010100200	0	0	5
+369188296	Barometric Pressure 830E-AC-12010100200	0	0	9
+369188297	Steering Pressure 830E-AC-12010100200	0	0	9
+369188298	Wheel-Based Vehicle Speed 830E-AC-12010100200	0	0	11
+369188299	Engine 1 Oil Pressure 830E-AC-12010100200	0	0	22
+369189289	Software Version 830E-AC-11070100100	0	0	0
+369189290	Name And Type 830E-AC-11070100100	0	0	0
+369189291	Wakeup Type 830E-AC-11070100100	0	0	0
+369189292	Engine 1 Speed 830E-AC-11070100100	0	0	28
+369189293	Engine 1 Coolant Temperature 830E-AC-11070100100	0	0	5
+369189294	Engine 1 Oil Temperature 1 830E-AC-11070100100	0	0	5
+369189295	Ambient Air Temperature 830E-AC-11070100100	0	0	5
+369189296	Barometric Pressure 830E-AC-11070100100	0	0	9
+369189297	Steering Pressure 830E-AC-11070100100	0	0	9
+369189298	Wheel-Based Vehicle Speed 830E-AC-11070100100	0	0	11
+369189299	Engine 1 Oil Pressure 830E-AC-11070100100	0	0	22
+369190289	Software Version 830E-1TB-12030100100	0	0	0
+369190290	Name And Type 830E-1TB-12030100100	0	0	0
+369190291	Wakeup Type 830E-1TB-12030100100	0	0	0
+369190292	Engine 1 Speed 830E-1TB-12030100100	0	0	28
+369190293	Engine 1 Coolant Temperature 830E-1TB-12030100100	0	0	5
+369190294	Engine 1 Oil Temperature 1 830E-1TB-12030100100	0	0	5
+369190295	Ambient Air Temperature 830E-1TB-12030100100	0	0	5
+369190296	Barometric Pressure 830E-1TB-12030100100	0	0	9
+369190297	Steering Pressure 830E-1TB-12030100100	0	0	9
+369190298	Wheel-Based Vehicle Speed 830E-1TB-12030100100	0	0	11
+369190299	Engine 1 Oil Pressure 830E-1TB-12030100100	0	0	22
+369191289	Software Version 830E-AC-12040100110	0	0	0
+369191290	Name And Type 830E-AC-12040100110	0	0	0
+369191291	Wakeup Type 830E-AC-12040100110	0	0	0
+369191292	Engine 1 Speed 830E-AC-12040100110	0	0	28
+369191293	Engine 1 Coolant Temperature 830E-AC-12040100110	0	0	5
+369191294	Engine 1 Oil Temperature 1 830E-AC-12040100110	0	0	5
+369191295	Ambient Air Temperature 830E-AC-12040100110	0	0	5
+369191296	Barometric Pressure 830E-AC-12040100110	0	0	9
+369191297	Battery Voltage 24V 830E-AC-12040100110	0	0	31
+369191298	Brake Pressure 830E-AC-12040100110	0	0	9
+369191299	Hoist Pressure 1 830E-AC-12040100110	0	0	9
+369191300	Hoist Pressure 2 830E-AC-12040100110	0	0	9
+369191301	Hydraulic Oil Tank Temperature (High Resolution) 830E-AC-12040100110	0	0	5
+369191302	Service Brake Power 830E-AC-12040100110	0	0	0
+369191303	Steering Pressure 830E-AC-12040100110	0	0	9
+369191304	Fuel Level (High Resolution) 830E-AC-12040100110	0	0	25
+369191305	Engine 1 Fuel Rate 830E-AC-12040100110	0	0	13
+369191306	Left Front Suspension Pressure 830E-AC-12040100110	0	0	22
+369191307	Right Front Suspension Pressure 830E-AC-12040100110	0	0	22
+369191308	Left Rear Suspension Pressure 830E-AC-12040100110	0	0	22
+369191309	Right Rear Suspension Pressure 830E-AC-12040100110	0	0	22
+369191310	Pitch/Inclinometer 830E-AC-12040100110	0	0	4
+369191311	Haulcycle Status Flags 830E-AC-12040100110	0	0	0
+369191312	Brake Lock 830E-AC-12040100110	0	0	0
+369191313	Body Up 830E-AC-12040100110	0	0	0
+369191314	Vehicle Run/Stop State 830E-AC-12040100110	0	0	0
+369191315	Haulcycle State 830E-AC-12040100110	0	0	0
+369191316	Engine 1 Oil Pressure 830E-AC-12040100110	0	0	22
+369191317	Retard Speed Control On  830E-AC-12040100110	0	0	0
+369191318	Service Brake On 830E-AC-12040100110	0	0	0
+369191319	Park Brake Set 830E-AC-12040100110	0	0	0
+369191320	Wheel-Based Vehicle Speed 830E-AC-12040100110	0	0	11
+369191321	Engine 1 Accelerator Pedal Position 1 830E-AC-12040100110	0	0	25
+369191322	Total Vehicle Hours 830E-AC-12040100110	0	0	7
+369192289	Software Version 830E-1LE-12020200300	0	0	0
+369192290	Name And Type 830E-1LE-12020200300	0	0	0
+369192291	Wakeup Type 830E-1LE-12020200300	0	0	0
+369192292	Engine 1 Speed 830E-1LE-12020200300	0	0	28
+369192293	Engine 1 Coolant Temperature 830E-1LE-12020200300	0	0	5
+369192294	Engine 1 Oil Temperature 1 830E-1LE-12020200300	0	0	5
+369192295	Ambient Air Temperature 830E-1LE-12020200300	0	0	5
+369192296	Barometric Pressure 830E-1LE-12020200300	0	0	9
+369192297	Steering Pressure 830E-1LE-12020200300	0	0	9
+369192298	Wheel-Based Vehicle Speed 830E-1LE-12020200300	0	0	11
+369192299	Engine 1 Oil Pressure 830E-1LE-12020200300	0	0	22
+369193289	Software Version 830E-1TB-12030100300	0	0	0
+369193290	Name And Type 830E-1TB-12030100300	0	0	0
+369193291	Wakeup Type 830E-1TB-12030100300	0	0	0
+369193292	Engine 1 Speed 830E-1TB-12030100300	0	0	28
+369193293	Engine 1 Coolant Temperature 830E-1TB-12030100300	0	0	5
+369193294	Engine 1 Oil Temperature 1 830E-1TB-12030100300	0	0	5
+369193295	Ambient Air Temperature 830E-1TB-12030100300	0	0	5
+369193296	Barometric Pressure 830E-1TB-12030100300	0	0	9
+369193297	Battery Voltage 24V 830E-1TB-12030100300	0	0	31
+369193298	Brake Pressure 830E-1TB-12030100300	0	0	9
+369193299	Hoist Pressure 1 830E-1TB-12030100300	0	0	9
+369193300	Hoist Pressure 2 830E-1TB-12030100300	0	0	9
+369193301	Hydraulic Oil Tank Temperature (High Resolution) 830E-1TB-12030100300	0	0	5
+369193302	Service Brake Power 830E-1TB-12030100300	0	0	0
+369193303	Steering Pressure 830E-1TB-12030100300	0	0	9
+369193304	Fuel Level (High Resolution) 830E-1TB-12030100300	0	0	25
+369193305	Engine 1 Fuel Rate 830E-1TB-12030100300	0	0	13
+369193306	Left Front Suspension Pressure 830E-1TB-12030100300	0	0	22
+369193307	Right Front Suspension Pressure 830E-1TB-12030100300	0	0	22
+369193308	Left Rear Suspension Pressure 830E-1TB-12030100300	0	0	22
+369193309	Right Rear Suspension Pressure 830E-1TB-12030100300	0	0	22
+369193310	Pitch/Inclinometer 830E-1TB-12030100300	0	0	4
+369193311	Haulcycle Status Flags 830E-1TB-12030100300	0	0	0
+369193312	Brake Lock 830E-1TB-12030100300	0	0	0
+369193313	Body Up 830E-1TB-12030100300	0	0	0
+369193314	Vehicle Run/Stop State 830E-1TB-12030100300	0	0	0
+369193315	Haulcycle State 830E-1TB-12030100300	0	0	0
+369193316	Engine 1 Oil Pressure 830E-1TB-12030100300	0	0	22
+369193317	Retard Speed Control On  830E-1TB-12030100300	0	0	0
+369193318	Service Brake On 830E-1TB-12030100300	0	0	0
+369193319	Park Brake Set 830E-1TB-12030100300	0	0	0
+369193320	Wheel-Based Vehicle Speed 830E-1TB-12030100300	0	0	11
+369193321	Engine 1 Accelerator Pedal Position 1 830E-1TB-12030100300	0	0	25
+369193322	Total Vehicle Hours 830E-1TB-12030100300	0	0	7
+369194289	Software Version 930E-3SE-AC-11060100100	0	0	0
+369194290	Name And Type 930E-3SE-AC-11060100100	0	0	0
+369194291	Wakeup Type 930E-3SE-AC-11060100100	0	0	0
+369194292	Engine 1 Speed 930E-3SE-AC-11060100100	0	0	28
+369194293	Engine 1 Coolant Temperature 930E-3SE-AC-11060100100	0	0	5
+369194294	Engine 1 Oil Temperature 1 930E-3SE-AC-11060100100	0	0	5
+369194295	Ambient Air Temperature 930E-3SE-AC-11060100100	0	0	5
+369194296	Barometric Pressure 930E-3SE-AC-11060100100	0	0	9
+369194297	Brake Pressure 930E-3SE-AC-11060100100	0	0	9
+369194298	Hoist Pressure 1 930E-3SE-AC-11060100100	0	0	9
+369194299	Hoist Pressure 2 930E-3SE-AC-11060100100	0	0	9
+369194300	Left Front Brake Oil Temperature 930E-3SE-AC-11060100100	0	0	5
+369194301	Left Rear Brake Oil Temperature 930E-3SE-AC-11060100100	0	0	5
+369194302	Right Front Brake Oil Temperature 930E-3SE-AC-11060100100	0	0	5
+369194303	Right Rear Brake Oil Temperature 930E-3SE-AC-11060100100	0	0	5
+369194304	Steering Pressure 930E-3SE-AC-11060100100	0	0	9
+369194305	Wheel-Based Vehicle Speed 930E-3SE-AC-11060100100	0	0	11
+369194306	Engine 1 Oil Pressure 930E-3SE-AC-11060100100	0	0	22
+369195289	Software Version 930E-3SE-AC-11060100110	0	0	0
+369195290	Name And Type 930E-3SE-AC-11060100110	0	0	0
+369195291	Wakeup Type 930E-3SE-AC-11060100110	0	0	0
+369195292	Engine 1 Speed 930E-3SE-AC-11060100110	0	0	28
+369195293	Engine 1 Coolant Temperature 930E-3SE-AC-11060100110	0	0	5
+369195294	Engine 1 Oil Temperature 1 930E-3SE-AC-11060100110	0	0	5
+369195295	Ambient Air Temperature 930E-3SE-AC-11060100110	0	0	5
+369195296	Barometric Pressure 930E-3SE-AC-11060100110	0	0	9
+369195297	Battery Voltage 24V 930E-3SE-AC-11060100110	0	0	31
+369195298	Brake Pressure 930E-3SE-AC-11060100110	0	0	9
+369195299	Hoist Pressure 1 930E-3SE-AC-11060100110	0	0	9
+369195300	Hoist Pressure 2 930E-3SE-AC-11060100110	0	0	9
+369195301	Left Front Brake Oil Temperature 930E-3SE-AC-11060100110	0	0	5
+369195302	Left Rear Brake Oil Temperature 930E-3SE-AC-11060100110	0	0	5
+369195303	Right Front Brake Oil Temperature 930E-3SE-AC-11060100110	0	0	5
+369195304	Right Rear Brake Oil Temperature 930E-3SE-AC-11060100110	0	0	5
+369195305	Service Brake Power 930E-3SE-AC-11060100110	0	0	35
+369195306	Steering Pressure 930E-3SE-AC-11060100110	0	0	9
+369195307	Fuel Level (High Resolution) 930E-3SE-AC-11060100110	0	0	25
+369195308	Engine 1 Fuel Rate 930E-3SE-AC-11060100110	0	0	13
+369195309	Left Front Suspension Pressure 930E-3SE-AC-11060100110	0	0	22
+369195310	Right Front Suspension Pressure 930E-3SE-AC-11060100110	0	0	22
+369195311	Left Rear Suspension Pressure 930E-3SE-AC-11060100110	0	0	22
+369195312	Right Rear Suspension Pressure 930E-3SE-AC-11060100110	0	0	22
+369195313	Pitch/Inclinometer 930E-3SE-AC-11060100110	0	0	4
+369195314	Haulcycle Status Flags 930E-3SE-AC-11060100110	0	0	0
+369195315	Brake Lock 930E-3SE-AC-11060100110	0	0	0
+369195316	Body Up 930E-3SE-AC-11060100110	0	0	0
+369195317	Vehicle Run/Stop State 930E-3SE-AC-11060100110	0	0	0
+369195318	Haulcycle State 930E-3SE-AC-11060100110	0	0	0
+369195319	Engine 1 Oil Pressure 930E-3SE-AC-11060100110	0	0	22
+369195320	Retard Speed Control On  930E-3SE-AC-11060100110	0	0	0
+369195321	Service Brake On 930E-3SE-AC-11060100110	0	0	0
+369195322	Park Brake Set 930E-3SE-AC-11060100110	0	0	0
+369195323	Wheel-Based Vehicle Speed 930E-3SE-AC-11060100110	0	0	11
+369195324	Engine 1 Accelerator Pedal Position 1 930E-3SE-AC-11060100110	0	0	25
+369195325	Total Vehicle Hours 930E-3SE-AC-11060100110	0	0	7
+369196289	Software Version 930E-4SE-AC-11060100100	0	0	0
+369196290	Name And Type 930E-4SE-AC-11060100100	0	0	0
+369196291	Wakeup Type 930E-4SE-AC-11060100100	0	0	0
+369196292	Engine 1 Speed 930E-4SE-AC-11060100100	0	0	28
+369196293	Engine 1 Coolant Temperature 930E-4SE-AC-11060100100	0	0	5
+369196294	Engine 1 Oil Temperature 1 930E-4SE-AC-11060100100	0	0	5
+369196295	Ambient Air Temperature 930E-4SE-AC-11060100100	0	0	5
+369196296	Barometric Pressure 930E-4SE-AC-11060100100	0	0	9
+369196297	Brake Pressure 930E-4SE-AC-11060100100	0	0	9
+369196298	Hoist Pressure 1 930E-4SE-AC-11060100100	0	0	9
+369196299	Hoist Pressure 2 930E-4SE-AC-11060100100	0	0	9
+369196300	Left Front Brake Oil Temperature 930E-4SE-AC-11060100100	0	0	5
+369196301	Left Rear Brake Oil Temperature 930E-4SE-AC-11060100100	0	0	5
+369196302	Right Front Brake Oil Temperature 930E-4SE-AC-11060100100	0	0	5
+369196303	Right Rear Brake Oil Temperature 930E-4SE-AC-11060100100	0	0	5
+369196304	Steering Pressure 930E-4SE-AC-11060100100	0	0	9
+369196305	Wheel-Based Vehicle Speed 930E-4SE-AC-11060100100	0	0	11
+369196306	Engine 1 Oil Pressure 930E-4SE-AC-11060100100	0	0	22
+369197289	Software Version 930E-4SE-AC-11060100110	0	0	0
+369197290	Name And Type 930E-4SE-AC-11060100110	0	0	0
+369197291	Wakeup Type 930E-4SE-AC-11060100110	0	0	0
+369197292	Engine 1 Speed 930E-4SE-AC-11060100110	0	0	28
+369197293	Engine 1 Coolant Temperature 930E-4SE-AC-11060100110	0	0	5
+369197294	Engine 1 Oil Temperature 1 930E-4SE-AC-11060100110	0	0	5
+369197295	Ambient Air Temperature 930E-4SE-AC-11060100110	0	0	5
+369197296	Barometric Pressure 930E-4SE-AC-11060100110	0	0	9
+369197297	Battery Voltage 24V 930E-4SE-AC-11060100110	0	0	31
+369197298	Brake Pressure 930E-4SE-AC-11060100110	0	0	9
+369197299	Hoist Pressure 1 930E-4SE-AC-11060100110	0	0	9
+369197300	Hoist Pressure 2 930E-4SE-AC-11060100110	0	0	9
+369197301	Left Front Brake Oil Temperature 930E-4SE-AC-11060100110	0	0	5
+369197302	Left Rear Brake Oil Temperature 930E-4SE-AC-11060100110	0	0	5
+369197303	Right Front Brake Oil Temperature 930E-4SE-AC-11060100110	0	0	5
+369197304	Right Rear Brake Oil Temperature 930E-4SE-AC-11060100110	0	0	5
+369197305	Service Brake Power 930E-4SE-AC-11060100110	0	0	35
+369197306	Steering Pressure 930E-4SE-AC-11060100110	0	0	9
+369197307	Fuel Level (High Resolution) 930E-4SE-AC-11060100110	0	0	25
+369197308	Engine 1 Fuel Rate 930E-4SE-AC-11060100110	0	0	13
+369197309	Left Front Suspension Pressure 930E-4SE-AC-11060100110	0	0	22
+369197310	Right Front Suspension Pressure 930E-4SE-AC-11060100110	0	0	22
+369197311	Left Rear Suspension Pressure 930E-4SE-AC-11060100110	0	0	22
+369197312	Right Rear Suspension Pressure 930E-4SE-AC-11060100110	0	0	22
+369197313	Pitch/Inclinometer 930E-4SE-AC-11060100110	0	0	4
+369197314	Haulcycle Status Flags 930E-4SE-AC-11060100110	0	0	0
+369197315	Brake Lock 930E-4SE-AC-11060100110	0	0	0
+369197316	Body Up 930E-4SE-AC-11060100110	0	0	0
+369197317	Vehicle Run/Stop State 930E-4SE-AC-11060100110	0	0	0
+369197318	Haulcycle State 930E-4SE-AC-11060100110	0	0	0
+369197319	Engine 1 Oil Pressure 930E-4SE-AC-11060100110	0	0	22
+369197320	Retard Speed Control On  930E-4SE-AC-11060100110	0	0	0
+369197321	Service Brake On 930E-4SE-AC-11060100110	0	0	0
+369197322	Park Brake Set 930E-4SE-AC-11060100110	0	0	0
+369197323	Wheel-Based Vehicle Speed 930E-4SE-AC-11060100110	0	0	11
+369197324	Engine 1 Accelerator Pedal Position 1 930E-4SE-AC-11060100110	0	0	25
+369197325	Total Vehicle Hours 930E-4SE-AC-11060100110	0	0	7
+369198289	Software Version 930E-3-AC-11070100100	0	0	0
+369198290	Name And Type 930E-3-AC-11070100100	0	0	0
+369198291	Wakeup Type 930E-3-AC-11070100100	0	0	0
+369198292	Engine 1 Speed 930E-3-AC-11070100100	0	0	28
+369198293	Engine 1 Coolant Temperature 930E-3-AC-11070100100	0	0	5
+369198294	Engine 1 Oil Temperature 1 930E-3-AC-11070100100	0	0	5
+369198295	Ambient Air Temperature 930E-3-AC-11070100100	0	0	5
+369198296	Barometric Pressure 930E-3-AC-11070100100	0	0	9
+369198297	Brake Pressure 930E-3-AC-11070100100	0	0	31
+369198298	Hoist Pressure 1 930E-3-AC-11070100100	0	0	9
+369198299	Hoist Pressure 2 930E-3-AC-11070100100	0	0	9
+369198300	Left Front Brake Oil Temperature 930E-3-AC-11070100100	0	0	9
+369198301	Left Rear Brake Oil Temperature 930E-3-AC-11070100100	0	0	5
+369198302	Right Front Brake Oil Temperature 930E-3-AC-11070100100	0	0	5
+369198303	Right Rear Brake Oil Temperature 930E-3-AC-11070100100	0	0	5
+369198304	Steering Pressure 930E-3-AC-11070100100	0	0	5
+369198305	Wheel-Based Vehicle Speed 930E-3-AC-11070100100	0	0	35
+369198306	Engine 1 Oil Pressure 930E-3-AC-11070100100	0	0	9
+369199289	Software Version 930E-3-AC-11070100110	0	0	0
+369199290	Name And Type 930E-3-AC-11070100110	0	0	0
+369199291	Wakeup Type 930E-3-AC-11070100110	0	0	0
+369199292	Engine 1 Speed 930E-3-AC-11070100110	0	0	28
+369199293	Engine 1 Coolant Temperature 930E-3-AC-11070100110	0	0	5
+369199294	Engine 1 Oil Temperature 1 930E-3-AC-11070100110	0	0	5
+369199295	Ambient Air Temperature 930E-3-AC-11070100110	0	0	5
+369199296	Barometric Pressure 930E-3-AC-11070100110	0	0	9
+369199297	Battery Voltage 24V 930E-3-AC-11070100110	0	0	31
+369199298	Brake Pressure 930E-3-AC-11070100110	0	0	9
+369199299	Hoist Pressure 1 930E-3-AC-11070100110	0	0	9
+369199300	Hoist Pressure 2 930E-3-AC-11070100110	0	0	9
+369199301	Left Front Brake Oil Temperature 930E-3-AC-11070100110	0	0	5
+369199302	Left Rear Brake Oil Temperature 930E-3-AC-11070100110	0	0	5
+369199303	Right Front Brake Oil Temperature 930E-3-AC-11070100110	0	0	5
+369199304	Right Rear Brake Oil Temperature 930E-3-AC-11070100110	0	0	5
+369199305	Service Brake Power 930E-3-AC-11070100110	0	0	35
+369199306	Steering Pressure 930E-3-AC-11070100110	0	0	9
+369199307	Fuel Level (High Resolution) 930E-3-AC-11070100110	0	0	25
+369199308	Engine 1 Fuel Rate 930E-3-AC-11070100110	0	0	13
+369199309	Left Front Suspension Pressure 930E-3-AC-11070100110	0	0	22
+369199310	Right Front Suspension Pressure 930E-3-AC-11070100110	0	0	22
+369199311	Left Rear Suspension Pressure 930E-3-AC-11070100110	0	0	22
+369199312	Right Rear Suspension Pressure 930E-3-AC-11070100110	0	0	22
+369199313	Pitch/Inclinometer 930E-3-AC-11070100110	0	0	4
+369199314	Haulcycle Status Flags 930E-3-AC-11070100110	0	0	0
+369199315	Brake Lock 930E-3-AC-11070100110	0	0	0
+369199316	Body Up 930E-3-AC-11070100110	0	0	0
+369199317	Vehicle Run/Stop State 930E-3-AC-11070100110	0	0	0
+369199318	Haulcycle State 930E-3-AC-11070100110	0	0	0
+369199319	Engine 1 Oil Pressure 930E-3-AC-11070100110	0	0	22
+369199320	Retard Speed Control On  930E-3-AC-11070100110	0	0	0
+369199321	Service Brake On 930E-3-AC-11070100110	0	0	0
+369199322	Park Brake Set 930E-3-AC-11070100110	0	0	0
+369199323	Wheel-Based Vehicle Speed 930E-3-AC-11070100110	0	0	11
+369199324	Engine 1 Accelerator Pedal Position 1 930E-3-AC-11070100110	0	0	25
+369199325	Total Vehicle Hours 930E-3-AC-11070100110	0	0	7
+369200289	Software Version 930E-4-AC-11070100100	0	0	0
+369200290	Name And Type 930E-4-AC-11070100100	0	0	0
+369200291	Wakeup Type 930E-4-AC-11070100100	0	0	0
+369200292	Engine 1 Speed 930E-4-AC-11070100100	0	0	28
+369200293	Engine 1 Coolant Temperature 930E-4-AC-11070100100	0	0	5
+369200294	Engine 1 Oil Temperature 1 930E-4-AC-11070100100	0	0	5
+369200295	Ambient Air Temperature 930E-4-AC-11070100100	0	0	5
+369200296	Barometric Pressure 930E-4-AC-11070100100	0	0	9
+369200297	Brake Pressure 930E-4-AC-11070100100	0	0	31
+369200298	Hoist Pressure 1 930E-4-AC-11070100100	0	0	9
+369200299	Hoist Pressure 2 930E-4-AC-11070100100	0	0	9
+369200300	Left Front Brake Oil Temperature 930E-4-AC-11070100100	0	0	9
+369200301	Left Rear Brake Oil Temperature 930E-4-AC-11070100100	0	0	5
+369200302	Right Front Brake Oil Temperature 930E-4-AC-11070100100	0	0	5
+369200303	Right Rear Brake Oil Temperature 930E-4-AC-11070100100	0	0	5
+369200304	Steering Pressure 930E-4-AC-11070100100	0	0	5
+369200305	Wheel-Based Vehicle Speed 930E-4-AC-11070100100	0	0	35
+369200306	Engine 1 Oil Pressure 930E-4-AC-11070100100	0	0	9
+369201289	Software Version 930E-4-AC-11070100110	0	0	0
+369201290	Name And Type 930E-4-AC-11070100110	0	0	0
+369201291	Wakeup Type 930E-4-AC-11070100110	0	0	0
+369201292	Engine 1 Speed 930E-4-AC-11070100110	0	0	28
+369201293	Engine 1 Coolant Temperature 930E-4-AC-11070100110	0	0	5
+369201294	Engine 1 Oil Temperature 1 930E-4-AC-11070100110	0	0	5
+369201295	Ambient Air Temperature 930E-4-AC-11070100110	0	0	5
+369201296	Barometric Pressure 930E-4-AC-11070100110	0	0	9
+369201297	Battery Voltage 24V 930E-4-AC-11070100110	0	0	31
+369201298	Brake Pressure 930E-4-AC-11070100110	0	0	9
+369201299	Hoist Pressure 1 930E-4-AC-11070100110	0	0	9
+369201300	Hoist Pressure 2 930E-4-AC-11070100110	0	0	9
+369201301	Left Front Brake Oil Temperature 930E-4-AC-11070100110	0	0	5
+369201302	Left Rear Brake Oil Temperature 930E-4-AC-11070100110	0	0	5
+369201303	Right Front Brake Oil Temperature 930E-4-AC-11070100110	0	0	5
+369201304	Right Rear Brake Oil Temperature 930E-4-AC-11070100110	0	0	5
+369201305	Service Brake Power 930E-4-AC-11070100110	0	0	35
+369201306	Steering Pressure 930E-4-AC-11070100110	0	0	9
+369201307	Fuel Level (High Resolution) 930E-4-AC-11070100110	0	0	25
+369201308	Engine 1 Fuel Rate 930E-4-AC-11070100110	0	0	13
+369201309	Left Front Suspension Pressure 930E-4-AC-11070100110	0	0	22
+369201310	Right Front Suspension Pressure 930E-4-AC-11070100110	0	0	22
+369201311	Left Rear Suspension Pressure 930E-4-AC-11070100110	0	0	22
+369201312	Right Rear Suspension Pressure 930E-4-AC-11070100110	0	0	22
+369201313	Pitch/Inclinometer 930E-4-AC-11070100110	0	0	4
+369201314	Haulcycle Status Flags 930E-4-AC-11070100110	0	0	0
+369201315	Brake Lock 930E-4-AC-11070100110	0	0	0
+369201316	Body Up 930E-4-AC-11070100110	0	0	0
+369201317	Vehicle Run/Stop State 930E-4-AC-11070100110	0	0	0
+369201318	Haulcycle State 930E-4-AC-11070100110	0	0	0
+369201319	Engine 1 Oil Pressure 930E-4-AC-11070100110	0	0	22
+369201320	Retard Speed Control On  930E-4-AC-11070100110	0	0	0
+369201321	Service Brake On 930E-4-AC-11070100110	0	0	0
+369201322	Park Brake Set 930E-4-AC-11070100110	0	0	0
+369201323	Wheel-Based Vehicle Speed 930E-4-AC-11070100110	0	0	11
+369201324	Engine 1 Accelerator Pedal Position 1 930E-4-AC-11070100110	0	0	25
+369201325	Total Vehicle Hours 930E-4-AC-11070100110	0	0	7
+369202289	Software Version 930E-4-TB-11090100100	0	0	0
+369202290	Name And Type 930E-4-TB-11090100100	0	0	0
+369202291	Wakeup Type 930E-4-TB-11090100100	0	0	0
+369202292	Engine 1 Speed 930E-4-TB-11090100100	0	0	28
+369202293	Engine 1 Coolant Temperature 930E-4-TB-11090100100	0	0	5
+369202294	Engine 1 Oil Temperature 1 930E-4-TB-11090100100	0	0	5
+369202295	Ambient Air Temperature 930E-4-TB-11090100100	0	0	5
+369202296	Barometric Pressure 930E-4-TB-11090100100	0	0	9
+369202297	Brake Pressure 930E-4-TB-11090100100	0	0	9
+369202298	Hoist Pressure 1 930E-4-TB-11090100100	0	0	22
+369202299	Hoist Pressure 2 930E-4-TB-11090100100	0	0	22
+369202300	Left Front Brake Oil Temperature 930E-4-TB-11090100100	0	0	5
+369202301	Left Rear Brake Oil Temperature 930E-4-TB-11090100100	0	0	5
+369202302	Right Front Brake Oil Temperature 930E-4-TB-11090100100	0	0	5
+369202303	Right Rear Brake Oil Temperature 930E-4-TB-11090100100	0	0	5
+369202304	Steering Pressure 930E-4-TB-11090100100	0	0	22
+369202305	Wheel-Based Vehicle Speed 930E-4-TB-11090100100	0	0	11
+369202306	Engine 1 Oil Pressure 930E-4-TB-11090100100	0	0	22
+369203289	Software Version 930E-4-TB-11090100110	0	0	0
+369203290	Name And Type 930E-4-TB-11090100110	0	0	0
+369203291	Wakeup Type 930E-4-TB-11090100110	0	0	0
+369203292	Engine 1 Speed 930E-4-TB-11090100110	0	0	28
+369203293	Engine 1 Coolant Temperature 930E-4-TB-11090100110	0	0	5
+369203294	Engine 1 Oil Temperature 1 930E-4-TB-11090100110	0	0	5
+369203295	Ambient Air Temperature 930E-4-TB-11090100110	0	0	5
+369203296	Barometric Pressure 930E-4-TB-11090100110	0	0	9
+369203297	Battery Voltage 24V 930E-4-TB-11090100110	0	0	31
+369203298	Brake Pressure 930E-4-TB-11090100110	0	0	9
+369203299	Hoist Pressure 1 930E-4-TB-11090100110	0	0	9
+369203300	Hoist Pressure 2 930E-4-TB-11090100110	0	0	9
+369203301	Left Front Brake Oil Temperature 930E-4-TB-11090100110	0	0	5
+369203302	Left Rear Brake Oil Temperature 930E-4-TB-11090100110	0	0	5
+369203303	Right Front Brake Oil Temperature 930E-4-TB-11090100110	0	0	5
+369203304	Right Rear Brake Oil Temperature 930E-4-TB-11090100110	0	0	5
+369203305	Service Brake Power 930E-4-TB-11090100110	0	0	35
+369203306	Steering Pressure 930E-4-TB-11090100110	0	0	9
+369203307	Fuel Level (High Resolution) 930E-4-TB-11090100110	0	0	25
+369203308	Engine 1 Fuel Rate 930E-4-TB-11090100110	0	0	13
+369203309	Left Front Suspension Pressure 930E-4-TB-11090100110	0	0	22
+369203310	Right Front Suspension Pressure 930E-4-TB-11090100110	0	0	22
+369203311	Left Rear Suspension Pressure 930E-4-TB-11090100110	0	0	22
+369203312	Right Rear Suspension Pressure 930E-4-TB-11090100110	0	0	22
+369203313	Pitch/Inclinometer 930E-4-TB-11090100110	0	0	5
+369203314	Haulcycle Status Flags 930E-4-TB-11090100110	0	0	0
+369203315	Brake Lock 930E-4-TB-11090100110	0	0	0
+369203316	Body Up 930E-4-TB-11090100110	0	0	0
+369203317	Vehicle Run/Stop State 930E-4-TB-11090100110	0	0	0
+369203318	Haulcycle State 930E-4-TB-11090100110	0	0	0
+369203319	Engine 1 Oil Pressure 930E-4-TB-11090100110	0	0	22
+369203320	Retard Speed Control On  930E-4-TB-11090100110	0	0	0
+369203321	Service Brake On 930E-4-TB-11090100110	0	0	0
+369203322	Park Brake Set 930E-4-TB-11090100110	0	0	0
+369203323	Wheel-Based Vehicle Speed 930E-4-TB-11090100110	0	0	11
+369203324	Engine 1 Accelerator Pedal Position 1 930E-4-TB-11090100110	0	0	25
+369203325	Total Vehicle Hours 930E-4-TB-11090100110	0	0	7
+369204289	Software Version 730E-15000100100	0	0	0
+369204290	Name And Type 730E-15000100100	0	0	0
+369204291	Wakeup Type 730E-15000100100	0	0	0
+369204292	Engine 1 Speed 730E-15000100100	0	0	28
+369204293	Engine 1 Coolant Pressure 730E-15000100100	0	0	9
+369204294	Engine 1 Coolant Temperature 730E-15000100100	0	0	5
+369204295	Engine 1 Oil Temperature 1 730E-15000100100	0	0	5
+369204296	Ambient Air Temperature 730E-15000100100	0	0	5
+369204297	Wheel-Based Vehicle Speed 730E-15000100100	0	0	11
+369204298	Sprung Weight 730E-15000100100	0	0	19
+369204299	Engine 1 Oil Pressure 730E-15000100100	0	0	22
+369204300	Left Boost Pressure 730E-15000100100	0	0	9
+369204301	Right Boost Pressure 730E-15000100100	0	0	9
+369205289	Software Version 730E-8-15010100100	0	0	0
+369205290	Name And Type 730E-8-15010100100	0	0	0
+369205291	Wakeup Type 730E-8-15010100100	0	0	0
+369205292	Engine 1 Speed 730E-8-15010100100	0	0	28
+369205293	Engine 1 Coolant Pressure 730E-8-15010100100	0	0	9
+369205294	Engine 1 Coolant Temperature 730E-8-15010100100	0	0	5
+369205295	Engine 1 Oil Temperature 1 730E-8-15010100100	0	0	5
+369205296	Ambient Air Temperature 730E-8-15010100100	0	0	5
+369205297	Battery Voltage 24V 730E-8-15010100100	0	0	31
+369205298	Brake Pressure 730E-8-15010100100	0	0	9
+369205299	Hoist Pressure 1 730E-8-15010100100	0	0	9
+369205300	Hydraulic Oil Tank Temperature (High Resolution) 730E-8-15010100100	0	0	5
+369205301	Service Brake Power 730E-8-15010100100	0	0	35
+369205302	Steering Pressure 730E-8-15010100100	0	0	9
+369205303	Fuel Level (High Resolution) 730E-8-15010100100	0	0	25
+369205304	Sprung Weight 730E-8-15010100100	0	0	19
+369205305	Left Front Suspension Pressure 730E-8-15010100100	0	0	22
+369205306	Right Front Suspension Pressure 730E-8-15010100100	0	0	22
+369205307	Left Rear Suspension Pressure 730E-8-15010100100	0	0	22
+369205308	Right Rear Suspension Pressure 730E-8-15010100100	0	0	22
+369205309	Pitch/Inclinometer 730E-8-15010100100	0	0	5
+369205310	Haulcycle Status Flags 730E-8-15010100100	0	0	0
+369205311	Brake Lock 730E-8-15010100100	0	0	0
+369205312	Body Up 730E-8-15010100100	0	0	0
+369205313	Vehicle Run/Stop State 730E-8-15010100100	0	0	0
+369205314	Haulcycle State 730E-8-15010100100	0	0	0
+369205315	Engine 1 Oil Pressure 730E-8-15010100100	0	0	22
+369205316	Left Boost Pressure 730E-8-15010100100	0	0	9
+369205317	Right Boost Pressure 730E-8-15010100100	0	0	9
+369205318	Retard Speed Control ON  730E-8-15010100100	0	0	0
+369205319	Service Brake ON 730E-8-15010100100	0	0	0
+369205320	Park Brake Released 730E-8-15010100100	0	0	0
+369205321	Wheel-Based Vehicle Speed 730E-8-15010100100	0	0	11
+369205322	Engine 1 Accelerator Pedal Position 1 730E-8-15010100100	0	0	25
+369205323	Total Vehicle Hours 730E-8-15010100100	0	0	7
+369206289	Software Version 860E-1K-16010100100	0	0	0
+369206290	Name And Type 860E-1K-16010100100	0	0	0
+369206291	Wakeup Type 860E-1K-16010100100	0	0	0
+369206292	Engine 1 Speed 860E-1K-16010100100	0	0	28
+369206293	Engine 1 Coolant Temperature 860E-1K-16010100100	0	0	5
+369206294	Engine 1 Oil Temperature 1 860E-1K-16010100100	0	0	5
+369206295	Ambient Air Temperature 860E-1K-16010100100	0	0	5
+369206296	Barometric Pressure 860E-1K-16010100100	0	0	9
+369206297	Steering Pressure 860E-1K-16010100100	0	0	9
+369206298	Wheel-Based Vehicle Speed 860E-1K-16010100100	0	0	11
+369206299	Engine 1 Oil Pressure 860E-1K-16010100100	0	0	22
+369207289	Software Version 860E-1K-16010100110	0	0	0
+369207290	Name And Type 860E-1K-16010100110	0	0	0
+369207291	Wakeup Type 860E-1K-16010100110	0	0	0
+369207292	Engine 1 Speed 860E-1K-16010100110	0	0	28
+369207293	Engine 1 Coolant Temperature 860E-1K-16010100110	0	0	5
+369207294	Engine 1 Oil Temperature 1 860E-1K-16010100110	0	0	5
+369207295	Ambient Air Temperature 860E-1K-16010100110	0	0	5
+369207296	Barometric Pressure 860E-1K-16010100110	0	0	9
+369207297	Battery Voltage 24V 860E-1K-16010100110	0	0	31
+369207298	Brake Pressure 860E-1K-16010100110	0	0	9
+369207299	Hoist Pressure 1 860E-1K-16010100110	0	0	9
+369207300	Hoist Pressure 2 860E-1K-16010100110	0	0	9
+369207301	Hydraulic Oil Tank Temperature (High Resolution) 860E-1K-16010100110	0	0	5
+369207302	Service Brake Power 860E-1K-16010100110	0	0	35
+369207303	Steering Pressure 860E-1K-16010100110	0	0	9
+369207304	Fuel Level (High Resolution) 860E-1K-16010100110	0	0	25
+369207305	Engine 1 Fuel Rate 860E-1K-16010100110	0	0	13
+369207306	Left Front Suspension Pressure 860E-1K-16010100110	0	0	22
+369207307	Right Front Suspension Pressure 860E-1K-16010100110	0	0	22
+369207308	Left Rear Suspension Pressure 860E-1K-16010100110	0	0	22
+369207309	Right Rear Suspension Pressure 860E-1K-16010100110	0	0	22
+369207310	Pitch/Inclinometer 860E-1K-16010100110	0	0	5
+369207311	Haulcycle Status Flags 860E-1K-16010100110	0	0	0
+369207312	Brake Lock 860E-1K-16010100110	0	0	0
+369207313	Body Up 860E-1K-16010100110	0	0	0
+369207314	Vehicle Run/Stop State 860E-1K-16010100110	0	0	0
+369207315	Haulcycle State 860E-1K-16010100110	0	0	0
+369207316	Engine 1 Oil Pressure 860E-1K-16010100110	0	0	22
+369207317	Retard Speed Control ON  860E-1K-16010100110	0	0	0
+369207318	Service Brake ON 860E-1K-16010100110	0	0	0
+369207319	Park Brake Set 860E-1K-16010100110	0	0	0
+369207320	Wheel-Based Vehicle Speed 860E-1K-16010100110	0	0	11
+369207321	Engine 1 Accelerator Pedal Position 1 860E-1K-16010100110	0	0	25
+369207322	Total Vehicle Hours 860E-1K-16010100110	0	0	7
+369208289	Software Version HD785-7-01010X00200	0	0	0
+369208290	Name And Type HD785-7-01010X00200	0	0	0
+369208291	Wakeup Type HD785-7-01010X00200	0	0	0
+369208292	Engine 1 Speed HD785-7-01010X00200	0	0	28
+369208293	Engine 1 Coolant Temperature HD785-7-01010X00200	0	0	5
+369208294	Engine 1 Oil Temperature HD785-7-01010X00200	0	0	5
+369208295	Transmission Oil Temperature 1 HD785-7-01010X00200	0	0	5
+369208296	Ambient Air Temperature HD785-7-01010X00200	0	0	5
+369208297	Engine 1 Oil Pressure HD785-7-01010X00200	0	0	9
+369208298	Barometric Pressure HD785-7-01010X00200	0	0	9
+369208299	Wheel-Based Vehicle Speed HD785-7-01010X00200	0	0	11
+369209289	Software Version HD785-7-01010X00300	0	0	0
+369209290	Name And Type HD785-7-01010X00300	0	0	0
+369209291	Wakeup Type HD785-7-01010X00300	0	0	0
+369209292	Engine 1 Speed HD785-7-01010X00300	0	0	28
+369209293	Engine 1 Coolant Temperature  HD785-7-01010X00300	0	0	5
+369209294	Engine 1 Oil Temperature HD785-7-01010X00300	0	0	5
+369209295	Transmission Oil Temperature 1 HD785-7-01010X00300	0	0	5
+369209296	Ambient Air Temperature HD785-7-01010X00300	0	0	5
+369209297	Engine 1 Oil Pressure HD785-7-01010X00300	0	0	9
+369209298	Barometric Pressure HD785-7-01010X00300	0	0	9
+369209299	Wheel-Based Vehicle Speed HD785-7-01010X00300	0	0	11
+369210289	Software Version HD785-7-01010100400	0	0	0
+369210290	Name And Type HD785-7-01010100400	0	0	0
+369210291	Wakeup Type HD785-7-01010100400	0	0	0
+369210292	Engine 1 Speed HD785-7-01010100400	0	0	28
+369210293	Engine 1 Coolant Temperature HD785-7-01010100400	0	0	5
+369210294	Engine 1 Oil Temperature HD785-7-01010100400	0	0	5
+369210295	Transmission Oil Temperature 1 HD785-7-01010100400	0	0	5
+369210296	Ambient Air Temperature HD785-7-01010100400	0	0	5
+369210297	Engine 1 Oil Pressure HD785-7-01010100400	0	0	9
+369210298	Barometric Pressure HD785-7-01010100400	0	0	9
+369210299	Wheel-Based Vehicle Speed HD785-7-01010100400	0	0	11
+369211289	Software Version HD785-7-01010X00-410-420-520-620	0	0	0
+369211290	Name And Type HD785-7-01010X00-410-420-520-620	0	0	0
+369211291	Wakeup Type HD785-7-01010X00-410-420-520-620	0	0	0
+369211292	Engine 1 Speed HD785-7-01010X00-410-420-520-620	0	0	28
+369211293	Engine 1 Coolant Temperature HD785-7-01010X00-410-420-520-620	0	0	5
+369211294	Engine 1 Oil Temperature HD785-7-01010X00-410-420-520-620	0	0	5
+369211295	Transmission Oil Temperature 1 HD785-7-01010X00-410-420-520-620	0	0	5
+369211296	Ambient Air Temperature HD785-7-01010X00-410-420-520-620	0	0	5
+369211297	Engine 1 Oil Pressure HD785-7-01010X00-410-420-520-620	0	0	9
+369211298	Barometric Pressure HD785-7-01010X00-410-420-520-620	0	0	9
+369211299	Wheel-Based Vehicle Speed HD785-7-01010X00-410-420-520-620	0	0	11
+369211300	Suspension Pressure Left Front HD785-7-01010X00-410-420-520-620	0	0	22
+369211301	Suspension Pressure Right Front HD785-7-01010X00-410-420-520-620	0	0	22
+369211302	Suspension Pressure Left Real HD785-7-01010X00-410-420-520-620	0	0	22
+369211303	Suspension Pressure Right Real HD785-7-01010X00-410-420-520-620	0	0	22
+369211304	Total Vehicle Hours HD785-7-01010X00-410-420-520-620	0	0	7
+369211305	Fuel Level HD785-7-01010X00-410-420-520-620	0	0	25
+369211306	Body Seating HD785-7-01010X00-410-420-520-620	0	0	0
+369211307	Live Weight HD785-7-01010X00-410-420-520-620	0	0	8
+369211308	Vehicle State HD785-7-01010X00-410-420-520-620	0	0	0
+369211309	Gradient Degree HD785-7-01010X00-410-420-520-620	0	0	4
+369211310	Retarder Position HD785-7-01010X00-410-420-520-620	0	0	25
+369211311	TM Shift Position HD785-7-01010X00-410-420-520-620	0	0	0
+369212289	Software Version WA1200-3_41000100200	0	0	0
+369212290	Name And Type WA1200-3_41000100200	0	0	0
+369212291	Wakeup Type WA1200-3_41000100200	0	0	0
+369212292	Engine 1 Speed WA1200-3_41000100200	65535	0	28
+369212293	Engine 1 Fuel Level WA1200-3_41000100200	65535	0	25
+369212294	Engine 1 Coolant Temperature WA1200-3_41000100200	65535	0	5
+369212295	Engine 1 Oil Temperature 1 WA1200-3_41000100200	65535	0	5
+369212296	Wheel-Based Vehicle Speed WA1200-3_41000100200	6553.5	0	11
+369212297	Transmission Torque Converter Oil Outlet Temperature WA1200-3_41000100200	65535	0	5
+369212298	Ambient Air Temperature WA1200-3_41000100200	65535	0	5
+369212299	Engine 1 Oil Pressure WA1200-3_41000100200	642678.80775	0	9
+369212300	Transmission Oil Pressure WA1200-3_41000100200	642678.80775	0	9
+369212301	Steering Pressure WA1200-3_41000100200	6426788.0775	0	9
+369212302	Hydraulic Oil Temperature WA1200-3_41000100200	65535	0	5
+369212303	Hydraulic Pressure WA1200-3_41000100200	6426788.0775	0	9
+369212304	Barometric Pressure WA1200-3_41000100200	65535	0	9
+369213289	Software Version WA1200-3-41000200300	0	0	0
+369213290	Name And Type WA1200-3-41000200300	0	0	0
+369213291	Wakeup Type WA1200-3-41000200300	0	0	0
+369213292	Engine 1 Speed WA1200-3-41000200300	65535	0	28
+369213293	Engine 1 Fuel Level WA1200-3-41000200300	65535	0	25
+369213294	Engine 1 Coolant Temperature WA1200-3-41000200300	65535	0	5
+369213295	Engine 1 Oil Temperature 1 WA1200-3-41000200300	65535	0	5
+369213296	Wheel-Based Vehicle Speed WA1200-3-41000200300	6553.5	0	11
+369213297	Transmission Torque Converter Oil Outlet Temperature WA1200-3-41000200300	65535	0	5
+369213298	Ambient Air Temperature WA1200-3-41000200300	65535	0	5
+369213299	Engine 1 Oil Pressure WA1200-3-41000200300	642678.80775	0	9
+369213300	Transmission Oil Pressure WA1200-3-41000200300	642678.80775	0	9
+369213301	Steering Pressure WA1200-3-41000200300	6426788.0775	0	9
+369213302	Hydraulic Oil Temperature WA1200-3-41000200300	65535	0	5
+369213303	Hydraulic Pressure WA1200-3-41000200300	6426788.0775	0	9
+369213304	Barometric Pressure WA1200-3-41000200300	65535	0	9
+369214289	Software Version WA1200-6-41010100100	0	0	0
+369214290	Name And Type WA1200-6-41010100100	0	0	0
+369214291	Wakeup Type WA1200-6-41010100100	0	0	0
+369214292	Engine 1 Speed WA1200-6-41010100100	65535	0	28
+369214293	Engine 1 Fuel Level WA1200-6-41010100100	65535	0	25
+369214294	Engine 1 Coolant Temperature WA1200-6-41010100100	65535	0	5
+369214295	Engine 1 Oil Temperature 1 WA1200-6-41010100100	65535	0	5
+369214296	Wheel-Based Vehicle Speed WA1200-6-41010100100	6553.5	0	11
+369214297	Transmission Torque Converter Oil Outlet Temperature WA1200-6-41010100100	65535	0	5
+369214298	Ambient Air Temperature WA1200-6-41010100100	65535	0	5
+369214299	Engine 1 Oil Pressure WA1200-6-41010100100	642678.80775	0	9
+369214300	Transmission Oil Pressure WA1200-6-41010100100	655.35	0	22
+369214301	Steering Pressure WA1200-6-41010100100	6426788.0775	0	9
+369214302	Hydraulic Oil Temperature WA1200-6-41010100100	65535	0	5
+369214303	Hydraulic Pressure WA1200-6-41010100100	6426788.0775	0	9
+369214304	Barometric Pressure WA1200-6-41010100100	65535	0	9
+369215289	Software Version WA1200-6-41010200200	0	0	0
+369215290	Name And Type WA1200-6-41010200200	0	0	0
+369215291	Wakeup Type WA1200-6-41010200200	0	0	0
+369215292	Engine 1 Speed WA1200-6-41010200200	65535	0	28
+369215293	Engine 1 Fuel Level WA1200-6-41010200200	65535	0	25
+369215294	Engine 1 Coolant Temperature WA1200-6-41010200200	65535	0	5
+369215295	Engine 1 Oil Temperature 1 WA1200-6-41010200200	65535	0	5
+369215296	Wheel-Based Vehicle Speed WA1200-6-41010200200	6553.5	0	11
+369215297	Transmission Torque Converter Oil Outlet Temperature WA1200-6-41010200200	65535	0	5
+369215298	Ambient Air Temperature WA1200-6-41010200200	65535	0	5
+369215299	Engine 1 Oil Pressure WA1200-6-41010200200	642678.80775	0	9
+369215300	Transmission Oil Pressure WA1200-6-41010200200	655.35	0	22
+369215301	Steering Pressure WA1200-6-41010200200	6426788.0775	0	9
+369215302	Hydraulic Oil Temperature WA1200-6-41010200200	65535	0	5
+369215303	Hydraulic Pressure WA1200-6-41010200200	6426788.0775	0	9
+369215304	Barometric Pressure WA1200-6-41010200200	65535	0	9
+369216289	Software Version WA1200-6-41010200200	0	0	0
+369216290	Name And Type WA1200-6-41010200200	0	0	0
+369216291	Wakeup Type WA1200-6-41010200200	0	0	0
+369216292	Total Vehicle Hours WA1200-6-41010200200	6553.5	0	7
+369216293	Wheel-Based Vehicle Speed WA1200-6-41010200200	6553.5	0	11
+369216294	Eco On WA1200-6-41010200200	65535	0	0
+369216295	Barometric Pressure WA1200-6-41010200200	65535	0	9
+369216296	Ambient Air Temperature WA1200-6-41010200200	65535	0	5
+369216297	Engine 1 Crankcase Pressure WA1200-6-41010200200	655.35	0	9
+369216298	Engine 1 Accelerator Pedal Position 1 WA1200-6-41010200200	65535	0	25
+369216299	Engine 1 Speed WA1200-6-41010200200	65535	0	28
+369216300	Engine 1 Oil Temperature 1 WA1200-6-41010200200	65535	0	5
+369216301	Engine 1 Oil Pressure WA1200-6-41010200200	642678.80775	0	9
+369216302	Engine 1 Coolant Temperature WA1200-6-41010200200	65535	0	5
+369216303	Engine 1 Fuel Rate WA1200-6-41010200200	6553.5	0	13
+369216304	Engine 1 Turbocharger Boost Pressure WA1200-6-41010200200	65535	0	9
+369216305	T/C Input Speed WA1200-6-41010200200	65535	0	28
+369216306	Transmission Output Shaft Speed WA1200-6-41010200200	65535	0	28
+369216307	Transmission Oil Pressure WA1200-6-41010200200	655.35	0	22
+369216308	T/M Modulation Pressure WA1200-6-41010200200	655.35	0	22
+369216309	Transmission Current Range WA1200-6-41010200200	65535	0	0
+369216310	Articulate Angle WA1200-6-41010200200	65535	0	4
+369216311	Transmission Torque Converter Oil Outlet Temperature WA1200-6-41010200200	65535	0	5
+369216312	Brake Oil Temperature WA1200-6-41010200200	65535	0	5
+369216313	Brake Oil Pressure Left/Front WA1200-6-41010200200	655.35	0	22
+369216314	Brake Oil Pressure Right/Rear WA1200-6-41010200200	655.35	0	22
+369216315	Foot Brake Position WA1200-6-41010200200	65535	0	0
+369216316	Pump Pressure 1/Front 1/Main/Loader WA1200-6-41010200200	655.35	0	22
+369216317	Steering Pump Pressure WA1200-6-41010200200	655.35	0	22
+369216318	Hydraulic Oil Temperature WA1200-6-41010200200	65535	0	5
+369217289	Software Version 830E-1TB	0	0	0
+369217290	Name And Type 830E-1TB	0	0	0
+369217291	Wakeup Type	0	0	0
+369217292	Engine 1 Speed 830E-1TB	65535	0	28
+369217293	Engine 1 Coolant Temperature 830E-1TB	65535	0	5
+369217294	Engine 1 Oil Temperature 1 830E-1TB	65535	0	5
+369217295	Ambient Air Temperature 830E-1TB	65535	0	5
+369217296	Barometric Pressure 830E-1TB	65535	0	9
+369217297	Battery Voltage 24V 830E-1TB	655.35	0	31
+369217298	Brake Pressure 830E-1TB	65535	0	9
+369217299	Hoist Pressure 1 830E-1TB	6553500	0	9
+369217300	Hoist Pressure 2 830E-1TB	6553500	0	9
+369217301	Hydraulic Oil Tank Temperature (High Resolution) 830E-1TB	65535	0	5
+369217302	Service Brake Power 830E-1TB	6553500	0	35
+369217303	Steering Pressure 830E-1TB	72088500	0	9
+369217304	Fuel Level (High Resolution) 830E-1TB	6553.5	0	25
+369217305	Engine 1 Fuel Rate 830E-1TB	6553.5	0	13
+369217306	Left Front Suspension Pressure 830E-1TB	6.5535	0	22
+369217307	Right Front Suspension Pressure 830E-1TB	6.5535	0	22
+369217308	Left Rear Suspension Pressure 830E-1TB	6.5535	0	22
+369217309	Right Rear Suspension Pressure 830E-1TB	6.5535	0	22
+369217310	Pitch/Inclinometer 830E-1TB	6553.5	0	4
+369217311	Haulcycle Status Flags 830E-1TB	65535	0	0
+369217312	Brake Lock 830E-1TB	65535	0	0
+369217313	Body Up 830E-1TB	65535	0	0
+369217314	Vehicle Run/Stop State 830E-1TB	65535	0	0
+369217315	Haulcycle State 830E-1TB	65535	0	0
+369217316	Engine 1 Oil Pressure 830E-1TB	655.35	0	22
+369217317	Retard Speed Control ON  830E-1TB	65535	0	0
+369217318	Service Brake ON 830E-1TB	65535	0	0
+369217319	Park Brake Set 830E-1TB	65535	0	0
+369217320	Wheel-Based Vehicle Speed 830E-1TB	6553.5	0	11
+369217321	Engine 1 Accelerator Pedal Position 1 830E-1TB	65535	0	25
+369217322	Total Vehicle Hours 830E-1TB	6553.5	0	7
+369218289	Software Version 830E-AC	0	0	0
+369218290	Name And Type 830E-AC	0	0	0
+369218291	Wakeup Type 830E-AC	0	0	0
+369218292	Engine 1 Speed 830E-AC	65535	0	28
+369218293	Engine 1 Coolant Temperature 830E-AC	65535	0	5
+369218294	Engine 1 Oil Temperature 1 830E-AC	65535	0	5
+369218295	Ambient Air Temperature 830E-AC	65535	0	5
+369218296	Barometric Pressure 830E-AC	65535	0	9
+369218297	Battery Voltage 24V 830E-AC	-2146826273	-2146826273	31
+369218298	Brake Pressure 830E-AC	65535	0	9
+369218299	Hoist Pressure 1 830E-AC	6553500	0	9
+369218300	Hoist Pressure 2 830E-AC	6553500	0	9
+369218301	Hydraulic Oil Tank Temperature (High Resolution) 830E-AC	65535	0	5
+369218302	Service Brake Power 830E-AC	6553500	0	35
+369218303	Steering Pressure 830E-AC	65535	0	9
+369218304	Fuel Level (High Resolution) 830E-AC	-2146826273	-2146826273	25
+369218305	Engine 1 Fuel Rate 830E-AC	-2146826273	-2146826273	13
+369218306	Left Front Suspension Pressure 830E-AC	-2146826273	-2146826273	22
+369218307	Right Front Suspension Pressure 830E-AC	-2146826273	-2146826273	22
+369218308	Left Rear Suspension Pressure 830E-AC	-2146826273	-2146826273	22
+369218309	Right Rear Suspension Pressure 830E-AC	-2146826273	-2146826273	22
+369218310	Pitch/Inclinometer 830E-AC	-2146826273	-2146826273	4
+369218311	Haulcycle Status Flags 830E-AC	65535	0	0
+369218312	Brake Lock 830E-AC	65535	0	0
+369218313	Body Up 830E-AC	65535	0	0
+369218314	Vehicle Run/Stop State 830E-AC	65535	0	0
+369218315	Haulcycle State 830E-AC	65535	0	0
+369218316	Engine 1 Oil Pressure 830E-AC	-2146826273	-2146826273	22
+369218317	Retard Speed Control ON  830E-AC	65535	0	0
+369218318	Service Brake ON 830E-AC	65535	0	0
+369218319	Park Brake Set 830E-AC	65535	0	0
+369218320	Wheel-Based Vehicle Speed 830E-AC	-2146826273	-2146826273	11
+369218321	Engine 1 Accelerator Pedal Position 1 830E-AC	65535	0	25
+369218322	Total Vehicle Hours 830E-AC	-2146826273	-2146826273	7
+369219289	Software Version 960E-14010100100	0	0	0
+369219290	Name And Type 960E-14010100100	0	0	0
+369219291	Wakeup Type 960E-14010100100	0	0	0
+369219292	Engine 1 Speed 960E-14010100100	65535	0	28
+369219293	Engine 1 Coolant Temperature 960E-14010100100	65535	0	5
+369219294	Engine 1 Oil Temperature 1 960E-14010100100	65535	0	5
+369219295	Ambient Air Temperature 960E-14010100100	65535	0	5
+369219296	Barometric Pressure 960E-14010100100	65535	0	9
+369219297	Steering Pressure 960E-14010100100	6553500	0	9
+369219298	Wheel-Based Vehicle Speed 960E-14010100100	6553.5	0	11
+369219299	Engine 1 Oil Pressure 960E-14010100100	655.35	0	22
+369220289	Software Version 960E-14010100110	0	0	0
+369220290	Name And Type 960E-14010100110	0	0	0
+369220291	Wakeup Type 960E-14010100110	0	0	0
+369220292	Engine 1 Speed 960E-14010100110	65535	0	28
+369220293	Engine 1 Coolant Temperature 960E-14010100110	65535	0	5
+369220294	Engine 1 Oil Temperature 1 960E-14010100110	65535	0	5
+369220295	Ambient Air Temperature 960E-14010100110	65535	0	5
+369220296	Barometric Pressure 960E-14010100110	65535	0	9
+369220297	Battery Voltage 24V 960E-14010100110	655.35	0	31
+369220298	Brake Pressure 960E-14010100110	65535	0	9
+369220299	Hoist Pressure 1 960E-14010100110	6553500	0	9
+369220300	Hoist Pressure 2 960E-14010100110	6553500	0	9
+369220301	Right Rear Brake Oil Temperature 960E-14010100110	65535	0	5
+369220302	Service Brake Power 960E-14010100110	6553.5	0	35
+369220303	Steering Pressure 960E-14010100110	6553500	0	9
+369220304	Fuel Level (High Resolution) 960E-14010100110	6553.5	0	25
+369220305	Engine 1 Fuel Rate 960E-14010100110	6553.5	0	13
+369220306	Left Front Suspension Pressure 960E-14010100110	6.5535	0	22
+369220307	Right Front Suspension Pressure 960E-14010100110	6.5535	0	22
+369220308	Left Rear Suspension Pressure 960E-14010100110	6.5535	0	22
+369220309	Right Rear Suspension Pressure 960E-14010100110	6.5535	0	22
+369220310	Pitch/Inclinometer 960E-14010100110	6553.5	0	4
+369220311	Haulcycle Status Flags 960E-14010100110	65535	0	0
+369220312	Brake Lock 960E-14010100110	65535	0	0
+369220313	Body Up 960E-14010100110	65535	0	0
+369220314	Vehicle Run/Stop State 960E-14010100110	65535	0	0
+369220315	Haulcycle State 960E-14010100110	65535	0	0
+369220316	Engine 1 Oil Pressure 960E-14010100110	655.35	0	22
+369220317	Retard Speed Control On  960E-14010100110	65535	0	0
+369220318	Service Brake On 960E-14010100110	65535	0	0
+369220319	Park Brake Set 960E-14010100110	65535	0	0
+369220320	Wheel-Based Vehicle Speed 960E-14010100110	6553.5	0	11
+369220321	Engine 1 Accelerator Pedal Position 1 960E-14010100110	65535	0	25
+369220322	Total Vehicle Hours 960E-14010100110	6553.5	0	7
+369221289	Software Version 960E-11060100100	0	0	0
+369221290	Name And Type 960E-11060100100	0	0	0
+369221291	Wakeup Type 960E-11060100100	0	0	0
+369221292	Engine 1 Speed 960E-11060100100	65535	0	28
+369221293	Engine 1 Coolant Temperature 960E-11060100100	65535	0	5
+369221294	Engine 1 Oil Temperature 1 960E-11060100100	65535	0	5
+369221295	Ambient Air Temperature 960E-11060100100	65535	0	5
+369221296	Barometric Pressure 960E-11060100100	65535	0	9
+369221297	Brake Pressure 960E-11060100100	65535	0	9
+369221298	Hoist Pressure 1 960E-11060100100	65535	0	9
+369221299	Hoist Pressure 2 960E-11060100100	65535	0	9
+369221300	Left Front Brake Oil Temperature 960E-11060100100	65535	0	5
+369221301	Left Rear Brake Oil Temperature 960E-11060100100	65535	0	5
+369221302	Right Front Brake Oil Temperature 960E-11060100100	65535	0	5
+369221303	Right Rear Brake Oil Temperature 960E-11060100100	65535	0	5
+369221304	Steering Pressure 960E-11060100100	65535	0	9
+369221305	Wheel-Based Vehicle Speed 960E-11060100100	6553.5	0	11
+369221306	Engine 1 Oil Pressure 960E-11060100100	655.35	0	22
+369222289	Software Version 960E-11060100110	0	0	0
+369222290	Name And Type 960E-11060100110	0	0	0
+369222291	Wakeup Type 960E-11060100110	0	0	0
+369222292	Engine 1 Speed 960E-11060100110	65535	0	28
+369222293	Engine 1 Coolant Temperature 960E-11060100110	65535	0	5
+369222294	Engine 1 Oil Temperature 1 960E-11060100110	65535	0	5
+369222295	Ambient Air Temperature 960E-11060100110	65535	0	5
+369222296	Barometric Pressure 960E-11060100110	65535	0	9
+369222297	Battery Voltage 24V 960E-11060100110	655.35	0	31
+369222298	Brake Pressure 960E-11060100110	65535	0	9
+369222299	Hoist Pressure 1 960E-11060100110	6553500	0	9
+369222300	Hoist Pressure 2 960E-11060100110	6553500	0	9
+369222301	Left Front Brake Oil Temperature 960E-11060100110	65535	0	5
+369222302	Left Rear Brake Oil Temperature 960E-11060100110	65535	0	5
+369222303	Right Front Brake Oil Temperature 960E-11060100110	65535	0	5
+369222304	Right Rear Brake Oil Temperature 960E-11060100110	65535	0	5
+369222305	Service Brake Power 960E-11060100110	6553500	0	35
+369222306	Steering Pressure 960E-11060100110	6553500	0	9
+369222307	Fuel Level (High Resolution) 960E-11060100110	6553.5	0	25
+369222308	Engine 1 Fuel Rate 960E-11060100110	6553.5	0	13
+369222309	Left Front Suspension Pressure 960E-11060100110	6.5535	0	22
+369222310	Right Front Suspension Pressure 960E-11060100110	6.5535	0	22
+369222311	Left Rear Suspension Pressure 960E-11060100110	6.5535	0	22
+369222312	Right Rear Suspension Pressure 960E-11060100110	6.5535	0	22
+369222313	Pitch/Inclinometer 960E-11060100110	6553.5	0	4
+369222314	Haulcycle Status Flags 960E-11060100110	65535	0	0
+369222315	Brake Lock 960E-11060100110	65535	0	0
+369222316	Body Up 960E-11060100110	65535	0	0
+369222317	Vehicle Run/Stop State 960E-11060100110	65535	0	0
+369222318	Haulcycle State 960E-11060100110	65535	0	0
+369222319	Engine 1 Oil Pressure 960E-11060100110	655.35	0	22
+369222320	Retard Speed Control ON  960E-11060100110	65535	0	0
+369222321	Service Brake ON 960E-11060100110	65535	0	0
+369222322	Park Brake Set 960E-11060100110	65535	0	0
+369222323	Wheel-Based Vehicle Speed 960E-11060100110	6553.5	0	11
+369222324	Engine 1 Accelerator Pedal Position 1 960E-11060100110	65535	0	25
+369222325	Total Vehicle Hours 960E-11060100110	6553.5	0	7

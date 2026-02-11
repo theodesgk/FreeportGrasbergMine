@@ -1,0 +1,22 @@
+201392129	Link Voltage Level	4000	0	31
+201392130	Link Current Level	2500	0	2
+201392131	Engine Speed	2550	0	28
+201392132	Electric Horse Power	2609.95	0	12
+201392133	Auxiliary Blower Speed	127.5	0	32
+201392134	Battery Voltage	30	0	31
+201392135	Truck Speed	205.2	0	11
+201392136	Accelerator Pedal	1	0	25
+201392137	Retard Pedal	1	0	25
+201392138	Wheel Motor 1 Temperature	205	-50	5
+201392139	Wheel Motor 2 Temperature	205	-50	5
+201392140	Fuel Level	4660	410	14
+201392141	No. Srvc Brk 5-10Mph	255	0	0
+201392142	No. Srvc Brk 10-15Mph	255	0	0
+201392143	No. Srvc Brk 15-25Mph	255	0	0
+201392144	No. Srvc Brk 25-30Mph	255	0	0
+201392145	No. Srvc Brk 30+Mph	255	0	0
+201392146	Tmstp Srvc Brk 5-10Mph 	65535	0	29
+201392147	Tmstp Srvc Brk 10-15Mph	65535	0	29
+201392148	Tmstp Srvc Brk 15-25Mph	65535	0	29
+201392149	Tmstp Srvc Brk 25-30Mph	65535	0	29
+201392150	Tmstp Srvc Brk 30+ Mph 	65535	0	29

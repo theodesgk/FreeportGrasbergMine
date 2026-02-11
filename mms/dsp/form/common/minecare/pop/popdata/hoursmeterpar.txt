@@ -1,0 +1,16 @@
+1409351681	Main Hour Meter - Counter A Register	99999999	-9999999	33
+1409351682	Counter B Register	9999999	0	33
+1409351683	Rate Register	999999	0	33
+1409351684	Scale Factor A Register	999999	0	33
+1409351685	Scale Factor B Register	999999	0	33
+1409351686	Setpoint 1 (Reset Output 1) Register	999999	0	33
+1409351687	Setpoint 2 (Reset Output 2) Register	999999	0	33
+1409351688	Counter A Count Load Value Register	99999999	-9999999	33
+1409352681	Timer Register	35999996400	0	29
+1409352682	Cycle Counter Register	999999	0	33
+1409352683	Timer Start Register	35999996400	0	29
+1409352684	Timer Stop Register	35999996400	0	29
+1409352685	Counter Start Register	999999	0	33
+1409352686	Setpoint ON Register	999999	0	33
+1409352687	Setpoint OFF Register	999999	0	33
+1409352688	Setpoint Time-out Register	5999999	0	29

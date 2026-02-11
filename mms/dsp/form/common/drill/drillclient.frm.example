@@ -1,0 +1,260 @@
+..
+..DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: drillclient.frm.example,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:11 $
+..    $State: Exp $
+.. 
+..
+.. this is the client specific drill configuration that will override
+.. the generic defaults in drill/drillconfig.frm
+..
+.def MAXPOINTS 200           .. maximum number of data points in profiles
+.def MAXLOAD 10              .. max number of different materials to track
+.def MAXPRO 11                .. max number of profiles stored per hole
+.def MAXHOLES 999            .. max number of holes per blast
+.def DEFAULT_HOLE_DEPTH 17.5 .. no hole depth rec'd from drill? assume this
+.def STORE_HOLE_PROFILES 1   .. 1 = store profiles, 0 = no store
+.def REDRILL_SUFFIX "R"      .. when redrilling, add this suffix to hole no
+..
+.def DR_DELAYMOVING 44       .. delay code for "moving between holes"
+.def DR_DELAYMOUNTING 51     .. delay code for "mounting part"
+.def DR_READYDRILLING -1     .. ready code for drilling
+..
+.def DRDEPTH_UNIT "m"        .. unit of depth measurement (abbr)
+.def METRIC 1                .. 1 if metric mine, 0 if not
+..
+.def DR_ACCEPT_NEWPART 1     .. don't accept new part names from the field
+.def DR_ACCEPT_ANYBLAST 0    .. accept any blast name if 1
+.def DR_BLAST_IS_LOC 1       .. blast and location are the same if 1
+..
+.def DR_DELAY_ON_MOUNT 1     .. delay the drill after operator selects MOUNT
+.def DR_DELAY_ON_ENDHOLE 1   .. delay drill after endhole for moving
+..
+.. the following template is used only for the manual input of drill parts
+.. part names that come from the field are accepted in any form
+..
+.def part_template  ""
+..
+.def DRPART_TABLE
+..
+.. be sure to include the defs after the enum table
+..
+.enum DRPART \
+  ",,0"\
+  "Bit,BI"\
+  "Rod,RO"\
+  "Sub,SU"\
+  "Other,OT"
+..
+.def part_none, part_bit, part_steel, \
+  part_sub, part_other, parttypes
+..
+.expr part_type_mask( prt) \
+  case( prt)
+..(
+    part_bit:   1
+    part_steel: 4
+    part_sub:   8
+    part_other: 16
+    default:    0
+  )
+..
+.. in the following enum tables, the classes for the members are as
+.. defined in the 'part_type_mask' function
+..
+.def PMANF_TABLE
+..
+.. the tables PMANF, PMODEL, MODMANF, MODISZE, PSIZE are intimately
+.. linked and should be redefined for a client as a group
+..
+.. manufacturers
+..
+.enum PMANF \
+  ",,0"\
+  "Baker Hughes,BH,1"\
+  "Security,SE,1"\
+  "Walker/McDonald,WM,1"\
+  "Coromant,CO,1"\
+  "Kaltex,KA,4+8"\
+  "Team Australia,TA,4+8"\
+  "Other,OT,1+4+8"
+..
+.. all possible part model codes
+..
+.enum PMODEL \
+  ",,0"\
+  "BH5,BH5,1"\
+  "BH7,BH7,1"\
+  "BH8,BH8,1"\
+  "CM1,CM1,1"\
+  "CM2,CM2,1"\
+  "CH1,CH1,1"\
+  "CS1,CS1,1"\
+  "S8M,S8M,1"\
+  "H8M,H8M,1"\
+  "M8M,M8M,1"\
+  "M81,M81,1"\
+  "M60,M60,1"\
+  "K,K,4+8"\
+  "T,T,4+8"\
+  "XXX,XXX,1"\
+  "X,X,4+8"
+..
+.. the following enum tables set the relationship between part
+.. model and manufacturer and size. modify as required. these
+.. tables are used exclusively inside this form
+..
+.. relate part model code to manufacturer
+..
+.enum MODMANF \
+  ",,0"\
+  "BH,BH5"\
+  "BH,BH7"\
+  "BH,BH8"\
+  "CO,CM1"\
+  "CO,CM2"\
+  "CO,CH1"\
+  "CO,CS1"\
+  "SE,S8M"\
+  "SE,H8M"\
+  "SE,M8M"\
+  "SE,M81"\
+  "SE,M60"\
+  "KA,K"\
+  "TA,T"\
+  "OT,XXX"\
+  "OT,X"
+..
+.. relate part model code to size
+..
+.enum MODSIZE \
+  ",,0"\
+  "BA,BH5"\
+  "BA,BH7"\
+  "BA,BH8"\
+  "BA,CM1"\
+  "BA,CM2"\
+  "BA,CH1"\
+  "BA,CS1"\
+  "BA,S8M"\
+  "BA,H8M"\
+  "BA,M8M"\
+  "BA,M81"\
+  "BA,M60"\
+  "RA,K"\
+  "RA,T"\
+  "BA,XXX"\
+  "RA,X"
+..
+.. define part sizes
+..
+.enum PSIZE \
+  ",,0"\
+  "12-1/4,BA,1"\
+  "10-1/4,RA,4+8"\
+  "Other,OT,1+2+4+8"
+..
+.. replacement codes for parts. again, the mask for these is defined
+.. in the 'part_type_mask' function
+..
+.def PCODE_TABLE
+.enum PCODE \
+  ",,0"\
+  "Unknown,UN,1+2+4+8"\
+  "Cone(s) Seized,CS,1"\
+  "Carbs Broken,CB,1"\
+  "Carbs Eroded,CE,1"\
+  "Gge Row Carb,GRC,1"\
+  "Cored Out,CO,1"\
+  "Shrt Tail Wear,STW,1"\
+  "Leg(s) Snapped,LS,1"\
+  "Thread Damage,TD,1+2+4+8"\
+  "Blocked Air Flow,BAF,1"\
+  "Re-Usable,RU,1"\
+  "Swapped Rods,SR,4"\
+  "Cracked,CR,4"\
+  "Bent,BE,4"\
+  "Worn Out,WO,4+8"\
+..
+.. how do we name the drill holes
+..
+.vstr bla
+.vstr num
+.vstr red
+..
+.expr HOLENAME( bla, num, red) \
+  red ? (str bla, int num, str red)[%s-%03d%s] :
+  (str bla, int num)[%s-%03d]
+..
+.expr HOLENUMB( nme) \
+  DECODE( nme, "%s-%03d%s", bla, num, red),
+  return( num)
+..
+.expr HOLEREDR( nme) \
+  DECODE( nme, "%s-%03d%s", bla, num, red),
+  return( red)
+..
+.expr drilllog_file "drill.log"
+..
+.venum modman MODMANF
+.venum model PMODEL
+.venum modsiz MODSIZE
+.vstr pref
+.vint nmbr
+..
+.. This function 'massages' the supplied part name to one that
+.. is compatible with naming conventions. if supplied name is
+.. not acceptable, return NIL
+..
+.expr parse_partname( id) \
+  STRPOS( id, "-") = 3 ?
+  (
+..
+.. it's a bit, these always have the template AAA-999999
+..
+    DECODE(id, "%s-%d", pref, nmbr),
+    pref<>nil & nmbr<>nil ? return( (pref,nmbr)[%3.3s-%07.7d])
+  ) :
+  (
+..
+.. it's a rod or sub, these are now A99999 OR 999999
+..
+    DECODE(id, "%d", nmbr),
+    nmbr > 0 ? return( (nmbr)[%06.6d]),
+    DECODE( SUBSTR( id, 0, 1), "%s", pref),
+    DECODE( SUBSTR( id, 1, STRLEN( id) -1), "%d", nmbr),
+    pref<>nil & nmbr > 0 ? return( (pref,nmbr)[%1.1s%05.5d])
+  ),
+  DIAG( "'AAA-nnnnnnn' for bits, 'Annnnn' or 'nnnnnn' for Rods/Subs !"),
+  return( nil)
+..
+.. return NIL if no part model can be inferred
+..
+.expr part_model( id) \
+  parse_partname( id),
+  model := ENUM(enum PMODEL 0, pref),
+  return( model ? str model : nil)
+..
+.. return NIL if we can't work out the part type
+..
+.vint ptyp
+.if !DEFINED("part_type")
+.expr part_type( id) \
+  parse_partname( id),
+  model := part_model( id),
+  ptyp := nil,
+  loop( ENUMSIZE( enum PMODEL 0))
+..(
+    ENUMSET( enum PMODEL model, part_type_mask( *)) ?
+    (
+      ptyp := *,
+      break
+    )
+  ),
+  return( ptyp ? ptyp : nil)
+.endif
+..

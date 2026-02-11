@@ -1,0 +1,14 @@
+geom	bw:4
+hmin	100
+wmin	150
+map	n
+cols    2
+item	Dumps\ ->	typ 3;req info;Dumps action:mbDumps post
+item	Stockpile\ ->	typ 5;req info;Stockpiles action:mbStockpiles post
+item	Bench\ ->	typ 6;req info;Benches action:mbBenches post
+item	Shop\ ->	typ 7;req info;Shops action:mbShops post
+item	Tiedown\ ->	typ 8;req info;Tiedowns action:mbTiedowns post
+item    Exit\ Menu      Locs unpost
+#if #arch(cgc)
+itemColor Exit\ Menu:Exit
+#endif

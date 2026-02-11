@@ -1,0 +1,316 @@
+No Drive Problems	201392128
+Sibas_Message_1	201392129
+Sibas_Message_2	201392130
+Sibas_Message_3	201392131
+Sibas_Message_4	201392132
+Sibas_Message_5	201392133
+Sibas_Message_6	201392134
+Sibas_Message_7	201392135
+Sibas_Message_8	201392136
+Sibas_Message_9	201392137
+Sibas_Message_10	201392138
+Sibas_Message_11	201392139
+Sibas_Message_12	201392140
+Sibas_Message_13	201392141
+Sibas_Message_14	201392142
+Sibas_Message_15	201392143
+Sibas_Message_16	201392144
+Sibas_Message_17	201392145
+Sibas_Message_18	201392146
+Sibas_Message_19	201392147
+Sibas_Message_20	201392148
+Drive Sys In Stand By Mode	201392149
+Tcu Battery Low	201392150
+Serial Comm Link Not Avail	201392151
+Sibas_Message_24	201392152
+Sibas_Message_25	201392153
+Inverter 'A' Is In Limp Mode	201392154
+Inverter 'B' Is In Limp Mode	201392155
+Propel Inhibit-Brake Drag Or Ladder Down	201392156
+Truck Is Overloaded	201392157
+Sibas_Message_30	201392158
+Sibas_Message_31	201392159
+Sibas_Message_32	201392160
+Sibas_Message_33	201392161
+Sibas_Message_34	201392162
+Sibas_Message_35	201392163
+Sibas_Message_36	201392164
+Auto Lube Sys Not Functioning	201392165
+Air Temp In Axle Box High	201392166
+Axle Box Cooling Air Pressure Fault	201392167
+Steering Encoder O/P Out Of Range	201392168
+Minor Drive Component Failure	201392169
+Loss Of Propulsion To Be Expected-Power Demand Too High	201392170
+Grid Blower Failure - Stop Truck & Call Dispatch	201392171
+Drive Propel And Retard Failure To Be Expected	201392172
+Drive Component Over-Temp Warning	201392173
+Differential Lube Oil Pressure Fault	201392174
+Sibas_Message_47	201392175
+Sibas_Message_48	201392176
+Sibas_Message_49	201392177
+Sibas_Message_50	201392178
+Sibas_Message_51	201392179
+Sibas_Message_52	201392180
+Sibas_Message_53	201392181
+Sibas_Message_54	201392182
+Sibas_Message_55	201392183
+Sibas_Message_56	201392184
+Sibas_Message_57	201392185
+Sibas_Message_58	201392186
+Sibas_Message_59	201392187
+Sibas_Message_60	201392188
+Reduction Of Propulsion Torque - Temp Limit Reached	201392189
+Reduction Of Retard Torque - Temp Limit Reached	201392190
+Sibas_Message_63	201392191
+Sibas_Message_64	201392192
+Reduction Of Propulsion Power - Alternator Over-Temp	201392193
+Reduction Of Retard Power - Grid Box Over Temp	201392194
+Sibas_Message_67	201392195
+Propel Torque Reduced To Zero - Shift Level Error	201392196
+Propel Torque Reduced To Zero - Max Speed Exceeded	201392197
+Engine Fault - Propel Torque Reduced	201392198
+Sibas_Message_71	201392199
+Sibas_Message_72	201392200
+Sibas_Message_73	201392201
+Sibas_Message_74	201392202
+Sibas_Message_75	201392203
+Sibas_Message_76	201392204
+Sibas_Message_77	201392205
+Sibas_Message_78	201392206
+Sibas_Message_79	201392207
+Sibas_Message_80	201392208
+Temporary Drive Fault (2 Seconds)	201392209
+Park Brake Supervision Fault	201392210
+Sibas_Message_83	201392211
+Sibas_Message_84	201392212
+Sibas_Message_85	201392213
+Sibas_Message_86	201392214
+Sibas_Message_87	201392215
+Sibas_Message_88	201392216
+Sibas_Message_89	201392217
+Sibas_Message_90	201392218
+Inverter Fault. Stop Truck And Reset	201392219
+Excitation Fault. Stop Truck And Reset	201392220
+Sibas_Message_93	201392221
+Sibas_Message_94	201392222
+Sibas_Message_95	201392223
+Sibas_Message_96	201392224
+Sibas_Message_97	201392225
+Sibas_Message_98	201392226
+Sibas_Message_99	201392227
+Sibas_Message_100	201392228
+Sibas_Message_101	201392229
+Both Motor Speed Sensors Are Faulty	201392230
+Sibas_Message_103	201392231
+Sibas_Message_104	201392232
+Sibas_Message_105	201392233
+Sibas_Message_106	201392234
+Propel Inhibit Due To Drive Over-Temperature	201392235
+Sibas_Message_108	201392236
+Sibas_Message_109	201392237
+Sibas_Message_110	201392238
+Severe Drive Component Failure. Reset For Limp Mode	201392239
+Severe Drive Component Failure. (Disconnect Inv A For Limp)	201392240
+Severe Drive Component Failure. (Disconnect Inv B For Limp)	201392241
+Retard Inhibit Due To Grid Box Over-Temperature	201392242
+Inverter Operation Impossible. Call Dispatch	201392243
+Excitation Inhibit Due To Tcu Over-Temperature	201392244
+Excitation Inhibit Active.	201392245
+Tcu Overheating. Stop Truck And Shutdown.	201392246
+Sibas_Message_119	201392247
+Sibas_Message_120	201392248
+Ground Fault Detected	201392249
+Drive Shutdown Because Of Ground Fault	201392250
+Drive Shutdown Due To Ground Fault. Stop And Reset	201392251
+Sibas_Message_124	201392252
+Engine Cooling Fan Control Fault	201392253
+Sibas_Message_126	201392254
+Sibas_Message_127	201392255
+Sibas_Message_128	201392256
+Sibas_Message_129	201392257
+Sibas_Message_130	201392258
+Sibas_Message_131	201392259
+Sibas_Message_132	201392260
+Sibas_Message_133	201392261
+Sibas_Message_134	201392262
+Sibas_Message_135	201392263
+Sibas_Message_136	201392264
+Sibas_Message_137	201392265
+Sibas_Message_138	201392266
+Sibas_Message_139	201392267
+Sibas_Message_140	201392268
+Sibas_Message_141	201392269
+Sibas_Message_142	201392270
+Sibas_Message_143	201392271
+Sibas_Message_144	201392272
+Sibas_Message_145	201392273
+Sibas_Message_146	201392274
+Sibas_Message_147	201392275
+Sibas_Message_148	201392276
+Sibas_Message_149	201392277
+Sibas_Message_150	201392278
+Sibas_Message_151	201392279
+Sibas_Message_152	201392280
+Sibas_Message_153	201392281
+Sibas_Message_154	201392282
+Sibas_Message_155	201392283
+Sibas_Message_156	201392284
+Sibas_Message_157	201392285
+Sibas_Message_158	201392286
+Sibas_Message_159	201392287
+Sibas_Message_160	201392288
+Sibas_Message_161	201392289
+Sibas_Message_162	201392290
+Sibas_Message_163	201392291
+Sibas_Message_164	201392292
+Sibas_Message_165	201392293
+Sibas_Message_166	201392294
+Sibas_Message_167	201392295
+Sibas_Message_168	201392296
+Sibas_Message_169	201392297
+Sibas_Message_170	201392298
+Sibas_Message_171	201392299
+Sibas_Message_172	201392300
+Sibas_Message_173	201392301
+Sibas_Message_174	201392302
+Sibas_Message_175	201392303
+Sibas_Message_176	201392304
+Sibas_Message_177	201392305
+Sibas_Message_178	201392306
+Sibas_Message_179	201392307
+Sibas_Message_180	201392308
+Sibas_Message_181	201392309
+Sibas_Message_182	201392310
+Sibas_Message_183	201392311
+Sibas_Message_184	201392312
+Sibas_Message_185	201392313
+Sibas_Message_186	201392314
+Sibas_Message_187	201392315
+Sibas_Message_188	201392316
+Sibas_Message_189	201392317
+Sibas_Message_190	201392318
+Sibas_Message_191	201392319
+Sibas_Message_192	201392320
+Sibas_Message_193	201392321
+Sibas_Message_194	201392322
+Sibas_Message_195	201392323
+Sibas_Message_196	201392324
+Sibas_Message_197	201392325
+Sibas_Message_198	201392326
+Sibas_Message_199	201392327
+Sibas_Message_200	201392328
+Sibas_Message_201	201392329
+Gto Preheating Active	201392330
+Precharging Active	201392331
+Sibas_Message_204	201392332
+Start-Up Sequence Is Running	201392333
+Transition To Standby Idle	201392334
+Ipm Extinction Sequence Running	201392335
+Transition To Drive Shutdown	201392336
+Drive System Is Shutting Down	201392337
+Sibas_Message_210	201392338
+Sibas_Message_211	201392339
+Sibas_Message_212	201392340
+Sibas_Message_213	201392341
+Sibas_Message_214	201392342
+Sibas_Message_215	201392343
+Sibas_Message_216	201392344
+Sibas_Message_217	201392345
+Sibas_Message_218	201392346
+Sibas_Message_219	201392347
+Sibas_Message_220	201392348
+Sibas_Message_221	201392349
+Sibas_Message_222	201392350
+Sibas_Message_223	201392351
+Sibas_Message_224	201392352
+Sibas_Message_225	201392353
+Sibas_Message_226	201392354
+Sibas_Message_227	201392355
+Sibas_Message_228	201392356
+Sibas_Message_229	201392357
+Sibas_Message_230	201392358
+Sibas_Message_231	201392359
+Sibas_Message_232	201392360
+Sibas_Message_233	201392361
+Sibas_Message_234	201392362
+Sibas_Message_235	201392363
+Sibas_Message_236	201392364
+Sibas_Message_237	201392365
+Sibas_Message_238	201392366
+Sibas_Message_239	201392367
+Sibas_Message_240	201392368
+Sibas_Message_241	201392369
+Sibas_Message_242	201392370
+Sibas_Message_243	201392371
+Sibas_Message_244	201392372
+Sibas_Message_245	201392373
+Sibas_Message_246	201392374
+Sibas_Message_247	201392375
+Sibas_Message_248	201392376
+Sibas_Message_249	201392377
+Sibas_Message_250	201392378
+Sibas_Message_251	201392379
+Sibas_Message_252	201392380
+Sibas_Message_253	201392381
+Sibas_Message_254	201392382
+Sibas_Message_255	201392383
+Load Dump Brake On	201392384
+Load Dump Brake Off	201392385
+Drive Fault Lamp On	201392386
+Drive Fault Lamp Off	201392387
+Chopper Fault Active	201392388
+Chopper Fault Inactive	201392389
+Serial Link Inactive	201392390
+Serial Link Active	201392391
+Steer/Brake Temp Active	201392392
+Steer/Brake Temp Inactive	201392393
+Steer Pressure Active	201392394
+Steer Pressure Inactive	201392395
+Brake Hydraulic Pressure Active	201392396
+Brake Hydraulic Pressure Inactive	201392397
+Dump Body Seated(Down) Active	201392398
+Dump Body Seated(Down) Inactive	201392399
+Left Turn Signal On	201392400
+Left Turn Signal Off	201392401
+Right Turn Signal On	201392402
+Right Turn Signal Off	201392403
+High Beam Lights On	201392404
+High Beam Lights Off	201392405
+Dump Hydraulic Temperature Active	201392406
+Dump Hydraulic Temperature Inactive	201392407
+Motor #1 Cool Air Pressure Low Active	201392408
+Motor #1 Cool Air Pressure Low Inactive	201392409
+Motor #2 Cool Air Pressure Low Active	201392410
+Motor #2 Cool Air Pressure Low Inactive	201392411
+Cruise Control On	201392412
+Cruise Control Off	201392413
+Trolley Active	201392414
+Trolley Inactive	201392415
+Ground Fault Detected Active	201392416
+Ground Fault Detected Inactive	201392417
+Fault Reset Pressed Active	201392418
+Fault Reset Pressed Inactive	201392419
+Blower Pressure Switch 1 On	201392420
+Blower Pressure Switch 1 Off	201392421
+Blower Pressure Switch 2 On	201392422
+Blower Pressure Switch 2 Off	201392423
+Inva Status Inactive	201392424
+Inva Status Active	201392425
+Invb Status Inactive	201392426
+Invb Status Active	201392427
+Park Brake Released Active	201392428
+Park Brake Released Inactive	201392429
+Service Brake Pressed Active	201392430
+Service Brake Pressed Inactive	201392431
+Ext Command Forward Active	201392432
+Ext Command Forward Inactive	201392433
+Shift Lever Position Neutral Active	201392434
+Shift Lever Position Neutral Inactive	201392435
+Ext Command Reverse Active	201392436
+Ext Command Reverse Inactive	201392437
+Preheating Contractor Closed Active	201392438
+Preheating Contractor Closed Inactive	201392439
+Oem Interface Timeout	201457632
+Oem Interface Normal	201457633
+Driver Interface Timeout	201457634
+Driver Interface Normal	201457635

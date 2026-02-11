@@ -1,0 +1,128 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1996
+..               All Rights Reserved
+..  $RCSfile: readme.drillgraphics,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:12 $
+..    $State: Exp $
+..
+
+
+The following are guidelines to help configure and use the graphical reports 
+(pie, line and bar graphs) available for the new generic drill system.
+For installation procedures, see /dsp/form/engl/drill/install.notes.
+
+To access graphical reports, run /dsp/form/engl/drill/drillmenu.frm and select
+"Graphical Drill Reports Menu" option or run /drill/drillgraphreps.frm.
+
+Three types of drill databases must be available in order to run the graphical
+drill reports: drilldat.ddb, dr...ddb, drpro...ddb  (example dr960926d.ddb).
+
+Clients currently using the new drill utility are: cjv, cbm, adm, mwb and cvrd.
+Note that mwb does not yet have drpro...ddb (hole profile data) files pending
+release of eprom software for their drill sensor interface.
+
+Tip: place the crttool window to the left of the screen to avoid concealing the
+graph selection menu.  The resulting graphics window may cover up some of these 
+options since the graphics window is large and will pop-up on the right side of
+the screen. 
+
+
+
+PIE GRAPHS
+----------
+Pie graph reports are the simplest to use.  Enter the desired date range and
+select "Pie Graphs (Multi-Shift)" from the menu.
+
+First, the graph selection menu will appear in the adjacent crttool window,
+which is basically a list of graphs you can toggle thru.  Next, a graphics
+window pops-up with the first graph displayed.
+
+Printing instructions are shown on the crttool under the graphics selection
+menu.  When ready to exit the graphical report, select "Close graph and exit".
+
+ 
+ 
+LINE GRAPHS
+-----------
+Line graphs may be viewed for a single hole profile.  Typical data graphed 
+depends on the type of drill interface used (depth, penetration rate, bit speed,
+pull down, rotary torque, bit air pressure, fracture energy, rotary pressure,
+horizontal vibration, vertical vibration, hydraulic pressure).
+
+Select a hole to graph data for in the "Line Graph Profile?" column.  The first
+graph displayed is "All Rates/Pressures", which shows all lines color-coded on
+one graph.  The x-axis is the rate or pressure and the y-axis is the hole depth.
+
+The individual line graphs may be toggled thru via the graph selection menu on
+the adjacent crttool.  Instructions are shown on the crttool to change the grey
+background color on the graph to 0 before printing, if desired. 
+
+
+ 
+BAR GRAPHS
+----------
+Multiple holes by a selected drill are graphed as "bars" with the respective
+data values grouped in color ranges of low, medium and high.  
+
+Bar graphs are more complicated to configure and use, so the steps are numbered.
+Unless otherwise specified, the following selections should be made from the
+Graphical Drill Reports menu.
+
+1) To determine which drills were active on a particular shift, select
+   "Line Graphs" and enter the shift date.
+
+2) Enter the drill from the pop-up list for "Bar Graphs, Show Drill".
+
+3) Select "Line Graphs" and then "View Hole Profile?" for single hole.  This
+   will display a report showing the raw data collected by a sensor mounted
+   on the drill.  View several holes' data and determine acceptable low, medium
+   and high numeric ranges for each type of data being collected (penetration
+   rate, bit speed, etc).  The numeric ranges serve as a flag for rates or
+   pressures that are too low or too high 
+
+4) Select "Configure Bar Graph Data in Database (Ranges and Colors)" option.  
+   The drill id entered previously by "Show Drill" should appear in the
+   Equipment field.  
+
+   Enter the numeric data ranges (determined in step 3 above) next to the
+   corresponding profile description.  Note: the high data range default is
+   Medium to higher values.  Enter desired colors for the data ranges from the
+   pop-up list.  
+
+5) Ranges and colors may also be updated in drillbarclient.frm.  The bar graph
+   program will still run if no defaults are entered in the database, it will
+   use the values in drillbarclient.frm.  The default colors stored in
+   drillbarclient.frm are: violet, forest green and red for low, medium and
+   high data values respectively.
+
+   The default data range numbers in drillbarclient.frm are: 0.0-100.0,
+   100.0-200.0, 200.0-above for low, medium and high data values respectively.
+   Note that these default numeric data ranges are totally arbitrary with
+   respect to actual rates and pressures and must be changed to more valid
+   ranges.
+
+   The bar graph utilizes data ranges and colors in the following precedence:
+   temporary values entered via "Pick X-axis, labels?" menu, values from
+   drillbarclient.frm if values do not exist in the database, and finally
+   values stored in the database.
+
+   After the bar graph data ranges and colors have been entered, select 
+   "Save to current drill database?" and return to the previous menu.
+
+6) Select "Bar Graphs" option.  Select one or more holes by toggling column
+   "Select for Bar Graph?" to yes.  The more holes selected the longer the
+   graph computation will take before displaying the graph.
+
+   Select "Display Bar Graph?" and the graph selection menu and pop-up graphics
+   window will appear.
+
+7) Optional: select "Pick X-axis, labels?".  The x-axis may be location or time.
+   Hole id labels may be toggled on or off.  Bar graph data ranges and colors
+   may also be temporarily be modified in this menu, they temporarily override
+   drillbarclient.frm and database values until the form is exited.
+
+Note: the relevant bar graph selections in the "Multi-Hole Profile Bar Graphs" 
+screen are all highlighted the same color.

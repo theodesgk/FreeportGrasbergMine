@@ -1,0 +1,1695 @@
+Hoist Motor Stalled Brake Set	1610678272
+Hoist Limit Exceeded Alarm	1610678273
+Hoist Forward Bridge Torque Proving Alarm	1610678274
+Hoist Reverse Bridge Torque Proving Alarm	1610678275
+Hoist Brake Pressure Drop Brake Set	1610678276
+Hoist Motor Stall Warning	1610678277
+Hoist Slack Rope Detected Alarm	1610678278
+Crowd Motor Stalled Brake Set	1610678279
+Crowd Limit Exceeded Alarm	1610678280
+Crowd Forward Bridge Torque Proving Alarm	1610678281
+Crowd Reverse Bridge Torque Proving Alarm	1610678282
+Crowd Brake Pressure Drop Brake Set	1610678283
+Crowd Motor Stall Warning	1610678284
+Control Cabinet Fan Thermal Overload Alarm	1610678285
+Swing Motor Stalled Brake Set	1610678286
+Swing Limit Exceeded Alarm	1610678287
+Swing Forward Bridge Torque Proving Alarm	1610678288
+Swing Reverse Bridge Torque Proving Alarm	1610678289
+Swing Brake Pressure Drop Brake Set	1610678290
+Hoist Zero Speed Auto Brake Set	1610678291
+Hoist Lube Cooler Starter Alarm	1610678292
+Right Propel Motor Stalled Brake Set	1610678293
+Right Propel Limit Exceeded Alarm	1610678294
+Right Propel Forward Bridge Torque Proving Alarm	1610678295
+Right Propel Reverse Bridge Torque Proving Alarm	1610678296
+Right Propel Brake Pressure Drop Brake Set	1610678297
+Crowd Zero Speed Auto Brake Set	1610678298
+Propel Brake Maintenance Switch Open	1610678299
+Crowd Belt Tensioner Switch In Manual Mode	1610678300
+Air Filter Contactor Fault	1610678301
+Right Front Swing Motor Drive End Bearing Temperature Alarm	1610678304
+Right Front Swing Motor Non Drive End Bearing Temperature Alarm	1610678305
+Right Front Swing Motor Interpole Winding Temperature Alarm	1610678306
+Right Front Swing Motor Field Winding Temperature Alarm	1610678307
+Right Front Swing Motor Shaft Bearing Temperature Alarm	1610678308
+Right Front Swing Gearcase Oil Temperature Alarm	1610678309
+Left Front Swing Motor Drive End Bearing Temperature Alarm	1610678310
+Left Front Swing Motor Non Drive End Bearing Temperature Alarm	1610678311
+Left Front Swing Motor Interpole Winding Temperature Alarm	1610678312
+Left Front Swing Motor Field Winding Temperature Alarm	1610678313
+Left Front Swing Motor Shaft Bearing Temperature Alarm	1610678314
+Left Front Swing Gearcase Oil Temperature Alarm	1610678315
+Control Cabinet Fan Warning	1610678316
+Rear Hoist Motor Drive End Bearing Temperature Alarm	1610678317
+Rear Hoist Motor Non Drive End Bearing Temperature Alarm	1610678318
+Rear Hoist Motor Interpole Winding Temperature Alarm	1610678319
+Rear Hoist Motor Field Winding Temperature Alarm	1610678320
+Rear Swing Motor Drive End Bearing Temperature Alarm	1610678321
+Rear Swing Motor Non Drive End Bearing Temperature Alarm	1610678322
+Rear Swing Motor Interpole Winding Temperature Alarm	1610678323
+Rear Swing Motor Field Winding Temperature Alarm	1610678324
+Rear Swing Motor Shaft Bearing Temperature Alarm	1610678325
+Rear Swing Gearcase Oil Temperature Alarm	1610678326
+Hoist Drum Sidestand Bearing Temperature Alarm	1610678327
+Center Gudgeon Hub Temperature Alarm	1610678328
+Hoist Front Inner Input Pinion Bearing Temperature Alarm	1610678329
+Hoist Front Outer Input Pinion Bearing Temperature Alarm	1610678330
+Hoist Front Inner First Reduction Bearing Temperature Alarm	1610678331
+Hoist Front Outer First Reduction Bearing Temperature Alarm	1610678332
+Hoist Rear Inner Input Pinion Bearing Temperature Alarm	1610678333
+Hoist Rear Outer Input Pinion Bearing Temperature Alarm	1610678336
+Hoist Rear Inner First Reduction Bearing Temperature Alarm	1610678337
+Hoist Rear Outer First Reduction Bearing Temperature Alarm	1610678338
+Hoist Gearcase Oil Temperature Alarm	1610678339
+Hoist Drum Gear Bearing Temperature Alarm	1610678340
+Front Hoist Motor Drive End Bearing Temperature Alarm	1610678341
+Front Hoist Motor Non Drive End Bearing Temperature Alarm	1610678342
+Front Hoist Motor Interpole Winding Temperature Alarm	1610678343
+Front Hoist Motor Field Winding Temperature Alarm	1610678344
+Crowd Motor Drive End Bearing Temperature Alarm	1610678345
+Crowd Motor Non Drive End Bearing Temperature Alarm	1610678346
+Crowd Motor Interpole Winding Temperature Alarm	1610678347
+Crowd Motor Field Winding Temperature Alarm	1610678348
+Right Shipper Shaft Bearing Temperature Alarm	1610678349
+Left Shipper Shaft Bearing Temperature Alarm	1610678350
+Crowd Inner Input Pinion Bearing Temperature Alarm	1610678351
+Crowd Outer Input Pinion Bearing Temperature Alarm	1610678352
+Crowd Inner First Reduction Bearing Temperature Alarm	1610678353
+Crowd Outer First Reduction Bearing Temperature Alarm	1610678354
+Crowd Gearcase Oil Temperature Alarm	1610678355
+Right Propel Motor Drive End Bearing Temperature Alarm	1610678356
+Right Propel Motor Non Drive End Bearing Temperature Alarm	1610678357
+Right Propel Motor Interpole Winding Temperature Alarm	1610678358
+Right Propel Motor Field Winding Temperature Alarm	1610678359
+Right Propel Gearcase Oil Temperature Alarm	1610678360
+Right Propel Gearcase Oil Drive Bearing Temperature Alarm	1610678361
+Left Propel Motor Drive End Bearing Temperature Alarm	1610678362
+Left Propel Motor Non Drive End Bearing Temperature Alarm	1610678363
+Left Propel Motor Interpole Winding Temperature Alarm	1610678364
+Left Propel Motor Field Winding Temperature Alarm	1610678365
+Left Propel Gearcase Oil Temperature Alarm	1610678368
+Left Propel Gearcase Oil Drive Bearing Temperature Alarm	1610678369
+Machinery House RTD Disconnected	1610678370
+Outside RTD Disconnected	1610678371
+Right Front Swing Motor Drive End Bearing RTD Disconnected	1610678372
+Right Front Swing Motor Non Drive End Bearing RTD Disconnected	1610678373
+Right Front Swing Motor Interpole Winding RTD Disconnected	1610678374
+Right Front Swing Motor Field Winding RTD Disconnected	1610678375
+Right Front Swing Motor Shaft Bearing RTD Disconnected	1610678376
+Right Front Swing Gearcase Oil RTD Disconnected	1610678377
+Left Front Swing Motor Drive End Bearing RTD Disconnected	1610678378
+Left Front Swing Motor Non Drive End Bearing RTD Disconnected	1610678379
+Left Front Swing Motor Interpole Winding RTD Disconnected	1610678380
+Left Front Swing Motor Field Winding RTD Disconnected	1610678381
+Left Front Swing Motor Shaft Bearing RTD Disconnected	1610678382
+Left Front Swing Gearcase Oil RTD Disconnected	1610678383
+Right Hand Room RTD Disconnected	1610678384
+Rear Hoist Motor Drive End Bearing RTD Disconnected	1610678385
+Rear Hoist Motor Non Drive End Bearing RTD Disconnected	1610678386
+Rear Hoist Motor Interpole Winding RTD Disconnected	1610678387
+Rear Hoist Motor Field Winding RTD Disconnected	1610678388
+Rear Swing Motor Drive End Bearing RTD Disconnected	1610678389
+Rear Swing Motor Non Drive End Bearing RTD Disconnected	1610678390
+Rear Swing Motor Interpole Winding RTD Disconnected	1610678391
+Rear Swing Motor Field Winding RTD Disconnected	1610678392
+Rear Swing Motor Shaft Bearing RTD Disconnected	1610678393
+Rear Swing Gearcase Oil RTD Disconnected	1610678394
+Hoist Drum Sidestand Bearing RTD Disconnected	1610678395
+Center Gudgeon Hub RTD Disconnected	1610678396
+Hoist Front Inner Input Pinion Bearing RTD Disconnected	1610678397
+Hoist Front Outer Input Pinion Bearing RTD Disconnected	1610678400
+Hoist Front Inner First Reduction Bearing RTD Disconnected	1610678401
+Hoist Front Outer First Reduction Bearing RTD Disconnected	1610678402
+Hoist Rear Inner Input Pinion Bearing RTD Disconnected	1610678403
+Hoist Rear Outer Input Pinion Bearing RTD Disconnected	1610678404
+Hoist Rear Inner First Reduction Bearing RTD Disconnected	1610678405
+Hoist Rear Outer First Reduction Bearing RTD Disconnected	1610678406
+Hoist Gearcase Oil RTD Disconnected	1610678407
+Hoist Drum Gear Bearing RTD Disconnected	1610678408
+Front Hoist Motor Drive End Bearing RTD Disconnected	1610678409
+Front Hoist Motor Non Drive End Bearing RTD Disconnected	1610678410
+Front Hoist Motor Interpole Winding RTD Disconnected	1610678411
+Front Hoist Motor Field Winding RTD Disconnected	1610678412
+Crowd Motor Drive End Bearing RTD Disconnected	1610678413
+Crowd Motor Non Drive End Bearing RTD Disconnected	1610678414
+Crowd Motor Interpole Winding RTD Disconnected	1610678415
+Crowd Motor Field Winding RTD Disconnected	1610678416
+Right Shipper Shaft Bearing RTD Disconnected	1610678417
+Left Shipper Shaft Bearing RTD Disconnected	1610678418
+Crowd Inner Input Pinion Bearing RTD Disconnected	1610678419
+Crowd Outer Input Pinion Bearing RTD Disconnected	1610678420
+Crowd Inner First Reduction Bearing RTD Disconnected	1610678421
+Crowd Outer First Reduction Bearing RTD Disconnected	1610678422
+Crowd Gearcase Oil RTD Disconnected	1610678423
+Right Propel Motor Drive End Bearing RTD Disconnected	1610678424
+Right Propel Motor Non Drive End Bearing RTD Disconnected	1610678425
+Right Propel Motor Interpole Winding RTD Disconnected	1610678426
+Right Propel Motor Field Winding RTD Disconnected	1610678427
+Right Propel Gearcase Oil RTD Disconnected	1610678428
+Right Propel Gearcase Oil Drive Bearing RTD Disconnected	1610678429
+Left Propel Motor Drive End Bearing RTD Disconnected	1610678432
+Left Propel Motor Non Drive End Bearing RTD Disconnected	1610678433
+Left Propel Motor Interpole Winding RTD Disconnected	1610678434
+Left Propel Motor Field Winding RTD Disconnected	1610678435
+Left Propel Gearcase Oil RTD Disconnected	1610678436
+Left Propel Gearcase Oil Drive Bearing RTD Disconnected	1610678437
+Machinery House RTD Shorted	1610678438
+Outside RTD Shorted	1610678439
+Right Front Swing Motor Drive End Bearing RTD Shorted	1610678440
+Right Front Swing Motor Non Drive End Bearing RTD Shorted	1610678441
+Right Front Swing Motor Interpole Winding RTD Shorted	1610678442
+Right Front Swing Motor Field Winding RTD Shorted	1610678443
+Right Front Swing Motor Shaft Bearing RTD Shorted	1610678444
+Right Front Swing Gearcase Oil RTD Shorted	1610678445
+Left Front Swing Motor Drive End Bearing RTD Shorted	1610678446
+Left Front Swing Motor Non Drive End Bearing RTD Shorted	1610678447
+Left Front Swing Motor Interpole Winding RTD Shorted	1610678448
+Left Front Swing Motor Field Winding RTD Shorted	1610678449
+Left Front Swing Motor Shaft Bearing RTD Shorted	1610678450
+Left Front Swing Gearcase Oil RTD Shorted	1610678451
+Right Hand Room RTD Shorted	1610678452
+Rear Hoist Motor Drive End Bearing RTD Shorted	1610678453
+Rear Hoist Motor Non Drive End Bearing RTD Shorted	1610678454
+Rear Hoist Motor Interpole Winding RTD Shorted	1610678455
+Rear Hoist Motor Field Winding RTD Shorted	1610678456
+Rear Swing Motor Drive End Bearing RTD Shorted	1610678457
+Rear Swing Motor Non Drive End Bearing RTD Shorted	1610678458
+Rear Swing Motor Interpole Winding RTD Shorted	1610678459
+Rear Swing Motor Field Winding RTD Shorted	1610678460
+Rear Swing Motor Shaft Bearing RTD Shorted	1610678461
+Rear Swing Gearcase Oil RTD Shorted	1610678464
+Hoist Drum Sidestand Bearing RTD Shorted	1610678465
+Center Gudgeon Hub RTD Shorted	1610678466
+Hoist Front Inner Input Pinion Bearing RTD Shorted	1610678467
+Hoist Front Outer Input Pinion Bearing RTD Shorted	1610678468
+Hoist Front Inner First Reduction Bearing RTD Shorted	1610678469
+Hoist Front Outer First Reduction Bearing RTD Shorted	1610678470
+Hoist Rear Inner Input Pinion Bearing RTD Shorted	1610678471
+Hoist Rear Outer Input Pinion Bearing RTD Shorted	1610678472
+Hoist Rear Inner First Reduction Bearing RTD Shorted	1610678473
+Hoist Rear Outer First Reduction Bearing RTD Shorted	1610678474
+Hoist Gearcase Oil RTD Shorted	1610678475
+Hoist Drum Gear Bearing RTD Shorted	1610678476
+Front Hoist Motor Drive End Bearing RTD Shorted	1610678477
+Front Hoist Motor Non Drive End Bearing RTD Shorted	1610678478
+Front Hoist Motor Interpole Winding RTD Shorted	1610678479
+Front Hoist Motor Field Winding RTD Shorted	1610678480
+Crowd Motor Drive End Bearing RTD Shorted	1610678481
+Crowd Motor Non Drive End Bearing RTD Shorted	1610678482
+Crowd Motor Interpole Winding RTD Shorted	1610678483
+Crowd Motor Field Winding RTD Shorted	1610678484
+Right Shipper Shaft Bearing RTD Shorted	1610678485
+Left Shipper Shaft Bearing RTD Shorted	1610678486
+Crowd Inner Input Pinion Bearing RTD Shorted	1610678487
+Crowd Outer Input Pinion Bearing RTD Shorted	1610678488
+Crowd Inner First Reduction Bearing RTD Shorted	1610678489
+Crowd Outer First Reduction Bearing RTD Shorted	1610678490
+Crowd Gearcase Oil RTD Shorted	1610678491
+Right Propel Motor Drive End Bearing RTD Shorted	1610678492
+Right Propel Motor Non Drive End Bearing RTD Shorted	1610678493
+Right Propel Motor Interpole Winding RTD Shorted	1610678496
+Right Propel Motor Field Winding RTD Shorted	1610678497
+Right Propel Gearcase Oil RTD Shorted	1610678498
+Right Propel Gearcase Oil Drive Bearing RTD Shorted	1610678499
+Left Propel Motor Drive End Bearing RTD Shorted	1610678500
+Left Propel Motor Non Drive End Bearing RTD Shorted	1610678501
+Left Propel Motor Interpole Winding RTD Shorted	1610678502
+Left Propel Motor Field Winding RTD Shorted	1610678503
+Left Propel Gearcase Oil RTD Shorted	1610678504
+Left Propel Gearcase Oil Drive Bearing RTD Shorted	1610678505
+Zero Speed Prevention Auto Brake Set Warning	1610678506
+Main Air Pressure Transducer Disconnected	1610678507
+Boom Point Grease Pressure Transducer Disconnected	1610678508
+Left Saddle Block Grease Pressure Transducer Disconnected	1610678509
+Right Saddle Block Grease Pressure Transducer Disconnected	1610678510
+Upper Grease Pressure Transducer Disconnected	1610678511
+Right/Left Crawler Grease Pressure Transducer Disconnected	1610678512
+Upper Open Gear Pressure Transducer Disconnected	1610678513
+Roller Circle Open Gear Pressure Transducer Disconnected	1610678514
+Crowd Belt Tensioner Cylinder Pressure Transducer Disconnected	1610678515
+Grease Tank Level Low	1610678516
+Open Gear Level Low	1610678517
+Left Propel Motor Stalled Brake Set	1610678518
+Left Propel Limit Exceeded Alarm	1610678519
+Left Propel Forward Bridge Torque Proving Alarm	1610678520
+Left Propel Reverse Bridge Torque Proving Alarm	1610678521
+Left Propel Brake Pressure Drop Brake Set	1610678522
+Swing Impact	1610678523
+Crowd Belt Tension - Auto Cycle Complete	1610678524
+Crowd Belt Tension - Manual Cycle Complete	1610678525
+Front Hoist Brake Is Worn	1610678528
+Rear Hoist Brake Is Worn	1610678529
+Crowd Brake Is Worn	1610678530
+Left Front Swing Brake Is Worn	1610678531
+Right Front Swing Brake Is Worn	1610678532
+Rear Swing Brake Is Worn	1610678533
+Left Propel Brake Is Worn	1610678534
+Right Propel Brake Is Worn	1610678535
+Main Transformer Ground Warning	1610678536
+Auxiliary Transformer Ground Warning	1610678537
+Field Transformer Ground Warning	1610678538
+DC Ground Warning	1610678539
+Main Air Pressure Low	1610678540
+IO Motor Starter Circuit Breaker 1 Open	1610678541
+IO Motor Starter Circuit Breaker 2 Open	1610678542
+Lower Heater Supply Circuit Breaker Open	1610678543
+MCC Feeder Circuit Breaker Open	1610678544
+Propel Motor Heater Contactor Status Warning	1610678545
+Air Filter Conveyor Speed Switch Status Warning	1610678546
+Stage 1 Boom Jack	1610678547
+Stage 2 Boom Jack	1610678548
+Right Ladder Down	1610678549
+Left Ladder Down	1610678550
+Crowd Belt Tension - 10 Hour Auto Cycle Request	1610678551
+Crowd Belt Tension - 25 Hour Auto Cycle Request	1610678552
+Crowd Belt Tension - 50 Hour Auto Cycle Request	1610678553
+Crowd Belt Tension - 100 Hour Auto Cycle Request	1610678554
+Crowd Belt Tension - 500 Hour Auto Cycle Request	1610678555
+Crowd Belt Tension - 1000 Hour Auto Cycle Request	1610678556
+Crowd Belt Tension - 1000 Plus Hour Auto Cycle Request	1610678557
+Hst 1/Right Ppl Arm - Off2 Emergency Off Alarm - A101	1610678560
+Hst 1/Right Ppl Arm - Off3 Emergency Stop Alarm - A102	1610678561
+Hst 1/Right Ppl Arm - DC Breaker Ack Alarm - A103	1610678562
+Hst 1/Right Ppl Arm - Converter Overtemperature Alarm - A104	1610678563
+Hst 1/Right Ppl Arm - Dynamic Breaking Active Alarm - A105	1610678564
+Hst 1/Right Ppl Arm - Motor 1 Overtemperature Alarm - A106	1610678565
+Hst 1/Right Ppl Arm - Motor 1 Calculated Overload Alarm - A107	1610678566
+Hst 1/Right Ppl Arm - Motor 2 Overtemperature Alarm - A109	1610678568
+Hst 1/Right Ppl Arm - Motor 2 Calculated Overload Alarm - A110	1610678569
+Hst 1/Right Ppl Arm - Mains Undervoltage Alarm - A111	1610678570
+Hst 1/Right Ppl Arm - P2P/MF Communication Alarm - A112	1610678571
+Hst 1/Right Ppl Arm - COM 8 Communication Alarm - A113	1610678572
+Hst 1/Right Ppl Arm - Armature Current Deviation Alarm - A114	1610678573
+Hst 1/Right Ppl Arm - Tach Range Alarm - A115	1610678574
+Hst 1/Right Ppl Arm - Mechanical Brake Alarm - A116	1610678575
+Hst 1/Right Ppl Arm - Armature Current Ripple Alarm - A117	1610678576
+Hst 1/Right Ppl Arm - New Application Alarm - A118	1610678577
+Hst 1/Right Ppl Arm - Application Difference Alarm - A119	1610678578
+Hst 1/Right Ppl Arm - Overvoltage Alarm - A120	1610678579
+Hst 1/Right Ppl Arm - Autotune Failure Alarm - A121	1610678580
+Hst 1/Right Ppl Arm - Mechanical Brake Alarm - A122	1610678581
+Hst 1/Right Ppl Arm - Fault Suppression Alarm - A123	1610678582
+Hst 1/Right Ppl Arm - Speed Scaling Range Alarm - A124	1610678583
+Hst 1/Right Ppl Arm - Speed Feedback Alarm - A125	1610678584
+Hst 1/Right Ppl Arm - External DI Alarm - A126	1610678585
+Hst 1/Right Ppl Arm - Analog Input Undershoot Alarm - A127	1610678586
+Hst 1/Right Ppl Arm - Fieldbus Communication Alarm - A128	1610678587
+Hst 1/Right Ppl Arm - Parameter Restored Alarm - A129	1610678588
+Hst 1/Right Ppl Arm - Local Command Loss Alarm - A130	1610678589
+Hst 1/Right Ppl Arm - Parameter Added Alarm - A131	1610678592
+Hst 1/Right Ppl Arm - Parameter Conflict Alarm - A132	1610678593
+Hst 1/Right Ppl Arm - Parameter Compatibility Alarm - A134	1610678595
+Hst 1/Right Ppl Arm - Parameter Up/Download Failure Alarm - A135	1610678596
+Hst 1/Right Ppl Arm - AP Task Time Alarm - A136	1610678597
+Hst 1/Right Ppl Arm - Speed Not Zero Alarm - A137	1610678598
+Hst 1/Right Ppl Arm - Off 2 Via Fieldbus Alarm - A138	1610678599
+Hst 1/Right Ppl Arm - Off 3 Via Fieldbus Alarm - A139	1610678600
+Hst 1/Right Ppl Arm - Illegal Fieldbus Setting Alarm - A140	1610678601
+Hst 1/Right Ppl Arm - COM8 Firmware Alarm - A141	1610678602
+Hst 1/Right Ppl Arm - Memory Card Missing Alarm - A142	1610678603
+Hst 1/Right Ppl Arm - Memory Card Failure Alarm - A143	1610678604
+Hst 1/Right Ppl Arm - User 1 Alarm - A301	1610678605
+Hst 1/Right Ppl Arm - User 2 Alarm - A302	1610678606
+Hst 1/Right Ppl Arm - User 3 Alarm - A303	1610678607
+Hst 1/Right Ppl Arm - User 4 Alarm - A304	1610678608
+Hst 1/Right Ppl Arm - User 5 Alarm - A305	1610678609
+Hst 2 Arm - Off2 Emergency Off Alarm - A101	1610678610
+Hst 2 Arm - Off3 Emergency Stop Alarm - A102	1610678611
+Hst 2 Arm - DC Breaker Ack Alarm - A103	1610678612
+Hst 2 Arm - Converter Overtemperature Alarm - A104	1610678613
+Hst 2 Arm - Dynamic Breaking Active Alarm - A105	1610678614
+Hst 2 Arm - Motor 1 Overtemperature Alarm - A106	1610678615
+Hst 2 Arm - Motor 1 Calculated Overload Alarm - A107	1610678616
+Hst 2 Arm - Motor 2 Overtemperature Alarm - A109	1610678618
+Hst 2 Arm - Motor 2 Calculated Overload Alarm - A110	1610678619
+Hst 2 Arm - Mains Undervoltage Alarm - A111	1610678620
+Hst 2 Arm - P2P/MF Communication Alarm - A112	1610678621
+Hst 2 Arm - COM 8 Communication Alarm - A113	1610678624
+Hst 2 Arm - Armature Current Deviation Alarm - A114	1610678625
+Hst 2 Arm - Tach Range Alarm - A115	1610678626
+Hst 2 Arm - Mechanical Brake Alarm - A116	1610678627
+Hst 2 Arm - Armature Current Ripple Alarm - A117	1610678628
+Hst 2 Arm - New Application Alarm - A118	1610678629
+Hst 2 Arm - Application Difference Alarm - A119	1610678630
+Hst 2 Arm - Overvoltage Alarm - A120	1610678631
+Hst 2 Arm - Autotune Failure Alarm - A121	1610678632
+Hst 2 Arm - Mechanical Brake Alarm - A122	1610678633
+Hst 2 Arm - Fault Suppression Alarm - A123	1610678634
+Hst 2 Arm - Speed Scaling Range Alarm - A124	1610678635
+Hst 2 Arm - Speed Feedback Alarm - A125	1610678636
+Hst 2 Arm - External DI Alarm - A126	1610678637
+Hst 2 Arm - Analog Input Undershoot Alarm - A127	1610678638
+Hst 2 Arm - Fieldbus Communication Alarm - A128	1610678639
+Hst 2 Arm - Parameter Restored Alarm - A129	1610678640
+Hst 2 Arm - Local Command Loss Alarm - A130	1610678641
+Hst 2 Arm - Parameter Added Alarm - A131	1610678642
+Hst 2 Arm - Parameter Conflict Alarm - A132	1610678643
+Hst 2 Arm - Parameter Compatibility Alarm - A134	1610678645
+Hst 2 Arm - Parameter Up/Download Failure Alarm - A135	1610678646
+Hst 2 Arm - AP Task Time Alarm - A136	1610678647
+Hst 2 Arm - Speed Not Zero Alarm - A137	1610678648
+Hst 2 Arm - Off 2 Via Fieldbus Alarm - A138	1610678649
+Hst 2 Arm - Off 3 Via Fieldbus Alarm - A139	1610678650
+Hst 2 Arm - Illegal Fieldbus Setting Alarm - A140	1610678651
+Hst 2 Arm - COM8 Firmware Alarm - A141	1610678652
+Hst 2 Arm - Memory Card Missing Alarm - A142	1610678653
+Hst 2 Arm - Memory Card Failure Alarm - A143	1610678656
+Hst 2 Arm - User 1 Alarm - A301	1610678657
+Hst 2 Arm - User 2 Alarm - A302	1610678658
+Hst 2 Arm - User 3 Alarm - A303	1610678659
+Hst 2 Arm - User 4 Alarm - A304	1610678660
+Hst 2 Arm - User 5 Alarm - A305	1610678661
+Cwd/Left Ppl Arm - Off2 Emergency Off Alarm - A101	1610678662
+Cwd/Left Ppl Arm - Off3 Emergency Stop Alarm - A102	1610678663
+Cwd/Left Ppl Arm - DC Breaker Ack Alarm - A103	1610678664
+Cwd/Left Ppl Arm - Converter Overtemperature Alarm - A104	1610678665
+Cwd/Left Ppl Arm - Dynamic Breaking Active Alarm - A105	1610678666
+Cwd/Left Ppl Arm - Motor 1 Overtemperature Alarm - A106	1610678667
+Cwd/Left Ppl Arm - Motor 1 Calculated Overload Alarm - A107	1610678668
+Cwd/Left Ppl Arm - Motor 2 Overtemperature Alarm - A109	1610678670
+Cwd/Left Ppl Arm - Motor 2 Calculated Overload Alarm - A110	1610678671
+Cwd/Left Ppl Arm - Mains Undervoltage Alarm - A111	1610678672
+Cwd/Left Ppl Arm - P2P/MF Communication Alarm - A112	1610678673
+Cwd/Left Ppl Arm - COM 8 Communication Alarm - A113	1610678674
+Cwd/Left Ppl Arm - Armature Current Deviation Alarm - A114	1610678675
+Cwd/Left Ppl Arm - Tach Range Alarm - A115	1610678676
+Cwd/Left Ppl Arm - Mechanical Brake Alarm - A116	1610678677
+Cwd/Left Ppl Arm - Armature Current Ripple Alarm - A117	1610678678
+Cwd/Left Ppl Arm - New Application Alarm - A118	1610678679
+Cwd/Left Ppl Arm - Application Difference Alarm - A119	1610678680
+Cwd/Left Ppl Arm - Overvoltage Alarm - A120	1610678681
+Cwd/Left Ppl Arm - Autotune Failure Alarm - A121	1610678682
+Cwd/Left Ppl Arm - Mechanical Brake Alarm - A122	1610678683
+Cwd/Left Ppl Arm - Fault Suppression Alarm - A123	1610678684
+Cwd/Left Ppl Arm - Speed Scaling Range Alarm - A124	1610678685
+Cwd/Left Ppl Arm - Speed Feedback Alarm - A125	1610678688
+Cwd/Left Ppl Arm - External DI Alarm - A126	1610678689
+Cwd/Left Ppl Arm - Analog Input Undershoot Alarm - A127	1610678690
+Cwd/Left Ppl Arm - Fieldbus Communication Alarm - A128	1610678691
+Cwd/Left Ppl Arm - Parameter Restored Alarm - A129	1610678692
+Cwd/Left Ppl Arm - Local Command Loss Alarm - A130	1610678693
+Cwd/Left Ppl Arm - Parameter Added Alarm - A131	1610678694
+Cwd/Left Ppl Arm - Parameter Conflict Alarm - A132	1610678695
+Cwd/Left Ppl Arm - Parameter Compatibility Alarm - A134	1610678697
+Cwd/Left Ppl Arm - Parameter Up/Download Failure Alarm - A135	1610678698
+Cwd/Left Ppl Arm - AP Task Time Alarm - A136	1610678699
+Cwd/Left Ppl Arm - Speed Not Zero Alarm - A137	1610678700
+Cwd/Left Ppl Arm - Off 2 Via Fieldbus Alarm - A138	1610678701
+Cwd/Left Ppl Arm - Off 3 Via Fieldbus Alarm - A139	1610678702
+Cwd/Left Ppl Arm - Illegal Fieldbus Setting Alarm - A140	1610678703
+Cwd/Left Ppl Arm - COM8 Firmware Alarm - A141	1610678704
+Cwd/Left Ppl Arm - Memory Card Missing Alarm - A142	1610678705
+Cwd/Left Ppl Arm - Memory Card Failure Alarm - A143	1610678706
+Cwd/Left Ppl Arm - User 1 Alarm - A301	1610678707
+Cwd/Left Ppl Arm - User 2 Alarm - A302	1610678708
+Cwd/Left Ppl Arm - User 3 Alarm - A303	1610678709
+Cwd/Left Ppl Arm - User 4 Alarm - A304	1610678710
+Cwd/Left Ppl Arm - User 5 Alarm - A305	1610678711
+Swg Arm - Off2 Emergency Off Alarm - A101	1610678712
+Swg Arm - Off3 Emergency Stop Alarm - A102	1610678713
+Swg Arm - DC Breaker Ack Alarm - A103	1610678714
+Swg Arm - Converter Overtemperature Alarm - A104	1610678715
+Swg Arm - Dynamic Breaking Active Alarm - A105	1610678716
+Swg Arm - Motor 1 Overtemperature Alarm - A106	1610678717
+Swg Arm - Motor 1 Calculated Overload Alarm - A107	1610678720
+Swg Arm - Motor 2 Overtemperature Alarm - A109	1610678722
+Swg Arm - Motor 2 Calculated Overload Alarm - A110	1610678723
+Swg Arm - Mains Undervoltage Alarm - A111	1610678724
+Swg Arm - P2P/MF Communication Alarm - A112	1610678725
+Swg Arm - COM 8 Communication Alarm - A113	1610678726
+Swg Arm - Armature Current Deviation Alarm - A114	1610678727
+Swg Arm - Tach Range Alarm - A115	1610678728
+Swg Arm - Mechanical Brake Alarm - A116	1610678729
+Swg Arm - Armature Current Ripple Alarm - A117	1610678730
+Swg Arm - New Application Alarm - A118	1610678731
+Swg Arm - Application Difference Alarm - A119	1610678732
+Swg Arm - Overvoltage Alarm - A120	1610678733
+Swg Arm - Autotune Failure Alarm - A121	1610678734
+Swg Arm - Mechanical Brake Alarm - A122	1610678735
+Swg Arm - Fault Suppression Alarm - A123	1610678736
+Swg Arm - Speed Scaling Range Alarm - A124	1610678737
+Swg Arm - Speed Feedback Alarm - A125	1610678738
+Swg Arm - External DI Alarm - A126	1610678739
+Swg Arm - Analog Input Undershoot Alarm - A127	1610678740
+Swg Arm - Fieldbus Communication Alarm - A128	1610678741
+Swg Arm - Parameter Restored Alarm - A129	1610678742
+Swg Arm - Local Command Loss Alarm - A130	1610678743
+Swg Arm - Parameter Added Alarm - A131	1610678744
+Swg Arm - Parameter Conflict Alarm - A132	1610678745
+Swg Arm - Parameter Compatibility Alarm - A134	1610678747
+Swg Arm - Parameter Up/Download Failure Alarm - A135	1610678748
+Swg Arm - AP Task Time Alarm - A136	1610678749
+Swg Arm - Speed Not Zero Alarm - A137	1610678752
+Swg Arm - Off 2 Via Fieldbus Alarm - A138	1610678753
+Swg Arm - Off 3 Via Fieldbus Alarm - A139	1610678754
+Swg Arm - Illegal Fieldbus Setting Alarm - A140	1610678755
+Swg Arm - COM8 Firmware Alarm - A141	1610678756
+Swg Arm - Memory Card Missing Alarm - A142	1610678757
+Swg Arm - Memory Card Failure Alarm - A143	1610678758
+Swg Arm - User 1 Alarm - A301	1610678759
+Swg Arm - User 2 Alarm - A302	1610678760
+Swg Arm - User 3 Alarm - A303	1610678761
+Swg Arm - User 4 Alarm - A304	1610678762
+Swg Arm - User 5 Alarm - A305	1610678763
+Hst Fld - Off2 Emergency Off Alarm - A101	1610678764
+Hst Fld - Off3 Emergency Stop Alarm - A102	1610678765
+Hst Fld - DC Breaker Ack Alarm - A103	1610678766
+Hst Fld - Converter Overtemperature Alarm - A104	1610678767
+Hst Fld - Dynamic Breaking Active Alarm - A105	1610678768
+Hst Fld - Motor 1 Overtemperature Alarm - A106	1610678769
+Hst Fld - Motor 1 Calculated Overload Alarm - A107	1610678770
+Hst Fld - Motor 2 Overtemperature Alarm - A109	1610678772
+Hst Fld - Motor 2 Calculated Overload Alarm - A110	1610678773
+Hst Fld - Mains Undervoltage Alarm - A111	1610678774
+Hst Fld - P2P/MF Communication Alarm - A112	1610678775
+Hst Fld - COM 8 Communication Alarm - A113	1610678776
+Hst Fld - Armature Current Deviation Alarm - A114	1610678777
+Hst Fld - Tach Range Alarm - A115	1610678778
+Hst Fld - Mechanical Brake Alarm - A116	1610678779
+Hst Fld - Armature Current Ripple Alarm - A117	1610678780
+Hst Fld - New Application Alarm - A118	1610678781
+Hst Fld - Application Difference Alarm - A119	1610678784
+Hst Fld - Overvoltage Alarm - A120	1610678785
+Hst Fld - Autotune Failure Alarm - A121	1610678786
+Hst Fld - Mechanical Brake Alarm - A122	1610678787
+Hst Fld - Fault Suppression Alarm - A123	1610678788
+Hst Fld - Speed Scaling Range Alarm - A124	1610678789
+Hst Fld - Speed Feedback Alarm - A125	1610678790
+Hst Fld - External DI Alarm - A126	1610678791
+Hst Fld - Analog Input Undershoot Alarm - A127	1610678792
+Hst Fld - Fieldbus Communication Alarm - A128	1610678793
+Hst Fld - Parameter Restored Alarm - A129	1610678794
+Hst Fld - Local Command Loss Alarm - A130	1610678795
+Hst Fld - Parameter Added Alarm - A131	1610678796
+Hst Fld - Parameter Conflict Alarm - A132	1610678797
+Hst Fld - Parameter Compatibility Alarm - A134	1610678799
+Hst Fld - Parameter Up/Download Failure Alarm - A135	1610678800
+Hst Fld - AP Task Time Alarm - A136	1610678801
+Hst Fld - Speed Not Zero Alarm - A137	1610678802
+Hst Fld - Off 2 Via Fieldbus Alarm - A138	1610678803
+Hst Fld - Off 3 Via Fieldbus Alarm - A139	1610678804
+Hst Fld - Illegal Fieldbus Setting Alarm - A140	1610678805
+Hst Fld - COM8 Firmware Alarm - A141	1610678806
+Hst Fld - Memory Card Missing Alarm - A142	1610678807
+Hst Fld - Memory Card Failure Alarm - A143	1610678808
+Hst Fld - User 1 Alarm - A301	1610678809
+Hst Fld - User 2 Alarm - A302	1610678810
+Hst Fld - User 3 Alarm - A303	1610678811
+Hst Fld - User 4 Alarm - A304	1610678812
+Hst Fld - User 5 Alarm - A305	1610678813
+Cwd/Ppl Fld - Off2 Emergency Off Alarm - A101	1610678816
+Cwd/Ppl Fld - Off3 Emergency Stop Alarm - A102	1610678817
+Cwd/Ppl Fld - DC Breaker Ack Alarm - A103	1610678818
+Cwd/Ppl Fld - Converter Overtemperature Alarm - A104	1610678819
+Cwd/Ppl Fld - Dynamic Breaking Active Alarm - A105	1610678820
+Cwd/Ppl Fld - Motor 1 Overtemperature Alarm - A106	1610678821
+Cwd/Ppl Fld - Motor 1 Calculated Overload Alarm - A107	1610678822
+Cwd/Ppl Fld - Motor 2 Overtemperature Alarm - A109	1610678824
+Cwd/Ppl Fld - Motor 2 Calculated Overload Alarm - A110	1610678825
+Cwd/Ppl Fld - Mains Undervoltage Alarm - A111	1610678826
+Cwd/Ppl Fld - P2P/MF Communication Alarm - A112	1610678827
+Cwd/Ppl Fld - COM 8 Communication Alarm - A113	1610678828
+Cwd/Ppl Fld - Armature Current Deviation Alarm - A114	1610678829
+Cwd/Ppl Fld - Tach Range Alarm - A115	1610678830
+Cwd/Ppl Fld - Mechanical Brake Alarm - A116	1610678831
+Cwd/Ppl Fld - Armature Current Ripple Alarm - A117	1610678832
+Cwd/Ppl Fld - New Application Alarm - A118	1610678833
+Cwd/Ppl Fld - Application Difference Alarm - A119	1610678834
+Cwd/Ppl Fld - Overvoltage Alarm - A120	1610678835
+Cwd/Ppl Fld - Autotune Failure Alarm - A121	1610678836
+Cwd/Ppl Fld - Mechanical Brake Alarm - A122	1610678837
+Cwd/Ppl Fld - Fault Suppression Alarm - A123	1610678838
+Cwd/Ppl Fld - Speed Scaling Range Alarm - A124	1610678839
+Cwd/Ppl Fld - Speed Feedback Alarm - A125	1610678840
+Cwd/Ppl Fld - External DI Alarm - A126	1610678841
+Cwd/Ppl Fld - Analog Input Undershoot Alarm - A127	1610678842
+Cwd/Ppl Fld - Fieldbus Communication Alarm - A128	1610678843
+Cwd/Ppl Fld - Parameter Restored Alarm - A129	1610678844
+Cwd/Ppl Fld - Local Command Loss Alarm - A130	1610678845
+Cwd/Ppl Fld - Parameter Added Alarm - A131	1610678848
+Cwd/Ppl Fld - Parameter Conflict Alarm - A132	1610678849
+Cwd/Ppl Fld - Parameter Compatibility Alarm - A134	1610678851
+Cwd/Ppl Fld - Parameter Up/Download Failure Alarm - A135	1610678852
+Cwd/Ppl Fld - AP Task Time Alarm - A136	1610678853
+Cwd/Ppl Fld - Speed Not Zero Alarm - A137	1610678854
+Cwd/Ppl Fld - Off 2 Via Fieldbus Alarm - A138	1610678855
+Cwd/Ppl Fld - Off 3 Via Fieldbus Alarm - A139	1610678856
+Cwd/Ppl Fld - Illegal Fieldbus Setting Alarm - A140	1610678857
+Cwd/Ppl Fld - COM8 Firmware Alarm - A141	1610678858
+Cwd/Ppl Fld - Memory Card Missing Alarm - A142	1610678859
+Cwd/Ppl Fld - Memory Card Failure Alarm - A143	1610678860
+Cwd/Ppl Fld - User 1 Alarm - A301	1610678861
+Cwd/Ppl Fld - User 2 Alarm - A302	1610678862
+Cwd/Ppl Fld - User 3 Alarm - A303	1610678863
+Cwd/Ppl Fld - User 4 Alarm - A304	1610678864
+Cwd/Ppl Fld - User 5 Alarm - A305	1610678865
+Swg Fld - Off2 Emergency Off Alarm - A101	1610678866
+Swg Fld - Off3 Emergency Stop Alarm - A102	1610678867
+Swg Fld - DC Breaker Ack Alarm - A103	1610678868
+Swg Fld - Converter Overtemperature Alarm - A104	1610678869
+Swg Fld - Dynamic Breaking Active Alarm - A105	1610678870
+Swg Fld - Motor 1 Overtemperature Alarm - A106	1610678871
+Swg Fld - Motor 1 Calculated Overload Alarm - A107	1610678872
+Swg Fld - Motor 2 Overtemperature Alarm - A109	1610678874
+Swg Fld - Motor 2 Calculated Overload Alarm - A110	1610678875
+Swg Fld - Mains Undervoltage Alarm - A111	1610678876
+Swg Fld - P2P/MF Communication Alarm - A112	1610678877
+Swg Fld - COM 8 Communication Alarm - A113	1610678880
+Swg Fld - Armature Current Deviation Alarm - A114	1610678881
+Swg Fld - Tach Range Alarm - A115	1610678882
+Swg Fld - Mechanical Brake Alarm - A116	1610678883
+Swg Fld - Armature Current Ripple Alarm - A117	1610678884
+Swg Fld - New Application Alarm - A118	1610678885
+Swg Fld - Application Difference Alarm - A119	1610678886
+Swg Fld - Overvoltage Alarm - A120	1610678887
+Swg Fld - Autotune Failure Alarm - A121	1610678888
+Swg Fld - Mechanical Brake Alarm - A122	1610678889
+Swg Fld - Fault Suppression Alarm - A123	1610678890
+Swg Fld - Speed Scaling Range Alarm - A124	1610678891
+Swg Fld - Speed Feedback Alarm - A125	1610678892
+Swg Fld - External DI Alarm - A126	1610678893
+Swg Fld - Analog Input Undershoot Alarm - A127	1610678894
+Swg Fld - Fieldbus Communication Alarm - A128	1610678895
+Swg Fld - Parameter Restored Alarm - A129	1610678896
+Swg Fld - Local Command Loss Alarm - A130	1610678897
+Swg Fld - Parameter Added Alarm - A131	1610678898
+Swg Fld - Parameter Conflict Alarm - A132	1610678899
+Swg Fld - Parameter Compatibility Alarm - A134	1610678901
+Swg Fld - Parameter Up/Download Failure Alarm - A135	1610678902
+Swg Fld - AP Task Time Alarm - A136	1610678903
+Swg Fld - Speed Not Zero Alarm - A137	1610678904
+Swg Fld - Off 2 Via Fieldbus Alarm - A138	1610678905
+Swg Fld - Off 3 Via Fieldbus Alarm - A139	1610678906
+Swg Fld - Illegal Fieldbus Setting Alarm - A140	1610678907
+Swg Fld - COM8 Firmware Alarm - A141	1610678908
+Swg Fld - Memory Card Missing Alarm - A142	1610678909
+Swg Fld - Memory Card Failure Alarm - A143	1610678912
+Swg Fld - User 1 Alarm - A301	1610678913
+Swg Fld - User 2 Alarm - A302	1610678914
+Swg Fld - User 3 Alarm - A303	1610678915
+Swg Fld - User 4 Alarm - A304	1610678916
+Swg Fld - User 5 Alarm - A305	1610678917
+Hoist Joystick Positive Channel Disconnected	1610678918
+Hoist Joystick Positive Channel Under Range	1610678919
+Hoist Joystick Positive Channel Over Range	1610678920
+Hoist Joystick Negative Channel Disconnected	1610678921
+Hoist Joystick Negative Channel Under Range	1610678922
+Hoist Joystick Negative Channel Over Range	1610678923
+Crowd Joystick Positive Channel Disconnected	1610678924
+Crowd Joystick Positive Channel Under Range	1610678925
+Crowd Joystick Positive Channel Over Range	1610678926
+Crowd Joystick Negative Channel Disconnected	1610678927
+Crowd Joystick Negative Channel Under Range	1610678928
+Crowd Joystick Negative Channel Over Range	1610678929
+Swing Joystick Positive Channel Disconnected	1610678930
+Swing Joystick Positive Channel Under Range	1610678931
+Swing Joystick Positive Channel Over Range	1610678932
+Swing Joystick Negative Channel Disconnected	1610678933
+Swing Joystick Negative Channel Under Range	1610678934
+Swing Joystick Negative Channel Over Range	1610678935
+Crowd Belt Tension - Build Pressure Fault	1610678936
+Crowd Belt Tension - Pressure Deviation Fault	1610678937
+Crowd Belt Tension - Auto Cycle Interrupted	1610678938
+Crowd Belt Tension - Pump Starter Fault	1610678939
+Strain Control Enabled	1610678940
+Strain Control Disabled	1610678941
+Rear Hoist Brake Air Pressure High	1610678944
+Rear Hoist Brake Air Pressure Low	1610678945
+Rear Hoist Brake Excessive Release Time	1610678946
+Rear Hoist Brake Excessive Set Time	1610678947
+Front Hoist Brake Air Pressure High	1610678948
+Front Hoist Brake Air Pressure Low	1610678949
+Front Hoist Brake Excessive Release Time	1610678950
+Front Hoist Brake Excessive Set Time	1610678951
+Crowd Brake Air Pressure High	1610678952
+Crowd Brake Air Pressure Low	1610678953
+Crowd Brake Excessive Release Time	1610678954
+Crowd Brake Excessive Set Time	1610678955
+Right Propel Brake Air Pressure High	1610678956
+Right Propel Brake Air Pressure Low	1610678957
+Right Propel Brake Excessive Release Time	1610678958
+Right Propel Brake Excessive Set Time	1610678959
+Left Propel Brake Air Pressure High	1610678960
+Left Propel Brake Air Pressure Low	1610678961
+Left Propel Brake Excessive Release Time	1610678962
+Left Propel Brake Excessive Set Time	1610678963
+Front Swing Brake Air Pressure High	1610678964
+Front Swing Brake Air Pressure Low	1610678965
+Front Swing Brake Excessive Release Time	1610678966
+Front Swing Brake Excessive Set Time	1610678967
+Rear Swing Brake Air Pressure High	1610678968
+Rear Swing Brake Air Pressure Low	1610678969
+Rear Swing Brake Excessive Release Time	1610678970
+Rear Swing Brake Excessive Set Time	1610678971
+Left Front Swing Brake Air Pressure High	1610678972
+Left Front Swing Brake Air Pressure Low	1610678973
+Left Front Swing Brake Excessive Release Time	1610678976
+Left Front Swing Brake Excessive Set Time	1610678977
+Right Front Swing Brake Air Pressure High	1610678978
+Right Front Swing Brake Air Pressure Low	1610678979
+Right Front Swing Brake Excessive Release Time	1610678980
+Right Front Swing Brake Excessive Set Time	1610678981
+Right Rear Swing Brake Air Pressure High	1610678982
+Right Rear Swing Brake Air Pressure Low	1610678983
+Right Rear Swing Brake Excessive Release Time	1610678984
+Right Rear Swing Brake Excessive Set Time	1610678985
+Left Rear Swing Brake Air Pressure High	1610678986
+Left Rear Swing Brake Air Pressure Low	1610678987
+Left Rear Swing Brake Excessive Release Time	1610678988
+Left Rear Swing Brake Excessive Set Time	1610678989
+Boom Jack Resolver Disconnected	1610678990
+Front To Back Inclinometer Disconnected	1610678991
+Right To Left Inclinometer Disconnected	1610678992
+Crowd Brake Transducer Disconnected	1610678993
+Front Hoist Brake Transducer Disconnected	1610678994
+Front Swing Brake Transducer Disconnected	1610678995
+Left Front Swing Brake Transducer Disconnected	1610678996
+Left Propel Brake Transducer Disconnected	1610678997
+Left Rear Swing Brake Transducer Disconnected	1610678998
+Rear Hoist Brake Transducer Disconnected	1610678999
+Rear Swing Brake Transducer Disconnected	1610679000
+Right Front Swing Brake Transducer Disconnected	1610679001
+Right Propel Brake Transducer Disconnected	1610679002
+Right Rear Swing Brake Transducer Disconnected	1610679003
+Stratix Switch Communication Fault	1610679004
+Crowd Belt Slip	1610679005
+Hoist Brakes Did Not Set	1610679008
+Hoist Brakes Did Not Release	1610679009
+Swing Brakes Did Not Set	1610679010
+Swing Brakes Did Not Release	1610679011
+Crowd Brake Did Not Set	1610679012
+Crowd Brake Did Not Release	1610679013
+Machine Started With Anti Boom Jacking Disabled	1610679014
+Boom Jack Resolver Out Of Range	1610679015
+Air Filtration Communication Fault	1610679016
+Crowd Belt Tension Not Complete	1610679017
+Left Propel Brake Did Not Set	1610679018
+Left Propel Brake Did Not Release	1610679019
+Right Propel Brake Did Not Set	1610679020
+Right Propel Brake Did Not Release	1610679021
+Started In Motivator Mode	1610679022
+Boom Limits Reset	1610679023
+Started In Remote Hoist	1610679024
+Front Hoist Brake Pressure Drop Warning	1610679025
+Rear Hoist Brake Pressure Drop Warning	1610679026
+Crowd Brake Pressure Drop Warning	1610679027
+Left Front Swing Brake Pressure Drop Warning	1610679028
+Right Front Swing Brake Pressure Drop Warning	1610679029
+Rear Swing Brake Pressure Drop Warning	1610679030
+Left Rear Swing Brake Pressure Drop Warning	1610679031
+Right Rear Swing Brake Pressure Drop Warning	1610679032
+Right Propel Brake Pressure Drop Warning	1610679033
+Left Propel Brake Pressure Drop Warning	1610679034
+Front Swing Brake Pressure Drop Warning	1610679035
+Boom Jack Reduction Disabled	1610679036
+Boom Jack Reduction Enabled	1610679037
+AC800M Battery Low Or Missing	1610679040
+Machine Started With Hoist Slack Rope Bypassed	1610679041
+Control Supply Earth Leakage Warning	1610679042
+Relay Supply Earth Leakage Warning	1610679043
+Alarms.Word25.4	1610679044
+Alarms.Word25.5	1610679045
+Alarms.Word25.6	1610679046
+Alarms.Word25.7	1610679047
+Alarms.Word25.8	1610679048
+Alarms.Word25.9	1610679049
+Alarms.Word25.10	1610679050
+Alarms.Word25.11	1610679051
+Alarms.Word25.12	1610679052
+Alarms.Word25.13	1610679053
+Alarms.Word25.14	1610679054
+Alarms.Word25.15	1610679055
+Alarms.Word25.16	1610679056
+Alarms.Word25.17	1610679057
+Alarms.Word25.18	1610679058
+Alarms.Word25.19	1610679059
+Alarms.Word25.20	1610679060
+Alarms.Word25.21	1610679061
+Alarms.Word25.22	1610679062
+Alarms.Word25.23	1610679063
+Alarms.Word25.24	1610679064
+Alarms.Word25.25	1610679065
+Alarms.Word25.26	1610679066
+Alarms.Word25.27	1610679067
+Alarms.Word25.28	1610679068
+Alarms.Word25.29	1610679069
+Alarms.Word26.0	1610679072
+Alarms.Word26.1	1610679073
+Alarms.Word26.2	1610679074
+Alarms.Word26.3	1610679075
+Alarms.Word26.4	1610679076
+Alarms.Word26.5	1610679077
+Alarms.Word26.6	1610679078
+Alarms.Word26.7	1610679079
+Alarms.Word26.8	1610679080
+Alarms.Word26.9	1610679081
+Alarms.Word26.10	1610679082
+Alarms.Word26.11	1610679083
+Alarms.Word26.12	1610679084
+Alarms.Word26.13	1610679085
+Alarms.Word26.14	1610679086
+Alarms.Word26.15	1610679087
+Alarms.Word26.16	1610679088
+Alarms.Word26.17	1610679089
+Alarms.Word26.18	1610679090
+Alarms.Word26.19	1610679091
+Alarms.Word26.20	1610679092
+Alarms.Word26.21	1610679093
+Alarms.Word26.22	1610679094
+Alarms.Word26.23	1610679095
+Alarms.Word26.24	1610679096
+Alarms.Word26.25	1610679097
+Alarms.Word26.26	1610679098
+Alarms.Word26.27	1610679099
+Alarms.Word26.28	1610679100
+Alarms.Word26.29	1610679101
+Front Hoist Blower Starter Fault	1610679104
+Rear Hoist Blower Starter Fault	1610679105
+Left Front Swing Blower Starter Fault	1610679106
+Right Front Swing Blower Starter Fault	1610679107
+Rear Swing Blower Starter Fault	1610679108
+Right Rear Swing Blower Starter Fault	1610679109
+Crowd Blower Starter Fault	1610679110
+Right Propel Blower Starter Fault	1610679111
+Left Propel Blower Starter Fault	1610679112
+Left Front Swing Lube Pump Starter Fault	1610679113
+Right Front Swing Lube Pump Starter Fault	1610679114
+Rear Swing Lube Pump Starter Fault	1610679115
+Hoist Lube Pump Starter Fault	1610679116
+Crowd Lube Pump Starter Fault	1610679117
+Hoist 1 Converter Blower Starter Fault	1610679118
+Hoist 2 Converter Blower Starter Fault	1610679119
+Swing Converter Blower Starter Fault	1610679120
+Crowd Converter Blower Starter Fault	1610679121
+Right House Blower Starter Fault	1610679122
+Left House Blower Starter Fault	1610679123
+Dipper Trip #1 Starter Fault	1610679124
+Dipper Trip #2 Starter Fault	1610679125
+RPC Half & Bank 1 Blower Starter Fault	1610679126
+RPC Switching Cabinet Blower Starter Fault	1610679127
+RPC Bank 2 & 3 Blower Starter Fault	1610679128
+RPC Bank 4 Blower Starter Fault	1610679129
+Right Bleed Blower Starter Fault	1610679130
+Left Bleed Blower Starter Fault	1610679131
+Main Air Pressure Low Fault	1610679132
+Diverter Power Supply Monitor Fault	1610679133
+Suppression Circuit Breaker Fault	1610679136
+Control Cabinet Blower Starter Fault	1610679137
+Lube Fault - Upper Grease Building Pressure	1610679138
+Lube Fault - Upper Grease Venting Pressure	1610679139
+Lube Fault - Lower Grease Building Pressure	1610679140
+Lube Fault - Lower Grease Venting Pressure	1610679141
+Lube Fault - Upper Open Gear Building Pressure	1610679142
+Lube Fault - Upper Open Gear Venting Pressure	1610679143
+Lube Fault - Lower Open Gear Building Pressure	1610679144
+Lube Fault - Lower Open Gear Venting Pressure	1610679145
+Main Transformer Ground Fault	1610679146
+Auxiliary Transformer Ground Fault	1610679147
+Field Winding Ground Fault	1610679148
+RPC Pressure Switch Fault - Bank 1 Phase AB	1610679149
+RPC Pressure Switch Fault - Bank 1 Phase BC	1610679150
+RPC Pressure Switch Fault - Bank 1 Phase CA	1610679151
+RPC Pressure Switch Fault - Bank 2 Phase AB	1610679152
+RPC Pressure Switch Fault - Bank 2 Phase BC	1610679153
+RPC Pressure Switch Fault - Bank 2 Phase CA	1610679154
+RPC Pressure Switch Fault - Bank 3 Phase AB	1610679155
+RPC Pressure Switch Fault - Bank 3 Phase BC	1610679156
+RPC Pressure Switch Fault - Bank 3 Phase CA	1610679157
+RPC Pressure Switch Fault - Bank 4 Phase AB	1610679158
+RPC Pressure Switch Fault - Bank 4 Phase BC	1610679159
+RPC Pressure Switch Fault - Bank 4 Phase CA	1610679160
+RPC Pressure Switch Fault - Half Bank Phase AB	1610679161
+RPC Pressure Switch Fault - Half Bank Phase BC	1610679162
+RPC Pressure Switch Fault - Half Bank Phase CA	1610679163
+Propel Brake Maintenance Switch Fault	1610679164
+DC Ground Fault	1610679165
+Lower IO Supply Circuit Breaker Fault	1610679168
+RPC Half Bank Circuit Breaker Fault	1610679169
+RPC Bank 1 Circuit Breaker Fault	1610679170
+RPC Bank 2 Circuit Breaker Fault	1610679171
+RPC Bank 3 Circuit Breaker Fault	1610679172
+RPC Bank 4 Circuit Breaker Fault	1610679173
+Hst 1/Right Ppl Converter Thermal Overload Switch Fault	1610679174
+Hst 2 Converter Thermal Overload Switch Fault	1610679175
+Swg Converter Thermal Overload Switch Fault	1610679176
+Cwd/Left Ppl Converter Thermal Overload Switch Fault	1610679177
+Dipper Trip - Contactor Fault F001	1610679178
+Dipper Trip - Pre-Charge Fault F002	1610679179
+Dipper Trip - DC Link Overvoltage Fault F006	1610679180
+Dipper Trip - DC Link Undervoltage Fault F008	1610679181
+Dipper Trip - Overcurrent Fault F011	1610679182
+Dipper Trip - Drive Fault F015	1610679183
+Dipper Trip - Drive Fault F017	1610679184
+Dipper Trip - Motor Overtemperature Fault F020	1610679185
+Dipper Trip - Motor Thermal Overload Fault F021	1610679186
+Dipper Trip - Drive Overtemperature Fault F023	1610679187
+Dipper Trip - Drive Fault F025	1610679188
+Dipper Trip - Drive Fault F026	1610679189
+Dipper Trip - Drive Fault F027	1610679190
+Dipper Trip - Drive Fault F029	1610679191
+Dipper Trip - Drive Fault F035	1610679192
+Dipper Trip - Drive Fault F036	1610679193
+Dipper Trip - Drive Fault F038	1610679194
+Dipper Trip - Drive Fault F040	1610679195
+Dipper Trip - Drive Fault F041	1610679196
+Dipper Trip - Drive Fault F042	1610679197
+Dipper Trip - Drive Fault F043	1610679200
+Dipper Trip - Drive Fault F044	1610679201
+Dipper Trip - Drive Fault F045	1610679202
+Dipper Trip - Drive Fault F046	1610679203
+Dipper Trip - Encoder Fault F051	1610679204
+Dipper Trip - Drive Fault F053	1610679205
+Dipper Trip - Drive Fault F054	1610679206
+Dipper Trip - Drive Fault F056	1610679207
+Dipper Trip - Drive Fault F058	1610679208
+Dipper Trip - Drive Fault F059	1610679209
+Dipper Trip - Drive Fault F060	1610679210
+Dipper Trip - Drive Fault F061	1610679211
+Dipper Trip - Drive Fault F063	1610679212
+Dipper Trip - Drive Fault F065	1610679213
+Dipper Trip - Drive Fault F070	1610679214
+Dipper Trip - Drive Fault F072	1610679215
+Dipper Trip - Drive Fault F073	1610679216
+Dipper Trip - Drive Fault F074	1610679217
+Dipper Trip - Drive Fault F075	1610679218
+Dipper Trip - Drive Fault F076	1610679219
+Dipper Trip - Drive Fault F077	1610679220
+Dipper Trip - Drive Fault F078	1610679221
+Dipper Trip - Drive Fault F079	1610679222
+Dipper Trip - Drive Fault F080	1610679223
+Dipper Trip - Drive Fault F081	1610679224
+Dipper Trip - Drive Fault F082	1610679225
+Dipper Trip - Drive Fault F085	1610679226
+Dipper Trip - Drive Fault F087	1610679227
+Dipper Trip - Drive Fault F099	1610679228
+Dipper Trip - Drive Fault F109	1610679229
+Dipper Trip - Drive Fault F111	1610679232
+Dipper Trip - Drive Fault F112	1610679233
+Dipper Trip - Drive Fault F114	1610679234
+Hoist Lube Variable Freq Drive Fault	1610679235
+Lower Aux Supply Circuit Breaker Fault - Ppl Cabinet	1610679236
+Lower Supply Circuit Breaker - Aux Cabinet	1610679237
+Right Front Swing Motor Drive End Bearing Temperature Fault	1610679238
+Right Front Swing Motor Non Drive End Bearing Temperature Fault	1610679239
+Right Front Swing Motor Interpole Winding Temperature Fault	1610679240
+Right Front Swing Motor Field Winding Temperature Fault	1610679241
+Right Front Swing Motor Shaft Bearing Temperature Fault	1610679242
+Right Front Swing Gearcase Oil Temperature Fault	1610679243
+Left Front Swing Motor Drive End Bearing Temperature Fault	1610679244
+Left Front Swing Motor Non Drive End Bearing Temperature Fault	1610679245
+Left Front Swing Motor Interpole Winding Temperature Fault	1610679246
+Left Front Swing Motor Field Winding Temperature Fault	1610679247
+Left Front Swing Motor Shaft Bearing Temperature Fault	1610679248
+Left Front Swing Gearcase Oil Temperature Fault	1610679249
+Swing Resistor Blower Fault	1610679250
+Rear Hoist Motor Drive End Bearing Temperature Fault	1610679251
+Rear Hoist Motor Non Drive End Bearing Temperature Fault	1610679252
+Rear Hoist Motor Interpole Winding Temperature Fault	1610679253
+Rear Hoist Motor Field Winding Temperature Fault	1610679254
+Rear Swing Motor Drive End Bearing Temperature Fault	1610679255
+Rear Swing Motor Non Drive End Bearing Temperature Fault	1610679256
+Rear Swing Motor Interpole Winding Temperature Fault	1610679257
+Rear Swing Motor Field Winding Temperature Fault	1610679258
+Rear Swing Motor Shaft Bearing Temperature Fault	1610679259
+Rear Swing Gearcase Oil Temperature Fault	1610679260
+Hoist Drum Sidestand Bearing Temperature Fault	1610679261
+Center Gudgeon Hub Temperature Fault	1610679264
+Hoist Front Inner Input Pinion Bearing Temperature Fault	1610679265
+Hoist Front Outer Input Pinion Bearing Temperature Fault	1610679266
+Hoist Front Inner First Reduction Bearing Temperature Fault	1610679267
+Hoist Front Outer First Reduction Bearing Temperature Fault	1610679268
+Hoist Rear Inner Input Pinion Bearing Temperature Fault	1610679269
+Hoist Rear Outer Input Pinion Bearing Temperature Fault	1610679270
+Hoist Rear Inner First Reduction Bearing Temperature Fault	1610679271
+Hoist Rear Outer First Reduction Bearing Temperature Fault	1610679272
+Hoist Gearcase Oil Temperature Fault	1610679273
+Hoist Drum Gear Bearing Temperature Fault	1610679274
+Front Hoist Motor Drive End Bearing Temperature Fault	1610679275
+Front Hoist Motor Non Drive End Bearing Temperature Fault	1610679276
+Front Hoist Motor Interpole Winding Temperature Fault	1610679277
+Front Hoist Motor Field Winding Temperature Fault	1610679278
+Crowd Motor Drive End Bearing Temperature Fault	1610679279
+Crowd Motor Non Drive End Bearing Temperature Fault	1610679280
+Crowd Motor Interpole Winding Temperature Fault	1610679281
+Crowd Motor Field Winding Temperature Fault	1610679282
+Right Shipper Shaft Bearing Temperature Fault	1610679283
+Left Shipper Shaft Bearing Temperature Fault	1610679284
+Crowd Inner Input Pinion Bearing Temperature Fault	1610679285
+Crowd Outer Input Pinion Bearing Temperature Fault	1610679286
+Crowd Inner First Reduction Bearing Temperature Fault	1610679287
+Crowd Outer First Reduction Bearing Temperature Fault	1610679288
+Crowd Gearcase Oil Temperature Fault	1610679289
+Right Propel Motor Drive End Bearing Temperature Fault	1610679290
+Right Propel Motor Non Drive End Bearing Temperature Fault	1610679291
+Right Propel Motor Interpole Winding Temperature Fault	1610679292
+Right Propel Motor Field Winding Temperature Fault	1610679293
+Right Propel Gearcase Oil Temperature Fault	1610679296
+Right Propel Gearcase Oil Drive Bearing Temperature Fault	1610679297
+Left Propel Motor Drive End Bearing Temperature Fault	1610679298
+Left Propel Motor Non Drive End Bearing Temperature Fault	1610679299
+Left Propel Motor Interpole Winding Temperature Fault	1610679300
+Left Propel Motor Field Winding Temperature Fault	1610679301
+Left Propel Gearcase Oil Temperature Fault	1610679302
+Left Propel Gearcase Oil Drive Bearing Temperature Fault	1610679303
+Control Cabinet Fan Thermal Overload Fault	1610679304
+Transfer Sequence Timeout	1610679305
+Fire Suppression Delayed Fault	1610679306
+Front Swing Lube Pump Starter Fault	1610679307
+Left Rear Swing Blower Starter Fault	1610679308
+Propel Blower Starter Fault	1610679309
+RPC Pressure Switch Fault - Inboard Fixed Bank	1610679310
+RPC Pressure Switch Fault - Outboard Fixed Bank	1610679311
+Suppression Circuit Breaker #1 Fault	1610679312
+Suppression Circuit Breaker #2 Fault	1610679313
+Hoist Field Suppression Circuit Breaker Fault	1610679314
+Front Swing Lube Pressure Switch Status Fault	1610679315
+Rear Swing Lube Pressure Switch Status Fault	1610679316
+Hoist Lube Pressure Switch Status Fault	1610679317
+Front Swing Blower Fault	1610679318
+Lube Fault - Open Gear Building Pressure	1610679319
+Lube Fault - Open Gear Venting Pressure	1610679320
+Inboard RPC Thermal Switch Fault	1610679321
+Outboard RPC Thermal Switch Fault	1610679322
+SureTrip Drive Fault	1610679323
+Lube System Stop Pushbutton Fault	1610679324
+DelayedFaults.Word07.29	1610679325
+Front Hoist Lube Pressure Switch Status Fault	1610679328
+Rear Hoist Lube Pressure Switch Status Fault	1610679329
+Front Swing Lube Pump Thermal Overload	1610679330
+Rear Swing Lube Pump Thermal Overload	1610679331
+Front Hoist Lube Pump Thermal Overload	1610679332
+Rear Hoist Lube Pump Thermal Overload	1610679333
+Rear Hoist Lube Pump Starter Fault	1610679334
+Front Hoist Lube Pump Starter Fault	1610679335
+Hoist Lube Flow Blockage	1610679336
+Hoist Gearcase Lube Vacuum Transducer Disconnected	1610679337
+S120 Dipper Trip Drive Fault	1610679338
+Control Supply Earth Leakage Fault	1610679339
+Relay Supply Earth Leakage Fault	1610679340
+DelayedFaults.Word08.13	1610679341
+DelayedFaults.Word08.14	1610679342
+DelayedFaults.Word08.15	1610679343
+DelayedFaults.Word08.16	1610679344
+DelayedFaults.Word08.17	1610679345
+DelayedFaults.Word08.18	1610679346
+DelayedFaults.Word08.19	1610679347
+DelayedFaults.Word08.20	1610679348
+DelayedFaults.Word08.21	1610679349
+DelayedFaults.Word08.22	1610679350
+DelayedFaults.Word08.23	1610679351
+DelayedFaults.Word08.24	1610679352
+DelayedFaults.Word08.25	1610679353
+DelayedFaults.Word08.26	1610679354
+DelayedFaults.Word08.27	1610679355
+DelayedFaults.Word08.28	1610679356
+DelayedFaults.Word08.29	1610679357
+Undervoltage Monitor Relay Fault	1610679360
+Main Transformer Overload Fault	1610679361
+Main Phase Sequence Relay Fault	1610679362
+Field Cabinet Door Interlock Fault	1610679363
+Transfer Cabinet Door Interlock Fault	1610679364
+Hoist 1/Right Propel Converter Door Interlock Fault	1610679365
+Hoist 2 Converter Door Interlock Fault	1610679366
+Center Inboard Converter Door Interlock Fault	1610679367
+Center Outboard Converter Door Interlock Fault	1610679368
+Crowd/Left Propel Converter Door Interlock Fault	1610679369
+Swing Converter Door Interlock Fault	1610679370
+RPC Application Fault	1610679371
+RPC Half Bank Door Interlock Fault	1610679372
+RPC Bank 1 Door Interlock Fault	1610679373
+RPC Bank 2 Door Interlock Fault	1610679374
+RPC Bank 3 Door Interlock Fault	1610679375
+RPC Bank 4 Door Interlock Fault	1610679376
+RPC Inboard Switching Door Interlock Fault	1610679377
+RPC Outboard Switching Door Interlock Fault	1610679378
+Lower/Propel Cabinet Door Interlock Fault	1610679379
+Auxiliary Cabinet Door Interlock Fault	1610679380
+Hoist 1 /Right Propel Converter Phase Loss Fault	1610679381
+Hoist 2 Converter Phase Loss Fault	1610679382
+Crowd / Left Propel Converter Phase Loss Fault	1610679383
+Swing Converter Phase Loss Fault	1610679384
+Hoist Diverter Trip Fault	1610679385
+Crowd Diverter Trip Fault	1610679386
+Swing Diverter Trip Fault	1610679387
+Hoist 1 Diverter Protection Fault	1610679388
+Hoist 2 Diverter Protection Fault	1610679389
+Crowd Diverter Protection Fault	1610679392
+Swing Diverter Protection Fault	1610679393
+Hoist Armature Contactor Fault	1610679394
+Crowd Armature Contactor Fault	1610679395
+Propel Armature Contactor Fault	1610679396
+Crowd Field Contactor Fault	1610679397
+Propel Field Contactor Fault	1610679398
+Main Transformer Contactor Fault	1610679399
+InstantFaults.Word02.8	1610679400
+Auxiliary I/O Communication Fault	1610679401
+Control Cabinet I/O Communication Fault	1610679402
+Converter Cabinet I/O Communication Fault	1610679403
+Hoist Gearcase I/O Communication Fault	1610679404
+Lube Cabinet I/O Communication Fault	1610679405
+Resolver Module Communication Fault	1610679406
+Operator Coop I/O Communication Fault	1610679407
+Transfer Cabinet I/O Communication Fault	1610679408
+Hoist 1/Right Ppl Armature Drive DDCS Communication Fault	1610679409
+Hoist 2 Armature Drive DDCS Communication Fault	1610679410
+Crowd Armature Drive DDCS Communication Fault	1610679411
+Swing Armature Drive DDCS Communication Fault	1610679412
+Hoist Field Drive DDCS Communication Fault	1610679413
+Crowd/Propel Field Drive DDCS Communication Fault	1610679414
+Swing Field DDCS Communication Fault	1610679415
+Propel/Lower Cabinet I/O Communication Fault	1610679416
+RPC Cabinet I/O Communication Fault	1610679417
+Dipper Trip Communication Fault	1610679418
+Hoist Lube DDCS Communication Fault	1610679419
+Boom Cabinet I/O Communication Fault	1610679420
+24 VDC Voltage Supply Monitor Fault	1610679421
+Emergency Stop Pushbutton	1610679424
+Main Transformer Instantaneous OverCurrent Fault	1610679425
+Hst 1/Right Ppl Arm - Local Control Fault	1610679426
+Hst 2 Arm - Local Control Fault	1610679427
+Cwd/Left Ppl Arm - Local Control Fault	1610679428
+Swg Arm - Local Control Fault	1610679429
+Hst Fld - Local Control Fault	1610679430
+Cwd/Ppl Fld - Local Control Fault	1610679431
+Swg Fld - Local Control Fault	1610679432
+Hoist Joystick Fault	1610679433
+Crowd Joystick Fault	1610679434
+Swing Joystick Fault	1610679435
+Fire Suppression Instant Fault	1610679436
+Hst 1/Right Ppl Arm - Hardware Forced	1610679437
+Hst 2 Arm - Hardware Forced	1610679438
+Cwd/Left Ppl Arm - Hardware Forced	1610679439
+Swg Arm - Hardware Forced	1610679440
+Hst Fld - Hardware Forced	1610679441
+Cwd/Ppl Fld - Hardware Forced	1610679442
+Swg Fld - Hardware Forced	1610679443
+Resolver Module Fault	1610679444
+Main Transformer Disconnect Switch Open	1610679445
+24 Vdc Power Selection Module Fault	1610679446
+InstantFaults.Word03.23	1610679447
+InstantFaults.Word03.24	1610679448
+InstantFaults.Word03.25	1610679449
+InstantFaults.Word03.26	1610679450
+InstantFaults.Word03.27	1610679451
+InstantFaults.Word03.28	1610679452
+InstantFaults.Word03.29	1610679453
+Hst 1/Right Ppl Arm - Aux Undervoltage Fault - F501	1610679456
+Hst 1/Right Ppl Arm - Armature Overcurrent Fault - F502	1610679457
+Hst 1/Right Ppl Arm - Armature Overvoltage Fault - F503	1610679458
+Hst 1/Right Ppl Arm - Converter Overtemp Fault - F504	1610679459
+Hst 1/Right Ppl Arm - Residual Current Fault - F505	1610679460
+Hst 1/Right Ppl Arm - Motor 1 Overtemp Fault - F506	1610679461
+Hst 1/Right Ppl Arm - Motor 1 Overload Fault - F507	1610679462
+Hst 1/Right Ppl Arm - I/O Board Loss Fault - F508	1610679463
+Hst 1/Right Ppl Arm - Motor 2 Overtemp Fault - F509	1610679464
+Hst 1/Right Ppl Arm - Motor 2 Overload Fault - F510	1610679465
+Hst 1/Right Ppl Arm - Converter Fan Current Fault - F511	1610679466
+Hst 1/Right Ppl Arm - Mains Undervoltage Fault - F512	1610679467
+Hst 1/Right Ppl Arm - Mains Overvoltage Fault - F513	1610679468
+Hst 1/Right Ppl Arm - Main Synchronization Fault - F514	1610679469
+Hst 1/Right Ppl Arm - Motor 1 Field Overcurrent Fault - F515	1610679470
+Hst 1/Right Ppl Arm - Motor 1 Field Exciter Communication Fault - F516	1610679471
+Hst 1/Right Ppl Arm - Armature Current Ripple Fault - F517	1610679472
+Hst 1/Right Ppl Arm - Motor 2 Field Overcurrent Fault - F518	1610679473
+Hst 1/Right Ppl Arm - Motor 2 Field Exciter Communication Fault - F519	1610679474
+Hst 1/Right Ppl Arm - Field Exciter Ack Fault - F521	1610679476
+Hst 1/Right Ppl Arm - Speed Feedback Fault - F522	1610679477
+Hst 1/Right Ppl Arm - External Fan Ack Fault - F523	1610679478
+Hst 1/Right Ppl Arm - Main Contactor Ack Fault - F524	1610679479
+Hst 1/Right Ppl Arm - Type Code Fault - F525	1610679480
+Hst 1/Right Ppl Arm - External Fault - F526	1610679481
+Hst 1/Right Ppl Arm - Converter Fan Ack Fault - F527	1610679482
+Hst 1/Right Ppl Arm - Fieldbus Communication Loss Fault - F528	1610679483
+Hst 1/Right Ppl Arm - Motor 1 Fex Not OK Fault - F529	1610679484
+Hst 1/Right Ppl Arm - Motor 2Fex Not OK Fault - F530	1610679485
+Hst 1/Right Ppl Arm - Motor Stalled Fault - F531	1610679488
+Hst 1/Right Ppl Arm - Motor Overspeed Fault - F532	1610679489
+Hst 1/Right Ppl Arm - Current Reversal Delay Fault - F533	1610679490
+Hst 1/Right Ppl Arm - 12 Pulse Current Differential Fault - F534	1610679491
+Hst 1/Right Ppl Arm - 12 Pulse Communication Fault - F535	1610679492
+Hst 1/Right Ppl Arm - 12 Pulse Slave Failure Fault - F536	1610679493
+Hst 1/Right Ppl Arm - Motor 1 FEX Ready Lost Fault - F537	1610679494
+Hst 1/Right Ppl Arm - Motor 2 FEX Ready Lost Fault - F538	1610679495
+Hst 1/Right Ppl Arm - Current Di/Dt Fault - F539	1610679496
+Hst 1/Right Ppl Arm - COM8 Board Fault - F540	1610679497
+Hst 1/Right Ppl Arm - Motor 1 Underexcitation Fault - F541	1610679498
+Hst 1/Right Ppl Arm - Motor 2 Underexcitation Fault - F542	1610679499
+Hst 1/Right Ppl Arm - COM8 Communication Board Fault - F543	1610679500
+Hst 1/Right Ppl Arm - P2P/MF Communication Loss Fault - F544	1610679501
+Hst 1/Right Ppl Arm - Application Load Fault - F545	1610679502
+Hst 1/Right Ppl Arm - Local Command Loss Fault - F546	1610679503
+Hst 1/Right Ppl Arm - Hardware Failure Fault - F547	1610679504
+Hst 1/Right Ppl Arm - Firmware Failure Fault - F548	1610679505
+Hst 1/Right Ppl Arm - Parameter Compatibility Fault - F549	1610679506
+Hst 1/Right Ppl Arm - Parameter Memory Fault - F550	1610679507
+Hst 1/Right Ppl Arm - AI Range Fault - F551	1610679508
+Hst 1/Right Ppl Arm - Mechanical Brake Fault - F552	1610679509
+Hst 1/Right Ppl Arm - Tach Polarity Fault - F553	1610679510
+Hst 1/Right Ppl Arm - Tach Range Fault - F554	1610679511
+Hst 1/Right Ppl Arm - Torque Proving Fault - F556	1610679513
+Hst 1/Right Ppl Arm - 6 Pulse Reversal Fault - F557	1610679514
+Hst 1/Right Ppl Arm - Adaptive Program 1 Fault - F601	1610679517
+Hst 1/Right Ppl Arm - Adaptive Program 2 Fault - F602	1610679520
+Hst 1/Right Ppl Arm - Adaptive Program 3 Fault - F603	1610679521
+Hst 1/Right Ppl Arm - Adaptive Program 4 Fault - F604	1610679522
+Hst 1/Right Ppl Arm - Adaptive Program 5 Fault - F605	1610679523
+Hst 1/Right Ppl Arm - Factory Macro File Error Fault - SYSFLT-B0	1610679524
+Hst 1/Right Ppl Arm - User Macro File Error Fault - SYSFLT-B1	1610679525
+Hst 1/Right Ppl Arm - Non Volatile Flash Error Fault - SYSFLT-B2	1610679526
+Hst 1/Right Ppl Arm - Flash File Error Fault - SYSFLT-B3	1610679527
+Hst 1/Right Ppl Arm - Internal T2 Overflow Fault - SYSFLT-B4	1610679528
+Hst 1/Right Ppl Arm - Internal T3 Overflow Fault - SYSFLT-B5	1610679529
+Hst 1/Right Ppl Arm - Internal T4 Overflow Fault - SYSFLT-B6	1610679530
+Hst 1/Right Ppl Arm - Internal T5 Overflow Fault - SYSFLT-B7	1610679531
+Hst 1/Right Ppl Arm - State Overflow Fault - SYSFLT-B8	1610679532
+Hst 1/Right Ppl Arm - Application Window Ending Fault - SYSFLT-B9	1610679533
+Hst 1/Right Ppl Arm - Application Program Overflow Fault - SYSFLT-B10	1610679534
+Hst 1/Right Ppl Arm - Illegal Instruction Fault - SYSFLT-B11	1610679535
+Hst 1/Right Ppl Arm - Register Stack Overflow Fault - SYSFLT-B12	1610679536
+Hst 1/Right Ppl Arm - System Stack Overflow Fault - SYSFLT-B13	1610679537
+Hst 1/Right Ppl Arm - System Stack Underflow Fault - SYSFLT-B14	1610679538
+Hst 2 Arm - Aux Undervoltage Fault - F501	1610679540
+Hst 2 Arm - Armature Overcurrent Fault - F502	1610679541
+Hst 2 Arm - Armature Overvoltage Fault - F503	1610679542
+Hst 2 Arm - Converter Overtemp Fault - F504	1610679543
+Hst 2 Arm - Residual Current Fault - F505	1610679544
+Hst 2 Arm - Motor 1 Overtemp Fault - F506	1610679545
+Hst 2 Arm - Motor 1 Overload Fault - F507	1610679546
+Hst 2 Arm - I/O Board Loss Fault - F508	1610679547
+Hst 2 Arm - Motor 2 Overtemp Fault - F509	1610679548
+Hst 2 Arm - Motor 2 Overload Fault - F510	1610679549
+Hst 2 Arm - Converter Fan Current Fault - F511	1610679552
+Hst 2 Arm - Mains Undervoltage Fault - F512	1610679553
+Hst 2 Arm - Mains Overvoltage Fault - F513	1610679554
+Hst 2 Arm - Main Synchronization Fault - F514	1610679555
+Hst 2 Arm - Motor 1 Field Overcurrent Fault - F515	1610679556
+Hst 2 Arm - Motor 1 Field Exciter Communication Fault - F516	1610679557
+Hst 2 Arm - Armature Current Ripple Fault - F517	1610679558
+Hst 2 Arm - Motor 2 Field Overcurrent Fault - F518	1610679559
+Hst 2 Arm - Motor 2 Field Exciter Communication Fault - F519	1610679560
+Hst 2 Arm - Field Exciter Ack Fault - F521	1610679562
+Hst 2 Arm - Speed Feedback Fault - F522	1610679563
+Hst 2 Arm - External Fan Ack Fault - F523	1610679564
+Hst 2 Arm - Main Contactor Ack Fault - F524	1610679565
+Hst 2 Arm - Type Code Fault - F525	1610679566
+Hst 2 Arm - External Fault - F526	1610679567
+Hst 2 Arm - Converter Fan Ack Fault - F527	1610679568
+Hst 2 Arm - Fieldbus Communication Loss Fault - F528	1610679569
+Hst 2 Arm - Motor 1 Fex Not OK Fault - F529	1610679570
+Hst 2 Arm - Motor 2Fex Not OK Fault - F530	1610679571
+Hst 2 Arm - Motor Stalled Fault - F531	1610679572
+Hst 2 Arm - Motor Overspeed Fault - F532	1610679573
+Hst 2 Arm - Current Reversal Delay Fault - F533	1610679574
+Hst 2 Arm - 12 Pulse Current Differential Fault - F534	1610679575
+Hst 2 Arm - 12 Pulse Communication Fault - F535	1610679576
+Hst 2 Arm - 12 Pulse Slave Failure Fault - F536	1610679577
+Hst 2 Arm - Motor 1 FEX Ready Lost Fault - F537	1610679578
+Hst 2 Arm - Motor 2 FEX Ready Lost Fault - F538	1610679579
+Hst 2 Arm - Current Di/Dt Fault - F539	1610679580
+Hst 2 Arm - COM8 Board Fault - F540	1610679581
+Hst 2 Arm - Motor 1 Underexcitation Fault - F541	1610679584
+Hst 2 Arm - Motor 2 Underexcitation Fault - F542	1610679585
+Hst 2 Arm - COM8 Communication Board Fault - F543	1610679586
+Hst 2 Arm - P2P/MF Communication Loss Fault - F544	1610679587
+Hst 2 Arm - Application Load Fault - F545	1610679588
+Hst 2 Arm - Local Command Loss Fault - F546	1610679589
+Hst 2 Arm - Hardware Failure Fault - F547	1610679590
+Hst 2 Arm - Firmware Failure Fault - F548	1610679591
+Hst 2 Arm - Parameter Compatibility Fault - F549	1610679592
+Hst 2 Arm - Parameter Memory Fault - F550	1610679593
+Hst 2 Arm - AI Range Fault - F551	1610679594
+Hst 2 Arm - Mechanical Brake Fault - F552	1610679595
+Hst 2 Arm - Tach Polarity Fault - F553	1610679596
+Hst 2 Arm - Tach Range Fault - F554	1610679597
+Hst 2 Arm - Torque Proving Fault - F556	1610679599
+Hst 2 Arm - 6 Pulse Reversal Fault - F557	1610679600
+Hst 2 Arm - Adaptive Program 1 Fault - F601	1610679603
+Hst 2 Arm - Adaptive Program 2 Fault - F602	1610679604
+Hst 2 Arm - Adaptive Program 3 Fault - F603	1610679605
+Hst 2 Arm - Adaptive Program 4 Fault - F604	1610679606
+Hst 2 Arm - Adaptive Program 5 Fault - F605	1610679607
+Hst 2 Arm - Factory Macro File Error Fault - SYSFLT-B0	1610679608
+Hst 2 Arm - User Macro File Error Fault - SYSFLT-B1	1610679609
+Hst 2 Arm - Non Volatile Flash Error Fault - SYSFLT-B2	1610679610
+Hst 2 Arm - Flash File Error Fault - SYSFLT-B3	1610679611
+Hst 2 Arm - Internal T2 Overflow Fault - SYSFLT-B4	1610679612
+Hst 2 Arm - Internal T3 Overflow Fault - SYSFLT-B5	1610679613
+Hst 2 Arm - Internal T4 Overflow Fault - SYSFLT-B6	1610679616
+Hst 2 Arm - Internal T5 Overflow Fault - SYSFLT-B7	1610679617
+Hst 2 Arm - State Overflow Fault - SYSFLT-B8	1610679618
+Hst 2 Arm - Application Window Ending Fault - SYSFLT-B9	1610679619
+Hst 2 Arm - Application Program Overflow Fault - SYSFLT-B10	1610679620
+Hst 2 Arm - Illegal Instruction Fault - SYSFLT-B11	1610679621
+Hst 2 Arm - Register Stack Overflow Fault - SYSFLT-B12	1610679622
+Hst 2 Arm - System Stack Overflow Fault - SYSFLT-B13	1610679623
+Hst 2 Arm - System Stack Underflow Fault - SYSFLT-B14	1610679624
+Cwd/Left Ppl Arm - Aux Undervoltage Fault - F501	1610679626
+Cwd/Left Ppl Arm - Armature Overcurrent Fault - F502	1610679627
+Cwd/Left Ppl Arm - Armature Overvoltage Fault - F503	1610679628
+Cwd/Left Ppl Arm - Converter Overtemp Fault - F504	1610679629
+Cwd/Left Ppl Arm - Residual Current Fault - F505	1610679630
+Cwd/Left Ppl Arm - Motor 1 Overtemp Fault - F506	1610679631
+Cwd/Left Ppl Arm - Motor 1 Overload Fault - F507	1610679632
+Cwd/Left Ppl Arm - I/O Board Loss Fault - F508	1610679633
+Cwd/Left Ppl Arm - Motor 2 Overtemp Fault - F509	1610679634
+Cwd/Left Ppl Arm - Motor 2 Overload Fault - F510	1610679635
+Cwd/Left Ppl Arm - Converter Fan Current Fault - F511	1610679636
+Cwd/Left Ppl Arm - Mains Undervoltage Fault - F512	1610679637
+Cwd/Left Ppl Arm - Mains Overvoltage Fault - F513	1610679638
+Cwd/Left Ppl Arm - Main Synchronization Fault - F514	1610679639
+Cwd/Left Ppl Arm - Motor 1 Field Overcurrent Fault - F515	1610679640
+Cwd/Left Ppl Arm - Motor 1 Field Exciter Communication Fault - F516	1610679641
+Cwd/Left Ppl Arm - Armature Current Ripple Fault - F517	1610679642
+Cwd/Left Ppl Arm - Motor 2 Field Overcurrent Fault - F518	1610679643
+Cwd/Left Ppl Arm - Motor 2 Field Exciter Communication Fault - F519	1610679644
+Cwd/Left Ppl Arm - Field Exciter Ack Fault - F521	1610679648
+Cwd/Left Ppl Arm - Speed Feedback Fault - F522	1610679649
+Cwd/Left Ppl Arm - External Fan Ack Fault - F523	1610679650
+Cwd/Left Ppl Arm - Main Contactor Ack Fault - F524	1610679651
+Cwd/Left Ppl Arm - Type Code Fault - F525	1610679652
+Cwd/Left Ppl Arm - External Fault - F526	1610679653
+Cwd/Left Ppl Arm - Converter Fan Ack Fault - F527	1610679654
+Cwd/Left Ppl Arm - Fieldbus Communication Loss Fault - F528	1610679655
+Cwd/Left Ppl Arm - Motor 1 Fex Not OK Fault - F529	1610679656
+Cwd/Left Ppl Arm - Motor 2Fex Not OK Fault - F530	1610679657
+Cwd/Left Ppl Arm - Motor Stalled Fault - F531	1610679658
+Cwd/Left Ppl Arm - Motor Overspeed Fault - F532	1610679659
+Cwd/Left Ppl Arm - Current Reversal Delay Fault - F533	1610679660
+Cwd/Left Ppl Arm - 12 Pulse Current Differential Fault - F534	1610679661
+Cwd/Left Ppl Arm - 12 Pulse Communication Fault - F535	1610679662
+Cwd/Left Ppl Arm - 12 Pulse Slave Failure Fault - F536	1610679663
+Cwd/Left Ppl Arm - Motor 1 FEX Ready Lost Fault - F537	1610679664
+Cwd/Left Ppl Arm - Motor 2 FEX Ready Lost Fault - F538	1610679665
+Cwd/Left Ppl Arm - Current Di/Dt Fault - F539	1610679666
+Cwd/Left Ppl Arm - COM8 Board Fault - F540	1610679667
+Cwd/Left Ppl Arm - Motor 1 Underexcitation Fault - F541	1610679668
+Cwd/Left Ppl Arm - Motor 2 Underexcitation Fault - F542	1610679669
+Cwd/Left Ppl Arm - COM8 Communication Board Fault - F543	1610679670
+Cwd/Left Ppl Arm - P2P/MF Communication Loss Fault - F544	1610679671
+Cwd/Left Ppl Arm - Application Load Fault - F545	1610679672
+Cwd/Left Ppl Arm - Local Command Loss Fault - F546	1610679673
+Cwd/Left Ppl Arm - Hardware Failure Fault - F547	1610679674
+Cwd/Left Ppl Arm - Firmware Failure Fault - F548	1610679675
+Cwd/Left Ppl Arm - Parameter Compatibility Fault - F549	1610679676
+Cwd/Left Ppl Arm - Parameter Memory Fault - F550	1610679677
+Cwd/Left Ppl Arm - AI Range Fault - F551	1610679680
+Cwd/Left Ppl Arm - Mechanical Brake Fault - F552	1610679681
+Cwd/Left Ppl Arm - Tach Polarity Fault - F553	1610679682
+Cwd/Left Ppl Arm - Tach Range Fault - F554	1610679683
+Cwd/Left Ppl Arm - Torque Proving Fault - F556	1610679685
+Cwd/Left Ppl Arm - 6 Pulse Reversal Fault - F557	1610679686
+Cwd/Left Ppl Arm - Adaptive Program 1 Fault - F601	1610679689
+Cwd/Left Ppl Arm - Adaptive Program 2 Fault - F602	1610679690
+Cwd/Left Ppl Arm - Adaptive Program 3 Fault - F603	1610679691
+Cwd/Left Ppl Arm - Adaptive Program 4 Fault - F604	1610679692
+Cwd/Left Ppl Arm - Adaptive Program 5 Fault - F605	1610679693
+Cwd/Left Ppl Arm - Factory Macro File Error Fault - SYSFLT-B0	1610679694
+Cwd/Left Ppl Arm - User Macro File Error Fault - SYSFLT-B1	1610679695
+Cwd/Left Ppl Arm - Non Volatile Flash Error Fault - SYSFLT-B2	1610679696
+Cwd/Left Ppl Arm - Flash File Error Fault - SYSFLT-B3	1610679697
+Cwd/Left Ppl Arm - Internal T2 Overflow Fault - SYSFLT-B4	1610679698
+Cwd/Left Ppl Arm - Internal T3 Overflow Fault - SYSFLT-B5	1610679699
+Cwd/Left Ppl Arm - Internal T4 Overflow Fault - SYSFLT-B6	1610679700
+Cwd/Left Ppl Arm - Internal T5 Overflow Fault - SYSFLT-B7	1610679701
+Cwd/Left Ppl Arm - State Overflow Fault - SYSFLT-B8	1610679702
+Cwd/Left Ppl Arm - Application Window Ending Fault - SYSFLT-B9	1610679703
+Cwd/Left Ppl Arm - Application Program Overflow Fault - SYSFLT-B10	1610679704
+Cwd/Left Ppl Arm - Illegal Instruction Fault - SYSFLT-B11	1610679705
+Cwd/Left Ppl Arm - Register Stack Overflow Fault - SYSFLT-B12	1610679706
+Cwd/Left Ppl Arm - System Stack Overflow Fault - SYSFLT-B13	1610679707
+Cwd/Left Ppl Arm - System Stack Underflow Fault - SYSFLT-B14	1610679708
+Swg Arm - Aux Undervoltage Fault - F501	1610679712
+Swg Arm - Armature Overcurrent Fault - F502	1610679713
+Swg Arm - Armature Overvoltage Fault - F503	1610679714
+Swg Arm - Converter Overtemp Fault - F504	1610679715
+Swg Arm - Residual Current Fault - F505	1610679716
+Swg Arm - Motor 1 Overtemp Fault - F506	1610679717
+Swg Arm - Motor 1 Overload Fault - F507	1610679718
+Swg Arm - I/O Board Loss Fault - F508	1610679719
+Swg Arm - Motor 2 Overtemp Fault - F509	1610679720
+Swg Arm - Motor 2 Overload Fault - F510	1610679721
+Swg Arm - Converter Fan Current Fault - F511	1610679722
+Swg Arm - Mains Undervoltage Fault - F512	1610679723
+Swg Arm - Mains Overvoltage Fault - F513	1610679724
+Swg Arm - Main Synchronization Fault - F514	1610679725
+Swg Arm - Motor 1 Field Overcurrent Fault - F515	1610679726
+Swg Arm - Motor 1 Field Exciter Communication Fault - F516	1610679727
+Swg Arm - Armature Current Ripple Fault - F517	1610679728
+Swg Arm - Motor 2 Field Overcurrent Fault - F518	1610679729
+Swg Arm - Motor 2 Field Exciter Communication Fault - F519	1610679730
+Swg Arm - Field Exciter Ack Fault - F521	1610679732
+Swg Arm - Speed Feedback Fault - F522	1610679733
+Swg Arm - External Fan Ack Fault - F523	1610679734
+Swg Arm - Main Contactor Ack Fault - F524	1610679735
+Swg Arm - Type Code Fault - F525	1610679736
+Swg Arm - External Fault - F526	1610679737
+Swg Arm - Converter Fan Ack Fault - F527	1610679738
+Swg Arm - Fieldbus Communication Loss Fault - F528	1610679739
+Swg Arm - Motor 1 Fex Not OK Fault - F529	1610679740
+Swg Arm - Motor 2Fex Not OK Fault - F530	1610679741
+Swg Arm - Motor Stalled Fault - F531	1610679744
+Swg Arm - Motor Overspeed Fault - F532	1610679745
+Swg Arm - Current Reversal Delay Fault - F533	1610679746
+Swg Arm - 12 Pulse Current Differential Fault - F534	1610679747
+Swg Arm - 12 Pulse Communication Fault - F535	1610679748
+Swg Arm - 12 Pulse Slave Failure Fault - F536	1610679749
+Swg Arm - Motor 1 FEX Ready Lost Fault - F537	1610679750
+Swg Arm - Motor 2 FEX Ready Lost Fault - F538	1610679751
+Swg Arm - Current Di/Dt Fault - F539	1610679752
+Swg Arm - COM8 Board Fault - F540	1610679753
+Swg Arm - Motor 1 Underexcitation Fault - F541	1610679754
+Swg Arm - Motor 2 Underexcitation Fault - F542	1610679755
+Swg Arm - COM8 Communication Board Fault - F543	1610679756
+Swg Arm - P2P/MF Communication Loss Fault - F544	1610679757
+Swg Arm - Application Load Fault - F545	1610679758
+Swg Arm - Local Command Loss Fault - F546	1610679759
+Swg Arm - Hardware Failure Fault - F547	1610679760
+Swg Arm - Firmware Failure Fault - F548	1610679761
+Swg Arm - Parameter Compatibility Fault - F549	1610679762
+Swg Arm - Parameter Memory Fault - F550	1610679763
+Swg Arm - AI Range Fault - F551	1610679764
+Swg Arm - Mechanical Brake Fault - F552	1610679765
+Swg Arm - Tach Polarity Fault - F553	1610679766
+Swg Arm - Tach Range Fault - F554	1610679767
+Swg Arm - Torque Proving Fault - F556	1610679769
+Swg Arm - 6 Pulse Reversal Fault - F557	1610679770
+Swg Arm - Adaptive Program 1 Fault - F601	1610679773
+Swg Arm - Adaptive Program 2 Fault - F602	1610679776
+Swg Arm - Adaptive Program 3 Fault - F603	1610679777
+Swg Arm - Adaptive Program 4 Fault - F604	1610679778
+Swg Arm - Adaptive Program 5 Fault - F605	1610679779
+Swg Arm - Factory Macro File Error Fault - SYSFLT-B0	1610679780
+Swg Arm - User Macro File Error Fault - SYSFLT-B1	1610679781
+Swg Arm - Non Volatile Flash Error Fault - SYSFLT-B2	1610679782
+Swg Arm - Flash File Error Fault - SYSFLT-B3	1610679783
+Swg Arm - Internal T2 Overflow Fault - SYSFLT-B4	1610679784
+Swg Arm - Internal T3 Overflow Fault - SYSFLT-B5	1610679785
+Swg Arm - Internal T4 Overflow Fault - SYSFLT-B6	1610679786
+Swg Arm - Internal T5 Overflow Fault - SYSFLT-B7	1610679787
+Swg Arm - State Overflow Fault - SYSFLT-B8	1610679788
+Swg Arm - Application Window Ending Fault - SYSFLT-B9	1610679789
+Swg Arm - Application Program Overflow Fault - SYSFLT-B10	1610679790
+Swg Arm - Illegal Instruction Fault - SYSFLT-B11	1610679791
+Swg Arm - Register Stack Overflow Fault - SYSFLT-B12	1610679792
+Swg Arm - System Stack Overflow Fault - SYSFLT-B13	1610679793
+Swg Arm - System Stack Underflow Fault - SYSFLT-B14	1610679794
+Hst Fld - Aux Undervoltage Fault - F501	1610679796
+Hst Fld - Armature Overcurrent Fault - F502	1610679797
+Hst Fld - Armature Overvoltage Fault - F503	1610679798
+Hst Fld - Converter Overtemp Fault - F504	1610679799
+Hst Fld - Residual Current Fault - F505	1610679800
+Hst Fld - Motor 1 Overtemp Fault - F506	1610679801
+Hst Fld - Motor 1 Overload Fault - F507	1610679802
+Hst Fld - I/O Board Loss Fault - F508	1610679803
+Hst Fld - Motor 2 Overtemp Fault - F509	1610679804
+Hst Fld - Motor 2 Overload Fault - F510	1610679805
+Hst Fld - Converter Fan Current Fault - F511	1610679808
+Hst Fld - Mains Undervoltage Fault - F512	1610679809
+Hst Fld - Mains Overvoltage Fault - F513	1610679810
+Hst Fld - Main Synchronization Fault - F514	1610679811
+Hst Fld - Motor 1 Field Overcurrent Fault - F515	1610679812
+Hst Fld - Motor 1 Field Exciter Communication Fault - F516	1610679813
+Hst Fld - Armature Current Ripple Fault - F517	1610679814
+Hst Fld - Motor 2 Field Overcurrent Fault - F518	1610679815
+Hst Fld - Motor 2 Field Exciter Communication Fault - F519	1610679816
+Hst Fld - Field Exciter Ack Fault - F521	1610679818
+Hst Fld - Speed Feedback Fault - F522	1610679819
+Hst Fld - External Fan Ack Fault - F523	1610679820
+Hst Fld - Main Contactor Ack Fault - F524	1610679821
+Hst Fld - Type Code Fault - F525	1610679822
+Hst Fld - External Fault - F526	1610679823
+Hst Fld - Converter Fan Ack Fault - F527	1610679824
+Hst Fld - Fieldbus Communication Loss Fault - F528	1610679825
+Hst Fld - Motor 1 Fex Not OK Fault - F529	1610679826
+Hst Fld - Motor 2Fex Not OK Fault - F530	1610679827
+Hst Fld - Motor Stalled Fault - F531	1610679828
+Hst Fld - Motor Overspeed Fault - F532	1610679829
+Hst Fld - Current Reversal Delay Fault - F533	1610679830
+Hst Fld - 12 Pulse Current Differential Fault - F534	1610679831
+Hst Fld - 12 Pulse Communication Fault - F535	1610679832
+Hst Fld - 12 Pulse Slave Failure Fault - F536	1610679833
+Hst Fld - Motor 1 FEX Ready Lost Fault - F537	1610679834
+Hst Fld - Motor 2 FEX Ready Lost Fault - F538	1610679835
+Hst Fld - Current Di/Dt Fault - F539	1610679836
+Hst Fld - COM8 Board Fault - F540	1610679837
+Hst Fld - Motor 1 Underexcitation Fault - F541	1610679840
+Hst Fld - Motor 2 Underexcitation Fault - F542	1610679841
+Hst Fld - COM8 Communication Board Fault - F543	1610679842
+Hst Fld - P2P/MF Communication Loss Fault - F544	1610679843
+Hst Fld - Application Load Fault - F545	1610679844
+Hst Fld - Local Command Loss Fault - F546	1610679845
+Hst Fld - Hardware Failure Fault - F547	1610679846
+Hst Fld - Firmware Failure Fault - F548	1610679847
+Hst Fld - Parameter Compatibility Fault - F549	1610679848
+Hst Fld - Parameter Memory Fault - F550	1610679849
+Hst Fld - AI Range Fault - F551	1610679850
+Hst Fld - Mechanical Brake Fault - F552	1610679851
+Hst Fld - Tach Polarity Fault - F553	1610679852
+Hst Fld - Tach Range Fault - F554	1610679853
+Hst Fld - Torque Proving Fault - F556	1610679855
+Hst Fld - 6 Pulse Reversal Fault - F557	1610679856
+Hst Fld - Adaptive Program 1 Fault - F601	1610679859
+Hst Fld - Adaptive Program 2 Fault - F602	1610679860
+Hst Fld - Adaptive Program 3 Fault - F603	1610679861
+Hst Fld - Adaptive Program 4 Fault - F604	1610679862
+Hst Fld - Adaptive Program 5 Fault - F605	1610679863
+Hst Fld - Factory Macro File Error Fault - SYSFLT-B0	1610679864
+Hst Fld - User Macro File Error Fault - SYSFLT-B1	1610679865
+Hst Fld - Non Volatile Flash Error Fault - SYSFLT-B2	1610679866
+Hst Fld - Flash File Error Fault - SYSFLT-B3	1610679867
+Hst Fld - Internal T2 Overflow Fault - SYSFLT-B4	1610679868
+Hst Fld - Internal T3 Overflow Fault - SYSFLT-B5	1610679869
+Hst Fld - Internal T4 Overflow Fault - SYSFLT-B6	1610679872
+Hst Fld - Internal T5 Overflow Fault - SYSFLT-B7	1610679873
+Hst Fld - State Overflow Fault - SYSFLT-B8	1610679874
+Hst Fld - Application Window Ending Fault - SYSFLT-B9	1610679875
+Hst Fld - Application Program Overflow Fault - SYSFLT-B10	1610679876
+Hst Fld - Illegal Instruction Fault - SYSFLT-B11	1610679877
+Hst Fld - Register Stack Overflow Fault - SYSFLT-B12	1610679878
+Hst Fld - System Stack Overflow Fault - SYSFLT-B13	1610679879
+Hst Fld - System Stack Underflow Fault - SYSFLT-B14	1610679880
+Cwd/Ppl Fld - Aux Undervoltage Fault - F501	1610679882
+Cwd/Ppl Fld - Armature Overcurrent Fault - F502	1610679883
+Cwd/Ppl Fld - Armature Overvoltage Fault - F503	1610679884
+Cwd/Ppl Fld - Converter Overtemp Fault - F504	1610679885
+Cwd/Ppl Fld - Residual Current Fault - F505	1610679886
+Cwd/Ppl Fld - Motor 1 Overtemp Fault - F506	1610679887
+Cwd/Ppl Fld - Motor 1 Overload Fault - F507	1610679888
+Cwd/Ppl Fld - I/O Board Loss Fault - F508	1610679889
+Cwd/Ppl Fld - Motor 2 Overtemp Fault - F509	1610679890
+Cwd/Ppl Fld - Motor 2 Overload Fault - F510	1610679891
+Cwd/Ppl Fld - Converter Fan Current Fault - F511	1610679892
+Cwd/Ppl Fld - Mains Undervoltage Fault - F512	1610679893
+Cwd/Ppl Fld - Mains Overvoltage Fault - F513	1610679894
+Cwd/Ppl Fld - Main Synchronization Fault - F514	1610679895
+Cwd/Ppl Fld - Motor 1 Field Overcurrent Fault - F515	1610679896
+Cwd/Ppl Fld - Motor 1 Field Exciter Communication Fault - F516	1610679897
+Cwd/Ppl Fld - Armature Current Ripple Fault - F517	1610679898
+Cwd/Ppl Fld - Motor 2 Field Overcurrent Fault - F518	1610679899
+Cwd/Ppl Fld - Motor 2 Field Exciter Communication Fault - F519	1610679900
+Cwd/Ppl Fld - Field Exciter Ack Fault - F521	1610679904
+Cwd/Ppl Fld - Speed Feedback Fault - F522	1610679905
+Cwd/Ppl Fld - External Fan Ack Fault - F523	1610679906
+Cwd/Ppl Fld - Main Contactor Ack Fault - F524	1610679907
+Cwd/Ppl Fld - Type Code Fault - F525	1610679908
+Cwd/Ppl Fld - External Fault - F526	1610679909
+Cwd/Ppl Fld - Converter Fan Ack Fault - F527	1610679910
+Cwd/Ppl Fld - Fieldbus Communication Loss Fault - F528	1610679911
+Cwd/Ppl Fld - Motor 1 Fex Not OK Fault - F529	1610679912
+Cwd/Ppl Fld - Motor 2Fex Not OK Fault - F530	1610679913
+Cwd/Ppl Fld - Motor Stalled Fault - F531	1610679914
+Cwd/Ppl Fld - Motor Overspeed Fault - F532	1610679915
+Cwd/Ppl Fld - Current Reversal Delay Fault - F533	1610679916
+Cwd/Ppl Fld - 12 Pulse Current Differential Fault - F534	1610679917
+Cwd/Ppl Fld - 12 Pulse Communication Fault - F535	1610679918
+Cwd/Ppl Fld - 12 Pulse Slave Failure Fault - F536	1610679919
+Cwd/Ppl Fld - Motor 1 FEX Ready Lost Fault - F537	1610679920
+Cwd/Ppl Fld - Motor 2 FEX Ready Lost Fault - F538	1610679921
+Cwd/Ppl Fld - Current Di/Dt Fault - F539	1610679922
+Cwd/Ppl Fld - COM8 Board Fault - F540	1610679923
+Cwd/Ppl Fld - Motor 1 Underexcitation Fault - F541	1610679924
+Cwd/Ppl Fld - Motor 2 Underexcitation Fault - F542	1610679925
+Cwd/Ppl Fld - COM8 Communication Board Fault - F543	1610679926
+Cwd/Ppl Fld - P2P/MF Communication Loss Fault - F544	1610679927
+Cwd/Ppl Fld - Application Load Fault - F545	1610679928
+Cwd/Ppl Fld - Local Command Loss Fault - F546	1610679929
+Cwd/Ppl Fld - Hardware Failure Fault - F547	1610679930
+Cwd/Ppl Fld - Firmware Failure Fault - F548	1610679931
+Cwd/Ppl Fld - Parameter Compatibility Fault - F549	1610679932
+Cwd/Ppl Fld - Parameter Memory Fault - F550	1610679933
+Cwd/Ppl Fld - AI Range Fault - F551	1610679936
+Cwd/Ppl Fld - Mechanical Brake Fault - F552	1610679937
+Cwd/Ppl Fld - Tach Polarity Fault - F553	1610679938
+Cwd/Ppl Fld - Tach Range Fault - F554	1610679939
+Cwd/Ppl Fld - Torque Proving Fault - F556	1610679941
+Cwd/Ppl Fld - 6 Pulse Reversal Fault - F557	1610679942
+Cwd/Ppl Fld - Adaptive Program 1 Fault - F601	1610679945
+Cwd/Ppl Fld - Adaptive Program 2 Fault - F602	1610679946
+Cwd/Ppl Fld - Adaptive Program 3 Fault - F603	1610679947
+Cwd/Ppl Fld - Adaptive Program 4 Fault - F604	1610679948
+Cwd/Ppl Fld - Adaptive Program 5 Fault - F605	1610679949
+Cwd/Ppl Fld - Factory Macro File Error Fault - SYSFLT-B0	1610679950
+Cwd/Ppl Fld - User Macro File Error Fault - SYSFLT-B1	1610679951
+Cwd/Ppl Fld - Non Volatile Flash Error Fault - SYSFLT-B2	1610679952
+Cwd/Ppl Fld - Flash File Error Fault - SYSFLT-B3	1610679953
+Cwd/Ppl Fld - Internal T2 Overflow Fault - SYSFLT-B4	1610679954
+Cwd/Ppl Fld - Internal T3 Overflow Fault - SYSFLT-B5	1610679955
+Cwd/Ppl Fld - Internal T4 Overflow Fault - SYSFLT-B6	1610679956
+Cwd/Ppl Fld - Internal T5 Overflow Fault - SYSFLT-B7	1610679957
+Cwd/Ppl Fld - State Overflow Fault - SYSFLT-B8	1610679958
+Cwd/Ppl Fld - Application Window Ending Fault - SYSFLT-B9	1610679959
+Cwd/Ppl Fld - Application Program Overflow Fault - SYSFLT-B10	1610679960
+Cwd/Ppl Fld - Illegal Instruction Fault - SYSFLT-B11	1610679961
+Cwd/Ppl Fld - Register Stack Overflow Fault - SYSFLT-B12	1610679962
+Cwd/Ppl Fld - System Stack Overflow Fault - SYSFLT-B13	1610679963
+Cwd/Ppl Fld - System Stack Underflow Fault - SYSFLT-B14	1610679964
+Swg Fld - Aux Undervoltage Fault - F501	1610679968
+Swg Fld - Armature Overcurrent Fault - F502	1610679969
+Swg Fld - Armature Overvoltage Fault - F503	1610679970
+Swg Fld - Converter Overtemp Fault - F504	1610679971
+Swg Fld - Residual Current Fault - F505	1610679972
+Swg Fld - Motor 1 Overtemp Fault - F506	1610679973
+Swg Fld - Motor 1 Overload Fault - F507	1610679974
+Swg Fld - I/O Board Loss Fault - F508	1610679975
+Swg Fld - Motor 2 Overtemp Fault - F509	1610679976
+Swg Fld - Motor 2 Overload Fault - F510	1610679977
+Swg Fld - Converter Fan Current Fault - F511	1610679978
+Swg Fld - Mains Undervoltage Fault - F512	1610679979
+Swg Fld - Mains Overvoltage Fault - F513	1610679980
+Swg Fld - Main Synchronization Fault - F514	1610679981
+Swg Fld - Motor 1 Field Overcurrent Fault - F515	1610679982
+Swg Fld - Motor 1 Field Exciter Communication Fault - F516	1610679983
+Swg Fld - Armature Current Ripple Fault - F517	1610679984
+Swg Fld - Motor 2 Field Overcurrent Fault - F518	1610679985
+Swg Fld - Motor 2 Field Exciter Communication Fault - F519	1610679986
+Swg Fld - Field Exciter Ack Fault - F521	1610679988
+Swg Fld - Speed Feedback Fault - F522	1610679989
+Swg Fld - External Fan Ack Fault - F523	1610679990
+Swg Fld - Main Contactor Ack Fault - F524	1610679991
+Swg Fld - Type Code Fault - F525	1610679992
+Swg Fld - External Fault - F526	1610679993
+Swg Fld - Converter Fan Ack Fault - F527	1610679994
+Swg Fld - Fieldbus Communication Loss Fault - F528	1610679995
+Swg Fld - Motor 1 Fex Not OK Fault - F529	1610679996
+Swg Fld - Motor 2Fex Not OK Fault - F530	1610679997
+Swg Fld - Motor Stalled Fault - F531	1610680000
+Swg Fld - Motor Overspeed Fault - F532	1610680001
+Swg Fld - Current Reversal Delay Fault - F533	1610680002
+Swg Fld - 12 Pulse Current Differential Fault - F534	1610680003
+Swg Fld - 12 Pulse Communication Fault - F535	1610680004
+Swg Fld - 12 Pulse Slave Failure Fault - F536	1610680005
+Swg Fld - Motor 1 FEX Ready Lost Fault - F537	1610680006
+Swg Fld - Motor 2 FEX Ready Lost Fault - F538	1610680007
+Swg Fld - Current Di/Dt Fault - F539	1610680008
+Swg Fld - COM8 Board Fault - F540	1610680009
+Swg Fld - Motor 1 Underexcitation Fault - F541	1610680010
+Swg Fld - Motor 2 Underexcitation Fault - F542	1610680011
+Swg Fld - COM8 Communication Board Fault - F543	1610680012
+Swg Fld - P2P/MF Communication Loss Fault - F544	1610680013
+Swg Fld - Application Load Fault - F545	1610680014
+Swg Fld - Local Command Loss Fault - F546	1610680015
+Swg Fld - Hardware Failure Fault - F547	1610680016
+Swg Fld - Firmware Failure Fault - F548	1610680017
+Swg Fld - Parameter Compatibility Fault - F549	1610680018
+Swg Fld - Parameter Memory Fault - F550	1610680019
+Swg Fld - AI Range Fault - F551	1610680020
+Swg Fld - Mechanical Brake Fault - F552	1610680021
+Swg Fld - Tach Polarity Fault - F553	1610680022
+Swg Fld - Tach Range Fault - F554	1610680023
+Swg Fld - Torque Proving Fault - F556	1610680025
+Swg Fld - 6 Pulse Reversal Fault - F557	1610680026
+Swg Fld - Adaptive Program 1 Fault - F601	1610680029
+Swg Fld - Adaptive Program 2 Fault - F602	1610680032
+Swg Fld - Adaptive Program 3 Fault - F603	1610680033
+Swg Fld - Adaptive Program 4 Fault - F604	1610680034
+Swg Fld - Adaptive Program 5 Fault - F605	1610680035
+Swg Fld - Factory Macro File Error Fault - SYSFLT-B0	1610680036
+Swg Fld - User Macro File Error Fault - SYSFLT-B1	1610680037
+Swg Fld - Non Volatile Flash Error Fault - SYSFLT-B2	1610680038
+Swg Fld - Flash File Error Fault - SYSFLT-B3	1610680039
+Swg Fld - Internal T2 Overflow Fault - SYSFLT-B4	1610680040
+Swg Fld - Internal T3 Overflow Fault - SYSFLT-B5	1610680041
+Swg Fld - Internal T4 Overflow Fault - SYSFLT-B6	1610680042
+Swg Fld - Internal T5 Overflow Fault - SYSFLT-B7	1610680043
+Swg Fld - State Overflow Fault - SYSFLT-B8	1610680044
+Swg Fld - Application Window Ending Fault - SYSFLT-B9	1610680045
+Swg Fld - Application Program Overflow Fault - SYSFLT-B10	1610680046
+Swg Fld - Illegal Instruction Fault - SYSFLT-B11	1610680047
+Swg Fld - Register Stack Overflow Fault - SYSFLT-B12	1610680048
+Swg Fld - System Stack Overflow Fault - SYSFLT-B13	1610680049
+Swg Fld - System Stack Underflow Fault - SYSFLT-B14	1610680050
+Right Front Swing Motor Thermal Overload	1610680052
+Left Front Swing Motor Thermal Overload	1610680053
+Right Rear Swing Motor Thermal Overload	1610680054
+Left Rear Swing Motor Thermal Overload	1610680055
+Front Swing Motor Thermal Overload	1610680056
+Rear Swing Motor Thermal Overload	1610680057
+InstantFaults.Word22.26	1610680058
+InstantFaults.Word22.27	1610680059
+InstantFaults.Word22.28	1610680060
+InstantFaults.Word22.29	1610680061
+Hoist Limit Exceeded Fault	1610680064
+Hoist Under Excitation Fault	1610680065
+Hoist Differential Voltage Fault	1610680066
+Hoist Field Circuit Breaker Fault	1610680067
+Hoist Resolver Fault	1610680068
+Crowd Limit Exceeded Fault	1610680069
+Crowd Under Excitation Fault	1610680070
+Crowd Differential Voltage Fault	1610680071
+Crowd Field Circuit Breaker Fault	1610680072
+Crowd Resolver Fault	1610680073
+Remote Hoist Selector Switch Fault	1610680074
+Swing Under Excitation Fault	1610680075
+Swing Differential Voltage Fault	1610680076
+Swing Field Circuit Breaker Fault	1610680077
+Swing Resolver Fault	1610680078
+Swing Control Loss	1610680079
+Propel Under Excitation Fault	1610680080
+Motivator Mode Selector Switch Fault	1610680081
+Propel Field Circuit Breaker Fault	1610680082
+Inboard Reactor Cabinet Door Open	1610680083
+Outboard Reactor Cabinet Door Open	1610680084
+Right Inboard Capacitor Cabinet Door Open	1610680085
+Center Inboard Capacitor Cabinet Door Open	1610680086
+Left Inboard Capacitor Cabinet Door Open	1610680087
+Right Outboard Capacitor Cabinet Door Open	1610680088
+Center Outboard Capacitor Cabinet Door Open	1610680089
+Left Outboard Capacitor Cabinet Door Open	1610680090
+Hoist Current Control Loss	1610680091
+Crowd Current Control Loss	1610680092
+InstantFaults.Word23.29	1610680093
+Hoist Overspeed	1610680096
+Lower Overspeed	1610680097
+Crowd Overspeed	1610680098
+Retract Overspeed	1610680099
+InstantFaults.Word24.4	1610680100
+InstantFaults.Word24.5	1610680101
+InstantFaults.Word24.6	1610680102
+InstantFaults.Word24.7	1610680103
+InstantFaults.Word24.8	1610680104
+InstantFaults.Word24.9	1610680105
+InstantFaults.Word24.10	1610680106
+InstantFaults.Word24.11	1610680107
+InstantFaults.Word24.12	1610680108
+InstantFaults.Word24.13	1610680109
+InstantFaults.Word24.14	1610680110
+InstantFaults.Word24.15	1610680111
+InstantFaults.Word24.16	1610680112
+InstantFaults.Word24.17	1610680113
+InstantFaults.Word24.18	1610680114
+InstantFaults.Word24.19	1610680115
+InstantFaults.Word24.20	1610680116
+InstantFaults.Word24.21	1610680117
+InstantFaults.Word24.22	1610680118
+InstantFaults.Word24.23	1610680119
+InstantFaults.Word24.24	1610680120
+InstantFaults.Word24.25	1610680121
+InstantFaults.Word24.26	1610680122
+InstantFaults.Word24.27	1610680123
+InstantFaults.Word24.28	1610680124
+InstantFaults.Word24.29	1610680125
+OEM Interface Timeout	1610743776
+OEM Interface Normal	1610743777
+Driver Interface Timeout	1610743778
+Driver Interface Normal	1610743779

@@ -1,0 +1,48 @@
+453050369	Stop Activated	1	0	0
+453050370	Engine Speed (ECU)	200	0	28
+453050371	Injection Quantity [mm3]	100	0	0
+453050372	Idle Speed	200	0	28
+453050373	Injection Limitation	1	0	0
+453050374	Injection Quantity 0-120%	120	0	25
+453050375	Injection Limitation Limit Hi	120	0	25
+453050376	Cylinder Cutout	1	0	0
+453050377	Speed Limit 1	1	0	0
+453050378	Speed Limit 2	1	0	0
+453050379	ECU Power Supply Voltage	35	0	31
+453050380	ECU Operating Hours	50000	0	7
+453050381	Engine Speed Camshaft	1000	0	28
+453050382	Actual Fuel Consumption	1000	0	13
+453050383	Daily Fuel Consumption	24000	0	14
+453050384	Total Fuel Consumption	50000000	0	14
+453050385	Coolant Temperature (ECU)	120	0	5
+453050386	Charge Air Temperature	120	0	5
+453050387	Lube Oil Temperature	120	0	5
+453050388	Ambient Air Temperature	60	0	5
+453050389	Fuel Temperature	150	0	5
+453050390	Actual Droop	100	0	25
+453050391	Ground Speed	80.45	0	11
+453050392	Engine RPM	3000	0	28
+453050393	Alternator Temperature	205	-50	5
+453050394	Motor #1 Temperature	205	-50	5
+453050395	Motor #2 Temperature	205	-50	5
+453050396	Cruise Control Setpt	80.45	0	11
+453050397	Throttle Pedal	100	0	25
+453050398	Retard Pedal	100	0	25
+453050399	Steering Angle Enc	102	0	25
+453050400	Left Motor Current	2000	0	2
+453050401	Left Motor Speed	3600	0	28
+453050402	Right Motor Current	2000	0	2
+453050403	Right Motor Speed	3600	0	28
+453050404	Fuel Level	4542	0	14
+453050405	Battery Volts	30	0	31
+453050406	Oil Pressure	999.05	0	9
+453050407	Air Pressure	826.8	0	9
+453050408	Active Speed Limit	80.45	0	11
+453050409	Dump Body Up	1	0	0
+453050410	Park Brake On	1	0	0
+453050411	Service Brake On	1	0	0
+453050412	Gear Select	1	0	0
+453050413	Link Voltage Level	4000	0	31
+453050414	Link Current Level	2500	0	2
+453050415	Electric HP	2609.6	0	12
+453050416	Auxillary Blower Speed	127.5	0	32

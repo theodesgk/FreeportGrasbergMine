@@ -1,0 +1,44 @@
+167837697	Hydraulic Oil Temp	128	0	5
+167837698	Engine Speed[R]	9999	0	28
+167837699	Engine Speed[L]	9999	0	28
+167837700	Alternator Charge (On)	1	0	33
+167837701	Engine Running[R] (On)	1	0	33
+167837702	Engine Running[L] (On)	1	0	33
+167837703	Operating (On)	1	0	33
+167837704	Traveling (On)	1	0	33
+167837705	Swinging (On)	1	0	33
+167837706	Alternator Charge Fault (On)	1	0	33
+167837707	Coolant Level Low [R] (On)	1	0	33
+167837708	Coolant Level Low [L] (On)	1	0	33
+167837709	Coolant Temp Overheat R (On)	1	0	33
+167837710	Coolant Temp Overheat L (On)	1	0	33
+167837711	Hyd Oil Level Low (On)	1	0	33
+167837712	Hyd Oil Temp Overheat (On)	1	0	33
+167837713	Engine Oil Press Low R (On)	1	0	33
+167837714	Engine Oil Press Low L (On)	1	0	33
+167837715	Pump Trans Oil Press Low R (On)	1	0	33
+167837716	Pump Trans Oil Press Low L (On)	1	0	33
+167837717	Emergency Stop (On)	1	0	33
+167837718	Buzzer Stop (On)	1	0	33
+167837719	Fuel Level Low (On)	1	0	33
+167837720	Pump Contamination (On)	1	0	33
+167837721	Air Cleaner Restriction (On)	1	0	33
+167837722	Auto-Lubrication Fault (On)	1	0	33
+167837723	Engine Controller Fault (On)	1	0	33
+167837724	Key On (On)	1	0	33
+167837725	Engine On (On)	1	0	33
+167837726	Lamp Check (On)	1	0	33
+167837727	Exhaust Temp. High (On)	1	0	33
+167837728	Engine Warning Stop Sig.(On)	1	0	33
+167837729	Engine Warning Speed Derate.(On)	1	0	33
+167837730	Engine Warning Torque Derate(On)	1	0	33
+167837731	Engine Warning Stop Lamp [R] (On)	1	0	33
+167837732	Engine Warning Stop Lamp [L] (On)	1	0	33
+167837733	Engine Warning Protection Lamp [R] (On)	1	0	33
+167837734	Engine Warning Protection Lamp [L] (On)	1	0	33
+167837735	System Fault 1 (On)	1	0	33
+167837736	System Fault 2 (On)	1	0	33
+167837737	System Fault 3 (On)	1	0	33
+167837738	System Fault 4 (On)	1	0	33
+167837739	System Fault 5 (On)	1	0	33
+167837740	System Fault 6 (On)	1	0	33

@@ -1,0 +1,28 @@
+Status Truck Loaded	1426128897
+Status Truck In Move	1426128898
+Move Forward	1426128899
+Move Back	1426128900
+Lifting Platform	1426128901
+Ready To Move	1426128902
+Load 50 Pct	1426128903
+Load 80 Pct	1426128904
+Load 100 Pct	1426128905
+Start Loading	1426128906
+End Loading	1426128907
+Start Dumping	1426128908
+End Dumping	1426128909
+Fueling	1426128910
+Battery Low	1426128911
+Tire Pressure Extremely High	1426128912
+Tire Pressure Above Normal	1426128913
+Tire Pressure Below Normal	1426128914
+Tire Pressure Extremely Low	1426128915
+Tire Pressure Error Indiactor	1426128916
+Standing Empty	1426128917
+Moving Empty	1426128918
+Loaded Standing	1426128919
+Loaded Moving	1426128920
+OEM Interface Timeout	1426194400
+OEM Interface Normal	1426194401
+Driver Interface Timeout	1426194402
+Driver Interface Normal	1426194403

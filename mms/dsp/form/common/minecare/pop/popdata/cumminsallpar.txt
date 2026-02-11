@@ -1,0 +1,456 @@
+1778450433	Accelerator Pedal Position 1 / Percent Accelerator Pedal 	100	0	25
+1778450434	Actual Engine - Percent Torque	125	-125	25
+1778450435	Aftertreatment 1 Diesel Exhaust Fluid Tank Level	100	0	25
+1778450436	Aftertreatment 1 Diesel Exhaust Fluid Tank Temperature	210	-40	5
+1778450437	Aftertreatment 1 Outlet NOx 1 - Left Bank Outlet Nox - Parent	3012.75	-200	0
+1778450438	Aftertreatment 1 Outlet NOx 1 - Right Bank Outlet Nox - Child1	3012.75	-200	0
+1778450439	Aftertreatment 1 SCR Intake NOx 1 - Parent	3012.75	-200	0
+1778450440	Aftertreatment 1 SCR Intake NOx 1 - Child1	3012.75	-200	0
+1778450441	Aftertreatment 1 SCR Intake Temperature - Parent	1734.96875	-273	5
+1778450442	Aftertreatment 1 SCR Intake Temperature - Child1	1734.96875	-273	5
+1778450443	Aftertreatment 1 SCR Outlet Temperature - Parent	1734.96875	-273	5
+1778450444	Aftertreatment 1 SCR Outlet Temperature - Child1	1734.96875	-273	5
+1778450445	Ambient Air Temperature	1734.96875	-273	5
+1778450446	Barometric Pressure	125	0	9
+1778450447	Battery Potential / Power Input 1 / Electrical Potential	3212.75	0	31
+1778450448	Battery Potential / Power Input 1 - Parent	3212.75	0	31
+1778450449	Battery Potential / Power Input 1 - Child1	3212.75	0	31
+1778450450	Battery Potential / Power Input 1 - Child2	3212.75	0	31
+1778450451	Battery Potential / Power Input 1 - Child3	3212.75	0	31
+1778450452	Commanded Engine Fuel Rail Pressure - Parent	250.99609375	0	22
+1778450453	Commanded Engine Fuel Rail Pressure - Chilld1	250.99609375	0	22
+1778450454	Engine Coolant Temperature	210	-40	5
+1778450455	Engine Crankcase Pressure 1	251.9921875	-250	9
+1778450456	Engine Exhaust Pressure 1	251.9921875	-250	9
+1778450457	Engine Exhaust Gas Temperature / Average Exhaust Port Temperature	1734.96875	-273	5
+1778450458	Engine Fuel Temperature 1	210	-40	5
+1778450459	Engine Fuel Rate	3212.75	0	13
+1778450460	Engine Intake Manifold #1 Pressure / Boost Pressure	500	0	9
+1778450461	Engine Intake Manifold 1 Temperature	210	-40	5
+1778450462	Engine Oil Pressure	1000	0	9
+1778450463	Engine Oil Temperature 1	1734.96875	-273	5
+1778450464	Engine Percent Load At Current Speed	250	0	25
+1778450465	Engine Reference Torque	64255	0	24
+1778450466	Engine Speed	8031.875	0	28
+1778450467	Engine Total Fuel Used	2105540607.5	0	14
+1778450468	Engine Total Hours Of Operation	210554060.75	0	7
+1778450469	Engine Total Hours Of Operation - Parent	210554060.75	0	7
+1778450470	Engine Total Hours Of Operation - Child1	210554060.75	0	7
+1778450471	Engine Total Hours Of Operation - Child2	210554060.75	0	7
+1778450472	Engine Total Hours Of Operation - Child3	210554060.75	0	7
+1778450473	Engine Turbocharger 1 Compressor Intake Pressure	251.9921875	-250	9
+1778450474	Engine Turbocharger 1 Compressor Intake Temperature	1734.96875	-273	5
+1778450475	Engine Turbocharger 1 Speed	257020	0	28
+1778450476	Nominal Friction - Percent Torque	125	-125	25
+1778450477	Time Since Engine Start	64255	0	29
+1778450478	Total ECU Run Time	210554060.75	0	7
+1778450479	Water In Fuel Indicator 1	3	0	0
+1778450480	Actual Engine - Percent Torque High Resolution (Fractional) 	-110	-125	25
+1778450481	Actual Maximum Available Engine - Percent Torque	100	0	25
+1778450482	Aftertreatment 1 Diesel Exhaust Fluid Actual Dosing Quantity	72969.455865	0	13
+1778450483	Aftertreatment 1 Diesel Exhaust Fluid Doser Heating Mode Request - Parent	7	0	0
+1778450484	Aftertreatment 1 Diesel Exhaust Fluid Doser Heating Mode Request - Child1	7	0	0
+1778450485	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 1	3	0	0
+1778450486	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 1 - Parent	3	0	0
+1778450487	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 1 - Child1	3	0	0
+1778450488	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 2	3	0	0
+1778450489	Aftertreatment 1 Diesel Exhaust Fluid Tank Heater Command	100	0	25
+1778450490	Aftertreatment 1 Diesel Exhaust Fluid Tank Level/Volume Preliminary FMI	31	0	0
+1778450491	Aftertreatment 1 SCR System 1 State-Parent/Aftertreatment 2 SCR System 1 State	15	0	0
+1778450492	Aftertreatment 1 SCR System 1 State - Child1	15	0	0
+1778450493	Aftertreatment SCR Malfunction Time - Parent	4211081215	0	29
+1778450494	Aftertreatment SCR Malfunction Time - Child1	4211081215	0	29
+1778450495	Aftertreatment SCR Operator Inducement Severity - Parent	7	0	0
+1778450496	Aftertreatment SCR Operator Inducement Severity - Child1	7	0	0
+1778450497	Aftertreatment Selective Catalytic Reduction Operator Inducement Active - Parent	7	0	0
+1778450498	Aftertreatment Selective Catalytic Reduction Operator Inducement Active - Child1	7	0	0
+1778450499	Auxiliary Pressure #1	4000	0	9
+1778450500	Auxiliary Temperature 1	210	-40	5
+1778450501	Engine Build Hours Reset	3	0	0
+1778450502	Engine Build Hours Reset - Parent	3	0	0
+1778450503	Engine Build Hours Reset - Child1	3	0	0
+1778450504	Engine Build Hours Reset - Child2	3	0	0
+1778450505	Engine Build Hours Reset - Child3	3	0	0
+1778450506	Engine Controlled Shutdown Request	3	0	0
+1778450507	Engine Coolant Pressure 1	500	0	9
+1778450508	Engine Demand - Percent Torque	125	-125	25
+1778450509	Engine Alternate Droop Accelerator 1 Select	15	0	0
+1778450510	Engine ECU Temperature - Parent	1734.96875	-273	5
+1778450511	Engine ECU Temperature - Child1	1734.96875	-273	5
+1778450512	Engine ECU Temperature - Child2	1734.96875	-273	5
+1778450513	Engine ECU Temperature - Child3	1734.96875	-273	5
+1778450514	Engine ECU Temperature - Cense	1734.96875	-273	5
+1778450515	Engine Exhaust Gas Port 1 Temperature	1734.96875	-273	5
+1778450516	Engine Exhaust Gas Port 2 Temperature	1734.96875	-273	5
+1778450517	Engine Exhaust Gas Port 3 Temperature	1734.96875	-273	5
+1778450518	Engine Exhaust Gas Port 4 Temperature	1734.96875	-273	5
+1778450519	Engine Exhaust Gas Port 5 Temperature	1734.96875	-273	5
+1778450520	Engine Exhaust Gas Port 6 Temperature	1734.96875	-273	5
+1778450521	Engine Exhaust Gas Port 7 Temperature	1734.96875	-273	5
+1778450522	Engine Exhaust Gas Port 8 Temperature	1734.96875	-273	5
+1778450523	Engine Exhaust Gas Port 9 Temperature	1734.96875	-273	5
+1778450524	Engine Exhaust Gas Port 10 Temperature	1734.96875	-273	5
+1778450525	Engine Exhaust Gas Port 11 Temperature	1734.96875	-273	5
+1778450526	Engine Exhaust Gas Port 12 Temperature	1734.96875	-273	5
+1778450527	Engine Exhaust Gas Port 13 Temperature	1734.96875	-273	5
+1778450528	Engine Exhaust Gas Port 14 Temperature	1734.96875	-273	5
+1778450529	Engine Exhaust Gas Port 15 Temperature	1734.96875	-273	5
+1778450530	Engine Exhaust Gas Port 16 Temperature	1734.96875	-273	5
+1778450531	Engine Exhaust Gas Port 17 Temperature	1734.96875	-273	5
+1778450532	Engine Exhaust Gas Port 18 Temperature	1734.96875	-273	5
+1778450533	Engine Exhaust Manifold Bank 1 Temperature 1 / Engine EGT - Left Manifold	1734.96875	-273	5
+1778450534	Engine Exhaust Manifold Bank 2 Temperature 1 / Engine EGT - Right Manifold	1734.96875	-273	5
+1778450535	Engine Fan 1 Estimated Percent Speed	100	0	25
+1778450536	Engine Fan 1 Requested Percent Speed	100	0	25
+1778450537	Engine Fuel Delivery Pressure	1000	0	9
+1778450538	Engine Fuel Supply Pump Intake Absolute Pressure / Fuel Supply Pump Inlet Pressure	500	0	9
+1778450539	Engine Injector Metering Rail 1 Pressure	250.99609375	0	22
+1778450540	Engine Intake Manifold 2 Temperature	210	-40	5
+1778450541	Engine Intake Manifold 3 Temperature	210	-40	5
+1778450542	Engine Intake Manifold 4 Temperature	210	-40	5
+1778450543	Engine Oil Level Remote Reservoir	100	0	25
+1778450544	Engine Oil Pre-heater Control	3	0	0
+1778450545	Engine Oil Priming Pump Control	3	0	0
+1778450546	Engine Operating State	15	0	0
+1778450547	Engine Pre-filter Oil Pressure	1000	0	9
+1778450548	Engine Protection System Approaching Shutdown	3	0	0
+1778450549	Engine Protection System Configuration	3	0	0
+1778450550	Engine Protection System Has Shutdown Engine	3	0	0
+1778450551	Engine Protection System Timer Override	3	0	0
+1778450552	Engine Protection System Timer State	3	0	0
+1778450553	Engine Rated Power	32127.5	0	12
+1778450554	Engine Rated Power - Parent	32127.5	0	12
+1778450555	Engine Rated Power - Child1	32127.5	0	12
+1778450556	Engine Starter Mode	15	0	0
+1778450557	Engine Torque Mode	15	0	0
+1778450558	Engine Total Idle Fuel Used	2105540607.5	0	14
+1778450559	Engine Total Idle Hours	210554060.75	0	7
+1778450560	Engine Total Revolutions	4211081215	0	27
+1778450561	Engine Trip Fuel	2105540607.5	0	14
+1778450562	Engine Turbocharger 1 Boost Pressure	8031.875	0	9
+1778450563	Engine Turbocharger 2 Boost Pressure	8031.875	0	9
+1778450564	Fan Drive State	15	0	0
+1778450565	Instantaneous Estimated Brake Power / Bhp	32127.5	0	12
+1778450566	Instantaneous Estimated Brake Power - Parent	32127.5	0	12
+1778450567	Instantaneous Estimated Brake Power - Child1	32127.5	0	12
+1778450568	SCR Operator Inducement Override Switch	3	0	0
+1778450569	SCR Operator Inducement Total Time	4211081215	0	29
+1778450570	Source Address Of Controlling Device For Engine Control	250	0	0
+1778450571	Operator Inducement Torque Derate Level 1 - Parent	250	0	25
+1778450572	Operator Inducement Torque Derate Level 1 - Child1	250	0	25
+1778450573	Operator Inducement Time To Torque Derate Level 1 - Parent	1070.91666666667	0	7
+1778450574	Operator Inducement Time To Torque Derate Level 1 - Child1	1070.91666666667	0	7
+1778450575	Operator Inducement Torque Derate Level 2 - Parent	250	0	25
+1778450576	Operator Inducement Torque Derate Level 2 - Child1	250	0	25
+1778450577	Operator Inducement Time To Torque Derate Level 2 - Parent	1070.91666666667	0	7
+1778450578	Operator Inducement Time To Torque Derate Level 2 - Child1	1070.91666666667	0	7
+1778450579	Aftertreatment 1 Total Fuel Used	2105540607.5	0	14
+1778450580	Aftertreatment 2 Total Fuel Used	2105540607.5	0	14
+1778450581	Engine Protect Lamp Command	3	0	0
+1778450582	Engine Amber Warning Lamp Command	3	0	0
+1778450583	Engine Red Stop Lamp Command	3	0	0
+1778450584	Engine Injector Timing Rail 1 Pressure	250.99609375	0	22
+1778450585	Engine Turbocharger 3 Boost Pressure	8031.875	0	9
+1778450586	Engine Oil Filter Differential Pressure/Lube Oil Filter Restriction	125	0	9
+1778450587	Engine Extended Crankcase Blow-by Pressure	12.5	0	9
+1778450588	Engine Oil Level	100	0	25
+1778450589	Engine Oil-Filter Outlet Pressure	1000	0	9
+1778450590	Engine Turbocharger 2 Compressor Intake Temperature	1734.96875	-273	5
+1778450591	Engine Turbocharger 2 Compressor Intake Pressure	251.9921875	-250	9
+1778450592	Engine Turbocharger 2 Speed	257020	0	28
+1778450593	Engine Oil Pressure (High Resolution/Extended Range)	6425.5	0	9
+1778450594	Engine Fuel Delivery Pressure (High Resolution/Extended Range)	6425.5	0	9
+1778450595	Engine Pre-Filter Oil Pressure/Oil Filter Intake Pressure (High Resolution/Extended Range)	6425.5	0	9
+1778450596	Engine Oil Filter Differential Pressure (Extended Range)	1250	0	9
+1778450597	Engine Fuel Supply Pump Intake Absolute Pressure (Extended Range)	1250	0	9
+1778450598	Aftertreatment 1 Diesel Exhaust Fluid Doser 1 Absolute Pressure	2000	0	9
+1778450599	Aftertreatment 2 Diesel Exhaust Fluid Doser 1 Absolute Pressure	2000	0	9
+1778450600	Aftertreatment 2 Diesel Exhaust Fluid Actual Dosing Quantity	72969.455865	0	13
+1778450601	Engine Serial Number - Upper Half	4211081215	0	0
+1778450602	Engine Serial Number - Lower Half	4211081215	0	0
+1778450603	Engine Serial Number	0	0	0
+1778450604	Calibration Identification - Parent	0	0	0
+1778450605	Calibration Identification - Child1	0	0	0
+1778450606	Calibration Identification - Child2	0	0	0
+1778450607	Calibration Identification - Child3	0	0	0
+1778450608	Calibration Verification Number - Parent	0	0	0
+1778450609	Calibration Verification Number - Child1	0	0	0
+1778450610	Calibration Verification Number - Child2	0	0	0
+1778450611	Calibration Verification Number - Child3	0	0	0
+1778450612	Number Of Software Identification Fields - Parent	250	0	0
+1778450613	Number Of Software Identification Fields - Child1	250	0	0
+1778450614	Number Of Software Identification Fields - Child2	250	0	0
+1778450615	Number Of Software Identification Fields - Child3	250	0	0
+1778450616	Software Identification - Parent	0	0	0
+1778450617	Software Identification - Child1	0	0	0
+1778450618	Software Identification - Child2	0	0	0
+1778450619	Software Identification - Child3	0	0	0
+1778450620	Software Identification	0	0	0
+1778450621	Make	0	0	0
+1778450622	Model	0	0	0
+1778450623	Unit Number (Power Unit)	0	0	0
+1778450624	Actual Retarder - Percent Torque	125	-125	25
+1778450625	Remote Accelerator Pedal Position	100	0	25
+1778450626	Engine Intake Air Mass Flow Rate	3212.75	0	0
+1778450627	Engine Exhaust Gas Recirculation 1 Mass Flow Rate	3212.75	0	0
+1778450628	Aftertreatment 1 Intake Percent O2 1	21.02707	-12	25
+1778450629	Aftertreatment 1 Intake Percent O2 2	21.02707	-12	25
+1778450630	Aftertreatment 1 Outlet Percent O2 1	21.02707	-12	25
+1778450631	Aftertreatment 1 Outlet Percent O2 2	21.02707	-12	25
+1778450632	Aftertreatment 1 SCR Intermediate NH3 1	6225.5	-200	0
+1778450633	Aftertreatment 1 SCR Intermediate NH3 2	6225.5	-200	0
+1778450634	Engine Oil Filter Differential Pressure (Extended Range)	251.9921875	-250	9
+1778450635	Aftertreatment 1 SCR Intermediate Temperature 1	1734.96875	-273	5
+1778450636	Aftertreatment 1 SCR Intermediate Temperature 2	1734.96875	-273	5
+1778450637	Engine Turbocharger 1 Turbine Outlet Pressure	500	0	9
+1778450638	Engine Oil Viscosity	1003.984375	0	0
+1778450639	Engine Oil Density	1.9610626	0	0
+1778450640	Engine Oil Relative Dielectricity (High Resolution)	7.8436279296875	0	0
+1778450641	Aftertreatment 1 Diesel Oxidation Catalyst Intake Temperature 1	1734.96875	-273	5
+1778450642	Aftertreatment 1 Diesel Oxidation Catalyst Intake Temperature 2	1734.96875	-273	5
+1778450643	Aftertreatment 1 Diesel Particulate Filter Intake Pressure 1	6425.5	0	9
+1778450644	Aftertreatment 1 Diesel Particulate Filter Intake Pressure 2	6425.5	0	9
+1778450645	Aftertreatment 1 Diesel Particulate Filter Outlet Pressure 1	6425.5	0	9
+1778450646	Aftertreatment 1 Diesel Particulate Filter Outlet Pressure 2	6425.5	0	9
+1778450647	Engine Exhaust Gas Recirculation 1 Valve Position	160.6375	0	25
+1778450648	Aftertreatment 1 Diesel Exhaust Fluid Concentration 1	62.5	0	25
+1778450649	Aftertreatment 1 Diesel Exhaust Fluid Concentration 2	62.5	0	25
+1778450650	Engine Charge Air Cooler Outlet Pressure	500	0	9
+1778450651	Aftertreatment 1 Diesel Particulate Filter Differential Pressure 1	6425.5	0	9
+1778450652	Aftertreatment 1 Diesel Particulate Filter Differential Pressure 2	6425.5	0	9
+1778450653	Aftertreatment 1 Diesel Particulate Filter Outlet Temperature 1	1734.96875	-273	5
+1778450654	Aftertreatment 1 Diesel Particulate Filter Outlet Temperature 2	1734.96875	-273	5
+1778450655	Aftertreatment 1 Diesel Particulate Filter Intake Temperature 1	1734.96875	-273	5
+1778450656	Aftertreatment 1 Diesel Particulate Filter Intake Temperature 2	1734.96875	-273	5
+1778450657	Aftertreatment 1 Exhaust Temperature 1	1734.96875	-273	5
+1778450658	Aftertreatment 1 Exhaust Temperature 2	1734.96875	-273	5
+1778450659	Engine Air Filter 2 Differential Pressure	12.5	0	9
+1778450660	Engine Air Filter 3 Differential Pressure	12.5	0	9
+1778450661	Engine Air Filter 4 Differential Pressure	12.5	0	9
+1778450662	Engine Fuel Filter (suction side) Differential Pressure	500	0	9
+1778450663	Ambient Temperature (FE9A) - Byte 3	210	-40	5
+1778450664	Engine Intake Manifold 5 Temperature	210	-40	5
+1778450665	Engine Intake Manifold 6 Temperature	210	-40	5
+1778450666	Fan Speed	8031.875	0	28
+1778450667	Two Speed Axle Switch	3	0	0
+1778450668	Parking Brake Switch	3	0	0
+1778450669	Cruise Control Pause Switch	3	0	0
+1778450670	Park Brake Release Inhibit Request	3	0	0
+1778450671	Wheel-Based Vehicle Speed	250.99609375	0	11
+1778450672	Cruise Control Active	3	0	0
+1778450673	Cruise Control Enable Switch	3	0	0
+1778450674	Brake Switch	3	0	0
+1778450675	Clutch Switch	3	0	0
+1778450676	Cruise Control Set Switch	3	0	0
+1778450677	Cruise Control Coast (Decelerate) Switch	3	0	0
+1778450678	Cruise Control Resume Switch	3	0	0
+1778450679	Cruise Control Accelerate Switch	3	0	0
+1778450680	Cruise Control Set Speed	250	0	11
+1778450681	PTO Governor State	31	0	0
+1778450682	Cruise Control States	7	0	0
+1778450683	Engine Instantaneous Fuel Economy	12549.8046875	0	15
+1778450684	Engine Average Fuel Economy	12549.8046875	0	15
+1778450685	Engine Air Filter 1 Differential Pressure	12.5	0	9
+1778450686	Engine Coolant Filter Differential Pressure	125	0	9
+1778450687	Keyswitch Battery Potential	3212.75	0	31
+1778450688	Engine Fuel Filter Differential Pressure	500	0	9
+1778450689	Post-Filter Oil Pressure (FF08) - Byte 1	1000	0	9
+1778450690	Post-Filter Oil Pressure	1000	0	9
+1778450691	Engine Emergency (Immediate) Shutdown Indication	3	0	0
+1778450692	Engine Derate Request	100	0	25
+1778450693	Engine Oil Temperature 1 Sensor 2	1734.96875	-273	5
+1778450694	Driver Demand Engine - Percent Torque	125	-125	25
+1778450695	Engine Coolant Level	100	0	25
+1778450696	Estimated Engine Parasitic Losses - Percent Torque	125	-125	25
+1778450697	Aftertreatment 1 Diesel Exhaust Fluid Doser Fault Suppression Request	3	0	0
+1778450698	Engine Oil Priming State	3	0	0
+1778450699	Fuel Pump Priming State	3	0	0
+1778450700	Engine Idle Shutdown Has Shutdown Engine	3	0	0
+1778450701	Engine Idle Shutdown Driver Alert Mode	3	0	0
+1778450702	Engine Idle Shutdown Timer Override	3	0	0
+1778450703	Engine Idle Shutdown Timer State	3	0	0
+1778450704	Engine Idle Shutdown Timer Function	3	0	0
+1778450705	Total Engine Energy	4211081215	0	34
+1778450706	Total Engine Energy - Parent	4211081215	0	34
+1778450707	Total Engine Energy - Child1	4211081215	0	34
+1778450708	SCR System Cleaning Lamp Command	7	0	0
+1778450709	SCR Operator Inducement Override Enable	3	0	0
+1778450710	Diesel Exhaust Fluid Tank1 Empty Time	4211081215	0	29
+1778450711	Diesel Exhaust Fluid Quality Malfunction Time	4211081215	0	29
+1778450712	Aftertreatment 2 Diesel Exhaust Fluid Line Heater 1 State	3	0	0
+1778450713	Aftertreatment 1 Diesel Exhaust Fluid Line Heater 1 State	3	0	0
+1778450714	Electrical Load	32127.5	0	12
+1778450715	Vehicle Identification Number	0	0	0
+1778450716	Accelerator Interlock Switch	3	0	0
+1778450717	Engine Derate Switch	3	0	0
+1778450718	Auxiliary Engine Shutdown Switch	3	0	0
+1778450719	Remote Accelerator Enable Switch	3	0	0
+1778450720	Engine Retarder Selection	100	0	25
+1778450721	Torque Converter Lockup Engaged	3	0	0
+1778450722	Transmission Output Shaft Speed	8031.875	0	28
+1778450723	Momentary Engine Overspeed Enable	3	0	0
+1778450724	Accelerator Pedal 1 Low Idle Switch	3	0	0
+1778450725	Accelerator Pedal Kickdown Switch	3	0	0
+1778450726	Engine Operator Primary Intermediate Speed Select	15	0	0
+1778450727	Engine Auxiliary Governor Switch	3	0	0
+1778450728	Engine Synchronization Switch/Multi Unit Sync On-Off Switch	3	0	0
+1778450729	Engine Alternate Low Idle Switch	3	0	0
+1778450730	Engine Alternate Rating Select	250	0	0
+1778450731	Engine Droop Accelerator 2 Select	15	0	0
+1778450732	Engine Droop Remote Accelerator Select	15	0	0
+1778450733	Engine Alternate Droop Auxiliary Input Select	15	0	0
+1778450734	Engine ECU Temperature - MCRS	1734.96875	-273	5
+1778450735	Rated Engine Speed	8031.875	0	28
+1778450736	Active Trouble Codes	250	0	0
+1778450737	Previously Active Diagnostic Trouble Codes	250	0	0
+1778450738	Obd Compliance	250	0	0
+1778450739	Continuously Monitored Systems Support/Status	250	0	0
+1778450740	Non-Continuously Monitored Systems Support	64255	0	0
+1778450741	Non-Continuously Monitored Systems Status	64255	0	0
+1778450742	Engine Desired Operating Speed	8031.875	0	28
+1778450743	Engines Desired Operating Speed Asymmetry Adjustment	250	0	0
+1778450744	Power Takeoff Oil Temperature	210	-40	5
+1778450745	Power Takeoff Speed	8031.875	0	28
+1778450746	Power Takeoff Set Speed	8031.875	0	28
+1778450747	Pto Enable Switch	3	0	0
+1778450748	Remote Pto Preprogrammed Switch	3	0	0
+1778450749	Remote Pto Variable Speed	3	0	0
+1778450750	Pto Set Switch	3	0	0
+1778450751	Pto Coast/Decelerate	3	0	0
+1778450752	Pto Resume Switch	3	0	0
+1778450753	Pto Accelerate Switch	3	0	0
+1778450754	Auxiliary I/O 1	3	0	0
+1778450755	Engine Idle Increment Switch	3	0	0
+1778450756	Engine Idle Decrement Switch	3	0	0
+1778450757	Engine Test Mode Switch	3	0	0
+1778450758	Engine Shutdown Override Switch	3	0	0
+1778450759	Engine Total Average Fuel Rate	3212.75	0	13
+1778450760	Left Bank Rear Compressor Inlet Temperature 2	1734.96875	-273	5
+1778450761	Engine Exhaust Gas Port 1 Temperature  (QSK45)	1734.96875	-273	5
+1778450762	Engine Exhaust Gas Port 2 Temperature (QSK45)	1734.96875	-273	5
+1778450763	Engine Exhaust Gas Port 3 Temperature (QSK45)	1734.96875	-273	5
+1778450764	Engine Exhaust Gas Port 4 Temperature (QSK45)	1734.96875	-273	5
+1778450765	Engine Exhaust Gas Port 5 Temperature (QSK45)	1734.96875	-273	5
+1778450766	Engine Exhaust Gas Port 6 Temperature (QSK45)	1734.96875	-273	5
+1778450767	Engine Exhaust Gas Port 7 Temperature (QSK45)	1734.96875	-273	5
+1778450768	Engine Exhaust Gas Port 8 Temperature (QSK45)	1734.96875	-273	5
+1778450769	Engine Exhaust Gas Port 9 Temperature (QSK45)	1734.96875	-273	5
+1778450770	Engine Exhaust Gas Port 10 Temperature (QSK45)	1734.96875	-273	5
+1778450771	Engine Exhaust Gas Port 11 Temperature (QSK45)	1734.96875	-273	5
+1778450772	Engine Exhaust Gas Port 12 Temperature (QSK45)	1734.96875	-273	5
+1778450773	Engine Exhaust Gas Port 1 Temperature  (QSK60)	1734.96875	-273	5
+1778450774	Engine Exhaust Gas Port 2 Temperature (QSK60)	1734.96875	-273	5
+1778450775	Engine Exhaust Gas Port 3 Temperature (QSK60)	1734.96875	-273	5
+1778450776	Engine Exhaust Gas Port 4 Temperature (QSK60)	1734.96875	-273	5
+1778450777	Engine Exhaust Gas Port 5 Temperature (QSK60)	1734.96875	-273	5
+1778450778	Engine Exhaust Gas Port 6 Temperature (QSK60)	1734.96875	-273	5
+1778450779	Engine Exhaust Gas Port 7 Temperature (QSK60)	1734.96875	-273	5
+1778450780	Engine Exhaust Gas Port 8 Temperature (QSK60)	1734.96875	-273	5
+1778450781	Engine Exhaust Gas Port 9 Temperature (QSK60)	1734.96875	-273	5
+1778450782	Engine Exhaust Gas Port 10 Temperature (QSK60)	1734.96875	-273	5
+1778450783	Engine Exhaust Gas Port 11 Temperature (QSK60)	1734.96875	-273	5
+1778450784	Engine Exhaust Gas Port 12 Temperature (QSK60)	1734.96875	-273	5
+1778450785	Engine Exhaust Gas Port 13 Temperature (QSK60)	1734.96875	-273	5
+1778450786	Engine Exhaust Gas Port 14 Temperature (QSK60)	1734.96875	-273	5
+1778450787	Engine Exhaust Gas Port 15 Temperature (QSK60)	1734.96875	-273	5
+1778450788	Engine Exhaust Gas Port 16 Temperature (QSK60)	1734.96875	-273	5
+1778450789	Engine Exhaust Gas Port 1 (Physical 1L / Insite 1L) Temperature (QSK78)	1734.96875	-273	5
+1778450790	Engine Exhaust Gas Port 2 (Physical 2L / Insite 3L) Temperature (QSK78)	1734.96875	-273	5
+1778450791	Engine Exhaust Gas Port 3 (Physical 3L / Insite 5L) Temperature (QSK78)	1734.96875	-273	5
+1778450792	Engine Exhaust Gas Port 4 (Physical 4L / Insite 7L) Temperature (QSK78)	1734.96875	-273	5
+1778450793	Engine Exhaust Gas Port 5 (Physical 5L / Insite 9L) Temperature (QSK78)	1734.96875	-273	5
+1778450794	Engine Exhaust Gas Port 6 (Physical 6L / Insite 11L) Temperature (QSK78)	1734.96875	-273	5
+1778450795	Engine Exhaust Gas Port 7 (Physical 7L / Insite 13L) Temperature (QSK78)	1734.96875	-273	5
+1778450796	Engine Exhaust Gas Port 8 (Physical 8L / Insite 15L) Temperature (QSK78)	1734.96875	-273	5
+1778450797	Engine Exhaust Gas Port 9 (Physical 9L / Insite 17L) Temperature (QSK78)	1734.96875	-273	5
+1778450798	Engine Exhaust Gas Port 10 (Physical 1R / Insite 2R) Temperature (QSK78)	1734.96875	-273	5
+1778450799	Engine Exhaust Gas Port 11 (Physical 2R / Insite 4R) Temperature (QSK78)	1734.96875	-273	5
+1778450800	Engine Exhaust Gas Port 12 (Physical 3R / Insite 6R) Temperature (QSK78)	1734.96875	-273	5
+1778450801	Engine Exhaust Gas Port 13 (Physical 4R / Insite 8R) Temperature (QSK78)	1734.96875	-273	5
+1778450802	Engine Exhaust Gas Port 14 (Physical 5R / Insite 10R) Temperature (QSK78)	1734.96875	-273	5
+1778450803	Engine Exhaust Gas Port 15 (Physical 6R / Insite 12R) Temperature (QSK78)	1734.96875	-273	5
+1778450804	Engine Exhaust Gas Port 16 (Physical 7R / Insite 14R) Temperature (QSK78)	1734.96875	-273	5
+1778450805	Engine Exhaust Gas Port 17 (Physical 8R / Insite 16R) Temperature (QSK78)	1734.96875	-273	5
+1778450806	Engine Exhaust Gas Port 18 (Physical 9R / Insite 18R) Temperature (QSK78)	1734.96875	-273	5
+1778450807	Requested speed control conditions	3	0	0
+1778450808	Aftertreatment 1 Diesel Exhaust Fluid Actual Dosing Quantity - Child1 (QSK 95)	72969.455865	0	13
+1778450809	Aftertreatment 1 Diesel Exhaust Fluid Actual Dosing Quantity - Child2 (QSK 95)	72969.455865	0	13
+1778450810	Aftertreatment 1 Diesel Exhaust Fluid Actual Dosing Quantity - Child3 (QSK 95)	72969.455865	0	13
+1778450811	Diesel Exhaust Fluid Frozen Time	4211081215	0	29
+1778450812	Engine Desired Torque Request	125	-125	25
+1778450813	Engine Exhaust Gas Temperature - Right Manifold - Parent (QSK 95)	1734.96875	-273	5
+1778450814	Engine Exhaust Gas Temperature - Right Manifold - Child1 (QSK 95)	1734.96875	-273	5
+1778450815	Engine Exhaust Gas Temperature - Left Manifold - Parent (QSK 95)	1734.96875	-273	5
+1778450816	Engine Exhaust Gas Temperature - Left Manifold - Child1 (QSK 95)	1734.96875	-273	5
+1778450817	Engine Turbocharger 1 Compressor Intake Temperature	1734.96875	-273	5
+1778450818	Intake Manifold 5 Temperature - Child2 (QSK 78)	210	-40	5
+1778450819	Intake Manifold 6 Temperature - Child3 (QSK 78)	210	-40	5
+1778450820	Aftertreatment 1 Intake Dew Point (Exhaust Bank 1) - Parent (QSK 95)	3	0	0
+1778450821	Aftertreatment 1 Intake Dew Point (Exhaust Bank 1) - Child1 (QSK 95)	3	0	0
+1778450822	Aftertreatment 1 Exhaust Dew Point (Exhaust Bank 1) - Parent (QSK 95)	3	0	0
+1778450823	Aftertreatment 1 Exhaust Dew Point (Exhaust Bank 1) - Child1 (QSK 95)	3	0	0
+1778450824	Aftertreatment 2 Intake Dew Point (Exhaust Bank 2) - Parent (QSK 95)	3	0	0
+1778450825	Aftertreatment 2 Intake Dew Point (Exhaust Bank 2) - Child1 (QSK 95)	3	0	0
+1778450826	Aftertreatment 2 Exhaust Dew Point (Exhaust Bank 2) - Parent (QSK 95)	3	0	0
+1778450827	Aftertreatment 2 Exhaust Dew Point (Exhaust Bank 2) - Child1 (QSK 95)	3	0	0
+1778450828	Engine Speed At Idle Point 1 (Engine Configuration)	8031.875	0	28
+1778450829	Engine Percent Torque At Idle Point 1 (Engine Configuration)	125	-125	25
+1778450830	Engine Speed At Point 2 (Engine Configuration)	8031.875	0	28
+1778450831	Engine Percent Torque At Point 2 (Engine Configuration)	125	-125	25
+1778450832	Engine Speed At Point 3 (Engine Configuration)	8031.875	0	28
+1778450833	Engine Percent Torque At Point 3 (Engine Configuration)	125	-125	25
+1778450834	Engine Speed At Point 4 (Engine Configuration)	8031.875	0	28
+1778450835	Engine Percent Torque At Point 4 (Engine Configuration)	125	-125	25
+1778450836	Engine Speed At Point 5 (Engine Configuration)	8031.875	0	28
+1778450837	Engine Percent Torque At Point 5 (Engine Configuration)	125	-125	25
+1778450838	Engine Speed At High Idle Point 6 (Engine Configuration)	8031.875	0	28
+1778450839	Engine Requested Speed Control Range Lower Limit	2500	0	28
+1778450840	Engine Requested Speed Control Range Upper Limit	2500	0	28
+1778450841	Engine Requested Torque Control Range Lower Limit	125	-125	25
+1778450842	Engine Requested Torque Control Range Upper Limit	125	-125	25
+1778450843	Extended Range Requested Speed Control Range Upper Limit	8031.875	0	28
+1778450844	Engine Moment of Inertia	257.02	0	0
+1778450845	Seconds	62.5	0	29
+1778450846	Minutes	4.16666666666667	0	7
+1778450847	Hours	250	0	7
+1778450848	Month	180000	0	7
+1778450849	Day	1500	0	7
+1778450850	Year	19578600	17388600	7
+1778450851	Engine PTO Governor Enable Switch	3	0	0
+1778450852	Engine Remote PTO Governor Variable Speed Control Switch	3	0	0
+1778450853	Engine PTO Governor Set Switch	3	0	0
+1778450854	Engine PTO Governor Coast/Decelerate Switch	3	0	0
+1778450855	Engine PTO Governor Accelerate Switch	3	0	0
+1778450856	CCO Timer 1 (P_EXM_CCO_LB_Cutout_Time)	32127.5	0	7
+1778450857	CCO Timer 2 (P_EXM_CCO_RB_Cutout_Time)	32127.5	0	7
+1778450858	CCO Timer 3 (P_EXM_CCO_WS_Cutout_Time)	32127.5	0	7
+1778450859	CCO Enable (T_EXM_CHM_Activation_En)	3	0	0
+1778450860	Fast Idle Enable (T_EXH_FI_En)	3	0	0
+1778450861	Load Management Enable (T_EXH_LM_En)	3	0	0
+1778450862	Thermal Management Active (EXH_Thermal_Mgmt_Active)	3	0	0
+1778450863	CHM Active Time (EXH_CHM_Active_Timer)	32127.5	0	7
+1778450864	LM Request Active Time (EXH_LM_Active_Timer)	32127.5	0	7
+1778450865	Fast Idle Active Time (EXH_FI_Timer)	32127.5	0	7
+1778450866	Desorb State (PTM_Final_Oper_Mode) - Parent	3	0	0
+1778450867	Desorb State (PTM_Final_Oper_Mode) - Child1	3	0	0
+1778450868	HC Desorb Counter (V_HCD_pc_HC_Desorb) - Parent	6425.5	0	25
+1778450869	HC Desorb Counter (V_HCD_pc_HC_Desorb) - Child1	6425.5	0	25
+1778450870	HC Decoke Counter (V_HCD_pc_HC_Decoke) - Parent	6425.5	0	25
+1778450871	HC Decoke Counter (V_HCD_pc_HC_Decoke) - Child1	6425.5	0	25
+1778450872	Decoke Timer (V_HCD_tmh_Until_Decoke) - Parent	32127.5	0	7
+1778450873	Decoke Timer (V_HCD_tmh_Until_Decoke) - Child1	32127.5	0	7
+1778450874	Engine Coolant Temperature (High Resolution) - MCRS	1734.96875	-273	5
+1778450875	Engine Charge Air Cooler 1 Outlet Temperature - MCRS	1734.96875	-273	5
+1778450876	Engine Maximum Momentary Override Speed Point 7 - MCRS	8031.875	0	28
+1778450877	Post-Filter Oil Pressure - MCRS	257020	0	9
+1778450878	Maximum Available Net Engine Torque - MCRS	64255	0	24
+1778450879	Net Engine Torque - MCRS	64255	0	24
+1778450880	Maximum Available Net Engine Torque Margin - MCRS	64255	0	24
+1778450881	Maximum Available Engine Horse Power - MCRS	32127.5	0	12
+1778450882	Engine Oil Temperature 2 (QSK 95)	1734.96875	-273	5
+1778450883	Engine Intake Manifold 5 Temperature	210	-40	5
+1778450884	Engine Intake Manifold 6 Temperature	210	-40	5
+1778450885	SCR Thermal Management Active (QSK95)	3	0	0
+1778450886	Aftertreatment 1 Exhaust Gas Mass Flow Rate (QSK95)	12851	0	0
+1778450887	Engine Exhaust Gas Port 17 Temperature - Child2	1734.96875	-273	5
+1778450888	Engine Exhaust Gas Port 18 Temperature - Child3	1734.96875	-273	5

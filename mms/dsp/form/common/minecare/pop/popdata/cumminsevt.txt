@@ -1,0 +1,678 @@
+Engine Speed High - Critical - Level 3:Repair At Next Pm	469827616
+Eng Speed/Pos Sensor Circuit Lost Two Signals From Sensor - Level 2:Repair Engine Same Day	469827618
+Eng Speed/Pos Sensor Circuit Lost One Signal From Sensor - Level 2:Repair Engine Same Day	469827626
+Intake Manifold Pres Sensor Circuit - Data Incorrect	469827650
+Intake Manifold Pres Sensor #1 Circuit - Shorted High - Level 2:Repair Engine Same Day	469827651
+Intake Manifold Pres Sensor #1 Circuit - Shorted Low - Level 2:Repair Engine Same Day	469827652
+High Boost Lb	469827664
+Low Boost Lb	469827666
+Boost Ckt Failed High Rb	469827683
+Boost Ckt Failed Low Rb	469827684
+High Boost Rb	469827696
+Low Boost Rb	469827698
+Accelerator Pedal Idle Validation Circuit - Data Incorrect - Level 3:Repair At Next Pm	469827714
+Accelerator Pedal Position Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day	469827715
+Accelerator Pedal Position Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469827716
+Accelerator Pedal Pos Sensor Circuit - High/Low Frequency - Level 2: Repair Engine Same Day	469827720
+Accelerator Pedal Idle Validation Circuit - Out Of Calibration - Level 3:Repair At Next Pm	469827725
+Sae J1939 Multiplexing Accelerator Pedal Sensor System Error	469827731
+Engine Oil Pressure Low - Critical - Level 1:Stop Engine Now	469827745
+Eng Oil Pres Sensor Circuit - Data Incorrect	469827746
+Eng Oil Pres Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day	469827747
+Eng Oil Pres Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469827748
+Engine Oil Pressure Low - Warning	469827762
+Pre Filter Oil Press Ckt Failed High	469827779
+Pre Filter Oil Press Ckt Failed Low	469827780
+Eng Coolant Temperature High - Critical - Level 1:Stop Engine Now	469827808
+Eng Coolant Temperature Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day	469827811
+Eng Coolant Temperature Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469827812
+Engine Coolant Temperature High - Warning	469827824
+Intake Manifold Temperature #1 High - Critical - Level 1:Stop Engine Now	469827840
+Intake Manifold Temperature Sensor #1 Circuit - Shorted High - Level 2:Repair Engine Same Day	469827843
+Intake Manifold Temperature Sensor #1 Circuit - Shorted Low - Level 2:Repair Engine Same Day	469827844
+Rapid Rise In Lbf Intake Manifold Temp	469827850
+Intake Manifold Temperature High - Warning	469827856
+High Intake Manifold Temp Lbr	469827872
+Lbr Intake Manifold Temp Ckt Failed High	469827875
+Lbr Intake Manifold Temp Ckt Failed Low	469827876
+Rapid Rise In Lbr Intake Manifold Temp	469827882
+Highintake Manifold Temp Rbf	469827904
+Rbfintake Manifold Temp Ckt Failed High	469827907
+Rbfintake Manifold Temp Ckt Failed Low	469827908
+Rapid Rise In Rbf Intake Manifold Temp	469827914
+Highintake Manifold Temp Rbr	469827936
+Rbrintake Manifold Temp Ckt Failed High	469827939
+Rbrintake Manifold Temp Ckt Failed Low	469827940
+Rapid Rise In Rbr Intake Manifold Temp	469827946
+High Oil Temp	469827968
+Oil Temp Ckt Failed High	469827971
+Oil Temp Ckt Failed Low	469827972
+Ambient Air Pres Sensor Circuit - Data Incorrect	469828002
+Ambient Air Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day	469828003
+Ambient Air Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469828004
+Engine Coolant Pressure Low - Warning - Level 1:Stop Engine Now	469828033
+Engine Coolant Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day	469828035
+Engine Coolant Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469828036
+Low Coolant Press	469828050
+Engine Coolant Level Low - Critical - Level 1:Stop Engine Now	469828065
+Engine Coolant Level Sensor Circuit - Data Incorrect - Level 2:Repair Engine Same Day	469828066
+Engine Oil Level #1 Low - Critical - Level 1:Stop Engine Now	469828097
+Engine Oil Level #1 Sensor Circuit - Data Incorrect - Level 2:Repair Engine Same Day	469828098
+Battery #1 Voltage High - Warning - Level 2:Repair Engine Same Day	469828128
+Battery #1 Voltage Low - Warning - Level 3:Repair At Next Pm	469828129
+Battery #1 Voltage High - Warning	469828144
+Battery #1 Voltage Low - Warning	469828146
+Injector Metering Rail #1 Pressure High - Warning Level - Level 2:Repair Engine Same Day	469828160
+Fuel Pres Sensor Error - Level 2:Repair Engine Same Day	469828162
+Injector Metering Rail #1 Press Sensor Circuit - Shorted Hi - Level 2:Repair Engine Same Day	469828163
+Injector Metering Rail #1 Press Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469828164
+Injector Metering Rail #1 Pres Malfunction	469828167
+Injector Metering Rail #1 Pres High - Yellow Lamp Warning Level	469828176
+Engine Blowby - Warning Level - Level 1:Stop Engine Now	469828192
+Crankcase Blowby Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day	469828195
+Crankcase Blowby Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469828196
+High Blowby Press	469828208
+High Oil Filter Rest	469828225
+Rbf Turbo Comp Inlet Temp Sens Failed High	469828259
+High Turbo Comp Inlet Temp Rb	469828272
+High Exh Temp #1 Lb	469828288
+Exh Temp Ckt Failed Low #1 Lb	469828292
+High Power #1 Lb	469828304
+Low Power #1 Lb	469828306
+High Exh Temp #2 Lb	469828320
+Exh Temp Ckt Failed Low #2 Lb	469828324
+High Power #2 Lb	469828336
+Low Power #2 Lb	469828338
+High Exh Temp #3 Lb	469828352
+Exh Temp Ckt Failed Low #3 Lb	469828356
+High Power #3 Lb	469828368
+Low Power #3 Lb	469828370
+High Exh Temp #4 Lb	469828384
+Exh Temp Ckt Failed Low #4 Lb	469828388
+High Power #4 Lb	469828400
+Low Power #4 Lb	469828402
+High Exh Temp #5 Lb	469828416
+Exh Temp Ckt Failed Low #5 Lb	469828420
+High Power #5 Lb	469828432
+Low Power #5 Lb	469828434
+High Exh Temp #6 Lb	469828448
+Exh Temp Ckt Failed Low #6 Lb	469828452
+High Power #6 Lb	469828464
+Low Power #6 Lb	469828466
+High Exh Temp	469828480
+Exh Temp Ckt Failed Low #7 Lb	469828484
+High Power #7 Lb	469828496
+Low Power	469828498
+High Exh Temp	469828512
+Exh Temp Ckt Failed Low #8 Lb	469828516
+High Power #8 Lb	469828528
+Low Power	469828530
+High Exh Temp	469828544
+Exh Temp Ckt Failed Low #1 Rb	469828548
+High Power #1 Rb	469828560
+Low Power	469828562
+High Exh Temp	469828576
+Exh Temp Ckt Failed Low #2 Rb	469828580
+High Power #2 Rb	469828592
+Low Power	469828594
+High Exh Temp	469828608
+Exh Temp Ckt Failed Low #3 Rb	469828612
+High Power #3 Rb	469828624
+Low Power	469828626
+High Exh Temp	469828640
+Exh Temp Ckt Failed Low #4 Rb	469828644
+High Power #4 Rb	469828656
+Low Power	469828658
+High Exh Temp #5 Rb	469828672
+Exh Temp Ckt Failed Low #5 Rb	469828676
+High Power #5 Rb	469828688
+Low Power #5 Rb	469828690
+High Exh Temp #6 Rb	469828704
+Exh Temp Ckt Failed Low #6 Rb	469828708
+High Power #6 Rb	469828720
+Low Power #6 Rb	469828722
+High Exh Temp #7 Rb	469828736
+Exh Temp Ckt Failed Low #7 Rb	469828740
+High Power #7 Rb	469828752
+Low Power #7 Rb	469828754
+High Exh Temp #8 Rb	469828768
+Exh Temp Ckt Failed Low #8 Rb	469828772
+High Power #8 Rb	469828784
+Low Power #8 Rb	469828786
+Remote Accelerator Pedal Pos Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day	469828803
+Remote Accelerator Pedal Pos Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469828804
+Vehicle Speed Sensor Circuit - Data Incorrect	469828834
+Vehicle Speed Sensor Circuit - Tampering Has Been Detected	469828842
+Oem Alternate Torque Validation Switch - Data Incorrect	469828866
+Fuel Pres Sensor Circuit - Data Incorrect	469828898
+Fuel Delivery Pres Sensor Circuit - Shorted High	469828899
+Fuel Delivery Pres Sensor Circuit- Shorted Low	469828900
+Fuel Pres High - Warning	469828912
+Fuel Pres Low - Warning	469828914
+Water In Fuel Sensor Circuit Shorted High	469828931
+Water In Fuel Sensor Circuit - Shorted Low	469828932
+Water In Fuel Indicator High - Maintenance	469828943
+Oem Alternate Droop Switch Validation - Data Incorrect	469828962
+Fuel Pump Delivery Pres Sensor Circuit - Shorted High - Level 3:Repair At Next Pm	469828995
+Fuel Pump Delivery Pres Sensor Circuit - Shorted Low - Level 3:Repair At Next Pm	469828996
+Fuel Timing Pres Or Timing Actuator Stuck - Level 2:Repair Engine Same Day	469829026
+Fuel Timing Pres Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day	469829027
+Fuel Timing Pres Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469829028
+Cylinder Power Imbalance Between Cylinders	469829058
+Electrical Charging System Volt Low - Critical Level	469829089
+Electrical Charging System Volt High - Warning Level	469829104
+Electrical Charging System Volt Low - Warning Level	469829106
+Fuel Temperature High - Warning - Level 1:Stop Engine Now	469829120
+Fuel Temp Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day	469829123
+Fuel Temp Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day	469829124
+Fuel Temperature Sensor Circuit - Data Out-Of-Range	469829131
+Fuel Temperature High - Warning	469829136
+Transmission Output Shaft (Tailshaft) Speed High - Warning - Level 2:Repair Engine Same Day	469829152
+Transmission Output Shaft (Aux Gov) Speed Low - Warning - Level 2:Repair Engine Same Day	469829153
+Transmission Output Shaft (Tailshaft) Speed High - Warning	469829168
+Transmission Output Shaft (Tailshaft) Speed Low - Warning	469829170
+Aux Temp Sensor Input # 1 Circuit - Shorted High	469829187
+Aux Temp Sensor Input # 1 Circuit - Shorted Low	469829188
+Eng Brake Driver #1 Circuit - Shorted Low	469829220
+Accelerator Pedal Idle Validation Circuit - Data Incorrect	469829250
+Accelerator Pedal Idle Validation Circuit - Shorted Low	469829252
+Accelerator Pedal Idle Validation Circuit - Out Of Calibration	469829261
+Data Communication Error Over The J1587 Data Link Circuit	469829289
+Engine Control Module Identification Input State Error	469829314
+Post-Filter Oil Pres Sensor Circuit- Shorted High	469829347
+Post-Filter Oil Pres Sensor Circuit- Shorted Low	469829348
+Oem Component Failure	469829390
+Oem/#2 Sensor Supply Voltage Circuit - Shorted High	469829411
+Sensor Supply Volt #2 Circuit - Shorted Low	469829412
+Oem Sensor Supply Voltage Low - Warning	469829426
+Start Assist Device - Canister Empty (Ether Injection) - Level 3:Repair At Next Pm	469829441
+Itk Air Heater Relay Enable #1/#2 Data Incorrect/Start Assist Dev Ctrl Ckt Error Ether Inject	469829451
+Power Lost Without Ignition Off	469829474
+Fuel Pump Control Module Electronic Calibration Code Error	469829506
+Engine Control Module - Critical Internal Failure - Level 3:Repair At Next Pm	469829516
+Eng Control Module - Data Lost	469829538
+Eng Control Module - Warning Software Error - Level 4:Information Only	469829548
+Eng Control Module - Out Of Calibration	469829549
+Fuel Shutoff Valve Circuit - Shorted High	469829571
+Fuel Shutoff Valve Circuit - Shorted Low - Level 2:Repair Engine Same Day	469829572
+Fuel Shutoff Valve - Stuck Open - Level 2:Repair Engine Same Day	469829575
+Fuel Shutoff Valve Supply Volt Error	469829579
+Fuel Rail Actuator Circuit - Data Incorrect - Level 2:Repair Engine Same Day	469829602
+Fuel Injection Control Valve Circuit - Shorted High - Level 2:Repair Engine Same Day	469829603
+Fuel Injection Control Valve Circuit - Shorted Low	469829604
+Fueling Actuator #1 Circuit - Open Circuit	469829605
+Fueling Actuator #1 Circuit - Grounded Circuit	469829606
+Fuel Injection Control Valve - Mechanically Stuck - Level 2:Repair Engine Same Day	469829607
+Injector Control Valve Electronic Filter (Transorb) Error	469829611
+Timing Rail Actuator Circuit - Data Incorrect - Level 2:Repair Engine Same Day	469829634
+Eng Timing Actuator Circuit - Shorted High - Level 2:Repair Engine Same Day	469829635
+Eng Timing Actuator Circuit - Shorted Low	469829636
+Timing Actuator #1 Circuit - Open Circuit	469829637
+Timing Actuator #1 Circuit - Grounded Circuit	469829638
+Eng Timing Actuator Is Not Responding To Ecm - Level 2:Repair Engine Same Day	469829639
+Rack Actuator Position #1 Circuit - Grounded Circuit	469829670
+Rack Actuator - Mechanically Stuck Open	469829671
+Sae J1939 Datalink - Cannot Transmit/Communication Error - Level 3:Repair At Next Pm	469829698
+Sae J1939 Not Fast Enough / Multiplexing Pgn Timeout Error - Level 4:Information Only	469829705
+Sae J1939 Multiplexing Configuration Error	469829709
+Oem Commanded Dual Output Shutdown	469829742
+External Speed Input (Multiple Unit Sync) - Data Incorrect - Level 2:Repair Engine Same Day	469829762
+Fan Clutch Circuit - Shorted Low	469829796
+Fan Clutch Circuit Error	469829803
+Injector Solenoid Valve Cylinder #1 Circuit - Open Circuit	469829829
+Injector Solenoid Valve Cylinder #1 Circuit - Grounded Circuit	469829830
+Injector Solenoid Valve Cylinder #2 Circuit - Open Circuit	469829861
+Injector Solenoid Valve Cylinder #2 Circuit - Grounded Circuit	469829862
+Injector Solenoid Valve Cylinder #3 Circuit - Open Circuit	469829893
+Injector Solenoid Valve Cylinder #3 Circuit - Grounded Circuit	469829894
+Injector Solenoid Valve Cylinder #4 Circuit - Open Circuit	469829925
+Injector Solenoid Valve Cylinder #4 Circuit - Grounded Circuit	469829926
+Injector Solenoid Valve Cylinder #5 Circuit - Open Circuit	469829957
+Injector Solenoid Valve Cylinder #5 Circuit - Grounded Circuit	469829958
+Injector Solenoid Valve Cylinder #6 Circuit - Open Circuit	469829989
+Injector Solenoid Valve Cylinder #6 Circuit - Grounded Circuit	469829990
+Aux Input/Output #2 Circuit - Shorted High - Level 2:Repair Engine Same Day	469830019
+Aux Input/Output #3 Circuit - Shorted High - Level 2:Repair Engine Same Day	469830051
+Aux Equipment Sensor Input # 3 (Oem Switch)	469830059
+Auxiliary Equipment Sensor Input # 3 (Oem Switch) Engine Protection - Critical	469830062
+Eng Speed/Position #2 - Cam Sync Error - Level 3:Repair At Next Pm	469830082
+Rack Position Sensor #1 Circuit - Shorted High	469830115
+Output Device Driver (Vgt Or Transmission Shift Pwm Signal)	469830155
+Fuel Supply Pump Actuator Circuit - Shorted High - Level 3:Repair At Next Pm	469830179
+Fuel Supply Pump Actuator - Mechanically Stuck - Level 2:Repair Engine Same Day	469830183
+Remote Accelerator Pedal Position Sensor Circuit - Shorted High	469830211
+Remote Accelerator Pedal Position Sensor Circuit - Shorted Low	469830212
+Sae J1939 Multiplexing Remote Throttle Data Error	469830227
+Engine Speed/Pos Sensor #1 (Crankshaft) / Accel Pedal Pos Supply Voltage Circuit - Shorted Hi	469830275
+Engine Speed/Pos Sensor #1 (Crankshaft) / Accel Pedal Pos Supply Voltage Circuit - Shorted Lo	469830276
+Engine Speed/Position Sensor #2 (Camshaft) Supply Volt	469830283
+Fuel Priming Pump Control Circuit - Shorted High/Low	469830315
+Fuel Pump Control Module Fuel Control Valve Circuit - Shorted High	469830339
+Fuel Pump Control Module Fuel Control Valve Circuit - Shorted Low	469830340
+Fuel Pump Control Module Fuel Control Valve - Mechanically Stuck	469830343
+Fuel Metering Solenoid - Bad Device	469830348
+Fuel Pump Calibration Trim Circuit Error	469830349
+Fuel Pump Control Module Supply Volt Circuit - Data Incorrect	469830370
+Fuel Pump Control Module Fuel Shutoff Error	469830371
+Fuel Pump Control Module Supply Volt Circuit - Shorted Low	469830372
+Fuel Pump Control Module Stuck Relay Error	469830375
+Fuel Pump Control Module Can Communication Error - Abnormal Update Rate	469830377
+Fuel Pump Control Module Idle Validation Error	469830379
+Fuel Pump Control Module Self-Test Error	469830380
+Fuel Pump Control Module Fueling Or Eng Speed Mismatch	469830381
+Fuel System Leakage Error	469830382
+Fuel Pump Control Module Eng Synchronization Error	469830402
+Fuel Pump Control Module Timing Error	469830408
+Fuel Pump Control Module Increment Angle Time Sensor Error	469830411
+Sensor Supply Volt #1 Circuit - Shorted High	469830435
+Sensor Supply Volt #1 Circuit - Shorted Low	469830436
+Aux Temp Sensor Input # 1 Circuit - Shorted High - Level 3:Repair At Next Pm	469830467
+Aux Temp Sensor Input # 1 Circuit - Shorted Low - Level 3:Repair At Next Pm	469830468
+Aux Temp Sensor Input # 1 Eng Protection - Critical - Level 3:Repair At Next Pm	469830478
+Aux Pres Sensor Input # 2 Circuit - Shorted High - Level 3:Repair At Next Pm	469830499
+Aux Pres Sensor Input # 2 Circuit - Shorted Low - Level 3:Repair At Next Pm	469830500
+Aux Pres Sensor Input # 2 Eng Protection - Critical - Level 3:Repair At Next Pm	469830510
+High #9 Lb Cylinder Exhaust Temp	469830528
+Exhaust Gas Temp Sensor Circuit Failed Low Cyl # 9 Rb	469830532
+High #9 Rb Cylinder Exhaust Temp	469830560
+Exhaust Gas Temp Sensor Circuit Failed Low Cyl # 9 Lb	469830564
+High Turbo Compressor Inlet Temp Lb	469830592
+Lbf Turbo Comp Inlet Temp Sens Failed High	469830595
+Lbr Turbo Comp Inlet Temp Sens Failed Low	469830596
+Turbocharger #1 Turbine Inlet Temp High - Warning Level - Level 2:Repair Engine Same Day	469830624
+Turbocharger #1 Wastegate Control Circuit - Shorted Low	469830660
+Fueling Actuator #2 Circuit - Open Circuit	469830693
+Fueling Actuator #2 Circuit - Grounded Circuit	469830694
+Timing Actuator #2 Circuit - Open Circuit	469830725
+Timing Actuator #2 Circuit - Grounded Circuit	469830726
+Eng Oil Burn Valve Solenoid Circuit - Shorted Low - Level 2:Repair Engine Same Day	469830756
+Eng Oil Replacement Valve Solenoid Circuit - Shorted Low - Level 2:Repair Engine Same Day	469830788
+Exhaust Port Temp Bank Imbalance	469830825
+Intake Manifold Boost Pres Imbalance	469830850
+High Power - Cylinder # 9 Left Bank	469830896
+Low Power - Cylinder # 9 Left Bank	469830898
+High Power - Cylinder # 9 Right Bank	469830928
+Low Power - Cylinder # 9 Right Bank	469830930
+High Fuel Pres Solenoid Valve #1 Circuit - Shorted High	469830947
+High Fuel Pres Solenoid Valve #1 Circuit - Shorted Low	469830948
+High Fuel Pressure Solenoide Valve #1 /Pumping Element #1 (Front) - Mechanically Stuck	469830951
+High Fuel Pres Solenoid Valve #2 Circuit - Shorted High	469830979
+High Fuel Pres Solenoid Valve #2 Circuit - Shorted Low	469830980
+High Fuel Pressure Solenoid Valve #2 / Pumping Element #2 (Read) - Mechanically Stuck	469830983
+Injector Metering Rail #2 Pres Sensor Circuit - Shorted High	469831011
+Injector Metering Rail #2 Pres Sensor Circuit - Shorted Low	469831012
+Injector Metering Rail #2 Pres Malfunction	469831015
+Injector Metering Rail #2 Pres High - Warning	469831024
+Injector Metering Rail #2 Pres Low - Warning	469831026
+Multiple Unit Synchronization Switch Ckt - Data Incorrect - Level 2:Repair Engine Same Day	469831042
+Change Lubricating Oil And Filter - Level 3:Repair At Next Pm	469831072
+Low Oil Level In The Centinel Makeup Oil Tank - Level 2:Repair Engine Same Day	469831105
+Engine Oil Level #2 Low - Warning - Level 2:Repair Engine Same Day	469831106
+Low Oil Level In The Centinel Makeup Oil Tank	469831121
+Fuel Supply Pump Inlet Pres Sensor Circuit - Shorted High	469831139
+Fuel Supply Pump Inlet Pres Sensor Circuit - Shorted Low	469831140
+Fuel Supply Pump Inlet Pres Low - Warning Level	469831154
+Eng Hot Shutdown - Level 3:Repair At Next Pm	469831199
+Eng Shutdown Commanded By J1939 - Level 3:Repair At Next Pm	469831231
+Auxiliary Pressure Sensor Input # 2 Circuit - Shorted High	469831235
+Auxiliary Pressure Sensor Input # 2 Circuit - Shorted Low	469831236
+Auxiliary Equipment Sensor Input # 2 (Oem Pressure Sensor) Engine Protection - Warning	469831243
+Auxiliary Pressure Sensor Input # 2 Engine Protection - Critical	469831246
+Additional Oem/Vehicle Diagnostic Codes Have Been Logged. Check Other Ecms For Dtcs.	469831295
+Real Time Clock - Power Interrupt	469831298
+Rbr Turbo Comp Inlet Temp Sens Failed Low	469831332
+High Power #1 Lb	469831360
+High Power #2 Lb	469831392
+High Power #3 Lb	469831424
+High Power #4 Lb	469831456
+High Power #5 Lb	469831488
+High Power #6 Lb	469831520
+High Power #1 Rb	469831552
+Low #1/#2/#3/#4/#5/#6 Rb Cylinder Power	469831553
+High Power #2 Rb	469831584
+High Power #3 Rb	469831616
+High Power #4 Rb	469831648
+High Power #5 Rb	469831680
+High Power #6 Rb	469831712
+Turbocharger #1 Speed High - Warning Level	469831920
+Engine Speed High - Critical - Level 3:Repair At Next Pm (Eng2)	469847616
+Eng Speed/Pos Sensor Circuit Lost Two Signals From Sensor - Level 2:Repair Engine Same Day (Eng2)	469847618
+Eng Speed/Pos Sensor Circuit Lost One Signal From Sensor - Level 2:Repair Engine Same Day (Eng2)	469847626
+Intake Manifold Pres Sensor Circuit - Data Incorrect (Eng2)	469847650
+Intake Manifold Pres Sensor #1 Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469847651
+Intake Manifold Pres Sensor #1 Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469847652
+High Boost Lb (Eng2)	469847664
+Low Boost Lb (Eng2)	469847666
+Boost Ckt Failed High Rb (Eng2)	469847683
+Boost Ckt Failed Low Rb (Eng2)	469847684
+High Boost Rb (Eng2)	469847696
+Low Boost Rb (Eng2)	469847698
+Accelerator Pedal Idle Validation Circuit - Data Incorrect - Level 3:Repair At Next Pm (Eng2)	469847714
+Accelerator Pedal Position Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469847715
+Accelerator Pedal Position Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469847716
+Accelerator Pedal Pos Sensor Circuit - High/Low Frequency - Level 2: Repair Engine Same Day (Eng2)	469847720
+Accelerator Pedal Idle Validation Circuit - Out Of Calibration - Level 3:Repair At Next Pm (Eng2)	469847725
+Sae J1939 Multiplexing Accelerator Pedal Sensor System Error (Eng2)	469847731
+Engine Oil Pressure Low - Critical - Level 1:Stop Engine Now (Eng2)	469847745
+Eng Oil Pres Sensor Circuit - Data Incorrect (Eng2)	469847746
+Eng Oil Pres Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469847747
+Eng Oil Pres Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469847748
+Engine Oil Pressure Low - Warning (Eng2)	469847762
+Pre Filter Oil Press Ckt Failed High (Eng2)	469847779
+Pre Filter Oil Press Ckt Failed Low (Eng2)	469847780
+Eng Coolant Temperature High - Critical - Level 1:Stop Engine Now (Eng2)	469847808
+Eng Coolant Temperature Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469847811
+Eng Coolant Temperature Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469847812
+Engine Coolant Temperature High - Warning (Eng2)	469847824
+Intake Manifold Temperature #1 High - Critical - Level 1:Stop Engine Now (Eng2)	469847840
+Intake Manifold Temperature Sensor #1 Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469847843
+Intake Manifold Temperature Sensor #1 Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469847844
+Rapid Rise In Lbf Intake Manifold Temp (Eng2)	469847850
+Intake Manifold Temperature High - Warning (Eng2)	469847856
+High Intake Manifold Temp Lbr (Eng2)	469847872
+Lbr Intake Manifold Temp Ckt Failed High (Eng2)	469847875
+Lbr Intake Manifold Temp Ckt Failed Low (Eng2)	469847876
+Rapid Rise In Lbr Intake Manifold Temp (Eng2)	469847882
+Highintake Manifold Temp Rbf (Eng2)	469847904
+Rbfintake Manifold Temp Ckt Failed High (Eng2)	469847907
+Rbfintake Manifold Temp Ckt Failed Low (Eng2)	469847908
+Rapid Rise In Rbf Intake Manifold Temp (Eng2)	469847914
+Highintake Manifold Temp Rbr (Eng2)	469847936
+Rbrintake Manifold Temp Ckt Failed High (Eng2)	469847939
+Rbrintake Manifold Temp Ckt Failed Low (Eng2)	469847940
+Rapid Rise In Rbr Intake Manifold Temp (Eng2)	469847946
+High Oil Temp (Eng2)	469847968
+Oil Temp Ckt Failed High (Eng2)	469847971
+Oil Temp Ckt Failed Low (Eng2)	469847972
+Ambient Air Pres Sensor Circuit - Data Incorrect (Eng2)	469848002
+Ambient Air Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469848003
+Ambient Air Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469848004
+Engine Coolant Pressure Low - Warning - Level 1:Stop Engine Now (Eng2)	469848033
+Engine Coolant Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469848035
+Engine Coolant Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469848036
+Low Coolant Press (Eng2)	469848050
+Engine Coolant Level Low - Critical - Level 1:Stop Engine Now (Eng2)	469848065
+Engine Coolant Level Sensor Circuit - Data Incorrect - Level 2:Repair Engine Same Day (Eng2)	469848066
+Engine Oil Level #1 Low - Critical - Level 1:Stop Engine Now (Eng2)	469848097
+Engine Oil Level #1 Sensor Circuit - Data Incorrect - Level 2:Repair Engine Same Day (Eng2)	469848098
+Battery #1 Voltage High - Warning - Level 2:Repair Engine Same Day (Eng2)	469848128
+Battery #1 Voltage Low - Warning - Level 3:Repair At Next Pm (Eng2)	469848129
+Battery #1 Voltage High - Warning (Eng2)	469848144
+Battery #1 Voltage Low - Warning (Eng2)	469848146
+Injector Metering Rail #1 Pressure High - Warning Level - Level 2:Repair Engine Same Day (Eng2)	469848160
+Fuel Pres Sensor Error - Level 2:Repair Engine Same Day (Eng2)	469848162
+Injector Metering Rail #1 Press Sensor Circuit - Shorted Hi - Level 2:Repair Engine Same Day (Eng2)	469848163
+Injector Metering Rail #1 Press Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469848164
+Injector Metering Rail #1 Pres Malfunction (Eng2)	469848167
+Injector Metering Rail #1 Pres High - Yellow Lamp Warning Level (Eng2)	469848176
+Engine Blowby - Warning Level - Level 1:Stop Engine Now (Eng2)	469848192
+Crankcase Blowby Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469848195
+Crankcase Blowby Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469848196
+High Blowby Press (Eng2)	469848208
+High Oil Filter Rest (Eng2)	469848225
+Rbf Turbo Comp Inlet Temp Sens Failed High (Eng2)	469848259
+High Turbo Comp Inlet Temp Rb (Eng2)	469848272
+High Exh Temp #1 Lb (Eng2)	469848288
+Exh Temp Ckt Failed Low #1 Lb (Eng2)	469848292
+High Power #1 Lb (Eng2)	469848304
+Low Power #1 Lb (Eng2)	469848306
+High Exh Temp #2 Lb (Eng2)	469848320
+Exh Temp Ckt Failed Low #2 Lb (Eng2)	469848324
+High Power #2 Lb (Eng2)	469848336
+Low Power #2 Lb (Eng2)	469848338
+High Exh Temp #3 Lb (Eng2)	469848352
+Exh Temp Ckt Failed Low #3 Lb (Eng2)	469848356
+High Power #3 Lb (Eng2)	469848368
+Low Power #3 Lb (Eng2)	469848370
+High Exh Temp #4 Lb (Eng2)	469848384
+Exh Temp Ckt Failed Low #4 Lb (Eng2)	469848388
+High Power #4 Lb (Eng2)	469848400
+Low Power #4 Lb (Eng2)	469848402
+High Exh Temp #5 Lb (Eng2)	469848416
+Exh Temp Ckt Failed Low #5 Lb (Eng2)	469848420
+High Power #5 Lb (Eng2)	469848432
+Low Power #5 Lb (Eng2)	469848434
+High Exh Temp #6 Lb (Eng2)	469848448
+Exh Temp Ckt Failed Low #6 Lb (Eng2)	469848452
+High Power #6 Lb (Eng2)	469848464
+Low Power #6 Lb (Eng2)	469848466
+High Exh Temp (Eng2)	469848480
+Exh Temp Ckt Failed Low #7 Lb (Eng2)	469848484
+High Power #7 Lb (Eng2)	469848496
+Low Power (Eng2)	469848498
+High Exh Temp (Eng2)	469848512
+Exh Temp Ckt Failed Low #8 Lb (Eng2)	469848516
+High Power #8 Lb (Eng2)	469848528
+Low Power (Eng2)	469848530
+High Exh Temp (Eng2)	469848544
+Exh Temp Ckt Failed Low #1 Rb (Eng2)	469848548
+High Power #1 Rb (Eng2)	469848560
+Low Power (Eng2)	469848562
+High Exh Temp (Eng2)	469848576
+Exh Temp Ckt Failed Low #2 Rb (Eng2)	469848580
+High Power #2 Rb (Eng2)	469848592
+Low Power (Eng2)	469848594
+High Exh Temp (Eng2)	469848608
+Exh Temp Ckt Failed Low #3 Rb (Eng2)	469848612
+High Power #3 Rb (Eng2)	469848624
+Low Power (Eng2)	469848626
+High Exh Temp (Eng2)	469848640
+Exh Temp Ckt Failed Low #4 Rb (Eng2)	469848644
+High Power #4 Rb (Eng2)	469848656
+Low Power (Eng2)	469848658
+High Exh Temp #5 Rb (Eng2)	469848672
+Exh Temp Ckt Failed Low #5 Rb (Eng2)	469848676
+High Power #5 Rb (Eng2)	469848688
+Low Power #5 Rb (Eng2)	469848690
+High Exh Temp #6 Rb (Eng2)	469848704
+Exh Temp Ckt Failed Low #6 Rb (Eng2)	469848708
+High Power #6 Rb (Eng2)	469848720
+Low Power #6 Rb (Eng2)	469848722
+High Exh Temp #7 Rb (Eng2)	469848736
+Exh Temp Ckt Failed Low #7 Rb (Eng2)	469848740
+High Power #7 Rb (Eng2)	469848752
+Low Power #7 Rb (Eng2)	469848754
+High Exh Temp #8 Rb (Eng2)	469848768
+Exh Temp Ckt Failed Low #8 Rb (Eng2)	469848772
+High Power #8 Rb (Eng2)	469848784
+Low Power #8 Rb (Eng2)	469848786
+Remote Accelerator Pedal Pos Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469848803
+Remote Accelerator Pedal Pos Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469848804
+Vehicle Speed Sensor Circuit - Data Incorrect (Eng2)	469848834
+Vehicle Speed Sensor Circuit - Tampering Has Been Detected (Eng2)	469848842
+Oem Alternate Torque Validation Switch - Data Incorrect (Eng2)	469848866
+Fuel Pres Sensor Circuit - Data Incorrect (Eng2)	469848898
+Fuel Delivery Pres Sensor Circuit - Shorted High (Eng2)	469848899
+Fuel Delivery Pres Sensor Circuit- Shorted Low (Eng2)	469848900
+Fuel Pres High - Warning (Eng2)	469848912
+Fuel Pres Low - Warning (Eng2)	469848914
+Water In Fuel Sensor Circuit Shorted High (Eng2)	469848931
+Water In Fuel Sensor Circuit - Shorted Low (Eng2)	469848932
+Water In Fuel Indicator High - Maintenance (Eng2)	469848943
+Oem Alternate Droop Switch Validation - Data Incorrect (Eng2)	469848962
+Fuel Pump Delivery Pres Sensor Circuit - Shorted High - Level 3:Repair At Next Pm (Eng2)	469848995
+Fuel Pump Delivery Pres Sensor Circuit - Shorted Low - Level 3:Repair At Next Pm (Eng2)	469848996
+Fuel Timing Pres Or Timing Actuator Stuck - Level 2:Repair Engine Same Day (Eng2)	469849026
+Fuel Timing Pres Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469849027
+Fuel Timing Pres Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469849028
+Cylinder Power Imbalance Between Cylinders (Eng2)	469849058
+Electrical Charging System Volt Low - Critical Level (Eng2)	469849089
+Electrical Charging System Volt High - Warning Level (Eng2)	469849104
+Electrical Charging System Volt Low - Warning Level (Eng2)	469849106
+Fuel Temperature High - Warning - Level 1:Stop Engine Now (Eng2)	469849120
+Fuel Temp Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469849123
+Fuel Temp Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469849124
+Fuel Temperature Sensor Circuit - Data Out-Of-Range (Eng2)	469849131
+Fuel Temperature High - Warning (Eng2)	469849136
+Transmission Output Shaft (Tailshaft) Speed High - Warning - Level 2:Repair Engine Same Day (Eng2)	469849152
+Transmission Output Shaft (Aux Gov) Speed Low - Warning - Level 2:Repair Engine Same Day (Eng2)	469849153
+Transmission Output Shaft (Tailshaft) Speed High - Warning (Eng2)	469849168
+Transmission Output Shaft (Tailshaft) Speed Low - Warning (Eng2)	469849170
+Aux Temp Sensor Input # 1 Circuit - Shorted High (Eng2)	469849187
+Aux Temp Sensor Input # 1 Circuit - Shorted Low (Eng2)	469849188
+Eng Brake Driver #1 Circuit - Shorted Low (Eng2)	469849220
+Accelerator Pedal Idle Validation Circuit - Data Incorrect (Eng2)	469849250
+Accelerator Pedal Idle Validation Circuit - Shorted Low (Eng2)	469849252
+Accelerator Pedal Idle Validation Circuit - Out Of Calibration (Eng2)	469849261
+Data Communication Error Over The J1587 Data Link Circuit (Eng2)	469849289
+Engine Control Module Identification Input State Error (Eng2)	469849314
+Post-Filter Oil Pres Sensor Circuit- Shorted High (Eng2)	469849347
+Post-Filter Oil Pres Sensor Circuit- Shorted Low (Eng2)	469849348
+Oem Component Failure (Eng2)	469849390
+Oem/#2 Sensor Supply Voltage Circuit - Shorted High (Eng2)	469849411
+Sensor Supply Volt #2 Circuit - Shorted Low (Eng2)	469849412
+Oem Sensor Supply Voltage Low - Warning (Eng2)	469849426
+Start Assist Device - Canister Empty (Ether Injection) - Level 3:Repair At Next Pm (Eng2)	469849441
+Itk Air Heater Relay Enable #1/#2 Data Incorrect/Start Assist Dev Ctrl Ckt Error Ether Inject (Eng2)	469849451
+Power Lost Without Ignition Off (Eng2)	469849474
+Fuel Pump Control Module Electronic Calibration Code Error (Eng2)	469849506
+Engine Control Module - Critical Internal Failure - Level 3:Repair At Next Pm (Eng2)	469849516
+Eng Control Module - Data Lost (Eng2)	469849538
+Eng Control Module - Warning Software Error - Level 4:Information Only (Eng2)	469849548
+Eng Control Module - Out Of Calibration (Eng2)	469849549
+Fuel Shutoff Valve Circuit - Shorted High (Eng2)	469849571
+Fuel Shutoff Valve Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469849572
+Fuel Shutoff Valve - Stuck Open - Level 2:Repair Engine Same Day (Eng2)	469849575
+Fuel Shutoff Valve Supply Volt Error (Eng2)	469849579
+Fuel Rail Actuator Circuit - Data Incorrect - Level 2:Repair Engine Same Day (Eng2)	469849602
+Fuel Injection Control Valve Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469849603
+Fuel Injection Control Valve Circuit - Shorted Low (Eng2)	469849604
+Fueling Actuator #1 Circuit - Open Circuit (Eng2)	469849605
+Fueling Actuator #1 Circuit - Grounded Circuit (Eng2)	469849606
+Fuel Injection Control Valve - Mechanically Stuck - Level 2:Repair Engine Same Day (Eng2)	469849607
+Injector Control Valve Electronic Filter (Transorb) Error (Eng2)	469849611
+Timing Rail Actuator Circuit - Data Incorrect - Level 2:Repair Engine Same Day (Eng2)	469849634
+Eng Timing Actuator Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469849635
+Eng Timing Actuator Circuit - Shorted Low (Eng2)	469849636
+Timing Actuator #1 Circuit - Open Circuit (Eng2)	469849637
+Timing Actuator #1 Circuit - Grounded Circuit (Eng2)	469849638
+Eng Timing Actuator Is Not Responding To Ecm - Level 2:Repair Engine Same Day (Eng2)	469849639
+Rack Actuator Position #1 Circuit - Grounded Circuit (Eng2)	469849670
+Rack Actuator - Mechanically Stuck Open (Eng2)	469849671
+Sae J1939 Datalink - Cannot Transmit/Communication Error - Level 3:Repair At Next Pm (Eng2)	469849698
+Sae J1939 Not Fast Enough / Multiplexing Pgn Timeout Error - Level 4:Information Only (Eng2)	469849705
+Sae J1939 Multiplexing Configuration Error (Eng2)	469849709
+Oem Commanded Dual Output Shutdown (Eng2)	469849742
+External Speed Input (Multiple Unit Sync) - Data Incorrect - Level 2:Repair Engine Same Day (Eng2)	469849762
+Fan Clutch Circuit - Shorted Low (Eng2)	469849796
+Fan Clutch Circuit Error (Eng2)	469849803
+Injector Solenoid Valve Cylinder #1 Circuit - Open Circuit (Eng2)	469849829
+Injector Solenoid Valve Cylinder #1 Circuit - Grounded Circuit (Eng2)	469849830
+Injector Solenoid Valve Cylinder #2 Circuit - Open Circuit (Eng2)	469849861
+Injector Solenoid Valve Cylinder #2 Circuit - Grounded Circuit (Eng2)	469849862
+Injector Solenoid Valve Cylinder #3 Circuit - Open Circuit (Eng2)	469849893
+Injector Solenoid Valve Cylinder #3 Circuit - Grounded Circuit (Eng2)	469849894
+Injector Solenoid Valve Cylinder #4 Circuit - Open Circuit (Eng2)	469849925
+Injector Solenoid Valve Cylinder #4 Circuit - Grounded Circuit (Eng2)	469849926
+Injector Solenoid Valve Cylinder #5 Circuit - Open Circuit (Eng2)	469849957
+Injector Solenoid Valve Cylinder #5 Circuit - Grounded Circuit (Eng2)	469849958
+Injector Solenoid Valve Cylinder #6 Circuit - Open Circuit (Eng2)	469849989
+Injector Solenoid Valve Cylinder #6 Circuit - Grounded Circuit (Eng2)	469849990
+Aux Input/Output #2 Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469850019
+Aux Input/Output #3 Circuit - Shorted High - Level 2:Repair Engine Same Day (Eng2)	469850051
+Aux Equipment Sensor Input # 3 (Oem Switch) (Eng2)	469850059
+Auxiliary Equipment Sensor Input # 3 (Oem Switch) Engine Protection - Critical (Eng2)	469850062
+Eng Speed/Position #2 - Cam Sync Error - Level 3:Repair At Next Pm (Eng2)	469850082
+Rack Position Sensor #1 Circuit - Shorted High (Eng2)	469850115
+Output Device Driver (Vgt Or Transmission Shift Pwm Signal) (Eng2)	469850155
+Fuel Supply Pump Actuator Circuit - Shorted High - Level 3:Repair At Next Pm (Eng2)	469850179
+Fuel Supply Pump Actuator - Mechanically Stuck - Level 2:Repair Engine Same Day (Eng2)	469850183
+Remote Accelerator Pedal Position Sensor Circuit - Shorted High (Eng2)	469850211
+Remote Accelerator Pedal Position Sensor Circuit - Shorted Low (Eng2)	469850212
+Sae J1939 Multiplexing Remote Throttle Data Error (Eng2)	469850227
+Engine Speed/Pos Sensor #1 (Crankshaft) / Accel Pedal Pos Supply Voltage Circuit - Shorted Hi (Eng2)	469850275
+Engine Speed/Pos Sensor #1 (Crankshaft) / Accel Pedal Pos Supply Voltage Circuit - Shorted Lo (Eng2)	469850276
+Engine Speed/Position Sensor #2 (Camshaft) Supply Volt (Eng2)	469850283
+Fuel Priming Pump Control Circuit - Shorted High/Low (Eng2)	469850315
+Fuel Pump Control Module Fuel Control Valve Circuit - Shorted High (Eng2)	469850339
+Fuel Pump Control Module Fuel Control Valve Circuit - Shorted Low (Eng2)	469850340
+Fuel Pump Control Module Fuel Control Valve - Mechanically Stuck (Eng2)	469850343
+Fuel Metering Solenoid - Bad Device (Eng2)	469850348
+Fuel Pump Calibration Trim Circuit Error (Eng2)	469850349
+Fuel Pump Control Module Supply Volt Circuit - Data Incorrect (Eng2)	469850370
+Fuel Pump Control Module Fuel Shutoff Error (Eng2)	469850371
+Fuel Pump Control Module Supply Volt Circuit - Shorted Low (Eng2)	469850372
+Fuel Pump Control Module Stuck Relay Error (Eng2)	469850375
+Fuel Pump Control Module Can Communication Error - Abnormal Update Rate (Eng2)	469850377
+Fuel Pump Control Module Idle Validation Error (Eng2)	469850379
+Fuel Pump Control Module Self-Test Error (Eng2)	469850380
+Fuel Pump Control Module Fueling Or Eng Speed Mismatch (Eng2)	469850381
+Fuel System Leakage Error (Eng2)	469850382
+Fuel Pump Control Module Eng Synchronization Error (Eng2)	469850402
+Fuel Pump Control Module Timing Error (Eng2)	469850408
+Fuel Pump Control Module Increment Angle Time Sensor Error (Eng2)	469850411
+Sensor Supply Volt #1 Circuit - Shorted High (Eng2)	469850435
+Sensor Supply Volt #1 Circuit - Shorted Low (Eng2)	469850436
+Aux Temp Sensor Input # 1 Circuit - Shorted High - Level 3:Repair At Next Pm (Eng2)	469850467
+Aux Temp Sensor Input # 1 Circuit - Shorted Low - Level 3:Repair At Next Pm (Eng2)	469850468
+Aux Temp Sensor Input # 1 Eng Protection - Critical - Level 3:Repair At Next Pm (Eng2)	469850478
+Aux Pres Sensor Input # 2 Circuit - Shorted High - Level 3:Repair At Next Pm (Eng2)	469850499
+Aux Pres Sensor Input # 2 Circuit - Shorted Low - Level 3:Repair At Next Pm (Eng2)	469850500
+Aux Pres Sensor Input # 2 Eng Protection - Critical - Level 3:Repair At Next Pm (Eng2)	469850510
+High #9 Lb Cylinder Exhaust Temp (Eng2)	469850528
+Exhaust Gas Temp Sensor Circuit Failed Low Cyl # 9 Rb (Eng2)	469850532
+High #9 Rb Cylinder Exhaust Temp (Eng2)	469850560
+Exhaust Gas Temp Sensor Circuit Failed Low Cyl # 9 Lb (Eng2)	469850564
+High Turbo Compressor Inlet Temp Lb (Eng2)	469850592
+Lbf Turbo Comp Inlet Temp Sens Failed High (Eng2)	469850595
+Lbr Turbo Comp Inlet Temp Sens Failed Low (Eng2)	469850596
+Turbocharger #1 Turbine Inlet Temp High - Warning Level - Level 2:Repair Engine Same Day (Eng2)	469850624
+Turbocharger #1 Wastegate Control Circuit - Shorted Low (Eng2)	469850660
+Fueling Actuator #2 Circuit - Open Circuit (Eng2)	469850693
+Fueling Actuator #2 Circuit - Grounded Circuit (Eng2)	469850694
+Timing Actuator #2 Circuit - Open Circuit (Eng2)	469850725
+Timing Actuator #2 Circuit - Grounded Circuit (Eng2)	469850726
+Eng Oil Burn Valve Solenoid Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469850756
+Eng Oil Replacement Valve Solenoid Circuit - Shorted Low - Level 2:Repair Engine Same Day (Eng2)	469850788
+Exhaust Port Temp Bank Imbalance (Eng2)	469850825
+Intake Manifold Boost Pres Imbalance (Eng2)	469850850
+High Power - Cylinder # 9 Left Bank (Eng2)	469850896
+Low Power - Cylinder # 9 Left Bank (Eng2)	469850898
+High Power - Cylinder # 9 Right Bank (Eng2)	469850928
+Low Power - Cylinder # 9 Right Bank (Eng2)	469850930
+High Fuel Pres Solenoid Valve #1 Circuit - Shorted High (Eng2)	469850947
+High Fuel Pres Solenoid Valve #1 Circuit - Shorted Low (Eng2)	469850948
+High Fuel Pressure Solenoide Valve #1 /Pumping Element #1 (Front) - Mechanically Stuck (Eng2)	469850951
+High Fuel Pres Solenoid Valve #2 Circuit - Shorted High (Eng2)	469850979
+High Fuel Pres Solenoid Valve #2 Circuit - Shorted Low (Eng2)	469850980
+High Fuel Pressure Solenoid Valve #2 / Pumping Element #2 (Read) - Mechanically Stuck (Eng2)	469850983
+Injector Metering Rail #2 Pres Sensor Circuit - Shorted High (Eng2)	469851011
+Injector Metering Rail #2 Pres Sensor Circuit - Shorted Low (Eng2)	469851012
+Injector Metering Rail #2 Pres Malfunction (Eng2)	469851015
+Injector Metering Rail #2 Pres High - Warning (Eng2)	469851024
+Injector Metering Rail #2 Pres Low - Warning (Eng2)	469851026
+Multiple Unit Synchronization Switch Ckt - Data Incorrect - Level 2:Repair Engine Same Day (Eng2)	469851042
+Change Lubricating Oil And Filter - Level 3:Repair At Next Pm (Eng2)	469851072
+Low Oil Level In The Centinel Makeup Oil Tank - Level 2:Repair Engine Same Day (Eng2)	469851105
+Engine Oil Level #2 Low - Warning - Level 2:Repair Engine Same Day (Eng2)	469851106
+Low Oil Level In The Centinel Makeup Oil Tank (Eng2)	469851121
+Fuel Supply Pump Inlet Pres Sensor Circuit - Shorted High (Eng2)	469851139
+Fuel Supply Pump Inlet Pres Sensor Circuit - Shorted Low (Eng2)	469851140
+Fuel Supply Pump Inlet Pres Low - Warning Level (Eng2)	469851154
+Eng Hot Shutdown - Level 3:Repair At Next Pm (Eng2)	469851199
+Eng Shutdown Commanded By J1939 - Level 3:Repair At Next Pm (Eng2)	469851231
+Auxiliary Pressure Sensor Input # 2 Circuit - Shorted High (Eng2)	469851235
+Auxiliary Pressure Sensor Input # 2 Circuit - Shorted Low (Eng2)	469851236
+Auxiliary Equipment Sensor Input # 2 (Oem Pressure Sensor) Engine Protection - Warning (Eng2)	469851243
+Auxiliary Pressure Sensor Input # 2 Engine Protection - Critical (Eng2)	469851246
+Additional Oem/Vehicle Diagnostic Codes Have Been Logged. Check Other Ecms For Dtcs. (Eng2)	469851295
+Real Time Clock - Power Interrupt (Eng2)	469851298
+Rbr Turbo Comp Inlet Temp Sens Failed Low (Eng2)	469851332
+High Power #1 Lb (Eng2)	469851360
+High Power #2 Lb (Eng2)	469851392
+High Power #3 Lb (Eng2)	469851424
+High Power #4 Lb (Eng2)	469851456
+High Power #5 Lb (Eng2)	469851488
+High Power #6 Lb (Eng2)	469851520
+High Power #1 Rb (Eng2)	469851552
+Low #1/#2/#3/#4/#5/#6 Rb Cylinder Power (Eng2)	469851553
+High Power #2 Rb (Eng2)	469851584
+High Power #3 Rb (Eng2)	469851616
+High Power #4 Rb (Eng2)	469851648
+High Power #5 Rb (Eng2)	469851680
+High Power #6 Rb (Eng2)	469851712
+Turbocharger #1 Speed High - Warning Level (Eng2)	469851920
+Oem Interface Timeout	469893088
+Oem Interface Normal	469893089
+Driver Interface Timeout	469893090
+Driver Interface Normal	469893091

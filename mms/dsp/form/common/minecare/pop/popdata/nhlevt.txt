@@ -1,0 +1,60 @@
+Red light	1895890945
+Yellow light	1895890946
+Green light	1895890947
+Left Front Suspension Fault	1895890948
+Right Front Suspension Fault	1895890949
+Left Rear Suspension Fault	1895890950
+Right Rear Suspension Fault	1895890951
+Commutation Fault	1895890952
+Quick Estimate	1895890953
+Swing Load	1895890954
+Drive system fault	1895890955
+Hydraulic Fluid Level Ok	1895890956
+Hydraulic Fluid Level Low	1895890957
+Hydraulic Fluid Temp Ok	1895890958
+Hydraulic Fluid Temp High	1895890959
+Park Brake Release	1895890960
+Park Brake Implement	1895890961
+Load Brake Release	1895890962
+Load Brake Implement	1895890963
+Dump Body Down	1895890964
+Dump Body Up	1895890965
+Coolant Level OK	1895890966
+Coolant Level Low	1895890967
+Air Filter OK	1895890968
+Air Filter Block	1895890969
+Auto Lub OK	1895890970
+Auto Lub Fault	1895890971
+Fuel Level OK	1895890972
+Fuel Level Low	1895890973
+Axle Pressure OK	1895890974
+Axle Pressure Low	1895890975
+Hydraulic Filter OK	1895890976
+Hydraulic Filter Block	1895890977
+Front Brake OK	1895890978
+Front Brake Drag	1895890979
+Rear Brake OK	1895890980
+Rear Brake Drag	1895890981
+Motor Temp OK	1895890982
+Motor Temp High	1895890983
+Ground OK	1895890984
+Ground Fault	1895890985
+Water In Fuel	1895890986
+Coolant Temp OK	1895890987
+Coolant Temp High	1895890988
+Eng Oil Pressure OK	1895890989
+Eng Oil Pressure Low	1895890990
+Retard Fault	1895890991
+Over Speed	1895890992
+No Propulsion	1895890993
+Brake Oil Temp OK	1895890994
+Brake Oil Temp High	1895890995
+Steer Fiter OK	1895890996
+Steer Fiter Drag	1895890997
+Trans Fiter OK	1895890998
+Trans Fiter Drag	1895890999
+SteerOilLow	1895891000
+OEM Interface Timeout	1895956448
+OEM Interface Normal	1895956449
+Driver Interface Timeout	1895956450
+Driver Interface Normal	1895956451

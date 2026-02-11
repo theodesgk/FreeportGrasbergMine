@@ -1,0 +1,42 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1995
+..               All Rights Reserved
+..  $RCSfile: readme.ecs,v $
+.. $Revision: 1.1 $
+..   $Author: latum $
+..     $Date: 2003/06/11 01:15:03 $
+..    $State: Exp $
+..
+.. Deployment of Ecs system and associated forms requires the following steps to be undertaken...
+(1) Carry out the following changes in act_dispatch.frm
+
+.include ecs/act_ecs   ..add this statement at the end of the include list
+
+.expr ACT$STARTUP \
+      !DSP$ISSIM ? ECS$OPEN
+
+.expr ACT$RESTART \
+     !DSP$ISSIM ? ECS$OPEN
+
+.expr ACT$OTHER \
+      case( DSP$PKTNO ) ..(
+       0x780 : ACT$ECSEVENT
+       0x781 : ACT$ECSPARAM
+
+(2) Add the following rpc's to the client enum.c
+
+     { act_other,     0x780,  fmtint }, /* ECS-EVENT */
+     { act_other,     0x781,  fmtint }, /* ECS-DATA */
+
+(3) Copy ecsconfig.ddb to client opns directory
+
+(4) Add the main ecs menu to the client keypad or control panel.
+    The form to run this menu is ecs/ecs_mainmenu
+
+(5) Make sure to run make on the client after all this is done
+
+(6) To load Ecs object on the Hub the command is
+    /net/Hub/All CLASS=xxxx ID=xxx OPTIONS=Gps/xxx,Ecs
+    on Gsp it is
+   /net/Ecs/All

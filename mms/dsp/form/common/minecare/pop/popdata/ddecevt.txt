@@ -1,0 +1,822 @@
+OEM Interface Timeout	67239904
+OEM Interface Normal	67239905
+Driver Interface Timeout	67239906
+Driver Interface Normal	67239907
+Extended Range Fuel Pressure High (FMI 0)	67174432
+Extended Range Fuel Pressure Low (FMI 1)	67174433
+Ext Range Fuel Pressure Sensor Input Voltage High (FMI 3)	67174435
+Ext Range Fuel Pressure Sensor Input Voltage Low (FMI 4)	67174436
+Extended Range Fuel Pressure (Inactive)	67174448
+Extended Range Engine Oil Pressure Low (FMI 1)	67174465
+Ext Range Engine Oil Press Sensor Input Voltage High (FMI 3)	67174467
+Ext Range Engine Oil Press Sensor Input Voltage Low (FMI 4)	67174468
+Extended Range Engine Oil Pressure (Inactive)	67174480
+Extended Range Coolant Pressure Low (FMI 1)	67174497
+Ext Range Coolant Pressure Sensor Input Voltage High (FMI 3)	67174499
+Ext Range Coolant Pressure Sensor Input Voltage Low (FMI 4)	67174500
+Extended Range Coolant Pressure (Inactive)	67174512
+Extended Range Coolant Pressure Low (FMI 1) - Eng2	67174529
+Ext Range Coolant Pressure Sensor Input Voltage High (FMI 3) - Eng2	67174531
+Ext Range Coolant Pressure Sensor Input Voltage Low (FMI 4) - Eng2	67174532
+Extended Range Coolant Pressure (Inactive) - Eng2	67174544
+ECU Temperature Above Range (FMI 0) [DDEC V]	67177376
+ECU Temperature Below Range (FMI 1) [DDEC V]	67177377
+ECU Temperature Failed High (FMI 3) [DDEC V]	67177379
+ECU Temperature Failed Low (FMI 4) [DDEC V]	67177380
+Engine ECU Temperature (Inactive) [DDEC V]	67177392
+ECU Temperature Above Range (FMI 0) - Eng2 [DDEC V]	67177408
+ECU Temperature Below Range (FMI 1) - Eng2 [DDEC V]	67177409
+ECU Temperature Failed High (FMI 3) - Eng2 [DDEC V]	67177411
+ECU Temperature Failed Low (FMI 4) - Eng2 [DDEC V]	67177412
+Engine ECU Temperature (Inactive) - Eng2 [DDEC V]	67177424
+Engine Retarder Switch Not Responding (FMI 9) [DDEC V]	67177449
+Engine Retarder Switch Failed (FMI 12) [DDEC V]	67177452
+Engine Retarder Switches Status (Inactive) [DDEC V]	67177456
+Engine Retarder Switch Not Responding (FMI 9) - Eng2 [DDEC V]	67177481
+Engine Retarder Switch Failed (FMI 12) - Eng2 [DDEC V]	67177484
+Engine Retarder Switches Status (Inactive) - Eng2 [DDEC V]	67177488
+Engine Intercooler Temperature High (FMI 0)	67174560
+Engine Intercooler Temp Sensor Input Voltage High (FMI 3)	67174563
+Engine Intercooler Temp Sensor Input Voltage Low (FMI 4)	67174564
+Engine Intercooler Temp (Inactive)	67174576
+Optimized Idle Safety Loop Short To Ground (FMI 4)	67174596
+Park Brake/Safety Loop Switch Not Responding (FMI 9)	67174601
+Park Brake/Safety Loop Switch Failed (FMI 12)	67174604
+Parking Brake Switch Status (Inactive)	67174608
+Park Brake/Safety Loop Switch Not Responding (FMI 9) - Eng2	67177513
+Park Brake/Safety Loop Switch Failed (FMI 12) - Eng2	67177516
+Parking Brake Switch Status (Inactive) - Eng2	67177520
+Aux. Pump Pressure High (FMI 0) [DDEC V]	67177536
+Fire Pump Pressure Low (FMI 1) [DDEC V]	67177537
+Aux. Pump Pressure Sensor Input Voltage High (FMI 3) [DDEC V]	67177539
+Pump Pressure Sensor Input Voltage Low (FMI 4) [DDEC V]	67177540
+Auxiliary Water Pump Pressure (Inactive) [DDEC V]	67177552
+Aux. Pump Pressure High (FMI 0) - Eng2 [DDEC V]	67177568
+Fire Pump Pressure Low (FMI 1) - Eng2 [DDEC V]	67177569
+Aux. Pump Pressure Sensor Input Voltage High (FMI 3) - Eng2 [DDEC V]	67177571
+Pump Pressure Sensor Input Voltage Low (FMI 4) - Eng2 [DDEC V]	67177572
+Auxiliary Water Pump Pressure (Inactive) - Eng2 [DDEC V]	67177584
+Exhaust Back Pressure High (FMI 0) [DDEC V]	67177600
+Exhaust Back Pressure Low (FMI 1) [DDEC V]	67177601
+Exhaust Back Pressure Sensor Voltage High (FMI 3) [DDEC V]	67177603
+Exhaust Back Pressure Sensor Voltage Low (FMI 4) [DDEC V]	67177604
+Exhaust Back Pressure at Rampdown Threshold (FMI 12) [DDEC V]	67177612
+Particulate Trap Inlet Pressure (Inactive) [DDEC V]	67177616
+Exhaust Back Pressure High (FMI 0) - Eng2 [DDEC V]	67177632
+Exhaust Back Pressure Low (FMI 1) - Eng2 [DDEC V]	67177633
+Exhaust Back Pressure Sensor Voltage High (FMI 3) - Eng2 [DDEC V]	67177635
+Exhaust Back Pressure Sensor Voltage Low (FMI 4) - Eng2 [DDEC V]	67177636
+Exhaust Back Pressure at Rampdown Threshold (FMI 12) - Eng2 [DDEC V]	67177644
+Particulate Trap Inlet Pressure (Inactive) - Eng2 [DDEC V]	67177648
+Vehicle Overspeed (FMI 0) [DDEC V]	67177664
+Vehicle Overspeed (Absolute) (FMI 11) [DDEC V]	67177675
+Vehicle Speed Sensor Fault (FMI 12) [DDEC V]	67177676
+Road Speed (Inactive) [DDEC V]	67177680
+Vehicle Overspeed (FMI 0) - Eng2 [DDEC V]	67177696
+Vehicle Overspeed (Absolute) (FMI 11) - Eng2 [DDEC V]	67177707
+Vehicle Speed Sensor Fault (FMI 12) - Eng2 [DDEC V]	67177708
+Road Speed (Inactive) - Eng2 [DDEC V]	67177712
+Cruise Control/Adaptive Cruise Control Fault (FMI 14) [DDEC V]	67177742
+Cruise Control Set Speed (Inactive) [DDEC V]	67177744
+Cruise Control/Adaptive Cruise Control Fault (FMI 14) - Eng2 [DDEC V]	67177774
+Cruise Control Set Speed (Inactive) - Eng2 [DDEC V]	67177776
+Throttle Position Sensor Input Voltage High (FMI 3)	67174627
+Throttle Position Sensor Input Voltage Low (FMI 4)	67174628
+Percentage Throttle (Inactive)	67174640
+Torque Overload (FMI 0)	67174656
+Percentage Engine Load (Inactive)	67174672
+Fuel Delivery Pressure High (FMI 0)	67174688
+Fuel Delivery Pressure Low (FMI 1)	67174689
+Fuel Delivery Pressure Sensor Input Voltage High (FMI 3)	67174691
+Fuel Delivery Pressure Sensor Input Voltage Low (FMI 4)	67174692
+Fuel Delivery Pressure (Inactive)	67174704
+Fuel Restriction High (FMI 0)	67174720
+Fuel Filter Differential Pressure Low (FMI 1)	67174721
+Fuel Restriction Sensor Input Voltage High (FMI 3)	67174723
+Fuel Restriction Sensor Input Voltage Low (FMI 4)	67174724
+Fuel Filter Differential Pressure (Inactive)	67174736
+Fuel Filter Restriction High (FMI 0) - Eng2	67177792
+Fuel Filter Differential Pressure Low (FMI 1) - Eng2	67177793
+Fuel Restriction Sensor Input Voltage Low (FMI 4) - Eng2	67177796
+Fuel Filter Differential Pressure (Inactive) - Eng2	67177808
+Engine Oil Level High (FMI 0)	67174752
+Engine Oil Level Low (FMI 1)	67174753
+Engine Oil Level Sensor Input Voltage High (FMI 3)	67174755
+Engine Oil Level Sensor Input Voltage Low (FMI 4)	67174756
+Engine Oil Level (Inactive)	67174768
+Oil Filter Restriction High (FMI 0)	67174784
+Oil Filter Differential Pressure Low (FMI 1)	67174785
+Oil Filter Restriction Sensor Voltage High (FMI 3)	67174787
+Oil Filter Restriction Sensor Voltage Low (FMI 4)	67174788
+Oil Filter Differential Pressure (Inactive)	67174800
+Oil Filter Differential Pressure Low (FMI 1) - Eng2	67177825
+Oil Filter Restriction Sensor Voltage High (FMI 3) - Eng2	67177827
+Oil Filter Restriction Sensor Voltage Low (FMI 4) - Eng2	67177828
+Oil Filter Differential Pressure (Inactive) - Eng2	67177840
+Engine Oil Pressure High (FMI 0)	67174816
+Engine Oil Pressure Oil Pressure Low (FMI 1)	67174817
+Engine Oil Pressure Sensor Input Voltage High (FMI 3)	67174819
+Engine Oil Pressure Sensor Input Voltage Low (FMI 4)	67174820
+Engine Oil Pressure (Inactive)	67174832
+Engine Oil Pressure High (FMI 0) - Eng2	67177856
+Engine Oil Pressure (Inactive) - Eng2	67177872
+Crankcase Pressure High (FMI 0)	67174848
+Crankcase Pressure Low (FMI 1)	67174849
+Crankcase Pressure Sensor Input Voltage High (FMI 3)	67174851
+Crankcase Pressure Sensor Input Voltage Low (FMI 4)	67174852
+Crankcase Pressure (Inactive)	67174864
+Front Turbocharger Boost Pressure High (FMI 0)	67174880
+Turbo Boost Pressure Low (FMI 1)	67174881
+Front Turbo Boost Press Sensor Input Voltage High (FMI 3)	67174883
+Front Turbo Boost Press Sensor Input Voltage Low(FMI 4)	67174884
+Engine Power Derate Due To Boost Pressure (FMI 14)	67174894
+Front Turbocharger Boost Pressure (Gage) (Inactive)	67174896
+Turbo Boost Pressure Low (FMI 1) - Eng2	67177889
+Engine Power Derate Due To Boost Pressure (FMI 14) - Eng2	67177902
+Front Turbocharger Boost Pressure (Gage) (Inactive) - Eng2	67177904
+Turbo Overspeed (FMI 0) [DDEC V]	67177920
+Turbo Speed Sensor Input Failure - Abnormal Period (FMI 8) [DDEC V]	67177928
+Turbo Speed (Inactive) [DDEC V]	67177936
+Turbo Overspeed (FMI 0) - Eng2 [DDEC V]	67177952
+Turbo Speed Sensor Input Failure - Abnormal Period (FMI 8) - Eng2 [DDEC V]	67177960
+Turbo Speed (Inactive) - Eng2 [DDEC V]	67177968
+Intake Manifold Temperature High (FMI 0) [DDEC V]	67177984
+Inlet Manifold Temperature Low (FMI 1) [DDEC V]	67177985
+Intake Manifold Temperature Sensor Input Voltage High (FMI 3) [DDEC V]	67177987
+Intake Manifold Temperature Sensor Input Voltage Low (FMI 4) [DDEC V]	67177988
+Engine Power Derate Due To Intake Manifold Temperature (FMI 14) [DDEC V]	67177998
+Intake Manifold Temperature (Inactive) [DDEC V]	67178000
+Intake Manifold Temperature High (FMI 0) - Eng2 [DDEC V]	67178016
+Inlet Manifold Temperature Low (FMI 1) - Eng2 [DDEC V]	67178017
+Intake Manifold Temperature Sensor Input Voltage High (FMI 3) - Eng2 [DDEC V]	67178019
+Intake Manifold Temperature Sensor Input Voltage Low (FMI 4) - Eng2 [DDEC V]	67178020
+Engine Power Derate Due To Intake Manifold Temperature (FMI 14) - Eng2 [DDEC V]	67178030
+Intake Manifold Temperature (Inactive) - Eng2 [DDEC V]	67178032
+Air Inlet Pressure High (FMI 0)	67174912
+Air Inlet Pressure Low (FMI 1)	67174913
+Air Inlet Press Sensor Input Voltage High (FMI 3)	67174915
+Air Inlet Press Sensor Input Voltage Low (FMI 4)	67174916
+Air Inlet Pressure (Inactive)	67174928
+Air Inlet Pressure Sensor Input Voltage High (FMI 3) - Eng2	67178051
+Air Inlet Pressure Sensor Input Voltage Low (FMI 4) - Eng2	67178052
+Air Inlet Pressure (Inactive) - Eng2	67178064
+Air Filter Restriction High (FMI 0)	67174944
+Air filter Restriction Pressure Low (FMI 1)	67174945
+Air Filter Restriction Sensor Voltage High (FMI 3)	67174947
+Air Filter Restriction Sensor Voltage Low (FMI 4)	67174948
+Air Filter Differential Pressure (Inactive)	67174960
+Air filter Restriction Pressure Low (FMI 1) - Eng2	67178081
+Air Filter Differential Pressure (Inactive) - Eng2	67178096
+Barometric Pressure High (FMI 0)	67174976
+Barometric Pressure Low (FMI 1)	67174977
+Barometric Press Sensor Input Volts High (FMI 3)	67174979
+Barometric Press Sensor Input Volts Low (FMI 4)	67174980
+Barometric Pressure (Inactive)	67174992
+Barometric Pressure High (FMI 0) - Eng2	67178112
+Barometric Pressure Low (FMI 1) - Eng2	67178113
+Barometric Pressure Sensor Input Voltage High (FMI 3) - Eng2	67178115
+Barometric Pressure Sensor Input Voltage Low (FMI 4) - Eng2	67178116
+Barometric Pressure (Inactive) - Eng2	67178128
+Coolant Pressure High (FMI 0)	67175008
+Engine Coolant Pressure Low (FMI 1)	67175009
+Engine Coolant Pressure Sensor Input Voltage High (FMI 3)	67175011
+Engine Coolant Pressure Sensor Input Voltage Low (FMI 4)	67175012
+Engine Coolant Pressure (Inactive)	67175024
+Coolant Pressure High (FMI 0) - Eng2	67175040
+Intercooler Coolant Pressure Low (FMI 1) - Eng2	67175041
+Intercooler Coolant Press Sensor Input Volts High (FMI 3) - Eng2	67175043
+Intercooler Coolant Press Sensor Input Volts Low (FMI 4) - Eng2	67175044
+Intercooler Coolant Pressure (Inactive) - Eng2	67175056
+Coolant Temperature High (FMI 0)	67175072
+Coolant Temperature Low (FMI 1)	67175073
+Coolant Temperature Sensor Input Voltage High (FMI 3)	67175075
+Coolant Temperature Sensor Input Voltage Low (FMI 4)	67175076
+Engine Power Derate Due To Coolant Temperature (FMI 14)	67175086
+Coolant Temperature (Inactive)	67175088
+Coolant Temperature Low (FMI 1) - Eng2	67178145
+Engine Power Derate Due To Coolant Temperature (FMI 14) - Eng2	67178158
+Coolant Temperature (Inactive) - Eng2	67178160
+Coolant Level High (FMI 0)	67175104
+Coolant Level Low (FMI 1)	67175105
+Coolant Level Sensor Input Voltage High (FMI 3)	67175107
+Coolant Level Sensor Input Voltage Low (FMI 4)	67175108
+Add Coolant Level Sensor Input Voltage High (FMI 5)	67175109
+Add Coolant Level Sensor Input Voltage Low (FMI 6)	67175110
+Maintenance Alert Coolant Level Fault (FMI 12)	67175116
+Coolant Level (Inactive)	67175120
+Coolant Level High (FMI 0) - Eng2	67178176
+Coolant Level (Inactive) - Eng2	67178192
+Engine Overspeed With Engine Brake (FMI 0) [DDEC V]	67178208
+Engine Retarder Status (Inactive) [DDEC V]	67178224
+Engine Overspeed With Engine Brake (FMI 0) - Eng2 [DDEC V]	67178240
+Engine Retarder Status (Inactive) - Eng2 [DDEC V]	67178256
+Extended Crankcase Pressure High (FMI 0)	67175136
+Extended Crankcase Pressure Low (FMI 1)	67175137
+Extended Crankcase Pressure Input Voltage High (FMI 3)	67175139
+Extended Crankcase Pressure Input Voltage Low (FMI 4)	67175140
+Crankcase Pressure (Inactive)	67175152
+Injection Control Pressure High (FMI 0)	67175168
+Injection Control Pressure Low (FMI 1)	67175169
+Injection Control Pressure Circuit Voltage High (FMI 3)	67175171
+Injection Control Pressure Sensor Input Voltage Low (FMI 4)	67175172
+Injection Control Pressure (Inactive)	67175184
+M-ECM Battery Voltage High (FMI 0)	67175200
+M-ECM Battery Voltage Low (FMI 1)	67175201
+M-ECM Battery Voltage (Inactive)	67175216
+R-ECM Battery Voltage High (FMI 0) - Eng2	67175232
+R-ECM Battery Voltage Low (FMI 1) - Eng2	67175233
+R-ECM Battery Voltage (Inactive) - Eng2	67175248
+Ambient Air Temperature High (FMI 0)	67175264
+Ambient Air Temperature Low (FMI 1)	67175265
+Ambient Air Temperature Sensor Input Voltage High (FMI 3)	67175267
+Ambient Air Temperature Circuit Failed Low (FMI 4)	67175268
+Ambient Air Temperature (Inactive)	67175280
+Ambient Air Temperature High (FMI 0) - Eng2	67178272
+Ambient Air Temperature Low (FMI 1) - Eng2	67178273
+Ambient Air Temperature (Inactive) - Eng2	67178288
+Air Inlet Temperature High (FMI 0)	67175296
+Air Inlet Temperature Low (FMI 1)	67175297
+Air Inlet Temperature Sensor Input Voltage High (FMI 3)	67175299
+Air Inlet Temperature Sensor Input Voltage Low (FMI 4)	67175300
+Air Inlet Temperature (Inactive)	67175312
+Air Inlet Temperature High (FMI 0) - Eng2	67175328
+Air Inlet Temperature Low (FMI 1) - Eng2	67175329
+Air Inlet Temperature Sensor Input Voltage High (FMI 3) - Eng2	67175331
+Air Inlet Temperature Sensor Input Voltage Low (FMI 4) - Eng2	67175332
+Air Inlet Temperature (Inactive) - Eng2	67175344
+Exhaust Temperature High (FMI 0) [DDEC V]	67178336
+Exhaust Temperature Sensor Input Voltage High (FMI 3) [DDEC V]	67178339
+Exhaust Temperature Sensor Input Voltage Low (FMI 4) [DDEC V]	67178340
+Exhaust Gas Temperature (Inactive) [DDEC V]	67178352
+Exhaust Temperature High (FMI 0) - Eng2 [DDEC V]	67178368
+Exhaust Temperature Sensor Input Voltage High (FMI 3) - Eng2 [DDEC V]	67178371
+Exhaust Temperature Sensor Input Voltage Low (FMI 4) - Eng2 [DDEC V]	67178372
+Exhaust Gas Temperature (Inactive) - Eng2 [DDEC V]	67178384
+Fuel Temperature High (FMI 0)	67175360
+Fuel Temperature Low (FMI 1)	67175361
+Fuel Temperature Sensor Input Voltage High (FMI 3)	67175363
+Fuel Temperature Sensor Input Voltage Low (FMI 4)	67175364
+Fuel Temperature (Inactive)	67175376
+Fuel Temperature High (FMI 0) - Eng2	67178400
+Fuel Temperature Low (FMI 1) - Eng2	67178401
+Fuel Temperature (Inactive) - Eng2	67178416
+Engine Oil Temperature Low (FMI 1)	67178433
+Oil Temperature Derate (FMI 14)	67178446
+Engine Oil Temperature (Inactive)	67178448
+Engine Oil Temperature High (FMI 0) - Eng2	67175392
+Engine Oil Temperature Low (FMI 1) - Eng2	67175393
+Engine Oil Temperature Sensor Input Voltage High (FMI 3) - Eng2	67175395
+Engine Oil Temperature Sensor Input Voltage Low (FMI 4) - Eng2	67175396
+Oil Temperature Derate (FMI 14) - Eng2	67175406
+Engine Oil Temperature (Inactive) - Eng2	67175408
+Transmission Oil Temperature High (FMI 0) [DDEC V]	67178464
+Transmission Oil Temperature Low (FMI 1) [DDEC V]	67178465
+Transmission Oil Temperature Failed High (FMI 3) [DDEC V]	67178467
+Transmission Oil Temperature Failed Low (FMI 4) [DDEC V]	67178468
+Transmission Oil Temperature (Inactive) [DDEC V]	67178480
+Transmission Oil Temperature High (FMI 0) - Eng2 [DDEC V]	67178496
+Transmission Oil Temperature Low (FMI 1) - Eng2 [DDEC V]	67178497
+Transmission Oil Temperature Failed High (FMI 3) - Eng2 [DDEC V]	67178499
+Transmission Oil Temperature Failed Low (FMI 4) - Eng2 [DDEC V]	67178500
+Transmission Oil Temperature (Inactive) - Eng2 [DDEC V]	67178512
+Variable Speed Governor Sensor Voltage High (FMI 3)	67175427
+Variable Speed Governor Sensor Voltage Low (FMI 4)	67175428
+Variable Speed Governor Switch System Not Responding (FMI 7)	67175431
+VSG Set Speed (Inactive)	67175440
+Engine Overspeed (FMI 0)	67175456
+Engine Overspeed Signal (FMI 14)	67175470
+Engine Speed (Inactive)	67175472
+Engine Overspeed Signal (FMI 14) - Eng2	67178542
+Engine Speed (Inactive) - Eng2	67178544
+Fram Checksum Incorrect (FMI 2)	67175490
+Last Customer Calibration Change Hours (Inactive)	67175504
+TCI Temperature Above Range (FMI 0) [DDEC V]	67178560
+TCI Temperature Below Range (FMI 1) [DDEC V]	67178561
+TCI Temperature Circuit Failed High (FMI 3) [DDEC V]	67178563
+TCI Temperature Circuit Failed Low (FMI 4) [DDEC V]	67178564
+TCI Temperature (Inactive) [DDEC V]	67178576
+TCI Temperature Above Range (FMI 0) - Eng2 [DDEC V]	67178592
+TCI Temperature Below Range (FMI 1) - Eng2 [DDEC V]	67178593
+TCI Temperature Circuit Failed High (FMI 3) - Eng2 [DDEC V]	67178595
+TCI Temperature Circuit Failed Low (FMI 4) - Eng2 [DDEC V]	67178596
+TCI Temperature (Inactive) - Eng2 [DDEC V]	67178608
+Change Oil Soon (FMI 1) [DDEC V]	67178625
+Engine Oil Life Sensor Circuit Failed High (FMI 3) [DDEC V]	67178627
+Engine Oil Life Sensor Circuit Failed Low (FMI 4) [DDEC V]	67178628
+Coolant In Oil Detected (FMI 9) [DDEC V]	67178633
+Change Oil Now (FMI 14) [DDEC V]	67178638
+Engine Oil Life Sensor (Inactive) [DDEC V]	67178640
+Change Oil Soon (FMI 1) - Eng2 [DDEC V]	67178657
+Engine Oil Life Sensor Circuit Failed High (FMI 3) - Eng2 [DDEC V]	67178659
+Engine Oil Life Sensor Circuit Failed Low (FMI 4) - Eng2 [DDEC V]	67178660
+Coolant In Oil Detected (FMI 9) - Eng2 [DDEC V]	67178665
+Change Oil Now (FMI 14) - Eng2 [DDEC V]	67178670
+Engine Oil Life Sensor (Inactive) - Eng2 [DDEC V]	67178672
+Turbo Compressor Out Temperature High (FMI 0) [DDEC V]	67178688
+Turbo Compressor Temperature Out Low (FMI 1) [DDEC V]	67178689
+Turbo Compressor Out Temperature Sensor Input Voltage High (FMI 3) [DDEC V]	67178691
+Turbo Compressor Temperature Out Sensor Input Voltage Low (FMI 4) [DDEC V]	67178692
+Engine Power Derate Due To TCO Temperature (FMI 14) [DDEC V]	67178702
+Turbo Compressor Temperature Out (Inactive) [DDEC V]	67178704
+Turbo Compressor Out Temperature High (FMI 0) - Eng2 [DDEC V]	67178720
+Turbo Compressor Temperature Out Low (FMI 1) - Eng2 [DDEC V]	67178721
+Turbo Compressor Out Temperature Sensor Input Voltage High (FMI 3) - Eng2 [DDEC V]	67178723
+Turbo Compressor Temperature Out Sensor Input Voltage Low (FMI 4) - Eng2 [DDEC V]	67178724
+Engine Power Derate Due To TCO Temperature (FMI 14) - Eng2 [DDEC V]	67178734
+Turbo Compressor Temperature Out (Inactive) - Eng2 [DDEC V]	67178736
+EGR Delta Pressure High (FMI 0) [DDEC V]	67178752
+EGR Delta Pressure Low (FMI 1) [DDEC V]	67178753
+EGR Delta Pressure Circuit Failed High (FMI 3) [DDEC V]	67178755
+EGR Delta Pressure Circuit Failed low (FMI 4) [DDEC V]	67178756
+EGR Delta Pressure (Inactive) [DDEC V]	67178768
+EGR Delta Pressure High (FMI 0) - Eng2 [DDEC V]	67178784
+EGR Delta Pressure Low (FMI 1) - Eng2 [DDEC V]	67178785
+EGR Delta Pressure Circuit Failed High (FMI 3) - Eng2 [DDEC V]	67178787
+EGR Delta Pressure Circuit Failed low (FMI 4) - Eng2 [DDEC V]	67178788
+EGR Delta Pressure (Inactive) - Eng2 [DDEC V]	67178800
+EGR Temperature High (FMI 0) [DDEC V]	67178816
+EGR Temperature Low (FMI 1) [DDEC V]	67178817
+EGR Temperature Circuit Failed High (FMI 3) [DDEC V]	67178819
+EGR Temperature Circuit Failed Low (FMI 4) [DDEC V]	67178820
+EGR Temperature (Inactive) [DDEC V]	67178832
+EGR Temperature High (FMI 0) - Eng2 [DDEC V]	67178848
+EGR Temperature Low (FMI 1) - Eng2 [DDEC V]	67178849
+EGR Temperature Circuit Failed High (FMI 3) - Eng2 [DDEC V]	67178851
+EGR Temperature Circuit Failed Low (FMI 4) - Eng2 [DDEC V]	67178852
+EGR Temperature (Inactive) - Eng2 [DDEC V]	67178864
+Injector #1 Response Time Long (FMI 0)	67175520
+Injector #1 Response Time Short (FMI 1)	67175521
+Injector #1 Circuit Short To Ground (FMI 6)	67175526
+Injector #1 Response Time (Inactive)	67175536
+Injector #1 Circuit Short To Ground (FMI 6) - Eng2	67178886
+Injector #1 Response Time (Inactive) - Eng2	67178896
+Injector #2 Response Time Long (FMI 0)	67175552
+Injector #2 Response Time Short (FMI 1)	67175553
+Injector #2 Circuit Short To Ground (FMI 6)	67175558
+Injector #2 Response Time (Inactive)	67175568
+Injector #2 Circuit Short To Ground (FMI 6) - Eng2	67178918
+Injector #2 Response Time (Inactive) - Eng2	67178928
+Injector #3 Response Time Long (FMI 0)	67175584
+Injector #3 Response Time Short (FMI 1)	67175585
+Injector #3 Circuit Short To Ground (FMI 6)	67175590
+Injector #3 Response Time (Inactive)	67175600
+Injector #3 Circuit Short To Ground (FMI 6) - Eng2	67178950
+Injector #3 Response Time (Inactive) - Eng2	67178960
+Injector #4 Response Time Long (FMI 0)	67175616
+Injector #4 Response Time Short (FMI 1)	67175617
+Injector #4 Circuit Short To Ground (FMI 6)	67175622
+Injector #4 Response Time (Inactive)	67175632
+Injector #4 Circuit Short To Ground (FMI 6) - Eng2	67178982
+Injector #4 Response Time (Inactive) - Eng2	67178992
+Injector #5 Response Time Long (FMI 0)	67175648
+Injector #5 Response Time Short (FMI 1)	67175649
+Injector #5 Circuit Short To Ground (FMI 6)	67175654
+Injector #5 Response Time (Inactive)	67175664
+Injector #5 Circuit Short To Ground (FMI 6) - Eng2	67179014
+Injector #5 Response Time (Inactive) - Eng2	67179024
+Injector #6 Response Time Long (FMI 0)	67175680
+Injector #6 Response Time Short (FMI 1)	67175681
+Injector #6 Circuit Short To Ground (FMI 6)	67175686
+Injector #6 Response Time (Inactive)	67175696
+Injector #6 Circuit Short To Ground (FMI 6) - Eng2	67179046
+Injector #6 Response Time (Inactive) - Eng2	67179056
+Injector #7 Response Time Long (FMI 0)	67175712
+Injector #7 Response Time Short (FMI 1)	67175713
+Injector #7 Response Time (Inactive)	67175728
+Injector #8 Response Time Long (FMI 0)	67175744
+Injector #8 Response Time Short (FMI 1)	67175745
+Injector #8 Response Time (Inactive)	67175760
+Injector #9 Response Time Long (FMI 0) - Eng2	67175776
+Injector #9 Response Time Short (FMI 1) - Eng2	67175777
+Injector #9 Response Time (Inactive) - Eng2	67175792
+Injector #10 Response Time Long (FMI 0) - Eng2	67175808
+Injector #10 Response Time Short (FMI 1) - Eng2	67175809
+Injector #10 Response Time (Inactive) - Eng2	67175824
+Injector #11 Response Time Long (FMI 0) - Eng2	67175840
+Injector #11 Response Time Short (FMI 1) - Eng2	67175841
+Injector #11 Response Time (Inactive) - Eng2	67175856
+Injector #12 Response Time Long (FMI 0) - Eng2	67175872
+Injector #12 Response Time Short (FMI 1) - Eng2	67175873
+Injector #12 Response Time (Inactive) - Eng2	67175888
+Injector #13 Response Time Long (FMI 0) - Eng2	67175904
+Injector #13 Response Time Short (FMI 1) - Eng2	67175905
+Injector #13 Response Time (Inactive) - Eng2	67175920
+Injector #14 Response Time Long (FMI 0) - Eng2	67175936
+Injector #14 Response Time Short (FMI 1) - Eng2	67175937
+Injector #14 Response Time (Inactive) - Eng2	67175952
+Injector #15 Response Time Long (FMI 0) - Eng2	67175968
+Injector #15 Response Time Short (FMI 1) - Eng2	67175969
+Injector #15 Response Time (Inactive) - Eng2	67175984
+Injector #16 Response Time Long (FMI 0) - Eng2	67176000
+Injector #16 Response Time Short (FMI 1) - Eng2	67176001
+Injector #16 Response Time (Inactive) - Eng2	67176016
+Timing Actuator (Duel Fuel) Input Voltage High (FMI 3)	67176035
+Timing Actuator (Duel Fuel) Input Voltage Low (FMI 4)	67176036
+Timing Actuator (Duel Fuel) (Inactive)	67176048
+Too Many SRS (Missing TRS)(FMI 0)	67176064
+Too Few SRS (Missing SRS) (FMI 1)	67176065
+Too Many SRS (Inactive)	67176080
+Auxiliary Shutdown #1 Active (FMI 1)	67176097
+Aux. Shutdown #1 Active (FMI 11)	67176107
+Auxiliary Shutdown #1 (Inactive)	67176112
+Aux. Shutdown #1 Active (FMI 11) - Eng2	67179083
+Auxiliary Shutdown #1 (Inactive) - Eng2	67179088
+Auxiliary Output #1 Short To Battery (FMI 3)	67176131
+Auxiliary Output #1 Open Circuit (FMI 4)	67176132
+Auxiliary Output #1 Mechanical System Failure (FMI 7)	67176135
+Auxiliary Output #1 (Inactive)	67176144
+Aux. Output #1 Short to Battery (+) - V4 (FMI 3) - Eng2	67179107
+Aux. Output #1 Open Circuit - V4 (FMI 4) - Eng2	67179108
+Aux. Output #1 Mechanical System Not Responding Properly -V4 (FMI 7) - Eng2	67179111
+Aux. Output #1 (Inactive) - Eng2	67179120
+Auxiliary Output #2 Short To Battery (FMI 3)	67176163
+Auxiliary Output #2 Open Circuit (FMI 4)	67176164
+Auxiliary Output #2 Mechanical System Failure (FMI 7)	67176167
+Auxiliary Output #2 (Inactive)	67176176
+Aux. Output #2 Short to Battery (+) - V5 (FMI 3) - Eng2	67179139
+Aux. Output #2 Open Circuit - V5 (FMI 4) - Eng2	67179140
+Aux. Output #2 Mechanical System Not Responding Properly - V5 (FMI 7) - Eng2	67179143
+Aux. Output #2 (Inactive) - Eng2	67179152
+Injector #17 Response Time Long (FMI 0)	67176192
+Injector #17 Response Time Short (FMI 1)	67176193
+Injector #17 Response Time (Inactive)	67176208
+Injector #18 Response Time Long (FMI 0)	67176224
+Injector #18 Response Time Short (FMI 1)	67176225
+Injector #18 Response Time (Inactive)	67176240
+Injector #19 Response Time Long (FMI 0)	67176256
+Injector #19 Response Time Short (FMI 1)	67176257
+Injector #19 Response Time (Inactive)	67176272
+Injector #20 Response Time Long (FMI 0)	67176288
+Injector #20 Response Time Short (FMI 1)	67176289
+Injector #20 Response Time (Inactive)	67176304
+Auxiliary Output #3 Open Circuit (High Side) (FMI_3)	67176323
+Auxiliary Output #3 Short To Ground (High Side) (FMI_4)	67176324
+Auxiliary Output #3 Mechanical System Failure (FMI_7)	67176327
+Auxiliary Output #3 (Inactive)	67176336
+Auxiliary Output #4 Open Circuit (High Side) (FMI_3)	67176355
+Auxiliary Output #4 Short To Ground (High Side) (FMI_4)	67176356
+Auxiliary Output #4 Mechanical System Failure (FMI_7)	67176359
+Auxiliary Output #4 (Inactive)	67176368
+Auxiliary Output #5 Short To Battery (FMI 3)	67176387
+Auxiliary Output #5 Open Circuit (FMI 4)	67176388
+Auxiliary Output #5 Mechanical System Failure (FMI 7)	67176391
+Auxiliary Output #5 (Inactive)	67176400
+Aux. Output #5 Short to Battery (+) -V6 (FMI 3) - Eng2	67179171
+Aux. Output #5 Open Circuit - V6 (FMI 4) - Eng2	67179172
+Aux. Output #5 Mechanical System Not Responding Properly - V6 (FMI 7) - Eng2	67179175
+Aux. Output #5 (Inactive) - Eng2	67179184
+Auxiliary Output #6 Short To Battery (FMI 3)	67176419
+Auxiliary Output #6 Open Circuit (FMI 4)	67176420
+Auxiliary Output #6 Mechanical System Failure (FMI 7)	67176423
+Auxiliary Output #6 (Inactive)	67176432
+Aux. Output #6 Short to Battery (+) - V7 (FMI 3) - Eng2	67179203
+Aux. Output #6 Open Circuit - V7 (FMI 4) - Eng2	67179204
+Aux. Output #6 Mechanical System Not Responding Properly - V7 (FMI 7) - Eng2	67179207
+Aux. Output #6 (Inactive) - Eng2	67179216
+Auxiliary Output #7 Short To Battery (FMI 3)	67176451
+Auxiliary Output #7 Open Circuit (FMI 4)	67176452
+Auxiliary Output #7 Mechanical System Failure (FMI 7)	67176455
+Auxiliary Output #7 (Inactive)	67176464
+Aux. Output #7 Short to Battery (+) - V40 (FMI 3) - Eng2	67179235
+Aux. Output #7 Open Circuit - V40 (FMI 4) - Eng2	67179236
+Aux. Output #7 Mechanical System Not Responding Properly - V40 (FMI 7) - Eng2	67179239
+Aux. Output #7 (Inactive) - Eng2	67179248
+Auxiliary Output #8 Short To Battery (FMI 3)	67176483
+Auxiliary Output #8 Open Circuit (FMI 4)	67176484
+Auxiliary Output #8 Mechanical System Failure (FMI 7)	67176487
+Auxiliary Output #8 (Inactive)	67176496
+Aux. Output #8 Short to Battery (+) - V53 (FMI 3) - Eng2	67179267
+Aux. Output #8 Open Circuit - V53 (FMI 4) - Eng2	67179268
+Aux. Output #8 Mechanical System Not Responding Properly - V53 (FMI 7) - Eng2	67179271
+Aux. Output #8 (Inactive) - Eng2	67179280
+PWM #1 Above Normal Range (FMI 0)	67176512
+PWM #1 Below Normal Range (FMI 1)	67176513
+PWM #1 Short To Battery (FMI 3)	67176515
+PWM #1 Open Circuit (FMI 4)	67176516
+PWM #1 (V52) Mechanical System Failre (FMI 7)	67176519
+PWM #1 (Inactive)	67176528
+PWM #1 (V52) Above Normal Range (FMI 0) - Eng2	67179296
+PWM #1 (V52) Below Normal Range (FMI 1) - Eng2	67179297
+PWM #1 (V52) Short to Battery (+) (FMI 3) - Eng2	67179299
+PWM #1 (V52) Open Circuit (FMI 4) - Eng2	67179300
+PWM #1 (V52) Mechanical System Failre (FMI 7) - Eng2	67179303
+PWM #1 (Inactive) - Eng2	67179312
+PWM #2 Above Normal Range (FMI 0)	67176544
+PWM #2 Below Normal Range (FMI 1)	67176545
+PWM #2 Short To Battery (FMI 3)	67176547
+PWM #2 Open Circuit (FMI 4)	67176548
+PWM #2 (V46) Mechanical System Failre (FMI 7)	67176551
+PWM #2 (Inactive)	67176560
+PWM #2 (V46) Above Normal Range (FMI 0) - Eng2	67179328
+PWM #2 (V46) Below Normal Range (FMI 1) - Eng2	67179329
+PWM #2 (V46) Short to Battery (+) (FMI 3) - Eng2	67179331
+PWM #2 (V46) Open Circuit (FMI 4) - Eng2	67179332
+PWM #2 (V46) Mechanical System Failre (FMI 7) - Eng2	67179335
+PWM #2 (Inactive) - Eng2	67179344
+PWM #3 Above Normal Range (FMI 0)	67176576
+PWM #3 Below Normal Range (FMI 1)	67176577
+PWM #3 Short To Battery (FMI 3)	67176579
+PWM #3 Open Circuit (FMI 4)	67176580
+PWM #3 (E01) Mechanical System Failure (FMI 7)	67176583
+PWM #3 (Inactive)	67176592
+PWM #3 (E01) Above Normal Range (FMI 0) - Eng2	67179360
+PWM #3 (E01) Below Normal Range (FMI 1) - Eng2	67179361
+PWM #3 (E01) Short to Battery (+) (FMI 3) - Eng2	67179363
+PWM #3 (E01) Open Circuit (FMI 4) - Eng2	67179364
+PWM #3 (E01) Mechanical System Failure (FMI 7) - Eng2	67179367
+PWM #3 (Inactive) - Eng2	67179376
+PWM #4 Above Normal Range (FMI 0)	67176608
+PWM #4 Below Normal Range (FMI 1)	67176609
+PWM #4 Short To Battery (FMI 3)	67176611
+PWM #4 Open Circuit (FMI 4)	67176612
+PWM #4 (E04) Mechanical System Failure (FMI 7)	67176615
+PWM #4 (Inactive)	67176624
+PWM #4 (E04) Above Normal Range (FMI 0) - Eng2	67179392
+PWM #4 (E04) Below Normal Range (FMI 1) - Eng2	67179393
+PWM #4 (E04) Short to Battery (+) (FMI 3) - Eng2	67179395
+PWM #4 (E04) Open Circuit (FMI 4) - Eng2	67179396
+PWM #4 (E04) Mechanical System Failure (FMI 7) - Eng2	67179399
+PWM #4 (Inactive) - Eng2	67179408
+Auxiliary Shutdown #2 Active (FMI 11)	67176651
+Auxiliary Shutdown #2 (Inactive)	67176656
+Oxygen Content Too High (FMI 0)	67176672
+Oxygen Content Too Low (FMI 1)	67176673
+Oxygen Content Circuit Input Voltage High (FMI 3)	67176675
+Oxygen Content Circuit Input Voltage Low (FMI 4)	67176676
+Oxygen Content (Inactive)	67176688
+Injector #21 Response Time Long (FMI 0)	67176704
+Injector #21 Response Time Short (FMI 1)	67176705
+Injector #21 Response Time (Inactive)	67176720
+Injector #22 Response Time Long (FMI 0)	67176736
+Injector #22 Response Time Short (FMI 1)	67176737
+Injector #22 Response Time (Inactive)	67176752
+Injector #23 Response Time Long (FMI 0)	67176768
+Injector #23 Response Time Short (FMI 1)	67176769
+Injector #23 Response Time (Inactive)	67176784
+Injector #24 Response Time Long (FMI 0)	67176800
+Injector #24 Response Time Short (FMI 1)	67176801
+Injector #24 Response Time (Inactive)	67176816
+Engine Knock Level Above Normal Range (FMI 0)	67176832
+Engine Knock Level Sensor Input Voltage High (FMI 3)	67176835
+Engine Knock Level Sensor Input Voltage Low (FMI 4)	67176836
+Engine Knock Level Sensor Not Responding (FMI 7)	67176839
+Engine Knock Level (Inactive)	67176848
+Gas Valve Position Above Normal Range (FMI 0)	67176864
+Gas Valve Position Below Normal Range (FMI 1)	67176865
+Gas Valve Position Input Voltage High (FMI 3)	67176867
+Gas Valve Position Input Voltage Low (FMI 4)	67176868
+Gas Metering Valve Not Responding (FMI 7)	67176871
+Gas Valve Position (Inactive)	67176880
+Oil Filter Restriction Sensor Voltage High (FMI 3)	67176899
+Oil Filter Restriction Sensor Voltage Low (FMI 4)	67176900
+Oil Filter Restriction Sensor (Inactive)	67176912
+EGR Leak - Boost Power (FMI 2) [DDEC V]	67179426
+EGR Valve Current Too Low (FMI 5) [DDEC V]	67179429
+EGR Valve Current Too High (FMI 6) [DDEC V]	67179430
+EGR Valve Not Responding (FMI 7) [DDEC V]	67179431
+EGR Leak - Boost Jake (FMI 12) [DDEC V]	67179436
+SID 146 (Inactive) [DDEC V]	67179440
+EGR Leak - Boost Power (FMI 2) - Eng2 [DDEC V]	67179458
+EGR Valve Current Too Low (FMI 5) - Eng2 [DDEC V]	67179461
+EGR Valve Current Too High (FMI 6) - Eng2 [DDEC V]	67179462
+EGR Valve Not Responding (FMI 7) - Eng2 [DDEC V]	67179463
+EGR Leak - Boost Jake (FMI 12) - Eng2 [DDEC V]	67179468
+SID 146 (Inactive) - Eng2 [DDEC V]	67179472
+Low or High Boost-Boost Mode VNT Vanes not responding-Boost Mode (FMI 2) [DDEC V]	67179490
+Excessive EGR Flow-EGR Mode VNT Vanes not responding-EGR Mode (FMI 7) [DDEC V]	67179495
+VNT Vanes at Max - Jake (FMI 11) [DDEC V]	67179499
+Low or High Boost during Jake Operation VNT Vanes not responding-Jake Mode (FMI 12) [DDEC V]	67179500
+EGR Flow too Low (FMI 14) [DDEC V]	67179502
+SID 147 (Inactive) [DDEC V]	67179504
+Low or High Boost-Boost Mode VNT Vanes not responding-Boost Mode (FMI 2) - Eng2 [DDEC V]	67179522
+Excessive EGR Flow-EGR Mode VNT Vanes not responding-EGR Mode (FMI 7) - Eng2 [DDEC V]	67179527
+VNT Vanes at Max - Jake (FMI 11) - Eng2 [DDEC V]	67179531
+Low or High Boost during Jake Operation VNT Vanes not responding-Jake Mode (FMI 12) - Eng2 [DDEC V]	67179532
+EGR Flow too Low (FMI 14) - Eng2 [DDEC V]	67179534
+SID 147 (Inactive) - Eng2 [DDEC V]	67179536
+Service Now Lamp Fault Expiration (FMI 11)	67176939
+ESS Transmission Stuck In Gear (FMI 14)	67176942
+ESS Transmission Stuck In Gear (Inactive)	67176944
+Service Now Lamp Fault Expiration (FMI 11) - Eng2	67179563
+ESS Transmission Stuck In Gear (Inactive) - Eng2	67179568
+Injector Vreg Voltage Failed High (FMI 3) [DDEC V]	67179587
+Injector Vreg Voltage Failed Low (FMI 4) [DDEC V]	67179588
+Injector Vreg Voltage (Inactive) [DDEC V]	67179600
+Injector Vreg Voltage Failed High (FMI 3) - Eng2 [DDEC V]	67179619
+Injector Vreg Voltage Failed Low (FMI 4) - Eng2 [DDEC V]	67179620
+Injector Vreg Voltage (Inactive) - Eng2 [DDEC V]	67179632
+Vehicle Sensor Supply Voltage High (FMI 0) [DDEC V]	67179648
+Vehicle Sensor Supply Voltage Low (FMI 1) [DDEC V]	67179649
+Vehicle Sensor Supply Voltage (Inactive) [DDEC V]	67179664
+Vehicle Sensor Supply Voltage High (FMI 0) - Eng2 [DDEC V]	67179680
+Vehicle Sensor Supply Voltage Low (FMI 1) - Eng2 [DDEC V]	67179681
+Vehicle Sensor Supply Voltage (Inactive) - Eng2 [DDEC V]	67179696
+Injector Vslope Voltage Failed High (FMI 3) [DDEC V]	67179715
+Injector Vslope Voltage Failed Low (FMI 4) [DDEC V]	67179716
+Injector Vslope Voltage Failed (Inactive) [DDEC V]	67179728
+Injector Vslope Voltage Failed High (FMI 3) - Eng2 [DDEC V]	67179747
+Injector Vslope Voltage Failed Low (FMI 4) - Eng2 [DDEC V]	67179748
+Injector Vslope Voltage Failed (Inactive) - Eng2 [DDEC V]	67179760
+RTC Backup Battery Voltage High (FMI 0) [DDEC V]	67179776
+RTC Backup Battery Voltage Low (FMI 1) [DDEC V]	67179777
+RTC Backup Battery Voltage (Inactive) [DDEC V]	67179792
+RTC Backup Battery Voltage High (FMI 0) - Eng2 [DDEC V]	67179808
+RTC Backup Battery Voltage Low (FMI 1) - Eng2 [DDEC V]	67179809
+RTC Backup Battery Voltage (Inactive) - Eng2 [DDEC V]	67179824
+ECU Information Not Responding (Multiplexed Dashboard Devices) (FMI 7)	67176967
+Other ECU Fault(Another Fault Missing Data From ECU)(FMI 14)	67176974
+Other ECU Fault (Inactive)	67176976
+ECU Information Not Responding (Multiplexed Dashboard Devices) (FMI 7) - Eng2	67179847
+Other ECU Fault (Inactive) - Eng2	67179856
+Injector Ipullin Voltage Failed High (FMI 3) [DDEC V]	67179875
+Injector ILpullin Voltage Failed Low (FMI 4) [DDEC V]	67179876
+Injector ILpullin Voltage Failed (Inactive) [DDEC V]	67179888
+Injector Ipullin Voltage Failed High (FMI 3) - Eng2 [DDEC V]	67179907
+Injector ILpullin Voltage Failed Low (FMI 4) - Eng2 [DDEC V]	67179908
+Injector ILpullin Voltage Failed (Inactive) - Eng2 [DDEC V]	67179920
+Transmission Neutral Switch Failure (FMI 11)	67177003
+Transmission Neutral Switch Failure (Inactive)	67177008
+Auxiliary Analog Input Bad Data (FMI 2)	67177026
+Aux Analog Input #1 Voltage High (ESS Transmission) (FMI 3)	67177027
+Aux Analog Input #1 Voltage Low (ESS Transmission) (FMI 4)	67177028
+Auxiliary Analog Input (Inactive)	67177040
+TPS Idle Validation Circuit Fault (Open Circuit) (FMI 5)	67177061
+TPS Idle Validation Circuit Fault (Short To Ground) (FMI 6)	67177062
+TPS Idle Validation Circuit (Inactive)	67177072
+J1939 Data Link Fault (FMI 12)	67177100
+J1939 Data Link Fault (Inactive)	67177104
+Sensor Supply Voltage High (FMI 0)	67177120
+Sensor Supply Voltage Low (FMI 1)	67177121
+Sensor Supply Voltage (Inactive)	67177136
+RSL/SEL Short To Battery (+) (FMI 3)	67177155
+RSL/SEL Open Circuit (FMI 4)	67177156
+RSL/SEL (Inactive)	67177168
+RSL/SEL Short To Battery (+) (FMI 3) - Eng2	67179939
+RSL/SEL Open Circuit (FMI 4) - Eng2	67179940
+RSL/SEL (Inactive) - Eng2	67179952
+AWL/CEL Short To Battery (+) (FMI 3)	67177187
+AWL/CEL Open Circuit (FMI 4)	67177188
+AWL/CEL (Inactive)	67177200
+AWL/CEL Short To Battery (+) (FMI 3) - Eng2	67179971
+AWL/CEL Open Circuit (FMI 4) - Eng2	67179972
+AWL/CEL (Inactive) - Eng2	67179984
+ECU Checksum Incorrect (FMI 2) [DDEC V]	67180002
+ECU Checksum Incorrect (FMI 13) [DDEC V]	67180013
+ECU Checksum Incorrect (Inactive) [DDEC V]	67180016
+ECU Checksum Incorrect (FMI 2) - Eng2 [DDEC V]	67180034
+ECU Checksum Incorrect (FMI 13) - Eng2 [DDEC V]	67180045
+ECU Checksum Incorrect (Inactive) - Eng2 [DDEC V]	67180048
+Cruise Control Resume/Accel Switch Not Responding (FMI 9) [DDEC V]	67180073
+Cruise Control Resume/Accel Switch Failed (FMI 12) [DDEC V]	67180076
+Cruise Control Resume/Accel Switch (Inactive) [DDEC V]	67180080
+Cruise Control Resume/Accel Switch Not Responding (FMI 9) - Eng2 [DDEC V]	67180105
+Cruise Control Resume/Accel Switch Failed (FMI 12) - Eng2 [DDEC V]	67180108
+Cruise Control Resume/Accel Switch (Inactive) - Eng2 [DDEC V]	67180112
+Cruise Control Set/Coast Switch Not Responding (FMI 9) [DDEC V]	67180137
+Cruise Control Set/Coast Switch Failed (FMI 12) [DDEC V]	67180140
+Cruise Control Set/Coast Switch (Inactive) [DDEC V]	67180144
+Cruise Control Set/Coast Switch Not Responding (FMI 9) - Eng2 [DDEC V]	67180169
+Cruise Control Set/Coast Switch Failed (FMI 12) - Eng2 [DDEC V]	67180172
+Cruise Control Set/Coast Switch (Inactive) - Eng2 [DDEC V]	67180176
+Cruise Control Enable Switch Not Responding (FMI 9) [DDEC V]	67180201
+Cruise Control Enable Switch Failed (FMI 12) [DDEC V]	67180204
+Cruise Control Enable Switch (Inactive) [DDEC V]	67180208
+Cruise Control Enable Switch Not Responding (FMI 9) - Eng2 [DDEC V]	67180233
+Cruise Control Enable Switch Failed (FMI 12) - Eng2 [DDEC V]	67180236
+Cruise Control Enable Switch (Inactive) - Eng2 [DDEC V]	67180240
+Clutch Pedal Switch Not Responding (FMI 9) [DDEC V]	67180265
+Clutch Pedal Switch Failed (FMI 12) [DDEC V]	67180268
+Clutch Pedal Switch (Inactive) [DDEC V]	67180272
+Clutch Pedal Switch Not Responding (FMI 9) - Eng2 [DDEC V]	67180297
+Clutch Pedal Switch Failed (FMI 12) - Eng2 [DDEC V]	67180300
+Clutch Pedal Switch (Inactive) - Eng2 [DDEC V]	67180304
+Service Brake Pedal Switch Not Responding (FMI 9) [DDEC V]	67180329
+Service Brake Pedal Switch Failed (FMI 12) [DDEC V]	67180332
+Service Brake Pedal Switch (Inactive) [DDEC V]	67180336
+Service Brake Pedal Switch Not Responding (FMI 9) - Eng2 [DDEC V]	67180361
+Service Brake Pedal Switch Failed (FMI 12) - Eng2 [DDEC V]	67180364
+Service Brake Pedal Switch (Inactive) - Eng2 [DDEC V]	67180368
+Proprietary Data Link Fault (Master) (FMI 8)	67177224
+Proprietary Data Link Fault (Receiver) (FMI 9)	67177225
+Proprietary Data Link Fault (Inactive)	67177232
+J1922 Data Link Fault (FMI 12)	67177260
+J1922 Data Link Fault (Inactive)	67177264
+J1587 Data Link Fault (FMI 12)	67177292
+J1587 Data Link Fault (Inactive)	67177296
+Nonvolatile Checksum Incorrect (FMI 2)	67177314
+Calibartion Checks Invalid (FMI 9)	67177321
+EEPROM Write Error (FMI 12)	67177324
+Out Of Calibration (FMI 13 - DDC Code 53)	67177325
+Memory Write Error - All Locations (FMI 14)	67177326
+Incompatible Calibration Version (FMI 13 - DDC Code --)	67177328
+Memory Check Failed On Startup (FMI 2) - Eng2	67180386
+Calibartion Checks Invalid (FMI 9) - Eng2	67180393
+Memory Write Error - Single Location (FMI 12) - Eng2	67180396
+Calibration Memory Error (FMI 13) - Eng2	67180397
+Memory Write Error - All Locations (FMI 14) - Eng2	67180398
+Incompatible Calibration Version (FMI 13 - DDC Code --) - Eng2	67180400
+External Failed RAM (FMI 0)	67177344
+Internal Failed RAM (FMI 1)	67177345
+Entered Boot Via Switches (FMI 6)	67177350
+A/D Conversion Fail or Boot Code Checksum Incorrect (FMI 12)	67177356
+SID 254 (Inactive)	67177360
+External RAM Failed (FMI 0) - Eng2	67180416
+Internal RAM Failed (FMI 1) - Eng2	67180417
+Module Forced To Boot Mode (FMI 6) - Eng2	67180422
+SID 254 (Inactive) - Eng2	67180432
+Aux.Output #9 (V54) Short To Battery (FMI 3) [DDEC V]	67180451
+Aux.Output #9 (V54) Open Circuit (FMI 4) [DDEC V]	67180452
+Aux.Output #9 (V54) Mechanical System Failure-Pin Top 2 (FMI 7) [DDEC V]	67180455
+Aux.Output #9 (V54) (Inactive) [DDEC V]	67180464
+Aux.Output #9 (V54) Short To Battery (FMI 3) - Eng2 [DDEC V]	67180483
+Aux.Output #9 (V54) Open Circuit (FMI 4) - Eng2 [DDEC V]	67180484
+Aux.Output #9 (V54) Mechanical System Failure-Pin Top 2 (FMI 7) - Eng2 [DDEC V]	67180487
+Aux.Output #9 (V54) (Inactive) - Eng2 [DDEC V]	67180496
+Aux.Output #10 (V55) Short To Battery (FMI 3) [DDEC V]	67180515
+Aux.Output #10 (V55) Open Circuit (FMI 4) [DDEC V]	67180516
+Aux.Output #10 (V55) Mechanical System Failure Top 2 (FMI 7) [DDEC V]	67180519
+Aux.Output #10 (V55) (Inactive) [DDEC V]	67180528
+Aux.Output #10 (V55) Short To Battery (FMI 3) - Eng2 [DDEC V]	67180547
+Aux.Output #10 (V55) Open Circuit (FMI 4) - Eng2 [DDEC V]	67180548
+Aux.Output #10 (V55) Mechanical System Failure Top 2 (FMI 7) - Eng2 [DDEC V]	67180551
+Aux.Output #10 (V55) (Inactive) - Eng2 [DDEC V]	67180560
+Aux.Output #11 (E13) Short To Battery (FMI 3) [DDEC V]	67180579
+Aux.Output #11 (E13) Open Circuit (FMI 4) [DDEC V]	67180580
+Aux.Output #11 (E13) Mechanical System Failure (FMI 7) [DDEC V]	67180583
+Aux.Output #11 (E13) (Inactive) [DDEC V]	67180592
+Aux.Output #11 (E13) Short To Battery (FMI 3) - Eng2 [DDEC V]	67180611
+Aux.Output #11 (E13) Open Circuit (FMI 4) - Eng2 [DDEC V]	67180612
+Aux.Output #11 (E13) Mechanical System Failure (FMI 7) - Eng2 [DDEC V]	67180615
+Aux.Output #11 (E13) (Inactive) - Eng2 [DDEC V]	67180624
+Aux. Output #12 (E46) Open Circuit (High Side) (FMI 3) [DDEC V]	67180643
+Aux. Output #12 (E46) Short To Ground (High Side) (FMI 4) [DDEC V]	67180644
+Aux. Output #12 (E46) Mechanical System Failure (High Side) (FMI 7) [DDEC V]	67180647
+Aux. Output #12 (E46) (Inactive) [DDEC V]	67180656
+Aux. Output #12 (E46) Open Circuit (High Side) (FMI 3) - Eng2 [DDEC V]	67180675
+Aux. Output #12 (E46) Short To Ground (High Side) (FMI 4) - Eng2 [DDEC V]	67180676
+Aux. Output #12 (E46) Mechanical System Failure (High Side) (FMI 7) - Eng2 [DDEC V]	67180679
+Aux. Output #12 (E46) (Inactive) - Eng2 [DDEC V]	67180688
+Aux. Output #13 (E47) Open Circuit (High Side) (FMI 3) [DDEC V]	67180707
+Aux. Output #13 (E47) Short To Ground (High Side) (FMI 4) [DDEC V]	67180708
+Aux. Output #13 (E47) Mechanical System Failure (FMI 7) [DDEC V]	67180711
+Aux. Output #13 (E47) (Inactive) [DDEC V]	67180720
+Aux. Output #13 (E47) Open Circuit (High Side) (FMI 3) - Eng2 [DDEC V]	67180739
+Aux. Output #13 (E47) Short To Ground (High Side) (FMI 4) - Eng2 [DDEC V]	67180740
+Aux. Output #13 (E47) Mechanical System Failure (FMI 7) - Eng2 [DDEC V]	67180743
+Aux. Output #13 (E47) (Inactive) - Eng2 [DDEC V]	67180752
+Aux. Output #14 (E50) Open Circuit (High Side) (FMI 3) [DDEC V]	67180771
+Aux. Output #14 (E50) Short To Ground (High Side) (FMI 4) [DDEC V]	67180772
+Aux. Output #14 (E50) Mechanical System Failure (High Side) (FMI 7) [DDEC V]	67180775
+Aux. Output #14 (E50) (Inactive) [DDEC V]	67180784
+Aux. Output #14 (E50) Open Circuit (High Side) (FMI 3) - Eng2 [DDEC V]	67180803
+Aux. Output #14 (E50) Short To Ground (High Side) (FMI 4) - Eng2 [DDEC V]	67180804
+Aux. Output #14 (E50) Mechanical System Failure (High Side) (FMI 7) - Eng2 [DDEC V]	67180807
+Aux. Output #14 (E50) (Inactive) - Eng2 [DDEC V]	67180816
+Aux. Output #15 (E51) Open Circuit (High Side) (FMI 3) [DDEC V]	67180835
+Aux. Output #15 (E51) Short To Ground (High Side) (FMI 4) [DDEC V]	67180836
+Aux. Output #15 (E51) Mechanical System Failure (FMI 7) [DDEC V]	67180839
+Aux. Output #15 (E51) (Inactive) [DDEC V]	67180848
+Aux. Output #15 (E51) Open Circuit (High Side) (FMI 3) - Eng2 [DDEC V]	67180867
+Aux. Output #15 (E51) Short To Ground (High Side) (FMI 4) - Eng2 [DDEC V]	67180868
+Aux. Output #15 (E51) Mechanical System Failure (FMI 7) - Eng2 [DDEC V]	67180871
+Aux. Output #15 (E51) (Inactive) - Eng2 [DDEC V]	67180880
+Aux. Output #16 (E52) Open Circuit (High Side) (FMI 3) [DDEC V]	67180899
+Aux. Output #16 (E52) Short To Ground (High Side) (FMI 4) [DDEC V]	67180900
+Aux. Output #16 (E52) Mechanical System Failure (FMI 7) [DDEC V]	67180903
+Aux. Output #16 (E52) (Inactive) [DDEC V]	67180912
+Aux. Output #16 (E52) Open Circuit (High Side) (FMI 3) - Eng2 [DDEC V]	67180931
+Aux. Output #16 (E52) Short To Ground (High Side) (FMI 4) - Eng2 [DDEC V]	67180932
+Aux. Output #16 (E52) Mechanical System Failure (FMI 7) - Eng2 [DDEC V]	67180935
+Aux. Output #16 (E52) (Inactive) - Eng2 [DDEC V]	67180944
+Aux. Output #17 (E53) Open Circuit (High Side) (FMI 3) [DDEC V]	67180963
+Aux. Output #17 (E53) Short To Ground (High Side) (FMI 4) [DDEC V]	67180964
+Aux. Output #17 (E53) Mechanical System Failure (FMI 7) [DDEC V]	67180967
+Aux. Output #17 (E53) (Inactive) [DDEC V]	67180976
+Aux. Output #17 (E53) Open Circuit (High Side) (FMI 3) - Eng2 [DDEC V]	67180995
+Aux. Output #17 (E53) Short To Ground (High Side) (FMI 4) - Eng2 [DDEC V]	67180996
+Aux. Output #17 (E53) Mechanical System Failure (FMI 7) - Eng2 [DDEC V]	67180999
+Aux. Output #17 (E53) (Inactive) - Eng2 [DDEC V]	67181008
+PWM #5 (E08) Above Normal Range (FMI 0) [DDEC V]	67181024
+PWM #5 (E08) Below Normal Range (FMI 1) [DDEC V]	67181025
+PWM #5 (E08) Short To Battery (FMI 3) [DDEC V]	67181027
+PWM #5 (E08) Open Circuit (FMI 4) [DDEC V]	67181028
+PWM #5 (E08) Mechanical System Failure (FMI 7) [DDEC V]	67181031
+PWM #5 (E08) (Inactive) [DDEC V]	67181040
+PWM #5 (E08) Above Normal Range (FMI 0) - Eng2 [DDEC V]	67181056
+PWM #5 (E08) Below Normal Range (FMI 1) - Eng2 [DDEC V]	67181057
+PWM #5 (E08) Short To Battery (FMI 3) - Eng2 [DDEC V]	67181059
+PWM #5 (E08) Open Circuit (FMI 4) - Eng2 [DDEC V]	67181060
+PWM #5 (E08) Mechanical System Failure (FMI 7) - Eng2 [DDEC V]	67181063
+PWM #5 (E08) (Inactive) - Eng2 [DDEC V]	67181072
+PWM #6 (E11) Above Normal Range (FMI 0) [DDEC V]	67181088
+PWM #6 (E11) Below Normal Range (FMI 1) [DDEC V]	67181089
+PWM #6 (E11) Short To Battery (FMI 3) [DDEC V]	67181091
+PWM #6 (E11) Open Circuit (FMI 4) [DDEC V]	67181092
+PWM #6 (E11) Mechanical System Failure (FMI 7) [DDEC V]	67181095
+PWM #6 (E11) (Inactive) [DDEC V]	67181104
+PWM #6 (E11) Above Normal Range (FMI 0) - Eng2 [DDEC V]	67181120
+PWM #6 (E11) Below Normal Range (FMI 1) - Eng2 [DDEC V]	67181121
+PWM #6 (E11) Short To Battery (FMI 3) - Eng2 [DDEC V]	67181123
+PWM #6 (E11) Open Circuit (FMI 4) - Eng2 [DDEC V]	67181124
+PWM #6 (E11) Mechanical System Failure (FMI 7) - Eng2 [DDEC V]	67181127
+PWM #6 (E11) (Inactive) - Eng2 [DDEC V]	67181136

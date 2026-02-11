@@ -1,0 +1,120 @@
+..
+.. DISPATCH Utility System Module DOCUMENTATION
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: readme.pandh,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/05/24 02:07:15 $
+..    $State: Exp $
+..   Purpose: Installation Guide to setup P&H Shovel interface
+..
+
+INSTALLATION PROCEDURE FOR GENERIC P&H SHOVEL INTERFACE 
+------------------------------------------------------
+
+All generic files are located in the directory:
+
+	/dsp/form/engl/pandh
+
+All client specific P&H shovel files should be located in:
+
+	/dsp/cli/xxx/form/pandh
+
+
+1) modify the client 'dbini.frm'. Add the folowing lines 
+..
+a) add .include pandh/db_pandh to the list of include files
+b) add db_pandh, pandh_EQMT_extension, pandh_SHIFTLOAD_extension to the
+   list of records that needs to be initialised. Just before the
+   DB$RECORD's are declared and should be under the .init statement
+c) add .include pandh/setpandh_exprs to the end of the initialised list  
+   just after the DB$SYMBOL's are bound and should be within the " if"
+   statement
+..
+..(Note a example exampledbini file is enclosed for reference)
+
+2) modify 'enum.c' in client directory :
+
+   In the acttbl[] definition add following lines :
+
+  { act_phdipper,     0x42c,fmtint   }, /* P&H Dipper tons( Weight tripped) */
+  { act_phswing,     0x42b,fmtint   }, /* P&H Swing and boom */
+
+3) Modify 'myenum.h' in client directory as follows
+   
+#define act_phdipper    (MAXACTION+nn)
+#define act_phswing     (MAXACTION+nn)
+
+4) Modify 'enum_action.frm' in client hack/form directory
+
+.def act_phdipper   act_last + nn
+.def act_phswing    act_last + nn
+ 
+3) Modify 'act_dispatch.frm' in the client form directory :
+
+   Add the following line :
+
+.include pandh/act_pandh to the list of the include files
+ 
+  Add the following line to the expr ACT$RESTART after !DSP$ISSIM
+
+for example it would be like this !DSP$ISSIM ? PANDHOPEN
+
+   To the expr ACT$EXCAV , add the following lines :
+
+..
+    act_full:      ACT$PANDHFULL make sure ACT$PANDHFULL is added to the 
+                   last line of act_full that is after TRN$FULL is called
+		   as ACT$PANDHFULL expects a load record to written just
+		   before it is called
+..
+    act_phdipper : ACT$STOREDIPPER
+..
+    act_phswing : ACT$STORESWING
+..
+Note a exampleact_dispatch file is enclosed for reference...
+..
+
+4) RPC definitions :
+   The P&H Shovel interface uses the following RPCs
+
+0x042c  P&H-DIPPER      dispatch        dddl               RADIO
+0x042b  P&H-LOC         dispatch        ddddd              RADIO
+0x042d  P&H-ID          pandh           sds               
+0x042e  P&H-INFO        pandh           dsd                
+0x042f  P&H-DELAY       dispatch        dd                 RADIO
+
+5) Untar the file PandH.tar into the client psw/PandH directory by creating
+   a PandH directory it contains the
+   related rpc's for the PandH interface.
+
+6) Load the Pandh Excav Hub as follows:
+
+   net/Hub/All CLASS=excav ID=xxx OPTIONS=Gps/xxxx,PandH
+
+7) Clean the Pit and Shift files for the required ranges as some additions are made   to the shiftdatabase.
+
+8) In the tcl directory add the button pandh/pandhshiftload 
+   The report form could be run directly from keypad by command
+   mms keypad form=pandh/pandhshiftload.frm
+
+9) Copy the generic shovlmod.frm to hack directory and 
+   add the following lines at the end of the form.
+   exampleshovlmod file is enclosed for reference.
+
+.def PandhSite  DB$RECDEFINED( "PANDHBUCKETLOADS")
+.if PandhSite
+.equ PHS E$PANDH
+.input <x {E$PANDH ? YELLOW + REV: ULINE}
+  Pandh Eqmt Type?       <    PHSx
+.endif
+
+.. Once these changes are made then the run the shovelmod.frm and
+   select the type of excav to be a PandH loader or shovel.
+
+   Note: Run mms dispatch for the effective changes to take place
+         and then run shovlmod.frm to change the equipment to a
+         PandH Shovel or loader.
+
+   

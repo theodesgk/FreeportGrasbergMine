@@ -1,0 +1,153 @@
+Low Hydraulic Charge Pressure (Inactive)	973144064
+Low Hydraulic Charge Pressure 	973144065
+High Hydraulic Case Drain Pressure (Inactive)	973144066
+High Hydraulic Case Drain Pressure 	973144067
+High Receiver Tank Air Pressure (Inactive)	973144068
+High Receiver Tank Air Pressure 	973144069
+Shutdown On Low Compressor Oil Pressure (Inactive)	973144070
+Shutdown On Low Compressor Oil Pressure 	973144071
+Compressor Oil Pressure Below Limit (Inactive)	973144072
+Compressor Oil Pressure Below Limit 	973144073
+High Compressor Oil Temperature (Inactive)	973144074
+High Compressor Oil Temperature 	973144075
+Compressor Oil Filter Blocked (Inactive)	973144076
+Compressor Oil Filter Blocked 	973144077
+Lh Engine Air Filter Blocked (Inactive)	973144078
+Lh Engine Air Filter Blocked 	973144079
+Rh Engine Air Filter Blocked (Inactive)	973144080
+Rh Engine Air Filter Blocked 	973144081
+Shutdown On High Engine Oil Temperature (Inactive)	973144082
+Shutdown On High Engine Oil Temperature 	973144083
+Shutdown On High Engine Coolant Temperature (Inactive)	973144084
+Shutdown On High Engine Coolant Temperature 	973144085
+High Pump Gearbox Temperature (Inactive)	973144086
+High Pump Gearbox Temperature 	973144087
+High Hydraulic Oil Temperature (Inactive)	973144088
+High Hydraulic Oil Temperature 	973144089
+Shutdown On High Hydraulic Oil Temperature  (Inactive)	973144090
+Shutdown On High Hydraulic Oil Temperature  	973144091
+Hydraulic Oil Level Low (Inactive)	973144092
+Hydraulic Oil Level Low 	973144093
+Shutdown On Low Hydraulic Oil Level (Inactive)	973144094
+Shutdown On Low Hydraulic Oil Level 	973144095
+Low Water Level (Inactive)	973144096
+Low Water Level 	973144097
+Water Injection Locked Out - No Water (Inactive)	973144098
+Water Injection Locked Out - No Water 	973144099
+Lubrification Failed (Inactive)	973144100
+Lubrification Failed 	973144101
+Low Alternator Potential (Inactive)	973144102
+Low Alternator Potential 	973144103
+Shutdown On Closed Isolator Valves (Inactive)	973144104
+Shutdown On Closed Isolator Valves 	973144105
+Compressor Air Filter Blocked (Warning) (Inactive)	973144106
+Compressor Air Filter Blocked (Warning) 	973144107
+Compressor Air Filter Blocked (Error) (Inactive)	973144108
+Compressor Air Filter Blocked (Error) 	973144109
+Machine Inclination Near Stability Limit (Inactive)	973144110
+Machine Inclination Near Stability Limit 	973144111
+Tramming Locked Out Due To High Inclination (Inactive)	973144112
+Tramming Locked Out Due To High Inclination 	973144113
+Tram Inclinometer Not Operational (Inactive)	973144114
+Tram Inclinometer Not Operational 	973144115
+Low Fuel Level Warning (Inactive)	973144116
+Low Fuel Level Warning 	973144117
+Shutdown On Low Fuel Level (Inactive)	973144118
+Shutdown On Low Fuel Level 	973144119
+Shutdown On Low Engine Oil Pressure (Inactive)	973144120
+Shutdown On Low Engine Oil Pressure 	973144121
+High Engine Oil Temperature (Inactive)	973144122
+High Engine Oil Temperature 	973144123
+High Engine Coolant Temperature (Inactive)	973144124
+High Engine Coolant Temperature 	973144125
+Low Engine Oil Pressure (Warning) (Inactive)	973144126
+Low Engine Oil Pressure (Warning) 	973144127
+Shutdown On Low Engine Coolant Level (Inactive)	973144128
+Shutdown On Low Engine Coolant Level 	973144129
+Head / Pipe Support Collision Warning (Inactive)	973144130
+Head / Pipe Support Collision Warning 	973144131
+Pipe In Hole Override Active (Inactive)	973144132
+Pipe In Hole Override Active 	973144133
+Head Above Carousel Override Active (Inactive)	973144134
+Head Above Carousel Override Active 	973144135
+Carousel Override Active (Inactive)	973144136
+Carousel Override Active 	973144137
+Bit Air Override Active (Inactive)	973144138
+Bit Air Override Active 	973144139
+Ladder Override Active (Inactive)	973144140
+Ladder Override Active 	973144141
+Dust Curtain Override Active (Inactive)	973144142
+Dust Curtain Override Active 	973144143
+Jacks Up Override Active (Inactive)	973144144
+Jacks Up Override Active 	973144145
+Compressor Oil Pressure Override Active (Inactive)	973144146
+Compressor Oil Pressure Override Active 	973144147
+Water Level Override Active (Inactive)	973144148
+Water Level Override Active 	973144149
+Mast Override (Drill) Active (Inactive)	973144150
+Mast Override (Drill) Active 	973144151
+Mast Override (Tram) Active (Inactive)	973144152
+Mast Override (Tram) Active 	973144153
+Level Incline Sensor Override Active (Inactive)	973144154
+Level Incline Sensor Override Active 	973144155
+Tram Incline Sensor Override Active (Inactive)	973144156
+Tram Incline Sensor Override Active 	973144157
+Winch Not Up Override Active (Inactive)	973144158
+Winch Not Up Override Active 	973144159
+Cab E/Stop Activated (Inactive)	973144160
+Cab E/Stop Activated 	973144161
+Ladder E/Stop Activated (Inactive)	973144162
+Ladder E/Stop Activated 	973144163
+Left Rear E/Stop Activated (Inactive)	973144164
+Left Rear E/Stop Activated 	973144165
+Engine E/Stop Activated (Inactive)	973144166
+Engine E/Stop Activated 	973144167
+Left Front S/Stop Activated (Inactive)	973144168
+Left Front S/Stop Activated 	973144169
+Right Front E/Stop Activated (Inactive)	973144170
+Right Front E/Stop Activated 	973144171
+Shutdown On Activated Fire Suppression (Inactive)	973144172
+Shutdown On Activated Fire Suppression 	973144173
+Rope Pull E/Stop Activated (Inactive)	973144174
+Rope Pull E/Stop Activated 	973144175
+Bus Off (Inactive)	973144176
+Bus Off 	973144177
+Cable Break -X-Axis Of Level Inclinometer (Inactive)	973144178
+Cable Break -X-Axis Of Level Inclinometer 	973144179
+Cable Break -Y-Axis Of Level Inclinometer (Inactive)	973144180
+Cable Break -Y-Axis Of Level Inclinometer 	973144181
+Cable Break - Upper Rr Jack Pressure Sensor (Inactive)	973144182
+Cable Break - Upper Rr Jack Pressure Sensor 	973144183
+Cable Break - Lower Rr Jack Pressure Sensor (Inactive)	973144184
+Cable Break - Lower Rr Jack Pressure Sensor 	973144185
+Cable Break (Resistor) -Lower Rr Jack Pressure Sensor (Inactive)	973144186
+Cable Break (Resistor) -Lower Rr Jack Pressure Sensor 	973144187
+Cable Break - Upper Lr Jack Pressure Sensor (Inactive)	973144188
+Cable Break - Upper Lr Jack Pressure Sensor 	973144189
+Cable Break - Lower Lr Jack Pressure Sensor (Inactive)	973144190
+Cable Break - Lower Lr Jack Pressure Sensor 	973144191
+Cable Break (Resistor) -Lower Lr Jack Pressure Sensor (Inactive)	973144192
+Cable Break (Resistor) -Lower Lr Jack Pressure Sensor 	973144193
+Cable Break -Upper Rf Jack Pressure Sensor (Inactive)	973144194
+Cable Break -Upper Rf Jack Pressure Sensor 	973144195
+Cable Break -Lower Rf Jack Pressure  (Inactive)	973144196
+Cable Break -Lower Rf Jack Pressure  	973144197
+Cable Break (Resistor) -Lower Rf Jack Pressure Sensor (Inactive)	973144198
+Cable Break (Resistor) -Lower Rf Jack Pressure Sensor 	973144199
+Cable Break - Upper Lf Jack Pressure Sensor (Inactive)	973144200
+Cable Break - Upper Lf Jack Pressure Sensor 	973144201
+Cable Break - Lower Lf Jack Pressure Sensor (Inactive)	973144202
+Cable Break - Lower Lf Jack Pressure Sensor 	973144203
+Cable Break (Resistor) - Lower Lf Jack Pressure Sensor (Inactive)	973144204
+Cable Break (Resistor) - Lower Lf Jack Pressure Sensor 	973144205
+Cable Break - Rh Pump Pressure Sensor (Inactive)	973144206
+Cable Break - Rh Pump Pressure Sensor 	973144207
+Cable Break - Lh Pump Pressure Sensor (Inactive)	973144208
+Cable Break - Lh Pump Pressure Sensor 	973144209
+Start Hole	973144210
+End Hole	973144211
+Drill Mode	973144212
+Oem Interface Timeout	973209568
+Oem Interface Normal	973209569
+Driver Interface Timeout	973209570
+Driver Interface Normal	973209571

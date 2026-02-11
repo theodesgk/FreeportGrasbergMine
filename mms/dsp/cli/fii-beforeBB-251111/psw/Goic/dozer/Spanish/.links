@@ -1,0 +1,33 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/Defect.cfg Defect.cfg
+ln -sf ../English/Delay.cfg Delay.cfg
+ln -sf ../English/Dismount.cfg Dismount.cfg
+ln -sf ../English/Down.cfg Down.cfg
+ln -sf ../English/Goic.cfg Goic.cfg
+ln -sf ../English/Kp2.cfg Kp2.cfg
+ln -sf ../English/Kp.cfg Kp.cfg
+ln -sf ../English/Matl.cfg Matl.cfg
+ln -sf ../English/Nearby.cfg Nearby.cfg
+ln -sf ../English/Ok.cfg Ok.cfg
+ln -sf ../English/Options.cfg Options.cfg
+ln -sf ../English/Project.cfg Project.cfg
+ln -sf ../English/Reset.cfg Reset.cfg
+ln -sf ../English/Standby.cfg Standby.cfg
+ln -sf ../English/Status.cfg Status.cfg
+ln -sf ../English/w0.bGauges.cfg w0.bGauges.cfg
+ln -sf ../English/w0.cfg w0.cfg
+ln -sf ../English/w0.ht.cfg w0.ht.cfg
+ln -sf ../English/w0.Icon.cfg w0.Icon.cfg
+ln -sf ../English/w0.mb.cfg w0.mb.cfg
+ln -sf ../English/w0.Sl1.cfg w0.Sl1.cfg
+ln -sf ../English/w0.Sl2.cfg w0.Sl2.cfg
+ln -sf ../English/w0.Text.cfg w0.Text.cfg
+ln -sf ../English/w0.v1.cfg w0.v1.cfg
+ln -sf ../English/w0.v2.cfg w0.v2.cfg
+ln -sf ../English/w0.v3.cfg w0.v3.cfg
+ln -sf ../../common/wGpsstat.cfg wGpsstat.cfg
+ln -sf ../English/WinMgr.cfg WinMgr.cfg
+ln -sf ../../common/wProject.cfg wProject.cfg

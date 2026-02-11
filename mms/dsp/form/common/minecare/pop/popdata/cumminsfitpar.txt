@@ -1,0 +1,61 @@
+1912668161	Driver's Demand Engine - Percent Torque	125	-125	25
+1912668162	Actual Engine - Percent Torque	125	-125	25
+1912668163	Engine Speed	8031.875	0	28
+1912668164	Engine Demand - Percent Torque	125	-125	25
+1912668165	Hydraulic Pressure	128510	0	9
+1912668166	Hydraulic Intake Pressure	6.8436279296875	-1	22
+1912668167	Engine Fuel Delivery Absolute Pressure	1000	0	9
+1912668168	Engine Filtered Fuel Delivery Pressure	1000	0	9
+1912668169	Engine Filtered Fuel Delivery Absolute Pressure	1000	0	9
+1912668170	Engine Fuel Filter Degradation	250	0	25
+1912668171	Engine Fuel Dynamic Viscosity	1003.984375	0	0
+1912668172	Engine Fuel Density	1.9610626	0	0
+1912668173	Engine Fuel Dielectricity (High Resolution)	7.84360785	0	0
+1912668174	Engine Fuel 1 Temperature 1 (High Resolution)	1734.96875	-273	5
+1912668175	Hydraulic Oil Dynamic Viscosity	1003.984375	0	0
+1912668176	Hydraulic Oil Density	1.9610626	0	0
+1912668177	Hydraulic Oil Relative Dielectricity (High Resolution)	7.8436279296875	0	0
+1912668178	Hydraulic Oil Temperature (High Resolution)	1734.96875	-273	5
+1912668179	Engine Fuel Filter (Suction Side) Intake Absolute Pressure	500	0	9
+1912668180	Engine Fuel Filter (Suction Side) Degradation	250	0	25
+1912668181	Vehicle Fuel Level Low Lamp Command	3	0	0
+1912668182	Engine Oil Viscosity	1003.984375	0	0
+1912668183	Engine Oil Density	1.9610626	0	0
+1912668184	Engine Oil Relative Dielectricity (High Resolution)	7.84360785	0	0
+1912668185	Transmission Oil Life Remaining	100	0	25
+1912668186	Engine Air Filter 2 Differential Pressure	12.5	0	9
+1912668187	Engine Air Filter 3 Differential Pressure	12.5	0	9
+1912668188	Engine Air Filter 4 Differential Pressure	12.5	0	9
+1912668189	Hydraulic Temperature	210	-40	5
+1912668190	Hydraulic Oil Filter Restriction Switch	3	0	0
+1912668191	Hydraulic Oil Level	100	0	25
+1912668192	Engine Fuel Filter (suction side) Differential Pressure	500	0	9
+1912668193	Engine Oil Filter Outlet Pressure	1000	0	9
+1912668194	Engine Oil Filter Intake Pressure	1000	0	9
+1912668195	Total Vehicle Distance	526385151.875	0	8
+1912668196	Total Vehicle Hours	210554060.75	0	7
+1912668197	Engine Oil Temperature 1	1734.96875	-273	5
+1912668198	Engine Oil Level	100	0	25
+1912668199	Engine Oil Pressure 1	1000	0	9
+1912668200	Engine Air Filter 1 Differential Pressure	12.5	0	9
+1912668201	Engine Coolant Filter Differential Pressure	125	0	9
+1912668202	Fuel Level 1	100	0	25
+1912668203	Engine Oil Filter Differential Pressure	125	0	9
+1912668204	Engine Fuel Filter Differential Pressure	500	0	9
+1912668205	Engine Oil Filter Differential Pressure (Extended Range)	1250	0	9
+1912668206	Engine Gaseous Fuel Pressure Regulator Intake Pressure	64255	0	9
+1912668207	Water In Fuel Indicator 1	3	0	0
+1912668208	Water in Fuel Indicator 2	3	0	0
+1912668209	Oil Sensor Diagnostic	64255	0	0
+1912668210	Fuel Sensor Diagnostic	64255	0	0
+1912668211	Identification - Manufacturer Code	250	0	0
+1912668212	Identification - Part Number	64255	0	0
+1912668213	Identification - Identity Number (SN)	4211081215	0	0
+1912668214	Identification - Software Number	64255	0	0
+1912668215	Stage 1 Fuel DP Adv Res	642.55	0	9
+1912668216	Stage 2 Fuel DP Adv Res	642.55	0	9
+1912668217	Lube DP Adv Res	1285.1	0	9
+1912668218	Engine Air Filter 5 Differential Pressure	12.5	0	9
+1912668219	Engine Air Filter 6 Differential Pressure	12.5	0	9
+1912668220	FMS Health 	64255	0	0
+1912668221	Engine Fuel Supply Pump Intake Absolute Pressure (Extended Range)	1250	0	9

@@ -1,0 +1,352 @@
+OEM interface timeout	302120928
+OEM interface normal	302120929
+Driver interface timeout	302120930
+Driver interface normal	302120931
+Propel mode	302055424
+Dig mode	302055425
+Bucket Overload - false	302055426
+Bucket Overload - true	302055427
+Dipper	302055428
+PLC Program Failure (CDA001)	302055429
+PLC Setpoints Loaded From Flash (CDA002)	302055430
+PLC Processor Battery Backup Failure (CDA003)	302055431
+PLC Node 2 (Crowd) Fault (CDA004)	302055432
+PLC Node 3 (Hoist) Fault (CDA005)	302055433
+PLC Node 4 (Lube) Fault (CDA006)	302055434
+PLC Node 5 (MCC) Fault (CDA007)	302055435
+PLC Node 6 (Operators Cab) Fault (CDA008)	302055436
+PLC Node 7 (Siemens Skid) Fault (CDA009)	302055437
+PLC Node 8 (Auxiliary Cabinet) Fault (CDA010)	302055438
+Operators Display Fault (CDA011)	302055439
+PLD Node 10 (Bearing Temperature) Fault (CDA012)	302055440
+PLC Node 2 (Crowd) High Temperature (CDA013)	302055441
+PLC Node 3 (Hoist) High Temperature (CDA014)	302055442
+PLC Node 4 (Lube) High Temperature (CDA015)	302055443
+PLC Node 5 (MCC) High Temperature (CDA016)	302055444
+PLC Node 6 (Operators Cab) High Temperature (CDA017)	302055445
+PLC Node 7 (Siemens Skid) High Temperature (CDA018)	302055446
+PLC Node 8 (Auxiliary Cabinet) High Temperature (CDA019)	302055447
+PLD Node 10 (Bearing Temperature) High Temperature (CDA020)	302055448
+PLC Node 2 (Crowd) Low Temperature (CDA021)	302055449
+PLC Node 3 (Hoist) Low Temperature (CDA022)	302055450
+PLC Node 4 (Lube) Low Temperature (CDA023)	302055451
+PLC Node 5 (MCC) Low Temperature (CDA024)	302055452
+PLC Node 6 (Operators Cab) Low Temperature (CDA025)	302055453
+PLC Node 7 (Siemens Skid) Low Temperature (CDA026)	302055454
+PLC Node 8 (Auxiliary Cabinet) Low Temperature (CDA027)	302055455
+PLC Node 10 (Bearing Temperature) Low Temperature (CDA028)	302055456
+PLC Node 2 (Crowd) Analog I/O Fault (CDA029)	302055457
+PLC Node 3 (Hoist) Analog I/O Fault (CDA030)	302055458
+PLC Node 4 (Lube) Analog I/O Fault (CDA031)	302055459
+PLC Node 5 (MCC) Analog I/O Fault (CDA032)	302055460
+PLC Node 6 (Operators Cab) Analog I/O Fault (CDA033)	302055461
+PLC Node 7 (Siemens Skid) Analog I/O Fault (CDA034)	302055462
+PLC Node 10 (Bearing Temperature) Analog I/O Fault (CDA035)	302055463
+PLC Node 11 (Drum Control) Fault (CDA036)	302055464
+PLC Node 11 (Drum Control) High Temperature (CDA037)	302055465
+PLC Node 11 (Drum Control) Low Temperature (CDA038)	302055466
+PLC Node 11 (Drum Control) Analog I/O Fault (CDA039)	302055467
+Lube System A1 Low Pressure Fault (CDA040)	302055468
+Lube System A2 Low Pressure Fault (CDA041)	302055469
+Lube System B1 Low Pressure Fault (CDA042)	302055470
+Lube System B2 Low Pressure Fault (CDA043)	302055471
+Lube System C1 Low Pressure Fault (CDA044)	302055472
+Lube System C2 Low Pressure Fault (CDA045)	302055473
+Lube System A1 Vent Fault (CDA046)	302055474
+Lube System A2 Vent Fault (CDA047)	302055475
+Lube System B1 Vent Fault (CDA048)	302055476
+Lube System B2 Vent Fault (CDA049)	302055477
+Lube System C1 Vent Fault (CDA050)	302055478
+Lube System C2 Vent Fault (CDA051)	302055479
+Lube System A1 Power Off (CDA052)	302055480
+Lube System A2 Power Off (CDA053)	302055481
+Lube System B1 Power Off (CDA054)	302055482
+Lube System B2 Power Off (CDA055)	302055483
+Lube System C1 Power Off (CDA056)	302055484
+Lube System C2 Power Off (CDA057)	302055485
+Lube System Fault With Reduced Reference (CDA058)	302055486
+PLC Node 13 (Power Monitor) Fault (CDA059)	302055487
+Boarding Ladder Fault (CDA060)	302055488
+Low Air Pressure Fault (CDA061)	302055489
+Air Compressor Fault (CDA062)	302055490
+Hoist Motor Blower Control Fault (CDA063)	302055491
+Swing Motor #1 Blower Control Fault (CDA064)	302055492
+Swing Motor #2 Blower Control Fault (CDA065)	302055493
+Crowd Motor Blower Control Fault (CDA066)	302055494
+Propel Motor Blower Control Fault (CDA067)	302055495
+Dipper Trip Control Fault (CDA068)	302055496
+Front Intake Fan #1 Control Fault (CDA069)	302055497
+Front Intake Fan #2 Control Fault (CDA070)	302055498
+Rear Intake Fan Control Fault (CDA071)	302055499
+Swing #1 Oil Pump Motor Control Fault (CDA072)	302055500
+Swing #2 Oil Pump Motor Control Fault (CDA073)	302055501
+Swing Gearcase #1 Low Oil Flow (CDA074)	302055502
+Swing Gearcase #2 Low Oil Flow (CDA075)	302055503
+PLC Node 12 (Accuload) Fault (CDA076)	302055504
+PLC Node 12 (Accuload) High Temperature (CDA077)	302055505
+PLC Node 12 (Accuload) Low Temperature (CDA078)	302055506
+PLC Node 12 (Accuload) Analog I/O Fault (CDA079)	302055507
+Fire Suppression System Trouble Shutdown (CDA080)	302055508
+Fire Suppression System Trouble (CDA081)	302055509
+Hoist Masterswitch Out of Calibration (CDA082)	302055510
+Crowd Masterswitch Out of Calibration (CDA083)	302055511
+Swing Masterswitch Out of Calibration (CDA084)	302055512
+Auxiliary Power Ground Fault (CDA085)	302055513
+Phase Sequence Loss / Unbalance Fault (CDA086)	302055514
+Drive Power Transformer 1 Overtemp. Warning (CDA087)	302055515
+Control Room 10-Kay Fault (CDA088)	302055516
+Joystick Power Supply Fault or Dipper Trip / Horn masterswitch out of calibration. (CDA089)	302055517
+Hoist Slack Rope Fault (CDA090)	302055518
+Drive Cabinet Fan Control Fault or Control Cabinet Fan Contactor fault (CDA091)	302055519
+Hoist Gearcase Transmitter Failure - Value is out of range (CDA092)	302055520
+Hoist Gearcase Clogged Oil Pressure Filter (CDA093)	302055521
+Hoist Gearcase Clogged Suction Line Oil Filter (CDA094)	302055522
+Hoist Case 1st Stage Clogged Suction Line Oil Filter (CDA095)	302055523
+Hoist Case 2nd Stage Clogged Suction Line Oil Filter (CDA096)	302055524
+Hoist Gearcase Clogged Pressure Line Spin-on Oil Filter (CDA097)	302055525
+Hoist Gearcase Clogged Pressure Manifold Oil Filter (CDA098)	302055526
+Dipper Trip Motor Overload Warning (CDA099)	302055527
+Hoist Drum Left Hand Bearing High Temperature (CDA100)	302055528
+Hoist Drum Right Hand Bearing High Temperature (CDA101)	302055529
+Hoist Input Inner Bearing High Temperature (CDA102)	302055530
+Hoist Input Outer Bearing High Temperature (CDA103)	302055531
+Hoist Int. Shaft Inner Bearing High Temperature (CDA104)	302055532
+Hoist Int. Shaft Outer Bearing High Temperature (CDA105)	302055533
+Hoist Motor Right Hand Bearing High Temperature (CDA106)	302055534
+Hoist Motor Left Hand Bearing High Temperature (CDA107)	302055535
+Swing Gearcase 1 Front Bearing High Temperature (CDA108)	302055536
+Swing Gearcase 1 Aft Bearing High Temperature (CDA109)	302055537
+Swing Motor 1 Upper Bearing High Temperature (CDA110)	302055538
+Swing Motor 1 Lower Bearing High Temperature (CDA111)	302055539
+Swing Gearcase 2 Front Bearing High Temperature (CDA112)	302055540
+Swing Gearcase 2 Aft Bearing High Temperature (CDA113)	302055541
+Swing Motor 2 Upper Bearing High Temperature (CDA114)	302055542
+Swing Motor 2 Lower Bearing High Temperature (CDA115)	302055543
+Crowd Drum Right Hand Bearing High Temperature (CDA116)	302055544
+Crowd Drum Left Hand Bearing High Temperature (CDA117)	302055545
+Crowd Input Inner Bearing High Temperature (CDA118)	302055546
+Crowd Input Outer Bearing High Temperature (CDA119)	302055547
+Crowd 1st Int. Inner Bearing High Temperature (CDA120)	302055548
+Crowd 1st Int. Outer Bearing High Temperature (CDA121)	302055549
+Crowd 2nd Int. Inner Bearing High Temperature (CDA122)	302055550
+Crowd 2nd Int. Outer Bearing High Temperature (CDA123)	302055551
+Crowd Motor Right Hand Bearing High Temperature (CDA124)	302055552
+Crowd Motor Left Hand Bearing High Temperature (CDA125)	302055553
+Hoist Gearcase Upper Pinion Bearing High Temperature (CDA126)	302055554
+Hoist Gearcase Lower Pinion Bearing High Temperature (CDA127)	302055555
+Thermocouple Failure - Value Overrange (CDA128)	302055556
+Hoist Gearcase Vacuum Transmitter Failure Warning (CDA129)	302055557
+Drive System Fault (See Maintenance Station) (CDA130)	302055558
+Drive Warning (See Maintenance Station) (CDA131)	302055559
+Motor Temperature Warning (See Maintenance Station) (CDA132)	302055560
+Motor Temperature Shutdown (See Maintenance Station) (CDA133)	302055561
+Drive Temperature Warning (See Maintenance Station) (CDA134)	302055562
+Brake Fault (See Maintenance Station) (CDA135)	302055563
+Brake Limit Disabled (See Maintenance Station) (CDA136)	302055564
+Brakes Not Set With Control Off (CDA137)	302055565
+Tachometer Fault (See Maintenance Station) (CDA138)	302055566
+Encoder Fault (See Maintenance Station) (CDA139)	302055567
+Line Fault (See Maintenance Station) (CDA140)	302055568
+Hoist or Crowd Limit Set Out of Range or Limit Out of Range (CDA141)	302055569
+Hoist Masterswitch Misalignment (No HMI Display) (CDA142)	302055570
+Swing Masterswitch Misalignment (No HMI Display) (CDA143)	302055571
+Crowd Masterswitch Misalignment (No HMI Display) (CDA144)	302055572
+Swing Masterswitch Loss (CDA145)	302055573
+Motion Limit Disable Jumper (No HMI Display) (CDA146)	302055574
+Movement with Power Off (No HMI Display) (CDA147)	302055575
+Hardware ISTR Timer Malfunction (No HMI Display) (CDA148)	302055576
+Hoist Fault (See Maintenance Station) (CDA149)	302055577
+Crowd Fault (See Maintenance Station) (CDA150)	302055578
+Swing Fault (See Maintenance Station) (CDA151)	302055579
+Propel 1 Fault (See Maintenance Station) (CDA152)	302055580
+Propel 2 Fault (See Maintenance Station) (CDA153)	302055581
+Dipper Trip Contactor Fault (CDA154)	302055582
+Hoist Gearcase Oil Pump Motor Fault (CDA155)	302055583
+Hoist Gearcase Radiator Fan Motor 1 Fault (CDA156)	302055584
+Hoist Gearcase Radiator Fan Motor 2 Fault (CDA157)	302055585
+Hoist Gearcase Oil Temperature Warning (CDA158)	302055586
+Hoist Gearcase Oil Temperature Fault (CDA159)	302055587
+Hoist Gearcase Low Oil Pressure Fault (CDA160)	302055588
+Hoist Gearcase RTD Failure - value out of range (CDA161)	302055589
+Drive Power Transformer 1 Cooling Fan Motor Fault (CDA162)	302055590
+Drive power transformer 1 over temp. shutdown (CDA163)	302055591
+Swing #2 Front Shaft Fault or Left Front Swing Shaft Limit Switch Fault (CDA164)	302055592
+Swing #2 Rear Shaft Fault or Left Rear Swing Shaft Limit Switch Fault (CDA165)	302055593
+Swing #1 Front Shaft Fault or Right Front Swing Shaft Limit Switch Fault (CDA166)	302055594
+Swing #1 Rear Shaft Fault or Right Rear Swing Shaft Limit Switch Fault (CDA167)	302055595
+Swing Shaft Sensor Disabled or Swing Shaft Limit Switches Disabled (CDA168)	302055596
+Drive Power Transformer 2 Overtemp. Warning (CDA169)	302055597
+Drive power transformer 2 over temp. shutdown (CDA170)	302055598
+DRIVE POWER TRANSFORMER 2 COOLING FAN MOTOR FAULT (CDA171)	302055599
+Swing #1 Low Oil Level (CDA172)	302055600
+Swing #2 Low Oil Level (CDA173)	302055601
+Hoist Gearcase Oil Pressure Warning (CDA174)	302055602
+Motor Bearing RTD Failure - Value is overrange (CDA175)	302055603
+Lube System A2 End of Line Pressure Fault (CDA176)	302055604
+Lube System C2 End of Line Pressure Fault (CDA177)	302055605
+Line UnderFrequency Fault (CDA178)	302055606
+Swing Gearcase 1 Clogged Oil Filter Warning (CDA179)	302055607
+Swing Gearcase 2 Clogged Oil Filter Warning (CDA180)	302055608
+Motor Overtemperature Shutdown While Reeving (CDA181)	302055609
+Machine out of Level Warning (CDA182)	302055610
+Reeving Winch #1 Fault (CDA183)	302055611
+Reeving Winch #2 Fault (CDA184)	302055612
+Hoist Roller Lube System Low Pressure Fault (CDA185)	302055613
+Hoist Roller Lube System Vent Pressure Fault (CDA186)	302055614
+Hoist Roller Lube System Power Off Fault (CDA187)	302055615
+Swing gear case #1 oil flow switch fault (CDA188)	302055616
+Swing gear case #2 oil flow switch fault (CDA189)	302055617
+PLC Node 14 (Hydraulic Crowd) Fault (Shutdown) (CDA190)	302055618
+PLC Node 14 (Hydraulic Crowd) High Temperature (Delayed Shutdown) (CDA191)	302055619
+PLC Node 14 (Hydraulic Crowd) Low Temperature (Delayed Shutdown) (CDA192)	302055620
+PLC Node 14 (Hydraulic Crowd) Analog I/O Fault (Shutdown) (CDA193)	302055621
+Hydraulic Crowd Oil Circulation Filter Clogged (Warning 48 hr. to Shutdown) (CDA194)	302055622
+High Hydraulic Oil Level (Shutdown) (CDA195)	302055623
+Low Hydraulic Oil Level (Shutdown) (CDA196)	302055624
+Low Hydraulic Oil Level (Warning) (CDA197)	302055625
+High Hydraulic Oil Temperature (Delayed Shutdown) (CDA198)	302055626
+Hydraulic Tank Isolated Fault (Shutdown) (CDA199)	302055627
+Hydraulic Crowd Lube PDT High Temperature (Warning) (CDA200)	302055628
+Hydraulic Crowd Lube PDT High Temperature (Shutdown) (CDA201)	302055629
+PLC Node 15 (Hydraulic Crowd Encoder) Fault (Reduced Reference) (CDA202)	302055630
+Crowd Line Pressure Transducer Fault (Shutdown) (CDA203)	302055631
+Retract Line Pressure Transducer Fault (Shutdown) (CDA204)	302055632
+Crowd Position Sensor Fault (Reduced Reference) (CDA205)	302055633
+Hydraulic Oil Temperature Lower Sensor Fault (Shutdown) (CDA206)	302055634
+PDT Oil Temperature Sensor Fault or Lube Pump Gearcase Temp. Sensor Fault (Shutdown) (CDA207)	302055635
+Crowd Limit Disable Jumper is Installed (Warning) (CDA208)	302055636
+Hoist Limit Disable Jumper is Installed (Warning) (CDA209)	302055637
+Return Filters Clogged or Crowd High Pressure Filter 1 Clogged (Warning) (CDA210)	302055638
+Hydraulic Oil Immersion Heater Upper Tank Control Fault. (Warning) (CDA211)	302055639
+Hydraulic Oil Circulation Pump Control Fault. (Delayed Shutdown) (CDA212)	302055640
+Hydr Sys Cooler Control 1 Fault or Hydr Sys Cooler Control Fault. (Delayed Shutdown) (CDA213)	302055641
+Low Oil Temp On Cyl Mani or Cyl Mani Low Temp Crowd Performance Reduced (Warning) (CDA214)	302055642
+Flushing/PDT Pump Motor Control Fault or Lube Pump Control Fault. (Delayed Shutdown) (CDA215)	302055643
+PLC Forces Active (Warning) (CDA216)	302055644
+Hydraulic Crowd Lube PDT Low Pressure (Shutdown) (CDA217)	302055645
+Pump Drive Transmn Oil Press Snsr Fault or Lube Pump Gearcase Press Snsr Fault(Shutdown) (CDA218)	302055646
+High Hydraulic Temperature (Warning) (CDA219)	302055647
+Hydraulic Oil Temperature Upper Sensor Fault. (Shutdown) (CDA220)	302055648
+Fire Sys. #01 - Main House & Operators Cab (Reserved) (CDA221)	302055649
+Fire Sys. #02 - IGBT Cabinet (Reserved) (CDA222)	302055650
+Fire Sys. #03 - IGBT Cabinet - Suppression Released (Reserved) (CDA223)	302055651
+Fire Sys. #04 - MCC Cabinets 1 thru 7 (Reserved) (CDA224)	302055652
+Fire Sys. #05 - MCC Cab.1 thru 7 - Suppression Released (Reserved) (CDA225)	302055653
+Fire Sys. #06 - MCC Cabinet 8 (Reserved) (CDA226)	302055654
+Fire Sys. #07 - MCC Cabinet 8 - Suppression Released (Reserved) (CDA227)	302055655
+Fire Sys. #08 - Utility Room (Reserved) (CDA228)	302055656
+Fire Sys. #09 - Lube Room (Reserved) (CDA229)	302055657
+Fire Sys. #10 - Shovel Shutdown By-passed (Reserved) (CDA230)	302055658
+Fire Sys. #11 - Fire Alarm System Trouble (Reserved) (CDA231)	302055659
+Fire Sys. #12 - General Fire Alarm (Reserved) (CDA232)	302055660
+Fire Sys. #13 - Revolving Frame (Reserved) (CDA233)	302055661
+Fire Sys. #14 - Rev. Frame - Suppression Released (Reserved) (CDA234)	302055662
+Fire Sys. #15 - Low Voltage Slip Rings (Reserved) (CDA235)	302055663
+Fire Sys. #16 - Low Volt. Rings - Suppression Released (Reserved) (CDA236)	302055664
+Fire Sys. #17 - High Voltage Slip Rings (Reserved) (CDA237)	302055665
+Fire Sys. #18 - High Volt. Rings - Suppression Released (Reserved) (CDA238)	302055666
+Under Frequency Relay Out of Service (Reserved) (CDA239)	302055667
+Line Voltage Selector Discrepancy (CDA240)	302055668
+Hydraulic Crowd Oil Circulation Filter Clogged (Warning 2 hr. to Shutdown) (CDA241)	302055669
+Hydraulic Crowd Oil Circulation Filter Clogged (Delayed Shutdown) (CDA242)	302055670
+Cylinder Manifold Oil Temperature Transducer Fault. (Shutdown) (CDA243)	302055671
+Pump Case Drain Monitor 1 Sensor Fault. (Shutdown) (CDA244)	302055672
+Pump Case Drain Monitor 2 Sensor Fault. (Shutdown) (CDA245)	302055673
+Pump Case Drain Monitor 3 Sensor Fault. (Shutdown) (CDA246)	302055674
+Pump Case Drain Monitor 4 Sensor Fault. (Shutdown) (CDA247)	302055675
+Hydraulic Oil Contamination Monitor Sensor Fault. (Shutdown) (CDA248)	302055676
+Return Filter Sensor Fault. (Shutdown) (CDA249)	302055677
+Cylinder Manifold Outlet Pressure Transducer Fault. (Shutdown) (CDA250)	302055678
+Any Testing Equipment Sensors Fault. (Warning) (CDA251)	302055679
+Operator Display UPS (Uninterrupted Power Supply) Battery Low (Warning) (CDA252)	302055680
+Operator Display UPS (Uninterrupted Power Supply) Alarm (Warning) (CDA253)	302055681
+Operator Display Running on UPS (Uninterrupted Power Supply) Battery (Warning) (CDA254)	302055682
+Crowd Gearcase Oil Level Low Fault (Delayed Shutdown) (CDA255)	302055683
+Rocky Shutdown Alarm (CDA256)	302055684
+Service Pump #1 Soon (Warning) or Service Hydraulic Crowd Pump 1 Soon (Warning) (CDA257)	302055685
+Service Pump #2 Soon (Warning) or Service Hydraulic Crowd Pump 2 Soon (Warning) (CDA258)	302055686
+Service Pump #3 Soon (Warning) or Service Hydraulic Crowd Pump 3 Soon (Warning) (CDA259)	302055687
+Service Pump #4 Soon (Warning) or Service Hydraulic Crowd Pump 4 Soon (Warning) (CDA260)	302055688
+Pump #1 Disabled or Hydraulic Crowd Pump 1 Disabled. Repair Required.(Warning) (CDA261)	302055689
+Pump #2 Disabled or Hydraulic Crowd Pump 2 Disabled. Repair Required.(Warning) (CDA262)	302055690
+Pump #3 Disabled or Hydraulic Crowd Pump 3 Disabled. Repair Required.(Warning) (CDA263)	302055691
+Pump #4 Disabled or Hydraulic Crowd Pump 4 Disabled. Repair Required.(Warning) (CDA264)	302055692
+Hydraulic Crowd Pump Failed (Delayed Shutdown) (CDA265)	302055693
+2 Or More Hydraulice Crowd Pumps Failed (Delayed Shutdown) (CDA266)	302055694
+Hydraulic Crowd Running On Only 3 Pumps (Reduced Performance) (CDA267)	302055695
+Pump #1 Zero Case Drain Flow Condition or PCDM1 Zero Flow Condition.(Warning) (CDA268)	302055696
+Pump #2 Zero Case Drain Flow Condition or PCDM2 Zero Flow Condition.(Warning) (CDA269)	302055697
+Pump #3 Zero Case Drain Flow Condition or PCDM3 Zero Flow Condition.(Warning) (CDA270)	302055698
+Pump #4 Zero Case Drain Flow Condition or PCDM4 Zero Flow Condition.(Warning) (CDA271)	302055699
+Pump Manifold Outlet Overpressure. (Shutdown) (CDA272)	302055700
+Cylinder Rod End Overpressure. (Warning) (CDA273)	302055701
+Cylinder Rod End Overpressure. (Shutdown) (CDA274)	302055702
+Cylinder Manifold Outlet Overpressure. (Shutdown) (CDA275)	302055703
+Return Filters Clogged (Shutdown) or Return Line Overpressure. (Shutdown) (CDA276)	302055704
+Cold Weather Warmup. (Shutdown) (CDA277)	302055705
+Incorrect Torque Curve Feedback (Warning) (CDA278)	302055706
+Hydraulic Oil Overfill Condition Allow Extend Only (Warning) (CDA279)	302055707
+Pump Failure-Restart with Reduced Crowd Speed. (CDA280)	302055708
+Reduced Reference (Retract And Hoist) or Pump Manifold Outlet Pressure Transducer Fault (CDA281)	302055709
+Zero Reference (Retract And Hoist) or Boom Jack While in Warm Up Mode Fault (CDA282)	302055710
+Hydraulic Oil Cooler Control Valve Failure (HOCP Shutdown) (CDA283)	302055711
+Hydraulic Oil Immersion Heater Lower Tank Control Fault. (Warning) (CDA284)	302055712
+Upper Tank Heater At Overtemp Not Shutoff. (Warning) (CDA285)	302055713
+Lower Tank Heater At Overtemp Not Shutoff. (Warning) (CDA286)	302055714
+Sleave House Contact Limit Switch Tripped Hoist Stopped. (Motion Limit) (CDA287)	302055715
+Over Pressure Retry Count Exceeded While In Warm Up. (Shutdown) (CDA288)	302055716
+Puremax/Donaldson Conveyor Motor 1 Control Fault (CDA289)	302055717
+Puremax/Donaldson Conveyor Motor 2 Control Fault (CDA290)	302055718
+Puremax/Donaldson-Torit Filtration System Fault (CDA291)	302055719
+Machine Drive Pump Motor Control Fault (CDA292)	302055720
+Machine Drive Heat Exchanger Motor Control Fault (CDA293)	302055721
+Left Hand X Axis Joystick/Master Switch Differential Signal Fault (CDA294)	302055722
+Left Hand Y Axis Joystick/Master Switch Differential Signal Fault (CDA295)	302055723
+Right Hand X Axis Joystick/Master Switch Differential Signal Fault (CDA296)	302055724
+Right Hand Y Axis Joystick/Master Switch Differential Signal Fault (CDA297)	302055725
+Left Hand X Axis Joystick/Master Switch Out of Range Fault (CDA298)	302055726
+Left Hand Y Axis Joystick/Master Switch Out of Range Fault (CDA299)	302055727
+Right Hand X Axis Joystick/Master Switch Out of Range Fault (CDA300)	302055728
+Right Hand Y Axis Joystick/Master Switch Out of Range Fault (CDA301)	302055729
+Joystick/Master Switch Supply Voltage Out of Range Fault (CDA302)	302055730
+Hydraulic Oil Contamination Monitor 2 Sensor Fault. (Warning) (CDA303)	302055731
+Hydraulic System Cooler Control 2 Fault. (Delayed Shutdown) (CDA304)	302055732
+PLC Node 17 (OCS) Fault (Shutdown) (CDA305)	302055733
+PLC Node 17 (OCS) High Temperature (Delayed Shutdown) (CDA306)	302055734
+PLC Node 17 (OCS) Low Temperature (Delayed Shutdown) (CDA307)	302055735
+PLC Node 17 (OCS) Analog I/O Fault (Shutdown) (CDA308)	302055736
+2nd Operator Display UPS Battery Low (Warning) (CDA309)	302055737
+2nd Operator Display UPS Alarm (Warning) (CDA310)	302055738
+2nd Operator Display Running on UPS Battery (Warning) (CDA311)	302055739
+PLC Node 16 (Hyd Crowd Test-Point Rack) Fault (Warning) (CDA312)	302055740
+PLC Node 16 (Hyd Crowd Test-Point Rack) Analog I/O Fault (Warning) (CDA313)	302055741
+Propel Gearcase Oil Overtemperature (Warning) (CDA314)	302055742
+Operator Cab Control Screen Comm Lost (Shutdown) (CDA315)	302055743
+Cylinder Rod End Transducer (Warning) (CDA316)	302055744
+B1 End Of Line Pressure Fault (Delayed Shutdown)/ Spare - Available to use (CDA317)	302055745
+Spare - Available to use (CDA318)	302055746
+Fire Suppression System Trouble 3 min Shutdown (CDA319)	302055747
+Fire Suppression System Trouble 30 sec Shutdown (CDA320)	302055748
+Fire System Has Discharged (CDA321)	302055749
+Fire System Maintenance Fault (Warning) (CDA322)	302055750
+Hoist Speed Locked-HydraCrorwd Not at Operating Temperature (CDA323)	302055751
+HydraCrowd Braking/Decompression Mode Timed Out - Crowd in Holding (CDA324)	302055752
+HydraCrowd Boom Jack Condition Latched - Retract Only Until Cleared (CDA325)	302055753
+DC Bus Earthing Motor Fault (CDA326)	302055754
+High Voltage Fault Check HV Display (CDA327)	302055755
+DC Bus Switch is Earthed ( maintenece) (CDA328)	302055756
+DC Bus Earthed Fault (CDA329)	302055757
+DC BUS Switch Is Open (Normal) (CDA330)	302055758
+Main Drive Power Switch Is Not Earthed (CDA331)	302055759
+Main Drive Power Switch Is Not Closed/Open (CDA332)	302055760
+Close High Voltage DPT 1 and DPT 2 Switch (CDA333)	302055761
+Reserved (CDA334)	302055762
+Reserved (CDA335)	302055763
+Hydraulic System Cooler Control 3 Fault. (Delayed Shutdown) (CDA336)	302055764
+Pneumatic line APX transducer failure (CDA337)	302055765
+Accumulator CRGV Low Pressure Warning Alarm (CDA345)	302055773
+Accumulator CRGV Low Pressure (CDA346)	302055774
+Accumulator RECV Low Pressure Warning Alarm (CDA347)	302055775
+Accumulator RECV Low Pressure (CDA348)	302055776
+PLC Node 18 (Switchgear) Low Temperature (CDA349)	302055777
+PLC Node 18 (Switchgear) High Temperature (CDA350)	302055778

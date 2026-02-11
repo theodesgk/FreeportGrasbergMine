@@ -1,0 +1,15 @@
+If you get an "reload_m not found" error when trying to run some
+of the Statex options under the Statex mainmenu, you need to
+update your "menus.frm" file with the following code:
+
+..
+.expr reload_m \
+    Menu_Zap(nil),
+    PRINTF( "^[]Z^[\\" )
+.expr reload_menus \
+    Menu_Zap(nil),
+    PRINTF( "^[]Z^[\\" ),
+    DIAG( "All mouse menus have been reloaded with new values." )
+.export reload_menus,reload_m
+..
+ 

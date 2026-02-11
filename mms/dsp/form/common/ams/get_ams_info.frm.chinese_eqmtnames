@@ -1,0 +1,735 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: get_ams_info.frm.chinese_eqmtnames,v $
+.. $Revision: 1.1 $
+..   $Author: zambetis $
+..     $Date: 2009/03/11 22:16:04 $
+..    $State: Exp $
+..   Purpose: Query field equipment for Asset Management System (AMS) information.
+..            WRITES TO LOG FILE: ~/ams_debug.log
+..            Writes Expect results/output to: /tmp/ams_output_*
+..            Data stored in: /dsp/client/opns/ams.ddb
+..
+......................................................................
+.. T----   M.Tovar   18Jan2008  Create code based on old CRM utility.
+.. T11750  M.Durham  07Apr2008  Modify & tidy code, add extra info(ssn,bootver,radioa+b,...), make work for ML, Revd & Hybrid.
+.. T11750  M.Durham  30Jun2008  Stage 1 ready for roll-out.
+.. T11750  M.Durham  16Jul2008  Stage 2 ready for roll-out.
+.. T11750  M.Durham  11Aug2008  Added AMSREG$, renamed ikOldNumDays & ikDelNumDays to iOldNumDays & iDelNumDays. Configs in ams.ddb now.
+.. T11750  M.Durham  04Sep2008  Stage 3 ready for roll-out.
+.. T18406  M.Durham  19Jan2009  Edited AddAmsh(...), changed AMSH$TIME from CLOCK("secs") to output files mtime (dOutpFileModTime)
+.. T18406  M.Durham  19Jan2009  Set AMSE$TIME to oldest AMSH$TIME (via dDateTime). Replaced i_dateTime with dDateTime so can use ("secs").
+.. T18406  M.Durham  21Jan2009  Added ikExitOnInit & call to ams_summary_export.frm then exit, to export to csv files.
+......................................................................
+..
+.. CRONJOB:   (main machine)
+..
+.. # T11750  M.Durham  16Jul2008  Asset Management System (ams.ddb, see ams_menu.frm).
+.. 45 8,15 * * 1-2 /dsp/cli/---/com/get_ams_info 1>/tmp/get_ams_info.log 2>&1
+..
+.. REQUIREMENTS:
+..
+.. These files need to be installed:
+..   - ams_admin.frm
+..   - ams_ddb_clean.frm
+..   - ams_eqmt.frm
+..   - ams_help.frm
+..   - ams_summary_export.frm
+..   - ams_menu.frm                  - MAIN MENU
+..   - db_ams.frm
+..   - get_ams_info.frm              - creates ddb & gathers info from field eqmt. Run for 5secs first to populate ddb with eqmt, Ctrl+C to cancel, 
+..                                     open menu - admin, enable/disable eqmt as reqd then run again. Make sure client specific dic_radio set.
+..
+..   - opns/ams.ddb                  - created & populated by get_ams_info.frm
+..   - opns/ams/                     - EMPTY DIRECTORY where data exported to
+..
+..   - com/
+..     - ams_hubquery_gpscards.txt   - configuration file for list of gps cards to look for (called in ams_hubquery_*.exp)
+..     - ams_hubquery_onbrd_intf.txt - configuration file for list of gps cards to look for (called in ams_hubquery_*.exp)
+..     - ams_hubquery_config.txt     - configuration file for gathering info from eqmt (called in ams_hubquery_*.exp)
+..     - ams_hubquery.exp            - uses Tcl/Expect to gather info from eqmt (called in get_ams_info.frm)
+..     - get_ams_info                - run by the CRONJOB, calls get_ams_info.frm
+..
+..   - /usr/bin/expect               - LINUX (ML/Hybrid), needs to be installed, type 'which expect' in crttool 
+..   - /usr/local/bin/expect         - SUN (RevD),        needs to be installed, type 'which expect' in crttool (probably have to install tcl too)
+..
+.. POSSIBLE CLIENT SPECIFIC CHANGES:
+..
+.. .expr skClientIntls               - (CLIENTINTLS) should be client initials as in /dsp/client
+.. .equ  dic_radio                   - relevant string (in host files), eg: radio or lan
+.. .equ skTipMethod                  - tip method may need changing (OMStip or pswtip)
+.. .equ ikWaitAftSpawn               - may need changing - #secs - depends on site/network (mainly for revd gear responses)
+.. catFile=[path]/cat                - in com/get_ams_info, path to cat, type 'which cat' in crttool
+..
+......................................................................
+..
+.. TRANSLATIONS
+..
+.if !DEFINED("language")
+.vstr language
+.endif
+..
+.if language <> nil & language <> "english"
+.include DSP_LANGUAGE/get_ams_info_translate
+.else
+..
+.equ dic_logPrefix          "*** "
+.equ dic_attempting         "Attempting"
+.equ dic_delFiles           "Deleting existing AMS output files"
+.equ dic_EOF                "END OF FILE"
+.equ dic_failed             "Failed to open"
+.equ dic_invalidData        "INVALID DATA, SKIPPED"
+.equ dic_noFile             "NO FILE EXISTS"
+.equ dic_noData             "NO DATA, ABORTED"
+.equ dic_logMsg             "LOG OR ERROR MSG, IGNORED"
+.equ dic_numQueried         "Number of eqmt queried"
+.equ dic_output             "Output"
+.equ dic_reading            "Reading"
+.equ dic_results            "Results"
+.equ dic_running            "Running"
+.equ dic_SOF                "START OF FILE"
+.equ dic_spawnInfo          "AmsExpectScript"
+..
+.. Strings used in host files
+.equ dic_bridge             "bridge"
+.equ dic_cisco              "cisco"
+.equ dic_file               "file"
+.equ dic_gpsGs              "GpsGs"
+.equ dic_hpDozer            "HpDozer"
+.equ dic_hpDrill            "HpDrill"
+.equ dic_hpGrader           "HpGrader"
+.equ dic_hpLoader           "HpLoader"
+.equ dic_hpShovel           "HpShovel"
+.equ dic_hub                "Hub"
+.equ dic_mpr                "Mpr"
+.equ dic_radio              "radio"             .. T11750  M.Durham  26Mar2008  Set dic_radio to relevant string (in host files).
+.equ dic_router             "router"
+..
+.endif
+..
+......................................................................
+..
+.. MACROS / VARIABLES / TOTALS
+..
+.vint iOldNumDays                               .. repoll if results older than this (eg: may have later version)
+.vint iDelNumDays                               .. delete if results older than this (eg: eqmt may not exist anymore)
+..
+.include ams/ams_config
+..
+.include ams/db_ams
+..
+.total tDeleteIds(nil).1
+..
+.vstr sThisLine(v_lcase,v_nil)
+..
+..
+.if !DEFINED("E$HPGPS")
+.equ E$HPGPS       0
+.endif
+..
+.if !DEFINED("A$HPGPS")
+.equ A$HPGPS       0
+.endif
+..
+.vdate dOutpFileModTime                         .. T18406  M.Durham  19Jan2009  Changed AMSH$TIME from CLOCK("secs") to output files mtime (dOutpFileModTime)
+.vdate dDateTime                                .. T18406  M.Durham  19Jan2009  Replaced i_dateTime with dDateTime, so can use ("secs") 
+..
+.def ikExitOnInit        1                      .. T18406  M.Durham  21Jan2009  So can run ams_summary_export.frm & exit, to export to csv files
+..
+......................................................................
+..
+.. GENERAL EXPRESSIONS
+..
+.expr GetClockSqlDateTime() (
+      return( ((int CLOCK.1 < 70 ? 2000 + int CLOCK.1 : 1900 + int CLOCK.1), \
+               int CLOCK.2, int CLOCK.3, int CLOCK)[%d-%02d-%02d %h] )
+      )
+..
+..
+.. Check if i_timeSecs (eg: AMS_$TIME("secs") ) is older than iDelNumDays
+..
+.expr IsOlderDelNumDays( i_timeSecs ) (
+      return( (CLOCK.-1 - i_timeSecs) > (3600.0 * 24 * iDelNumDays) )
+) .. end IsOlderDelNumDays
+..
+..
+.. Check if i_timeSecs (eg: AMS_$TIME("secs") ) is older than iOldNumDays
+..
+.expr IsOlderOldNumDays( i_timeSecs ) (
+      return( (CLOCK.-1 - i_timeSecs) > (3600.0 * 24 * iOldNumDays) )
+) .. end IsOlderOldNumDays
+..
+..
+.. T11750  M.Durham  10Apr2008  Write to log file.
+.init (
+      AMSREG$ID    := dic_aregOldNumDays,
+      iOldNumDays  := int AMSREG$VALUE,
+      ..
+      AMSREG$ID    := dic_aregDelNumDays,
+      iDelNumDays  := int AMSREG$VALUE,
+      ..
+      .. setting of the radio configuration hostfiles
+      thostfile := skClientIntls[/dsp/cli/%s/psw/truck.hosts],
+      ehostfile := skClientIntls[/dsp/cli/%s/psw/excav.hosts],
+      ahostfile := skClientIntls[/dsp/cli/%s/psw/auxeqmt.hosts],
+      mhostfile := skClientIntls[/dsp/cli/%s/psw/misc.hosts],
+      nhostfile := skClientIntls[/dsp/cli/%s/psw/network.hosts],
+      pswhostfile := nil,
+      ..
+      .. REVD ONLY: Find name of HOSTFILE  (/etc/pswd extract:  HOSTFILE=/dsp/client/hosts.pkt-modem)
+      ..
+      FSTAT( "/etc/pswd","size" ) > 0 ?
+      (
+        i_fdPswd := OPEN( "/etc/pswd", "lr" ),
+        loop( READ( i_fdPswd, "%s\n", readln ).* )
+      ..(
+          SUBSTR(readln,0,1) <> "#" & STRPOS(readln,"HOSTFILE") >= 0 ?
+            DECODE( readln, "%sHOSTFILE=%s %s", junk, pswhostfile, junk ) :
+            pswhostfile := nil
+        ),
+        CLOSE( i_fdPswd )
+      ),
+      ..
+      ikWriteToLog ?
+      (
+        sLogFile := ( GETENV("HOME",0) )[%s/ams_debug.log],
+        iFdOut   := OPEN( sLogFile, "w" ),
+        WRITE( iFdOut, "... %s ... %s ...\n", dic_SOF, str GetClockSqlDateTime )
+      )
+) .. end .init
+..
+.expr DelOldAMSE()    (tDeleteIds("name") := AMSE$ID) <> nil
+.expr DelOldAMSH()    (tDeleteIds("name") := AMSH$ID) <> nil
+..
+.expr IsNotComment     STRPOS( sThisLine, "#"          ) <> 0
+.expr IsFile           STRPOS( sThisLine, dic_file     ) >= 0
+.expr IsCisco          STRPOS( sThisLine, dic_cisco    ) >= 0
+.expr IsRouter         STRPOS( sThisLine, dic_router   ) >= 0
+.expr IsBridge         STRPOS( sThisLine, dic_bridge   ) >= 0
+.expr IsMpr            STRPOS( sThisLine, dic_mpr      ) >= 0
+.expr IsHub            STRPOS( sThisLine, dic_hub      ) >= 0
+.expr IsGpsGs          STRPOS( sThisLine, dic_gpsGs    ) >= 0
+.expr IsHpDozer        STRPOS( sThisLine, dic_hpDozer  ) >= 0
+.expr IsHpDrill        STRPOS( sThisLine, dic_hpDrill  ) >= 0
+.expr IsHpGrader       STRPOS( sThisLine, dic_hpGrader ) >= 0
+.expr IsHpLoader       STRPOS( sThisLine, dic_hpLoader ) >= 0
+.expr IsHpShovel       STRPOS( sThisLine, dic_hpShovel ) >= 0
+..
+.expr AddAmse( s_id1, i_type1, i_panel1, s_pingid1 ) (
+      AMSE$ID      := ( s_id1, FMT(1) )[%s,%s],
+      AMSE$TYPE    := i_type1,
+      AMSE$ISHP    := FMT(2),  .. no
+      int i_type1 = ikEqTypAux ?
+      (
+        AMSE$UNIT := 0,
+        loop( A$ID.(int A$PANEL = int i_panel1) )
+      ..(
+          AMSE$UNIT := int A$UNIT,
+          AMSE$ISHP := (A$HPGPS > 0)
+        )
+      ) :
+      int i_type1 = ikEqTypTrk | int i_type1 = ikEqTypExc ?
+      (
+        AMSE$UNIT   := int i_type1,
+        int i_type1 = ikEqTypExc ?
+        (
+          loop( E$ID.(int E$PANEL = int i_panel1) )
+        ..(
+            AMSE$ISHP := (E$HPGPS > 0)
+          )
+        )
+      ) :
+        AMSE$UNIT  := 0,
+      AMSE$PANEL   := i_panel1,
+      AMSE$PINGID  := s_pingid1,
+      AMSE$HWITEMS := 0,
+      AMSE$TIME    := "\\" + CLOCK("secs"),
+      ikWriteToLog ?
+        WRITE( iFdOut, "AMSE\$ID:%s, PINGID:%s, PANEL:%s, UNIT:%s, TYPE:%s, ISHP:%d.\n", 
+               str AMSE$ID, str AMSE$PINGID, str AMSE$PANEL, str AMSE$UNIT, str AMSE$TYPE, int AMSE$ISHP ),
+      nil
+) .. end AddAmse
+..
+.expr AddAmsh( s_id3, s_eqId3, i_hwType3, s_intf3, d_time ) (
+      !AMSH$ID(s_id3) ? 
+        AMSH$ID     := s_id3,
+      AMSH$EQMTID   := s_eqId3,
+      AMSH$HWTYPE   := i_hwType3,
+      AMSH$TIME     := d_time,                .. T18406  M.Durham  19Jan2009  Changed from CLOCK("secs") to mtime of output file
+      AMSH$INTF     := s_intf3,
+      AMSH$INTFNAME := s_intf3,
+      ikWriteToLog ?
+        WRITE( iFdOut, "   AMSH\$ID:%s,  EQMTID:%s,  HWTYPE:%s.\n", str AMSH$ID, str AMSH$EQMTID, str AMSH$HWTYPE ),
+      nil
+) .. end AddAmsh
+..
+.. Expression for decoding information from the hostfiles
+..
+.expr AddIdsFromNFile( s_hostFile ) (
+      ..
+      .. Open Configuration File
+      ..
+      FSTAT( s_hostFile, "size" ) <= 0 ?
+        return,
+      ikWriteToLog ?
+        WRITE( iFdOut, "... In AddIdsFromNFile ... %s ... %s.\n", str GetClockSqlDateTime, str s_hostFile ),
+      !( i_hostFd := OPEN( s_hostFile, "lr" ) ) ?
+      (
+        DIAG( ( dic_failed, s_hostFile )[%s: %s.] ),
+        WAIT := 3,
+        return
+      ),
+      s_lastId    := nil,
+      i_idCreated := 0,
+      loop( READ( i_hostFd, "%s\n", sThisLine ).* )          .. Read line by line the *.hosts
+    ..(
+        i_lineNumE := * + 1,
+        sThisLine & IsNotComment & !IsFile & (IsCisco | IsRouter | IsBridge) ?             .. Match pattern of eqmt ID registration
+        (
+          DECODE( sThisLine, "%s %s %s", s_ipAddr, s_pingIdTemp, s_class ),
+          s_pingId := s_pingIdTemp - "'",
+          !AMSE$ID( s_pingId ) ?
+          (
+            i_idCreated  := 1,
+            IsCisco ?
+              AddAmse( str s_pingId, ikEqTypWap, nil, str s_pingId ) :
+            IsRouter ?
+              AddAmse( str s_pingId, ikEqTypGs,  nil, str s_pingId ) :
+              AddAmse( str s_pingId, ikEqTypBrg, nil, str s_pingId )
+          ) :
+            i_idCreated  := 0
+        ) :
+        sThisLine & IsNotComment & IsFile & IsMpr & IsGpsGs ?
+        ( 
+          i_idCreated & AMSE$ID( s_lastId ) & int AMSE$TYPE <> ikEqTypGs ?
+          (
+            AMSE$TYPE := ikEqTypGs,
+            ikWriteToLog ?
+              WRITE( iFdOut, "AMSE\$ID:%s, PINGID:%s, PANEL:%s, UNIT:%s, TYPE:%s. * \n", str AMSE$ID, str AMSE$PINGID, str AMSE$PANEL, str AMSE$UNIT, str AMSE$TYPE )
+          )
+        ),
+        s_lastId := s_pingId
+      ),
+      CLOSE(i_hostFd),
+      nil
+) .. end AddIdsFromNFile
+..
+..
+.. Expression for decoding information from the hostfiles
+..
+.expr AddIdsFromFile( s_hostFile, i_eqType ) (
+      ..
+      .. Open Configuration File
+      ..
+      FSTAT( s_hostFile, "size" ) <= 0 ?
+        return,
+      ikWriteToLog ?
+        WRITE( iFdOut, "... In AddIdsFromFile ... %s ... %s.\n", str GetClockSqlDateTime, str s_hostFile ),
+      !( i_hostFd := OPEN( s_hostFile, "lr" ) ) ?
+      (
+        DIAG( ( dic_failed, s_hostFile )[%s: %s.] ),
+        WAIT := 3,
+        return
+      ),
+      s_lastId    := nil,
+      i_idCreated := 0,
+      loop( READ( i_hostFd, "%s\n", sThisLine ).* )          .. Read line by line the *.hosts
+    ..(
+        i_lineNumE := * + 1,
+        IsNotComment & !IsFile & STRPOS( sThisLine, dic_radio ) >= 0 ?             .. Match pattern of eqmt ID registration
+        (
+          s_hostFile = pswhostfile ?
+            DECODE( sThisLine, "%s "+dic_radio,      s_panelId, s_pingId ) :
+            DECODE( sThisLine, dic_radio+".%s '%s'", s_panelId, s_pingId ),
+          s_pingId = nil ?
+            s_pingId2 := s_panelId :
+            s_pingId2 := s_pingId - "_",
+          s_pingId2 = "1" ?                .. handle router 1 (pingid=0)
+            s_pingId2 := "0",
+          i_idCreated  := 0,
+          i_eqType = ikEqTypTrk | i_eqType = ikEqTypExc | i_eqType = ikEqTypAux ?
+          (
+            !AMSE$ID( s_panelId ) ? 
+            (
+              i_idCreated  := 1,
+              AddAmse( str s_panelId, int i_eqType, int s_panelId, str s_panelId )
+              ..AddAmse( str s_pingId2, int i_eqType, int s_panelId, str s_pingId )     .. chinese chars interpreted wrong between SPAWN & expect script
+            )
+          ) :
+          !AMSE$ID( s_pingId2 ) ?
+          (
+            i_idCreated  := 1,
+            AddAmse( str s_pingId2, int i_eqType, nil,           str s_pingId2)
+            ..AddAmse( str s_pingId2, int i_eqType, nil, (str s_pingId2 = "1" ? "0" : str s_pingId2) )    .. handle router 1 (pingid=0)
+          )
+        ) :
+        IsNotComment & IsFile & IsHub & ( IsHpDozer | IsHpDrill | IsHpGrader | IsHpLoader | IsHpShovel ) ?
+        ( 
+          i_idCreated & AMSE$ID( s_lastId ) ?
+          (
+            AMSE$ISHP := FMT(1),  .. yes
+            ikWriteToLog ?
+              WRITE( iFdOut, "AMSE\$ID:%s, PINGID:%s, PANEL:%s, UNIT:%s, TYPE:%s, * ISHP:%d.\n", 
+                     str AMSE$ID, str AMSE$PINGID, str AMSE$PANEL, str AMSE$UNIT, str AMSE$TYPE, int AMSE$ISHP )
+          )
+        ),
+        s_lastId := s_pingId2
+      ),
+      CLOSE(i_hostFd),
+      nil
+) .. end AddIdsFromFile
+..
+..
+.. See /mms/boot/Boot/Usage.h for Hub & GC types.
+..
+.expr GetHubType( s_procboard1 ) (
+      s_temp1 := ( s_procboard1 )[%3.3s],
+      s_temp2 := ( s_procboard1 )[%6.6s],
+      s_temp2 = "190-02" ?
+        return( "GStation" ) :
+      s_temp2 = "247-02" ?
+        return( "Topcon GStation" ) :
+      s_temp2 = "219-01" ?
+        return( "BRG" ) :
+      s_temp2 = "251-01" ?
+        return( "BRGII" ) :
+      s_temp1 = "187" ?
+        return( "RevD Hub" ) :
+      s_temp1 = "247" ?
+        return( "ML Hub" ) :
+      return( "" )         .. needs to remain blank
+) .. end GetHubType
+..
+..
+.expr GetCgcType( s_procboard2 ) (
+      s_temp2 := ( s_procboard2 )[%3.3s],
+      s_temp2 = "171" ?
+        return( "Mono GC" ) :
+      s_temp2 = "231" ?
+        return( "SCGC" ) :
+      s_temp2 = "237" ?
+        return( "LCGC" ) :
+      s_temp2 = "247" ?
+        return( "HiRes GC" ) :
+      return( "" )         .. needs to remain blank
+) .. end GetCgcType
+..
+..
+..
+.. T11750  M.Durham  26Mar2008  Replaced \t with space in AddIdsFromFile(...) calls, so still works if no tab (in host files).
+..
+.expr FillAmse() (
+      AddIdsFromFile( thostfile, ikEqTypTrk ),
+      AddIdsFromFile( ehostfile, ikEqTypExc ),
+      AddIdsFromFile( ahostfile, ikEqTypAux ),
+      AddIdsFromFile( mhostfile, ikEqTypBrg ),
+      pswhostfile ?
+        AddIdsFromFile( pswhostfile, ikEqTypGs ),
+      AddIdsFromNFile( nhostfile ),
+      nil
+) .. end FillAmse
+..
+..
+.expr FillAmsh( s_outputFile ) (
+      .. if no file exists, or file is small (eg: OMStip timed out), ignore 
+      FSTAT( s_outputFile, "size" ) <= 90 ?
+        return,
+      dOutpFileModTime := "\\" + FSTAT( s_outputFile, "mtime" ),
+      ikWriteToLog ?
+        WRITE( iFdOut, "\n... In FillAmsh ... %s ... %s", str GetClockSqlDateTime, str s_outputFile ),
+      !( i_amsOputFd := OPEN( s_outputFile, "lr" ) ) ?              .. Open Output File
+      (
+        ikWriteToLog ?
+          WRITE( iFdOut, " ... %s.", str dic_noFile ),
+        return
+      ),
+      ikWriteToLog ?
+        WRITE( iFdOut, "\n" ),
+      ..
+      loop( READ( i_amsOputFd, "%s\n", sThisLine ).* )
+    ..(
+        DECODE( sThisLine, "%s:%s:%s:%s\n", s_eqmtId, s_hwtype, s_ddbField, s_info ),
+        ikWriteToLog ?
+        (
+          WRITE( iFdOut, "%s\n", str sThisLine ),
+          WRITE( iFdOut, "   eq:%s,  hw:%s,  fld:%s,  info:%s.\n", str s_eqmtId, str s_hwtype, str s_ddbField, str s_info )
+        ),
+        s_eqmtId2 := s_eqmtId - skUnderscore,
+        ..
+        ..s_eqmtId2 = 0 ?
+        ..  s_eqmtId2 := 1,         .. for router 1 (pingid=0)
+        ..
+        .. Do some error checking before proceeding
+        ..
+        STRPOS( s_eqmtId2, dic_logPrefix ) = 0 ?
+        (
+          ikWriteToLog ?
+            WRITE( iFdOut, "   - %s.\n", str dic_logMsg )
+        ) :
+        !AMSE$ID(s_eqmtId2) | int ENUM(enum AMSHWTYPE 0, s_hwtype) <= 0 ?
+        (
+          ikWriteToLog ?
+            WRITE( iFdOut, "   - %s.\n", str dic_noData ),
+          return
+        ) :
+        s_info <> "-1" & s_info <> "nil" ?
+        (
+          ..
+          .. comma separated values
+          ..
+          s_ddbField = "INTFNAME" | s_ddbField = "INTFNAME2" ?
+          (
+            s_intf := nil, 
+            s_temp := s_info, 
+            loop()
+          ..(
+              i_commaPos    := STRPOS( s_temp, "," ),
+              break ( i_commaPos = -1 ),
+              s_intf        := SUBSTR( s_temp, 0, i_commaPos ),
+              s_temp        := s_temp - (s_intf)[%s,], 
+              s_id2         := s_eqmtId2 + skUnderscore + s_intf,
+              s_id4         := s_eqmtId2 + skUnderscore + str ENUM(enum AMSHWTYPE 0, ikHwTypCgc ),
+              s_ddbField = "INTFNAME" & s_intf = skGoic ?
+                AddAmsh( s_id4, s_eqmtId2, ikHwTypCgc, nil,     dOutpFileModTime ) :   .. CGC basic info, overwritten later (if connect Goic worked).
+              s_ddbField = "INTFNAME" & STRPOS(s_intf, skMaster) = -1 ?
+                AddAmsh( s_id2, s_eqmtId2, ikHwTypGsp, s_intf,  dOutpFileModTime) :
+              s_ddbField = "INTFNAME2" ?
+                AddAmsh( s_id2, s_eqmtId2, ikHwTypIntf, s_intf, dOutpFileModTime)
+            ),
+            ..
+            .. get last comma separated value
+            ..
+            s_id2         := s_eqmtId2 + skUnderscore + s_temp,
+            s_id4         := s_eqmtId2 + skUnderscore + str ENUM(enum AMSHWTYPE 0, ikHwTypCgc ),
+            s_ddbField = "INTFNAME" & s_temp = skGoic ?
+              AddAmsh( s_id4, s_eqmtId2, ikHwTypCgc, nil,     dOutpFileModTime) :   .. CGC basic info, overwritten later (if connect Goic worked).
+            s_ddbField = "INTFNAME" & STRPOS(s_temp, skMaster) = -1 ?
+              AddAmsh( s_id2, s_eqmtId2, ikHwTypGsp, s_temp,  dOutpFileModTime) :
+            s_ddbField = "INTFNAME2" ?
+              AddAmsh( s_id2, s_eqmtId2, ikHwTypIntf, s_temp, dOutpFileModTime)
+          ) :
+          (
+            s_id := s_eqmtId2 + skUnderscore + s_hwtype,
+            AddAmsh( s_id, s_eqmtId2, s_hwtype, nil, dOutpFileModTime),
+            s_ddbField = "GPSTYPE" ?
+            (
+              ..
+              .. 1-2 comma separated values
+              ..
+              DECODE( s_info, "%s,%s", s_gps1, s_gps2 ),
+              AMSH$GPSTYPE  := str s_gps1,
+              .. avoid duplicates, eg: GpsGG24 (Gps) & GpsGG24 (Gps2)
+              AMSH$GPSTYPE <> str s_gps2 ?
+                AMSH$GPSTYPE2 := str s_gps2 :
+                AMSH$GPSTYPE2 := nil
+            ) :
+            s_ddbField = "BRD" ?
+            (
+              ..
+              .. 1-3 comma separated values
+              ..
+              DECODE( s_info, "%s,%s,%s", s_brd1, s_brd2, s_brd3 ),
+              AMSH$SSN <> s_brd1 & s_brd1 ?
+                AMSH$BRD1 := str s_brd1,
+              AMSH$SSN <> s_brd2 & s_brd2 ?
+                AMSH$BRD2 := str s_brd2,
+              AMSH$SSN <> s_brd3 & s_brd3 ?
+              (
+                AMSH$BRD1 ?
+                  AMSH$BRD2 := str s_brd3 :
+                  AMSH$BRD1 := str s_brd3
+              )
+            ) :
+            (
+              ..
+              .. Evaluate:  [ddbfield] := [info]
+              .. eg: AMSH$BOOTVER := "v3.1.026-beta"
+              ..
+              s_symbol := ( s_ddbField )[AMSH\$%s],
+              s_eval   := ( str s_symbol, str s_info )[%s := \"%s\"],
+              ikWriteToLog ?
+                WRITE( iFdOut, "   - %s: %s.\n", str dic_attempting, str s_eval ),
+              EVAL( s_eval )
+            ),
+            int ENUM(enum AMSHWTYPE 0, s_hwtype) = ikHwTypHub ?
+              AMSH$INTFNAME := GetHubType( AMSH$PROCBOARD ) :
+            int ENUM(enum AMSHWTYPE 0, s_hwtype) = ikHwTypCgc ?
+              AMSH$INTFNAME := GetCgcType( AMSH$PROCBOARD )
+          )
+        ) :
+        (
+          ikWriteToLog ?
+            WRITE( iFdOut, "   - %s.\n", str dic_invalidData )
+        )
+      ),  .. end loop
+      CLOSE(i_amsOputFd),
+      nil
+) .. end FillAmsh
+..
+..
+.. Delete any leftover output files before creating new ones. SPAWN does not work with wildcards, so using pipe & open as workaround.
+..
+.expr RemoveOputFiles() (
+      ( i_fileDescr := OPEN( "| rm /tmp/ams_output_* 1>/dev/null 2>/dev/null", "r" ) ) ?
+        CLOSE( i_fileDescr ),
+      DIAG( "%s: %s", str dic_results, str dic_delFiles ),
+      WAIT := 3,
+      nil
+) .. end RemoveOputFiles
+..
+..
+.. Query eqmt, only ready or delay status eqmt
+..
+.expr AskEqmt() (
+      ikWriteToLog ?
+        WRITE( iFdOut, "\n... In AskEqmt ... %s ...\n", str GetClockSqlDateTime  ),
+      i_queryAmsh   := 0,
+      i_eqmtQueried := 0,
+      loop( AMSE$ID.( ( AMSE$PINGID & !AMSE$DISABLE ) & 
+                      ( ( AMSE$HWITEMS = 0 | ( AMSE$HWITEMS = 1 & int AMSE$TYPE <= ikEqTypAux ) ) | 
+                        AMSE$COMPLINFO < AMSE$HWITEMS | 
+                        IsOlderOldNumDays( AMSE$TIME("secs") ) )
+                    ) )
+    ..(
+        i_queryAmsh := 0,
+        case( AMSE$TYPE )
+      ..(
+          ikEqTypTrk :   loop( T$ID.(str T$PANEL = str AMSE$ID & (T$STATUS = stat_ready | T$STATUS = stat_delay) ) )
+                       ..(
+		           i_queryAmsh := 1
+                         )
+          ikEqTypExc :   loop( E$ID.(str E$PANEL = str AMSE$ID & (E$STATUS = stat_ready | E$STATUS = stat_delay) ) )
+                       ..(
+		           i_queryAmsh := 1
+                         )
+          ikEqTypAux :   loop( A$ID.(str A$PANEL = str AMSE$ID & (A$STATUS = stat_ready | A$STATUS = stat_delay) ) )
+                       ..(
+		           i_queryAmsh := 1
+                         )
+          ikEqTypWap : i_queryAmsh   := 0
+          default    : i_queryAmsh   := 1
+        ),
+        i_queryAmsh ?
+        (
+          ..
+          .. T11750  M.Durham  26Mar2008  Added s_script, s_input, s_output & DIAG. (to reduce duplicate hardcode)
+          ..
+          s_script      := ( str skScript, int ikTimeout, str skTipMethod, str AMSE$PINGID )[%s %d %s \'%s\'],
+          s_input       := "/dev/null",
+          s_output      := ( str skOputPrefix, str AMSE$PINGID )[%s%z],
+          s_diag        := (dic_running, s_script, dic_output, s_output)[%s: %s. %s: %s],
+          i_eqmtQueried := i_eqmtQueried + 1,
+          ikWriteToLog ?
+            WRITE( iFdOut, "%s ... %s\n", str GetClockSqlDateTime, str s_diag ),
+          DIAG( s_diag ),
+          SPAWN( dic_spawnInfo, s_script, s_input, s_output ),
+          WAIT := ikWaitAftSpawn              .. max time to allow for SPAWN to complete
+        )
+      ),
+      ikWriteToLog ?
+        WRITE( iFdOut, "%s: %d.\n", str dic_numQueried, int i_eqmtQueried) ),
+      nil
+) .. end AskEqmt
+..
+..
+.expr ReadFiles() (
+      ikWriteToLog ?
+        WRITE( iFdOut, "\n... In ReadFiles ... %s ...\n", str GetClockSqlDateTime ),
+      loop( AMSE$ID.(AMSE$PINGID & !AMSE$DISABLE) )
+    ..(
+        s_fileName := ( str skOputPrefix, str AMSE$PINGID )[%s%z],
+        FillAmsh( s_fileName ),
+        DB$REFRESH("AMSH$ID"),
+        DIAG( (dic_reading, s_fileName )[%s: %s.] )
+      ),
+      nil
+) .. end ReadFiles
+..
+..
+.expr UpdateCount() (
+      ikWriteToLog ?
+        WRITE( iFdOut, "\n\n... In UpdateCount ... %s ...\n\n", str GetClockSqlDateTime ),
+      loop( AMSE$ID.* )
+    ..(
+        i_itemCount := 0,
+        i_compCount := 0,
+        dDateTime   := nil,
+        loop( AMSH$ID.(AMSH$EQMTID = AMSE$ID) )
+      ..(
+          i_itemCount := i_itemCount + 1,
+          AMSH$INTFNAME & ( (AMSH$APPVER & AMSH$BOOTVER & AMSH$SSN) | (AMSH$HWTYPE <> ikHwTypHub & AMSH$HWTYPE <> ikHwTypCgc) ) ?
+          (
+            i_compCount := i_compCount + 1,
+            .. T18406  M.Durham  19Jan2009  Set AMSE$TIME to oldest AMSH$TIME (via dDateTime)
+            !dDateTime | dDateTime("secs") > AMSH$TIME("secs") ? 
+              dDateTime := AMSH$TIME
+          )
+        ),
+        AMSE$HWITEMS   := i_itemCount,
+        AMSE$COMPLINFO := i_compCount,
+        dDateTime ?
+          AMSE$TIME    := dDateTime           .. T18406  M.Durham  19Jan2009  Set AMSE$TIME to oldest AMSH$TIME (via dDateTime)
+      ),
+      nil
+) .. end UpdateCount
+..
+..
+.. Delete hardware recs with no eqmtid link & recs older than certain # of days
+..
+.expr DeleteOldAMSH() (
+      tDeleteIds("zap") := 1,
+      loop( AMSH$ID.* )
+    ..(
+        !AMSH$EQMTID | IsOlderDelNumDays( AMSH$TIME("secs") ) ?
+          tDeleteIds("create") := AMSH$ID
+      ),
+      DB$ZAP( "AMSH$ID", "DelOldAMSH" ),
+      nil
+) .. end DeleteOldAMSH
+..
+..
+.. Delete eqmt with no hardware recs & recs older than certain # of days
+..
+.expr DeleteOldAMSE() (
+      tDeleteIds("zap") := 1,
+      loop( AMSE$ID.(AMSE$HWITEMS = 0 | IsOlderDelNumDays( AMSE$TIME("secs") ) ) ) 
+    ..(
+        tDeleteIds("create") := AMSE$ID           .. T18406  M.Durham  21Jan2009  Fixed
+      ),
+      DB$ZAP( "AMSE$ID", "DelOldAMSE" ),
+      nil
+) .. end DeleteOldAMSE
+..
+..
+.init (
+      .. T11750  02Jul2008  M.Durham  Sometimes data not finished writing to file after AskEqmt when ReadFiles runs, hence this is needed here too
+      ReadFiles,
+      DeleteOldAMSH,
+      UpdateCount,
+      DeleteOldAMSE,
+      ..
+      RemoveOputFiles,
+      FillAmse,
+      DB$REFRESH("AMSE$ID"),
+      AskEqmt,
+      ReadFiles,
+      ..
+      DeleteOldAMSH,
+      UpdateCount,
+      DeleteOldAMSE,
+      ..
+      ikWriteToLog ?
+      (
+        WRITE( iFdOut, "\n... %s ... %s ...\n", dic_EOF, str GetClockSqlDateTime ),
+        CLOSE( iFdOut ),
+        DIAG( sLogFile ),
+        WAIT := 3
+      ),
+      ..
+      FORM := "ams_summary_export",                  .. T18406  M.Durham  21Jan2009  Added ikExitOnInit & call to ams_summary_export.frm
+      ..
+      exit
+      )
+..

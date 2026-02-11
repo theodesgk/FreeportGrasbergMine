@@ -1,0 +1,504 @@
+  Fatal av_data_00	939589632
+  Warning High av_data_00	939589633
+  Alarm High av_data_00	939589634
+  Warning Low av_data_00	939589635
+  Alarm Low av_data_00	939589636
+  Fatal av_data_01	939589637
+  Warning High av_data_01	939589638
+  Alarm High av_data_01	939589639
+  Warning Low av_data_01	939589640
+  Alarm Low av_data_01	939589641
+  Fatal av_data_02	939589642
+  Warning High av_data_02	939589643
+  Alarm High av_data_02	939589644
+  Warning Low av_data_02	939589645
+  Alarm Low av_data_02	939589646
+  Fatal av_data_03	939589647
+  Warning High av_data_03	939589648
+  Alarm High av_data_03	939589649
+  Warning Low av_data_03	939589650
+  Alarm Low av_data_03	939589651
+  Fatal av_data_04	939589652
+  Warning High av_data_04	939589653
+  Alarm High av_data_04	939589654
+  Warning Low av_data_04	939589655
+  Alarm Low av_data_04	939589656
+  Fatal av_data_05	939589657
+  Warning High av_data_05	939589658
+  Alarm High av_data_05	939589659
+  Warning Low av_data_05	939589660
+  Alarm Low av_data_05	939589661
+  Fatal av_data_06	939589662
+  Warning High av_data_06	939589663
+  Alarm High av_data_06	939589664
+  Warning Low av_data_06	939589665
+  Alarm Low av_data_06	939589666
+  Fatal av_data_07	939589667
+  Warning High av_data_07	939589668
+  Alarm High av_data_07	939589669
+  Warning Low av_data_07	939589670
+  Alarm Low av_data_07	939589671
+  Fatal av_data_08	939589672
+  Warning High av_data_08	939589673
+  Alarm High av_data_08	939589674
+  Warning Low av_data_08	939589675
+  Alarm Low av_data_08	939589676
+  Fatal av_data_09	939589677
+  Warning High av_data_09	939589678
+  Alarm High av_data_09	939589679
+  Warning Low av_data_09	939589680
+  Alarm Low av_data_09	939589681
+  Fatal av_data_10	939589682
+  Warning High av_data_10	939589683
+  Alarm High av_data_10	939589684
+  Warning Low av_data_10	939589685
+  Alarm Low av_data_10	939589686
+  Fatal av_data_11	939589687
+  Warning High av_data_11	939589688
+  Alarm High av_data_11	939589689
+  Warning Low av_data_11	939589690
+  Alarm Low av_data_11	939589691
+  Fatal av_data_12	939589692
+  Warning High av_data_12	939589693
+  Alarm High av_data_12	939589694
+  Warning Low av_data_12	939589695
+  Alarm Low av_data_12	939589696
+  Fatal av_data_13	939589697
+  Warning High av_data_13	939589698
+  Alarm High av_data_13	939589699
+  Warning Low av_data_13	939589700
+  Alarm Low av_data_13	939589701
+  Fatal av_data_14	939589702
+  Warning High av_data_14	939589703
+  Alarm High av_data_14	939589704
+  Warning Low av_data_14	939589705
+  Alarm Low av_data_14	939589706
+  Fatal av_data_15	939589707
+  Warning High av_data_15	939589708
+  Alarm High av_data_15	939589709
+  Warning Low av_data_15	939589710
+  Alarm Low av_data_15	939589711
+  Fatal av_data_16	939589712
+  Warning High av_data_16	939589713
+  Alarm High av_data_16	939589714
+  Warning Low av_data_16	939589715
+  Alarm Low av_data_16	939589716
+  Fatal av_data_17	939589717
+  Warning High av_data_17	939589718
+  Alarm High av_data_17	939589719
+  Warning Low av_data_17	939589720
+  Alarm Low av_data_17	939589721
+  Fatal av_data_18	939589722
+  Warning High av_data_18	939589723
+  Alarm High av_data_18	939589724
+  Warning Low av_data_18	939589725
+  Alarm Low av_data_18	939589726
+  Fatal av_data_19	939589727
+  Warning High av_data_19	939589728
+  Alarm High av_data_19	939589729
+  Warning Low av_data_19	939589730
+  Alarm Low av_data_19	939589731
+  Fatal av_data_20	939589732
+  Warning High av_data_20	939589733
+  Alarm High av_data_20	939589734
+  Warning Low av_data_20	939589735
+  Alarm Low av_data_20	939589736
+  Fatal av_data_21	939589737
+  Warning High av_data_21	939589738
+  Alarm High av_data_21	939589739
+  Warning Low av_data_21	939589740
+  Alarm Low av_data_21	939589741
+  Fatal av_data_22	939589742
+  Warning High av_data_22	939589743
+  Alarm High av_data_22	939589744
+  Warning Low av_data_22	939589745
+  Alarm Low av_data_22	939589746
+  Fatal av_data_23	939589747
+  Warning High av_data_23	939589748
+  Alarm High av_data_23	939589749
+  Warning Low av_data_23	939589750
+  Alarm Low av_data_23	939589751
+  Fatal av_data_24	939589752
+  Warning High av_data_24	939589753
+  Alarm High av_data_24	939589754
+  Warning Low av_data_24	939589755
+  Alarm Low av_data_24	939589756
+  Fatal av_data_25	939589757
+  Warning High av_data_25	939589758
+  Alarm High av_data_25	939589759
+  Warning Low av_data_25	939589760
+  Alarm Low av_data_25	939589761
+  Fatal av_data_26	939589762
+  Warning High av_data_26	939589763
+  Alarm High av_data_26	939589764
+  Warning Low av_data_26	939589765
+  Alarm Low av_data_26	939589766
+  Fatal av_data_27	939589767
+  Warning High av_data_27	939589768
+  Alarm High av_data_27	939589769
+  Warning Low av_data_27	939589770
+  Alarm Low av_data_27	939589771
+  Fatal av_data_28	939589772
+  Warning High av_data_28	939589773
+  Alarm High av_data_28	939589774
+  Warning Low av_data_28	939589775
+  Alarm Low av_data_28	939589776
+  Fatal av_data_29	939589777
+  Warning High av_data_29	939589778
+  Alarm High av_data_29	939589779
+  Warning Low av_data_29	939589780
+  Alarm Low av_data_29	939589781
+  Fatal av_data_30	939589782
+  Warning High av_data_30	939589783
+  Alarm High av_data_30	939589784
+  Warning Low av_data_30	939589785
+  Alarm Low av_data_30	939589786
+  Fatal av_data_31	939589787
+  Warning High av_data_31	939589788
+  Alarm High av_data_31	939589789
+  Warning Low av_data_31	939589790
+  Alarm Low av_data_31	939589791
+  Fatal av_data_32	939589792
+  Warning High av_data_32	939589793
+  Alarm High av_data_32	939589794
+  Warning Low av_data_32	939589795
+  Alarm Low av_data_32	939589796
+  Fatal av_data_33	939589797
+  Warning High av_data_33	939589798
+  Alarm High av_data_33	939589799
+  Warning Low av_data_33	939589800
+  Alarm Low av_data_33	939589801
+  Fatal av_data_34	939589802
+  Warning High av_data_34	939589803
+  Alarm High av_data_34	939589804
+  Warning Low av_data_34	939589805
+  Alarm Low av_data_34	939589806
+  Fatal av_data_35	939589807
+  Warning High av_data_35	939589808
+  Alarm High av_data_35	939589809
+  Warning Low av_data_35	939589810
+  Alarm Low av_data_35	939589811
+  Fatal av_data_36	939589812
+  Warning High av_data_36	939589813
+  Alarm High av_data_36	939589814
+  Warning Low av_data_36	939589815
+  Alarm Low av_data_36	939589816
+  Fatal av_data_37	939589817
+  Warning High av_data_37	939589818
+  Alarm High av_data_37	939589819
+  Warning Low av_data_37	939589820
+  Alarm Low av_data_37	939589821
+  Fatal av_data_38	939589822
+  Warning High av_data_38	939589823
+  Alarm High av_data_38	939589824
+  Warning Low av_data_38	939589825
+  Alarm Low av_data_38	939589826
+  Fatal av_data_39	939589827
+  Warning High av_data_39	939589828
+  Alarm High av_data_39	939589829
+  Warning Low av_data_39	939589830
+  Alarm Low av_data_39	939589831
+  Fatal av_data_40	939589832
+  Warning High av_data_40	939589833
+  Alarm High av_data_40	939589834
+  Warning Low av_data_40	939589835
+  Alarm Low av_data_40	939589836
+  Fatal av_data_41	939589837
+  Warning High av_data_41	939589838
+  Alarm High av_data_41	939589839
+  Warning Low av_data_41	939589840
+  Alarm Low av_data_41	939589841
+  Fatal av_data_42	939589842
+  Warning High av_data_42	939589843
+  Alarm High av_data_42	939589844
+  Warning Low av_data_42	939589845
+  Alarm Low av_data_42	939589846
+  Fatal av_data_43	939589847
+  Warning High av_data_43	939589848
+  Alarm High av_data_43	939589849
+  Warning Low av_data_43	939589850
+  Alarm Low av_data_43	939589851
+  Fatal av_data_44	939589852
+  Warning High av_data_44	939589853
+  Alarm High av_data_44	939589854
+  Warning Low av_data_44	939589855
+  Alarm Low av_data_44	939589856
+  Fatal av_data_45	939589857
+  Warning High av_data_45	939589858
+  Alarm High av_data_45	939589859
+  Warning Low av_data_45	939589860
+  Alarm Low av_data_45	939589861
+  Fatal av_data_46	939589862
+  Warning High av_data_46	939589863
+  Alarm High av_data_46	939589864
+  Warning Low av_data_46	939589865
+  Alarm Low av_data_46	939589866
+  Fatal av_data_47	939589867
+  Warning High av_data_47	939589868
+  Alarm High av_data_47	939589869
+  Warning Low av_data_47	939589870
+  Alarm Low av_data_47	939589871
+  Fatal av_data_48	939589872
+  Warning High av_data_48	939589873
+  Alarm High av_data_48	939589874
+  Warning Low av_data_48	939589875
+  Alarm Low av_data_48	939589876
+  Fatal av_data_49	939589877
+  Warning High av_data_49	939589878
+  Alarm High av_data_49	939589879
+  Warning Low av_data_49	939589880
+  Alarm Low av_data_49	939589881
+  Fatal av_data_50	939589882
+  Warning High av_data_50	939589883
+  Alarm High av_data_50	939589884
+  Warning Low av_data_50	939589885
+  Alarm Low av_data_50	939589886
+  Fatal av_data_51	939589887
+  Warning High av_data_51	939589888
+  Alarm High av_data_51	939589889
+  Warning Low av_data_51	939589890
+  Alarm Low av_data_51	939589891
+  Fatal av_data_52	939589892
+  Warning High av_data_52	939589893
+  Alarm High av_data_52	939589894
+  Warning Low av_data_52	939589895
+  Alarm Low av_data_52	939589896
+  Fatal av_data_53	939589897
+  Warning High av_data_53	939589898
+  Alarm High av_data_53	939589899
+  Warning Low av_data_53	939589900
+  Alarm Low av_data_53	939589901
+  Fatal av_data_54	939589902
+  Warning High av_data_54	939589903
+  Alarm High av_data_54	939589904
+  Warning Low av_data_54	939589905
+  Alarm Low av_data_54	939589906
+  Fatal av_data_55	939589907
+  Warning High av_data_55	939589908
+  Alarm High av_data_55	939589909
+  Warning Low av_data_55	939589910
+  Alarm Low av_data_55	939589911
+  Fatal av_data_56	939589912
+  Warning High av_data_56	939589913
+  Alarm High av_data_56	939589914
+  Warning Low av_data_56	939589915
+  Alarm Low av_data_56	939589916
+  Fatal av_data_57	939589917
+  Warning High av_data_57	939589918
+  Alarm High av_data_57	939589919
+  Warning Low av_data_57	939589920
+  Alarm Low av_data_57	939589921
+  Fatal av_data_58	939589922
+  Warning High av_data_58	939589923
+  Alarm High av_data_58	939589924
+  Warning Low av_data_58	939589925
+  Alarm Low av_data_58	939589926
+  Fatal av_data_59	939589927
+  Warning High av_data_59	939589928
+  Alarm High av_data_59	939589929
+  Warning Low av_data_59	939589930
+  Alarm Low av_data_59	939589931
+  Fatal av_data_60	939589932
+  Warning High av_data_60	939589933
+  Alarm High av_data_60	939589934
+  Warning Low av_data_60	939589935
+  Alarm Low av_data_60	939589936
+  Fatal av_data_61	939589937
+  Warning High av_data_61	939589938
+  Alarm High av_data_61	939589939
+  Warning Low av_data_61	939589940
+  Alarm Low av_data_61	939589941
+  Fatal av_data_62	939589942
+  Warning High av_data_62	939589943
+  Alarm High av_data_62	939589944
+  Warning Low av_data_62	939589945
+  Alarm Low av_data_62	939589946
+  Fatal av_data_63	939589947
+  Warning High av_data_63	939589948
+  Alarm High av_data_63	939589949
+  Warning Low av_data_63	939589950
+  Alarm Low av_data_63	939589951
+  Fatal av_data_64	939589952
+  Warning High av_data_64	939589953
+  Alarm High av_data_64	939589954
+  Warning Low av_data_64	939589955
+  Alarm Low av_data_64	939589956
+  Fatal av_data_65	939589957
+  Warning High av_data_65	939589958
+  Alarm High av_data_65	939589959
+  Warning Low av_data_65	939589960
+  Alarm Low av_data_65	939589961
+  Fatal av_data_66	939589962
+  Warning High av_data_66	939589963
+  Alarm High av_data_66	939589964
+  Warning Low av_data_66	939589965
+  Alarm Low av_data_66	939589966
+  Fatal av_data_67	939589967
+  Warning High av_data_67	939589968
+  Alarm High av_data_67	939589969
+  Warning Low av_data_67	939589970
+  Alarm Low av_data_67	939589971
+  Fatal av_data_68	939589972
+  Warning High av_data_68	939589973
+  Alarm High av_data_68	939589974
+  Warning Low av_data_68	939589975
+  Alarm Low av_data_68	939589976
+  Fatal av_data_69	939589977
+  Warning High av_data_69	939589978
+  Alarm High av_data_69	939589979
+  Warning Low av_data_69	939589980
+  Alarm Low av_data_69	939589981
+  Fatal av_data_70	939589982
+  Warning High av_data_70	939589983
+  Alarm High av_data_70	939589984
+  Warning Low av_data_70	939589985
+  Alarm Low av_data_70	939589986
+  Fatal av_data_71	939589987
+  Warning High av_data_71	939589988
+  Alarm High av_data_71	939589989
+  Warning Low av_data_71	939589990
+  Alarm Low av_data_71	939589991
+  Fatal av_data_72	939589992
+  Warning High av_data_72	939589993
+  Alarm High av_data_72	939589994
+  Warning Low av_data_72	939589995
+  Alarm Low av_data_72	939589996
+  Fatal av_data_73	939589997
+  Warning High av_data_73	939589998
+  Alarm High av_data_73	939589999
+  Warning Low av_data_73	939590000
+  Alarm Low av_data_73	939590001
+  Fatal av_data_74	939590002
+  Warning High av_data_74	939590003
+  Alarm High av_data_74	939590004
+  Warning Low av_data_74	939590005
+  Alarm Low av_data_74	939590006
+  Fatal av_data_75	939590007
+  Warning High av_data_75	939590008
+  Alarm High av_data_75	939590009
+  Warning Low av_data_75	939590010
+  Alarm Low av_data_75	939590011
+  Fatal av_data_76	939590012
+  Warning High av_data_76	939590013
+  Alarm High av_data_76	939590014
+  Warning Low av_data_76	939590015
+  Alarm Low av_data_76	939590016
+  Fatal av_data_77	939590017
+  Warning High av_data_77	939590018
+  Alarm High av_data_77	939590019
+  Warning Low av_data_77	939590020
+  Alarm Low av_data_77	939590021
+  Fatal av_data_78	939590022
+  Warning High av_data_78	939590023
+  Alarm High av_data_78	939590024
+  Warning Low av_data_78	939590025
+  Alarm Low av_data_78	939590026
+  Fatal av_data_79	939590027
+  Warning High av_data_79	939590028
+  Alarm High av_data_79	939590029
+  Warning Low av_data_79	939590030
+  Alarm Low av_data_79	939590031
+  Fatal av_data_80	939590032
+  Warning High av_data_80	939590033
+  Alarm High av_data_80	939590034
+  Warning Low av_data_80	939590035
+  Alarm Low av_data_80	939590036
+  Fatal av_data_81	939590037
+  Warning High av_data_81	939590038
+  Alarm High av_data_81	939590039
+  Warning Low av_data_81	939590040
+  Alarm Low av_data_81	939590041
+  Fatal av_data_82	939590042
+  Warning High av_data_82	939590043
+  Alarm High av_data_82	939590044
+  Warning Low av_data_82	939590045
+  Alarm Low av_data_82	939590046
+  Fatal av_data_83	939590047
+  Warning High av_data_83	939590048
+  Alarm High av_data_83	939590049
+  Warning Low av_data_83	939590050
+  Alarm Low av_data_83	939590051
+  Fatal av_data_84	939590052
+  Warning High av_data_84	939590053
+  Alarm High av_data_84	939590054
+  Warning Low av_data_84	939590055
+  Alarm Low av_data_84	939590056
+  Fatal av_data_85	939590057
+  Warning High av_data_85	939590058
+  Alarm High av_data_85	939590059
+  Warning Low av_data_85	939590060
+  Alarm Low av_data_85	939590061
+  Fatal av_data_86	939590062
+  Warning High av_data_86	939590063
+  Alarm High av_data_86	939590064
+  Warning Low av_data_86	939590065
+  Alarm Low av_data_86	939590066
+  Fatal av_data_87	939590067
+  Warning High av_data_87	939590068
+  Alarm High av_data_87	939590069
+  Warning Low av_data_87	939590070
+  Alarm Low av_data_87	939590071
+  Fatal av_data_88	939590072
+  Warning High av_data_88	939590073
+  Alarm High av_data_88	939590074
+  Warning Low av_data_88	939590075
+  Alarm Low av_data_88	939590076
+  Fatal av_data_89	939590077
+  Warning High av_data_89	939590078
+  Alarm High av_data_89	939590079
+  Warning Low av_data_89	939590080
+  Alarm Low av_data_89	939590081
+  Fatal av_data_90	939590082
+  Warning High av_data_90	939590083
+  Alarm High av_data_90	939590084
+  Warning Low av_data_90	939590085
+  Alarm Low av_data_90	939590086
+  Fatal av_data_91	939590087
+  Warning High av_data_91	939590088
+  Alarm High av_data_91	939590089
+  Warning Low av_data_91	939590090
+  Alarm Low av_data_91	939590091
+  Fatal av_data_92	939590092
+  Warning High av_data_92	939590093
+  Alarm High av_data_92	939590094
+  Warning Low av_data_92	939590095
+  Alarm Low av_data_92	939590096
+  Fatal av_data_93	939590097
+  Warning High av_data_93	939590098
+  Alarm High av_data_93	939590099
+  Warning Low av_data_93	939590100
+  Alarm Low av_data_93	939590101
+  Fatal av_data_94	939590102
+  Warning High av_data_94	939590103
+  Alarm High av_data_94	939590104
+  Warning Low av_data_94	939590105
+  Alarm Low av_data_94	939590106
+  Fatal av_data_95	939590107
+  Warning High av_data_95	939590108
+  Alarm High av_data_95	939590109
+  Warning Low av_data_95	939590110
+  Alarm Low av_data_95	939590111
+  Fatal av_data_96	939590112
+  Warning High av_data_96	939590113
+  Alarm High av_data_96	939590114
+  Warning Low av_data_96	939590115
+  Alarm Low av_data_96	939590116
+  Fatal av_data_97	939590117
+  Warning High av_data_97	939590118
+  Alarm High av_data_97	939590119
+  Warning Low av_data_97	939590120
+  Alarm Low av_data_97	939590121
+  Fatal av_data_98	939590122
+  Warning High av_data_98	939590123
+  Alarm High av_data_98	939590124
+  Warning Low av_data_98	939590125
+  Alarm Low av_data_98	939590126
+  Fatal av_data_99	939590127
+  Warning High av_data_99	939590128
+  Alarm High av_data_99	939590129
+  Warning Low av_data_99	939590130
+  Alarm Low av_data_99	939590131
+OEM interface Timeout	939655136
+OEM interface Normal	939655137
+Driver interface Timeout	939655138
+Driver interface Normal	939655139

@@ -1,0 +1,43 @@
+OEM Interface Timeout	386007008
+OEM Interface Normal	386007009
+Driver Interface Timeout	386007010
+Driver Interface Normal	386007011
+Load Event	385941504
+High Engine Crankase Pressure	385941505
+High Engine Coolant Temp or Coolant Level Low	385941506
+Loss of Cooling Air	385941508
+Auto Lube System Alarm	385941509
+High Braking Grid Temperature	385941510
+Low Gear Box Pressure	385941511
+Hydraulic Steer Pressure Loss	385941512
+Generator Alarm	385941513
+Motor 1 Armature Alarm	385941514
+Motor Field Alarm	385941515
+Motor 2 Armature Alarm	385941516
+Hydraulic Tank Alarm	385941517
+Motor 3 Armature Alarm	385941518
+Motor 4 Armature Alarm	385941519
+Low Engine Coolant Pressure	385941520
+Engine Air Filter Restriction Alarm	385941521
+Ground Fault Alarm	385941522
+High Hydraulic Oil Temperature	385941532
+Low Hydraulic Oil Level	385941534
+High Engine Coolant Temperature (Switch)	385941535
+Low Fuel Level	385941553
+Low Engine Oil Level	385941554
+Engine Overspeed	385941569
+Low Engine Oil Pressure	385941570
+High Engine Coolant Temperature	385941571
+High Generator Voltage	385941575
+High Field Current	385941576
+High Motor Armature 1 Current	385941577
+High Motor Armature 2 Current	385941578
+High Motor Armature 3 Current	385941579
+High Motor Armature 4 Current	385941580
+High Motor 1 Voltage	385941581
+High Motor 2 Voltage	385941582
+High Motor 3 Voltage	385941583
+High Motor 4 Voltage	385941584
+Low 24 Volt Battery Voltage	385941587
+Engine Overspeed	385941588
+DDEC System Alarm	385941622

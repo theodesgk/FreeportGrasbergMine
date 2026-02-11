@@ -1,0 +1,740 @@
+Oem Interface Timeout	453115872
+Oem Interface Normal	453115873
+Driver Interface Timeout	453115874
+Driver Interface Normal	453115875
+Tcu Battery Is Low - Inactive	453050368
+Tcu Battery Is Low - Active	453050369
+Serial Communiction Link Not Available - Inactive	453050370
+Serial Communiction Link Not Available - Active	453050371
+Inverter 'A' Is In Limp Mode - Inactive	453050372
+Inverter 'A' Is In Limp Mode - Active	453050373
+Inverter 'B' Is In Limp Mode - Inactive	453050374
+Inverter 'B' Is In Limp Mode - Active	453050375
+Propel Inhibit - Brake Drag Or Ladder Down - Inactive	453050376
+Propel Inhibit - Brake Drag Or Ladder Down - Active	453050377
+Autolube System Is Not Functioning - Inactive	453050378
+Autolube System Is Not Functioning - Active	453050379
+Air Temperature In Axle Box Is High - Inactive	453050380
+Air Temperature In Axle Box Is High - Active	453050381
+Axle Box Cooling Air Pressure Fault - Inactive	453050382
+Axle Box Cooling Air Pressure Fault - Active	453050383
+Steering Encoder Output Is Out Of Range - Inactive	453050384
+Steering Encoder Output Is Out Of Range - Active	453050385
+Minor Drive Component Failure - Inactive	453050386
+Minor Drive Component Failure - Active	453050387
+Loss Of Propulsion To Be Expected - Power Demand Too High - Inactive	453050388
+Loss Of Propulsion To Be Expected - Power Demand Too High - Active	453050389
+Grid Blower Supervision. Check Blower And Pressure Switch - Inactive	453050390
+Grid Blower Supervision. Check Blower And Pressure Switch - Active	453050391
+Drive Propel And Retard Failure To Be Expected - Inactive	453050392
+Drive Propel And Retard Failure To Be Expected - Active	453050393
+Drive Component Over-Temperature Warning - Inactive	453050394
+Drive Component Over-Temperature Warning - Active	453050395
+Differential Lube Oil Pressure Fault - Inactive	453050396
+Differential Lube Oil Pressure Fault - Active	453050397
+Reduction Of Propulsion Torque - Temp Limt Reached - Inactive	453050398
+Reduction Of Propulsion Torque - Temp Limt Reached - Active	453050399
+Reduction Of Retard Torque - Temp Limit Reached - Inactive	453050400
+Reduction Of Retard Torque - Temp Limit Reached - Active	453050401
+Reduction Of Propulsion Power - Alternator Over-Temp - Inactive	453050402
+Reduction Of Propulsion Power - Alternator Over-Temp - Active	453050403
+Reduction Of Retard Power - Grid Box Over-Temp - Inactive	453050404
+Reduction Of Retard Power - Grid Box Over-Temp - Active	453050405
+Propel Torque Reduced To Zero - Shift Lever Error - Inactive	453050406
+Propel Torque Reduced To Zero - Shift Lever Error - Active	453050407
+Propel Torque Reduced To Zero - Max Speed Exceeded - Inactive	453050408
+Propel Torque Reduced To Zero - Max Speed Exceeded - Active	453050409
+Engine Fault - Propel Torque Reduced - Inactive	453050410
+Engine Fault - Propel Torque Reduced - Active	453050411
+Temporary Drive Fault (2 Seconds) - Inactive	453050412
+Temporary Drive Fault (2 Seconds) - Active	453050413
+Temporary Drive Fault (15 Seconds) - Inactive	453050414
+Temporary Drive Fault (15 Seconds) - Active	453050415
+"Inverter Fault, Stop Truck And Reset - Inactive"	453050416
+"Inverter Fault, Stop Truck And Reset - Active"	453050417
+Excitation Fault. Stop Truck And Reset - Inactive	453050418
+Excitation Fault. Stop Truck And Reset - Active	453050419
+Both Motor Speed Sensors Are Faulty - Inactive	453050420
+Both Motor Speed Sensors Are Faulty - Active	453050421
+Propel Inhibit Due To Over-Temperature - Inactive	453050422
+Propel Inhibit Due To Over-Temperature - Active	453050423
+Severe Drive Component Failure. Reset For Limp Mode - Inactive	453050424
+Severe Drive Component Failure. Reset For Limp Mode - Active	453050425
+Severe Component Failure. (Disconnect Inv A For Limp) - Inactive	453050426
+Severe Component Failure. (Disconnect Inv A For Limp) - Active	453050427
+Severe Component Failure. (Disconnect Inv B For Limp) - Inactive	453050428
+Severe Component Failure. (Disconnect Inv B For Limp) - Active	453050429
+Retard Inhibit Due To Grid Box Over-Temperature - Inactive	453050430
+Retard Inhibit Due To Grid Box Over-Temperature - Active	453050431
+Inverter Operation Impossible. Service Required - Inactive	453050432
+Inverter Operation Impossible. Service Required - Active	453050433
+Excitation Inhibit Due To Over-Temperature - Inactive	453050434
+Excitation Inhibit Due To Over-Temperature - Active	453050435
+Excitation Inhibit Active - Inactive	453050436
+Excitation Inhibit Active - Active	453050437
+Tcu Overheating. Stop Truck And Shutdown - Inactive	453050438
+Tcu Overheating. Stop Truck And Shutdown - Active	453050439
+Ground Fault Detected - Inactive	453050440
+Ground Fault Detected - Active	453050441
+Drive Shutdown Because Of Ground Fault - Inactive	453050442
+Drive Shutdown Because Of Ground Fault - Active	453050443
+Drive Shutdown Due To Ground Fault. Stop And Reset - Inactive	453050444
+Drive Shutdown Due To Ground Fault. Stop And Reset - Active	453050445
+Engine Cooling Fan Control Fault - Inactive	453050446
+Engine Cooling Fan Control Fault - Active	453050447
+Preheating Active - Inactive	453050448
+Preheating Active - Active	453050449
+Precharging Active - Inactive	453050450
+Precharging Active - Active	453050451
+Drive System Is Shutting Down - Inactive	453050452
+Drive System Is Shutting Down - Active	453050453
+Low Brake Hyd Psi - Inactive	453050454
+Low Brake Hyd Psi - Active	453050455
+Low Steering Hyd Psi - Inactive	453050456
+Low Steering Hyd Psi - Active	453050457
+Steering / Brake Overtemp - Inactive	453050458
+Steering / Brake Overtemp - Active	453050459
+Comm Fault - Inactive	453050460
+Comm Fault - Active	453050461
+Chopper Fault - Inactive	453050462
+Chopper Fault - Active	453050463
+Inverter Fault - Inactive	453050464
+Inverter Fault - Active	453050465
+Handbrake - Inactive	453050466
+Handbrake - Active	453050467
+Motor #1 Cool Air Ovrtemp - Inactive	453050468
+Motor #1 Cool Air Ovrtemp - Active	453050469
+Motor #2 Cool Air Ovrtemp - Inactive	453050470
+Motor #2 Cool Air Ovrtemp - Active	453050471
+Dump Hyd Ovrtemp - Inactive	453050472
+Dump Hyd Ovrtemp - Active	453050473
+Ground Fault Indicator - Inactive	453050474
+Ground Fault Indicator - Active	453050475
+Overspeed(Ecu) - Safety - Inactive	453050476
+Overspeed(Ecu) - Safety - Active	453050477
+Combined Alarm Yellow (Ecu)  - Inactive	453050478
+Combined Alarm Yellow (Ecu)  - Active	453050479
+Combined Alarm Red (Ecu) - Inactive	453050480
+Combined Alarm Red (Ecu) - Active	453050481
+Fuel Pressure (Common Rail) High - Inactive	453050482
+Fuel Pressure (Common Rail) High - Active	453050483
+Al Bin-Aux 1 - Inactive	453050484
+Al Bin-Aux 1 - Active	453050485
+Al Bin-Aux 2 - Inactive	453050486
+Al Bin-Aux 2 - Active	453050487
+Al Bin-Aux 3 - Inactive	453050488
+Al Bin-Aux 3 - Active	453050489
+Al Bin-Aux 4 - Inactive	453050490
+Al Bin-Aux 4 - Active	453050491
+Al Pressure Aux 1 Limit 1 - Inactive	453050492
+Al Pressure Aux 1 Limit 1 - Active	453050493
+Al Pressure Aux 2 Limit 1 - Inactive	453050494
+Al Pressure Aux 2 Limit 1 - Active	453050495
+Al Temp Aux 1 Limit 1 - Inactive	453050496
+Al Temp Aux 1 Limit 1 - Active	453050497
+Al Temp Aux 2 Limit 1 - Inactive	453050498
+Al Temp Aux 2 Limit 1 - Active	453050499
+Al Power Amplifier 1 Failure - Inactive	453050500
+Al Power Amplifier 1 Failure - Active	453050501
+Al Power Amplifier 2 Failure - Inactive	453050502
+Al Power Amplifier 2 Failure - Active	453050503
+Al Status Transistor Outputs - Inactive	453050504
+Al Status Transistor Outputs - Active	453050505
+Al Ecu Defect - Inactive	453050506
+Al Ecu Defect - Active	453050507
+Al Speed Demand Defect - Inactive	453050508
+Al Speed Demand Defect - Active	453050509
+Power Supply Voltage Low - Inactive	453050510
+Power Supply Voltage Low - Active	453050511
+Power Supply Voltage High - Inactive	453050512
+Power Supply Voltage High - Active	453050513
+Coolant Temp High (Ecu) - Inactive	453050514
+Coolant Temp High (Ecu) - Active	453050515
+Coolant Temp High - Safety - Inactive	453050516
+Coolant Temp High - Safety - Active	453050517
+Charge Air Temp High - Inactive	453050518
+Charge Air Temp High - Active	453050519
+Coolant Intercooler Temp High - Inactive	453050520
+Coolant Intercooler Temp High - Active	453050521
+Lube Oil Temp High - Inactive	453050522
+Lube Oil Temp High - Active	453050523
+Lube Oil Temp High - Safety - Inactive	453050524
+Lube Oil Temp High - Safety - Active	453050525
+Charge Air Temp High - Safety - Inactive	453050526
+Charge Air Temp High - Safety - Active	453050527
+Ecu Temp High - Inactive	453050528
+Ecu Temp High - Active	453050529
+Engine Speed Too Low - Inactive	453050530
+Engine Speed Too Low - Active	453050531
+Rail Leakage - Inactive	453050532
+Rail Leakage - Active	453050533
+Al Pressure Aux 1 Limit 2 - Inactive	453050534
+Al Pressure Aux 1 Limit 2 - Active	453050535
+Al Pressure Aux 2 Limit 2 - Inactive	453050536
+Al Pressure Aux 2 Limit 2 - Active	453050537
+Al Automatic Engine Stop - Inactive	453050538
+Al Automatic Engine Stop - Active	453050539
+Water In Fuel Pre-Filter - Inactive	453050540
+Water In Fuel Pre-Filter - Active	453050541
+Al Temp Aux 1 Limit 2 - Inactive	453050542
+Al Temp Aux 1 Limit 2 - Active	453050543
+Al Temp Aux 2 Limit 2 - Inactive	453050544
+Al Temp Aux 2 Limit 2 - Active	453050545
+Operating Volt Low -Safety - Inactive	453050546
+Operating Volt Low -Safety - Active	453050547
+Operating Volt High - Safety - Inactive	453050548
+Operating Volt High - Safety - Active	453050549
+Charge Air Temperature Low - Inactive	453050550
+Charge Air Temperature Low - Active	453050551
+Lube Oil Temp Low - Inactive	453050552
+Lube Oil Temp Low - Active	453050553
+Fuel Temp High - Inactive	453050554
+Fuel Temp High - Active	453050555
+L1 T-Fuel - Inactive	453050630
+L1 T-Fuel - Active	453050631
+L2 T-Fuel - Inactive	453050632
+L2 T-Fuel -Active	453050633
+L1 T-Charge Air - Inactive	453050634
+L1 T-Charge Air - Active	453050635
+L2 T-Charge Air - Inactive	453050636
+L2 T-Charge Air - Active	453050637
+L1 T-Charge Air B - Inactive	453050638
+L1 T-Charge Air B - Active	453050639
+L2 T-Charge Air B - Inactive	453050640
+L2 T-Charge Air B - Active	453050641
+L1 T-Intercooler - Inactive	453050642
+L1 T-Intercooler - Active	453050643
+L2 T-Intercooler - Inactive	453050644
+L2 T-Intercooler - Active	453050645
+L1 P-Charge Air - Inactive	453050646
+L1 P-Charge Air - Active	453050647
+L2 P-Charge Air - Inactive	453050648
+L2 P-Charge Air - Active	453050649
+L1 P-Charge Air B - Inactive	453050650
+L1 P-Charge Air B - Active	453050651
+L2 P-Charge Air B - Inactive	453050652
+L2 P-Charge Air B - Active	453050653
+L1 P-Lube Oil - Inactive	453050654
+L1 P-Lube Oil - Active	453050655
+L2 P-Lube Oil - Inactive	453050656
+L2 P-Lube Oil - Active	453050657
+L1 P-Rail Fuel - Inactive	453050658
+L1 P-Rail Fuel - Active	453050659
+L1 P-Rail Fuel - Inactive	453050660
+L1 P-Rail Fuel - Active	453050661
+L1 T-Exhaust A - Inactive	453050662
+L1 T-Exhaust A - Active	453050663
+L2 T-Exhaust A - Inactive	453050664
+L2 T-Exhaust A - Active	453050665
+L1 T-Exhaust B - Inactive	453050666
+L1 T-Exhaust B - Active	453050667
+L2 T-Exhaust B - Inactive	453050668
+L2 T-Exhaust B - Active	453050669
+L1 Coolant Level - Inactive	453050670
+L1 Coolant Level - Active	453050671
+L2 Coolant Level - Inactive	453050672
+L2 Coolant Level - Active	453050673
+P1 P-Oilfilter Diff. - Inactive	453050674
+P1 P-Oilfilter Diff. - Active	453050675
+P2 P-Oilfilter Diff. - Inactive	453050676
+P2 P-Oilfilter Diff. - Active	453050677
+L1 Level Leakagefuel - Inactive	453050678
+L1 Level Leakagefuel - Active	453050679
+L2 Level Leakagefuel - Inactive	453050680
+L2 Level Leakagefuel - Active	453050681
+Engine Overspeed - Inactive	453050684
+Engine Overspeed - Active	453050685
+Charger1 Overspeed - Inactive	453050686
+Charger1 Overspeed - Active	453050687
+Charger2 Overspeed - Inactive	453050688
+Charger2 Overspeed - Active	453050689
+Spare - Inactive	453050690
+Spare - Active	453050691
+L1 Iue2 - Inactive	453050692
+L1 Iue2 - Active	453050693
+L1 Iue2 - Inactive	453050694
+L1 Iue2 - Active	453050695
+L1 Speed Demand An. - Inactive	453050696
+L1 Speed Demand An. - Active	453050697
+L2 Speed Demand An. - Inactive	453050698
+L2 Speed Demand An. - Active	453050699
+L1 Sp.Dem.Test Bench - Inactive	453050700
+L1 Sp.Dem.Test Bench - Active	453050701
+L2 Sp.Dem.Test Bench - Inactive	453050702
+L2 Sp.Dem.Test Bench - Active	453050703
+L1 Spinout - Inactive	453050704
+L1 Spinout - Active	453050705
+L1 Spinout - Inactive	453050706
+L1 Spinout - Active	453050707
+L1 Analog Load Pulse - Inactive	453050708
+L1 Analog Load Pulse - Active	453050709
+L2 Analog Load Pulse - Inactive	453050710
+L2 Analog Load Pulse - Active	453050711
+L1 Level Intercooler - Inactive	453050712
+L1 Level Intercooler - Active	453050713
+L2 Level Intercooler - Inactive	453050714
+L2 Level Intercooler - Active	453050715
+L1 Be5 - Inactive	453050716
+L1 Be5 - Active	453050717
+L1 Be6 - Inactive	453050718
+L1 Be6 - Active	453050719
+L1 Be7 - Inactive	453050720
+L1 Be7 - Active	453050721
+L1 Be8 - Inactive	453050722
+L1 Be8 - Active	453050723
+L1 Coolant Level Ext - Inactive	453050724
+L1 Coolant Level Ext - Active	453050725
+L1 T-Lube Oil - Inactive	453050726
+L1 T-Lube Oil - Active	453050727
+L2 T-Lube Oil - Inactive	453050728
+L2 T-Lube Oil - Active	453050729
+L1 T-Intake Air - Inactive	453050730
+L1 T-Intake Air - Active	453050731
+L2 T-Intake Air - Inactive	453050732
+L2 T-Intake Air - Active	453050733
+L1 T-Te10 - Inactive	453050734
+L1 T-Te10 - Active	453050735
+L2 T-Te10 - Inactive	453050736
+L2 T-Te10 - Active	453050737
+L1 P-Coolant - Inactive	453050738
+L1 P-Coolant - Active	453050739
+L2 P-Coolant - Inactive	453050740
+L2 P-Coolant - Active	453050741
+L1 P-Intercooler - Inactive	453050742
+L1 P-Intercooler - Active	453050743
+L2 P-Intercooler - Inactive	453050744
+L2 P-Intercooler - Active	453050745
+L1 T-Intake Air - Inactive	453050746
+L1 T-Intake Air - Active	453050747
+L2 T-Intake Air - Inactive	453050748
+L2 T-Intake Air - Active	453050749
+L1 P-Crankcase - Inactive	453050750
+L1 P-Crankcase - Active	453050751
+L2 P-Crankcase - Inactive	453050752
+L2 P-Crankcase - Active	453050753
+L1 P-Fuel - Inactive	453050754
+L1 P-Fuel - Active	453050755
+L2 P-Fuel - Inactive	453050756
+L2 P-Fuel - Active	453050757
+L1 T-Coolant - Inactive	453050758
+L1 T-Coolant - Active	453050759
+L2 T-Coolant - Inactive	453050760
+L2 T-Coolant - Active	453050761
+L1 T-Extern 1 - Inactive	453050762
+L1 T-Extern 1 - Active	453050763
+L2 T-Extern 1 - Inactive	453050764
+L2 T-Extern 1 - Active	453050765
+L1 T-Extern 2 - Inactive	453050766
+L1 T-Extern 2 - Active	453050767
+L2 T-Extern 2 - Inactive	453050768
+L2 T-Extern 2 - Active	453050769
+L1 P-Extern 1 - Inactive	453050770
+L1 P-Extern 1 - Active	453050771
+L2 P-Extern 1 - Inactive	453050772
+L2 P-Extern 1 - Active	453050773
+L1 P-Extern 2 - Inactive	453050774
+L1 P-Extern 2 - Active	453050775
+L2 P-Extern 2 - Inactive	453050776
+L2 P-Extern 2 - Active	453050777
+L Bin-Extern 1 - Inactive	453050778
+L Bin-Extern 1 - Active	453050779
+L Bin-Extern 2 - Inactive	453050780
+L Bin-Extern 2 - Active	453050781
+L Bin-Extern 3 - Inactive	453050782
+L Bin-Extern 3 - Active	453050783
+L Bin-Extern 4 - Inactive	453050784
+L Bin-Extern 4 - Active	453050785
+Rail Leakage - Inactive	453050786
+Rail Leakage - Active	453050787
+Limit Failure - Inactive	453050822
+Limit Failure - Active	453050823
+Edm Not Valid - Inactive	453050824
+Edm Not Valid - Active	453050825
+Idm Not Valid - Inactive	453050826
+Idm Not Valid - Active	453050827
+Illegal Data Eer1 - Inactive	453050828
+Illegal Data Eer1 - Active	453050829
+Illegal Data Eer2 - Inactive	453050830
+Illegal Data Eer2 - Active	453050831
+Op Hours1 Not Valid - Inactive	453050832
+Op Hours1 Not Valid - Active	453050833
+Op Hours2 Not Valid - Inactive	453050834
+Op Hours2 Not Valid - Active	453050835
+Err Rec1 Not Valid - Inactive	453050836
+Err Rec1 Not Valid - Active	453050837
+Err Rec2 Not Valid - Inactive	453050838
+Err Rec2 Not Valid - Active	453050839
+L1 Supply Volt. Low - Inactive	453050860
+L1 Supply Volt. Low - Active	453050861
+L2 Supply Volt. Low - Inactive	453050862
+L2 Supply Volt. Low - Active	453050863
+L1 Supply Volt. High - Inactive	453050864
+L1 Supply Volt. High - Active	453050865
+L2 Supply Volt. High - Inactive	453050866
+L2 Supply Volt. High - Active	453050867
+L1 T-Electronic - Inactive	453050868
+L1 T-Electronic - Active	453050869
+L2 T-Electronic - Inactive	453050870
+L2 T-Electronic - Active	453050871
+Curve-Error - Inactive	453050884
+Curve-Error - Active	453050885
+L1 15V Pos Supply - Inactive	453050890
+L1 15V Pos Supply - Active	453050891
+15V Pos Ecu Defect - Inactive	453050892
+15V Pos Ecu Defect - Active	453050893
+L1 15V Neg Supply - Inactive	453050894
+L1 15V Neg Supply - Active	453050895
+15V Neg Ecu Defect - Inactive	453050896
+15V Neg Ecu Defect - Active	453050897
+L1 5V Buffer Test - Inactive	453050898
+L1 5V Buffer Test - Active	453050899
+Sensor Power Defect - Inactive	453050900
+Sensor Power Defect - Active	453050901
+L1 Te Buffer Test - Inactive	453050902
+L1 Te Buffer Test - Active	453050903
+Te Buf. Ecu Defect - Inactive	453050904
+Te Buf. Ecu Defect - Active	453050905
+L1 Bank1 Test - Inactive	453050906
+L1 Bank1 Test - Active	453050907
+Bank1 Ecu Defect - Inactive	453050908
+Bank1 Ecu Defect - Active	453050909
+L1 Bank2 Test - Inactive	453050910
+L1 Bank2 Test - Active	453050911
+Bank2 Ecu Defect - Inactive	453050912
+Bank2 Ecu Defect - Active	453050913
+15V_Good Ecu Defect - Inactive	453050914
+15V_Good Ecu Defect - Active	453050915
+L1 Ad-Test1 Supply - Inactive	453050916
+L1 Ad-Test1 Supply - Active	453050917
+Ad-Test1 Ecu Defect - Inactive	453050918
+Ad-Test1 Ecu Defect - Active	453050919
+L1 Ad-Test2 Supply - Inactive	453050920
+L1 Ad-Test2 Supply - Active	453050921
+Ad-Test2 Ecu Defect - Inactive	453050922
+Ad-Test2 Ecu Defect - Active	453050923
+L1 Ad-Test3 Supply - Inactive	453050924
+L1 Ad-Test3 Supply - Active	453050925
+Ad-Test3 Ecu Defect - Inactive	453050926
+Ad-Test3 Ecu Defect - Active	453050927
+Spare - Inactive	453050944
+Spare - Active	453050945
+Spare - Inactive	453050946
+Spare - Active	453050947
+Mi Module Fail - Inactive	453050964
+Mi Module Fail - Active	453050965
+Mi Not Active - Inactive	453050966
+Mi Not Active - Active	453050967
+Tbo Expired - Inactive	453050968
+Tbo Expired - Active	453050969
+Module Write Limit - Inactive	453050970
+Module Write Limit - Active	453050971
+Can1 Node Lost - Inactive	453050984
+Can1 Node Lost - Active	453050985
+Can2 Node Lost - Inactive	453050986
+Can2 Node Lost - Active	453050987
+Can No Pu-Data - Inactive	453050990
+Can No Pu-Data - Active	453050991
+Can Pu-Data Ee-Fail - Inactive	453050992
+Can Pu-Data Ee-Fail - Active	453050993
+Can Less Mailboxes - Inactive	453050994
+Can Less Mailboxes - Active	453050995
+Can1 Bus Off - Inactive	453050996
+Can1 Bus Off - Active	453050997
+Can1 Error Passive - Inactive	453050998
+Can1 Error Passive - Active	453050999
+Can2 Bus Off - Inactive	453051000
+Can2 Bus Off - Active	453051001
+Can2 Error Passive - Inactive	453051002
+Can2 Error Passive - Active	453051003
+Sd T-Coolant - Inactive	453051026
+Sd T-Coolant - Active	453051027
+Sd T-Fuel - Inactive	453051028
+Sd T-Fuel - Active	453051029
+Sd T-Charge Air - Inactive	453051030
+Sd T-Charge Air - Active	453051031
+Sd T-Charge Air B - Inactive	453051032
+Sd T-Charge Air B - Active	453051033
+Sd T-Coolant Interc. - Inactive	453051034
+Sd T-Coolant Interc. - Active	453051035
+Sd T-Exhaust A - Inactive	453051036
+Sd T-Exhaust A - Active	453051037
+Sd T-Exhaust B - Inactive	453051038
+Sd T-Exhaust B - Active	453051039
+Sd P-Charge Air - Inactive	453051040
+Sd P-Charge Air - Active	453051041
+Spare - Inactive	453051042
+Spare - Active	453051043
+Sd Iue2 - Inactive	453051044
+Sd Iue2 - Active	453051045
+Sd P-Lube Oil - Inactive	453051046
+Sd P-Lube Oil - Active	453051047
+Sd P-Coolant - Inactive	453051048
+Sd P-Coolant - Active	453051049
+Sd P-Coolant Interc. - Inactive	453051050
+Sd P-Coolant Interc. - Active	453051051
+Sd P-Crankcase - Inactive	453051052
+Sd P-Crankcase - Active	453051053
+Sd P-Rail Fuel - Inactive	453051054
+Sd P-Rail Fuel - Active	453051055
+Sd T-Lube Oil - Inactive	453051056
+Sd T-Lube Oil - Active	453051057
+Sd T-Te10 - Inactive	453051058
+Sd T-Te10 - Active	453051059
+Sd T-Intake Air - Inactive	453051062
+Sd T-Intake Air - Active	453051063
+Sd Coolant Level - Inactive	453051064
+Sd Coolant Level - Active	453051065
+Sd P-Oilfilter Diff. - Inactive	453051066
+Sd P-Oilfilter Diff. - Active	453051067
+Sd Level Leakagefuel - Inactive	453051068
+Sd Level Leakagefuel - Active	453051069
+Sd Level Intercooler - Inactive	453051070
+Sd Level Intercooler - Active	453051071
+Sd Crankshaft Speed - Inactive	453051084
+Sd Crankshaft Speed - Active	453051085
+Sd Camshaft Speed - Inactive	453051086
+Sd Camshaft Speed - Active	453051087
+Sd Charger Speed 1 - Inactive	453051088
+Sd Charger Speed 1 - Active	453051089
+Sd Charger Speed 2 - Inactive	453051090
+Sd Charger Speed 2 - Active	453051091
+Sd Charger Speed 3 - Inactive	453051092
+Sd Charger Speed 3 - Active	453051093
+Sd Charger Speed 4 - Inactive	453051094
+Sd Charger Speed 4 - Active	453051095
+Spare - Inactive	453051096
+Spare - Active	453051097
+Sd P-Fuel - Inactive	453051104
+Sd P-Fuel - Active	453051105
+Spare - Inactive	453051106
+Spare - Active	453051107
+Spare - Inactive	453051108
+Spare - Active	453051109
+Sd Power Supply - Inactive	453051114
+Sd Power Supply - Active	453051115
+Sd T-Electronic - Inactive	453051116
+Sd T-Electronic - Active	453051117
+Sd Can Stop - Inactive	453051122
+Sd Can Stop - Active	453051123
+Sd Can Speed Demand - Inactive	453051124
+Sd Can Speed Demand - Active	453051125
+Sd Can Up/Down - Inactive	453051126
+Sd Can Up/Down - Active	453051127
+Sd Can Notch Pos. - Inactive	453051128
+Sd Can Notch Pos. - Active	453051129
+Sd Can Override - Inactive	453051130
+Sd Can Override - Active	453051131
+Sd Can Test Oversp - Inactive	453051132
+Sd Can Test Oversp - Active	453051133
+Sd Can Engage Signal - Inactive	453051134
+Sd Can Engage Signal - Active	453051135
+Sd Can Cyl. Cutout - Inactive	453051136
+Sd Can Cyl. Cutout - Active	453051137
+Sd Can Local - Inactive	453051138
+Sd Can Local - Active	453051139
+Sd Can Rcs Engage S. - Inactive	453051140
+Sd Can Rcs Engage S. - Active	453051141
+Sd Can Rcs Cyl.Cut. - Inactive	453051142
+Sd Can Rcs Cyl.Cut. - Active	453051143
+Sd 15V Pos Supply - Inactive	453051144
+Sd 15V Pos Supply - Active	453051145
+Sd 15V Neg Supply - Inactive	453051146
+Sd 15V Neg Supply - Active	453051147
+Sd 5V Buffer Test - Inactive	453051148
+Sd 5V Buffer Test - Active	453051149
+Sd Te Buffer Test - Inactive	453051150
+Sd Te Buffer Test - Active	453051151
+Sd Bank 1 Test - Inactive	453051152
+Sd Bank 1 Test - Active	453051153
+Sd Bank 2 Test - Inactive	453051154
+Sd Bank 2 Test - Active	453051155
+Sd Speed Demand An. - Inactive	453051156
+Sd Speed Demand An. - Active	453051157
+Sd Sp.Dem.Test Bench - Inactive	453051158
+Sd Sp.Dem.Test Bench - Active	453051159
+Sd Spinout - Inactive	453051160
+Sd Spinout - Active	453051161
+Sd Load Pulse Analog - Inactive	453051162
+Sd Load Pulse Analog - Active	453051163
+Sd Speed Demand Fi1 - Inactive	453051164
+Sd Speed Demand Fi1 - Active	453051165
+Sd T-Extern 1 - Inactive	453051166
+Sd T-Extern 1 - Active	453051167
+Sd T-Extern 2 - Inactive	453051168
+Sd T-Extern 2 - Active	453051169
+Sd P-Extern 1 - Inactive	453051170
+Sd P-Extern 1 - Active	453051171
+Sd P-Extern 2 - Inactive	453051172
+Sd P-Extern 2 - Active	453051173
+Mis-Data Bin-Ext. 1 - Inactive	453051174
+Mis-Data Bin-Ext. 1 - Active	453051175
+Mis-Data Bin-Ext. 2 - Inactive	453051176
+Mis-Data Bin-Ext. 2 - Active	453051177
+Mis-Data Bin-Ext. 3 - Inactive	453051178
+Mis-Data Bin-Ext. 3 - Active	453051179
+Mis-Data Bin-Ext. 4 - Inactive	453051180
+Mis-Data Bin-Ext. 4 - Active	453051181
+Sd Can Res Trip Fuel - Inactive	453051182
+Sd Can Res Trip Fuel - Active	453051183
+Sd Can Alarm Reset - Inactive	453051184
+Sd Can Alarm Reset - Active	453051185
+Sd Ad-Test1 Supply - Inactive	453051186
+Sd Ad-Test1 Supply - Active	453051187
+Sd Ad-Test2 Supply - Inactive	453051188
+Sd Ad-Test2 Supply - Active	453051189
+Sd Ad-Test3 Supply - Inactive	453051190
+Sd Ad-Test3 Supply - Active	453051191
+Sd Can Lamp Test - Inactive	453051192
+Sd Can Lamp Test - Active	453051193
+Timing Cylinder A1 - Inactive	453051226
+Timing Cylinder A1- Active	453051227
+Timing Cylinder A2 - Inactive	453051228
+Timing Cylinder A2 - Active	453051229
+Timing Cylinder A3 - Inactive	453051230
+Timing Cylinder A3 - Active	453051231
+Timing Cylinder A4 - Inactive	453051232
+Timing Cylinder A4 - Active	453051233
+Timing Cylinder A5 - Inactive	453051234
+Timing Cylinder A5 - Active	453051235
+Timing Cylinder A6 - Inactive	453051236
+Timing Cylinder A6 - Active	453051237
+Timing Cylinder A7 - Inactive	453051238
+Timing Cylinder A7 - Active	453051239
+Timing Cylinder A8 - Inactive	453051240
+Timing Cylinder A8 - Active	453051241
+Timing Cylinder A9 - Inactive	453051242
+Timing Cylinder A9 - Active	453051243
+Timing Cylinder A10 - Inactive	453051244
+Timing Cylinder A10 - Active	453051245
+Timing Cylinder B1 - Inactive	453051246
+Timing Cylinder B1 - Active	453051247
+Timing Cylinder B2 - Inactive	453051248
+Timing Cylinder B2 - Active	453051249
+Timing Cylinder B3 - Inactive	453051250
+Timing Cylinder B3 - Active	453051251
+Timing Cylinder B4 - Inactive	453051252
+Timing Cylinder B4 - Active	453051253
+Timing Cylinder B5 - Inactive	453051254
+Timing Cylinder B5 - Active	453051255
+Timing Cylinder B6 - Inactive	453051256
+Timing Cylinder B6 - Active	453051257
+Timing Cylinder B7 - Inactive	453051258
+Timing Cylinder B7 - Active	453051259
+Timing Cylinder B8 - Inactive	453051260
+Timing Cylinder B8 - Active	453051261
+Timing Cylinder B9 - Inactive	453051262
+Timing Cylinder B9 - Active	453051263
+Timing Cylinder B10 - Inactive	453051264
+Timing Cylinder B10 - Active	453051265
+Wiring Cylinder A1 - Inactive	453051266
+Wiring Cylinder A1 - Active	453051267
+Wiring Cylinder A2 - Inactive	453051268
+Wiring Cylinder A2 - Active	453051269
+Wiring Cylinder A3 - Inactive	453051270
+Wiring Cylinder A3 - Active	453051271
+Wiring Cylinder A4 - Inactive	453051272
+Wiring Cylinder A4 - Active	453051273
+Wiring Cylinder A5 - Inactive	453051274
+Wiring Cylinder A5 - Active	453051275
+Wiring Cylinder A6 - Inactive	453051276
+Wiring Cylinder A6 - Active	453051277
+Wiring Cylinder A7 - Inactive	453051278
+Wiring Cylinder A7 - Active	453051279
+Wiring Cylinder A8 - Inactive	453051280
+Wiring Cylinder A8 - Active	453051281
+Wiring Cylinder A9 - Inactive	453051282
+Wiring Cylinder A9 - Active	453051283
+Wiring Cylinder A10 - Inactive	453051284
+Wiring Cylinder A10 - Active	453051285
+Wiring Cylinder B1 - Inactive	453051286
+Wiring Cylinder B1 - Active	453051287
+Wiring Cylinder B2 - Inactive	453051288
+Wiring Cylinder B2 - Active	453051289
+Wiring Cylinder B3 - Inactive	453051290
+Wiring Cylinder B3 - Active	453051291
+Wiring Cylinder B4 - Inactive	453051292
+Wiring Cylinder B4 - Active	453051293
+Wiring Cylinder B5 - Inactive	453051294
+Wiring Cylinder B5 - Active	453051295
+Wiring Cylinder B6 - Inactive	453051296
+Wiring Cylinder B6 - Active	453051297
+Wiring Cylinder B7 - Inactive	453051298
+Wiring Cylinder B7 - Active	453051299
+Wiring Cylinder B8 - Inactive	453051300
+Wiring Cylinder B8 - Active	453051301
+Wiring Cylinder B9 - Inactive	453051302
+Wiring Cylinder B9 - Active	453051303
+Wiring Cylinder B10 - Inactive	453051304
+Wiring Cylinder B10 - Active	453051305
+Open_Load Cyl. A1 - Inactive	453051306
+Open_Load Cyl. A1 - Active	453051307
+Open_Load Cyl. A2 - Inactive	453051308
+Open_Load Cyl. A2 - Active	453051309
+Open_Load Cyl. A3 - Inactive	453051310
+Open_Load Cyl. A3 - Active	453051311
+Open_Load Cyl. A4 - Inactive	453051312
+Open_Load Cyl. A4 - Active	453051313
+Open_Load Cyl. A5 - Inactive	453051314
+Open_Load Cyl. A5 - Active	453051315
+Open_Load Cyl. A6 - Inactive	453051316
+Open_Load Cyl. A6 - Active	453051317
+Open_Load Cyl. A7 - Inactive	453051318
+Open_Load Cyl. A7 - Active	453051319
+Open_Load Cyl. A8 - Inactive	453051320
+Open_Load Cyl. A8 - Active	453051321
+Open_Load Cyl. A9 - Inactive	453051322
+Open_Load Cyl. A9 - Active	453051323
+Open_Load Cyl. A10 - Inactive	453051324
+Open_Load Cyl. A10 - Active	453051325
+Open_Load Cyl. B1 - Inactive	453051326
+Open_Load Cyl. B1 - Active	453051327
+Open_Load Cyl. B2 - Inactive	453051328
+Open_Load Cyl. B2 - Active	453051329
+Open_Load Cyl. B3 - Inactive	453051330
+Open_Load Cyl. B3 - Active	453051331
+Open_Load Cyl. B4 - Inactive	453051332
+Open_Load Cyl. B4 - Active	453051333
+Open_Load Cyl. B5 - Inactive	453051334
+Open_Load Cyl. B5 - Active	453051335
+Open_Load Cyl. B6 - Inactive	453051336
+Open_Load Cyl. B6 - Active	453051337
+Open_Load Cyl. B7 - Inactive	453051338
+Open_Load Cyl. B7 - Active	453051339
+Open_Load Cyl. B8 - Inactive	453051340
+Open_Load Cyl. B8 - Active	453051341
+Open_Load Cyl. B9 - Inactive	453051342
+Open_Load Cyl. B9 - Active	453051343
+Open_Load Cyl. B10 - Inactive	453051344
+Open_Load Cyl. B10 - Active	453051345
+Power Stage Fail 1 - Inactive	453051346
+Power Stage Fail 1 - Active	453051347
+Power Stage Fail 2 - Inactive	453051348
+Power Stage Fail 2 - Active	453051349
+Stop Power Stage 1 - Inactive	453051350
+Stop Power Stage 1 - Active	453051351
+Stop Power Stage 2 - Inactive	453051352
+Stop Power Stage 2 - Active	453051353
+Stop Mv-Wiring - Inactive	453051354
+Stop Mv-Wiring - Active	453051355
+Tran.Out1 Engine Def - Inactive	453051366
+Tran.Out1 Engine Def - Active	453051367
+Tran.Out2 Engine Def - Inactive	453051368
+Tran.Out2 Engine Def - Active	453051369
+Tran.Out3 Engine Def - Inactive	453051370
+Tran.Out3 Engine Def - Active	453051371
+Tran.Out4 Engine Def - Inactive	453051372
+Tran.Out4 Engine Def - Active	453051373
+Tran.Out1 Plant Def - Inactive	453051386
+Tran.Out1 Plant Def - Active	453051387
+Tran.Out2 Plant Def - Inactive	453051388
+Tran.Out2 Plant Def - Active	453051389
+Tran.Out3 Plant Def - Inactive	453051390
+Tran.Out3 Plant Def - Active	453051391
+Tran.Out4 Plant Def - Inactive	453051392
+Tran.Out4 Plant Def - Active	453051393
+Tran.Out5 Plant Def - Inactive	453051394
+Tran.Out5 Plant Def - Active	453051395
+Tran.Out6 Plant Def - Inactive	453051396
+Tran.Out6 Plant Def - Active	453051397
+L2 T-Single Exhaust - Inactive	453051406
+L2 T-Single Exhaust - Active	453051407

@@ -1,0 +1,1340 @@
+..
+.. DISPATCH Form
+.. Copyright (c) Modular Mining Systems, 1982-1994
+..               All Rights Reserved
+..  $RCSfile: fmt.prv.russian,v $
+.. $Revision: 1.79 $
+..   $Author: gsousa $
+..     $Date: 2020/03/30 18:48:21 $
+..    $State: Exp $
+..      Form: fmt.prv
+..
+..
+..The following strings are likely candidates for changing for
+..a particular client:
+..
+..Dispatcher   Tire         Gallons      Shovel
+..Spare        Tiedown      MMC          Tons
+..
+$ CONFIG FMT_0000 "Нажмите нужную клавишу для продолжения (напр. 'n' для вывода названия FRM-файла данного окна)"
+... "GOLD"???
+
+$ CONFIG FMT_0001 "ДА"
+... "YES"
+
+$ CONFIG FMT_0002 "НЕТ"
+... "NO"
+
+$ CONFIG FMT_0003 "НЕТ"
+... "NONE"
+
+$ CONFIG FMT_0004 "CMD> "
+... "CMD> "
+
+$ CONFIG FMT_0005 "Неизвестно"
+... "Unknown"
+
+$ CONFIG FMT_0008 "Форма"
+... "Form"
+
+$ CONFIG FMT_0009 ""
+
+$ CONFIG FMT_0010 "Невозможно открыть файл %a"
+... "Can't Open %a Form File"
+
+$ CONFIG FMT_0011 "Комбинация клавиш %s не определена"
+... "GOLD Key %s is not defined"???
+
+$ CONFIG FMT_0012 "Комбинация клавиш %s не определена"
+... "Key %s is not defined"
+
+$ CONFIG FMT_0013 "Справка по данным отсутствует"
+... "There is no HELP for this data"
+
+$ CONFIG FMT_0014 "Введены недопустимые данные"
+... "Invalid input data"
+
+$ CONFIG FMT_0015 "Допускаются только целые числа"
+... "Integer Required"
+
+$ CONFIG FMT_0016 "Числовое значение должно находиться в диапазоне от %d до %d"
+... "Number must be between %d and %d"
+
+$ CONFIG FMT_0017 "Допускаются только вещественные числа"
+... "Real Number Required"
+
+$ CONFIG FMT_0018 "Вещественное число должно находиться в диапазоне от %0.1f до %0.1f"
+... "Number must be between %0.1f and %0.1f"
+
+$ CONFIG FMT_0019 "Вы не можете изменить это значение"
+... "You cannot change this value"
+
+$ CONFIG FMT_0020 "Допускается только число или символ"
+... "Number or Symbol Required"
+
+$ CONFIG FMT_0021 "Слишком много символов"
+... "Too Many Characters"
+
+$ CONFIG FMT_0022 "Допускается 'Да' или 'Нет'"
+... "Yes or No Required"
+
+$ CONFIG FMT_0023 "Неизвестная комбинация клавиш"
+... "Unknown KEY sequence"
+
+$ CONFIG FMT_0024 "(Д/Н) "
+... "(Y/N) "???
+
+$ CONFIG FMT_0025 "Для продолжения нажмите пробел..."
+... "Press space bar to continue..."
+
+$ CONFIG FMT_0026 "Существуют %s:\n\n"
+... "   Existing %ss:\n\n"
+
+$ CONFIG FMT_0027 "%s не существуют"
+... "No %ss Exist"
+
+$ CONFIG FMT_0028 "Запуск %a не разрешен"
+... "You are not allowed to execute %a"
+
+$ CONFIG FMT_0029 "Для запуска программ 'Диспетчера' вы должны иметь привилегии группы GROUP"
+... "You must have GROUP privilege to run DISPATCH Utilities"
+
+$ CONFIG FMT_0030 "^[#6^[[0;1;5;7m             !Работает!              "
+... "^[#6^[[0;1;5;7m               !Working!                "
+
+$ CONFIG FMT_0031 "Невозможно вывести на печать на %a"
+... "Cannot write to PRINTER %a"
+
+$ CONFIG FMT_0032 "%d строк выведено на %a"
+... "%d lines printed to %a"
+
+$ CONFIG FMT_0033 "%a %a"
+
+$ CONFIG FMT_0034 "Задание #%d выводится на печать на %a"
+... "Job #%d printing on %a"
+
+$ CONFIG FMT_0036 "Конец формы!"
+... "Bottom of Form!"
+
+$ CONFIG FMT_0037 "Идет запись..."
+... "Remembering..."
+
+$ CONFIG FMT_0038 "Запись невозможна, слишком много символов!"
+... "Too Many Chars to Remember!"
+
+$ CONFIG FMT_0039 "Для записи нажмите клавишу"
+... "Press Key to Remember"
+
+$ CONFIG FMT_0040 "Для отмены записи нажмите клавишу"
+... "Press Key to Forget"
+
+$ CONFIG FMT_0041 "Запись отменена"
+... "Remember Canceled"
+
+$ CONFIG FMT_0042 "Не найдено"
+... "Can't Find It"
+
+$ CONFIG FMT_0043 "Определение комбинации клавиш удалено"
+... "Key Definition Forgotten"
+
+$ CONFIG FMT_0044 "Определение комбинации клавиш не записано"
+... "This Key is NOT Remembered"
+
+$ CONFIG FMT_0045 "Вкл."
+... "ON"
+
+$ CONFIG FMT_0046 "Выкл."
+... "OFF"
+
+$ CONFIG FMT_0047 "%{CLOCK.0} -- Система отчетов 'Диспетчера' -- %{CLOCK}\n\n"
+... "%{CLOCK.0} -- MMS DISPATCH Report System -- %{CLOCK}\n\n"
+
+$ CONFIG FMT_0048 "Всего"
+... "Subtotal"
+
+$ CONFIG FMT_0049 "---Дальше---"
+... "---More---"
+
+$ CONFIG FMT_0050 "%s не существует, создать? "
+... "%s does not exist, Create? "
+
+$ CONFIG FMT_0051 "Переименовать %s на %s? "
+... "Rename %s to %s? "
+
+$ CONFIG FMT_0052 "Номер %d уже закреплен за %s, переопределить? "
+... "Panel ID %d already assigned to %s, Reassign? "
+
+$ CONFIG FMT_0053 "Введите %s для %s: "
+... "Enter %s for %s: "
+
+$ CONFIG FMT_0054 "%s не существует"
+... "%s Does Not Exist"
+
+$ CONFIG FMT_0055 "%s удален"
+... "%s Deleted"???
+
+$ CONFIG FMT_0056 "Введите идентификационный номер %s: "
+... "Enter %s ID: "
+
+$ CONFIG FMT_0057 "В настоящий момент %s находится в %s, переместить? "
+... "%s is currently located at %s, Move? "
+
+$ CONFIG FMT_0058 "Без огранич."
+... "No Limit"
+
+$ CONFIG FMT_0059 "Нет нормы"
+... "No Target"
+
+$ CONFIG FMT_0060 "Рабочий %s не существует"
+... "Worker %s Does Not Exist"
+
+$ CONFIG FMT_0061 "OMSns не удалось изменить идентификатор панели, Переназначение только в базе данных? "
+... "OMSns failed to change panel ID, Reassign in database only? "
+
+$ CONFIG FMT_0062 "Рабочий %s не обладает должной квалификацией, прикрепить?"
+... "Worker %s is NOT Properly Qualified, Assign? "???
+
+$ CONFIG FMT_0063 "Loc"
+
+$ CONFIG FMT_0064 "В %s отсутствуют рабочие"
+... "No Workers Exist on %s"
+
+$ CONFIG FMT_0065 " В %s имеются рабочие:\n\n"
+... "   Existing Workers on %s:\n\n"
+
+$ CONFIG FMT_0066 "Введите %a: "
+.."Enter %a: "
+
+$ CONFIG FMT_0067 "Назначить рабочего в качестве:"
+.."Assign worker as:"
+
+$ CONFIG FMT_0068 "Введите тип руды: "
+.."Enter Ore Type: "
+
+$ CONFIG FMT_0069 "Введите тип пустой породы: "
+.."Enter Waste Type: "
+
+$ CONFIG FMT_0070 "Введите причину %s: "
+.."Enter %s Reason: "
+
+$ CONFIG FMT_0071 "Введите номер радиомаяка: "
+.."Enter Signpost ID: "
+
+$ CONFIG FMT_0072 "Введите код действия %s: "
+.."Enter %s Action Code: "
+
+$ CONFIG FMT_0073 "Введите номер рабочего: "
+.."Enter Worker ID: "
+
+$ CONFIG FMT_0074 "Переназначить %s сейчас? "
+.."Should DISPATCH reassign %s right now? "
+
+$ CONFIG FMT_0075 "Действие %s сгенерировано для %s"
+.."%s ACTION Generated for %s"
+
+$ CONFIG FMT_0076 "%s не является местом пересмены"
+.."%s is not a tiedown location"
+
+$ CONFIG FMT_0077 "Неверный месяц"
+.."Invalid Month"
+
+$ CONFIG FMT_0078 "Пауза %s имеет недопустимый перекрытие!"
+.."Break %s has unallowed overlap!"
+
+$ CONFIG FMT_0079 "Неверная смена"
+.."Invalid Shift"
+
+$ CONFIG FMT_0080 "Введите начальный объект: "
+.."Enter Starting Location: "
+
+$ CONFIG FMT_0081 "Не может быть указана дата после %02d-%s-%02d %s"
+.."Date CANNOT be after %02d-%s-%02d %s"
+
+$ CONFIG FMT_0082 "Невозможно открыть %s"
+.."Can't Open %s"
+
+$ CONFIG FMT_0083 "Неверный год"
+.."Invalid year"
+
+$ CONFIG FMT_0085 "Неверное количество часов"
+.."Invalid Hours"
+
+$ CONFIG FMT_0086 "Неверное количество минут"
+.."Invalid Minutes"
+
+$ CONFIG FMT_0087 "Неверное количество секунд"
+.."Invalid Seconds"
+
+$ CONFIG FMT_0088 "Пути, рассчитанные для объекта %d и маршрутов %d"
+.."Paths computed for %d Location/%d Roads"
+
+$ CONFIG FMT_0089 "Маршрута из %s в %s не существует, создать? "
+.."Road from %s to %s does not exist, Create? "
+
+$ CONFIG FMT_0090 "Маршрут из %s в %s удален"
+.."Road from %s to %s deleted"
+
+$ CONFIG FMT_0091 "Для %s маршрутов не определено"
+.."No roads are defined for %s"
+
+$ CONFIG FMT_0092 "%d единиц транспорта откреплено от землеройных машин"
+.."%d Trucks UNLOCKED from Shovels"
+
+$ CONFIG FMT_0093 "%d единиц транспорта откреплено от мест разгрузки"
+.."%d Trucks UNLOCKED from Dumps"
+
+$ CONFIG FMT_0094 "Неверный шаблон даты"
+.."Invalid date keyword"
+
+$ CONFIG FMT_0095 "Маршрут из %s в %s открыт, закрыть? "
+.."Route from %s to %s is open, Close? "
+
+$ CONFIG FMT_0096 "Для %s событий не определено"
+.."No events are defined for %s"
+
+$ CONFIG FMT_0097 "Создать новое значение графика %02d-%s-%02d %s? "
+.."Create new plan value on %02d-%s-%02d %s? "???
+
+$ CONFIG FMT_0098 "Время должно быть указано в период между %h и %h"
+.."Time must be between %h and %h"
+
+$ CONFIG FMT_0099 "Все оборудование"
+.."All Equipment"
+
+$ CONFIG FMT_0100 "Все %s"
+.."All %ss"
+
+$ CONFIG FMT_0101 "Создать новое событие для %s в %s? "
+.."Create new event for %s at %s? "
+
+$ CONFIG FMT_0102 "Не разрешены LP-вызовы из базы данных 'Диспетчера'"
+.."You are not allowed to CALL LP in the DISPATCH data base"
+
+$ CONFIG FMT_0103 "'Диспетчер' проведет линейное вычисление во время следующей операции"
+.."DISPATCH will recompute LP at next transaction"
+
+$ CONFIG FMT_0104 "Копирование базы данных с %s"
+.."Copying data base from %s"
+
+$ CONFIG FMT_0105 "^[#6^[[0;1;5;7m   !Идет вычисление путей, подождите!   "
+.."^[#6^[[0;1;5;7m     !Computing PATHS, please WAIT!     "
+
+$ CONFIG FMT_0106 "^G^[#6Не существует маршрутов транспортировки для %s %s"
+.."^G^[#6No haul roads exist for %s %s"
+
+$ CONFIG FMT_0107 "Регион %s в карьере отсутствует!"
+.."Region %s is not yet in a PIT!"
+
+$ CONFIG FMT_0108 "Укажите базу данных для ввода"
+.."Please enter INPUT data base"
+
+$ CONFIG FMT_0109 "***Закрепление %s %s %s за местами разгрузки %s %s игнорируется %s.\n"
+.."***%s %s %s lock to %s %s dump %s ignored.\n"??? last %s
+
+$ CONFIG FMT_0110 "%a #%d перенесено для %a %a\n"
+.."%a #%d carried forward for %a %a\n"???
+
+$ CONFIG FMT_0111 "Перенести статус на %02d-%a-%02d %s? "
+.."Carry status forward to %02d-%a-%02d %s? "
+
+$ CONFIG FMT_0112 "Текущий статус %s изменен на %s #%d"
+.."Current status of %s changed to %s #%d"
+
+$ CONFIG FMT_0113 "Для изменения текущего статуса нельзя использовать STATCHNG"
+.."You cannot use STATCHNG to change current status"???
+
+$ CONFIG FMT_0114 "За %s числится %d загрузок"
+.."%s has %d loads"???
+
+$ CONFIG FMT_0115 "Статус 'готов' добавлен в %h до загрузки и разгрузки"
+.."Ready added at %h before loads or dumps"
+
+$ CONFIG FMT_0116 "Весь транспорт со статусом 'готов' закреплен за зем.машинами"
+.."All READY trucks locked to Shovels"
+$ CONFIG FMT_0117 "%s уже выставлен запрет на %s %s"
+$ CONFIG FMT_0118 "%s уже привязан к на %s %s"
+
+$ CONFIG FMT_0120 "^[#6^[[0;1;5;7mСоставление отчета за %d-%s-%02d %.1s"
+.."^[#6^[[0;1;5;7mComputing Report for %d-%s-%02d %.1s"
+
+$ CONFIG FMT_0121 "Землеройная машина %s находится на неизвестном объекте!"
+.."Shovel %s is at UNKNOWN location!"???
+
+$ CONFIG FMT_0122 "Для %a необходимо указать сорт породы"
+.."Grade required for %a"
+
+$ CONFIG FMT_0125 "Рабочий %s уже назначен, переназначить? "
+.."Worker %s is already assigned, Reassign? "
+
+$ CONFIG FMT_0126 "Работник %s %s посещаемости нет, назначить в любом случае?"
+$ CONFIG FMT_0127 "%s находится в состоянии %s, назначить в любом случае?"
+$ CONFIG FMT_0128 "%s %s работает сверхурочно"
+$ CONFIG FMT_0129 "Работник %s прикреплен к %s но у региона %s прикрепление к %s. Назначит его? "
+$ CONFIG FMT_0130 "Нет оператора на %s. %s невозможна"
+$ CONFIG FMT_0131 "%s %s р Юужьэу чБзпБКрпщьО. +пвщпГьБЛ р шНячэ АшЦГпу?"
+$ CONFIG FMT_0134 "Запрещено копировать на %s!"
+.."You CANNOT copy to %s!"
+
+$ CONFIG FMT_0135 "Смены, не имеющие текущих отчетов:\n"
+.."Shifts without current summaries:\n"
+
+$ CONFIG FMT_0136 "    %2d-%s-%02d %-10s"
+.."    %2d-%s-%02d %-10s"
+
+$ CONFIG FMT_0137 " до %2d-%s-%02d %-10s"
+.." to %2d-%s-%02d %-10s"???
+
+$ CONFIG FMT_0138 "Отчеты составлены по всем сменам в диапазоне"
+.."All shifts in range summarized"
+
+$ CONFIG FMT_0139 "Необходимо использовать действие ACTION для изменения статуса в базе данных Opns!"
+.."You must use ACTION to change status in Opns Data Base!"???
+
+$ CONFIG FMT_0143 "Не выбран диапазон"
+.."Range is not selected"
+
+$ CONFIG FMT_0146 "Район %s: задействовано %d из %d единиц транспорта"
+.."Region %s: %d out of %d USED avg. Trucks"???
+
+$ CONFIG FMT_0161 "Для %s отсутствуют закрытые маршруты"
+.."No roads are closed for %s"
+
+$ CONFIG FMT_0162 "Дороги из %s в %s не существует"
+.."No road exists from %s to %s"
+
+$ CONFIG FMT_0163 "Дорога"
+.."Road"
+
+$ CONFIG FMT_0165 "Невозможно открыть файл отчета %s."
+.."Cannot open %s Summary Data File."
+
+$ CONFIG FMT_0166 "%s не является допустимым именем для базы данных смен."
+.."%s is not a valid SHIFT data base name."
+
+$ CONFIG FMT_0167 "Невозможно открыть файл с данными смены %s\n"
+.."Cannot open %s Shift Data File\n"
+
+$ CONFIG FMT_0169 "Удалены данные отчета %02d-%s-%02d %s по %s\n"
+.."Deleted %02d-%s-%02d %s Summary Data at %s\n"
+
+$ CONFIG FMT_0171 "%s является текущей базой данных смен, используемой в реальном времени!\n"
+.."%s is the current Real-Time SHIFT DATA BASE!\n"
+
+$ CONFIG FMT_0172 "Пропущены данные смен %s.\n"
+.."Skipping %s Shift Data.\n"
+
+$ CONFIG FMT_0173 "Дата файла смены %s (%02d-%s-%02d %s) изменена на (%02d-%s-%02d %s).\n"
+.."%s shift file date (%02d-%s-%02d %s) changed to (%02d-%s-%02d %s).\n"
+
+$ CONFIG FMT_0174 "Нажмите 'Составить отчет/закрыть' чтобы выйти из %02d-%s-%02d %s.\n"
+.."Please run SUMMARIZE/CLOSE to close out %02d-%s-%02d %s.\n"???
+
+$ CONFIG FMT_0175 "Составляется отчет за %02d-%s-%02d %s в %h\n"
+.."Summarizing %02d-%s-%02d %s at %h\n"
+
+$ CONFIG FMT_0176 "\nСоставление отчета закончено\n"
+.."\nSummarize complete\n"
+
+$ CONFIG FMT_0177 "Составляется отчет за период от %02d-%3.3s-%02d %1.1s до %02d-%3.3s-%02d %1.1s с записью в %s\n"
+.."Summarizing Range from %02d-%3.3s-%02d %1.1s to %02d-%3.3s-%02d %1.1s into %s\n"
+
+$ CONFIG FMT_0179 "Приведение к соответствию %02d-%s-%02d %s:\n"
+.."Reconciling %02d-%s-%02d %s:\n"
+
+$ CONFIG FMT_0182 "!!!Невозможно найти место разгрузки для груза %s/%s транспорта %s.\n"
+.."!!!Can't find dump for %s/%s load of %s.\n"???
+
+$ CONFIG FMT_0183 "Добавлено место разгрузки %s для %s/%s/%s в %h.\n"
+.."Added dump of %s for %s/%s/%s at %h.\n"
+
+$ CONFIG FMT_0184 "Изменено место разгрузки %s в %h на %s/%s/%s/%s/%s.\n"
+.."Changed %s dump at %h to %s/%s/%s/%s/%s.\n"???
+
+$ CONFIG FMT_0185 "Удален %0sdump %s для %s/%s в %h.\n"
+.."Deleted %0sdump of %s for %s/%s at %h.\n"???
+
+$ CONFIG FMT_0186 "Удален %0sload %s для %s/%s в %h.\n"
+.."Deleted %0sload of %s for %s/%s at %h.\n"
+
+$ CONFIG FMT_0187 "Содержание последнего рейса обновлено на %s"
+
+$ CONFIG FMT_0191 "^[#6^[[0;1;5;7mСоставляется отчет для %s %02d %s"
+.."^[#6^[[0;1;5;7mComputing Report for %s %02d %s"
+
+$ CONFIG FMT_0192 "Диапазон для %s должен быть пересчитан\n"
+.."Range for %s should be resummarized\n"
+
+$ CONFIG FMT_0193 "Диапазон для %s от %02d-%3.3s-%02d %1.1s до %02d-%3.3s-%02d %1.1s"
+.."Range for %s from %02d-%3.3s-%02d %1.1s to %02d-%3.3s-%02d %1.1s"
+
+$ CONFIG FMT_0195 "%s является устаревшей базой данных отчетов.\n"\
+                  "Запустите DBCLEAN для конвертирования в V%d.%02d\n"
+.."%s is an old SUMMARY data base.\n"
+.."Please DBCLEAN to convert to V%d.%02d\n"???
+
+$ CONFIG FMT_0196 "Дата окончания предшествует дате начала:\n"\
+                  "%2[   y=%02d m=%d d=%d s=%d\n]"
+.."Ending Date before Starting Date:\n"
+.."%2[   y=%02d m=%d d=%d s=%d\n]"???
+
+$ CONFIG FMT_0197 "Отсутствуют текущие отчеты для смен:\n"
+.."Current summaries not present for shifts:\n"
+
+$ CONFIG FMT_0198 "   %02d-%s-%02d %1.1s"
+
+$ CONFIG FMT_0199 " по %02d-%s-%02d %1.1s\n"
+.." through %02d-%s-%02d %1.1s\n"
+
+$ CONFIG FMT_0200 "Праздник"
+.."Holiday"
+
+$ CONFIG FMT_0201 "\n___Смена___   ____Отчет____\n"
+.."\n___Shift___   ____Summarized____\n"
+
+$ CONFIG FMT_0202 " **** Требует обновления."
+.." **** Not current."
+
+$ CONFIG FMT_0203 "%02d-%s-%02d %1.1s  %s"
+
+$ CONFIG FMT_0204 " %d отчетов требуют обновления.\n"
+.." %d Summaries are not current.\n"
+
+$ CONFIG FMT_0205 " Файл отчета не содержит данных\n"
+.." Summary file is empty\n"
+
+$ CONFIG FMT_0206 "%s в настоящий момент -- %s"
+.."%s is currently %s"
+
+$ CONFIG FMT_0207 "Решение в рамках линейного вычисления отсутствует"
+.."There is no current LP solution"
+
+$ CONFIG FMT_0208 "'Диспетчер' не рекомендует переназначать какой-либо транспорт"
+.."DISPATCH doesn't think any trucks should be reassigned"
+
+$ CONFIG FMT_0209 "Переназначить %s с %s на %{E$ID}? "
+.."Reassign %s from %s to %{E$ID}? "
+
+$ CONFIG FMT_0210 "%s переназначен с %s на %s"
+.."%s assigned from %s to %s"
+
+$ CONFIG FMT_0211 "У %s отсутствует транспорт, все равно высвободить? "
+.."No trucks are at %s, Spare anyway? "
+
+$ CONFIG FMT_0212 "Поменять статус свободного транспорта %s на 'готов'? "
+.."Ready Spare Truck %s? "???
+
+$ CONFIG FMT_0213 "Свободного транспорта у %{E$ID} нет"
+.."No Trucks are Spare at %{E$ID}"
+
+$ CONFIG FMT_0214 "Автоматическое принятие исключений %s"
+.."Auto-Accept of Exceptions turned %s" %s -- включено/выключено -- где???
+
+$ CONFIG FMT_0215 "Зем.машина-%0.1f мин->Место разгрузки"
+.."Shovel-%0.1f min->Dump"
+
+$ CONFIG FMT_0216 "Объект-%0.1f мин->Зем.машина"
+.."Dump-%0.1f min->Shovel"
+
+$ CONFIG FMT_0217 "Выведен(а) из цикла"
+.."DISABLED"
+
+$ CONFIG FMT_0218 "Не используется"
+.."UNUSED"
+
+$ CONFIG FMT_0219 \
+ "Окно #%d:  нажмите 1..%d для выбора окна, Ctrl-R для обновления окна, PF4 для выхода, z для просмотра информации линейного вычисления."
+.."Screen #%d:  Press 1..%d to select screen, Ctrl-R to refresh screen or PF4 to quit, z to toggle LP info."??? z
+
+$ CONFIG FMT_0220 "---Идет линейное вычисление, подождите или выйдите из программы---"
+.."---Computing LP, Please Wait or Exit---"
+
+$ CONFIG FMT_0221 "Обеденный перерыв для %s еще не определен"
+.."Lunch break for %s is not yet defined"
+
+$ CONFIG FMT_0222 "Запреты на обеденный перерыв созданы для всего транспорта"
+.."Lunch break BARS created for all trucks"???
+
+$ CONFIG FMT_0223 "%s не является перерыв пересмены"
+.."%s is not a tiedown break"
+
+$ CONFIG FMT_0224 "%s не является перерывом на обед"
+.."%s is not a lunch break"
+
+$ CONFIG FMT_0225 "Нельзя иметь перерывы во \"%s\", если смены длятся по разному"
+.."Cannot have breaks for '%s' when shifts are not of equal length!"
+
+$ CONFIG FMT_0226 "Параметр распределения"
+.."Blending Parameter"???
+
+$ CONFIG FMT_0227 "Слишком много объектов, удалите неиспользуемые объекты"
+.."Too many LOCATIONS, Please DELETE Unused Locations"
+
+$ CONFIG FMT_0231 "%d запретов для зем.машин удалено"
+.."%d shovel BARS deleted"???
+
+$ CONFIG FMT_0232 "p для смены карьера."
+.."p to change pit."???
+
+$ CONFIG FMT_0233 "Экран %d из %d"
+.."Screen %d of %d"
+
+$ CONFIG FMT_0234 "%s не является основным бункером дробильной машины"
+.."%s is not a Primary Crusher Bay"
+
+$ CONFIG FMT_0240 "!!!Транспорт %{T$ID}, шина %d (шины 1-6): ткм/ч(%f) превышают макс. кол-во ткм/ч(%f)."
+.."!!!%{T$ID} tire %d (tires numbered 1-6) TKPH(%f) exceeds maximum TKPH(%f)."
+
+$ CONFIG FMT_0241 "ID %d уже назначено для %s, переназначить? "
+$ CONFIG FMT_0242 "%s %s НЕ существует!"
+$ CONFIG FMT_0243 "***Ignoring the accepted arrive exception for %{T$ID} as it is no longer valid"
+.."Ignoring the accepted arrive exception for %{T$ID} as it is no longer valid"
+$ CONFIG FMT_0244 "Удаление %s невозможно! Использовано по Местам:%s"
+
+
+
+     DISPATCH GRAPHICS Display Formats from 250 to 299
+
+$ CONFIG FMT_0250 "%s -- недопустимый масштаб."
+.."%s is an Invalid scale."
+
+$ CONFIG FMT_0251 "Указано слишком много графиков -- последний показан не будет."
+.."Too Many Charts Specified -- Last One Not Displayed."
+
+$ CONFIG FMT_0252 "Значение %s не указано."
+.."No %s value specified."
+
+$ CONFIG FMT_0253 "Значение %s ( %0.1f ) должно быть меньше, чем %s ( %0.1f )."
+.."%s ( %0.1f ) must be less than %s ( %0.1f )."
+
+$ CONFIG FMT_0254 "Значение %s должно быть больше, чем %s."
+.."%s value must be greater than %s."
+
+$ CONFIG FMT_0255 "Минимум"
+.."MINIMUM"
+
+$ CONFIG FMT_0256 "Максимум"
+.."MAXIMUM"
+
+$ CONFIG FMT_0257 "Интервал"
+.."INTERVAL"
+
+$ CONFIG FMT_0258 "Диапазон"
+.."RANGE"
+
+$ CONFIG FMT_0259 "%s не кратно %s."
+.."%s is not an even multiple of %s."
+
+$ CONFIG FMT_0260 "1 минута"
+.."1 minute"
+
+$ CONFIG FMT_0261 "%d минут"
+.."%d mins"
+
+$ CONFIG FMT_0262 "Для %5.5h значений не вычислено."
+.."Values not calculated for %5.5h."
+
+$ CONFIG FMT_0263 "TEKTRONIX"
+.."TEKTRONIX"
+
+$ CONFIG FMT_0264 "VT-100"
+.."VT-100"
+
+$ CONFIG FMT_0265 "Материал"
+.."MATERIAL"
+
+$ CONFIG FMT_0266 "Статус"
+.."STATUS"
+
+$ CONFIG FMT_0267 "Маршруты транспортировки"
+.."HAUL ROUTES"
+
+$ CONFIG FMT_0268 "Открыто"
+.."Open"
+
+$ CONFIG FMT_0269 "Закрыто"
+.."Closed"
+
+$ CONFIG FMT_0270 "Одностороннее движение"
+.."One-Way"
+
+$ CONFIG FMT_0271 "Нажмите F8 для выхода"
+.."Press F8 to Quit"
+
+        ---!!!Chart Titles are limited to 20 characters!!!--
+                   12345678901234567890
+$ CONFIG FMT_0292 "LP-дробь"
+.."LP Fraction"
+
+$ CONFIG FMT_0293 "Эфф. шахты"
+.."Mine DISPATCH Eff"???
+
+$ CONFIG FMT_0294 "Эфф. транспорта"
+.."Truck DISPATCH Eff"???
+
+$ CONFIG FMT_0295 "Эфф. зем.машин"
+.."Shovel DISPATCH Eff"???
+
+$ CONFIG FMT_0296 "Эфф. загрузки зем.маш"
+.."Shovel Loading Eff"
+
+$ CONFIG FMT_0297 "Эфф. разгрузки трансп"
+.."Truck Dumping Eff"
+
+$ CONFIG FMT_0298 "Эфф. порожнего хода"
+.."Trk Travl Eff, Empty"
+
+$ CONFIG FMT_0299 "Эфф. хода с грузом"
+.."Trk Travl Eff, Full"
+
+        DISPATCH FORMATS from 300 to 449
+
+$ CONFIG FMT_0300 "%s %s должны перейти в состояние 'готов' из %s"
+.."%s %s should Ready from %s"
+
+$ CONFIG FMT_0301 "До того, как транспорт %s нажал кнопку 'загрузка'"
+.."Before Truck %s pressed Load"
+
+$ CONFIG FMT_0302 "Нет транспорта, нажавшего 'загрузка' при зем. машине %s"
+.."No Trucks have pressed Load at Shovel %s"
+
+$ CONFIG FMT_0303 "Транспорт %s должен закончить загрузку при зем. машине %s"
+.."Truck %s should finish loading at Shovel %s"
+
+$ CONFIG FMT_0304 "Транспорт %s должен %s при %s %s"
+.."Truck %s should %s at %s %s"
+
+$ CONFIG FMT_0305 "Транспорт %s должен нажать %s"
+.."Truck %s should press %s"
+
+$ CONFIG FMT_0306 "###%{T$ID} нажал 'прибыл' на объекте автоматической отметки о прибытии %{T$NEXT}."
+.."###%{T$ID} pressed Arrive at Auto-Arrive location %{T$NEXT}."
+
+$ CONFIG FMT_0307 "---%{T$ID} прибыл в %{T$LOC}."
+.."---%{T$ID} Arrived at %{T$LOC}."
+
+$ CONFIG FMT_0308 "***%{T$ID} переназначен с %{T$LOC} на %{T$NEXT}."
+.."***%{T$ID} assigned from %{T$LOC} to %{T$NEXT}."
+
+$ CONFIG FMT_0309 "---%{T$ID} должен прибыть в %{T$NEXT} через %{T$MINS} минут."
+.."---%{T$ID} should arrive at %{T$NEXT} in %{T$MINS} mins."
+
+$ CONFIG FMT_0310 "---%{T$ID} забыл нажать на кнопку 'прибыл'."
+.."---%{T$ID} forgot to press his ARRIVE button."
+
+$ CONFIG FMT_0311 "!!!Для %{T$ID} ткм/ч(%{T$TMPH}) превышает максимальные ткм/ч(%{T$TMPH.1})."
+.."!!!%{T$ID} TKPH(%{T$TMPH}) exceeds maximum TKPH(%{T$TMPH.1})."
+
+$ CONFIG FMT_0312 "###Прикрепление %{T$ID} к %{T$DLOCK} невозможно."
+.."###%{T$ID} lock to %{T$DLOCK} ignored."
+
+$ CONFIG FMT_0313 "###%{T$ID} переприкреплен к %{T$ELOCK} для пересмены."
+.."###%{T$ID} RELOCKED to %{T$ELOCK} for Tiedown."
+
+$ CONFIG FMT_0314 "###Прикрепление %{T$ID} к %{T$ELOCK} невозможно."
+.."###%{T$ID} lock to %{T$ELOCK} ignored."
+
+$ CONFIG FMT_0316 "!!!Аварийный сигнал %s получен от %{DSP$EQMT}."
+.."!!!%s VSMS alarm received from %{DSP$EQMT}."???
+
+$ CONFIG FMT_0317 "###Аварийный сигнал VSMS %s на %{DSP$EQMT} приведен в норму."
+.."###%s VSMS alarm on %{DSP$EQMT} is now normal."???
+
+$ CONFIG FMT_0319 "---Получены данные аварийного оповещения от %{DSP$EQMT}."
+.."---VSMS data values received from %{DSP$EQMT}."
+
+$ CONFIG FMT_0320 "###Задержка %{T$ID}; причина -- %{T$REASON}."
+.."###%{T$ID} is delayed for reason %{T$REASON}."
+
+$ CONFIG FMT_0321 "###Задержка %{E$ID}; причина -- %{E$REASON}."
+.."###%{E$ID} is delayed for reason %{E$REASON}."
+
+$ CONFIG FMT_0322 "###Задержка %{A$ID}; причина -- %{A$REASON}."
+.."###%{A$ID} is delayed for reason %{A$REASON}."
+
+$ CONFIG FMT_0323 "###%{L$ID} обрабатывает транспорт со скоростью %{L$CAPY} т/ч."
+.."###%{L$ID} is processing trucks at %{L$CAPY} Tons/Hr."
+
+$ CONFIG FMT_0324 "---%{A$ID} вошел в неверный бункер No.%s."
+.."---%{A$ID} entered incorrect Bay #%s."???
+
+$ CONFIG FMT_0326 "!!!Транспортное средство %{T$ID} неисправно; причина -- %{T$REASON}."
+.."!!!Truck %{T$ID} is down for reason %{T$REASON}."
+
+$ CONFIG FMT_0327 "!!!Землеройная машина %{E$ID} неисправна; причина -- %{E$REASON}."
+.."!!!Shovel %{E$ID} is down for reason %{E$REASON}."
+
+$ CONFIG FMT_0329 "###%{T$ID} должен нажать на кнопку 'прикрепить' у зем.машины %s для прикрепления."
+.."###%{T$ID} MUST press ASSIGN at Shovel %s to get assignment."???
+
+$ CONFIG FMT_0330 "###%{T$ID} частично загружен материалом %{T$LOAD} в %{T$LOC}."
+.."###%{T$ID} partially loaded with %{T$LOAD} at %{T$LOC}."
+
+$ CONFIG FMT_0331 "!!!%{A$ID} неисправен; причина -- %{A$REASON}."
+.."!!!%{A$ID} is down for reason %{A$REASON}."
+
+$ CONFIG FMT_0332 "!!!%{T$ID} свободен; причина -- %{T$REASON}."
+.."!!!%{T$ID} is spare for reason %{T$REASON}."
+
+$ CONFIG FMT_0333 "!!!%{E$ID} свободен; причина -- %{E$REASON}."
+.."!!!%{E$ID} is spare for reason %{E$REASON}."
+
+$ CONFIG FMT_0334 "!!!%{A$ID} свободен; причина -- %{A$REASON}."
+.."!!!%{A$ID} is spare for reason %{A$REASON}."
+
+$ CONFIG FMT_0335 "Был ли %s уже загружен %s? "
+.."Was %s already loaded by %s? "???
+
+$ CONFIG FMT_0336 "---%{T$ID} осуществляет разгрузку в %{T$LOC}."
+.."---%{T$ID} is dumping at %{T$LOC}."
+
+$ CONFIG FMT_0337 "###%{T$ID} готов после %s в %{T$LOC}."
+.."###%{T$ID} is ready after %s at %{T$LOC}."
+
+$ CONFIG FMT_0338 "###%{E$ID} готов после %s в %{E$LOC}."
+.."###%{E$ID} is ready after %s at %{E$LOC}."
+
+$ CONFIG FMT_0339 "###%{A$ID} готов после %s в %{A$LOC}."
+.."###%{A$ID} is ready after %s at %{A$LOC}."
+
+$ CONFIG FMT_0340 "Последовательность затяжки инициированный."
+.."Retorque sequence initiated."
+
+$ CONFIG FMT_0341 "Последовательность затяжки игнорируются."
+.."Retorque sequence ignored."
+
+$ CONFIG FMT_0343 "###%{DSP$ACTION} %{DSP$CODE} получено от %{A$ID}."
+.."###%{DSP$ACTION} %{DSP$CODE} received from %{A$ID}."
+
+$ CONFIG FMT_0344 "###Для %{T$ID} запланирован перерыв %s."
+.."###%{T$ID} scheduled for %s break."
+
+$ CONFIG FMT_0345 "Следует ли направить %{T$ID} на затяжку колес? "
+.."Should %{T$ID} be sent for RETORQUE? "???
+
+$ CONFIG FMT_0346 "***%{T$ID} отбыл из %{T$LOC.0}."
+.."***%{T$ID} departed from %{T$LOC.0}."
+
+$ CONFIG FMT_0347 "***Предыдущий груз для %{T$ID} в %s не удален."
+.."***Previous load for %{T$ID} at %s NOT DELETED."
+
+$ CONFIG FMT_0348 "***Предыдущий груз для %{T$ID} в %s удален."
+.."***Previous load for %{T$ID} at %s DELETED."
+
+$ CONFIG FMT_0349 "###%{T$ID} прикреплен к %{T$NEXT} %{T$REASNBY}."
+.."###%{T$ID} assigned to %{T$NEXT} by Dispatcher."
+
+$ CONFIG FMT_0350 "***Идет линейное вычисление, подождите."
+.."***Computing LP, Please Wait."
+
+$ CONFIG FMT_0351 "###%{DSP$EQMT} заправлен в объеме %{DSP$CODE} %s."
+.."###%{DSP$EQMT} is fueled with %{DSP$CODE} Gallons."
+
+$ CONFIG FMT_0352 "!!!%{DSP$EQMT} попытался выйти из системы.\n"\
+		  "   В настоящий момент никто не зарегистрирован в %{DSP$EQMT}."
+.."!!!%{DSP$EQMT} tried to LOG OFF.\n"
+.."   Nobody is currently logged in on %{DSP$EQMT}."
+
+$ CONFIG FMT_0353 "***Рабочий %s %{W$NAME}(%{W$ID}) вышел из системы %{DSP$EQMT}."
+.."***%s worker %{W$NAME}(%{W$ID}) LOGGED OFF of %{DSP$EQMT}."
+
+$ CONFIG FMT_0354 "***Рабочий %s %{W$NAME}(%{W$ID}) вошел в систему %{DSP$EQMT}."
+.."***%s worker %{W$NAME}(%{W$ID}) LOGGED IN on %{DSP$EQMT}."
+
+$ CONFIG FMT_0355 "Транспорт %{T$ID} был загружен машиной %{T$EXCAV} %0.1f минут назад. Удалить этот груз? "
+.."%{T$ID} was loaded by %{T$EXCAV} %0.1f mins ago, DELETE this load? "
+
+$ CONFIG FMT_0356 "###%{DSP$EQMT} заполнен жидкостью (%s, %d %s)."
+.."###%{DSP$EQMT} is filled with fluid (%s, %d %s)."
+
+$ CONFIG FMT_0357 "###Устройство %{DSP$EQMT} не зарегистрировало прибытие."
+.."###Missed ARRIVE by %{DSP$EQMT}."???
+
+$ CONFIG FMT_0358 "---%{T$ID} загружается в %{E$ID}: %{T$ID} простаивает %0.1f мин."
+.."---%{T$ID} loading at %{E$ID}: %{T$ID} idle %0.1f mins."
+
+$ CONFIG FMT_0359 "---%{T$ID} загружается в %{E$ID}: %{E$ID} простаивает %0.1f mins."
+.."---%{T$ID} loading at %{E$ID}: %{E$ID} idle %0.1f mins."
+
+$ CONFIG FMT_0360 "---%{E$ID} должен загрузить %{T$ID} за %0.1f мин."
+.."---%{E$ID} should load %{T$ID} in %0.1f mins."
+
+$ CONFIG FMT_0361 "---%{E$ID} загрузил %{T$ID} материалом %{E$LOAD}(%{E$GRADE})."
+.."---%{E$ID} loaded %{T$ID} with %{E$LOAD}(%{E$GRADE})."
+
+$ CONFIG FMT_0362 "---%{E$ID} загрузил %{T$ID} материалом %{E$LOAD}."
+.."---%{E$ID} loaded %{T$ID} with %{E$LOAD}."
+
+$ CONFIG FMT_0363 "!!!У %{T$ID} осталось только %d %s топлива."
+.."!!!%{T$ID} only has %d Gallons of fuel left."
+
+$ CONFIG FMT_0364 "!!!%s работник %{W$NAME}(%{W$ID}) попытался зарегистрироваться на %{DSP$EQMT}\n"\
+                  "   Работник уже зарегистрирован на этой технике."
+
+$ CONFIG FMT_0365 "###%{DSP$EQMT} не имеет диспетчерского пульта."
+.."###%{DSP$EQMT} does not have a DISPATCH panel."
+
+$ CONFIG FMT_0366 "###Сообщение: статус %{DSP$COMMENT} изменен на 'готов/задержка' %{DSP$UNIT}."
+.."###Message: %{DSP$COMMENT} sent to READY/DELAY %{DSP$UNIT}s."
+
+$ CONFIG FMT_0367 "###Сообщение '%{DSP$COMMENT}' направлено %{DSP$EQMT}."
+.."###Message '%{DSP$COMMENT}' sent to %{DSP$EQMT}."
+
+$ CONFIG FMT_0368 "###Команда '%{DSP$COMMENT}' направлена %{DSP$EQMT}."
+.."###Command '%{DSP$COMMENT}' sent to %{DSP$EQMT}."
+
+$ CONFIG FMT_0369 "###%{DSP$EQMT} запрашивает обслуживание на объекте %{DSP$LOC1}."
+.."###%{DSP$EQMT} requests service at %{DSP$LOC2}."
+
+$ CONFIG FMT_0370 "---У %s закончилась смесь для"
+.."---%s out of blend for"???
+
+$ CONFIG FMT_0371 "!!!Файл '%s' с командами пульта отсутствует."
+.."!!!There is no Panel Command File named '%s'."
+
+$ CONFIG FMT_0372 "!!!На порту %a не найден бортовой компьютер, проверьте соединение."
+.."!!!Blue-Box is not found on port %a, check connections."???
+
+$ CONFIG FMT_0373 "###Весь транспорт в состоянии 'готов' закреплен за землеройными машинами."
+.."###All Ready Trucks are LOCKED to Shovels."
+
+$ CONFIG FMT_0374 "###Диспетчер изменил топливо, оставшееся в %{DSP$EQMT}, на %d %s."
+.."###Dispatcher changed the fuel left in %{DSP$EQMT} to %d Gallons."
+
+$ CONFIG FMT_0375 "###Диспетчер изменил время обслуживания для %{DSP$EQMT} на %d часов."
+.."###Dispatcher changed the maintenance time for %{DSP$EQMT} to %d hours."
+
+$ CONFIG FMT_0376 "###%{DSP$EQMT} включено в %{DSP$LOC1}."
+.."###%{DSP$EQMT} POWER UP at %{DSP$LOC2}."
+
+$ CONFIG FMT_0377 "###%{DSP$EQMT} %{DSP$BUTTON} отклонено диспетчером."
+.."###%{DSP$EQMT} %{DSP$BUTTON} rejected by Dispatcher."
+
+$ CONFIG FMT_0378 "---%{DSP$EQMT} прибыл на радиомаяк %{DSP$LOC}."
+.."---%{DSP$EQMT} arrive at SIGNPOST %{DSP$LOC}."
+
+$ CONFIG FMT_0379 "***%{T$ID} прибыл на радиомаяк %{DSP$LOC}."
+.."***%{T$ID} arrive at SIGNPOST %{DSP$LOC}."
+
+$ CONFIG FMT_0380 "   %{T$STATUS} %{T$ID} переместился из %{T$LOC} в %{DSP$LOC}.\n"
+.."   %{T$STATUS} %{T$ID} MOVED from %{T$LOC} to %{DSP$LOC}.\n"
+
+$ CONFIG FMT_0381 "---%{T$ID} прибыл на радиомаяк %{T$NEXT}."
+.."---%{T$ID} arrive at SIGNPOST %{T$NEXT}."
+
+$ CONFIG FMT_0382 "***%{T$ID} переназначен с %{DSP$LOC} на %{T$NEXT}."
+.."***%{T$ID} reassigned from %{DSP$LOC} to %{T$NEXT}."
+
+$ CONFIG FMT_0383 "   %{T$ID} должен нажать кнопку 'назначить' на %{T$LOC}.\n"
+.."   %{T$ID} should press ASSIGN at %{T$LOC}.\n"???
+
+$ CONFIG FMT_0384 "!!!%{T$ID} обнаружен на неверном объекте %{DSP$LOC}."
+.."!!!%{T$ID} detected at WRONG location %{DSP$LOC}."
+
+$ CONFIG FMT_0385 "###%{T$ID} не должен прибывать на объект %{DSP$LOC}."
+.."###%{T$ID} not expected to arrive at %{DSP$LOC}."
+
+$ CONFIG FMT_0386 "---%{T$ID} пропустил GPS-сигнал %s(ID #%d)"
+.."---%{T$ID} missed Call Point %s(ID #%d)"???
+
+$ CONFIG FMT_0387 "***%{T$ID}(%{T$GRADE}) переназначен с %{DSP$LOC} на %{T$NEXT}."
+.."***%{T$ID}(%{T$GRADE}) reassigned from %{DSP$LOC} to %{T$NEXT}."
+
+$ CONFIG FMT_0388 "---%{DSP$EQMT} прибыл на радиомаяк %s."
+.."---%{DSP$EQMT} arrive at SIGNPOST %s."
+
+$ CONFIG FMT_0389 "###%{E$ID} опаздывает на %0.1f минут на %s-%{DSP$ACTNEXT} в %{DSP$LOC2}."
+.."###%{E$ID} is %0.1f mins LATE for %s-%{DSP$ACTNEXT} at %{DSP$LOC2}."
+
+$ CONFIG FMT_0390 "###%{DSP$EQMT} опаздывает на %0.1f минут на %{DSP$ACTNEXT} в %{DSP$LOC2}."
+.."###%{DSP$EQMT} is %0.1f mins LATE for %{DSP$ACTNEXT} at %{DSP$LOC2}."
+
+$ CONFIG FMT_0391 "###%{DSP$EQMT} по-прежнему находится в состоянии '%{DSP$STATUS}' в %{DSP$LOC1} после %0.1f минут."
+.."###%{DSP$EQMT} is still on %{DSP$STATUS} at %{DSP$LOC2} after %0.1f mins."
+
+$ CONFIG FMT_0392 "---Принято.\n"
+.."---Accepted.\n"
+
+$ CONFIG FMT_0393 "---Отклонено.\n"
+.."---Ignored.\n"
+
+$ CONFIG FMT_0394 "###%{DSP$EQMT} задал действие '%{DSP$ACTION}' в праздничный день."
+.."###%{DSP$EQMT} pressed %{DSP$ACTION} on a holiday."???
+
+$ CONFIG FMT_0396 "***Моделирование закончено."
+.."***Simulation Complete."
+
+$ CONFIG FMT_0397 "!!!%{DSP$EQMT} задал действие '%{DSP$ACTION}' до загрузки во время 'холодной перезагрузки' системы."
+.."!!!%{DSP$EQMT} pressed %{DSP$ACTION} before Load during COLDSTART."???
+
+$ CONFIG FMT_0398 "!!!Вы подсоединены к текущей базе данных операций карьера.\n"
+.."!!!You're linked to the current OPERATIONS PIT DATA BASE.\n"
+
+$ CONFIG FMT_0399 "!!!Вы подсоединены к текущей базе данных смен.\n"
+.."!!!You're linked to the current OPERATIONS SHIFT DATA BASE.\n"
+
+$ CONFIG FMT_0400 "###Следующая смена -- выходной!"
+.."###Smile, next shift is a day OFF!"
+
+$ CONFIG FMT_0401 "###Сегодня -- выходной, приятного отдыха."
+.."###Today is a day OFF, have a good day."
+
+$ CONFIG FMT_0402 "***Идет загрузка смены, подождите."
+.."***Performing SHIFT STARTUP, please WAIT."
+
+$ CONFIG FMT_0403 "###В конце смены транспорт не должен прибывать к месту пересмены."
+.."###Trucks will not be assigned to Tiedown at end of shift."???
+
+$ CONFIG FMT_0404 "***%{T$ID} прикреплен к %{T$ELOCK} для холодной перезагрузки."
+.."***%{T$ID} locked to %{T$ELOCK} for COLDSTART."
+
+
+.. For van logic:
+
+$ CONFIG FMT_0405 "Удалите %s из %s"
+.."Remove %s from %s"
+
+$ CONFIG FMT_0406 "Назначьте %s для %s"
+.."Assign %s to %s"
+
+$ CONFIG FMT_0407 "RPC %s (%d) от неизвестного адреса '%s'"
+
+.. FMTs needed for tramming loader logic
+
+$ CONFIG FMT_0409 "###Прикрепление %{E$ID} к %{E$DLOCK} невозможно."
+.."###%{E$ID} lock to %{E$DLOCK} ignored."
+
+$ CONFIG FMT_0410 "###Прикрепление %{E$ID} к %{E$DIGLOCK} невозможно."
+.."###%{E$ID} lock to %{E$DIGLOCK} ignored."
+
+$ CONFIG FMT_0411 "***%{E$ID} прикреплен с %{E$LOC} к %{E$NEXT}."
+.."***%{E$ID} assigned from %{E$LOC} to %{E$NEXT}."
+
+$ CONFIG FMT_0412 "---%{E$ID} загружен материалом %{E$LOAD}(%{E$GRADE})."
+.."---%{E$ID} loaded %{E$LOAD}(%{E$GRADE})."
+
+$ CONFIG FMT_0413 "---%{E$ID} загрузил %{E$LOAD}."
+.."---%{E$ID} loaded %{E$LOAD}."
+
+$ CONFIG FMT_0414 "###%{E$ID} нажал кнопку 'прибыл' на объекте %{E$NEXT}."
+.."###%{E$ID} pressed ARRIVE at AUTO-ARRIVE location %{E$NEXT}."
+
+$ CONFIG FMT_0415 "---%{DSP$EQMT} прибыл на объект %{E$LOC}."
+.."---%{DSP$EQMT} arrived at %{E$LOC}."
+
+$ CONFIG FMT_0416 "---%{E$ID} должен прибыть на объект %{E$NEXT} через %{E$MINS} мин."
+.."---%{E$ID} should arrive at %{E$NEXT} in %{E$MINS} mins."
+
+$ CONFIG FMT_0417 "---%{E$ID} должен завершить загрузку через %0.1f мин."
+.."---%{E$ID} should load in %0.1f mins."
+
+$ CONFIG FMT_0418 "---%{E$ID} прибыл на радиомаяк (или GPS-маяк) %{E$NEXT}."
+.."---%{E$ID} arrived at SIGNPOST(or TAG) %{E$NEXT}."???
+
+$ CONFIG FMT_0419 "###Предыдущий груз для %{E$ID} не был удален."
+.."###Previous load for %{E$ID} was NOT DELETED."
+
+$ CONFIG FMT_0420 "###Предыдущий груз для %{E$ID} был удален."
+.."###Previous load for %{E$ID} was DELETED."
+
+$ CONFIG FMT_0421 "%{E$ID} был загружен %0.1f мин назад, удалить данный груз?"
+.."%{E$ID} loaded %0.1f mins ago, Delete this load?"
+
+$ CONFIG FMT_0422 "---%{E$ID} загружается на объекте %{E$LOC}."
+.."---%{E$ID} loading at %{E$LOC}."
+
+$ CONFIG FMT_0423 "###%{E$ID} прикреплен к %{E$NEXT} %{E$REASNBY}."
+.."###%{E$ID} assigned to %{E$NEXT} by Dispatcher."
+
+$ CONFIG FMT_0424 "   %{E$STATUS} %{E$ID} переместился из %{E$LOC} в %{DSP$LOC}.\n"
+.."   %{E$STATUS} %{E$ID} moved from %{E$LOC} to %{DSP$LOC}.\n"
+
+$ CONFIG FMT_0425 "***%{E$ID} выехал с %{E$LOC.0}."
+.."***%{E$ID} departed from %{E$LOC.0}."
+$ CONFIG FMT_0426 "%s %s был загружен %0.1f мин назад, удалить данный груз?"
+
+$ CONFIG FMT_0440 "###%s откреплен от конечного пункта %s, перемещен в %s."
+.."###%s assigned off endpoint %s, relocated to %s."???
+
+$ CONFIG FMT_0441 "Также установить параметр T$FREEARRIVE в 'нет'?"
+.."Also set T$FREEARRIVE to NO?"
+
+$ CONFIG FMT_0442 "Также установить параметр E$FREEARRIVE в 'нет'?"
+.."Also set E$FREEARRIVE to NO?"
+
+$ CONFIG FMT_0443 "!!!%{E$ID} имеет только %d %s топлива."
+
+$ CONFIG FMT_0444 "Нельзя назначит Экскаватор %s"
+
+.. for API logic:
+$ CONFIG FMT_0445 "###%{T$ID} assigned to %{T$NEXT} by API."
+
+.. for Mayday logic:
+$ CONFIG FMT_0448 "!!! {0} задейства сигнал за помощ до целия обект.\n   %s"
+$ CONFIG FMT_0449 "!!! {0} отказа сигнала за помощ до целия обект.\n   %s"
+
+.. FMTs needed for latest LPROUTE updates
+
+$ CONFIG FMT_0450 "%s: %d из %d тонн"
+.."%s: %d out of %d Tons"
+
+$ CONFIG FMT_0451 "%s: транспорт: %d, LP-покрытие: %d%%"
+.."%s: Actual trucks: %d, LP Cov.: %d%%"???
+
+
+..FMT's for lppit.c. Translation not necessary. If FMT is 
+..not found for this particular set of FMTs, the
+..code issues an english non FMT based printform statment.
+
+$ CONFIG FMT_0452 "!!!Слишком много LP-ограничений в требованиях к транспорту.\n"
+.."!!!Too many LP constraints at truck requirements.\n"
+
+$ CONFIG FMT_0453 "!!!Слишком много LP-ограничений в параметрах пропорциональной загрузки.\n"
+.."!!!Too many LP constraints at proportional feed.\n"
+
+$ CONFIG FMT_0454 "Неопределенный параметр непрерывности %d %d\n"
+.."Undefined contin %d %d\n"???
+
+$ CONFIG FMT_0455 "!!!Слишком много LP-ограничений при распределении по категориям.\n"
+.."!!!Too many LP constraints at category blending.\n"???
+
+$ CONFIG FMT_0456 "!!!Слишком много LP-ограничений при распределении по компонентам.\n"
+.."!!!Too many LP constraints at component blending.\n"???
+
+$ CONFIG FMT_0457 "!!!Слишком много текущих сортов руды для рудного распределения в ходе LP-оптимизации.\n" 
+.."!!!Too many active grades for batch blending in LP optimization.\n"???
+
+$ CONFIG FMT_0458 "!!!Неизвестный параметр, либо не определен объект для руды %s в рудной смеси %s.\n"
+.."!!!Unknown or no block defined for grade %s in batch blend %s.\n"???
+
+$ CONFIG FMT_0459 "!!!Расчетное время поездки -- 30 мин из объекта в %s\n"
+.."!!!Assuming travel time of 30 minutes from block to %s\n"???
+
+$ CONFIG FMT_0460 "!!!Неизвестный параметр, либо зем.машина не определена для породы %s в рудной смеси %s.\n"
+.."!!!Unknown or no shovel defined for grade %s in batch blend %s.\n"
+
+$ CONFIG FMT_0461 "!!!Расчетное время загрузки -- 12 мин.\n"
+.."!!!Assuming spot-adjusted load time of 12 minutes\n"
+
+$ CONFIG FMT_0462 "!!!Порода %s для %s не определена в смеси %s.\n"
+.."!!!Grade %s for %s not defined in blend %s.\n"
+
+$ CONFIG FMT_0463 "!!!Слишком много текущих сортов породы для рудного распределения в ходе LP-оптимизации.\n"
+.."!!!Too many active grades for batch blending in LP optimization.\n"
+
+$ CONFIG FMT_0464 "!!!Слишком много LP-ограничений в ходе рудного распределения.\n"
+.."!!!Too many LP constraints at batch blending.\n"
+
+$ CONFIG FMT_0465 "!!!Слишком много путей для LP-модуля.\n" 
+.."!!!Too many paths for LP module.\n"
+
+$ CONFIG FMT_0466 "!!!Слишком много ограничений для LP-модуля.\n"
+.."!!!Too many constraints for LP module.\n"
+
+$ CONFIG FMT_0467 "!!!Неверный тип LP-ограничения.\n"
+.."!!!Bad LP constraint type.\n"
+
+$ CONFIG FMT_0468 "!!!Невозможно завершить LP-оптимизацию.\n"
+.."!!!Cannot solve LP optimization.\n"
+
+$ CONFIG FMT_0469 "   Неверное ограничение непрерывности No. %d\n" 
+.."   Bad continuity constraint No. %d\n"???
+
+$ CONFIG FMT_0470 "   Неверное ограничение нормы загрузки %a\n"
+.."   Bad %a feedrate constraint\n"
+
+$ CONFIG FMT_0471 "   Неверное ограничение параметров транспортировки\n"
+.."   Bad truck haulage constraint\n"
+
+$ CONFIG FMT_0472 "   Неверное ограничение параметров пропорциональной загрузки\n"
+.."   Bad proportional feed constraint\n"
+
+$ CONFIG FMT_0473 "   Неверное ограничение параметров распределения\n"
+.."   Bad blending constraint\n"
+
+$ CONFIG FMT_0474 "   Неверное ограничение параметров распределения %a\n"
+.."   Bad %a blending constraint\n"
+
+$ CONFIG FMT_0475 "!!!Бесконечный LP-маршрут.\n"
+.."!!!LP route solution is infinite.\n"
+
+$ CONFIG FMT_0476 "!!!Транспорт %s имеет неизвестный тип %d.\n"
+.."!!!Truck %s has UNKNOWN LPTRUCK type %d.\n"
+
+$ CONFIG FMT_0477 "!!!В карьере %s нет свободного транспорта.\n"
+.."!!!No available trucks exist in Pit %s.\n"
+
+$ CONFIG FMT_0478 "!!!Таблица LPTRUCK больше %d.\n"
+.."!!!LPTRUCK table is greater than %d.\n"???
+
+$ CONFIG FMT_0479 "!!!Зам.машина %s имеет неизвестный тип %d.\n"
+.."!!!Shovel %s has UNKNOWN LPEXCAV type %d.\n"???
+
+$ CONFIG FMT_0480 "***Оптимальный транспорт для %a имеет размер транспорта 0.0.\n"
+.."***Best truck for %a has truck size 0.0.\n"
+
+$ CONFIG FMT_0481 "***Проверьте таблицу LPTRUCKSIZE. По умолчанию принимается 150.0.\n"
+.."***Check LPTRUCKSIZE table. Assuming 150.0.\n"
+
+$ CONFIG FMT_0482 "***%a %a находится в неизвестном %a.\n"
+.."***%a %a is in an UNKNOWN %a.\n"
+
+$ CONFIG FMT_0483 "!!!Информация %a отсутствует для %a %a, по умолчанию принимается ноль.\n"
+.."!!!No %a information exists for %a %a, ZERO assumed.\n"
+
+$ CONFIG FMT_0484 "!!!Готовые %a отсутствуют.\n"
+.."!!!No ready %as exist.\n"???
+
+$ CONFIG FMT_0485 "***%a %a находится в неизвестном %a.\n"
+.."***%a %a is in an UNKNOWN %a.\n"
+
+$ CONFIG FMT_0486 "!!!Готовые места разгрузки отсутствуют.\n"
+.."!!!No ready dumps exist.\n"
+
+$ CONFIG FMT_0487 "!!!Отсутствуют открытые маршруты транспортировки, либо\n","   Отсутствует приемлемое время поездки из %a на %a в %a.\n"
+.."!!!No OPEN haul routes exist OR\n","   No reasonable travel time exists from %a at %a to %a.\n"???
+
+$ CONFIG FMT_0488 "!!!Отсутствуют открытые маршруты транспортировки, либо\n","   Отсутствует приемлемое время поездки из %a в %a.\n"
+.."!!!No OPEN haul routes exist OR\n","   No reasonable travel time exists from %a to %a.\n"
+
+$ CONFIG FMT_0489 "!!!Отсутствуют открытые маршруты транспортировки, либо\n","   Отсутствует приемлемое время поездки из %a в %a на %a.\n",
+.."!!!No OPEN haul routes exist OR\n","   No reasonable travel time exists from %a to %a at %a.\n"
+
+$ CONFIG FMT_0490 "!!!Отсутствуют приемлемые пути к местам разгрузки %a для %a.\n"
+.."!!!No feasible paths to %a dumps exist for %a.\n"
+
+$ CONFIG FMT_0491 "!!!Контрольная масса %a слишком мала, увеличьте как минимум до %0.1f\n"
+.."!!!%a Control Mass is too SMALL, Increase to AT LEAST %0.1f\n"
+
+$ CONFIG FMT_0492 "!!!Более чем %d готовых землеройных машин и мест разгрузки.\n"
+.."!!!More than %d ready shovels and dumps.\n"
+
+$ CONFIG FMT_0493 "!!!Слишком много %a и мест разгрузки для LP-оптимизации.\n"
+.."!!!Too many %as and dumps for LP optimization.\n"
+
+$ CONFIG FMT_0494 "   Переведите в состояние 'не готов' неиспользуемые места разгрузки, либо выведите %a из мест выемки.\n"
+.."   Please DOWN unused dumps or take %a out of splits.\n"???
+
+$ CONFIG FMT_0495 "   Неверное ограничение %a на скорость выемки горной массы\n"
+.."   Bad %a digging rate constraint\n"???
+
+$ CONFIG FMT_0496 "!!!Неправильные пропорции рудной смеси. Проверьте параметры расределения.\n"
+.."!!!Batch blend unable to meet objective amount.  Please revise blend.\n"
+
+$ CONFIG FMT_0497 "!!!Контрольная масса %a слишком мала, Увеличиваем до %0.1f\n"
+.."!!!%a Control Mass is too SMALL, Increasing to %0.1f\n"
+
+$ CONFIG FMT_0500 "!!!LP производительность %d%%: %d маршрутов (%d%%), %d узлов (%d%%; %d экскаваторов, %d мест разгрузки)\n"
+.. "!!!LP capacity %d%%: %d paths (%d%%), %d nodes (%d%%; %d shovels, %d dumps)\n"
+$ CONFIG FMT_0501 "!!!LP расчеты заняли %d секунд\n"
+.. "!!!LP calculation took %d seconds\n"
+
+$ CONFIG FMT_0502 "Поиск рабочих, которые не вышли из системы..."
+
+$ CONFIG FMT_0600 "Файл данного окна: "
+.."This form is"
+
+$ CONFIG FMT_0601 "Введите название файла окна: "
+.."Enter FORM file: "
+$ CONFIG FMT_0602 "%d линии печатаются в файл %"
+$ CONFIG FMT_0603 "Слишком много символов в комментарии файла."
+$ CONFIG FMT_0604 "Нет комментариев для %s"
+$ CONFIG FMT_0605 "%s не встречается в текущей конфигурации базы данных"
+$ CONFIG FMT_0606 "Начиная код инициализации ..."
+$ CONFIG FMT_0607 "Инициализация завершена."
+$ CONFIG FMT_0608 "Подключение к Сервису службы сообщений..."
+$ CONFIG FMT_0609 "ASK: Неизвестная таблица ENUM '%a'"
+$ CONFIG FMT_0610 " Нет FSTAT файла %a "
+$ CONFIG FMT_0611 " FSTAT запрос \"%a\" не поддерживается "
+$ CONFIG FMT_0612 "true_to_mine: Неизвестные преобразования '%a'"
+$ CONFIG FMT_0613 "mine_to_true: Неизвестные преобразования '%a'"
+$ CONFIG FMT_0614 "sa_globetomap: Широта %.6f вне табличного диапазона"
+$ CONFIG FMT_0615 "sa_maptoglobe:  Карта координат %.1f вне табличного диапазона"
+$ CONFIG FMT_0616 "MAPCONFIG: Плохой замер %f, не может установить константы"
+$ CONFIG FMT_0617 "MAPCONFIG: Неизвестный тип `%a', не может установить константы"
+$ CONFIG FMT_0618 "GLOBETOMAP: картографическая проекция не указана"
+$ CONFIG FMT_0619 "MAPTOGLOBE: картографическая проекция не указана"
+$ CONFIG FMT_0620 "Нет регулярного выражения"
+$ CONFIG FMT_0621 "%s %s работает сверхурочно"
+$ CONFIG FMT_0622 "PIT$OPEN: Подключение к сервису DBIO ..."
+$ CONFIG FMT_0623 "RPC %s (%d) игнорируются"
+$ CONFIG FMT_0624 "Подключение к сетевому серверу '%s'"
+$ CONFIG FMT_0625 "Не удалось подключиться к '%s' - повтор в фоновом режиме"
+$ CONFIG FMT_0626 "Команда '%.16a' не удалось: %s (%d)"
+$ CONFIG FMT_0627 "Команда '%.16a' не понятна - см PSW$INPUT"
+$ CONFIG FMT_0628 "Не удалось разрешить IP-адрес для '%s'"
+$ CONFIG FMT_0629 "PSW$XMIT: Передача файлов завершена"
+$ CONFIG FMT_0630 "Подключение к устройству '%s'"
+$ CONFIG FMT_0631 "PSW$XMIT: PSW$CONSOLE консоль не активна"
+$ CONFIG FMT_0632 "PSW$XMIT: Предыдущая передача отменяется"
+$ CONFIG FMT_0633 "PSW$XMIT: Не удается открыть '%s'"
+$ CONFIG FMT_0634 "DISPATCH будет пересчитать пути :"
+$ CONFIG FMT_0635 "Выражение (%a) не определено"
+$ CONFIG FMT_0636 "***%s работник %s(%s) был ОТПИСАН для %s."
+$ CONFIG FMT_0637 "!!!%s имеет %s из-за ОТПИСКИ."
+$ CONFIG FMT_0638 "%{T$ID} имеет предварительно назначенный номер %{T$GETPREASN}.  УДАЛИТЬ ПРЕДВАРИТЕЛЬНОЕ НАЗНАЧЕНИЕ?"
+$ CONFIG FMT_0639 "%{E$ID} имеет предварительно назначенный номер %{E$GETPREASN}.  УДАЛИТЬ ПРЕДВАРИТЕЛЬНОЕ НАЗНАЧЕНИЕ?"
+$ CONFIG FMT_0640 "%{T$ID} имеет предварительно назначенный номер %{T$GETPREASN}.  Вы хотите изменить к %s %s?"
+$ CONFIG FMT_0641 "%{E$ID} имеет предварительно назначенный номер %{E$GETPREASN}.  Вы хотите изменить к %s %s?"
+$ CONFIG FMT_0642 "Комментарий не поддерживается в первой записи статуса участка"
+$ CONFIG FMT_0702 "###%{T$ID} был переназначен на Шиномонтаж методом прямого назначения"
+$ CONFIG FMT_0900 "Вы не прошли тест! Вы в состоянии управлять техникой?" 
+.."You failed test,are you fit to drive?"
+$ CONFIG FMT_0901 "Ждите дальнейших инструкций на отвале\\n или на экскаваторе"
+.."Wait either at shovel or dump\\n for supervisor instruction"
+$ CONFIG FMT_0902 "Остановите машину\\n и ждите дальнейших инструкций"
+.."Stop safely and wait\\n for supervisor instruction"
+$ CONFIG FMT_0905 "TщрущБпЮщпО чъьАЛ"
+$ CONFIG FMT_0906 "---Новый инвентарь % s создан!"
+.."Truck with duplicate ID %s already exists."
+$ CONFIG FMT_0910 "Уже есть грузовик с идентификатором %s."
+.."Shovel with duplicate ID %s already exists."
+$ CONFIG FMT_0911 "Уже есть экскаватор с идентификатором %s."
+.."Aux Eqmt with duplicate ID %s already exists."
+$ CONFIG FMT_0912 "Уже есть доп. Оборудование с идентификатором %s."
+$ CONFIG FMT_0913 "###%{T$ID} получил назначение к его предыдущему\n###назначению в Отвал %{T$DUMPASN}."
+$ CONFIG FMT_0914 "###предыдущее назначение в Отвал %{T$DUMPASN} было проигнорировано."
+$ CONFIG FMT_0915 "###%{T$ID} получил назначение от оптимизации."
+$ CONFIG FMT_0916 "###%{T$DUMPASN}: статус изменился."
+$ CONFIG FMT_0917 "###%{T$DUMPASN} больше не принимает %{T$LOAD}."
+$ CONFIG FMT_0918 "OMS сервис не выполняется. Продолжить?"
+$ CONFIG FMT_0919 "Обновление идентификатора панели прекращено пользователем в результате сбоя psw_setaddr()."
+$ CONFIG FMT_0920 "!!!Дубликат записи статус %{DSP$EQMT} нашли, перекрывая"
+$ CONFIG FMT_0921 "Открывается база данных смен, подождите немного:"
+.. WARNING - Do Not Create FMT messages greater than 999. They will not work
+.. due to the fact that MAXCONFIGFMT is set to 1000 in c code and
+.. dsp/cli/include/config.H
+..
+.. Fatal ERROR Messages for NextGen DISPATCH 6.x
+.. Note: The user will also get the FMT number as a reference for getting
+.. more information about the error.
+$ CONFIG FMT_9000 "Неизвестный отказ"
+$ CONFIG FMT_9001 "Системный сбой в %s-%s: %s"
+$ CONFIG FMT_9002 "Из памяти"
+$ CONFIG FMT_9003 "Не удается найти нужный файл: %s"
+$ CONFIG FMT_9004 "Не удается открыть нужный файл: %s"
+$ CONFIG FMT_9005 "Не удается прочитать из файла: %s"
+$ CONFIG FMT_9006 "Не удается записать в файл: %s"
+$ CONFIG FMT_9007 "Не удается открыть нужную базу данных: %s"
+$ CONFIG FMT_9008 "Не удается прочитать из базы данных: %s"
+$ CONFIG FMT_9009 "Не удается записать в базу данных: %s"
+$ CONFIG FMT_9010 "Не удается подключиться к Dispatch(тм) службой (OMS)"
+$ CONFIG FMT_9011 "Не удается подключиться к Dispatch(тм) службе сообщений
+$ CONFIG FMT_9012 "Неверный аргумент командной строки: %s"
+$ CONFIG FMT_9013 "Не удалось найти '%s' в client.dll"
+$ CONFIG FMT_9014 "Не удалось решить локальное имя хоста и IP-адрес: %s"
+$ CONFIG FMT_9015 "Отказано в доступе '%s' - Проверьте привилегии"
+$ CONFIG FMT_9016 "Ошибка конфигурации - %s"
+$ CONFIG FMT_9017 "Сервисное соединение не удалось - '%s'"
+$ CONFIG FMT_9018 "Необходимые символы forms '%s' не определены"
+$ CONFIG FMT_9019 "Системное исключение"
+$ CONFIG FMT_9020 "!!!DISPATCH Режим обслуживания истекает через  %s.\\nContact Свяжитесь с представителем Модулар чтобы предотвратить возможные ошибки."
+$ CONFIG FMT_9021 "%s Создано"
+$ CONFIG FMT_9022 "!!!%{DSP$EQMT} имеет Чрезвычайную ситуацию."
+$ CONFIG FMT_9023 "Переход на летнее время выполнен."
+$ CONFIG FMT_9024 "Переход с летнего времени выполнен."
+..
+$ CONFIG FMT_9025 "Недопустимое время начала смены."
+$ CONFIG FMT_9026 "Время для смены недействительно."
+$ CONFIG FMT_9027 "Не удается декодировать введенное значение времени."
+$ CONFIG FMT_9028 "Время должно быть указано в период между %s и %s"
+..

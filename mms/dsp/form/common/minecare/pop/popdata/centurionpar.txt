@@ -1,0 +1,15 @@
+771817473	Dipper Load	0	0	18
+771817474	Time In Dig Prep Mode	0	0	29
+771817475	Time In Dig Mode	0	0	29
+771817476	Time In Swing Mode	0	0	29
+771817477	Time In Swing Wait	0	0	29
+771817478	Time In Wait Mode	0	0	29
+771817479	Time In Dump Mode	0	0	29
+771817480	Time In Return Mode	0	0	29
+771817481	Time In Propel Mode	0	0	29
+771817482	Time In Shutdown Mode	0	0	29
+771817483	Time For Complete Cycle	0	0	29
+771817484	Angle At Breakout	359	-359	4
+771817485	Swing Angle	0	0	4
+771817486	Target Payload	0	0	18
+771817487	Last Propel Duration	0	0	29

@@ -1,0 +1,22 @@
+=======================
+
+Enter 3 or more points which determine a plane. These points should approximate
+the geo-undulation surface (note that the geo-undulation is not always a
+constant. You will figure that out when you careful look at your elevations
+in WGS84 and in mine cooordinates at the same positions.)
+
+You can put the coordinates and its respective geo-undulation at their
+position into a file ../form/geoundulation_config_data with the following
+format:
+easting     northing     geo-undulation (content of file follows)
+
+995588.853 1721386.271   8.49
+1002835.067 1723347.696  9.19
+995004.142 1723998.941   8.75
+996299.993 1719009.345   8.20
+986998.991 1718999.893   7.61
+
+
+After entering the values or loading a file you have to calculate the parameters
+ of the plane. If the standard deviation is near zero the points approximate
+nearly a plane and you can assign the values

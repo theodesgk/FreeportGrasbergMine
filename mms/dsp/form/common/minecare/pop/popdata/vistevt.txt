@@ -1,0 +1,87 @@
+Haul Cycle Complete	604045312
+Truck Loading	604045313
+Truck Loaded	604045314
+Truck Dumping	604045315
+Left Front Pressure Sensor Normal	604045316
+Left Front Pressure Sensor Failure	604045317
+Right Front Pressure Sensor Normal	604045318
+Right Front Pressure Sensor Failure	604045319
+Left Rear Pressure Sensor Normal	604045320
+Left Rear Pressure Sensor Failure	604045321
+Right Rear Pressure Sensor Normal	604045322
+Right Rear Pressure Sensor Failure	604045323
+Fuel Level Sensor Normal	604045324
+Fuel Level Sensor Failure	604045325
+Inclinometer Sensor Normal	604045326
+Inclinometer Sensor Failure	604045327
+System Ready	604045328
+System Not Ready	604045329
+Bed Up 	604045330
+Bed Down	604045331
+Truck Status - Standing Empty	604046312
+Truck Status - Moving Empty	604046313
+Truck Status - Standing Full	604046314
+Truck Status - Moving Full	604046315
+Front Left Tire - Pressure Unavailable	604046316
+Front Left Tire - Pressure Error	604046317
+Front Left Tire - Pressure Pressure Extremely Low	604046318
+Front Left Tire - Pressure Less Than Normal	604046319
+Front Left Tire - Pressure Ok	604046320
+Front Left Tire - Pressure Higher Than Normal	604046321
+Front Left Tire - Pressure Sensor Battery Low	604046322
+Front Left Tire - Pressure Sensor Battery Normal	604046323
+Front Left Tire - Pressure Sensor Battery Unavailable	604046324
+Front Right Tire - Pressure Unavailable	604046325
+Front Right Tire - Pressure Error	604046326
+Front Right Tire - Pressure Pressure Extremely Low	604046327
+Front Right Tire - Pressure Less Than Normal	604046328
+Front Right Tire - Pressure Ok	604046329
+Front Right Tire - Pressure Higher Than Normal	604046330
+Front Right Tire - Pressure Sensor Battery Low	604046331
+Front Right Tire - Pressure Sensor Battery Normal	604046332
+Front Right Tire - Pressure Sensor Battery Unavailable	604046333
+Rear Left Outer Tire - Pressure Unavailable	604046334
+Rear Left Outer Tire - Pressure Error	604046335
+Rear Left Outer Tire - Pressure Pressure Extremely Low	604046336
+Rear Left Outer Tire - Pressure Less Than Normal	604046337
+Rear Left Outer Tire - Pressure Ok	604046338
+Rear Left Outer Tire - Pressure Higher Than Normal	604046339
+Rear Left Outer Tire - Pressure Sensor Battery Low	604046340
+Rear Left Outer Tire - Pressure Sensor Battery Normal	604046341
+Rear Left Outer Tire - Pressure Sensor Battery Unavailable	604046342
+Rear Left Inner Tire - Pressure Unavailable	604046343
+Rear Left Inner Tire - Pressure Error	604046344
+Rear Left Inner Tire - Pressure Pressure Extremely Low	604046345
+Rear Left Inner Tire - Pressure Less Than Normal	604046346
+Rear Left Inner Tire - Pressure Ok	604046347
+Rear Left Inner Tire - Pressure Higher Than Normal	604046348
+Rear Left Inner Tire - Pressure Sensor Battery Low	604046349
+Rear Left Inner Tire - Pressure Sensor Battery Normal	604046350
+Rear Left Inner Tire - Pressure Sensor Battery Unavailable	604046351
+Rear Right Inner Tire - Pressure Unavailable	604046352
+Rear Right Inner Tire - Pressure Error	604046353
+Rear Right Inner Tire - Pressure Pressure Extremely Low	604046354
+Rear Right Inner Tire - Pressure Less Than Normal	604046355
+Rear Right Inner Tire - Pressure Ok	604046356
+Rear Right Inner Tire - Pressure Higher Than Normal	604046357
+Rear Right Inner Tire - Pressure Sensor Battery Low	604046358
+Rear Right Inner Tire - Pressure Sensor Battery Normal	604046359
+Rear Right Inner Tire - Pressure Sensor Battery Unavailable	604046360
+Rear Right Outer Tire - Pressure Unavailable	604046361
+Rear Right Outer Tire - Pressure Error	604046362
+Rear Right Outer Tire - Pressure Pressure Extremely Low	604046363
+Rear Right Outer Tire - Pressure Less Than Normal	604046364
+Rear Right Outer Tire - Pressure Ok	604046365
+Rear Right Outer Tire - Pressure Higher Than Normal	604046366
+Rear Right Outer Tire - Pressure Sensor Battery Low	604046367
+Rear Right Outer Tire - Pressure Sensor Battery Normal	604046368
+Rear Right Outer Tire - Pressure Sensor Battery Unavailable	604046369
+Load Start	604046370
+Load Finish	604046371
+Dump Start	604046372
+Dump Finish	604046373
+Fueling	604046374
+Oem Interface Timeout	604110816
+Oem Interface Normal	604110817
+Driver Interface Timeout	604110818
+Driver Interface Normal	604110819

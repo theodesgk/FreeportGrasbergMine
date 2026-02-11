@@ -1,0 +1,280 @@
+Emergency Stop Active (Shutdown) (Active)	1107361793
+Emergency Stop Active (Shutdown) (Inactive)	1107361794
+Emergency Stop Circuit Fault (Active)	1107361795
+Emergency Stop Circuit Fault (Inactive)	1107361796
+Operator Control Screen Communication Fault (Shutdown) (Active)	1107361797
+Operator Control Screen Communication Fault (Shutdown) (Inactive)	1107361798
+Hydraulic Charge Filter Clogged Limit Switch 1 (Active)	1107361799
+Hydraulic Charge Filter Clogged Limit Switch 1 (Inactive)	1107361800
+Hydraulic Charge Filter Clogged Limit Switch 2 (Active)	1107361801
+Hydraulic Charge Filter Clogged Limit Switch 2 (Inactive)	1107361802
+Hydraulic Return Filter Clogged Limit Switch (Active)	1107361803
+Hydraulic Return Filter Clogged Limit Switch (Inactive)	1107361804
+Hydraulic Oil Overtemperature (Active)	1107361805
+Hydraulic Oil Overtemperature (Inactive)	1107361806
+Hydraulic Oil Filter Clogged (Active)	1107361807
+Hydraulic Oil Filter Clogged (Inactive)	1107361808
+Hydraulic Oil Cooler Control Fault (Active)	1107361809
+Hydraulic Oil Cooler Control Fault (Inactive)	1107361810
+Hydraulic Tank Oil Level Sensor Fault (Active)	1107361811
+Hydraulic Tank Oil Level Sensor Fault (Inactive)	1107361812
+Phase Sequence Line Fault (Active)	1107361813
+Phase Sequence Line Fault (Inactive)	1107361814
+Auxillary Ground Fault (Active)	1107361815
+Auxillary Ground Fault (Inactive)	1107361816
+Rotary Motor Blower Control Fault (Active)	1107361817
+Rotary Motor Blower Control Fault (Inactive)	1107361818
+Rotary Input Power Fault (Active)	1107361819
+Rotary Input Power Fault (Inactive)	1107361820
+Rotary Stall Fault (Active)	1107361821
+Rotary Stall Fault (Inactive)	1107361822
+Rotary Drive Incomplete Sequence (Active)	1107361823
+Rotary Drive Incomplete Sequence (Inactive)	1107361824
+Rotary Drive Internal Fault (Active)	1107361825
+Rotary Drive Internal Fault (Inactive)	1107361826
+Rotary Field Loss (Active)	1107361827
+Rotary Field Loss (Inactive)	1107361828
+Rotary Field Overcurrent (Active)	1107361829
+Rotary Field Overcurrent (Inactive)	1107361830
+Hoist/Pd Drive Internal Fault (Active)	1107361831
+Hoist/Pd Drive Internal Fault (Inactive)	1107361832
+Hoist/Pd Field Loss (Active)	1107361833
+Hoist/Pd Field Loss (Inactive)	1107361834
+Hoist/Pd Field Overcurrent (Active)	1107361835
+Hoist/Pd Field Overcurrent (Inactive)	1107361836
+Hoist/Pd Motor Blower Control Fault (Active)	1107361837
+Hoist/Pd Motor Blower Control Fault (Inactive)	1107361838
+Hoist/Pd Input Power Fault (Active)	1107361839
+Hoist/Pd Input Power Fault (Inactive)	1107361840
+Hoist/Pd Stall Fault (Active)	1107361841
+Hoist/Pd Stall Fault (Inactive)	1107361842
+Hoist/Pd Drive Incomplete Sequence (Active)	1107361843
+Hoist/Pd Drive Incomplete Sequence (Inactive)	1107361844
+House Fan Fault (Active)	1107361845
+House Fan Fault (Inactive)	1107361846
+Water Injection Drive Fault (Active)	1107361847
+Water Injection Drive Fault (Inactive)	1107361848
+Water Injection Low Water Level (Active)	1107361849
+Water Injection Low Water Level (Inactive)	1107361850
+Drill Mode Low Lube Pressure  (Active)	1107361851
+Drill Mode Low Lube Pressure  (Inactive)	1107361852
+Propel Mode Low Lube Pressure (Active)	1107361853
+Propel Mode Low Lube Pressure (Inactive)	1107361854
+Lube System Vent Fault (Active)	1107361855
+Lube System Vent Fault (Inactive)	1107361856
+Drill Bit Lube Level Low (Active)	1107361857
+Drill Bit Lube Level Low (Inactive)	1107361858
+Jacks Not Retracted In Propel Mode (Active)	1107361859
+Jacks Not Retracted In Propel Mode (Inactive)	1107361860
+Air Compressor Oil Pump Start Failure (Shutdown) (Active)	1107361861
+Air Compressor Oil Pump Start Failure (Shutdown) (Inactive)	1107361862
+Air Compressor Failure (Shutdown) (Active)	1107361863
+Air Compressor Failure (Shutdown) (Inactive)	1107361864
+Air Compressor Oil Cooling Failure (Shutdown) (Active)	1107361865
+Air Compressor Oil Cooling Failure (Shutdown) (Inactive)	1107361866
+Air Compressor High Air Temperature (Shutdown) (Active)	1107361867
+Air Compressor High Air Temperature (Shutdown) (Inactive)	1107361868
+Air Compressor Oil Pressure Switch Fault (Shutdown) (Active)	1107361869
+Air Compressor Oil Pressure Switch Fault (Shutdown) (Inactive)	1107361870
+Air Compressor Oil Temp High (Shutdown) (Active)	1107361871
+Air Compressor Oil Temp High (Shutdown) (Inactive)	1107361872
+Air Compressor Oil Cooler Fan Control Fault (Shutdown) (Active)	1107361873
+Air Compressor Oil Cooler Fan Control Fault (Shutdown) (Inactive)	1107361874
+Air Compressor Control Fault (Active)	1107361875
+Air Compressor Control Fault (Inactive)	1107361876
+Air Compressor Oil Pressure Low  (Active)	1107361877
+Air Compressor Oil Pressure Low  (Inactive)	1107361878
+Head Brake Release Fault (Active)	1107361879
+Head Brake Release Fault (Inactive)	1107361880
+Head Brake Setting Fault (Active)	1107361881
+Head Brake Setting Fault (Inactive)	1107361882
+Head Brake Forcing Circuit Fault (Active)	1107361883
+Head Brake Forcing Circuit Fault (Inactive)	1107361884
+Head Brake Sensor Switch Fault (Active)	1107361885
+Head Brake Sensor Switch Fault (Inactive)	1107361886
+Head Encoder Fault (Active)	1107361887
+Head Encoder Fault (Inactive)	1107361888
+Head Overspeed Fault (Active)	1107361889
+Head Overspeed Fault (Inactive)	1107361890
+Cable Reel Control Fault (Active)	1107361891
+Cable Reel Control Fault (Inactive)	1107361892
+Radio Remote Tilt Shutdown (Active)	1107361893
+Radio Remote Tilt Shutdown (Inactive)	1107361894
+Radio Remote Fault (Active)	1107361895
+Radio Remote Fault (Inactive)	1107361896
+24Vdc Control Power Fault (Active)	1107361897
+24Vdc Control Power Fault (Inactive)	1107361898
+24Vdc Input Power Fault (Active)	1107361899
+24Vdc Input Power Fault (Inactive)	1107361900
+24Vdc Node 2 Output Power Fault  (Active)	1107361901
+24Vdc Node 2 Output Power Fault  (Inactive)	1107361902
+24Vdc Node 3 Output Power Fault  (Active)	1107361903
+24Vdc Node 3 Output Power Fault  (Inactive)	1107361904
+24Vdc Node 4 Output Power Fault  (Active)	1107361905
+24Vdc Node 4 Output Power Fault  (Inactive)	1107361906
+24Vdc Node 5 Output Power Fault  (Active)	1107361907
+24Vdc Node 5 Output Power Fault  (Inactive)	1107361908
+24Vdc Utility Power Fault  (Active)	1107361909
+24Vdc Utility Power Fault  (Inactive)	1107361910
+Main Processor Rack 1 Card Fault (Active)	1107361911
+Main Processor Rack 1 Card Fault (Inactive)	1107361912
+Profibus Node 1 Main Processor Rack 1 Fault (Mcp) (Active)	1107361913
+Profibus Node 1 Main Processor Rack 1 Fault (Mcp) (Inactive)	1107361914
+Profibus Node 2 Fault (Mcp) (Active)	1107361915
+Profibus Node 2 Fault (Mcp) (Inactive)	1107361916
+Profibus Node 3 Fault (Mcp) (Active)	1107361917
+Profibus Node 3 Fault (Mcp) (Inactive)	1107361918
+Profibus Node 4 Fault (Mcp) (Active)	1107361919
+Profibus Node 4 Fault (Mcp) (Inactive)	1107361920
+Profibus Node 5 Fault (Cab Rack) (Active)	1107361921
+Profibus Node 5 Fault (Cab Rack) (Inactive)	1107361922
+Master Switches Not In Neutral (Active)	1107361923
+Master Switches Not In Neutral (Inactive)	1107361924
+Rotary Motor Overtemp Fault (Active)	1107361925
+Rotary Motor Overtemp Fault (Inactive)	1107361926
+Hoist/Pd Motor Overtemp Fault (Active)	1107361927
+Hoist/Pd Motor Overtemp Fault (Inactive)	1107361928
+Hydraulic Tank Low Oil Level (Shutdown) (Active)	1107361929
+Hydraulic Tank Low Oil Level (Shutdown) (Inactive)	1107361930
+Piw256 Input Out Of Range (Rotary Armature Volts) (Active)	1107361953
+Piw256 Input Out Of Range (Rotary Armature Volts) (Inactive)	1107361954
+Piw258 Input Out Of Range (Rotary Armature Current) (Active)	1107361955
+Piw258 Input Out Of Range (Rotary Armature Current) (Inactive)	1107361956
+Piw260 Input Out Of Range (Rotary Field Current) (Active)	1107361957
+Piw260 Input Out Of Range (Rotary Field Current) (Inactive)	1107361958
+Piw262 Input Out Of Range (Hoist/Pd Armature Volts) (Active)	1107361959
+Piw262 Input Out Of Range (Hoist/Pd Armature Volts) (Inactive)	1107361960
+Piw264 Input Out Of Range (Hoist/Pd Armature Current) (Active)	1107361961
+Piw264 Input Out Of Range (Hoist/Pd Armature Current) (Inactive)	1107361962
+Piw266 Input Out Of Range (Hoist/Pd Field Current) (Active)	1107361963
+Piw266 Input Out Of Range (Hoist/Pd Field Current) (Inactive)	1107361964
+Piw268 Input Out Of Range (Radio Remote Right Master Switch) (Active)	1107361965
+Piw268 Input Out Of Range (Radio Remote Right Master Switch) (Inactive)	1107361966
+Piw270 Input Out Of Range (Radio Remote Left Master Switch) (Active)	1107361967
+Piw270 Input Out Of Range (Radio Remote Left Master Switch) (Inactive)	1107361968
+Piw272 Input Out Of Range (Air Compressor Air Pressure Transmitter) (Active)	1107361969
+Piw272 Input Out Of Range (Air Compressor Air Pressure Transmitter) (Inactive)	1107361970
+Piw274 Input Out Of Range (Air Compressor Oil Temp Transmitter) (Active)	1107361971
+Piw274 Input Out Of Range (Air Compressor Oil Temp Transmitter) (Inactive)	1107361972
+Piw276 Input Out Of Range (Air Compressor Air Temp Transmitter) (Active)	1107361973
+Piw276 Input Out Of Range (Air Compressor Air Temp Transmitter) (Inactive)	1107361974
+Piw278 Input Out Of Range (Water Injection Motor Speed Feedback) (Active)	1107361975
+Piw278 Input Out Of Range (Water Injection Motor Speed Feedback) (Inactive)	1107361976
+Piw280 Input Out Of Range (Vertical Vibration Monitor) (Active)	1107361977
+Piw280 Input Out Of Range (Vertical Vibration Monitor) (Inactive)	1107361978
+Piw282 Input Out Of Range (Horizontal Vibration Monitor) (Active)	1107361979
+Piw282 Input Out Of Range (Horizontal Vibration Monitor) (Inactive)	1107361980
+Piw284 Input Out Of Range (Active)	1107361981
+Piw284 Input Out Of Range (Inactive)	1107361982
+Piw286 Input Out Of Range (Mast Angle Monitor) (Active)	1107361983
+Piw286 Input Out Of Range (Mast Angle Monitor) (Inactive)	1107361984
+Piw288 Input Out Of Range (Rotary Master Switch) (Active)	1107361985
+Piw288 Input Out Of Range (Rotary Master Switch) (Inactive)	1107361986
+Piw290 Input Out Of Range (Hoist/Pd Master Switch) (Active)	1107361987
+Piw290 Input Out Of Range (Hoist/Pd Master Switch) (Inactive)	1107361988
+Piw292 Input Out Of Range (Side - Side Level Monitor) (Active)	1107361989
+Piw292 Input Out Of Range (Side - Side Level Monitor) (Inactive)	1107361990
+Piw294 Input Out Of Range (Front - Rear Level Monitor) (Active)	1107361991
+Piw294 Input Out Of Range (Front - Rear Level Monitor) (Inactive)	1107361992
+Piw296 Input Out Of Range (Water Injection Flow Control) (Active)	1107361993
+Piw296 Input Out Of Range (Water Injection Flow Control) (Inactive)	1107361994
+Piw298 Input Out Of Range (Propel Left Master Switch) (Active)	1107361995
+Piw298 Input Out Of Range (Propel Left Master Switch) (Inactive)	1107361996
+Piw300 Input Out Of Range (Propel Right Master Switch) (Active)	1107361997
+Piw300 Input Out Of Range (Propel Right Master Switch) (Inactive)	1107361998
+Piw302 Input Out Of Range (Active)	1107361999
+Piw302 Input Out Of Range (Inactive)	1107362000
+Piw304 Input Out Of Range (Auto Breakout Wrench Valve A Pos. Feedback) (Active)	1107362001
+Piw304 Input Out Of Range (Auto Breakout Wrench Valve A Pos. Feedback) (Inactive)	1107362002
+Piw306 Input Out Of Range (Auto Breakout Wrench Valve B Pos. Feedback) (Active)	1107362003
+Piw306 Input Out Of Range (Auto Breakout Wrench Valve B Pos. Feedback) (Inactive)	1107362004
+Piw308 Input Out Of Range  (Active)	1107362005
+Piw308 Input Out Of Range  (Inactive)	1107362006
+Piw310 Input Out Of Range (Active)	1107362007
+Piw310 Input Out Of Range (Inactive)	1107362008
+Piw312 Input Out Of Range (Active)	1107362009
+Piw312 Input Out Of Range (Inactive)	1107362010
+Piw314 Input Out Of Range (Active)	1107362011
+Piw314 Input Out Of Range (Inactive)	1107362012
+Piw316 Input Out Of Range (Active)	1107362013
+Piw316 Input Out Of Range (Inactive)	1107362014
+Piw318 Input Out Of Range (Active)	1107362015
+Piw318 Input Out Of Range (Inactive)	1107362016
+Air Compressor Starts Per Hour Exceeded (Active)	1107362049
+Air Compressor Starts Per Hour Exceeded (Inactive)	1107362050
+Hoist/Pd Drive Ground Fault (Active)	1107362051
+Hoist/Pd Drive Ground Fault (Inactive)	1107362052
+Rotary Drive Graound Fault (Active)	1107362053
+Rotary Drive Graound Fault (Inactive)	1107362054
+Hoist/Pd Motor Overload (Active)	1107362055
+Hoist/Pd Motor Overload (Inactive)	1107362056
+Rotary Motor Overload (Active)	1107362057
+Rotary Motor Overload (Inactive)	1107362058
+Lube System Power Off (Active)	1107362059
+Lube System Power Off (Inactive)	1107362060
+Head Limit Data Out Of Range (Active)	1107362061
+Head Limit Data Out Of Range (Inactive)	1107362062
+Air Compressor Air Over Temp (Active)	1107362063
+Air Compressor Air Over Temp (Inactive)	1107362064
+Hydraulic Tank Valve Closed (Active)	1107362065
+Hydraulic Tank Valve Closed (Inactive)	1107362066
+Propel Brakes Released For Towing (Active)	1107362067
+Propel Brakes Released For Towing (Inactive)	1107362068
+Rotary Motor Over Temp (Active)	1107362069
+Rotary Motor Over Temp (Inactive)	1107362070
+Hoist/Pd Motor Over Temp (Active)	1107362071
+Hoist/Pd Motor Over Temp (Inactive)	1107362072
+Rotary Master Switch Mis-Aligned (Active)	1107362073
+Rotary Master Switch Mis-Aligned (Inactive)	1107362074
+Hoist/Pd Master Switch Mis-Aligned (Active)	1107362075
+Hoist/Pd Master Switch Mis-Aligned (Inactive)	1107362076
+Pipe In Hole Warning For Propel (Active)	1107362077
+Pipe In Hole Warning For Propel (Inactive)	1107362078
+Propel With Stairs Down (Active)	1107362079
+Propel With Stairs Down (Inactive)	1107362080
+Tip Warning (Deck Angle Greater Than 7.5 Deg) (Active)	1107362081
+Tip Warning (Deck Angle Greater Than 7.5 Deg) (Inactive)	1107362082
+Auto Level Limit (Deck Angle Greater Than 7 Deg) (Active)	1107362083
+Auto Level Limit (Deck Angle Greater Than 7 Deg) (Inactive)	1107362084
+Leveling Jack Stuck (Active)	1107362085
+Leveling Jack Stuck (Inactive)	1107362086
+Air Compressor Oil Filter Clogged (Active)	1107362087
+Air Compressor Oil Filter Clogged (Inactive)	1107362088
+Communication Module Link Fault (Active)	1107362089
+Communication Module Link Fault (Inactive)	1107362090
+RS-232 Communication Link Fault (Active)	1107362091
+RS-232 Communication Link Fault (Inactive)	1107362092
+HMI Running On UPS (Active)	1107362093
+HMI Running On UPS (Inactive)	1107362094
+UPS Alarm (Active)	1107362095
+UPS Alarm (Inactive)	1107362096
+UPS Battery Low (Active)	1107362097
+UPS Battery Low (Inactive)	1107362098
+Programming Forces Active (Active)	1107362103
+Programming Forces Active (Inactive)	1107362104
+Air Compressor Oil Pressure Switch Failure To Reset (Active)	1107362105
+Air Compressor Oil Pressure Switch Failure To Reset (Inactive)	1107362106
+A-Frame Pins Locked (Angle Hole Option Only) (Active)	1107362139
+A-Frame Pins Locked (Angle Hole Option Only) (Inactive)	1107362140
+Mast Lock Pins Locked (Active)	1107362141
+Mast Lock Pins Locked (Inactive)	1107362142
+Mast Brace Pins Locked (Active)	1107362143
+Mast Brace Pins Locked (Inactive)	1107362144
+Propel Mode Selected (Active)	1107362145
+Propel Mode Selected (Inactive)	1107362146
+Remote Propel Mode Selected (Active)	1107362147
+Remote Propel Mode Selected (Inactive)	1107362148
+Mast/Winch Mode Selected (Active)	1107362149
+Mast/Winch Mode Selected (Inactive)	1107362150
+Drill Mode Selected (Active)	1107362151
+Drill Mode Selected (Inactive)	1107362152
+New Hole Started (Active)	1107362153
+New Hole Started (Inactive)	1107362154
+Tool Wrench Extended (Active)	1107362155
+Tool Wrench Extended (Inactive)	1107362156
+Tool Wrench Retract (Active)	1107362157
+Tool Wrench Retract (Inactive)	1107362158
+Oem Interface Timeout 	1107427296
+Oem Interface Normal 	1107427297
+Driver Interface Timeout 	1107427298
+Driver Interface Normal 	1107427299

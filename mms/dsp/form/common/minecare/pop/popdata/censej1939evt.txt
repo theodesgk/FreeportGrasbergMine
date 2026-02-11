@@ -1,0 +1,1338 @@
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted High(K2000)	906054403
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted Low(K2000)	906054404
+Accelerator Pedal Idle Validation Invalid(K2000)	906054434
+Accelerator Pedal Position Sensor Circuit Failed High(K2000)	906054435
+Accelerator Pedal Position Sensor Circuit - Shorted Low(K2000)	906054436
+Frequency Throttle Signal Out Of Range Low(K2000)	906054440
+Accelerator Pedal Idle Validation Invalid(K2000)	906054445
+Alternate Torque Curve Switch Circuit (K2000)	906054466
+Very Low Oil Level(K2000)	906054497
+Oil Level Invalid(K2000)	906054498
+High Lubricating Oil Filter Restriction(K2000)	906054529
+Low Oil Pressure(K2000)	906054561
+Engine Oil Pressure Sensor Circuit - Shorted High(K2000)	906054563
+Oil Pressure Sensor Circuit Failed Low(K2000)	906054564
+Oil Pressure - Engine Protection Active(K2000)	906054578
+Intake Manifold Pressure Sensor #1 Circuit - Shorted High(K2000)	906054595
+Intake Manifold Pressure Sensor #1 Circuit - Shorted Low(K2000)	906054596
+High Intake Manifold Pressure Left Bank(K2000)	906054608
+Low Intake Manifold Pressure Left Bank(K2000)	906054610
+High Intake Manifold Air Temperature #1(K2000)	906054624
+Intake Manifold Air Temperature #1 - Sensor Circuit Failed High(K2000)	906054627
+Intake Manifold Air Temperature #1 - Sensor Circuit Failed Low(K2000)	906054628
+Pre Filter Oil Pressure Sensor Circuit Failed High(K2000)	906054634
+Ambient Air Pressure Sensor Failed High(K2000)	906054659
+Ambient Air Pressure Sensor Failed Low(K2000)	906054660
+Ambient Air Pressure Sensor Failed Low(K2000)	906054689
+Coolant Pressure Sensor Circuit Failed High(K2000)	906054691
+Coolant Pressure Sensor Circuit Failed Low(K2000)	906054692
+Low Coolant Pressure(K2000)	906054706
+High Coolant Temperature(K2000)	906054720
+Coolant Temperature Sensor Circuit Failed High(K2000)	906054723
+Coolant Temperature Sensor Circuit Failed Low(K2000)	906054724
+Low Coolant Level(K2000)	906054753
+Coolant Level Signal Invalid(K2000)	906054754
+Coolant Level Signal Invalid(K2000)	906054786
+OEM Alternate Droop Switch Validation Fault(K2000)	906054819
+Fuel Pump Pressure Sensor Circuit Failed High(K2000)	906054820
+Fuel Pump Pressure Sensor Circuit Failed Low(K2000)	906054850
+Fuel Timing Pressure Failed In Range(K2000)	906054851
+Timing Rail Pressure Sensor Circuit Failed High(K2000)	906054852
+Fuel Pressure High - Warning(K2000)	906054912
+Fuel Rail Pressure Over Limits(K2000)	906054914
+Fuel Pressure Sensor Failed High Active(K2000)	906054915
+Fuel Pressure Sensor Failed Low Active(K2000)	906054916
+Fueling Rail Pressure Sensor Circuit Failed Low(K2000)	906054944
+Battery Voltage Above Normal Range(K2000)	906054945
+Battery Voltage Below Normal Range(K2000)	906054962
+Battery Voltage Below Normal Range(K2000)	906054976
+High Fuel Temperature(K2000)	906054979
+Fuel Temperature Sensor Circuit Failed High(K2000)	906054980
+High Oil Temperature(K2000)	906055008
+Pre Filter Oil Pressure Sensor Circuit Failed Low(K2000)	906055009
+Oil Temperature Sensor Circuit Failed High(K2000)	906055011
+Oil Temperature Sensor Circuit Failed Low(K2000)	906055012
+Engine Overspeed Active(K2000)	906055040
+Engine Speed/Position Sensor Circuit - Lost Two Signals From Sensor(K2000)	906055042
+Engine Speed/Position Sensor Circuit - Lost One Signal From Sensor(K2000)	906055050
+Both Engine Speed And/Or Position Signal Lost(K2000)	906055072
+One Engine Speed Signal Lost(K2000)	906055073
+Trend Data Memory Nearly Full Active(K2000)	906055106
+Output Shaft (Tailshaft)Speed Above Normal(K2000)	906055107
+AXG Speed Low Error(K2000)	906055108
+Oil Filter Bypass Valve Open Active(K2000)	906055111
+Non-Zero Engine Speed At Power-Up Active(K2000)	906055115
+Communication Error (GSP Or RPC)(K2000)	906055135
+OEM-Intermediate (PTO)Speed Switch Validation Fault(K2000)	906055150
+Post Oil Filter Pressure Sensor Circuit Failed High(K2000)	906055169
+Post Oil Filter Pressure Sensor Circuit Failed Low(K2000)	906055179
+Fault Log Snapshot Data Nearly Full Active(K2000)	906055203
+Engine Control Module - Critical Internal(K2000)	906055212
+Non-Zero Engine Speed At Power-Up Active(K2000)	906055244
+Fault Log Snapshot Data Full Active(K2000)	906055245
+Engine Hot Shutdown(K2000)	906055267
+RPC Number Not Supported Active(K2000)	906055268
+OEM Component Failure(K2000)	906055271
+Ether Bottle Empty(K2000)	906055298
+Ether Solenoid Circuit Failed(K2000)	906055299
+ECM Initiated Hot Shutdown Error(K2000)	906055300
+ECM Not Calibrated - Use 111(K2000)	906055303
+Engine Control Module - Critical Internal Failure/Warning Software Error(K2000)	906055330
+ECM Software/Hardware Failure(K2000)	906055331
+Rapid Rise In Intake Manifold Temperature LBR Active(K2000)	906055332
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Active(K2000)	906055335
+Fuel Shutoff Valve - Component Shorted High Active(K2000)	906055363
+Fuel Shutoff Valve Solenoid Shorted Low Or Open Circuit(K2000)	906055369
+Fuel Shutoff Valve Mechanically Stuck Open(K2000)	906055394
+Fuel Rail Actuator - Data Out Of Range(K2000)	906055427
+Fuel Control Valve - Failed High Or Open(K2000)	906055459
+Fuel Control Valve - Component Shorted Low(K2000)	906055490
+Fuel Control Valve - Mechanically Stuck Open(K2000)	906055523
+Timing Rail Actuator - Data Out Of Range(K2000)	906055527
+Timing Actuator Circuit Failed High(K2000)	906055555
+Timing Actuator - Component Shorted Low Active(K2000)	906055556
+Timing Fueling Flow Mismatch(K2000)	906055566
+J1939 Data Can Not Transmit(K2000)	906055587
+J1939 Data Can Not Transmit(K2000)	906055588
+Multiple Unit Synchronization Error(K2000)	906055598
+Right Bank Intake Manifold Pressure Sensor Circuit Failed High(K2000)	906055619
+Right Bank Intake Manifold Pressure Sensor Circuit Failed Low(K2000)	906055620
+High Intake Manifold Pressure Right Bank(K2000)	906055632
+Low Intake Manifold Pressure Right Bank(K2000)	906055634
+High Intake Manifold Air Temperature #3(K2000)	906055648
+Intake Manifold Air Temperature #3 - Sensor Circuit Failed High(K2000)	906055651
+Intake Manifold Air Temperature #3 - Sensor Circuit Failed Low(K2000)	906055652
+Public Data Link - Cannot Transmit Active(K2000)	906055658
+High Intake Manifold Air Temperature #4(K2000)	906055680
+Intake Manifold Air Temperature #4 - Sensor Circuit Failed High(K2000)	906055683
+Intake Manifold Air Temperature #4 - Sensor Circuit Failed Low(K2000)	906055684
+Public Data Link - Not Fast Enough Active(K2000)	906055690
+High Exhaust Temperature - Cylinder #1 (A1)(K2000)	906055712
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #1 (A1)(K2000)	906055716
+High Power - Cylinder #1 (A1)(K2000)	906055728
+Low Power - Cylinder #1 (A1)(K2000)	906055730
+High Exhaust Temperature - Cylinder #3 (A2)(K2000)	906055744
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #3 (A2)(K2000)	906055748
+High Power - Cylinder #3 (A2)(K2000)	906055760
+Low Power - Cylinder #3 (A2)(K2000)	906055762
+High Exhaust Temperature - Cylinder #5 (A3)(K2000)	906055776
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #5 (A3)(K2000)	906055780
+High Power - Cylinder #5 (A3)(K2000)	906055792
+Low Power - Cylinder #5 (A3)(K2000)	906055794
+High Exhaust Temperature - Cylinder #7 (A4)(K2000)	906055808
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #7 (A4)(K2000)	906055812
+High Power - Cylinder #7 (A4)(K2000)	906055824
+Low Power - Cylinder #7 (A4)(K2000)	906055826
+High Exhaust Temperature - Cylinder #9 (A5)(K2000)	906055840
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #9 (A5)(K2000)	906055844
+High Power - Cylinder #9 (A5)(K2000)	906055856
+Low Power - Cylinder #9 (A5)(K2000)	906055858
+High Exhaust Temperature - Cylinder #11 (A6)(K2000)	906055872
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #11 (A6)(K2000)	906055876
+High Power - Cylinder #11 (A6)(K2000)	906055888
+Low Power - Cylinder #11 (A6)(K2000)	906055890
+High Exhaust Temperature - Cylinder #2 (B1)(K2000)	906055904
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #2 (B1)(K2000)	906055908
+High Power - Cylinder #2 (B1)(K2000)	906055920
+Low Power - Cylinder #2 (B1)(K2000)	906055922
+High Exhaust Temperature - Cylinder #4 (B2)(K2000)	906055936
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #4 (B2)(K2000)	906055940
+High Power - Cylinder #4 (B2)(K2000)	906055952
+Low Power - Cylinder #4 (B2)(K2000)	906055954
+High Exhaust Temperature - Cylinder #6 (B3)(K2000)	906055968
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #6 (B3)(K2000)	906055972
+High Power - Cylinder #6 (B3)(K2000)	906055984
+Low Power - Cylinder #6 (B3)(K2000)	906055986
+High Exhaust Temperature - Cylinder #8 (B4)(K2000)	906056000
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #8 (B4)(K2000)	906056004
+High Power - Cylinder #8 (B4)(K2000)	906056016
+Low Power - Cylinder #8 (B4)(K2000)	906056018
+High Exhaust Temperature - Cylinder #10 (B5)(K2000)	906056032
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #10 (B5)(K2000)	906056036
+High Power - Cylinder #10 (B5)(K2000)	906056048
+Low Power - Cylinder #10 (B5)(K2000)	906056050
+High Exhaust Temperature - Cylinder #12 (B6)(K2000)	906056064
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #12 (B6)(K2000)	906056068
+High Power - Cylinder #12 (B6)(K2000)	906056080
+Low Power - Cylinder #12 (B6)(K2000)	906056082
+High Exhaust Temperature - Cylinder #10 (B5) Or #12 (B6)(K2000)	906056096
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #10 (B5)(K2000)	906056100
+High Power - Cylinder #12 (B6)(K2000)	906056112
+Low Power - Cylinder #10 (B5)(K2000)	906056114
+High Power/Temperature - Cylinder #14 (B7)(K2000)	906056128
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #12 (B6)(K2000)	906056132
+High Power - Cylinder #12 (B6)(K2000)	906056144
+Low Power - Cylinder #12 (B6)(K2000)	906056146
+High Power/Temperature - Cylinder #16 (B8)(K2000)	906056160
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #14 (B7)(K2000)	906056164
+High Power - Cylinder #6 (B3)(K2000)	906056176
+Low Power - Cylinder #14 (B7)(K2000)	906056178
+High Exhaust Temperature - Cylinder #8 (B4)(K2000)	906056192
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #16 (B8)(K2000)	906056196
+High Power - Cylinder #8 (B4)(K2000)	906056208
+Low Power - Cylinder #16 (B8)(K2000)	906056210
+High Exhaust Temperature - Cylinder #10 (B5)(K2000)	906056224
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #10 (B5)(K2000)	906056228
+High Power - Cylinder #10 (B5)(K2000)	906056240
+Low Power - Cylinder #10 (B5)(K2000)	906056242
+High Exhaust Temperature - Cylinder #12 (B6)(K2000)	906056256
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #12 (B6)(K2000)	906056260
+High Power - Cylinder #12 (B6)(K2000)	906056272
+Low Power - Cylinder #12 (B6)(K2000)	906056274
+Right Turbo Compressor Inlet Temp Sensor Failed High Active(K2000)	906056291
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #14 (B7)(K2000)	906056292
+High Turbo Compressor Inlet Temperature Right Bank Active(K2000)	906056304
+Low Power - Cylinder #14 (B7)(K2000)	906056320
+Pre Filter Oil Pressure Sensor Circuit Failed High(K2000)	906056355
+Pre Filter Oil Pressure Sensor Circuit Failed Low(K2000)	906056356
+High Blowby Pressure(K2000)	906056384
+Blowby Pressure Sensor Circuit Failed High(K2000)	906056387
+Blowby Pressure Sensor Circuit Failed Low(K2000)	906056388
+Exhaust Temp Sensor Circuit Failed Low - Cylinder #18 (B9)(K2000)	906056420
+High Power - Cylinder #18 (B9)(K2000)	906056452
+Trend Data Memory Nearly Full Active(K2000)	906056463
+Trend Data Memory Full Active(K2000)	906056464
+Low Power - Cylinder #18 (B9)(K2000)	906056482
+Int Manif Air Temp #2 Turboch Comp Inlet Temp Sensor Ckt Failed High(K2000)	906056513
+Int Manif Air Temp #2 Turboch Comp Inlet Temp Sensor Ckt Failed Low(K2000)	906056514
+Fault Log Snapshot Data Nearly Full Active(K2000)	906056527
+Fault Log Snapshot Data Full Active(K2000)	906056528
+Catastrophic Power Loss - Ecm Data Lost(K2000)	906056543
+Engine Hot Shutdown Active(K2000)	906056575
+Ambient Derate Error(K2000)	906056607
+High Intake Manifold Air Temperature #2(K2000)	906056608
+Intake Manifold Air Temperature #2 - Sensor Circuit Failed High(K2000)	906056611
+Intake Manifold Air Temperature #2 - Sensor Circuit Failed Low(K2000)	906056612
+Idle Validation Circuit(K2000)	906056618
+High Blowby Pressure(K2000)	906056675
+Blowby Pressure Sensor Circuit Failed High(K2000)	906056676
+Blowby Pressure Sensor Circuit Failed Low(K2000)	906056708
+CORS Burn Valve Solenoid - Component Shorted Low(K2000)	906056738
+CORS Makeup Valve - Component Shorted Low(K2000)	906056745
+Remote Oil Level Sensor Signal Invalid(K2000)	906056786
+Change Lubricating Oil And Filter(K2000)	906056806
+Aux (Transmission)Temp-Component Shorted High(K2000)	906056807
+Aux (Transmission)Temp-Component Shorted Low(K2000)	906056836
+Left Bank Intake Restriction Sensor Failed High Active(K2000)	906056867
+Left Bank Intake Restriction Sensor Failed Low Active(K2000)	906056868
+High Intake Restriction Left Bank Active(K2000)	906056880
+Intake Air Leak Left Bank Active(K2000)	906056882
+Right Bank Intake Restriction Sensor Failed High Active(K2000)	906056899
+Right Bank Intake Restriction Sensor Failed Low Active(K2000)	906056900
+High Intake Restriction Right Bank Active(K2000)	906056912
+Intake Air Leak Right Bank Active(K2000)	906056914
+Change Fuel Filter Active(K2000)	906056959
+Change Coolant Filter Active(K2000)	906056991
+Change Coolant Active(K2000)	906057023
+Lubricating Oil Filters Require Changing Active(K2000)	906057055
+Lbf Turbo Comp Inlet Temp Sens Failed High(K2000)	906057091
+Lbr Turbo Comp Inlet Temp Sens Failed Low(K2000)	906057092
+High Turbo Compressor Inlet Temp Lb(K2000)	906057104
+Right Turbo Compressor Inlet Temp Sensor Failed Low Active(K2000)	906057124
+Operator Initiated Fault Log(K2000)	906057163
+Change Lubricating Oil And Filter(K2000)	906057184
+Remote Throttle Pedal Sensor/Variable PTO - Component Shorted High(K2000-Eng2)	906057603
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted Low(K2000-Eng2)	906057604
+Accelerator Pedal Idle Validation Invalid(K2000-Eng2)	906057634
+Accelerator Pedal Position Sensor Circuit Failed High(K2000-Eng2)	906057635
+Accelerator Pedal Position Sensor Circuit - Shorted Low(K2000-Eng2)	906057636
+Frequency Throttle Signal Out Of Range Low(K2000-Eng2)	906057640
+Accelerator Pedal Idle Validation Invalid(K2000-Eng2)	906057645
+Alternate Torque Curve Switch Circuit (K2000-Eng2)	906057666
+Very Low Oil Level(K2000-Eng2)	906057697
+Oil Level Invalid(K2000-Eng2)	906057698
+High Lubricating Oil Filter Restriction(K2000-Eng2)	906057729
+Low Oil Pressure(K2000-Eng2)	906057761
+Engine Oil Pressure Sensor Circuit - Shorted High(K2000-Eng2)	906057763
+Oil Pressure Sensor Circuit Failed Low(K2000-Eng2)	906057764
+Oil Pressure - Engine Protection Active(K2000-Eng2)	906057778
+Intake Manifold Pressure Sensor #1 Circuit - Shorted High(K2000-Eng2)	906057795
+Intake Manifold Pressure Sensor #1 Circuit - Shorted Low(K2000-Eng2)	906057796
+High Intake Manifold Pressure Left Bank(K2000-Eng2)	906057808
+Low Intake Manifold Pressure Left Bank(K2000-Eng2)	906057810
+High Intake Manifold Air Temperature #1(K2000-Eng2)	906057824
+Intake Manifold Air Temperature #1 - Sensor Circuit Failed High(K2000-Eng2)	906057827
+Intake Manifold Air Temperature #1 - Sensor Circuit Failed Low(K2000-Eng2)	906057828
+Pre Filter Oil Pressure Sensor Circuit Failed High(K2000-Eng2)	906057834
+Ambient Air Pressure Sensor Failed High(K2000-Eng2)	906057859
+Ambient Air Pressure Sensor Failed Low(K2000-Eng2)	906057860
+Ambient Air Pressure Sensor Failed Low(K2000-Eng2)	906057889
+Coolant Pressure Sensor Circuit Failed High(K2000-Eng2)	906057891
+Coolant Pressure Sensor Circuit Failed Low(K2000-Eng2)	906057892
+Low Coolant Pressure(K2000-Eng2)	906057906
+High Coolant Temperature(K2000-Eng2)	906057920
+Coolant Temperature Sensor Circuit Failed High(K2000-Eng2)	906057923
+Coolant Temperature Sensor Circuit Failed Low(K2000-Eng2)	906057924
+Low Coolant Level(K2000-Eng2)	906057953
+Coolant Level Signal Invalid(K2000-Eng2)	906057954
+Coolant Level Signal Invalid(K2000-Eng2)	906057986
+OEM Alternate Droop Switch Validation Fault(K2000-Eng2)	906058019
+Fuel Pump Pressure Sensor Circuit Failed High(K2000-Eng2)	906058020
+Fuel Pump Pressure Sensor Circuit Failed Low(K2000-Eng2)	906058050
+Fuel Timing Pressure Failed In Range(K2000-Eng2)	906058051
+Timing Rail Pressure Sensor Circuit Failed High(K2000-Eng2)	906058052
+Fuel Pressure High - Warning(K2000-Eng2)	906058112
+Fuel Rail Pressure Over Limits(K2000-Eng2)	906058114
+Fuel Pressure Sensor Failed High Active(K2000-Eng2)	906058115
+Fuel Pressure Sensor Failed Low Active(K2000-Eng2)	906058116
+Fueling Rail Pressure Sensor Circuit Failed Low(K2000-Eng2)	906058144
+Battery Voltage Above Normal Range(K2000-Eng2)	906058145
+Battery Voltage Below Normal Range(K2000-Eng2)	906058162
+Battery Voltage Below Normal Range(K2000-Eng2)	906058176
+High Fuel Temperature(K2000-Eng2)	906058179
+Fuel Temperature Sensor Circuit Failed High(K2000-Eng2)	906058180
+High Oil Temperature(K2000-Eng2)	906058208
+Pre Filter Oil Pressure Sensor Circuit Failed Low(K2000-Eng2)	906058209
+Oil Temperature Sensor Circuit Failed High(K2000-Eng2)	906058211
+Oil Temperature Sensor Circuit Failed Low(K2000-Eng2)	906058212
+Engine Overspeed Active(K2000-Eng2)	906058240
+Engine Speed/Position Sensor Circuit - Lost Two Signals From Sensor(K2000-Eng2)	906058242
+Engine Speed/Position Sensor Circuit - Lost One Signal From Sensor(K2000-Eng2)	906058250
+Both Engine Speed And/Or Position Signal Lost(K2000-Eng2)	906058272
+One Engine Speed Signal Lost(K2000-Eng2)	906058273
+Trend Data Memory Nearly Full Active(K2000-Eng2)	906058306
+Output Shaft (Tailshaft)Speed Above Normal(K2000-Eng2)	906058307
+AXG Speed Low Error(K2000-Eng2)	906058308
+Oil Filter Bypass Valve Open Active(K2000-Eng2)	906058311
+Non-Zero Engine Speed At Power-Up Active(K2000-Eng2)	906058315
+Communication Error (GSP Or RPC)(K2000-Eng2)	906058335
+OEM-Intermediate (PTO)Speed Switch Validation Fault(K2000-Eng2)	906058350
+Post Oil Filter Pressure Sensor Circuit Failed High(K2000-Eng2)	906058369
+Post Oil Filter Pressure Sensor Circuit Failed Low(K2000-Eng2)	906058379
+Fault Log Snapshot Data Nearly Full Active(K2000-Eng2)	906058403
+Engine Control Module - Critical Internal(K2000-Eng2)	906058412
+Non-Zero Engine Speed At Power-Up Active(K2000-Eng2)	906058444
+Fault Log Snapshot Data Full Active(K2000-Eng2)	906058445
+Engine Hot Shutdown(K2000-Eng2)	906058467
+RPC Number Not Supported Active(K2000-Eng2)	906058468
+OEM Component Failure(K2000-Eng2)	906058471
+Ether Bottle Empty(K2000-Eng2)	906058498
+Ether Solenoid Circuit Failed(K2000-Eng2)	906058499
+ECM Initiated Hot Shutdown Error(K2000-Eng2)	906058500
+ECM Not Calibrated - Use 111(K2000-Eng2)	906058503
+Eng Control Module -Critical Internal Failure/Warning Software Error(K2000-Eng2)	906058530
+ECM Software/Hardware Failure(K2000-Eng2)	906058531
+Rapid Rise In Intake Manifold Temperature LBR Active(K2000-Eng2)	906058532
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Active(K2000-Eng2)	906058535
+Fuel Shutoff Valve - Component Shorted High Active(K2000-Eng2)	906058563
+Fuel Shutoff Valve Solenoid Shorted Low Or Open Circuit(K2000-Eng2)	906058569
+Fuel Shutoff Valve Mechanically Stuck Open(K2000-Eng2)	906058594
+Fuel Rail Actuator - Data Out Of Range(K2000-Eng2)	906058627
+Fuel Control Valve - Failed High Or Open(K2000-Eng2)	906058659
+Fuel Control Valve - Component Shorted Low(K2000-Eng2)	906058690
+Fuel Control Valve - Mechanically Stuck Open(K2000-Eng2)	906058723
+Timing Rail Actuator - Data Out Of Range(K2000-Eng2)	906058727
+Timing Actuator Circuit Failed High(K2000-Eng2)	906058755
+Timing Actuator - Component Shorted Low Active(K2000-Eng2)	906058756
+Timing Fueling Flow Mismatch(K2000-Eng2)	906058766
+J1939 Data Can Not Transmit(K2000-Eng2)	906058787
+J1939 Data Can Not Transmit(K2000-Eng2)	906058788
+Multiple Unit Synchronization Error(K2000-Eng2)	906058798
+Right Bank Intake Manifold Pressure Sensor Circuit Failed High(K2000-Eng2)	906058819
+Right Bank Intake Manifold Pressure Sensor Circuit Failed Low(K2000-Eng2)	906058820
+High Intake Manifold Pressure Right Bank(K2000-Eng2)	906058832
+Low Intake Manifold Pressure Right Bank(K2000-Eng2)	906058834
+High Intake Manifold Air Temperature #3(K2000-Eng2)	906058848
+Intake Manifold Air Temperature #3 - Sensor Circuit Failed High(K2000-Eng2)	906058851
+Intake Manifold Air Temperature #3 - Sensor Circuit Failed Low(K2000-Eng2)	906058852
+Public Data Link - Cannot Transmit Active(K2000-Eng2)	906058858
+High Intake Manifold Air Temperature #4(K2000-Eng2)	906058880
+Intake Manifold Air Temperature #4 - Sensor Circuit Failed High(K2000-Eng2)	906058883
+Intake Manifold Air Temperature #4 - Sensor Circuit Failed Low(K2000-Eng2)	906058884
+Public Data Link - Not Fast Enough Active(K2000-Eng2)	906058890
+High Exhaust Temperature - Cylinder #1 (A1)(K2000-Eng2)	906058912
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #1 (A1)(K2000-Eng2)	906058916
+High Power - Cylinder #1 (A1)(K2000-Eng2)	906058928
+Low Power - Cylinder #1 (A1)(K2000-Eng2)	906058930
+High Exhaust Temperature - Cylinder #3 (A2)(K2000-Eng2)	906058944
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #3 (A2)(K2000-Eng2)	906058948
+High Power - Cylinder #3 (A2)(K2000-Eng2)	906058960
+Low Power - Cylinder #3 (A2)(K2000-Eng2)	906058962
+High Exhaust Temperature - Cylinder #5 (A3)(K2000-Eng2)	906058976
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #5 (A3)(K2000-Eng2)	906058980
+High Power - Cylinder #5 (A3)(K2000-Eng2)	906058992
+Low Power - Cylinder #5 (A3)(K2000-Eng2)	906058994
+High Exhaust Temperature - Cylinder #7 (A4)(K2000-Eng2)	906059008
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #7 (A4)(K2000-Eng2)	906059012
+High Power - Cylinder #7 (A4)(K2000-Eng2)	906059024
+Low Power - Cylinder #7 (A4)(K2000-Eng2)	906059026
+High Exhaust Temperature - Cylinder #9 (A5)(K2000-Eng2)	906059040
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #9 (A5)(K2000-Eng2)	906059044
+High Power - Cylinder #9 (A5)(K2000-Eng2)	906059056
+Low Power - Cylinder #9 (A5)(K2000-Eng2)	906059058
+High Exhaust Temperature - Cylinder #11 (A6)(K2000-Eng2)	906059072
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #11 (A6)(K2000-Eng2)	906059076
+High Power - Cylinder #11 (A6)(K2000-Eng2)	906059088
+Low Power - Cylinder #11 (A6)(K2000-Eng2)	906059090
+High Exhaust Temperature - Cylinder #2 (B1)(K2000-Eng2)	906059104
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #2 (B1)(K2000-Eng2)	906059108
+High Power - Cylinder #2 (B1)(K2000-Eng2)	906059120
+Low Power - Cylinder #2 (B1)(K2000-Eng2)	906059122
+High Exhaust Temperature - Cylinder #4 (B2)(K2000-Eng2)	906059136
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #4 (B2)(K2000-Eng2)	906059140
+High Power - Cylinder #4 (B2)(K2000-Eng2)	906059152
+Low Power - Cylinder #4 (B2)(K2000-Eng2)	906059154
+High Exhaust Temperature - Cylinder #6 (B3)(K2000-Eng2)	906059168
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #6 (B3)(K2000-Eng2)	906059172
+High Power - Cylinder #6 (B3)(K2000-Eng2)	906059184
+Low Power - Cylinder #6 (B3)(K2000-Eng2)	906059186
+High Exhaust Temperature - Cylinder #8 (B4)(K2000-Eng2)	906059200
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #8 (B4)(K2000-Eng2)	906059204
+High Power - Cylinder #8 (B4)(K2000-Eng2)	906059216
+Low Power - Cylinder #8 (B4)(K2000-Eng2)	906059218
+High Exhaust Temperature - Cylinder #10 (B5)(K2000-Eng2)	906059232
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #10 (B5)(K2000-Eng2)	906059236
+High Power - Cylinder #10 (B5)(K2000-Eng2)	906059248
+Low Power - Cylinder #10 (B5)(K2000-Eng2)	906059250
+High Exhaust Temperature - Cylinder #12 (B6)(K2000-Eng2)	906059264
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #12 (B6)(K2000-Eng2)	906059268
+High Power - Cylinder #12 (B6)(K2000-Eng2)	906059280
+Low Power - Cylinder #12 (B6)(K2000-Eng2)	906059282
+High Exhaust Temperature - Cylinder #10 (B5) Or #12 (B6)(K2000-Eng2)	906059296
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #10 (B5)(K2000-Eng2)	906059300
+High Power - Cylinder #12 (B6)(K2000-Eng2)	906059312
+Low Power - Cylinder #10 (B5)(K2000-Eng2)	906059314
+High Power/Temperature - Cylinder #14 (B7)(K2000-Eng2)	906059328
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #12 (B6)(K2000-Eng2)	906059332
+High Power - Cylinder #12 (B6)(K2000-Eng2)	906059344
+Low Power - Cylinder #12 (B6)(K2000-Eng2)	906059346
+High Power/Temperature - Cylinder #16 (B8)(K2000-Eng2)	906059360
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #14 (B7)(K2000-Eng2)	906059364
+High Power - Cylinder #6 (B3)(K2000-Eng2)	906059376
+Low Power - Cylinder #14 (B7)(K2000-Eng2)	906059378
+High Exhaust Temperature - Cylinder #8 (B4)(K2000-Eng2)	906059392
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #16 (B8)(K2000-Eng2)	906059396
+High Power - Cylinder #8 (B4)(K2000-Eng2)	906059408
+Low Power - Cylinder #16 (B8)(K2000-Eng2)	906059410
+High Exhaust Temperature - Cylinder #10 (B5)(K2000-Eng2)	906059424
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #10 (B5)(K2000-Eng2)	906059428
+High Power - Cylinder #10 (B5)(K2000-Eng2)	906059440
+Low Power - Cylinder #10 (B5)(K2000-Eng2)	906059442
+High Exhaust Temperature - Cylinder #12 (B6)(K2000-Eng2)	906059456
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #12 (B6)(K2000-Eng2)	906059460
+High Power - Cylinder #12 (B6)(K2000-Eng2)	906059472
+Low Power - Cylinder #12 (B6)(K2000-Eng2)	906059474
+Right Turbo Compressor Inlet Temp Sensor Failed High Active(K2000-Eng2)	906059491
+Exhaust Temperature Sensor Circuit Failed Low - Cylinder #14 (B7)(K2000-Eng2)	906059492
+High Turbo Compressor Inlet Temperature Right Bank Active(K2000-Eng2)	906059504
+Low Power - Cylinder #14 (B7)(K2000-Eng2)	906059520
+Pre Filter Oil Pressure Sensor Circuit Failed High(K2000-Eng2)	906059555
+Pre Filter Oil Pressure Sensor Circuit Failed Low(K2000-Eng2)	906059556
+High Blowby Pressure(K2000-Eng2)	906059584
+Blowby Pressure Sensor Circuit Failed High(K2000-Eng2)	906059587
+Blowby Pressure Sensor Circuit Failed Low(K2000-Eng2)	906059588
+Exhaust Temp Sensor Circuit Failed Low - Cylinder #18 (B9)(K2000-Eng2)	906059620
+High Power - Cylinder #18 (B9)(K2000-Eng2)	906059652
+Trend Data Memory Nearly Full Active(K2000-Eng2)	906059663
+Trend Data Memory Full Active(K2000-Eng2)	906059664
+Low Power - Cylinder #18 (B9)(K2000-Eng2)	906059682
+Int Manif Air Temp #2 Turboch Comp Inlet Temp Sensor Ckt Failed High(K2000-Eng2)	906059713
+Int Manif Air Temp #2 Turboch Comp Inlet Temp Sensor Ckt Failed Low(K2000-Eng2)	906059714
+Fault Log Snapshot Data Nearly Full Active(K2000-Eng2)	906059727
+Fault Log Snapshot Data Full Active(K2000-Eng2)	906059728
+Catastrophic Power Loss - Ecm Data Lost(K2000-Eng2)	906059743
+Engine Hot Shutdown Active(K2000-Eng2)	906059775
+Ambient Derate Error(K2000-Eng2)	906059807
+High Intake Manifold Air Temperature #2(K2000-Eng2)	906059808
+Intake Manifold Air Temperature #2 - Sensor Circuit Failed High(K2000-Eng2)	906059811
+Intake Manifold Air Temperature #2 - Sensor Circuit Failed Low(K2000-Eng2)	906059812
+Idle Validation Circuit(K2000-Eng2)	906059818
+High Blowby Pressure(K2000-Eng2)	906059875
+Blowby Pressure Sensor Circuit Failed High(K2000-Eng2)	906059876
+Blowby Pressure Sensor Circuit Failed Low(K2000-Eng2)	906059908
+CORS Burn Valve Solenoid - Component Shorted Low(K2000-Eng2)	906059938
+CORS Makeup Valve - Component Shorted Low(K2000-Eng2)	906059945
+Remote Oil Level Sensor Signal Invalid(K2000-Eng2)	906059986
+Change Lubricating Oil And Filter(K2000-Eng2)	906060006
+Aux (Transmission)Temp-Component Shorted High(K2000-Eng2)	906060007
+Aux (Transmission)Temp-Component Shorted Low(K2000-Eng2)	906060036
+Left Bank Intake Restriction Sensor Failed High Active(K2000-Eng2)	906060067
+Left Bank Intake Restriction Sensor Failed Low Active(K2000-Eng2)	906060068
+High Intake Restriction Left Bank Active(K2000-Eng2)	906060080
+Intake Air Leak Left Bank Active(K2000-Eng2)	906060082
+Right Bank Intake Restriction Sensor Failed High Active(K2000-Eng2)	906060099
+Right Bank Intake Restriction Sensor Failed Low Active(K2000-Eng2)	906060100
+High Intake Restriction Right Bank Active(K2000-Eng2)	906060112
+Intake Air Leak Right Bank Active(K2000-Eng2)	906060114
+Change Fuel Filter Active(K2000-Eng2)	906060159
+Change Coolant Filter Active(K2000-Eng2)	906060191
+Change Coolant Active(K2000-Eng2)	906060223
+Lubricating Oil Filters Require Changing Active(K2000-Eng2)	906060255
+Lbf Turbo Comp Inlet Temp Sens Failed High(K2000-Eng2)	906060291
+Lbr Turbo Comp Inlet Temp Sens Failed Low(K2000-Eng2)	906060292
+High Turbo Compressor Inlet Temp Lb(K2000-Eng2)	906060304
+Right Turbo Compressor Inlet Temp Sensor Failed Low Active(K2000-Eng2)	906060324
+Operator Initiated Fault Log(K2000-Eng2)	906060363
+Change Lubricating Oil And Filter(K2000-Eng2)	906060384
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted High(Cense-CM530_QSK60)	906060803
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted Low(Cense-CM530_QSK60)	906060804
+Throttle Pedal Idle Validation - Invalid Active(Cense-CM530_QSK60)	906060834
+Throttle Position - Component Shorted High Active(Cense-CM530_QSK60)	906060835
+Throttle Position - Component Shorted Low Active (J1587)(Cense-CM530_QSK60)	906060836
+Frequency Throttle Circuit Active(Cense-CM530_QSK60)	906060840
+Throttle Pedal Idle Switch Does Not Agree With Throttle Pot Active(Cense-CM530_QSK60)	906060845
+Alternate Torque Curve Switch Circuit (Cense-CM530_QSK60)	906060866
+Very Low Oil Level(Cense-CM530_QSK60)	906060897
+Oil Level Invalid (Sensor) Active(Cense-CM530_QSK60)	906060898
+High Lubricating Oil Filter Restriction(Cense-CM530_QSK60)	906060929
+Oil Pressure - Engine Protection Active(Cense-CM530_QSK60)	906060961
+Oil Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906060963
+Oil Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906060964
+Left Bank Intake Manifold Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906060995
+Left Bank Intake Manifold Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906060996
+High Intake Manifold Pressure Left Bank (Cense-CM530_QSK60)	906061008
+Low Intake Manifold Pressure Left Bank(Cense-CM530_QSK60)	906061010
+High Intake Manifold Temperature - Left Bank Front (Cense-CM530_QSK60)	906061024
+Left Bank Front Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK60)	906061027
+Left Bank Front Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061028
+Rapid Rise In Intake Manifold Temperature LBF Active(Cense-CM530_QSK60)	906061034
+Ambient Air Pressure Sensor Failed High(Cense-CM530_QSK60)	906061059
+Ambient Air Pressure Sensor Failed Low(Cense-CM530_QSK60)	906061060
+Low Coolant Pressure(Cense-CM530_QSK60)	906061089
+Coolant Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906061091
+Coolant Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061092
+High Coolant Temperature(Cense-CM530_QSK60)	906061120
+Coolant Temperature Sensor Circuit Failed High(Cense-CM530_QSK60)	906061123
+Coolant Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061124
+Low Coolant Level(Cense-CM530_QSK60)	906061153
+Coolant Level Signal Invalid(Cense-CM530_QSK60)	906061154
+OEM Alternate Droop Switch Validation Fault(Cense-CM530_QSK60)	906061186
+Fuel Pump Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906061219
+Fuel Pump Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061220
+Fuel Timing Pressure Failed In Range(Cense-CM530_QSK60)	906061250
+Timing Rail Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906061251
+Timing Rail Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061252
+High Fuel Pressure Active(Cense-CM530_QSK60)	906061312
+Fuel Rail Pressure Sensor Circuit Failed In Range(Cense-CM530_QSK60)	906061314
+Fuel Pressure Sensor Failed High Active(Cense-CM530_QSK60)	906061315
+Fuel Pressure Sensor Failed Low Active(Cense-CM530_QSK60)	906061316
+Battery Voltage Above Normal Range(Cense-CM530_QSK60)	906061344
+Battery Voltage Below Normal Range(Cense-CM530_QSK60)	906061345
+Fuel Temperature - Engine Protection Active(Cense-CM530_QSK60)	906061376
+Fuel Temperature Sensor Circuit Active(Cense-CM530_QSK60)	906061379
+Fuel Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061380
+High Oil Temperature(Cense-CM530_QSK60)	906061408
+Oil Temperature Low Active(Cense-CM530_QSK60)	906061409
+Oil Temperature Sensor Circuit Failed High(Cense-CM530_QSK60)	906061411
+Oil Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061412
+Engine Overspeed Active(Cense-CM530_QSK60)	906061440
+Both Engine Speed And/Or Position Signal Lost(Cense-CM530_QSK60)	906061442
+One Engine Speed Signal Lost(Cense-CM530_QSK60)	906061450
+Output Shaft (Tailshaft) Speed Above Normal(Cense-CM530_QSK60)	906061472
+AXG Speed Low Error(Cense-CM530_QSK60)	906061473
+OEM-Intermediate (PTO) Speed Switch Validation Fault(Cense-CM530_QSK60)	906061506
+Post Oil Filter Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906061507
+Post Oil Filter Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061508
+Oil Filter Bypass Valve Open Active(Cense-CM530_QSK60)	906061511
+Non-Zero Engine Speed At Power-Up Active(Cense-CM530_QSK60)	906061515
+RPC Number Not Supported Active(Cense-CM530_QSK60)	906061535
+OEM Connected Component Broadcasting Code Information Active(Cense-CM530_QSK60)	906061550
+Ether Bottle Is Empty(Cense-CM530_QSK60)	906061569
+Ether Injection Circuit Active(Cense-CM530_QSK60)	906061579
+ECM Not Calibrated - Use 111(Cense-CM530_QSK60)	906061603
+ECM Hardware Active(Cense-CM530_QSK60)	906061612
+Eletronic Control Module Powerdown Error Active(Cense-CM530_QSK60)	906061644
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Active(Cense-CM530_QSK60)	906061645
+Fuel Shutoff Valve - Component Shorted High Active(Cense-CM530_QSK60)	906061667
+Fuel Shutoff Valve Solenoid Shorted Low Or Open Circuit(Cense-CM530_QSK60)	906061668
+Fuel Shutoff Valve Mechanically Stuck Open(Cense-CM530_QSK60)	906061671
+Fuel Railing Flow Mismatch(Cense-CM530_QSK60)	906061698
+Fuel Control Valve - Failed High Or Open(Cense-CM530_QSK60)	906061699
+Fuel Control Valve - Component Shorted Low(Cense-CM530_QSK60)	906061700
+Fuel Control Valve - Mechanically Stuck Open(Cense-CM530_QSK60)	906061703
+Timing Rail Actuator - Data Out Of Range(Cense-CM530_QSK60)	906061730
+Timing Actuator Circuit Failed High(Cense-CM530_QSK60)	906061731
+Timing Actuator - Component Shorted Low Active(Cense-CM530_QSK60)	906061732
+Timing Actuator - Mechanically Stuck Active(Cense-CM530_QSK60)	906061735
+ECM Can Not Transmit On J1939 Datalink Active(Cense-CM530_QSK60)	906061763
+ECM Can Not Transmit On J1939 Datalink At Acceptable Rate Active(Cense-CM530_QSK60)	906061769
+Multiple Unit Synchronization Error(Cense-CM530_QSK60)	906061794
+Solenoid A Error(Cense-CM530_QSK60)	906061827
+Solenoid B Error(Cense-CM530_QSK60)	906061859
+Engine Speed Sensor Active(Cense-CM530_QSK60)	906061890
+Fuel Pump Actuator Circuit Active(Cense-CM530_QSK60)	906061923
+Fuel Pump Fueling Flow Mismatch Active(Cense-CM530_QSK60)	906061927
+OEM Temperature Sensor Circuit Failed High(Cense-CM530_QSK60)	906061955
+OEM Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061956
+OEM Temperature - Engine Protection Active(Cense-CM530_QSK60)	906061966
+OEM Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906061987
+OEM Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906061988
+OEM Pressure - Engine Protection Active(Cense-CM530_QSK60)	906061998
+Right Bank Intake Manifold Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906062019
+Right Bank Intake Manifold Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906062020
+High Intake Manifold Pressure Right Bank(Cense-CM530_QSK60)	906062032
+Low Intake Manifold Pressure Right Bank(Cense-CM530_QSK60)	906062034
+High Intake Manifold Temperature - Right Bank Front(Cense-CM530_QSK60)	906062048
+Right Bank Front Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK60)	906062051
+Right Bank Front Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60)	906062052
+Intake Manifold Air Temperature #3 Rapid Rise Active(Cense-CM530_QSK60)	906062058
+Rapid Rise In Intake Manifold Temperature RBR Active(Cense-CM530_QSK60)	906062090
+High Exhaust Temperature - Cylinder No. 1 Left Bank(Cense-CM530_QSK60)	906062112
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 1(Cense-CM530_QSK60)	906062116
+High Power - Left Bank Cylinder No. 1(Cense-CM530_QSK60)	906062128
+Low Power - Cylinder No. 1 Left Bank(Cense-CM530_QSK60)	906062130
+High Exhaust Temperature - Cylinder No. 2 Left Bank(Cense-CM530_QSK60)	906062144
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 2(Cense-CM530_QSK60)	906062148
+High Power - Left Bank Cylinder No. 2(Cense-CM530_QSK60)	906062160
+Low Power - Cylinder No. 2 Left Bank(Cense-CM530_QSK60)	906062162
+High Exhaust Temperature - Cylinder No. 3 Left Bank(Cense-CM530_QSK60)	906062176
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 3(Cense-CM530_QSK60)	906062180
+High Power - Left Bank Cylinder No. 3(Cense-CM530_QSK60)	906062192
+Low Power - Cylinder No. 3 Left Bank(Cense-CM530_QSK60)	906062194
+High Exhaust Temperature - Cylinder No. 4 Left Bank(Cense-CM530_QSK60)	906062208
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 4(Cense-CM530_QSK60)	906062212
+High Power - Left Bank Cylinder No. 4(Cense-CM530_QSK60)	906062224
+Low Power - Cylinder No. 4 Left Bank(Cense-CM530_QSK60)	906062226
+High Exhaust Temperature - Cylinder No. 5 Left Bank(Cense-CM530_QSK60)	906062240
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 5(Cense-CM530_QSK60)	906062244
+High Power - Left Bank Cylinder No. 5(Cense-CM530_QSK60)	906062256
+Low Power - Cylinder No. 5 Left Bank(Cense-CM530_QSK60)	906062258
+High Exhaust Temperature - Cylinder No. 6 Left Bank(Cense-CM530_QSK60)	906062272
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 6(Cense-CM530_QSK60)	906062276
+High Power - Left Bank Cylinder No. 6(Cense-CM530_QSK60)	906062288
+Low Power - Cylinder No. 6 Left Bank(Cense-CM530_QSK60)	906062290
+High Exhaust Temperature - Cylinder No. 7 Left Bank(Cense-CM530_QSK60)	906062304
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 7(Cense-CM530_QSK60)	906062308
+High Power - Left Bank Cylinder No. 7(Cense-CM530_QSK60)	906062320
+Low Power - Cylinder No. 7 Left Bank(Cense-CM530_QSK60)	906062322
+High Exhaust Temperature - Cylinder No. 8 Left Bank (Cense-CM530_QSK60)	906062336
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 8(Cense-CM530_QSK60)	906062340
+High Power - Left Bank Cylinder No. 8(Cense-CM530_QSK60)	906062352
+Low Power - Cylinder No. 8 Left Bank(Cense-CM530_QSK60)	906062354
+High Exhaust Temperature - Cylinder No. 1 Right Bank(Cense-CM530_QSK60)	906062368
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 1(Cense-CM530_QSK60)	906062372
+High Power - Right Bank Cylinder No. 1(Cense-CM530_QSK60)	906062384
+Low Power - Cylinder No. 1 Right Bank(Cense-CM530_QSK60)	906062386
+High Exhaust Temperature - Cylinder No. 2 Right Bank(Cense-CM530_QSK60)	906062400
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 2(Cense-CM530_QSK60)	906062404
+High Power - Right Bank Cylinder No. 2(Cense-CM530_QSK60)	906062416
+Low Power - Cylinder No. 2 Right Bank(Cense-CM530_QSK60)	906062418
+High Exhaust Temperature - Cylinder No. 3 Right Bank(Cense-CM530_QSK60)	906062432
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 3(Cense-CM530_QSK60)	906062436
+High Power - Right Bank Cylinder No. 3(Cense-CM530_QSK60)	906062448
+Low Power - Cylinder No. 3 Right Bank(Cense-CM530_QSK60)	906062450
+High Exhaust Temperature - Cylinder No. 4 Right Bank(Cense-CM530_QSK60)	906062464
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 4(Cense-CM530_QSK60)	906062468
+High Power - Right Bank Cylinder No. 4(Cense-CM530_QSK60)	906062480
+Low Power - Cylinder No. 4 Right Bank(Cense-CM530_QSK60)	906062482
+High Exhaust Temperature - Cylinder No. 5 Right Bank(Cense-CM530_QSK60)	906062496
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 5(Cense-CM530_QSK60)	906062500
+High Power - Right Bank Cylinder No. 5(Cense-CM530_QSK60)	906062512
+Low Power - Cylinder No. 5 Right Bank(Cense-CM530_QSK60)	906062514
+High Exhaust Temperature - Cylinder No. 6 Right Bank(Cense-CM530_QSK60)	906062528
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 6(Cense-CM530_QSK60)	906062532
+High Power - Right Bank Cylinder No. 6(Cense-CM530_QSK60)	906062544
+Low Power - Cylinder No. 6 Right Bank(Cense-CM530_QSK60)	906062546
+High Exhaust Temperature - Cylinder No. 7 Right Bank(Cense-CM530_QSK60)	906062560
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 7(Cense-CM530_QSK60)	906062564
+High Power - Right Bank Cylinder No. 7(Cense-CM530_QSK60)	906062576
+Low Power - Cylinder No. 7 Right Bank(Cense-CM530_QSK60)	906062578
+High Exhaust Temperature - Cylinder No. 8 Right Bank(Cense-CM530_QSK60)	906062592
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 8(Cense-CM530_QSK60)	906062596
+High Power - Right Bank Cylinder No. 8(Cense-CM530_QSK60)	906062608
+Low Power - Cylinder No. 8 Right Bank(Cense-CM530_QSK60)	906062610
+Right Turbo Compressor Inlet Temp Sensor Failed High Active(Cense-CM530_QSK60)	906062691
+Right Turbo Compressor Inlet Temp Sensor Failed Low Active(Cense-CM530_QSK60)	906062692
+High Turbo Compressor Inlet Temperature Right Bank Active(Cense-CM530_QSK60)	906062704
+Ambient Derate Error(Cense-CM530_QSK60)	906062720
+Pre Filter Oil Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906062755
+Pre Filter Oil Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906062756
+High Blowby Pressure(Cense-CM530_QSK60)	906062784
+Blowby Pressure Sensor Circuit Failed High(Cense-CM530_QSK60)	906062787
+Blowby Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60)	906062788
+Burn Value Solenoid Fault Active(Cense-CM530_QSK60)	906062820
+Make-Up Value Solenoid Fault Active(Cense-CM530_QSK60)	906062852
+Trend Data Memory Nearly Full Active(Cense-CM530_QSK60)	906062863
+Trend Data Memory Full Active(Cense-CM530_QSK60)	906062864
+Multiple Unit Synchronization Switch Circuit - Data Incorrect(Cense-CM530_QSK60)	906062882
+Make-Up Tank Oil Level Low Fault Active(Cense-CM530_QSK60)	906062913
+Remote Oil Level Sensor Signal Invalid(Cense-CM530_QSK60)	906062914
+Fault Log Snapshot Data Nearly Full Active(Cense-CM530_QSK60)	906062927
+Fault Log Snapshot Data Full Active(Cense-CM530_QSK60)	906062928
+Engine Hot Shutdown Active(Cense-CM530_QSK60)	906062975
+Engine Shut Down Without Proper Cool-Down Active(Cense-CM530_QSK60)	906063007
+High Intake Manifold Temperature - Left Bank Rear(Cense-CM530_QSK60)	906063008
+Left Bank Rear Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK60)	906063011
+Left Bank Rear Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60)	906063012
+Rapid Rise In Intake Manifold Temperature LBR Active(Cense-CM530_QSK60)	906063018
+Aux (Transmission) Temp-Component Shorted High(Cense-CM530_QSK60)	906063075
+Aux (Transmission) Temp-Component Shorted Low(Cense-CM530_QSK60)	906063076
+Idle Validation Circuit(Cense-CM530_QSK60)	906063108
+Public Data Link - Cannot Transmit Active(Cense-CM530_QSK60)	906063138
+Public Data Link - Not Fast Enough Active(Cense-CM530_QSK60)	906063145
+OEM Sensor Supply Volt.-Data Below Normal Range Active(Cense-CM530_QSK60)	906063186
+Secondary Fuel Actuator-Component Shorted High Active(Cense-CM530_QSK60)	906063206
+Secondary Fuel Actuator-Mechanically Stuck Active(Cense-CM530_QSK60)	906063207
+Throttle Pedal Sensor Supply Volt.-Data Below Normal Range Active(Cense-CM530_QSK60)	906063236
+Left Bank Intake Restriction Sensor Failed High Active(Cense-CM530_QSK60)	906063267
+Left Bank Intake Restriction Sensor Failed Low Active(Cense-CM530_QSK60)	906063268
+High Intake Restriction Left Bank Active(Cense-CM530_QSK60)	906063280
+Intake Air Leak Left Bank Active(Cense-CM530_QSK60)	906063282
+Right Bank Intake Restriction Sensor Failed High Active(Cense-CM530_QSK60)	906063299
+Right Bank Intake Restriction Sensor Failed Low Active(Cense-CM530_QSK60)	906063300
+High Intake Restriction Right Bank Active(Cense-CM530_QSK60)	906063312
+Intake Air Leak Right Bank Active(Cense-CM530_QSK60)	906063314
+Change Fuel Filter Active(Cense-CM530_QSK60)	906063359
+Change Coolant Filter Active(Cense-CM530_QSK60)	906063391
+Change Coolant Active(Cense-CM530_QSK60)	906063423
+Lubricating Oil Filters Require Changing Active(Cense-CM530_QSK60)	906063455
+Change Lubricating Oil And Filter(Cense-CM530_QSK60)	906063584
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted High(Cense-CM530_QSK60-Eng2)	906064003
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted Low(Cense-CM530_QSK60-Eng2)	906064004
+Accelerator Pedal Idle Validation Invalid(Cense-CM530_QSK60-Eng2)	906064034
+Accelerator Pedal Position Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064035
+Accelerator Pedal Position Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064036
+Frequency Throttle Signal Out Of Range Low(Cense-CM530_QSK60-Eng2)	906064040
+Accelerator Pedal Idle Validation Invalid(Cense-CM530_QSK60-Eng2)	906064045
+Alternate Torque Curve Switch Circuit (Cense-CM530_QSK60-Eng2)	906064066
+Oil Level Low(Cense-CM530_QSK60-Eng2)	906064097
+Oil Level Signal Invalid(Cense-CM530_QSK60-Eng2)	906064098
+High Lubricating Oil Filter Restriction(Cense-CM530_QSK60-Eng2)	906064129
+Low Oil Pressure(Cense-CM530_QSK60-Eng2)	906064161
+Oil Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064163
+Oil Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064164
+Left Bank Intake Manifold Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064195
+Left Bank Intake Manifold Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064196
+High Intake Manifold Pressure Left Bank (Cense-CM530_QSK60-Eng2)	906064208
+Low Intake Manifold Pressure Left Bank(Cense-CM530_QSK60-Eng2)	906064210
+High Intake Manifold Temperature - Left Bank Front (Cense-CM530_QSK60-Eng2)	906064224
+Left Bank Front Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064227
+Left Bank Front Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064228
+Rapid Rise In Intake Manifold Temperature LBF Active(Cense-CM530_QSK60-Eng2)	906064234
+Ambient Air Pressure Sensor Failed High(Cense-CM530_QSK60-Eng2)	906064259
+Ambient Air Pressure Sensor Failed Low(Cense-CM530_QSK60-Eng2)	906064260
+Low Coolant Pressure(Cense-CM530_QSK60-Eng2)	906064289
+Coolant Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064291
+Coolant Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064292
+High Coolant Temperature(Cense-CM530_QSK60-Eng2)	906064320
+Coolant Temperature Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064323
+Coolant Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064324
+Low Coolant Level(Cense-CM530_QSK60-Eng2)	906064353
+Coolant Level Signal Invalid(Cense-CM530_QSK60-Eng2)	906064354
+OEM Alternate Droop Switch Validation Fault(Cense-CM530_QSK60-Eng2)	906064386
+Fuel Pump Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064419
+Fuel Pump Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064420
+Fuel Timing Pressure Failed In Range(Cense-CM530_QSK60-Eng2)	906064450
+Timing Rail Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064451
+Timing Rail Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064452
+Fuel Rail Pressure Over Limits(Cense-CM530_QSK60-Eng2)	906064512
+Fuel Rail Pressure Sensor Circuit Failed In Range(Cense-CM530_QSK60-Eng2)	906064514
+Fueling Rail Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064515
+Fueling Rail Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064516
+Battery Voltage Above Normal Range(Cense-CM530_QSK60-Eng2)	906064544
+Battery Voltage Below Normal Range(Cense-CM530_QSK60-Eng2)	906064545
+High Fuel Temperature(Cense-CM530_QSK60-Eng2)	906064576
+Fuel Temperature Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064579
+Fuel Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064580
+High Oil Temperature(Cense-CM530_QSK60-Eng2)	906064608
+Oil Temperature Low Active(Cense-CM530_QSK60-Eng2)	906064609
+Oil Temperature Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064611
+Oil Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064612
+Engine Overspeed(Cense-CM530_QSK60-Eng2)	906064640
+Both Engine Speed And/Or Position Signal Lost(Cense-CM530_QSK60-Eng2)	906064642
+One Engine Speed Signal Lost(Cense-CM530_QSK60-Eng2)	906064650
+Output Shaft (Tailshaft) Speed Above Normal(Cense-CM530_QSK60-Eng2)	906064672
+AXG Speed Low Error(Cense-CM530_QSK60-Eng2)	906064673
+OEM-Intermediate (PTO) Speed Switch Validation Fault	906064706
+Post Oil Filter Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064707
+Post Oil Filter Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906064708
+Oil Filter Bypass Valve Open Active(Cense-CM530_QSK60-Eng2)	906064711
+Non-Zero Engine Speed At Power-Up Active(Cense-CM530_QSK60-Eng2)	906064715
+RPC Number Not Supported Active(Cense-CM530_QSK60-Eng2)	906064735
+OEM Component Failure(Cense-CM530_QSK60-Eng2)	906064750
+Ether Bottle Empty(Cense-CM530_QSK60-Eng2)	906064769
+Ether Solenoid Circuit Failed(Cense-CM530_QSK60-Eng2)	906064779
+ECM Not Calibrated - Use 111(Cense-CM530_QSK60-Eng2)	906064803
+Engine Control Module - Critical Internal Failure/Warning Software Error(Cense-CM530_QSK60-Eng2)	906064812
+ECM Software/Hardware Failure(Cense-CM530_QSK60-Eng2)	906064844
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Active(Cense-CM530_QSK60-Eng2)	906064845
+Fuel Shutoff Valve - Component Shorted High Active(Cense-CM530_QSK60-Eng2)	906064867
+Fuel Shutoff Valve Solenoid Shorted Low Or Open Circuit(Cense-CM530_QSK60-Eng2)	906064868
+Fuel Shutoff Valve Mechanically Stuck Open(Cense-CM530_QSK60-Eng2)	906064871
+Fuel Rail Actuator - Data Out Of Range(Cense-CM530_QSK60-Eng2)	906064898
+Fuel Control Valve - Failed High Or Open(Cense-CM530_QSK60-Eng2)	906064899
+Fuel Control Valve - Component Shorted Low(Cense-CM530_QSK60-Eng2)	906064900
+Fuel Control Valve - Mechanically Stuck Open(Cense-CM530_QSK60-Eng2)	906064903
+Timing Rail Actuator - Data Out Of Range(Cense-CM530_QSK60-Eng2)	906064930
+Timing Actuator Circuit Failed High(Cense-CM530_QSK60-Eng2)	906064931
+Timing Actuator - Component Shorted Low Active(Cense-CM530_QSK60-Eng2)	906064932
+Timing Fueling Flow Mismatch(Cense-CM530_QSK60-Eng2)	906064935
+J1939 Data Can Not Transmit(Cense-CM530_QSK60-Eng2)	906064963
+J1939 Data Can Not Transmit(Cense-CM530_QSK60-Eng2)	906064969
+Multiple Unit Synchronization Error(Cense-CM530_QSK60-Eng2)	906064994
+Dual Ouput A Shorted High Or Open Circuit(Cense-CM530_QSK60-Eng2)	906065027
+Dual Output B Shorted High Or Open Circuit(Cense-CM530_QSK60-Eng2)	906065059
+Cam Sync Error(Cense-CM530_QSK60-Eng2)	906065090
+Fuel Pump Actuator - Open Or Shorted High(Cense-CM530_QSK60-Eng2)	906065123
+Fuel Pump Actuator - Mechanically Stuck(Cense-CM530_QSK60-Eng2)	906065127
+OEM Temperature Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906065155
+OEM Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906065156
+OEM Temperature Sensor Outside Normal Operating Range(Cense-CM530_QSK60-Eng2)	906065166
+OEM Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906065187
+OEM Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906065188
+OEM Pressure Sensor Outside Normal Operating Range(Cense-CM530_QSK60-Eng2)	906065198
+Right Bank Intake Manifold Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906065219
+Right Bank Intake Manifold Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906065220
+High Intake Manifold Pressure Right Bank(Cense-CM530_QSK60-Eng2)	906065232
+Low Intake Manifold Pressure Right Bank(Cense-CM530_QSK60-Eng2)	906065234
+High Intake Manifold Temperature - Right Bank Front(Cense-CM530_QSK60-Eng2)	906065248
+Right Bank Front Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906065251
+Right Bank Front Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906065252
+Intake Manifold Air Temperature #3 Rapid Rise Active(Cense-CM530_QSK60-Eng2)	906065258
+Rapid Rise In Intake Manifold Temperature RBR Active(Cense-CM530_QSK60-Eng2)	906065290
+High Exhaust Temperature - Cylinder No. 1 Left Bank(Cense-CM530_QSK60-Eng2)	906065312
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 1(Cense-CM530_QSK60-Eng2)	906065316
+High Power - Left Bank Cylinder No. 1(Cense-CM530_QSK60-Eng2)	906065328
+Low Power - Cylinder No. 1 Left Bank(Cense-CM530_QSK60-Eng2)	906065330
+High Exhaust Temperature - Cylinder No. 2 Left Bank(Cense-CM530_QSK60-Eng2)	906065344
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 2(Cense-CM530_QSK60-Eng2)	906065348
+High Power - Left Bank Cylinder No. 2(Cense-CM530_QSK60-Eng2)	906065360
+Low Power - Cylinder No. 2 Left Bank(Cense-CM530_QSK60-Eng2)	906065362
+High Exhaust Temperature - Cylinder No. 3 Left Bank(Cense-CM530_QSK60-Eng2)	906065376
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 3(Cense-CM530_QSK60-Eng2)	906065380
+High Power - Left Bank Cylinder No. 3(Cense-CM530_QSK60-Eng2)	906065392
+Low Power - Cylinder No. 3 Left Bank(Cense-CM530_QSK60-Eng2)	906065394
+High Exhaust Temperature - Cylinder No. 4 Left Bank(Cense-CM530_QSK60-Eng2)	906065408
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 4(Cense-CM530_QSK60-Eng2)	906065412
+High Power - Left Bank Cylinder No. 4(Cense-CM530_QSK60-Eng2)	906065424
+Low Power - Cylinder No. 4 Left Bank(Cense-CM530_QSK60-Eng2)	906065426
+High Exhaust Temperature - Cylinder No. 5 Left Bank(Cense-CM530_QSK60-Eng2)	906065440
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 5(Cense-CM530_QSK60-Eng2)	906065444
+High Power - Left Bank Cylinder No. 5(Cense-CM530_QSK60-Eng2)	906065456
+Low Power - Cylinder No. 5 Left Bank(Cense-CM530_QSK60-Eng2)	906065458
+High Exhaust Temperature - Cylinder No. 6 Left Bank(Cense-CM530_QSK60-Eng2)	906065472
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 6(Cense-CM530_QSK60-Eng2)	906065476
+High Power - Left Bank Cylinder No. 6(Cense-CM530_QSK60-Eng2)	906065488
+Low Power - Cylinder No. 6 Left Bank(Cense-CM530_QSK60-Eng2)	906065490
+High Exhaust Temperature - Cylinder No. 7 Left Bank(Cense-CM530_QSK60-Eng2)	906065504
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 7(Cense-CM530_QSK60-Eng2)	906065508
+High Power - Left Bank Cylinder No. 7(Cense-CM530_QSK60-Eng2)	906065520
+Low Power - Cylinder No. 7 Left Bank(Cense-CM530_QSK60-Eng2)	906065522
+High Exhaust Temperature - Cylinder No. 8 Left Bank(Cense-CM530_QSK60-Eng2)	906065536
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 8(Cense-CM530_QSK60-Eng2)	906065540
+High Power - Left Bank Cylinder No. 8(Cense-CM530_QSK60-Eng2)	906065552
+Low Power - Cylinder No. 8 Left Bank(Cense-CM530_QSK60-Eng2)	906065554
+High Exhaust Temperature - Cylinder No. 1 Right Bank(Cense-CM530_QSK60-Eng2)	906065568
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 1(Cense-CM530_QSK60-Eng2)	906065572
+High Power - Right Bank Cylinder No. 1(Cense-CM530_QSK60-Eng2)	906065584
+Low Power - Cylinder No. 1 Right Bank(Cense-CM530_QSK60-Eng2)	906065586
+High Exhaust Temperature - Cylinder No. 2 Right Bank(Cense-CM530_QSK60-Eng2)	906065600
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 2(Cense-CM530_QSK60-Eng2)	906065604
+High Power - Right Bank Cylinder No. 2(Cense-CM530_QSK60-Eng2)	906065616
+Low Power - Cylinder No. 2 Right Bank(Cense-CM530_QSK60-Eng2)	906065618
+High Exhaust Temperature - Cylinder No. 3 Right Bank(Cense-CM530_QSK60-Eng2)	906065632
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 3(Cense-CM530_QSK60-Eng2)	906065636
+High Power - Right Bank Cylinder No. 3(Cense-CM530_QSK60-Eng2)	906065648
+Low Power - Cylinder No. 3 Right Bank(Cense-CM530_QSK60-Eng2)	906065650
+High Exhaust Temperature - Cylinder No. 4 Right Bank(Cense-CM530_QSK60-Eng2)	906065664
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 4(Cense-CM530_QSK60-Eng2)	906065668
+High Power - Right Bank Cylinder No. 4(Cense-CM530_QSK60-Eng2)	906065680
+Low Power - Cylinder No. 4 Right Bank(Cense-CM530_QSK60-Eng2)	906065682
+High Exhaust Temperature - Cylinder No. 5 Right Bank(Cense-CM530_QSK60-Eng2)	906065696
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 5(Cense-CM530_QSK60-Eng2)	906065700
+High Power - Right Bank Cylinder No. 5(Cense-CM530_QSK60-Eng2)	906065712
+Low Power - Cylinder No. 5 Right Bank(Cense-CM530_QSK60-Eng2)	906065714
+High Exhaust Temperature - Cylinder No. 6 Right Bank(Cense-CM530_QSK60-Eng2)	906065728
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 6(Cense-CM530_QSK60-Eng2)	906065732
+High Power - Right Bank Cylinder No. 6(Cense-CM530_QSK60-Eng2)	906065744
+Low Power - Cylinder No. 6 Right Bank(Cense-CM530_QSK60-Eng2)	906065746
+High Exhaust Temperature - Cylinder No. 7 Right Bank(Cense-CM530_QSK60-Eng2)	906065760
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 7(Cense-CM530_QSK60-Eng2)	906065764
+High Power - Right Bank Cylinder No. 7(Cense-CM530_QSK60-Eng2)	906065776
+Low Power - Cylinder No. 7 Right Bank(Cense-CM530_QSK60-Eng2)	906065778
+High Exhaust Temperature - Cylinder No. 8 Right Bank(Cense-CM530_QSK60-Eng2)	906065792
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 8(Cense-CM530_QSK60-Eng2)	906065796
+High Power - Right Bank Cylinder No. 8(Cense-CM530_QSK60-Eng2)	906065808
+Low Power - Cylinder No. 8 Right Bank(Cense-CM530_QSK60-Eng2)	906065810
+Left Bank Rear Turbocharger Compressor Inlet Temp Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906065891
+Left Bank Rear Turbocharger Compressor Inlet Temp Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906065892
+High Turbocharger Compressor Inlet Temperature Left Bank Rear(Cense-CM530_QSK60-Eng2)	906065904
+Ambient Derate Error(Cense-CM530_QSK60-Eng2)	906065920
+Pre Filter Oil Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906065955
+Pre Filter Oil Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906065956
+High Blowby Pressure(Cense-CM530_QSK60-Eng2)	906065984
+Blowby Pressure Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906065987
+Blowby Pressure Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906065988
+CORS Burn Valve Solenoid - Component Shorted Low(Cense-CM530_QSK60-Eng2)	906066020
+CORS Makeup Valve - Component Shorted Low(Cense-CM530_QSK60-Eng2)	906066052
+Trend Data Memory Nearly Full Active(Cense-CM530_QSK60-Eng2)	906066063
+Trend Data Memory Full Active(Cense-CM530_QSK60-Eng2)	906066064
+Multiple Unit Synchronization Switch Circuit - Data Incorrect(Cense-CM530_QSK60-Eng2)	906066082
+Remote Oil Level Low(Cense-CM530_QSK60-Eng2)	906066113
+Remote Oil Level Sensor Signal Invalid(Cense-CM530_QSK60-Eng2)	906066114
+Fault Log Snapshot Data Nearly Full Active(Cense-CM530_QSK60-Eng2)	906066127
+Fault Log Snapshot Data Full Active(Cense-CM530_QSK60-Eng2)	906066128
+Engine Hot Shutdown(Cense-CM530_QSK60-Eng2)	906066175
+ECM Initiated Hot Shutdown Error(Cense-CM530_QSK60-Eng2)	906066207
+High Intake Manifold Temperature - Left Bank Rear(Cense-CM530_QSK60-Eng2)	906066208
+Left Bank Rear Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK60-Eng2)	906066211
+Left Bank Rear Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK60-Eng2)	906066212
+Rapid Rise In Intake Manifold Temperature LBR Active(Cense-CM530_QSK60-Eng2)	906066218
+Aux (Transmission) Temp-Component Shorted High(Cense-CM530_QSK60-Eng2)	906066275
+Aux (Transmission) Temp-Component Shorted Low(Cense-CM530_QSK60-Eng2)	906066276
+Idle Validation Circuit(Cense-CM530_QSK60-Eng2)	906066308
+Public Data Link - Cannot Transmit Active(Cense-CM530_QSK60-Eng2)	906066338
+Public Data Link - Not Fast Enough Active(Cense-CM530_QSK60-Eng2)	906066345
+OEM Sensor Supply Volt.-Data Below Normal Range Active(Cense-CM530_QSK60-Eng2)	906066386
+Secondary Fuel Actuator-Component Shorted High Active(Cense-CM530_QSK60-Eng2)	906066406
+Secondary Fuel Actuator-Mechanically Stuck Active(Cense-CM530_QSK60-Eng2)	906066407
+Throttle Pedal Sensor Supply Volt.-Data Below Normal Range Active(Cense-CM530_QSK60-Eng2)	906066436
+Left Bank Intake Restriction Sensor Failed High Active(Cense-CM530_QSK60-Eng2)	906066467
+Left Bank Intake Restriction Sensor Failed Low Active(Cense-CM530_QSK60-Eng2)	906066468
+High Intake Restriction Left Bank Active(Cense-CM530_QSK60-Eng2)	906066480
+Intake Air Leak Left Bank Active(Cense-CM530_QSK60-Eng2)	906066482
+Right Bank Intake Restriction Sensor Failed High Active(Cense-CM530_QSK60-Eng2)	906066499
+Right Bank Intake Restriction Sensor Failed Low Active(Cense-CM530_QSK60-Eng2)	906066500
+High Intake Restriction Right Bank Active(Cense-CM530_QSK60-Eng2)	906066512
+Intake Air Leak Right Bank Active(Cense-CM530_QSK60-Eng2)	906066514
+Change Fuel Filter Active(Cense-CM530_QSK60-Eng2)	906066559
+Change Coolant Filter Active(Cense-CM530_QSK60-Eng2)	906066591
+Change Coolant Active(Cense-CM530_QSK60-Eng2)	906066623
+Lubricating Oil Filters Require Changing Active(Cense-CM530_QSK60-Eng2)	906066655
+Change Lubricating Oil And Filter(Cense-CM530_QSK60-Eng2)	906066784
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted High(Cense-CM530_QSK78)	906067203
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted Low(Cense-CM530_QSK78)	906067204
+Throttle Pedal Idle Validation - Invalid Active(Cense-CM530_QSK78)	906067234
+Throttle Position - Component Shorted High Active(Cense-CM530_QSK78)	906067235
+Throttle Position - Component Shorted Low Active (J1587)(Cense-CM530_QSK78)	906067236
+Frequency Throttle Circuit Active(Cense-CM530_QSK78)	906067240
+Throttle Pedal Idle Switch Does Not Agree With Throttle Pot Active(Cense-CM530_QSK78)	906067245
+Alternate Torque Curve Switch Circuit (Cense-CM530_QSK78)	906067266
+Very Low Oil Level(Cense-CM530_QSK78)	906067297
+Oil Level Invalid (Sensor) Active(Cense-CM530_QSK78)	906067298
+High Lubricating Oil Filter Restriction(Cense-CM530_QSK78)	906067329
+Oil Pressure - Engine Protection Active(Cense-CM530_QSK78)	906067361
+Oil Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906067363
+Oil Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067364
+Left Bank Intake Manifold Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906067395
+Left Bank Intake Manifold Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067396
+High Intake Manifold Pressure Left Bank (Cense-CM530_QSK78)	906067408
+Low Intake Manifold Pressure Left Bank(Cense-CM530_QSK78)	906067410
+High Intake Manifold Temperature - Left Bank Front (Cense-CM530_QSK78)	906067424
+Left Bank Front Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK78)	906067427
+Left Bank Front Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067428
+Rapid Rise In Intake Manifold Temperature LBF Active(Cense-CM530_QSK78)	906067434
+Ambient Air Pressure Sensor Failed High(Cense-CM530_QSK78)	906067459
+Ambient Air Pressure Sensor Failed Low(Cense-CM530_QSK78)	906067460
+Low Coolant Pressure(Cense-CM530_QSK78)	906067489
+Coolant Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906067491
+Coolant Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067492
+High Coolant Temperature(Cense-CM530_QSK78)	906067520
+Coolant Temperature Sensor Circuit Failed High(Cense-CM530_QSK78)	906067523
+Coolant Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067524
+Low Coolant Level(Cense-CM530_QSK78)	906067553
+Coolant Level Signal Invalid(Cense-CM530_QSK78)	906067554
+OEM Alternate Droop Switch Validation Fault(Cense-CM530_QSK78)	906067586
+Fuel Pump Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906067619
+Fuel Pump Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067620
+Fuel Timing Pressure Failed In Range(Cense-CM530_QSK78)	906067650
+Timing Rail Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906067651
+Timing Rail Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067652
+High Fuel Pressure Active(Cense-CM530_QSK78)	906067712
+Fuel Rail Pressure Sensor Circuit Failed In Range(Cense-CM530_QSK78)	906067714
+Fuel Pressure Sensor Failed High Active(Cense-CM530_QSK78)	906067715
+Fuel Pressure Sensor Failed Low Active(Cense-CM530_QSK78)	906067716
+Battery Voltage Above Normal Range(Cense-CM530_QSK78)	906067744
+Battery Voltage Below Normal Range(Cense-CM530_QSK78)	906067745
+Fuel Temperature - Engine Protection Active(Cense-CM530_QSK78)	906067776
+Fuel Temperature Sensor Circuit Active(Cense-CM530_QSK78)	906067779
+Fuel Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067780
+High Oil Temperature(Cense-CM530_QSK78)	906067808
+Oil Temperature Low Active(Cense-CM530_QSK78)	906067809
+Oil Temperature Sensor Circuit Failed High(Cense-CM530_QSK78)	906067811
+Oil Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067812
+Engine Overspeed Active(Cense-CM530_QSK78)	906067840
+Both Engine Speed And/Or Position Signal Lost(Cense-CM530_QSK78)	906067842
+One Engine Speed Signal Lost(Cense-CM530_QSK78)	906067850
+Output Shaft (Tailshaft) Speed Above Normal(Cense-CM530_QSK78)	906067872
+AXG Speed Low Error(Cense-CM530_QSK78)	906067873
+OEM-Intermediate (PTO) Speed Switch Validation Fault(Cense-CM530_QSK78)	906067906
+Post Oil Filter Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906067907
+Post Oil Filter Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906067908
+Oil Filter Bypass Valve Open Active(Cense-CM530_QSK78)	906067911
+Non-Zero Engine Speed At Power-Up Active(Cense-CM530_QSK78)	906067915
+RPC Number Not Supported Active(Cense-CM530_QSK78)	906067935
+OEM Connected Component Broadcasting Code Information Active(Cense-CM530_QSK78)	906067950
+Ether Bottle Is Empty(Cense-CM530_QSK78)	906067969
+Ether Injection Circuit Active(Cense-CM530_QSK78)	906067979
+ECM Not Calibrated - Use 111(Cense-CM530_QSK78)	906068003
+ECM Hardware Active(Cense-CM530_QSK78)	906068012
+Eletronic Control Module Powerdown Error Active(Cense-CM530_QSK78)	906068044
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Active(Cense-CM530_QSK78)	906068045
+Fuel Shutoff Valve - Component Shorted High Active(Cense-CM530_QSK78)	906068067
+Fuel Shutoff Valve Solenoid Shorted Low Or Open Circuit(Cense-CM530_QSK78)	906068068
+Fuel Shutoff Valve Mechanically Stuck Open(Cense-CM530_QSK78)	906068071
+Fuel Railing Flow Mismatch(Cense-CM530_QSK78)	906068098
+Fuel Control Valve - Failed High Or Open(Cense-CM530_QSK78)	906068099
+Fuel Control Valve - Component Shorted Low(Cense-CM530_QSK78)	906068100
+Fuel Control Valve - Mechanically Stuck Open(Cense-CM530_QSK78)	906068103
+Timing Rail Actuator - Data Out Of Range(Cense-CM530_QSK78)	906068130
+Timing Actuator Circuit Failed High(Cense-CM530_QSK78)	906068131
+Timing Actuator - Component Shorted Low Active(Cense-CM530_QSK78)	906068132
+Timing Actuator - Mechanically Stuck Active(Cense-CM530_QSK78)	906068135
+ECM Can Not Transmit On J1939 Datalink Active(Cense-CM530_QSK78)	906068163
+ECM Can Not Transmit On J1939 Datalink At Acceptable Rate Active(Cense-CM530_QSK78)	906068169
+Multiple Unit Synchronization Error(Cense-CM530_QSK78)	906068194
+Solenoid A Error(Cense-CM530_QSK78)	906068227
+Solenoid B Error(Cense-CM530_QSK78)	906068259
+Engine Speed Sensor Active(Cense-CM530_QSK78)	906068290
+Fuel Pump Actuator Circuit Active(Cense-CM530_QSK78)	906068323
+Fuel Pump Fueling Flow Mismatch Active(Cense-CM530_QSK78)	906068327
+OEM Temperature Sensor Circuit Failed High(Cense-CM530_QSK78)	906068355
+OEM Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78)	906068356
+OEM Temperature - Engine Protection Active(Cense-CM530_QSK78)	906068366
+OEM Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906068387
+OEM Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906068388
+OEM Pressure - Engine Protection Active(Cense-CM530_QSK78)	906068398
+Right Bank Intake Manifold Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906068419
+Right Bank Intake Manifold Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906068420
+High Intake Manifold Pressure Right Bank(Cense-CM530_QSK78)	906068432
+Low Intake Manifold Pressure Right Bank(Cense-CM530_QSK78)	906068434
+High Intake Manifold Temperature - Left Bank Rear(Cense-CM530_QSK78)	906068448
+Left Bank Rear Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK78)	906068451
+Left Bank Rear Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78)	906068452
+Intake Manifold Air Temperature #3 Rapid Rise Active(Cense-CM530_QSK78)	906068458
+High Intake Manifold Temperature Right Rear Active(Cense-CM530_QSK78)	906068480
+Right Rear Intake Manifold Temp Sensor Failed High Active(Cense-CM530_QSK78)	906068483
+Right Rear Intake Manifold Temp Sensor Failed Low Active(Cense-CM530_QSK78)	906068484
+Rapid Rise In Intake Manifold Temperature RBR Active(Cense-CM530_QSK78)	906068490
+High Exhaust Temperature - Cylinder No. 1 Left Bank(Cense-CM530_QSK78)	906068512
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 1(Cense-CM530_QSK78)	906068516
+High Power - Left Bank Cylinder No. 1(Cense-CM530_QSK78)	906068528
+Low Power - Cylinder No. 1 Left Bank(Cense-CM530_QSK78)	906068530
+High Exhaust Temperature - Cylinder No. 2 Left Bank(Cense-CM530_QSK78)	906068544
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 2(Cense-CM530_QSK78)	906068548
+High Power - Left Bank Cylinder No. 2(Cense-CM530_QSK78)	906068560
+Low Power - Cylinder No. 2 Left Bank(Cense-CM530_QSK78)	906068562
+High Exhaust Temperature - Cylinder No. 3 Left Bank(Cense-CM530_QSK78)	906068576
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 3(Cense-CM530_QSK78)	906068580
+High Power - Left Bank Cylinder No. 3(Cense-CM530_QSK78)	906068592
+Low Power - Cylinder No. 3 Left Bank(Cense-CM530_QSK78)	906068594
+High Exhaust Temperature - Cylinder No. 4 Left Bank(Cense-CM530_QSK78)	906068608
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 4(Cense-CM530_QSK78)	906068612
+High Power - Left Bank Cylinder No. 4(Cense-CM530_QSK78)	906068624
+Low Power - Cylinder No. 4 Left Bank(Cense-CM530_QSK78)	906068626
+High Exhaust Temperature - Cylinder No. 5 Left Bank(Cense-CM530_QSK78)	906068640
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 5(Cense-CM530_QSK78)	906068644
+High Power - Left Bank Cylinder No. 5(Cense-CM530_QSK78)	906068656
+Low Power - Cylinder No. 5 Left Bank(Cense-CM530_QSK78)	906068658
+High Exhaust Temperature - Cylinder No. 6 Left Bank(Cense-CM530_QSK78)	906068672
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 6(Cense-CM530_QSK78)	906068676
+High Power - Left Bank Cylinder No. 6(Cense-CM530_QSK78)	906068688
+Low Power - Cylinder No. 6 Left Bank(Cense-CM530_QSK78)	906068690
+High Exhaust Temperature - Cylinder No. 7 Left Bank(Cense-CM530_QSK78)	906068704
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 7(Cense-CM530_QSK78)	906068708
+High Power - Left Bank Cylinder No. 7(Cense-CM530_QSK78)	906068720
+Low Power - Cylinder No. 7 Left Bank(Cense-CM530_QSK78)	906068722
+High Exhaust Temperature - Cylinder No. 8 Left Bank(Cense-CM530_QSK78)	906068736
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 8(Cense-CM530_QSK78)	906068740
+High Power - Left Bank Cylinder No. 8(Cense-CM530_QSK78)	906068752
+Low Power - Cylinder No. 8 Left Bank(Cense-CM530_QSK78)	906068754
+High Exhaust Temperature - Cylinder No. 9 Left Bank(Cense-CM530_QSK78)	906068768
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 9(Cense-CM530_QSK78)	906068772
+High Power - Left Bank Cylinder No. 9(Cense-CM530_QSK78)	906068784
+Low Power - Cylinder No. 9 Left Bank(Cense-CM530_QSK78)	906068786
+High Exhaust Temperature - Cylinder No. 1 Right Bank(Cense-CM530_QSK78)	906068800
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 1(Cense-CM530_QSK78)	906068804
+High Power - Right Bank Cylinder No. 1(Cense-CM530_QSK78)	906068816
+Low Power - Cylinder No. 1 Right Bank(Cense-CM530_QSK78)	906068818
+High Exhaust Temperature - Cylinder No. 2 Right Bank(Cense-CM530_QSK78)	906068832
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 2(Cense-CM530_QSK78)	906068836
+High Power - Right Bank Cylinder No. 2(Cense-CM530_QSK78)	906068848
+Low Power - Cylinder No. 2 Right Bank(Cense-CM530_QSK78)	906068850
+High Exhaust Temperature - Cylinder No. 3 Right Bank(Cense-CM530_QSK78)	906068864
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 3(Cense-CM530_QSK78)	906068868
+High Power - Right Bank Cylinder No. 3(Cense-CM530_QSK78)	906068880
+Low Power - Cylinder No. 3 Right Bank(Cense-CM530_QSK78)	906068882
+High Exhaust Temperature - Cylinder No. 4 Right Bank(Cense-CM530_QSK78)	906068896
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 4(Cense-CM530_QSK78)	906068900
+High Power - Right Bank Cylinder No. 4(Cense-CM530_QSK78)	906068912
+Low Power - Cylinder No. 4 Right Bank(Cense-CM530_QSK78)	906068914
+High Exhaust Temperature - Cylinder No. 5 Right Bank(Cense-CM530_QSK78)	906068928
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 5(Cense-CM530_QSK78)	906068932
+High Power - Right Bank Cylinder No. 5(Cense-CM530_QSK78)	906068944
+Low Power - Cylinder No. 5 Right Bank(Cense-CM530_QSK78)	906068946
+High Exhaust Temperature - Cylinder No. 6 Right Bank(Cense-CM530_QSK78)	906068960
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 6(Cense-CM530_QSK78)	906068964
+High Power - Right Bank Cylinder No. 6(Cense-CM530_QSK78)	906068976
+Low Power - Cylinder No. 6 Right Bank(Cense-CM530_QSK78)	906068978
+High Exhaust Temperature - Cylinder No. 7 Right Bank(Cense-CM530_QSK78)	906068992
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 7(Cense-CM530_QSK78)	906068996
+High Power - Right Bank Cylinder No. 7(Cense-CM530_QSK78)	906069008
+Low Power - Cylinder No. 7 Right Bank(Cense-CM530_QSK78)	906069010
+High Exhaust Temperature - Cylinder No. 8 Right Bank(Cense-CM530_QSK78)	906069024
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 8(Cense-CM530_QSK78)	906069028
+High Power - Right Bank Cylinder No. 8(Cense-CM530_QSK78)	906069040
+Low Power - Cylinder No. 8 Right Bank(Cense-CM530_QSK78)	906069042
+High Exhaust Temperature - Cylinder No. 9 Right Bank(Cense-CM530_QSK78)	906069056
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 9(Cense-CM530_QSK78)	906069060
+High Power - Right Bank Cylinder No. 9(Cense-CM530_QSK78)	906069072
+Low Power - Cylinder No. 9 Right Bank(Cense-CM530_QSK78)	906069074
+Right Turbo Compressor Inlet Temp Sensor Failed High Active(Cense-CM530_QSK78)	906069091
+Right Turbo Compressor Inlet Temp Sensor Failed Low Active(Cense-CM530_QSK78)	906069092
+High Turbo Compressor Inlet Temperature Right Bank Active(Cense-CM530_QSK78)	906069104
+Ambient Derate Error(Cense-CM530_QSK78)	906069120
+Pre Filter Oil Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906069155
+Pre Filter Oil Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906069156
+High Blowby Pressure(Cense-CM530_QSK78)	906069184
+Blowby Pressure Sensor Circuit Failed High(Cense-CM530_QSK78)	906069187
+Blowby Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78)	906069188
+Burn Value Solenoid Fault Active(Cense-CM530_QSK78)	906069220
+Make-Up Value Solenoid Fault Active(Cense-CM530_QSK78)	906069252
+Trend Data Memory Nearly Full Active(Cense-CM530_QSK78)	906069263
+Trend Data Memory Full Active(Cense-CM530_QSK78)	906069264
+Multiple Unit Synchronization Switch Circuit - Data Incorrect(Cense-CM530_QSK78)	906069282
+Make-Up Tank Oil Level Low Fault Active(Cense-CM530_QSK78)	906069313
+Remote Oil Level Sensor Signal Invalid(Cense-CM530_QSK78)	906069314
+Fault Log Snapshot Data Nearly Full Active(Cense-CM530_QSK78)	906069327
+Fault Log Snapshot Data Full Active(Cense-CM530_QSK78)	906069328
+Engine Hot Shutdown Active(Cense-CM530_QSK78)	906069375
+Engine Shut Down Without Proper Cool-Down Active(Cense-CM530_QSK78)	906069407
+Rapid Rise In Intake Manifold Temperature LBR Active(Cense-CM530_QSK78)	906069418
+Aux (Transmission) Temp-Component Shorted High(Cense-CM530_QSK78)	906069475
+Aux (Transmission) Temp-Component Shorted Low(Cense-CM530_QSK78)	906069476
+Idle Validation Circuit(Cense-CM530_QSK78)	906069508
+Public Data Link - Cannot Transmit Active(Cense-CM530_QSK78)	906069538
+Public Data Link - Not Fast Enough Active(Cense-CM530_QSK78)	906069545
+OEM Sensor Supply Volt.-Data Below Normal Range Active(Cense-CM530_QSK78)	906069586
+Secondary Fuel Actuator-Component Shorted High Active(Cense-CM530_QSK78)	906069606
+Secondary Fuel Actuator-Mechanically Stuck Active(Cense-CM530_QSK78)	906069607
+Throttle Pedal Sensor Supply Volt.-Data Below Normal Range Active(Cense-CM530_QSK78)	906069636
+Left Bank Intake Restriction Sensor Failed High Active(Cense-CM530_QSK78)	906069667
+Left Bank Intake Restriction Sensor Failed Low Active(Cense-CM530_QSK78)	906069668
+High Intake Restriction Left Bank Active(Cense-CM530_QSK78)	906069680
+Intake Air Leak Left Bank Active(Cense-CM530_QSK78)	906069682
+Right Bank Intake Restriction Sensor Failed High Active(Cense-CM530_QSK78)	906069699
+Right Bank Intake Restriction Sensor Failed Low Active(Cense-CM530_QSK78)	906069700
+High Intake Restriction Right Bank Active(Cense-CM530_QSK78)	906069712
+Intake Air Leak Right Bank Active(Cense-CM530_QSK78)	906069714
+Change Fuel Filter Active(Cense-CM530_QSK78)	906069759
+Change Coolant Filter Active(Cense-CM530_QSK78)	906069791
+Change Coolant Active(Cense-CM530_QSK78)	906069823
+Lubricating Oil Filters Require Changing Active(Cense-CM530_QSK78)	906069855
+Change Lubricating Oil And Filter(Cense-CM530_QSK78)	906069984
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted High(Cense-CM530_QSK78-Eng2)	906070403
+Remote Throttle Pedal Sensor / Variable PTO - Component Shorted Low(Cense-CM530_QSK78-Eng2)	906070404
+Accelerator Pedal Idle Validation Invalid(Cense-CM530_QSK78-Eng2)	906070434
+Accelerator Pedal Position Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070435
+Accelerator Pedal Position Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070436
+Frequency Throttle Signal Out Of Range Low(Cense-CM530_QSK78-Eng2)	906070440
+Accelerator Pedal Idle Validation Invalid(Cense-CM530_QSK78-Eng2)	906070445
+Alternate Torque Curve Switch Circuit (Cense-CM530_QSK78-Eng2)	906070466
+Oil Level Low(Cense-CM530_QSK78-Eng2)	906070497
+Oil Level Signal Invalid(Cense-CM530_QSK78-Eng2)	906070498
+High Lubricating Oil Filter Restriction(Cense-CM530_QSK78-Eng2)	906070529
+Low Oil Pressure(Cense-CM530_QSK78-Eng2)	906070561
+Oil Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070563
+Oil Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070564
+Left Bank Intake Manifold Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070595
+Left Bank Intake Manifold Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070596
+High Intake Manifold Pressure Left Bank (Cense-CM530_QSK78-Eng2)	906070608
+Low Intake Manifold Pressure Left Bank(Cense-CM530_QSK78-Eng2)	906070610
+High Intake Manifold Temperature - Left Bank Front (Cense-CM530_QSK78-Eng2)	906070624
+Left Bank Front Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070627
+Left Bank Front Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070628
+Rapid Rise In Intake Manifold Temperature LBF Active(Cense-CM530_QSK78-Eng2)	906070634
+Ambient Air Pressure Sensor Failed High(Cense-CM530_QSK78-Eng2)	906070659
+Ambient Air Pressure Sensor Failed Low(Cense-CM530_QSK78-Eng2)	906070660
+Low Coolant Pressure(Cense-CM530_QSK78-Eng2)	906070689
+Coolant Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070691
+Coolant Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070692
+High Coolant Temperature(Cense-CM530_QSK78-Eng2)	906070720
+Coolant Temperature Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070723
+Coolant Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070724
+Low Coolant Level(Cense-CM530_QSK78-Eng2)	906070753
+Coolant Level Signal Invalid(Cense-CM530_QSK78-Eng2)	906070754
+OEM Alternate Droop Switch Validation Fault(Cense-CM530_QSK78-Eng2)	906070786
+Fuel Pump Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070819
+Fuel Pump Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070820
+Fuel Timing Pressure Failed In Range(Cense-CM530_QSK78-Eng2)	906070850
+Timing Rail Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070851
+Timing Rail Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070852
+Fuel Rail Pressure Over Limits(Cense-CM530_QSK78-Eng2)	906070912
+Fuel Rail Pressure Sensor Circuit Failed In Range(Cense-CM530_QSK78-Eng2)	906070914
+Fueling Rail Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070915
+Fueling Rail Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070916
+Battery Voltage Above Normal Range(Cense-CM530_QSK78-Eng2)	906070944
+Battery Voltage Below Normal Range(Cense-CM530_QSK78-Eng2)	906070945
+High Fuel Temperature(Cense-CM530_QSK78-Eng2)	906070976
+Fuel Temperature Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906070979
+Fuel Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906070980
+High Oil Temperature(Cense-CM530_QSK78-Eng2)	906071008
+Oil Temperature Low Active(Cense-CM530_QSK78-Eng2)	906071009
+Oil Temperature Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906071011
+Oil Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906071012
+Engine Overspeed(Cense-CM530_QSK78-Eng2)	906071040
+Both Engine Speed And/Or Position Signal Lost(Cense-CM530_QSK78-Eng2)	906071042
+One Engine Speed Signal Lost(Cense-CM530_QSK78-Eng2)	906071050
+Output Shaft (Tailshaft) Speed Above Normal(Cense-CM530_QSK78-Eng2)	906071072
+AXG Speed Low Error(Cense-CM530_QSK78-Eng2)	906071073
+OEM-Intermediate (PTO) Speed Switch Validation Fault	906071106
+Post Oil Filter Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906071107
+Post Oil Filter Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906071108
+Oil Filter Bypass Valve Open Active(Cense-CM530_QSK78-Eng2)	906071111
+Non-Zero Engine Speed At Power-Up Active(Cense-CM530_QSK78-Eng2)	906071115
+RPC Number Not Supported Active(Cense-CM530_QSK78-Eng2)	906071135
+OEM Component Failure(Cense-CM530_QSK78-Eng2)	906071150
+Ether Bottle Empty(Cense-CM530_QSK78-Eng2)	906071169
+Ether Solenoid Circuit Failed(Cense-CM530_QSK78-Eng2)	906071179
+ECM Not Calibrated - Use 111(Cense-CM530_QSK78-Eng2)	906071203
+Engine Control Module - Critical Internal Failure/Warning Software Error(Cense-CM530_QSK78-Eng2)	906071212
+ECM Software/Hardware Failure(Cense-CM530_QSK78-Eng2)	906071244
+ECM Not Calibrated-ECM S/W Mission Disabling Failure Active(Cense-CM530_QSK78-Eng2)	906071245
+Fuel Shutoff Valve - Component Shorted High Active(Cense-CM530_QSK78-Eng2)	906071267
+Fuel Shutoff Valve Solenoid Shorted Low Or Open Circuit(Cense-CM530_QSK78-Eng2)	906071268
+Fuel Shutoff Valve Mechanically Stuck Open(Cense-CM530_QSK78-Eng2)	906071271
+Fuel Rail Actuator - Data Out Of Range(Cense-CM530_QSK78-Eng2)	906071298
+Fuel Control Valve - Failed High Or Open(Cense-CM530_QSK78-Eng2)	906071299
+Fuel Control Valve - Component Shorted Low(Cense-CM530_QSK78-Eng2)	906071300
+Fuel Control Valve - Mechanically Stuck Open(Cense-CM530_QSK78-Eng2)	906071303
+Timing Rail Actuator - Data Out Of Range(Cense-CM530_QSK78-Eng2)	906071330
+Timing Actuator Circuit Failed High(Cense-CM530_QSK78-Eng2)	906071331
+Timing Actuator - Component Shorted Low Active(Cense-CM530_QSK78-Eng2)	906071332
+Timing Fueling Flow Mismatch(Cense-CM530_QSK78-Eng2)	906071335
+J1939 Data Can Not Transmit(Cense-CM530_QSK78-Eng2)	906071363
+J1939 Data Can Not Transmit(Cense-CM530_QSK78-Eng2)	906071369
+Multiple Unit Synchronization Error(Cense-CM530_QSK78-Eng2)	906071394
+Dual Ouput A Shorted High Or Open Circuit(Cense-CM530_QSK78-Eng2)	906071427
+Dual Output B Shorted High Or Open Circuit(Cense-CM530_QSK78-Eng2)	906071459
+Cam Sync Error(Cense-CM530_QSK78-Eng2)	906071490
+Fuel Pump Actuator - Open Or Shorted High(Cense-CM530_QSK78-Eng2)	906071523
+Fuel Pump Actuator - Mechanically Stuck(Cense-CM530_QSK78-Eng2)	906071527
+OEM Temperature Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906071555
+OEM Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906071556
+OEM Temperature Sensor Outside Normal Operating Range(Cense-CM530_QSK78-Eng2)	906071566
+OEM Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906071587
+OEM Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906071588
+OEM Pressure Sensor Outside Normal Operating Range(Cense-CM530_QSK78-Eng2)	906071598
+Right Bank Intake Manifold Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906071619
+Right Bank Intake Manifold Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906071620
+High Intake Manifold Pressure Right Bank(Cense-CM530_QSK78-Eng2)	906071632
+Low Intake Manifold Pressure Right Bank(Cense-CM530_QSK78-Eng2)	906071634
+High Intake Manifold Temperature - Left Bank Rear(Cense-CM530_QSK78-Eng2)	906071648
+Left Bank Rear Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906071651
+Left Bank Rear Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906071652
+Intake Manifold Air Temperature #3 Rapid Rise Active(Cense-CM530_QSK78-Eng2)	906071658
+High Intake Manifold Temperature - Right Bank Front(Cense-CM530_QSK78-Eng2)	906071680
+Right Bank Front Intake Manifold Temperature Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906071683
+Right Bank Front Intake Manifold Temperature Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906071684
+Rapid Rise In Intake Manifold Temperature RBR Active(Cense-CM530_QSK78-Eng2)	906071690
+High Exhaust Temperature - Cylinder No. 1 Left Bank(Cense-CM530_QSK78-Eng2)	906071712
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 1(Cense-CM530_QSK78-Eng2)	906071716
+High Power - Left Bank Cylinder No. 1(Cense-CM530_QSK78-Eng2)	906071728
+Low Power - Cylinder No. 1 Left Bank(Cense-CM530_QSK78-Eng2)	906071730
+High Exhaust Temperature - Cylinder No. 2 Left Bank(Cense-CM530_QSK78-Eng2)	906071744
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 2(Cense-CM530_QSK78-Eng2)	906071748
+High Power - Left Bank Cylinder No. 2(Cense-CM530_QSK78-Eng2)	906071760
+Low Power - Cylinder No. 2 Left Bank(Cense-CM530_QSK78-Eng2)	906071762
+High Exhaust Temperature - Cylinder No. 3 Left Bank(Cense-CM530_QSK78-Eng2)	906071776
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 3(Cense-CM530_QSK78-Eng2)	906071780
+High Power - Left Bank Cylinder No. 3(Cense-CM530_QSK78-Eng2)	906071792
+Low Power - Cylinder No. 3 Left Bank(Cense-CM530_QSK78-Eng2)	906071794
+High Exhaust Temperature - Cylinder No. 4 Left Bank(Cense-CM530_QSK78-Eng2)	906071808
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 4(Cense-CM530_QSK78-Eng2)	906071812
+High Power - Left Bank Cylinder No. 4(Cense-CM530_QSK78-Eng2)	906071824
+Low Power - Cylinder No. 4 Left Bank(Cense-CM530_QSK78-Eng2)	906071826
+High Exhaust Temperature - Cylinder No. 5 Left Bank(Cense-CM530_QSK78-Eng2)	906071840
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 5(Cense-CM530_QSK78-Eng2)	906071844
+High Power - Left Bank Cylinder No. 5(Cense-CM530_QSK78-Eng2)	906071856
+Low Power - Cylinder No. 5 Left Bank(Cense-CM530_QSK78-Eng2)	906071858
+High Exhaust Temperature - Cylinder No. 6 Left Bank(Cense-CM530_QSK78-Eng2)	906071872
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 6(Cense-CM530_QSK78-Eng2)	906071876
+High Power - Left Bank Cylinder No. 6(Cense-CM530_QSK78-Eng2)	906071888
+Low Power - Cylinder No. 6 Left Bank(Cense-CM530_QSK78-Eng2)	906071890
+High Exhaust Temperature - Cylinder No. 7 Left Bank(Cense-CM530_QSK78-Eng2)	906071904
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 7(Cense-CM530_QSK78-Eng2)	906071908
+High Power - Left Bank Cylinder No. 7(Cense-CM530_QSK78-Eng2)	906071920
+Low Power - Cylinder No. 7 Left Bank(Cense-CM530_QSK78-Eng2)	906071922
+High Exhaust Temperature - Cylinder No. 8 Left Bank(Cense-CM530_QSK78-Eng2)	906071936
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 8(Cense-CM530_QSK78-Eng2)	906071940
+High Power - Left Bank Cylinder No. 8(Cense-CM530_QSK78-Eng2)	906071952
+Low Power - Cylinder No. 8 Left Bank(Cense-CM530_QSK78-Eng2)	906071954
+High Exhaust Temperature - Cylinder No. 9 Left Bank(Cense-CM530_QSK78-Eng2)	906071968
+Exhaust Temperature Sensor Circuit Failed Low - Left Bank Cylinder No. 9(Cense-CM530_QSK78-Eng2)	906071972
+High Power - Left Bank Cylinder No. 9(Cense-CM530_QSK78-Eng2)	906071984
+Low Power - Cylinder No. 9 Left Bank(Cense-CM530_QSK78-Eng2)	906071986
+High Exhaust Temperature - Cylinder No. 1 Right Bank(Cense-CM530_QSK78-Eng2)	906072000
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 1(Cense-CM530_QSK78-Eng2)	906072004
+High Power - Right Bank Cylinder No. 1(Cense-CM530_QSK78-Eng2)	906072016
+Low Power - Cylinder No. 1 Right Bank(Cense-CM530_QSK78-Eng2)	906072018
+High Exhaust Temperature - Cylinder No. 2 Right Bank(Cense-CM530_QSK78-Eng2)	906072032
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 2(Cense-CM530_QSK78-Eng2)	906072036
+High Power - Right Bank Cylinder No. 2(Cense-CM530_QSK78-Eng2)	906072048
+Low Power - Cylinder No. 2 Right Bank(Cense-CM530_QSK78-Eng2)	906072050
+High Exhaust Temperature - Cylinder No. 3 Right Bank(Cense-CM530_QSK78-Eng2)	906072064
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 3(Cense-CM530_QSK78-Eng2)	906072068
+High Power - Right Bank Cylinder No. 3(Cense-CM530_QSK78-Eng2)	906072080
+Low Power - Cylinder No. 3 Right Bank(Cense-CM530_QSK78-Eng2)	906072082
+High Exhaust Temperature - Cylinder No. 4 Right Bank(Cense-CM530_QSK78-Eng2)	906072096
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 4(Cense-CM530_QSK78-Eng2)	906072100
+High Power - Right Bank Cylinder No. 4(Cense-CM530_QSK78-Eng2)	906072112
+Low Power - Cylinder No. 4 Right Bank(Cense-CM530_QSK78-Eng2)	906072114
+High Exhaust Temperature - Cylinder No. 5 Right Bank(Cense-CM530_QSK78-Eng2)	906072128
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 5(Cense-CM530_QSK78-Eng2)	906072132
+High Power - Right Bank Cylinder No. 5(Cense-CM530_QSK78-Eng2)	906072144
+Low Power - Cylinder No. 5 Right Bank(Cense-CM530_QSK78-Eng2)	906072146
+High Exhaust Temperature - Cylinder No. 6 Right Bank(Cense-CM530_QSK78-Eng2)	906072160
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 6(Cense-CM530_QSK78-Eng2)	906072164
+High Power - Right Bank Cylinder No. 6(Cense-CM530_QSK78-Eng2)	906072176
+Low Power - Cylinder No. 6 Right Bank(Cense-CM530_QSK78-Eng2)	906072178
+High Exhaust Temperature - Cylinder No. 7 Right Bank(Cense-CM530_QSK78-Eng2)	906072192
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 7(Cense-CM530_QSK78-Eng2)	906072196
+High Power - Right Bank Cylinder No. 7(Cense-CM530_QSK78-Eng2)	906072208
+Low Power - Cylinder No. 7 Right Bank(Cense-CM530_QSK78-Eng2)	906072210
+High Exhaust Temperature - Cylinder No. 8 Right Bank(Cense-CM530_QSK78-Eng2)	906072224
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 8(Cense-CM530_QSK78-Eng2)	906072228
+High Power - Right Bank Cylinder No. 8(Cense-CM530_QSK78-Eng2)	906072240
+Low Power - Cylinder No. 8 Right Bank(Cense-CM530_QSK78-Eng2)	906072242
+High Exhaust Temperature - Cylinder No. 9 Right Bank(Cense-CM530_QSK78-Eng2)	906072256
+Exhaust Temperature Sensor Circuit Failed Low - Right Bank Cylinder No. 9(Cense-CM530_QSK78-Eng2)	906072260
+High Power - Right Bank Cylinder No. 9(Cense-CM530_QSK78-Eng2)	906072272
+Low Power - Cylinder No. 9 Right Bank(Cense-CM530_QSK78-Eng2)	906072274
+Left Bank Rear Turbocharger Compressor Inlet Temp Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906072291
+Left Bank Rear Turbocharger Compressor Inlet Temp Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906072292
+High Turbocharger Compressor Inlet Temperature Left Bank Rear(Cense-CM530_QSK78-Eng2)	906072304
+Ambient Derate Error(Cense-CM530_QSK78-Eng2)	906072320
+Pre Filter Oil Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906072355
+Pre Filter Oil Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906072356
+High Blowby Pressure(Cense-CM530_QSK78-Eng2)	906072384
+Blowby Pressure Sensor Circuit Failed High(Cense-CM530_QSK78-Eng2)	906072387
+Blowby Pressure Sensor Circuit Failed Low(Cense-CM530_QSK78-Eng2)	906072388
+CORS Burn Valve Solenoid - Component Shorted Low(Cense-CM530_QSK78-Eng2)	906072420
+CORS Makeup Valve - Component Shorted Low(Cense-CM530_QSK78-Eng2)	906072452
+Trend Data Memory Nearly Full Active(Cense-CM530_QSK78-Eng2)	906072463
+Trend Data Memory Full Active(Cense-CM530_QSK78-Eng2)	906072464
+Multiple Unit Synchronization Switch Circuit - Data Incorrect(Cense-CM530_QSK78-Eng2)	906072482
+Remote Oil Level Low(Cense-CM530_QSK78-Eng2)	906072513
+Remote Oil Level Sensor Signal Invalid(Cense-CM530_QSK78-Eng2)	906072514
+Fault Log Snapshot Data Nearly Full Active(Cense-CM530_QSK78-Eng2)	906072527
+Fault Log Snapshot Data Full Active(Cense-CM530_QSK78-Eng2)	906072528
+Engine Hot Shutdown(Cense-CM530_QSK78-Eng2)	906072575
+ECM Initiated Hot Shutdown Error(Cense-CM530_QSK78-Eng2)	906072607
+Rapid Rise In Intake Manifold Temperature LBR Active(Cense-CM530_QSK78-Eng2)	906072618
+Aux (Transmission) Temp-Component Shorted High(Cense-CM530_QSK78-Eng2)	906072675
+Aux (Transmission) Temp-Component Shorted Low(Cense-CM530_QSK78-Eng2)	906072676
+Idle Validation Circuit(Cense-CM530_QSK78-Eng2)	906072708
+Public Data Link - Cannot Transmit Active(Cense-CM530_QSK78-Eng2)	906072738
+Public Data Link - Not Fast Enough Active(Cense-CM530_QSK78-Eng2)	906072745
+OEM Sensor Supply Volt.-Data Below Normal Range Active(Cense-CM530_QSK78-Eng2)	906072786
+Secondary Fuel Actuator-Component Shorted High Active(Cense-CM530_QSK78-Eng2)	906072806
+Secondary Fuel Actuator-Mechanically Stuck Active(Cense-CM530_QSK78-Eng2)	906072807
+Throttle Pedal Sensor Supply Volt.-Data Below Normal Range Active(Cense-CM530_QSK78-Eng2)	906072836
+Left Bank Intake Restriction Sensor Failed High Active(Cense-CM530_QSK78-Eng2)	906072867
+Left Bank Intake Restriction Sensor Failed Low Active(Cense-CM530_QSK78-Eng2)	906072868
+High Intake Restriction Left Bank Active(Cense-CM530_QSK78-Eng2)	906072880
+Intake Air Leak Left Bank Active(Cense-CM530_QSK78-Eng2)	906072882
+Right Bank Intake Restriction Sensor Failed High Active(Cense-CM530_QSK78-Eng2)	906072899
+Right Bank Intake Restriction Sensor Failed Low Active(Cense-CM530_QSK78-Eng2)	906072900
+High Intake Restriction Right Bank Active(Cense-CM530_QSK78-Eng2)	906072912
+Intake Air Leak Right Bank Active(Cense-CM530_QSK78-Eng2)	906072914
+Change Fuel Filter Active(Cense-CM530_QSK78-Eng2)	906072959
+Change Coolant Filter Active(Cense-CM530_QSK78-Eng2)	906072991
+Change Coolant Active(Cense-CM530_QSK78-Eng2)	906073023
+Lubricating Oil Filters Require Changing Active(Cense-CM530_QSK78-Eng2)	906073055
+Change Lubricating Oil And Filter(Cense-CM530_QSK78-Eng2)	906073184
+OEM Interface Timeout	906100704
+OEM Interface Normal	906100705
+Driver Interface Timeout	906100706
+Driver Interface Normal	906100707

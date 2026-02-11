@@ -1,0 +1,45 @@
+..
+.. DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1995
+..               All Rights Reserved
+..  $RCSfile: .#db_fatigue_translate.frm.1.3,v $
+.. $Revision: 1.1 $
+..   $Author: dcitron $
+..     $Date: 2018/05/14 05:16:09 $
+..    $State: Exp $
+..
+..
+.def dict_risknorm    "Normal"
+.def dict_riskpre     "Pra-peringatan"
+.def dict_riskwarn    "Peringatan"
+.def dict_riskalarm   "Alarm"
+..
+.def dict_astscorelbl "Kelelahan Skor:"
+..
+.. Definitions indicating "All Crews" for email alerts
+..
+.def dict_all_crews   "Semua Kru"
+..
+.. The following definitions are the questions and responses posted to the operator when their fatigue
+.. level is increased (When using OP_SAFE_MESSAGES). By default all three questions are the same but 
+.. you can customize each question for the transition between increasing levels.
+.. The Opetator Popup is only supported for equipment with NEWUI.
+..
+.def dict_qfatalarm   "Tingkat Kelelahan Anda Bertambah.\\n Apakah Anda cukup waspada\\n utk mengoperasikan alat ?"
+.def dict_qfatwarn    "Tingkat Kelelahan Anda Bertambah.\\n Apakah Anda cukup waspada\\n utk mengoperasikan alat ?"
+.def dict_qfatpre     "Tingkat Kelelahan Anda Bertambah.\\n Apakah Anda cukup waspada\\n utk mengoperasikan alat ?"
+.def dict_accrej      "FatigueManagement"
+.def dict_btn1        "Ya"
+.def dict_btn2        "Tidak"
+..
+.. These definitions will be sent to the equipment operators for ClassicUI
+..
+.def dict_alarm       "Fatigue Alarm: Tingkat"
+.def dict_warning     "Fatigue Peringatan: Tingkat"
+.def dict_pre         "Fatigue Pra-peringatan: Tingkat"
+..
+.. These definitions will be sent as email alerts
+.. 
+.def dict_email_pre   Peralatan: %s telah mencapai tingkat kelelahan FatigueManagement dari PRA-PERINGATAN pada Waktu:%h
+.def dict_email_warn  Peralatan: %s telah mencapai tingkat kelelahan FatigueManagement dari PERINGATAN pada Waktu:%h
+.def dict_email_alarm Peralatan: %s telah mencapai tingkat kelelahan FatigueManagement dari ALARM pada Waktu:%h

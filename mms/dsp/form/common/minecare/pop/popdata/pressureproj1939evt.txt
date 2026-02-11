@@ -1,0 +1,124 @@
+Tire 1 Programmable Timeout Exceeded (Lectronix)	1761673216
+Tire 1 Overtemperature Detected (Lectonix)	1761673217
+Tire 1 Extreme Over Pressure	1761673218
+Tire 1 Over Pressure	1761673219
+Tire 1 Under Pressure	1761673220
+Tire 1 Extreme Under Pressure	1761673221
+Tire 1 Across-Axle Fault (Lectonix)	1761673222
+Tire 2 Programmable Timeout Exceeded (Lectronix)	1761673236
+Tire 2 Overtemperature Detected (Lectonix)	1761673237
+Tire 2 Extreme Over Pressure	1761673238
+Tire 2 Over Pressure	1761673239
+Tire 2 Under Pressure	1761673240
+Tire 2 Extreme Under Pressure	1761673241
+Tire 2 Across-Axle Fault (Lectonix)	1761673242
+Tire 3 Programmable Timeout Exceeded (Lectronix)	1761673256
+Tire 3 Overtemperature Detected (Lectonix)	1761673257
+Tire 3 Extreme Over Pressure	1761673258
+Tire 3 Over Pressure	1761673259
+Tire 3 Under Pressure	1761673260
+Tire 3 Extreme Under Pressure	1761673261
+Tire 3 Across-Axle Fault (Lectonix)	1761673262
+Tire 4 Programmable Timeout Exceeded (Lectronix)	1761673276
+Tire 4 Overtemperature Detected (Lectonix)	1761673277
+Tire 4 Extreme Over Pressure	1761673278
+Tire 4 Over Pressure	1761673279
+Tire 4 Under Pressure	1761673280
+Tire 4 Extreme Under Pressure	1761673281
+Tire 4 Across-Axle Fault (Lectonix)	1761673282
+Tire 5 Programmable Timeout Exceeded (Lectronix)	1761673296
+Tire 5 Overtemperature Detected (Lectonix)	1761673297
+Tire 5 Extreme Over Pressure	1761673298
+Tire 5 Over Pressure	1761673299
+Tire 5 Under Pressure	1761673300
+Tire 5 Extreme Under Pressure	1761673301
+Tire 5 Across-Axle Fault (Lectonix)	1761673302
+Tire 6 Programmable Timeout Exceeded (Lectronix)	1761673316
+Tire 6 Overtemperature Detected (Lectonix)	1761673317
+Tire 6 Extreme Over Pressure	1761673318
+Tire 6 Over Pressure	1761673319
+Tire 6 Under Pressure	1761673320
+Tire 6 Extreme Under Pressure	1761673321
+Tire 6 Across-Axle Fault (Lectonix)	1761673322
+Tire 7 Programmable Timeout Exceeded (Lectronix)	1761673336
+Tire 7 Overtemperature Detected (Lectonix)	1761673337
+Tire 7 Extreme Over Pressure	1761673338
+Tire 7 Over Pressure	1761673339
+Tire 7 Under Pressure	1761673340
+Tire 7 Extreme Under Pressure	1761673341
+Tire 7 Across-Axle Fault (Lectonix)	1761673342
+Tire 8 Programmable Timeout Exceeded (Lectronix)	1761673356
+Tire 8 Overtemperature Detected (Lectonix)	1761673357
+Tire 8 Extreme Over Pressure	1761673358
+Tire 8 Over Pressure	1761673359
+Tire 8 Under Pressure	1761673360
+Tire 8 Extreme Under Pressure	1761673361
+Tire 8 Across-Axle Fault (Lectonix)	1761673362
+Tire 9 Programmable Timeout Exceeded (Lectronix)	1761673376
+Tire 9 Overtemperature Detected (Lectonix)	1761673377
+Tire 9 Extreme Over Pressure	1761673378
+Tire 9 Over Pressure	1761673379
+Tire 9 Under Pressure	1761673380
+Tire 9 Extreme Under Pressure	1761673381
+Tire 9 Across-Axle Fault (Lectonix)	1761673382
+Tire 10 Programmable Timeout Exceeded (Lectronix)	1761673396
+Tire 10 Overtemperature Detected (Lectonix)	1761673397
+Tire 10 Extreme Over Pressure	1761673398
+Tire 10 Over Pressure	1761673399
+Tire 10 Under Pressure	1761673400
+Tire 10 Extreme Under Pressure	1761673401
+Tire 10 Across-Axle Fault (Lectonix)	1761673402
+Tire 11 Programmable Timeout Exceeded (Lectronix)	1761673416
+Tire 11 Overtemperature Detected (Lectonix)	1761673417
+Tire 11 Extreme Over Pressure	1761673418
+Tire 11 Over Pressure	1761673419
+Tire 11 Under Pressure	1761673420
+Tire 11 Extreme Under Pressure	1761673421
+Tire 11 Across-Axle Fault (Lectonix)	1761673422
+Tire 12 Programmable Timeout Exceeded (Lectronix)	1761673436
+Tire 12 Overtemperature Detected (Lectonix)	1761673437
+Tire 12 Extreme Over Pressure	1761673438
+Tire 12 Over Pressure	1761673439
+Tire 12 Under Pressure	1761673440
+Tire 12 Extreme Under Pressure	1761673441
+Tire 12 Across-Axle Fault (Lectonix)	1761673442
+Tire 13 Programmable Timeout Exceeded (Lectronix)	1761673456
+Tire 13 Overtemperature Detected (Lectonix)	1761673457
+Tire 13 Extreme Over Pressure	1761673458
+Tire 13 Over Pressure	1761673459
+Tire 13 Under Pressure	1761673460
+Tire 13 Extreme Under Pressure	1761673461
+Tire 13 Across-Axle Fault (Lectonix)	1761673462
+Tire 14 Programmable Timeout Exceeded (Lectronix)	1761673476
+Tire 14 Overtemperature Detected (Lectonix)	1761673477
+Tire 14 Extreme Over Pressure	1761673478
+Tire 14 Over Pressure	1761673479
+Tire 14 Under Pressure	1761673480
+Tire 14 Extreme Under Pressure	1761673481
+Tire 14 Across-Axle Fault (Lectonix)	1761673482
+Tire 15 Programmable Timeout Exceeded (Lectronix)	1761673496
+Tire 15 Overtemperature Detected (Lectonix)	1761673497
+Tire 15 Extreme Over Pressure	1761673498
+Tire 15 Over Pressure	1761673499
+Tire 15 Under Pressure	1761673500
+Tire 15 Extreme Under Pressure	1761673501
+Tire 15 Across-Axle Fault (Lectonix)	1761673502
+Tire 16 Programmable Timeout Exceeded (Lectronix)	1761673516
+Tire 16 Overtemperature Detected (Lectonix)	1761673517
+Tire 16 Extreme Over Pressure	1761673518
+Tire 16 Over Pressure	1761673519
+Tire 16 Under Pressure	1761673520
+Tire 16 Extreme Under Pressure	1761673521
+Tire 16 Across-Axle Fault (Lectonix)	1761673522
+Pressure - Data Valid But Above Normal Operational Range - Most Severe Level	1761681608
+Pressure - Data Valid But Below Normal Operational Range - Most Severe Level	1761681609
+Pressure - Data Valid But Above Normal Operating Range - Least Severe Level	1761681623
+Pressure - Data Valid But Above Normal Operating Range - Moderately Severe Level	1761681624
+Pressure - Data Valid But Below Normal Operating Range - Least Severe Level	1761681625
+Pressure - Data Valid But Below Normal Operating Range - Moderately Severe Level	1761681626
+Temperature - Data Valid But Above Normal Operational Range - Most Severe Level	1761681640
+Temperature - Data Valid But Above Normal Operating Range - Moderately Severe Level	1761681656
+OEM Interface Timeout	1761738720
+OEM Interface Normal	1761738721
+Driver Interface Timeout	1761738722
+Driver Interface Normal	1761738723

@@ -1,0 +1,750 @@
+Engine Speed High - Critical - Level 3:Repair At Next Pm(Quantum)	1359020064
+Eng Speed/Pos Sensor Circuit Lost Two Signals From Sensor - Level 2:Repair Engine Same Day(Quantum)	1359020066
+Eng Speed/Pos Sensor Circuit Lost One Signal From Sensor - Level 2:Repair Engine Same Day(Quantum)	1359020074
+Intake Manifold Pres Sensor Circuit - Data Incorrect(Quantum)	1359020098
+Intake Manifold Pres Sensor #1 Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359020099
+Intake Manifold Pres Sensor #1 Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359020100
+High Boost Lb(Quantum)	1359020112
+Low Boost Lb(Quantum)	1359020114
+Boost Ckt Failed High Rb(Quantum)	1359020131
+Boost Ckt Failed Low Rb(Quantum)	1359020132
+High Boost Rb(Quantum)	1359020144
+Low Boost Rb(Quantum)	1359020146
+Accelerator Pedal Idle Validation Circuit - Data Incorrect - Level 3:Repair At Next Pm(Quantum)	1359020162
+Accelerator Pedal Position Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359020163
+Accelerator Pedal Position Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359020164
+Accel Pedal Pos Sensor Circuit - High/Low Frequency - Level 2: Repair Engine Same Day(Quantum)	1359020168
+Accelerator Pedal Idle Validation Circuit - Out Of Calibration - Level 3:Repair At Next Pm(Quantum)	1359020173
+Sae J1939 Multiplexing Accelerator Pedal Sensor System Error(Quantum)	1359020179
+Engine Oil Pressure Low - Critical - Level 1:Stop Engine Now(Quantum)	1359020193
+Eng Oil Pres Sensor Circuit - Data Incorrect(Quantum)	1359020194
+Eng Oil Pres Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359020195
+Eng Oil Pres Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359020196
+Engine Oil Pressure Low - Warning(Quantum)	1359020210
+Pre Filter Oil Press Ckt Failed High(Quantum)	1359020227
+Pre Filter Oil Press Ckt Failed Low(Quantum)	1359020228
+Eng Coolant Temperature High - Critical - Level 1:Stop Engine Now(Quantum)	1359020256
+Eng Coolant Temperature Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359020259
+Eng Coolant Temperature Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359020260
+Engine Coolant Temperature High - Warning(Quantum)	1359020272
+Intake Manifold Temperature #1 High - Critical - Level 1:Stop Engine Now(Quantum)	1359020288
+Intake Manifold Temperature Sensor #1 Circuit - Shorted High -Lvl 2:Repair Engine Same Day(Quantum)	1359020291
+Intake Manifold Temperature Sensor #1 Circuit - Shorted Low -Lvl 2:Repair Engine Same Day(Quantum)	1359020292
+Rapid Rise In Lbf Intake Manifold Temp(Quantum)	1359020298
+Intake Manifold Temperature High - Warning(Quantum)	1359020304
+High Intake Manifold Temp Lbr(Quantum)	1359020320
+Lbr Intake Manifold Temp Ckt Failed High(Quantum)	1359020323
+Lbr Intake Manifold Temp Ckt Failed Low(Quantum)	1359020324
+Rapid Rise In Lbr Intake Manifold Temp(Quantum)	1359020330
+Highintake Manifold Temp Rbf(Quantum)	1359020352
+Rbfintake Manifold Temp Ckt Failed High(Quantum)	1359020355
+Rbfintake Manifold Temp Ckt Failed Low(Quantum)	1359020356
+Rapid Rise In Rbf Intake Manifold Temp(Quantum)	1359020362
+Highintake Manifold Temp Rbr(Quantum)	1359020384
+Rbrintake Manifold Temp Ckt Failed High(Quantum)	1359020387
+Rbrintake Manifold Temp Ckt Failed Low(Quantum)	1359020388
+Rapid Rise In Rbr Intake Manifold Temp(Quantum)	1359020394
+High Oil Temp(Quantum)	1359020416
+High Power - Cylinder #14 (B7)(Cense)	1359020417
+Oil Temp Ckt Failed High(Quantum)	1359020419
+Oil Temp Ckt Failed Low(Quantum)	1359020420
+Ambient Air Pres Sensor Circuit - Data Incorrect(Quantum)	1359020450
+Ambient Air Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359020451
+Ambient Air Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359020452
+Engine Coolant Pressure Low - Warning - Level 1:Stop Engine Now(Quantum)	1359020481
+Engine Coolant Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359020483
+Engine Coolant Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359020484
+Low Coolant Press(Quantum)	1359020498
+Engine Coolant Level Low - Critical - Level 1:Stop Engine Now(Quantum)	1359020513
+Engine Coolant Level Sensor Circuit - Data Incorrect - Level 2:Repair Engine Same Day(Quantum)	1359020514
+Engine Oil Level #1 Low - Critical - Level 1:Stop Engine Now(Quantum)	1359020545
+Engine Oil Level #1 Sensor Circuit - Data Incorrect - Level 2:Repair Engine Same Day(Quantum)	1359020546
+Battery #1 Voltage High - Warning - Level 2:Repair Engine Same Day(Quantum)	1359020576
+Battery #1 Voltage Low - Warning - Level 3:Repair At Next Pm(Quantum)	1359020577
+Battery #1 Voltage High - Warning(Quantum)	1359020592
+Battery #1 Voltage Low - Warning(Quantum)	1359020594
+Injector Metering Rail #1 Pressure High - Warning Level - Level 2:Repair Engine Same Day(Quantum)	1359020608
+Fuel Pres Sensor Error - Level 2:Repair Engine Same Day(Quantum)	1359020610
+Injector Metering Rail #1 Press Sensor Circuit - Shorted Hi -Lvl 2:Repair Engine Same Day(Quantum)	1359020611
+Injector Metering Rail #1 Press Sensor Circuit - Shorted Low -Lvl 2:Repair Engine Same Day(Quantum)	1359020612
+Injector Metering Rail #1 Pres Malfunction(Quantum)	1359020615
+Injector Metering Rail #1 Pres High - Yellow Lamp Warning Level(Quantum)	1359020624
+Engine Blowby - Warning Level - Level 1:Stop Engine Now(Quantum)	1359020640
+Crankcase Blowby Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359020643
+Crankcase Blowby Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359020644
+High Blowby Press(Quantum)	1359020656
+High Oil Filter Rest(Quantum)	1359020673
+Rbf Turbo Comp Inlet Temp Sens Failed High(Quantum)	1359020707
+High Exhaust Temperature - Cylinder #10 (B5)(Cense)	1359020708
+High Turbo Comp Inlet Temp Rb(Quantum)	1359020720
+High Exh Temp #1 Lb(Quantum)	1359020736
+Exh Temp Ckt Failed Low #1 Lb(Quantum)	1359020740
+High Power #1 Lb(Quantum)	1359020752
+Low Power #1 Lb(Quantum)	1359020754
+High Exh Temp #2 Lb(Quantum)	1359020768
+Exh Temp Ckt Failed Low #2 Lb(Quantum)	1359020772
+High Power #2 Lb(Quantum)	1359020784
+Low Power #2 Lb(Quantum)	1359020786
+High Exh Temp #3 Lb(Quantum)	1359020800
+Exh Temp Ckt Failed Low #3 Lb(Quantum)	1359020804
+High Power #3 Lb(Quantum)	1359020816
+Low Power #3 Lb(Quantum)	1359020818
+High Exh Temp #4 Lb(Quantum)	1359020832
+Exh Temp Ckt Failed Low #4 Lb(Quantum)	1359020836
+High Power #4 Lb(Quantum)	1359020848
+Low Power #4 Lb(Quantum)	1359020850
+High Exh Temp #5 Lb(Quantum)	1359020864
+Exh Temp Ckt Failed Low #5 Lb(Quantum)	1359020868
+High Power #5 Lb(Quantum)	1359020880
+Low Power #5 Lb(Quantum)	1359020882
+High Exh Temp #6 Lb(Quantum)	1359020896
+Exh Temp Ckt Failed Low #6 Lb(Quantum)	1359020900
+High Power #6 Lb(Quantum)	1359020912
+Low Power #6 Lb(Quantum)	1359020914
+High Exh Temp #1 Rb (30 45)(Quantum)	1359020928
+Exh Temp Ckt Failed Low #7 Lb(Quantum)	1359020932
+High Power #7 Lb(Quantum)	1359020944
+Low Power #7 Lb(Quantum)	1359020946
+High Exh Temp #2 Rb (30 45)(Quantum)	1359020960
+Exh Temp Ckt Failed Low #8 Lb(Quantum)	1359020964
+High Power #8 Lb(Quantum)	1359020976
+Low Power #8 Lb(Quantum)	1359020978
+High Exh Temp #3 Rb (30 45)(Quantum)	1359020992
+Exh Temp Ckt Failed Low #1 Rb(Quantum)	1359020996
+High Power #1 Rb(Quantum)	1359021008
+Low Power #1 Rb(Quantum)	1359021010
+High Exh Temp #4 Rb (30 45)(Quantum)	1359021024
+Exh Temp Ckt Failed Low #2 Rb(Quantum)	1359021028
+High Power #2 Rb(Quantum)	1359021040
+Low Power #2 Rb(Quantum)	1359021042
+High Exh Temp #5 Rb (30 45)(Quantum)	1359021056
+Exh Temp Ckt Failed Low #3 Rb(Quantum)	1359021060
+High Power #3 Rb(Quantum)	1359021072
+Low Power #3 Rb(Quantum)	1359021074
+High Exh Temp #6 Rb (30 45)(Quantum)	1359021088
+Exh Temp Ckt Failed Low #4 Rb(Quantum)	1359021092
+High Power #4 Rb(Quantum)	1359021104
+Low Power #4 Rb(Quantum)	1359021106
+High Exh Temp #5 Rb(Quantum)	1359021120
+Exh Temp Ckt Failed Low #5 Rb(Quantum)	1359021124
+High Power #5 Rb(Quantum)	1359021136
+Low Power #5 Rb(Quantum)	1359021138
+High Exh Temp #6 Rb(Quantum)	1359021152
+Exh Temp Ckt Failed Low #6 Rb(Quantum)	1359021156
+High Power #6 Rb(Quantum)	1359021168
+Low Power #6 Rb(Quantum)	1359021170
+High Exh Temp #7 Rb(Quantum)	1359021184
+Exh Temp Ckt Failed Low #7 Rb(Quantum)	1359021188
+High Power #7 Rb(Quantum)	1359021200
+Low Power #7 Rb(Quantum)	1359021202
+High Exh Temp #8 Rb(Quantum)	1359021216
+Exh Temp Ckt Failed Low #8 Rb(Quantum)	1359021220
+High Power #8 Rb(Quantum)	1359021232
+Low Power #8 Rb(Quantum)	1359021234
+Remote Accel Pedal Pos Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359021251
+Remote Accelerator Pedal Pos Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359021252
+Vehicle Speed Sensor Circuit - Data Incorrect(Quantum)	1359021282
+Vehicle Speed Sensor Circuit - Tampering Has Been Detected(Quantum)	1359021290
+Oem Alternate Torque Validation Switch - Data Incorrect(Quantum)	1359021314
+Fuel Pres Sensor Circuit - Data Incorrect(Quantum)	1359021346
+Fuel Delivery Pres Sensor Circuit - Shorted High(Quantum)	1359021347
+Fuel Delivery Pres Sensor Circuit- Shorted Low(Quantum)	1359021348
+Fuel Pres High - Warning(Quantum)	1359021360
+Fuel Pres Low - Warning(Quantum)	1359021362
+Water In Fuel Sensor Circuit Shorted High(Quantum)	1359021379
+Water In Fuel Sensor Circuit - Shorted Low(Quantum)	1359021380
+Water In Fuel Indicator High - Maintenance(Quantum)	1359021391
+Oem Alternate Droop Switch Validation - Data Incorrect(Quantum)	1359021410
+Fuel Pump Delivery Pres Sensor Circuit - Shorted High - Level 3:Repair At Next Pm(Quantum)	1359021443
+Fuel Pump Delivery Pres Sensor Circuit - Shorted Low - Level 3:Repair At Next Pm(Quantum)	1359021444
+Fuel Timing Pres Or Timing Actuator Stuck - Level 2:Repair Engine Same Day(Quantum)	1359021474
+Fuel Timing Pres Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359021475
+Fuel Timing Pres Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359021476
+Cylinder Power Imbalance Between Cylinders(Quantum)	1359021506
+Electrical Charging System Volt Low - Critical Level(Quantum)	1359021537
+Electrical Charging System Volt High - Warning Level(Quantum)	1359021552
+Electrical Charging System Volt Low - Warning Level(Quantum)	1359021554
+Fuel Temperature High - Warning - Level 1:Stop Engine Now(Quantum)	1359021568
+Fuel Temp Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359021571
+Fuel Temp Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359021572
+Fuel Temperature Sensor Circuit - Data Out-Of-Range(Quantum)	1359021579
+Fuel Temperature High - Warning(Quantum)	1359021584
+Transmission Output Shaft (Tailshaft) Speed High -Warning -Level 2:Repair Engine Same Day(Quantum)	1359021600
+Transmission Output Shaft (Aux Gov) Speed Low - Warning - Level 2:Repair Engine Same Day(Quantum)	1359021601
+Transmission Output Shaft (Tailshaft) Speed High - Warning(Quantum)	1359021616
+Transmission Output Shaft (Tailshaft) Speed Low - Warning(Quantum)	1359021618
+Aux Temp Sensor Input # 1 Circuit - Shorted High(Quantum)	1359021635
+Aux Temp Sensor Input # 1 Circuit - Shorted Low(Quantum)	1359021636
+Eng Brake Driver #1 Circuit - Shorted Low(Quantum)	1359021668
+Accelerator Pedal Idle Validation Circuit - Data Incorrect(Quantum)	1359021698
+Accelerator Pedal Idle Validation Circuit - Shorted Low(Quantum)	1359021700
+Accelerator Pedal Idle Validation Circuit - Out Of Calibration(Quantum)	1359021709
+Multiple Unit Synchronization Switch Circuit - Data Incorrect(Cense)	1359021730
+Data Communication Error Over The J1587 Data Link Circuit(Quantum)	1359021737
+Engine Control Module Identification Input State Error(Quantum)	1359021762
+Make-Up Tank Oil Level Low Fault Active(Cense)	1359021794
+Post-Filter Oil Pres Sensor Circuit- Shorted High(Quantum)	1359021795
+Post-Filter Oil Pres Sensor Circuit- Shorted Low(Quantum)	1359021796
+Oil Filter Bypass Valve Open Active(Cense)(Deprecated/Removed)	1359021799
+Non-Zero Engine Speed At Power-Up Active(Cense)	1359021803
+Communication Error (GSP Or RPC)(Cense)	1359021823
+Oem Component Failure(Quantum)	1359021838
+Oem/#2 Sensor Supply Voltage Circuit - Shorted High(Quantum)	1359021859
+Sensor Supply Volt #2 Circuit - Shorted Low(Quantum)	1359021860
+Oem Sensor Supply Voltage Low - Warning(Quantum)	1359021874
+Start Assist Device - Canister Empty (Ether Injection) - Level 3:Repair At Next Pm(Quantum)	1359021889
+Itk Air Heater Relay Enb #1/#2 Data Incorrect/Start Assist Dev Ctrl Ckt Error Ether Inject(Quantum)	1359021899
+Power Lost Without Ignition Off(Quantum)	1359021922
+Fuel Pump Control Module Electronic Calibration Code Error(Quantum)	1359021954
+Engine Shut Down Without Proper Cool-Down Active(Cense)	1359021955
+Engine Control Module - Critical Internal Failure - Level 3:Repair At Next Pm(Quantum)	1359021964
+Eng Control Module - Data Lost(Quantum)	1359021986
+Eng Control Module - Warning Software Error - Level 4:Information Only(Quantum)	1359021996
+Eng Control Module - Out Of Calibration(Quantum)	1359021997
+Fuel Shutoff Valve Circuit - Shorted High(Quantum)	1359022019
+Fuel Shutoff Valve Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359022020
+Fuel Shutoff Valve - Stuck Open - Level 2:Repair Engine Same Day(Quantum)	1359022023
+Fuel Shutoff Valve Supply Volt Error(Quantum)	1359022027
+Fuel Rail Actuator Circuit - Data Incorrect - Level 2:Repair Engine Same Day(Quantum)	1359022050
+Fuel Injection Control Valve Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359022051
+Fuel Injection Control Valve Circuit - Shorted Low(Quantum)	1359022052
+Fueling Actuator #1 Circuit - Open Circuit(Quantum)	1359022053
+Fueling Actuator #1 Circuit - Grounded Circuit(Quantum)	1359022054
+Fuel Injection Control Valve - Mechanically Stuck - Level 2:Repair Engine Same Day(Quantum)	1359022055
+Injector Control Valve Electronic Filter (Transorb) Error(Quantum)	1359022059
+Timing Rail Actuator Circuit - Data Incorrect - Level 2:Repair Engine Same Day(Quantum)	1359022082
+Eng Timing Actuator Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359022083
+Eng Timing Actuator Circuit - Shorted Low(Quantum)	1359022084
+Timing Actuator #1 Circuit - Open Circuit(Quantum)	1359022085
+Timing Actuator #1 Circuit - Grounded Circuit(Quantum)	1359022086
+Eng Timing Actuator Is Not Responding To Ecm - Level 2:Repair Engine Same Day(Quantum)	1359022087
+Rack Actuator Position #1 Circuit - Grounded Circuit(Quantum)	1359022118
+Rack Actuator - Mechanically Stuck Open(Quantum)	1359022119
+Sae J1939 Datalink - Cannot Transmit/Communication Error - Level 3:Repair At Next Pm(Quantum)	1359022146
+Fuel Shutoff Valve - Component Shorted High Active(Cense)	1359022147
+Sae J1939 Not Fast Enough / Multiplexing Pgn Timeout Error - Level 4:Information Only(Quantum)	1359022153
+Sae J1939 Multiplexing Configuration Error(Quantum)	1359022157
+Oem Commanded Dual Output Shutdown(Quantum)	1359022190
+External Speed Input (Mult Unit Sync) - Data Incorrect - Level 2:Repair Engine Same Day(Quantum)	1359022210
+Fan Clutch Circuit - Shorted Low(Quantum)	1359022244
+Fan Clutch Circuit Error(Quantum)	1359022251
+Injector Solenoid Valve Cylinder #1 Circuit - Open Circuit(Quantum)	1359022277
+Injector Solenoid Valve Cylinder #1 Circuit - Grounded Circuit(Quantum)	1359022278
+Injector Solenoid Valve Cylinder #2 Circuit - Open Circuit(Quantum)	1359022309
+Injector Solenoid Valve Cylinder #2 Circuit - Grounded Circuit(Quantum)	1359022310
+Injector Solenoid Valve Cylinder #3 Circuit - Open Circuit(Quantum)	1359022341
+Injector Solenoid Valve Cylinder #3 Circuit - Grounded Circuit(Quantum)	1359022342
+Injector Solenoid Valve Cylinder #4 Circuit - Open Circuit(Quantum)	1359022373
+Injector Solenoid Valve Cylinder #4 Circuit - Grounded Circuit(Quantum)	1359022374
+Injector Solenoid Valve Cylinder #5 Circuit - Open Circuit(Quantum)	1359022405
+Injector Solenoid Valve Cylinder #5 Circuit - Grounded Circuit(Quantum)	1359022406
+Injector Solenoid Valve Cylinder #6 Circuit - Open Circuit(Quantum)	1359022437
+Injector Solenoid Valve Cylinder #6 Circuit - Grounded Circuit(Quantum)	1359022438
+Aux Input/Output #2 Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359022467
+Aux Input/Output #3 Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum)	1359022499
+Aux Equipment Sensor Input # 3 (Oem Switch)(Quantum)	1359022507
+Auxiliary Equipment Sensor Input # 3 (Oem Switch) Engine Protection - Critical(Quantum)	1359022510
+Eng Speed/Position #2 - Cam Sync Error - Level 3:Repair At Next Pm(Quantum)	1359022530
+Rack Position Sensor #1 Circuit - Shorted High(Quantum)	1359022563
+Output Device Driver (Vgt Or Transmission Shift Pwm Signal)(Quantum)	1359022603
+Fuel Supply Pump Actuator Circuit - Shorted High - Level 3:Repair At Next Pm(Quantum)	1359022627
+Fuel Supply Pump Actuator - Mechanically Stuck - Level 2:Repair Engine Same Day(Quantum)	1359022631
+Remote Accelerator Pedal Position Sensor Circuit - Shorted High(Quantum)	1359022659
+Remote Accelerator Pedal Position Sensor Circuit - Shorted Low(Quantum)	1359022660
+Sae J1939 Multiplexing Remote Throttle Data Error(Quantum)	1359022675
+Engin Speed/Pos Sensor #1 (Crankshaft)/Accel Pedal Pos Supply Voltage Circuit - Shorted Hi(Quantum)	1359022723
+Engin Speed/Pos Sensor #1 (Crankshaft)/Accel Pedal Pos Supply Voltage Circuit - Shorted Lo(Quantum)	1359022724
+Engine Speed/Position Sensor #2 (Camshaft) Supply Volt(Quantum)	1359022731
+Fuel Priming Pump Control Circuit - Shorted High/Low(Quantum)	1359022763
+Fuel Pump Control Module Fuel Control Valve Circuit - Shorted High(Quantum)	1359022787
+Fuel Pump Control Module Fuel Control Valve Circuit - Shorted Low(Quantum)	1359022788
+Fuel Pump Control Module Fuel Control Valve - Mechanically Stuck(Quantum)	1359022791
+Fuel Metering Solenoid - Bad Device(Quantum)	1359022796
+Fuel Pump Calibration Trim Circuit Error(Quantum)	1359022797
+Fuel Pump Control Module Supply Volt Circuit - Data Incorrect(Quantum)	1359022818
+Fuel Pump Control Module Fuel Shutoff Error(Quantum)	1359022819
+Fuel Pump Control Module Supply Volt Circuit - Shorted Low(Quantum)	1359022820
+Fuel Pump Control Module Stuck Relay Error(Quantum)	1359022823
+Fuel Pump Control Module Can Communication Error - Abnormal Update Rate(Quantum)	1359022825
+Fuel Pump Control Module Idle Validation Error(Quantum)	1359022827
+Fuel Pump Control Module Self-Test Error(Quantum)	1359022828
+Fuel Pump Control Module Fueling Or Eng Speed Mismatch(Quantum)	1359022829
+Fuel System Leakage Error(Quantum)	1359022830
+Fuel Pump Control Module Eng Synchronization Error(Quantum)	1359022850
+Fuel Pump Control Module Timing Error(Quantum)	1359022856
+Fuel Pump Control Module Increment Angle Time Sensor Error(Quantum)	1359022859
+Sensor Supply Volt #1 Circuit - Shorted High(Quantum)	1359022883
+Sensor Supply Volt #1 Circuit - Shorted Low(Quantum)	1359022884
+Aux Temp Sensor Input # 1 Circuit - Shorted High - Level 3:Repair At Next Pm(Quantum)	1359022915
+Aux Temp Sensor Input # 1 Circuit - Shorted Low - Level 3:Repair At Next Pm(Quantum)	1359022916
+Aux Temp Sensor Input # 1 Eng Protection - Critical - Level 3:Repair At Next Pm(Quantum)	1359022926
+Aux Pres Sensor Input # 2 Circuit - Shorted High - Level 3:Repair At Next Pm(Quantum)	1359022947
+Aux Pres Sensor Input # 2 Circuit - Shorted Low - Level 3:Repair At Next Pm(Quantum)	1359022948
+Aux Pres Sensor Input # 2 Eng Protection - Critical - Level 3:Repair At Next Pm(Quantum)	1359022958
+High #9 Lb Cylinder Exhaust Temp(Quantum)	1359022976
+Exhaust Gas Temp Sensor Circuit Failed Low Cyl # 9 Rb(Quantum)	1359022980
+High Power - Cylinder #10 (B5)(Cense)	1359022992
+Low Power - Cylinder #10 (B5)(Cense)	1359022994
+High #9 Rb Cylinder Exhaust Temp(Quantum)	1359023008
+Exhaust Gas Temp Sensor Circuit Failed Low Cyl # 9 Lb(Quantum)	1359023012
+High Power - Cylinder #12 (B6)(Cense)	1359023024
+Low Power - Cylinder #12 (B6)(Cense)	1359023026
+High Turbo Compressor Inlet Temp Lb(Quantum)	1359023040
+Lbf Turbo Comp Inlet Temp Sens Failed High(Quantum)	1359023043
+Lbr Turbo Comp Inlet Temp Sens Failed Low(Quantum)	1359023044
+High Turbo Compressor Inlet Temp Lb(Cense)	1359023056
+Turbocharger #1 Turbine Inlet Temp High - Warning Level - Level 2:Repair Engine Same Day(Quantum)	1359023072
+Turbocharger #1 Wastegate Control Circuit - Shorted Low(Quantum)	1359023108
+Fueling Actuator #2 Circuit - Open Circuit(Quantum)	1359023141
+Fueling Actuator #2 Circuit - Grounded Circuit(Quantum)	1359023142
+Timing Actuator #2 Circuit - Open Circuit(Quantum)	1359023173
+Timing Actuator #2 Circuit - Grounded Circuit(Quantum)	1359023174
+Eng Oil Burn Valve Solenoid Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359023204
+Eng Oil Replacement Valve Solenoid Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum)	1359023236
+Exhaust Port Temp Bank Imbalance(Quantum)	1359023273
+Intake Manifold Boost Pres Imbalance(Quantum)	1359023298
+High Power - Cylinder # 9 Left Bank(Quantum)	1359023344
+Low Power - Cylinder # 9 Left Bank(Quantum)	1359023346
+High Power - Cylinder # 9 Right Bank(Quantum)	1359023376
+Low Power - Cylinder # 9 Right Bank(Quantum)	1359023378
+High Fuel Pres Solenoid Valve #1 Circuit - Shorted High(Quantum)	1359023395
+High Fuel Pres Solenoid Valve #1 Circuit - Shorted Low(Quantum)	1359023396
+High Fuel Pressure Solenoide Valve #1 /Pumping Element #1 (Front) - Mechanically Stuck(Quantum)	1359023399
+High Fuel Pres Solenoid Valve #2 Circuit - Shorted High(Quantum)	1359023427
+High Fuel Pres Solenoid Valve #2 Circuit - Shorted Low(Quantum)	1359023428
+High Fuel Pressure Solenoid Valve #2 / Pumping Element #2 (Read) - Mechanically Stuck(Quantum)	1359023431
+Injector Metering Rail #2 Pres Sensor Circuit - Shorted High(Quantum)	1359023459
+Injector Metering Rail #2 Pres Sensor Circuit - Shorted Low(Quantum)	1359023460
+Injector Metering Rail #2 Pres Malfunction(Quantum)	1359023463
+Injector Metering Rail #2 Pres High - Warning(Quantum)	1359023472
+Injector Metering Rail #2 Pres Low - Warning(Quantum)	1359023474
+Multiple Unit Synchronization Switch Ckt - Data Incorrect - Level 2:Repair Engine Same Day(Quantum)	1359023490
+Change Lubricating Oil And Filter - Level 3:Repair At Next Pm(Quantum)	1359023520
+Low Oil Level In The Centinel Makeup Oil Tank - Level 2:Repair Engine Same Day(Quantum)	1359023553
+Engine Oil Level #2 Low - Warning - Level 2:Repair Engine Same Day(Quantum)	1359023554
+Low Oil Level In The Centinel Makeup Oil Tank(Quantum)	1359023569
+Fuel Supply Pump Inlet Pres Sensor Circuit - Shorted High(Quantum)	1359023587
+Fuel Supply Pump Inlet Pres Sensor Circuit - Shorted Low(Quantum)	1359023588
+Fuel Supply Pump Inlet Pres Low - Warning Level(Quantum)	1359023602
+Eng Hot Shutdown - Level 3:Repair At Next Pm(Quantum)	1359023647
+Eng Shutdown Commanded By J1939 - Level 3:Repair At Next Pm(Quantum)	1359023679
+Auxiliary Pressure Sensor Input # 2 Circuit - Shorted High(Quantum)	1359023683
+Auxiliary Pressure Sensor Input # 2 Circuit - Shorted Low(Quantum)	1359023684
+Auxiliary Equipment Sensor Input # 2 (Oem Pressure Sensor) Engine Protection - Warning(Quantum)	1359023691
+Auxiliary Pressure Sensor Input # 2 Engine Protection - Critical(Quantum)	1359023694
+Additional Oem/Vehicle Diagnostic Codes Have Been Logged. Check Other Ecms For Dtcs.(Quantum)	1359023743
+Real Time Clock - Power Interrupt(Quantum)	1359023746
+Rbr Turbo Comp Inlet Temp Sens Failed Low(Quantum)	1359023780
+High Power #1 Lb(Quantum)	1359023808
+High Power #2 Lb(Quantum)	1359023840
+High Power #3 Lb(Quantum)	1359023872
+High Power #4 Lb(Quantum)	1359023904
+High Power #5 Lb(Quantum)	1359023936
+High Power #6 Lb(Quantum)	1359023968
+High Power #1 Rb(Quantum)	1359024000
+Low #1/#2/#3/#4/#5/#6 Rb Cylinder Power(Quantum)	1359024001
+High Power #2 Rb(Quantum)	1359024032
+High Power #3 Rb(Quantum)	1359024064
+High Power #4 Rb(Quantum)	1359024096
+High Power #5 Rb(Quantum)	1359024128
+High Power #6 Rb(Quantum)	1359024160
+Turbocharger #1 Speed High - Warning Level(Quantum)	1359024368
+Burn Value Solenoid Fault Active(Cense)	1359025187
+Make-Up Value Solenoid Fault Active(Cense)	1359025188
+Oil Filter Bypass Valve Open Active(Cense)(Deprecated/Removed)	1359039303
+Communication Error(Cense)	1359039327
+Engine Speed High - Critical - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359040064
+Eng Speed/Pos Sensor Circuit Lost Two Signals From Sensor - Lvl2:Repair Eng Same Day(Quantum) (Eng2)	1359040066
+Eng Speed/Pos Sensor Circuit Lost One Signal From Sensor - Lvl 2:Repair Eng Same Day(Quantum) (Eng2)	1359040074
+Intake Manifold Pres Sensor Circuit - Data Incorrect (Quantum) (Eng2)	1359040098
+Intake Manifold Pres Sensor #1 Circuit - Shorted High - Lvl 2:Repair Eng Same Day(Quantum) (Eng2)	1359040099
+Intake Manifold Pres Sensor #1 Circuit - Shorted Low - Lvl 2:Repair Eng Same Day(Quantum) (Eng2)	1359040100
+High Boost Lb (Quantum) (Eng2)	1359040112
+Low Boost Lb (Quantum) (Eng2)	1359040114
+Boost Ckt Failed High Rb (Quantum) (Eng2)	1359040131
+Boost Ckt Failed Low Rb (Quantum) (Eng2)	1359040132
+High Boost Rb (Quantum) (Eng2)	1359040144
+Low Boost Rb (Quantum) (Eng2)	1359040146
+Accelerator Pedal Idle Validation Circuit - Data Incorrect - Lvl 3:Repair At Next Pm(Quantum) (Eng2)	1359040162
+Accelerator Pedal Position Sensor Circuit - Shorted High - Lvl 2:Repair Eng Same Day(Quantum) (Eng2)	1359040163
+Accelerator Pedal Position Sensor Circuit - Shorted Low - Lvl 2:Repair Eng Same Day(Quantum) (Eng2)	1359040164
+Accel Pedal Pos Sensor Circuit - High/Low Frequency - Lvl 2: Repair Engine Same Day(Quantum) (Eng2)	1359040168
+Accel Pedal Idle Validation Circuit - Out Of Calibration - Lvl 3:Repair At Next Pm(Quantum) (Eng2)	1359040173
+Sae J1939 Multiplexing Accelerator Pedal Sensor System Error (Quantum) (Eng2)	1359040179
+Engine Oil Pressure Low - Critical - Level 1:Stop Engine Now(Quantum) (Eng2)	1359040193
+Eng Oil Pres Sensor Circuit - Data Incorrect (Quantum) (Eng2)	1359040194
+Eng Oil Pres Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040195
+Eng Oil Pres Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040196
+Engine Oil Pressure Low - Warning (Quantum) (Eng2)	1359040210
+Pre Filter Oil Press Ckt Failed High (Quantum) (Eng2)	1359040227
+Pre Filter Oil Press Ckt Failed Low (Quantum) (Eng2)	1359040228
+Eng Coolant Temperature High - Critical - Level 1:Stop Engine Now(Quantum) (Eng2)	1359040256
+Eng Coolant Temperature Sensor Circuit - Shorted High - Lvl 2:Repair Engine Same Day(Quantum) (Eng2)	1359040259
+Eng Coolant Temperature Sensor Circuit - Shorted Low - Lvl 2:Repair Engine Same Day(Quantum) (Eng2)	1359040260
+Engine Coolant Temperature High - Warning (Quantum) (Eng2)	1359040272
+Intake Manifold Temperature #1 High - Critical - Level 1:Stop Engine Now(Quantum) (Eng2)	1359040288
+Intake Manifold Temp Sensor #1 Circuit - Shorted High -Lvl 2:Repair Engine Same Day(Quantum) (Eng2)	1359040291
+Intake Manifold Temp Sensor #1 Circuit - Shorted Low -Lvl 2:Repair Engine Same Day(Quantum) (Eng2)	1359040292
+Rapid Rise In Lbf Intake Manifold Temp (Quantum) (Eng2)	1359040298
+Intake Manifold Temperature High - Warning (Quantum) (Eng2)	1359040304
+High Intake Manifold Temp Lbr (Quantum) (Eng2)	1359040320
+Lbr Intake Manifold Temp Ckt Failed High (Quantum) (Eng2)	1359040323
+Lbr Intake Manifold Temp Ckt Failed Low (Quantum) (Eng2)	1359040324
+Rapid Rise In Lbr Intake Manifold Temp (Quantum) (Eng2)	1359040330
+Highintake Manifold Temp Rbf (Quantum) (Eng2)	1359040352
+Rbfintake Manifold Temp Ckt Failed High (Quantum) (Eng2)	1359040355
+Rbfintake Manifold Temp Ckt Failed Low (Quantum) (Eng2)	1359040356
+Rapid Rise In Rbf Intake Manifold Temp (Quantum) (Eng2)	1359040362
+Highintake Manifold Temp Rbr (Quantum) (Eng2)	1359040384
+Rbrintake Manifold Temp Ckt Failed High (Quantum) (Eng2)	1359040387
+Rbrintake Manifold Temp Ckt Failed Low (Quantum) (Eng2)	1359040388
+Rapid Rise In Rbr Intake Manifold Temp (Quantum) (Eng2)	1359040394
+High Oil Temp (Quantum) (Eng2)	1359040416
+High Power - Cylinder #14 (B7)(Cense) (Eng2)	1359040417
+Oil Temp Ckt Failed High (Quantum) (Eng2)	1359040419
+Oil Temp Ckt Failed Low (Quantum) (Eng2)	1359040420
+Ambient Air Pres Sensor Circuit - Data Incorrect (Quantum) (Eng2)	1359040450
+Ambient Air Pressure Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040451
+Ambient Air Pressure Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040452
+Engine Coolant Pressure Low - Warning - Level 1:Stop Engine Now(Quantum) (Eng2)	1359040481
+Engine Coolant Press Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040483
+Engine Coolant Press Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040484
+Low Coolant Press (Quantum) (Eng2)	1359040498
+Engine Coolant Level Low - Critical - Level 1:Stop Engine Now(Quantum) (Eng2)	1359040513
+Engine Coolant Level Sensor Circuit - Data Incorr - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040514
+Engine Oil Level #1 Low - Critical - Level 1:Stop Engine Now(Quantum) (Eng2)	1359040545
+Engine Oil Level #1 Sensor Circuit - Data Incorrect - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040546
+Battery #1 Voltage High - Warning - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040576
+Battery #1 Voltage Low - Warning - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359040577
+Battery #1 Voltage High - Warning (Quantum) (Eng2)	1359040592
+Battery #1 Voltage Low - Warning (Quantum) (Eng2)	1359040594
+Injector Metering Rail #1 Pressure High - Warning Lvl - Lvl 2:Repair Engine Same Day(Quantum) (Eng2)	1359040608
+Fuel Pres Sensor Error - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359040610
+Injector Metering Rail #1 Press Sensor Circuit - Short Hi -Lvl 2:Repair Eng Same Day(Quantum) (Eng2)	1359040611
+Injector Metering Rail #1 Press Sensor Circuit - Short Low -Lvl2:Repair Eng Same Day(Quantum) (Eng2)	1359040612
+Injector Metering Rail #1 Pres Malfunction (Quantum) (Eng2)	1359040615
+Injector Metering Rail #1 Pres High - Yellow Lamp Warning Level (Quantum) (Eng2)	1359040624
+Engine Blowby - Warning Level - Level 1:Stop Engine Now(Quantum) (Eng2)	1359040640
+Crankcase Blowby Pressure Sensor Circuit - Shorted High - Lvl 2:Repair Eng Same Day(Quantum) (Eng2)	1359040643
+Crankcase Blowby Pressure Sensor Circuit - Shorted Low - Level 2:Repair Eng Same Day(Quantum) (Eng2)	1359040644
+High Blowby Press (Quantum) (Eng2)	1359040656
+High Oil Filter Rest (Quantum) (Eng2)	1359040673
+Rbf Turbo Comp Inlet Temp Sens Failed High (Quantum) (Eng2)	1359040707
+High Exhaust Temperature - Cylinder #10 (B5)(Cense) (Eng2)	1359040708
+High Turbo Comp Inlet Temp Rb (Quantum) (Eng2)	1359040720
+High Exh Temp #1 Lb (Quantum) (Eng2)	1359040736
+Exh Temp Ckt Failed Low #1 Lb (Quantum) (Eng2)	1359040740
+High Power #1 Lb (Quantum) (Eng2)	1359040752
+Low Power #1 Lb (Quantum) (Eng2)	1359040754
+High Exh Temp #2 Lb (Quantum) (Eng2)	1359040768
+Exh Temp Ckt Failed Low #2 Lb (Quantum) (Eng2)	1359040772
+High Power #2 Lb (Quantum) (Eng2)	1359040784
+Low Power #2 Lb (Quantum) (Eng2)	1359040786
+High Exh Temp #3 Lb (Quantum) (Eng2)	1359040800
+Exh Temp Ckt Failed Low #3 Lb (Quantum) (Eng2)	1359040804
+High Power #3 Lb (Quantum) (Eng2)	1359040816
+Low Power #3 Lb (Quantum) (Eng2)	1359040818
+High Exh Temp #4 Lb (Quantum) (Eng2)	1359040832
+Exh Temp Ckt Failed Low #4 Lb (Quantum) (Eng2)	1359040836
+High Power #4 Lb (Quantum) (Eng2)	1359040848
+Low Power #4 Lb (Quantum) (Eng2)	1359040850
+High Exh Temp #5 Lb (Quantum) (Eng2)	1359040864
+Exh Temp Ckt Failed Low #5 Lb (Quantum) (Eng2)	1359040868
+High Power #5 Lb (Quantum) (Eng2)	1359040880
+Low Power #5 Lb (Quantum) (Eng2)	1359040882
+High Exh Temp #6 Lb (Quantum) (Eng2)	1359040896
+Exh Temp Ckt Failed Low #6 Lb (Quantum) (Eng2)	1359040900
+High Power #6 Lb (Quantum) (Eng2)	1359040912
+Low Power #6 Lb (Quantum) (Eng2)	1359040914
+High Exh Temp (Quantum) (Eng2)	1359040928
+Exh Temp Ckt Failed Low #7 Lb (Quantum) (Eng2)	1359040932
+High Power #7 Lb (Quantum) (Eng2)	1359040944
+Low Power (Quantum) (Eng2)	1359040946
+High Exh Temp (Quantum) (Eng2)	1359040960
+Exh Temp Ckt Failed Low #8 Lb (Quantum) (Eng2)	1359040964
+High Power #8 Lb (Quantum) (Eng2)	1359040976
+Low Power (Quantum) (Eng2)	1359040978
+High Exh Temp (Quantum) (Eng2)	1359040992
+Exh Temp Ckt Failed Low #1 Rb (Quantum) (Eng2)	1359040996
+High Power #1 Rb (Quantum) (Eng2)	1359041008
+Low Power (Quantum) (Eng2)	1359041010
+High Exh Temp (Quantum) (Eng2)	1359041024
+Exh Temp Ckt Failed Low #2 Rb (Quantum) (Eng2)	1359041028
+High Power #2 Rb (Quantum) (Eng2)	1359041040
+Low Power (Quantum) (Eng2)	1359041042
+High Exh Temp (Quantum) (Eng2)	1359041056
+Exh Temp Ckt Failed Low #3 Rb (Quantum) (Eng2)	1359041060
+High Power #3 Rb (Quantum) (Eng2)	1359041072
+Low Power (Quantum) (Eng2)	1359041074
+High Exh Temp (Quantum) (Eng2)	1359041088
+Exh Temp Ckt Failed Low #4 Rb (Quantum) (Eng2)	1359041092
+High Power #4 Rb (Quantum) (Eng2)	1359041104
+Low Power (Quantum) (Eng2)	1359041106
+High Exh Temp #5 Rb (Quantum) (Eng2)	1359041120
+Exh Temp Ckt Failed Low #5 Rb (Quantum) (Eng2)	1359041124
+High Power #5 Rb (Quantum) (Eng2)	1359041136
+Low Power #5 Rb (Quantum) (Eng2)	1359041138
+High Exh Temp #6 Rb (Quantum) (Eng2)	1359041152
+Exh Temp Ckt Failed Low #6 Rb (Quantum) (Eng2)	1359041156
+High Power #6 Rb (Quantum) (Eng2)	1359041168
+Low Power #6 Rb (Quantum) (Eng2)	1359041170
+High Exh Temp #7 Rb (Quantum) (Eng2)	1359041184
+Exh Temp Ckt Failed Low #7 Rb (Quantum) (Eng2)	1359041188
+High Power #7 Rb (Quantum) (Eng2)	1359041200
+Low Power #7 Rb (Quantum) (Eng2)	1359041202
+High Exh Temp #8 Rb (Quantum) (Eng2)	1359041216
+Exh Temp Ckt Failed Low #8 Rb (Quantum) (Eng2)	1359041220
+High Power #8 Rb (Quantum) (Eng2)	1359041232
+Low Power #8 Rb (Quantum) (Eng2)	1359041234
+Remote Accel Pedal Pos Sensor Circuit - Shorted High - Level 2:Repair Eng Same Day(Quantum) (Eng2)	1359041251
+Remote Accelerator Pedal Pos Sensor Circuit - Shorted Low - Lvl2:Repair Eng Same Day(Quantum) (Eng2)	1359041252
+Vehicle Speed Sensor Circuit - Data Incorrect (Quantum) (Eng2)	1359041282
+Vehicle Speed Sensor Circuit - Tampering Has Been Detected (Quantum) (Eng2)	1359041290
+Oem Alternate Torque Validation Switch - Data Incorrect (Quantum) (Eng2)	1359041314
+Fuel Pres Sensor Circuit - Data Incorrect (Quantum) (Eng2)	1359041346
+Fuel Delivery Pres Sensor Circuit - Shorted High (Quantum) (Eng2)	1359041347
+Fuel Delivery Pres Sensor Circuit- Shorted Low (Quantum) (Eng2)	1359041348
+Fuel Pres High - Warning (Quantum) (Eng2)	1359041360
+Fuel Pres Low - Warning (Quantum) (Eng2)	1359041362
+Water In Fuel Sensor Circuit Shorted High (Quantum) (Eng2)	1359041379
+Water In Fuel Sensor Circuit - Shorted Low (Quantum) (Eng2)	1359041380
+Water In Fuel Indicator High - Maintenance (Quantum) (Eng2)	1359041391
+Oem Alternate Droop Switch Validation - Data Incorrect (Quantum) (Eng2)	1359041410
+Fuel Pump Delivery Pres Sensor Circuit - Shorted High - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359041443
+Fuel Pump Delivery Pres Sensor Circuit - Shorted Low - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359041444
+Fuel Timing Pres Or Timing Actuator Stuck - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359041474
+Fuel Timing Pres Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359041475
+Fuel Timing Pres Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359041476
+Cylinder Power Imbalance Between Cylinders (Quantum) (Eng2)	1359041506
+Electrical Charging System Volt Low - Critical Level (Quantum) (Eng2)	1359041537
+Electrical Charging System Volt High - Warning Level (Quantum) (Eng2)	1359041552
+Electrical Charging System Volt Low - Warning Level (Quantum) (Eng2)	1359041554
+Fuel Temperature High - Warning - Level 1:Stop Engine Now(Quantum) (Eng2)	1359041568
+Fuel Temp Sensor Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359041571
+Fuel Temp Sensor Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359041572
+Fuel Temperature Sensor Circuit - Data Out-Of-Range (Quantum) (Eng2)	1359041579
+Fuel Temperature High - Warning (Quantum) (Eng2)	1359041584
+Transmission Output Shaft (Tailshaft) Speed High -Warning -Lvl 2:Repair Eng Same Day(Quantum) (Eng2)	1359041600
+Transmission Output Shaft (Aux Gov) Speed Low - Warning - Lvl2:Repair Eng Same Day(Quantum) (Eng2)	1359041601
+Transmission Output Shaft (Tailshaft) Speed High - Warning (Quantum) (Eng2)	1359041616
+Transmission Output Shaft (Tailshaft) Speed Low - Warning (Quantum) (Eng2)	1359041618
+Aux Temp Sensor Input # 1 Circuit - Shorted High (Quantum) (Eng2)	1359041635
+Aux Temp Sensor Input # 1 Circuit - Shorted Low (Quantum) (Eng2)	1359041636
+Eng Brake Driver #1 Circuit - Shorted Low (Quantum) (Eng2)	1359041668
+Accelerator Pedal Idle Validation Circuit - Data Incorrect (Quantum) (Eng2)	1359041698
+Accelerator Pedal Idle Validation Circuit - Shorted Low (Quantum) (Eng2)	1359041700
+Accelerator Pedal Idle Validation Circuit - Out Of Calibration (Quantum) (Eng2)	1359041709
+Multiple Unit Synchronization Switch Circuit - Data Incorrect(Cense) (Eng2)	1359041730
+Data Communication Error Over The J1587 Data Link Circuit (Quantum) (Eng2)	1359041737
+Engine Control Module Identification Input State Error (Quantum) (Eng2)	1359041762
+Make-Up Tank Oil Level Low Fault Active(Cense) (Eng2)	1359041794
+Post-Filter Oil Pres Sensor Circuit- Shorted High (Quantum) (Eng2)	1359041795
+Post-Filter Oil Pres Sensor Circuit- Shorted Low (Quantum) (Eng2)	1359041796
+Oil Filter Bypass Valve Open Active(Cense) (Eng2)(Deprecated/Removed)	1359041799
+Non-Zero Engine Speed At Power-Up Active(Cense) (Eng2)	1359041803
+Communication Error (GSP Or RPC)(Cense) (Eng2)	1359041823
+Oem Component Failure (Quantum) (Eng2)	1359041838
+Oem/#2 Sensor Supply Voltage Circuit - Shorted High (Quantum) (Eng2)	1359041859
+Sensor Supply Volt #2 Circuit - Shorted Low (Quantum) (Eng2)	1359041860
+Oem Sensor Supply Voltage Low - Warning (Quantum) (Eng2)	1359041874
+Start Assist Device - Canister Empty (Ether Injection) - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359041889
+Itk Air Heat Relay Enb #1/#2 Data Incorr/Start Assist Dev Ctrl Ckt Error Ether Inj(Quantum) (Eng2)	1359041899
+Power Lost Without Ignition Off (Quantum) (Eng2)	1359041922
+Fuel Pump Control Module Electronic Calibration Code Error (Quantum) (Eng2)	1359041954
+Engine Shut Down Without Proper Cool-Down Active(Cense) (Eng2)	1359041955
+Engine Control Module - Critical Internal Failure - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359041964
+Eng Control Module - Data Lost (Quantum) (Eng2)	1359041986
+Eng Control Module - Warning Software Error - Level 4:Information Only(Quantum) (Eng2)	1359041996
+Eng Control Module - Out Of Calibration (Quantum) (Eng2)	1359041997
+Fuel Shutoff Valve Circuit - Shorted High (Quantum) (Eng2)	1359042019
+Fuel Shutoff Valve Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042020
+Fuel Shutoff Valve - Stuck Open - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042023
+Fuel Shutoff Valve Supply Volt Error (Quantum) (Eng2)	1359042027
+Fuel Rail Actuator Circuit - Data Incorrect - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042050
+Fuel Injection Control Valve Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042051
+Fuel Injection Control Valve Circuit - Shorted Low (Quantum) (Eng2)	1359042052
+Fueling Actuator #1 Circuit - Open Circuit (Quantum) (Eng2)	1359042053
+Fueling Actuator #1 Circuit - Grounded Circuit (Quantum) (Eng2)	1359042054
+Fuel Injection Control Valve - Mechanically Stuck - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042055
+Injector Control Valve Electronic Filter (Transorb) Error (Quantum) (Eng2)	1359042059
+Timing Rail Actuator Circuit - Data Incorrect - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042082
+Eng Timing Actuator Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042083
+Eng Timing Actuator Circuit - Shorted Low (Quantum) (Eng2)	1359042084
+Timing Actuator #1 Circuit - Open Circuit (Quantum) (Eng2)	1359042085
+Timing Actuator #1 Circuit - Grounded Circuit (Quantum) (Eng2)	1359042086
+Eng Timing Actuator Is Not Responding To Ecm - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042087
+Rack Actuator Position #1 Circuit - Grounded Circuit (Quantum) (Eng2)	1359042118
+Rack Actuator - Mechanically Stuck Open (Quantum) (Eng2)	1359042119
+Sae J1939 Datalink -Cannot Transmit/Communication Error  Lvl 3:Repair At Next Pm (Quantum) (Eng2)	1359042146
+Fuel Shutoff Valve - Component Shorted High Active(Cense) (Eng2)	1359042147
+Sae J1939 Not Fast Enough / Multiplexing Pgn Timeout Error - Lvl 4:Inform Only(Quantum) (Eng2)	1359042153
+Sae J1939 Multiplexing Configuration Error (Quantum) (Eng2)	1359042157
+Oem Commanded Dual Output Shutdown (Quantum) (Eng2)	1359042190
+External Speed Input (Mult Unit Sync) - Data Incorrect - Lvl2:Repair Engine Same Day(Quantum) (Eng2)	1359042210
+Fan Clutch Circuit - Shorted Low (Quantum) (Eng2)	1359042244
+Fan Clutch Circuit Error (Quantum) (Eng2)	1359042251
+Injector Solenoid Valve Cylinder #1 Circuit - Open Circuit (Quantum) (Eng2)	1359042277
+Injector Solenoid Valve Cylinder #1 Circuit - Grounded Circuit (Quantum) (Eng2)	1359042278
+Injector Solenoid Valve Cylinder #2 Circuit - Open Circuit (Quantum) (Eng2)	1359042309
+Injector Solenoid Valve Cylinder #2 Circuit - Grounded Circuit (Quantum) (Eng2)	1359042310
+Injector Solenoid Valve Cylinder #3 Circuit - Open Circuit (Quantum) (Eng2)	1359042341
+Injector Solenoid Valve Cylinder #3 Circuit - Grounded Circuit (Quantum) (Eng2)	1359042342
+Injector Solenoid Valve Cylinder #4 Circuit - Open Circuit (Quantum) (Eng2)	1359042373
+Injector Solenoid Valve Cylinder #4 Circuit - Grounded Circuit (Quantum) (Eng2)	1359042374
+Injector Solenoid Valve Cylinder #5 Circuit - Open Circuit (Quantum) (Eng2)	1359042405
+Injector Solenoid Valve Cylinder #5 Circuit - Grounded Circuit (Quantum) (Eng2)	1359042406
+Injector Solenoid Valve Cylinder #6 Circuit - Open Circuit (Quantum) (Eng2)	1359042437
+Injector Solenoid Valve Cylinder #6 Circuit - Grounded Circuit (Quantum) (Eng2)	1359042438
+Aux Input/Output #2 Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042467
+Aux Input/Output #3 Circuit - Shorted High - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042499
+Aux Equipment Sensor Input # 3 (Oem Switch) (Quantum) (Eng2)	1359042507
+Auxiliary Equipment Sensor Input # 3 (Oem Switch) Engine Protection - Critical (Quantum) (Eng2)	1359042510
+Eng Speed/Position #2 - Cam Sync Error - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359042530
+Rack Position Sensor #1 Circuit - Shorted High (Quantum) (Eng2)	1359042563
+Output Device Driver (Vgt Or Transmission Shift Pwm Signal) (Quantum) (Eng2)	1359042603
+Fuel Supply Pump Actuator Circuit - Shorted High - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359042627
+Fuel Supply Pump Actuator - Mechanically Stuck - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359042631
+Remote Accelerator Pedal Position Sensor Circuit - Shorted High (Quantum) (Eng2)	1359042659
+Remote Accelerator Pedal Position Sensor Circuit - Shorted Low (Quantum) (Eng2)	1359042660
+Sae J1939 Multiplexing Remote Throttle Data Error (Quantum) (Eng2)	1359042675
+Eng Speed/Pos Sensor#1 (Crankshaft) Accel Pedal Pos Supply Voltage Circ-Shorted Hi (Quantum) (Eng2)	1359042723
+Eng Speed/Pos Sensor#1 (Crankshaft /Accel Pedal Pos Supply Voltage Circ-Shorted Lo (Quantum) (Eng2)	1359042724
+Engine Speed/Position Sensor #2 (Camshaft) Supply Volt (Quantum) (Eng2)	1359042731
+Fuel Priming Pump Control Circuit - Shorted High/Low (Quantum) (Eng2)	1359042763
+Fuel Pump Control Module Fuel Control Valve Circuit - Shorted High (Quantum) (Eng2)	1359042787
+Fuel Pump Control Module Fuel Control Valve Circuit - Shorted Low (Quantum) (Eng2)	1359042788
+Fuel Pump Control Module Fuel Control Valve - Mechanically Stuck (Quantum) (Eng2)	1359042791
+Fuel Metering Solenoid - Bad Device (Quantum) (Eng2)	1359042796
+Fuel Pump Calibration Trim Circuit Error (Quantum) (Eng2)	1359042797
+Fuel Pump Control Module Supply Volt Circuit - Data Incorrect (Quantum) (Eng2)	1359042818
+Fuel Pump Control Module Fuel Shutoff Error (Quantum) (Eng2)	1359042819
+Fuel Pump Control Module Supply Volt Circuit - Shorted Low (Quantum) (Eng2)	1359042820
+Fuel Pump Control Module Stuck Relay Error (Quantum) (Eng2)	1359042823
+Fuel Pump Control Module Can Communication Error - Abnormal Update Rate (Quantum) (Eng2)	1359042825
+Fuel Pump Control Module Idle Validation Error (Quantum) (Eng2)	1359042827
+Fuel Pump Control Module Self-Test Error (Quantum) (Eng2)	1359042828
+Fuel Pump Control Module Fueling Or Eng Speed Mismatch (Quantum) (Eng2)	1359042829
+Fuel System Leakage Error (Quantum) (Eng2)	1359042830
+Fuel Pump Control Module Eng Synchronization Error (Quantum) (Eng2)	1359042850
+Fuel Pump Control Module Timing Error (Quantum) (Eng2)	1359042856
+Fuel Pump Control Module Increment Angle Time Sensor Error (Quantum) (Eng2)	1359042859
+Sensor Supply Volt #1 Circuit - Shorted High (Quantum) (Eng2)	1359042883
+Sensor Supply Volt #1 Circuit - Shorted Low (Quantum) (Eng2)	1359042884
+Aux Temp Sensor Input # 1 Circuit - Shorted High - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359042915
+Aux Temp Sensor Input # 1 Circuit - Shorted Low - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359042916
+Aux Temp Sensor Input # 1 Eng Protection - Critical - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359042926
+Aux Pres Sensor Input # 2 Circuit - Shorted High - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359042947
+Aux Pres Sensor Input # 2 Circuit - Shorted Low - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359042948
+Aux Pres Sensor Input # 2 Eng Protection - Critical - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359042958
+High #9 Lb Cylinder Exhaust Temp (Quantum) (Eng2)	1359042976
+Exhaust Gas Temp Sensor Circuit Failed Low Cyl # 9 Rb (Quantum) (Eng2)	1359042980
+High Power - Cylinder #10 (B5)(Cense) (Eng2)	1359042992
+Low Power - Cylinder #10 (B5)(Cense) (Eng2)	1359042994
+High #9 Rb Cylinder Exhaust Temp (Quantum) (Eng2)	1359043008
+Exhaust Gas Temp Sensor Circuit Failed Low Cyl # 9 Lb (Quantum) (Eng2)	1359043012
+High Power - Cylinder #12 (B6)(Cense) (Eng2)	1359043024
+Low Power - Cylinder #12 (B6)(Cense)  (Eng2)	1359043026
+High Turbo Compressor Inlet Temp Lb (Quantum) (Eng2)	1359043040
+Lbf Turbo Comp Inlet Temp Sens Failed High (Quantum) (Eng2)	1359043043
+Lbr Turbo Comp Inlet Temp Sens Failed Low (Quantum) (Eng2)	1359043044
+High Turbo Compressor Inlet Temp Lb(Cense) (Eng2)	1359043056
+Turbocharger #1 Turbine Inlet Temp High - Warning Level - Lvl2:Repair Eng Same Day(Quantum) (Eng2)	1359043072
+Turbocharger #1 Wastegate Control Circuit - Shorted Low (Quantum) (Eng2)	1359043108
+Fueling Actuator #2 Circuit - Open Circuit (Quantum) (Eng2)	1359043141
+Fueling Actuator #2 Circuit - Grounded Circuit (Quantum) (Eng2)	1359043142
+Timing Actuator #2 Circuit - Open Circuit (Quantum) (Eng2)	1359043173
+Timing Actuator #2 Circuit - Grounded Circuit (Quantum) (Eng2)	1359043174
+Eng Oil Burn Valve Solenoid Circuit - Shorted Low - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359043204
+Eng Oil Replacement Valve Solenoid Circuit - Shorted Low - Lvl2:Repair Eng Same Day(Quantum) (Eng2)	1359043236
+Exhaust Port Temp Bank Imbalance (Quantum) (Eng2)	1359043273
+Intake Manifold Boost Pres Imbalance (Quantum) (Eng2)	1359043298
+High Power - Cylinder # 9 Left Bank (Quantum) (Eng2)	1359043344
+Low Power - Cylinder # 9 Left Bank (Quantum) (Eng2)	1359043346
+High Power - Cylinder # 9 Right Bank (Quantum) (Eng2)	1359043376
+Low Power - Cylinder # 9 Right Bank (Quantum) (Eng2)	1359043378
+High Fuel Pres Solenoid Valve #1 Circuit - Shorted High (Quantum) (Eng2)	1359043395
+High Fuel Pres Solenoid Valve #1 Circuit - Shorted Low (Quantum) (Eng2)	1359043396
+High Fuel Press Solenoid Valve #1 /Pumping Element #1 (Front) - Mechanically Stuck (Quantum) (Eng2)	1359043399
+High Fuel Pres Solenoid Valve #2 Circuit - Shorted High (Quantum) (Eng2)	1359043427
+High Fuel Pres Solenoid Valve #2 Circuit - Shorted Low (Quantum) (Eng2)	1359043428
+High Fuel Press Solenoid Valve #2 /Pumping Element #2 (Read) - Mechanically Stuck (Quantum) (Eng2)	1359043431
+Injector Metering Rail #2 Pres Sensor Circuit - Shorted High (Quantum) (Eng2)	1359043459
+Injector Metering Rail #2 Pres Sensor Circuit - Shorted Low (Quantum) (Eng2)	1359043460
+Injector Metering Rail #2 Pres Malfunction (Quantum) (Eng2)	1359043463
+Injector Metering Rail #2 Pres High - Warning (Quantum) (Eng2)	1359043472
+Injector Metering Rail #2 Pres Low - Warning (Quantum) (Eng2)	1359043474
+Multiple Unit Synchronization Switch Ckt - Data Incorrect - Lvl2:Repair Eng Same Day(Quantum) (Eng2)	1359043490
+Change Lubricating Oil And Filter - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359043520
+Low Oil Level In The Centinel Makeup Oil Tank - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359043553
+Engine Oil Level #2 Low - Warning - Level 2:Repair Engine Same Day(Quantum) (Eng2)	1359043554
+Low Oil Level In The Centinel Makeup Oil Tank (Quantum) (Eng2)	1359043569
+Fuel Supply Pump Inlet Pres Sensor Circuit - Shorted High (Quantum) (Eng2)	1359043587
+Fuel Supply Pump Inlet Pres Sensor Circuit - Shorted Low (Quantum) (Eng2)	1359043588
+Fuel Supply Pump Inlet Pres Low - Warning Level (Quantum) (Eng2)	1359043602
+Eng Hot Shutdown - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359043647
+Eng Shutdown Commanded By J1939 - Level 3:Repair At Next Pm(Quantum) (Eng2)	1359043679
+Auxiliary Pressure Sensor Input # 2 Circuit - Shorted High (Quantum) (Eng2)	1359043683
+Auxiliary Pressure Sensor Input # 2 Circuit - Shorted Low (Quantum) (Eng2)	1359043684
+Aux. Equipment Sensor Input # 2 (Oem Pressure Sensor) Engine Protection - Warning (Quantum) (Eng2)	1359043691
+Auxiliary Pressure Sensor Input # 2 Engine Protection - Critical (Quantum) (Eng2)	1359043694
+Additional Oem/Vehicle Diagn. Codes Have Been Logged. Check Other Ecms For Dtcs. (Quantum) (Eng2)	1359043743
+Real Time Clock - Power Interrupt (Quantum) (Eng2)	1359043746
+Rbr Turbo Comp Inlet Temp Sens Failed Low (Quantum) (Eng2)	1359043780
+High Power #1 Lb (Quantum) (Eng2)	1359043808
+High Power #2 Lb (Quantum) (Eng2)	1359043840
+High Power #3 Lb (Quantum) (Eng2)	1359043872
+High Power #4 Lb (Quantum) (Eng2)	1359043904
+High Power #5 Lb (Quantum) (Eng2)	1359043936
+High Power #6 Lb (Quantum) (Eng2)	1359043968
+High Power #1 Rb (Quantum) (Eng2)	1359044000
+Low #1/#2/#3/#4/#5/#6 Rb Cylinder Power (Quantum) (Eng2)	1359044001
+High Power #2 Rb (Quantum) (Eng2)	1359044032
+High Power #3 Rb (Quantum) (Eng2)	1359044064
+High Power #4 Rb (Quantum) (Eng2)	1359044096
+High Power #5 Rb (Quantum) (Eng2)	1359044128
+High Power #6 Rb (Quantum) (Eng2)	1359044160
+Turbocharger #1 Speed High - Warning Level (Quantum) (Eng2)	1359044368
+Burn Value Solenoid Fault Active(Cense) (Eng2)	1359045187
+Make-Up Value Solenoid Fault Active(Cense) (Eng2)	1359045188
+Left Bank Intake Restriction Sensor Failed High Active(Cense)	1359054307
+Left Bank Intake Restriction Sensor Failed Low Active(Cense)	1359054308
+Right Bank Intake Restriction Sensor Failed High Active(Cense)	1359054339
+Right Bank Intake Restriction Sensor Failed Low Active(Cense)	1359054340
+High Intake Restriction Right Bank Active(Cense)	1359054352
+Intake Air Leak Right Bank Active(Cense)	1359054354
+Operator Initiated Fault Log(Cense)	1359058027
+Change Fuel Filter Active(Cense)	1359060351
+Trend Data Memory Nearly Full Active(Cense)	1359065423
+Trend Data Memory Full Active(Cense)	1359065424
+Fault Log Snapshot Data Nearly Full Active(Cense)	1359065455
+Fault Log Snapshot Data Full Active(Cense)	1359065456
+Catastrophic Power Loss - Ecm Data Lost(Cense)	1359065471
+Change Coolant Filter Active(Cense)	1359065503
+Change Coolant Active(Cense)	1359065535
+Lubricating Oil Filters Require Changing Active(Cense)	1359065567
+High Intake Restriction Left Bank Active(Cense) 	1359054320
+Oil Filter Bypass Valve Open Active(Cense) (Eng2)(Deprecated/Removed)	1359059303
+Communication Error(Cense) (Eng2)	1359059327
+Left Bank Intake Restriction Sensor Failed High Active(Cense) (Eng2)	1359074307
+Left Bank Intake Restriction Sensor Failed Low Active(Cense) (Eng2)	1359074308
+High Intake Restriction Left Bank Active(Cense) (Eng2)	1359074320
+Intake Air Leak Left Bank Active(Cense)	1359054322
+Intake Air Leak Left Bank Active(Cense) (Eng2)	1359074322
+Right Bank Intake Restriction Sensor Failed High Active(Cense) (Eng2)	1359074339
+Right Bank Intake Restriction Sensor Failed Low Active(Cense) (Eng2)	1359074340
+High Intake Restriction Right Bank Active(Cense) (Eng2)	1359074352
+Intake Air Leak Right Bank Active(Cense) (Eng2)	1359074354
+Operator Initiated Fault Log(Cense) (Eng2)	1359078027
+Change Fuel Filter Active(Cense) (Eng2)	1359080351
+Trend Data Memory Nearly Full Active(Cense) (Eng2)	1359085423
+Trend Data Memory Full Active(Cense) (Eng2)	1359085424
+Fault Log Snapshot Data Nearly Full Active(Cense) (Eng2)	1359085455
+Fault Log Snapshot Data Full Active(Cense) (Eng2)	1359085456
+Catastrophic Power Loss - Ecm Data Lost(Cense) (Eng2)	1359085471
+Change Coolant Filter Active(Cense) (Eng2)	1359085503
+Change Coolant Active(Cense) (Eng2)	1359085535
+Oem Interface Timeout	1359085536
+Oem Interface Normal	1359085537
+Driver Interface Timeout	1359085538
+Driver Interface Normal	1359085539
+Lubricating Oil Filters Require Changing Active(Cense) (Eng2)	1359085567

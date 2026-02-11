@@ -1,0 +1,46 @@
+# hwtype,hwsubtype,ddbsymbol,query,searchStr,separator,resultindex       for index: 0=0, nil=searchStrPos, -1=searchStrPos-1, +1=searchStrPos+1
+#
+Hub,all,ARCH,net arch,:,' ',+1
+Hub,all,PROMPT,ObjSh prompt
+Hub,all,APPVER,Main version,on,' ',-1
+#
+Hub,ptx,VERSIONS,Main fullversion,[A-Za-z]* [0-9.]*,':',0
+Hub,ptx,GPSTYPE,ls pfs/etc/hub, Gps[a-zA-z0-9_]*.cfg,' ',nil
+Hub,ptx,LOOPNUM,Can id
+Hub,ptx,INTFNAME,adap drivers,[0-9]*.[0-9]*,' ',nil
+#
+Hub,mlink,PROCBOARD,Ssn board
+Hub,mlink,INTFNAME,Router proxies,1024,:,0
+Hub,mlink,INTFNAME2,h objects,onbrdintflist,' ',nil
+Hub,mlink,GPSTYPE,h objects,gpscardslist,' ',0
+Hub,mlink,RADIOA,wan0 radioa
+Hub,mlink,RADIOB,wan0 radiob
+Hub,mlink,LOOPNUM,Can id
+Hub,mlink,SSN,Ssn ssn
+Hub,mlink,BRD,Ssn,??.??.??[ ]* ,:,0
+Hub,mlink,BOOTVER,type pfs/boot/Rev,net/Release/Ck,' ',+1
+#
+Hub,revd,PROCBOARD,Ssn board
+Hub,revd,INTFNAME,Name,*[A-Za-z]*.[0-9]* ??.??.??,:,0
+Hub,revd,INTFNAME2,h objects,onbrdintflist,' ',nil
+Hub,revd,GPSTYPE,h objects,gpscardslist,' ',0
+Hub,revd,LOOPNUM,Rp id
+Hub,revd,SSN,Ssn ssn
+Hub,revd,BRD,Ssn,??.??.??[ ]* ,:,0
+Hub,revd,RSPEED,Rp speed
+Hub,revd,BOOTVER,type boot/Rev,net/Release/Ck,' ',+1
+#
+CGC,all,PROCBOARD,Ssn board
+CGC,all,SSN,Ssn ssn
+CGC,all,BRD,Ssn,??.??.??[ ]* ,:,0
+CGC,all,APPVER,Main version,on,' ',-1
+#
+CGC,mlink,LOOPNUM,Can id
+CGC,mlink,BOOTVER,type pfs/boot/Rev,net/Release/Ck,' ',+1
+#
+CGC,revd,LOOPNUM,Loop id
+CGC,revd,BOOTVER,type boot/Rev,net/Release/Ck,' ',+1
+#
+#Interface,APPVER,Main version,on,' ',-1
+#Cense,APPVER,Main version,on,' ',-1
+end

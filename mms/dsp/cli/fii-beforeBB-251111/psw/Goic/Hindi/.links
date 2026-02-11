@@ -1,0 +1,51 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/Calib.cfg
+ln -sf ../English/Delay2.cfg
+ln -sf ../English/Delay3.cfg
+ln -sf ../English/Delay4.cfg
+ln -sf ../English/Delay.cfg
+ln -sf ../English/Down2.cfg
+ln -sf ../English/Down3.cfg
+ln -sf ../English/Down4.cfg
+ln -sf ../English/Down.cfg
+ln -sf ../English/Goic.cfg
+ln -sf ../English/Location.cfg
+ln -sf ../English/Macro.video.cfg
+ln -sf ../English/Material2.cfg
+ln -sf ../English/Message.cfg
+ln -sf ../English/Ok.cfg
+ln -sf ../English/Options.Video.cfg
+ln -sf ../English/PgMenu.cfg
+ln -sf ../English/ProdCount.cfg
+ln -sf ../English/PS_Message.cfg
+ln -sf ../English/Ready2.cfg
+ln -sf ../English/Ready3.cfg
+ln -sf ../English/Ready4.cfg
+ln -sf ../English/Ready.cfg
+ln -sf ../English/ScrnCntrl.cfg
+ln -sf ../English/ScrnCntrl.Flash.cfg
+ln -sf ../English/ScrnCntrl.Hide.cfg
+ln -sf ../English/Standby2.cfg
+ln -sf ../English/Standby3.cfg
+ln -sf ../English/Standby4.cfg
+ln -sf ../English/Standby.cfg
+ln -sf ../English/Status.cfg
+ln -sf ../English/Tasks.cfg
+ln -sf ../English/w0.Icon.cfg
+ln -sf ../English/w0.Kill.cfg
+ln -sf ../English/w0.ScrnCntrl.cfg
+ln -sf ../English/w0.Sl1.cfg
+ln -sf ../English/w0.Sl2.cfg
+ln -sf ../English/wk.cfg
+ln -sf ../English/wk.Clock.cfg
+ln -sf ../English/wk.Kill.cfg
+ln -sf ../English/wk.sch.cfg
+ln -sf ../English/wk.v1.cfg
+ln -sf ../English/wk.v2.cfg
+ln -sf ../English/wk.v3.cfg
+ln -sf ../English/FatgTest.cfg
+ln -sf ../English/README.now
+ln -sf ../English/Macro_newui.cfg

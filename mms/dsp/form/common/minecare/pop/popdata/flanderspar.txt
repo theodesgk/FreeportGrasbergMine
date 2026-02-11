@@ -1,0 +1,307 @@
+1325465601	Service Brake Pressure Switch	1	0	0
+1325465602	Hydraulic Accumulator Pressure Switch	1	0	0
+1325465603	Park Brake Pressure Switch	1	0	0
+1325465604	Brake Lock Pressure Switch (1000 Psi)	1	0	0
+1325465605	Plm3 To Truck Master - 70% Loaded	1	0	0
+1325465606	Plm3 To Truck Master - 100% Loaded	1	0	0
+1325465607	Plm3 To Truck Master - 110% Loaded	1	0	0
+1325465608	Manual Backup Lights - On Indication	1	0	0
+1325465609	Heated Mirror On/Off Status	1	0	0
+1325465610	Prelube Pressure Switch	1	0	0
+1325465611	Hydraulic Differential Pressure Switch - Front	1	0	0
+1325465612	Hydraulic Differential Pressure Switch - Rear	1	0	0
+1325465613	Hydraulic High Temperature Switch	1	0	0
+1325465614	Hydraulic Tank Level Switch	1	0	0
+1325465615	Engine Oil Pressure Switch	1	0	0
+1325465616	Hydraulic Pump Filter High Diff. Press. Switch #1	1	0	0
+1325465617	Hydraulic Pump Filter High Diff. Press. Switch #2	1	0	0
+1325465618	Low Air Pressure Switch	1	0	0
+1325465619	Battery Equalizer Fail Detect	1	0	0
+1325465620	Steering Pressure Switch	1	0	0
+1325465621	Rear Axle Lube Injector Pressure Switch	1	0	0
+1325465622	Lincoln Lube System Charged Pressure Switch	1	0	0
+1325465623	Emergency Stop Pushbutton - Operators Cab	1	0	0
+1325465624	Fault Reset/Override Pushbutton	1	0	0
+1325465625	Retard Speed Control Enabled Switch	1	0	0
+1325465626	Gear Shifter - Park Position Ssw	1	0	0
+1325465627	Gear Shifter - Reverse Direction Ssw	1	0	0
+1325465628	Gear Shifter - Neutral Position Ssw	1	0	0
+1325465629	Gear Shifter - Forward Direction Ssw	1	0	0
+1325465630	Brake Lock Switch	1	0	0
+1325465631	Manual Backup Lights Selector Switch	1	0	0
+1325465632	Rest Switch	1	0	0
+1325465633	Left Turn Signal Indicator	1	0	0
+1325465634	Right Turn Signal Indicator	1	0	0
+1325465635	High Beam Indicator	1	0	0
+1325465636	Dump Body Up Limit Switch	1	0	0
+1325465637	Blower Pressure Switch	1	0	0
+1325465638	Propel Lockout Switch	1	0	0
+1325465639	Starter Lockout Switch	1	0	0
+1325465640	Engine Shutdown Pushbutton - Front Bumper	1	0	0
+1325465641	Drive Cooling System Flow Switch	1	0	0
+1325465642	Drive Cooling System Tank Low Level Alarm Switch	1	0	0
+1325465643	Drive Cooling System Tank Low Level Fault Switch	1	0	0
+1325465644	Maintenance Selector Switch	1	0	0
+1325465645	Lock Limit Fault Reset Push Button	1	0	0
+1325465646	Key Switch Run	1	0	0
+1325465647	Key Switch Start	1	0	0
+1325465648	Engine Caution Light	1	0	0
+1325465649	Engine Warning Light	1	0	0
+1325465650	Control Power Shutdown Relay - Drops Out Control Power Relay	1	0	0
+1325465651	Electric Starter Solenoid #1	1	0	0
+1325465652	Electric Starter Solenoid #2	1	0	0
+1325465653	Engine Ecm Switched Power	1	0	0
+1325465654	Park Brake Light Relay	1	0	0
+1325465655	Retard Light Relay	1	0	0
+1325465656	Service Brake Light Relay	1	0	0
+1325465657	Lube Pump Relay	1	0	0
+1325465658	Pre-Lube Pump	1	0	0
+1325465659	Lock Limit Fault Indicator	1	0	0
+1325465660	Backup Lights Relay	1	0	0
+1325465661	Stop Lights Relay	1	0	0
+1325465662	Annunciator Buzzer	1	0	0
+1325465663	Rest Indicator	1	0	0
+1325465664	As Aux Brake Solenoid	1	0	0
+1325465665	Park Brake Solenoid	1	0	0
+1325465666	Steering Accumulator Bleed Down Solenoid	1	0	0
+1325465667	Drive Cooling System Pump Contactor	1	0	0
+1325465668	Backup Horn	1	0	0
+1325465669	Truck Master To Plm3 - Keyswitch On	1	0	0
+1325465670	Truck Master To Plm3 - Brake Lock Is Applied	1	0	0
+1325465671	Truck Master To Plm3 - Dump Body Down	1	0	0
+1325465672	Left Front Wheel Speed Sensor (Pulses)	65535	0	0
+1325465673	Left Front Wheel Rpm Feedback (Wheel Rpm)	65535	0	28
+1325465674	Right Front Wheel Speed Sensor (Pulses)	65535	0	0
+1325465675	Right Front Wheel Rpm Feedback (Wheel Rpm)	65535	0	28
+1325465676	Battery Voltage	6553.5	0	31
+1325465677	Ten Volt Power Supply Voltage	6553.5	0	31
+1325465678	Ambient Temperature	3623.05555555556	-17.7777777777778	5
+1325465679	Inclinometer Horizontal Angle	6553.5	0	4
+1325465680	Inclinometer Vertical Angle	6553.5	0	4
+1325465681	Engine Speed Signal From Alternator - Engine Rpm	65535	0	28
+1325465682	Fuel Level	6553.5	0	25
+1325465683	Drive Cooling System Supply Temperature	3623.05555555556	-17.7777777777778	5
+1325465684	Throttle Pedal Raw Voltage From Analog Card	6553.5	0	31
+1325465685	Retard Pedal Raw Voltage From Analog Card	6553.5	0	31
+1325465686	Retard Speed Control Pot Analog Input	65535	0	25
+1325465687	Left Wheel Motor Bearing Vibration De (Gs Peak)	655.35	0	41
+1325465688	Left Wheel Motor Bearing Vibration Ode (Gs Peak)	655.35	0	41
+1325465689	Right Wheel Motor Bearing Vibration De (Gs Peak)	655.35	0	41
+1325465690	Right Wheel Motor Bearing Vibration Ode (Gs Peak)	655.35	0	41
+1325465691	Left Wheel Motor Bearing Temperature - De	3623.05555555556	-17.7777777777778	5
+1325465692	Left Wheel Motor Bearing Temperature - Ode	3623.05555555556	-17.7777777777778	5
+1325465693	Left Wheel Motor Winding Temperature - Phase A	3623.05555555556	-17.7777777777778	5
+1325465694	Left Wheel Motor Winding Temperature - Phase B	3623.05555555556	-17.7777777777778	5
+1325465695	Left Wheel Motor Winding Temperature - Phase C	3623.05555555556	-17.7777777777778	5
+1325465696	Right Wheel Motor Bearing Temperature - De	3623.05555555556	-17.7777777777778	5
+1325465697	Right Wheel Motor Bearing Temperature - Ode	3623.05555555556	-17.7777777777778	5
+1325465698	Right Wheel Motor Winding Temperature - Phase A	3623.05555555556	-17.7777777777778	5
+1325465699	Right Wheel Motor Winding Temperature - Phase B	3623.05555555556	-17.7777777777778	5
+1325465700	Right Wheel Motor Winding Temperature - Phase C	3623.05555555556	-17.7777777777778	5
+1325465701	Enclosure Temperature	3623.05555555556	-17.7777777777778	5
+1325465702	Alternator Temperature #1	3623.05555555556	-17.7777777777778	5
+1325465703	Alternator Temperature #2	3623.05555555556	-17.7777777777778	5
+1325465704	Engine Speed Command	65535	0	32
+1325465705	Hydraulic Oil Temp High	1	0	0
+1325465706	Low Hydraulic Oil Level	1	0	0
+1325465707	Park Brake Applied	1	0	0
+1325465708	Starter Failure	1	0	0
+1325465709	No Propel/No Retard	1	0	0
+1325465710	No Propel	1	0	0
+1325465711	Low Steering Pressure	1	0	0
+1325465712	Low Auto Lube Pressure	1	0	0
+1325465713	Service Brake Applied	1	0	0
+1325465714	Manual Backup Lights	1	0	0
+1325465715	Tdc System Warning	1	0	0
+1325465716	Tdc System At Rest	1	0	0
+1325465717	Low Accumulator Pressure	1	0	0
+1325465718	Electrical System Failure	1	0	0
+1325465719	Body Up	1	0	0
+1325465720	5 Minute Engine Shutdown Active	1	0	0
+1325465721	Tdc System Temperature	1	0	0
+1325465722	Tdc System Not Ready	1	0	0
+1325465723	Engine Stop Button Status	1	0	0
+1325465724	Hill Hold Active	1	0	0
+1325465725	Hydraulic Oil Filter	1	0	0
+1325465726	Dynamic Retarding	1	0	0
+1325465727	Retard Speed Control	1	0	0
+1325465728	Misc.	1	0	0
+1325465729	Reduced Tdc System	1	0	0
+1325465730	Wheel Motor Temperature High	1	0	0
+1325465731	Low Brake Pressure	1	0	0
+1325465732	Low Fuel	1	0	0
+1325465733	Engine Warning	1	0	0
+1325465734	Check Engine	1	0	0
+1325465735	Battery Charge System Failure	1	0	0
+1325465736	Retard At Reduced Level	1	0	0
+1325465737	Cooling System	1	0	0
+1325465738	Tdc1 - Status - Ready	1	0	0
+1325465739	Tdc1 - Status - Ready To Operate	1	0	0
+1325465740	Tdc1 - Status - Enabled	1	0	0
+1325465741	Tdc1 - Status - Fault	1	0	0
+1325465742	Tdc1 - Status - Coast Stop	1	0	0
+1325465743	Tdc1 - Status - Quick Stop	1	0	0
+1325465744	Tdc1 - Status - Switch On Inhibited	1	0	0
+1325465745	Tdc1 - Status - Alarms	1	0	0
+1325465746	Tdc1 - Status - Load Test	1	0	0
+1325465747	Tdc1 - Status - Master	1	0	0
+1325465748	Tdc1 - Status - Grid Resistor	1	0	0
+1325465749	Tdc1 - Status - Rsc	1	0	0
+1325465750	Tdc1 - Status - Limp Mode	1	0	0
+1325465751	Tdc1 - Status - Traction Control Disable	1	0	0
+1325465752	Tdc1 - Status - Control Mode	1	0	0
+1325465753	Tdc2 - Status - Ready	1	0	0
+1325465754	Tdc2 - Status - Ready To Operate	1	0	0
+1325465755	Tdc2 - Status - Enabled	1	0	0
+1325465756	Tdc2 - Status - Fault	1	0	0
+1325465757	Tdc2 - Status - Coast Stop	1	0	0
+1325465758	Tdc2 - Status - Quick Stop	1	0	0
+1325465759	Tdc2 - Status - Switch On Inhibited	1	0	0
+1325465760	Tdc2 - Status - Alarms	1	0	0
+1325465761	Tdc2 - Status - Load Test	1	0	0
+1325465762	Tdc2 - Status - Master	1	0	0
+1325465763	Tdc2 - Status - Grid Resistor	1	0	0
+1325465764	Tdc2 - Status - Rsc	1	0	0
+1325465765	Tdc2 - Status - Limp Mode	1	0	0
+1325465766	Tdc2 - Status - Traction Control Disable	1	0	0
+1325465767	Tdc2 - Status - Control Mode	1	0	0
+1325465768	Grid Blower Status - Ready 1	1	0	0
+1325465769	Grid Blower Status - Ready 2	1	0	0
+1325465770	Grid Blower Status- Enabled	1	0	0
+1325465771	Grid Blower Status - Fault Present	1	0	0
+1325465772	Grid Blower Status - Alarm Present	1	0	0
+1325465773	Grid Blower Status - Coast Stop	1	0	0
+1325465774	Grid Blower Status - Quick Stop	1	0	0
+1325465775	Grid Blower Status - Switching On Inhibited	1	0	0
+1325465776	Grid Blower Status - Speed Error	1	0	0
+1325465777	Grid Blower Status - Authenticated	1	0	0
+1325465778	Grid Blower Status - At Speed Setpoint	1	0	0
+1325465779	Grid Blower Status - Control Mode (Foc/Vhz)	1	0	0
+1325465780	Grid Blower Status - Foc Mode	1	0	0
+1325465781	Afse Status - Ready	1	0	0
+1325465782	Afse Status - Ready2 - Ready To Operate	1	0	0
+1325465783	Afse Status - Enabled - Pwm Is Enabled	1	0	0
+1325465784	Afse Status - Fault Present	1	0	0
+1325465785	Afse Status - Alarm Present	1	0	0
+1325465786	Afse Status - Authenticated	1	0	0
+1325465787	Afse Status - Opmode	1	0	0
+1325465788	Afse Status - Opmode	1	0	0
+1325465789	Tdc1 - Off1	1	0	0
+1325465790	Tdc1 - Off2	1	0	0
+1325465791	Tdc1 - Off3	1	0	0
+1325465792	Tdc1 - Enable	1	0	0
+1325465793	Tdc1 - Clearfault - Clear Faults	1	0	0
+1325465794	Tdc1 - Limpmode - Enable Limp Mode	1	0	0
+1325465795	Tdc1 - Load Test - Load Box Test Mode Request	1	0	0
+1325465796	Tdc1 - Traccntrl_Dis - Disable Traction Control	1	0	0
+1325465797	Tdc1 - Rsc - Retard Speed Control Mode	1	0	0
+1325465798	Tdc1 - Cntrlmode - Control Mode	1	0	0
+1325465799	Tdc1 Foc	1	0	0
+1325465800	Tdc1 - System On/Off	1	0	0
+1325465801	Tdc1 - Temperature Compensation	1	0	0
+1325465802	Tdc2 - Off1	1	0	0
+1325465803	Tdc2 - Off2	1	0	0
+1325465804	Tdc2 - Off3	1	0	0
+1325465805	Tdc2 - Enable	1	0	0
+1325465806	Tdc2 - Clear Faults	1	0	0
+1325465807	Tdc2 - Limpmode	1	0	0
+1325465808	Tdc2 - Load Test	1	0	0
+1325465809	Tdc2 - Disable Traction Control	1	0	0
+1325465810	Tdc2 - Retard Speed Control Mode	1	0	0
+1325465811	Tdc2 - Control Mode	1	0	0
+1325465812	Tdc2 Foc	1	0	0
+1325465813	Tdc2 - System On/Off	1	0	0
+1325465814	Tdc2 - Temperature Compensation	1	0	0
+1325465815	Max Speed Limit To Tdc	105468.35904	0	11
+1325465816	Max Speed Limit To Tdc1 (Rpm)	65535	0	28
+1325465817	Max Speed Limit To Tdc2 (Rpm)	65535	0	28
+1325465818	Torque Command To Tdc1 And Tdc2	6553.5	0	25
+1325465819	Tdc1 Motor Speed (Rpm)	65535	0	28
+1325465820	Tdc1 Motor Amps	65535	0	2
+1325465821	Tdc1 Dc Bus Voltage	65535	0	31
+1325465822	Tdc1 Igbt Temperature	36390.5555555556	-17.7777777777778	5
+1325465823	Tdc1 Ground Fault Current	65535	0	16
+1325465824	Tdc1 Motor Torque	65535	0	25
+1325465825	Tdc1 Dc Bus Amps	65535	0	2
+1325465826	Tdc1 Grid Resistor Kw When Load Testing	65535	0	12
+1325465827	Tdc2 Motor Speed (Rpm)	65535	0	28
+1325465828	Tdc2 Motor Amps	65535	0	2
+1325465829	Tdc2 Dc Bus Voltage	65535	0	31
+1325465830	Tdc2 Igbt Temperature	36390.5555555556	-17.7777777777778	5
+1325465831	Tdc2 Ground Fault Current	65535	0	16
+1325465832	Tdc2 Motor Torque	65535	0	25
+1325465833	Tdc2 Dc Bus Amps	65535	0	2
+1325465834	Tdc2 Grid Resistor Kw When Load Testing	65535	0	12
+1325465835	Traction Drive Blower Heat Sink Temperature	36390.5555555556	-17.7777777777778	5
+1325465836	Traction Drive Blower Current	65535	0	2
+1325465837	Traction Drive Blower Bus Voltage	65535	0	31
+1325465838	Traction Drive Blower Frequency	65535	0	32
+1325465839	Traction Drive Afse Heat Sink Temperature	36390.5555555556	-17.7777777777778	5
+1325465840	Traction Drive Afse Ac Voltage	65535	0	31
+1325465841	Traction Drive Afse Dc Voltage	65535	0	31
+1325465842	Traction Drive Afse Field Current	65535	0	2
+1325465843	Traction Drive Afse Field Current (Averaged)	65535	0	2
+1325465844	Motor #1 Speed (Rpm) (Averaged)	65535	0	28
+1325465845	Motor #2 Speed (Rpm) (Averaged)	65535	0	28
+1325465846	Motor #1 Current (Averaged)	65535	0	2
+1325465847	Motor #2 Current (Averaged)	65535	0	2
+1325465848	Net Power Drawn By Tdc	65535	0	12
+1325465849	Net Power Drawn By Tdc (Averaged)	65535	0	12
+1325465850	Power At Alternator	65535	0	12
+1325465851	Net Power At Alternator (Averaged)	65535	0	12
+1325465852	Commanded Engine Speed	65535	0	28
+1325465853	Engine Coolant Temperature	36390.5555555556	-17.7777777777778	5
+1325465854	Engine Oil Pressure	65535	0	42
+1325465855	Engine Speed	65535	0	28
+1325465856	Engine Speed (Averaged)	65535	0	28
+1325465857	No Propel Engine Rpm Only	1	0	0
+1325465858	Engine Reduced Rpm	1	0	0
+1325465859	Forward Normal Speeds	1	0	0
+1325465860	Forward Reduced Speed	1	0	0
+1325465861	Forward Reduced Engine And Speed	1	0	0
+1325465862	Forward No Propel Allowed	1	0	0
+1325465863	Reverse Normal Speeds	1	0	0
+1325465864	Reverse Reduced Speed	1	0	0
+1325465865	Reverse Reduced Engine And Speed	1	0	0
+1325465866	Reverse No Propel Allowed	1	0	0
+1325465867	Apply Zero Speed	1	0	0
+1325465868	Forward With Bed Up	1	0	0
+1325465869	Forward With Bed Up - Override	1	0	0
+1325465870	Truck Ready	1	0	0
+1325465871	Limp Mode Selected (Reduced Speed Limit)	1	0	0
+1325465872	Ok To Propel (Fwd Or Rev)	1	0	0
+1325465873	Enable Propel (Enables Throttle Pedal To Command Torque)	1	0	0
+1325465874	Ok For Retard	1	0	0
+1325465875	Gear Shifter In Park	1	0	0
+1325465876	Gear Shifter In Reverse	1	0	0
+1325465877	Gear Shifter In Neutral	1	0	0
+1325465878	Gear Shifter In Forward	1	0	0
+1325465879	Gear Shifter Direction Mismatch	1	0	0
+1325465880	Plc Software Version - Major Revision Number	65535	0	0
+1325465881	Plc Software Version - Minor Revision Number	65535	0	0
+1325465882	Left Front Wheel Speed	10546.835904	0	11
+1325465883	Right Front Wheel Speed	10546.835904	0	11
+1325465884	Left Rear Wheel Speed	10546.835904	0	11
+1325465885	Right Rear Wheel Speed	10546.835904	0	11
+1325465886	Truck Speed	10546.835904	0	11
+1325465887	Truck Speed	6553.5	0	11
+1325465888	Throttle Pedal Position (0-100%)	6553.5	0	25
+1325465889	Retard Pedal Position (0-100%)	6553.5	0	25
+1325465890	Suspension 1 Pressure	65535	0	9
+1325465891	Suspension 2 Pressure	65535	0	9
+1325465892	Suspension 3 Pressure	65535	0	9
+1325465893	Suspension 4 Pressure	65535	0	9
+1325465894	Payload	65535	0	19
+1325465895	Total Shift Tons	65535	0	19
+1325465896	Shift Load Counter	65535	0	0
+1325465897	Number Of Active Alerts	65535	0	0
+1325465898	Most Recent Alert (Fault Code)	65535	0	0
+1325465899	Second Most Recent Alert (Fault Code)	65535	0	0
+1325465900	Third Most Recent Alert (Fault Code)	65535	0	0
+1325465901	Fourth Most Recent Alert (Fault Code)	65535	0	0
+1325465902	Fifth Most Recent Alert (Fault Code)	65535	0	0
+1325465903	Most Recent Alert Action Code	65535	0	0
+1325465904	Second Most Recent Alert Action Code	65535	0	0
+1325465905	Third Most Recent Alert Action Code	65535	0	0
+1325465906	Fourth Most Recent Alert Action Code	65535	0	0
+1325465907	Fifth Most Recent Alert Action Code	65535	0	0

@@ -1,0 +1,10 @@
+OEM Interface Timeout	1174536160
+OEM Interface Normal	1174536161
+Driver Interface Timeout	1174536162
+Driver Interface Normal	1174536163
+In Alarm	1174470656
+Weight Error	1174470657
+Weight Distribution Alarm	1174470658
+Stability Angle	1174470659
+Stability Angle Right	1174470660
+System Fault	1174470661

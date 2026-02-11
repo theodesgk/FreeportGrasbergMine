@@ -1,0 +1,6 @@
+536936449	Drilled Meters	0	0	17
+536936450	Drilled Meters Clearable	0	0	17
+536936451	Amount of Holes	0	0	0
+536936452	Amount of Holes Clearable	0	0	0
+536936453	Drilling Time	0	0	29
+536936454	Drilling Time Clearable	0	0	29

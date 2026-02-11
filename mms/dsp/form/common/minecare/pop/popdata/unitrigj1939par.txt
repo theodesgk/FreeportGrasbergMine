@@ -1,0 +1,240 @@
+1191247873	Rtc Seconds	59	0	29
+1191247874	Rtc Minutes	59	0	0
+1191247875	Rtc Hours	23	0	7
+1191247876	Rtc Day	31	1	0
+1191247877	Rtc Month	12	1	0
+1191247878	Rtc Year	99	0	0
+1191247879	Rtc Day Of Week	6	0	0
+1191247880	Year Of Last Configuration Change	255	0	0
+1191247881	Month Of Last Configuration Change	255	0	0
+1191247882	Day Of Last Configuration Change	255	0	0
+1191247883	Hour Of Last Configuration Change	255	0	0
+1191247884	Minute Of Last Configuration Change	255	0	0
+1191247885	Second Of Last Configuration Change	255	0	0
+1191247886	Truck Serial Number	512	0	0
+1191247887	Rated Payload Of Truck	512	0	0
+1191247888	Front Suspension Scaling	512	0	31
+1191247889	Rear Suspension Scaling 	512	0	0
+1191247890	Tractor/Trailer Weight Scaling 	512	0	0
+1191247891	Weight Unit	2	1	0
+1191247892	Distance Unit	2	1	0
+1191247893	Pulses In 1/10 	512	0	0
+1191247894	Default Display Mode	255	0	0
+1191247895	Max Speed On Fly For Weight	255	0	0
+1191247896	Max Weight Delta During Fly Weight Update	512	0	0
+1191247897	Max Weight Delta For Stable Reading At Shove	512	0	0
+1191247898	Empty Weight Reading	512	0	0
+1191247899	Year Of Last Empty Weight Update	255	0	0
+1191247900	Month Of Last Empty Weight Update	255	0	0
+1191247901	Day Of Last Empty Weight Update	255	0	0
+1191247902	Hour Of Last Empty Weight Update	255	0	0
+1191247903	Minute Of Last Empty Weight Update	255	0	0
+1191247904	Second Of Last Empty Weight Update	255	0	0
+1191247905	Speed For Recording Weight Pulling Away From Shovel	255	0	0
+1191247906	Adder For Weight Recorded Pulling Away From Shovel	512	0	0
+1191247907	Allowed Speed For Brakes Without Retarder	255	0	0
+1191247908	Setpoint For Percentage That Trips Overload Relay2 	512	0	0
+1191247909	Eprom Version	512	0	0
+1191247910	Record Type Identification	512	0	0
+1191247911	Last Download Sec	59	0	0
+1191247912	Last Download Min	59	0	0
+1191247913	Last Download Hour	23	0	0
+1191247914	Last Download Day	31	1	0
+1191247915	Last Download Month	12	1	0
+1191247916	Last Download Year	99	0	0
+1191247917	Last Download Day Of Week	6	0	0
+1191247918	This Download Sec	59	0	0
+1191247919	This Download Min	59	0	0
+1191247920	This Download Hour	23	0	0
+1191247921	This Download Day	31	1	0
+1191247922	This Download Month	12	1	0
+1191247923	This Download Year	99	0	0
+1191247924	This Download Day Of Week	6	0	0
+1191247925	Checksum For Download	512	0	0
+1191247926	Actual Haul Count	512	0	0
+1191247927	Service Brake	4294967295	0	0
+1191247928	Service Brake Above Speed W/O Retarder	4294967295	0	0
+1191247929	Fl First High/Low Reading Sec	59	0	0
+1191247930	Fl First High/Low Reading Min	59	0	0
+1191247931	Fl First High/Low Reading Hour	23	0	0
+1191247932	Fl First High/Low Reading Day	31	1	0
+1191247933	Fl First High/Low Reading Month	12	1	0
+1191247934	Fl First High/Low Reading Year	99	0	0
+1191247935	Fl First High/Low Reading Day Of Week	6	0	0
+1191247936	Front Left 1/10 Seconds At Low Reading	4294967295	0	0
+1191247937	Front Left 1/10 Seconds At High Reading	4294967295	0	0
+1191247938	Fl Last High/Low Reading Sec	59	0	0
+1191247939	Fl Last High/Low Reading Min	59	0	0
+1191247940	Fl Last High/Low Reading Hour	23	0	0
+1191247941	Fl Last High/Low Reading Day	31	1	0
+1191247942	Fl Last High/Low Reading Month	12	1	0
+1191247943	Fl Last High/Low Reading Year	99	0	0
+1191247944	Fl Last High/Low Reading Day Of Week	6	0	0
+1191247945	Fr First High/Low Reading Sec	59	0	0
+1191247946	Fr First High/Low Reading Min	59	0	0
+1191247947	Fr First High/Low Reading Hour	23	0	0
+1191247948	Fr First High/Low Reading Day	31	1	0
+1191247949	Fr First High/Low Reading Month	12	1	0
+1191247950	Fr First High/Low Reading Year	99	0	0
+1191247951	Fr First High/Low Reading Day Of Week	6	0	0
+1191247952	Front Right 1/10 Seconds At Low Reading	4294967295	0	0
+1191247953	Front Right 1/10 Seconds At High Reading	4294967295	0	0
+1191247954	Fr Last High/Low Reading Sec	59	0	0
+1191247955	Fr Last High/Low Reading Min	59	0	0
+1191247956	Fr Last High/Low Reading Hour	23	0	0
+1191247957	Fr Last High/Low Reading Day	31	1	0
+1191247958	Fr Last High/Low Reading Month	12	1	0
+1191247959	Fr Last High/Low Reading Year	99	0	0
+1191247960	Fr Last High/Low Reading Day Of Week	6	0	0
+1191247961	Rl First High/Low Reading Sec	59	0	0
+1191247962	Rl First High/Low Reading Min	59	0	0
+1191247963	Rl First High/Low Reading Hour	23	0	0
+1191247964	Rl First High/Low Reading Day	31	1	0
+1191247965	Rl First High/Low Reading Month	12	1	0
+1191247966	Rl First High/Low Reading Year	99	0	0
+1191247967	Rl First High/Low Reading Day Of Week	6	0	0
+1191247968	Rear Left 1/10 Seconds At Low Reading	4294967295	0	0
+1191247969	Rear Left 1/10 Seconds At High Reading	4294967295	0	0
+1191247970	Rl Last High/Low Reading Sec	59	0	0
+1191247971	Rl Last High/Low Reading Min	59	0	0
+1191247972	Rl Last High/Low Reading Hour	23	0	0
+1191247973	Rl Last High/Low Reading Day	31	1	0
+1191247974	Rl Last High/Low Reading Month	12	1	0
+1191247975	Rl Last High/Low Reading Year	99	0	0
+1191247976	Rl Last High/Low Reading Day Of Week	6	0	0
+1191247977	Rr First High/Low Reading Sec	59	0	0
+1191247978	Rr First High/Low Reading Min	59	0	0
+1191247979	Rr First High/Low Reading Hour	23	0	0
+1191247980	Rr First High/Low Reading Day	31	1	0
+1191247981	Rr First High/Low Reading Month	12	1	0
+1191247982	Rr First High/Low Reading Year	99	0	0
+1191247983	Rr First High/Low Reading Day Of Week	6	0	0
+1191247984	Rear Right 1/10 Seconds At Low Reading	4294967295	0	0
+1191247985	Rear Right 1/10 Seconds At High Reading	4294967295	0	0
+1191247986	Rr Last High/Low Reading Sec	59	0	0
+1191247987	Rr Last High/Low Reading Min	59	0	0
+1191247988	Rr Last High/Low Reading Hour	23	0	0
+1191247989	Rr Last High/Low Reading Day	31	1	0
+1191247990	Rr Last High/Low Reading Month	12	1	0
+1191247991	Rr Last High/Low Reading Year	99	0	0
+1191247992	Rr Last High/Low Reading Day Of Week	6	0	0
+1191247993	Count Readings	512	0	0
+1191247994	Status For Current Group Of Readings	512	0	0
+1191247995	10 Readings During This Second #0	512	0	0
+1191247996	10 Readings During This Second #1	512	0	0
+1191247997	10 Readings During This Second #2	512	0	0
+1191247998	10 Readings During This Second #3	512	0	0
+1191247999	10 Readings During This Second #4	512	0	0
+1191248000	10 Readings During This Second #5	512	0	0
+1191248001	10 Readings During This Second #6	512	0	0
+1191248002	10 Readings During This Second #7	512	0	0
+1191248003	10 Readings During This Second #8	512	0	0
+1191248004	10 Readings During This Second #9	512	0	0
+1191248005	Lowest Reading From Last Set Of 10 Readings - L10	512	0	0
+1191248006	Highest Reading From Last Set Of 10 Readings - H10	512	0	0
+1191248007	Average Of L10 And H10	512	0	0
+1191248008	Difference Between L10 And H10	512	0	0
+1191248009	Status From Last Set Of 10 Readings	512	0	0
+1191248010	Lowest Reading From Last Set Of 20 Readings - L20	512	0	0
+1191248011	Highest Reading From Last Set Of 20 Readings - H20	512	0	0
+1191248012	Average Of L20 And H20	512	0	0
+1191248013	Difference Between L20 And H20	512	0	0
+1191248014	Status From Last Set Of 20 Readings	512	0	0
+1191248015	Number Of Flyweight Readings	512	0	0
+1191248016	16 Most Recent Flyweight Readings #0	512	0	0
+1191248017	16 Most Recent Flyweight Readings #1	512	0	0
+1191248018	16 Most Recent Flyweight Readings #2	512	0	0
+1191248019	16 Most Recent Flyweight Readings #3	512	0	0
+1191248020	16 Most Recent Flyweight Readings #4	512	0	0
+1191248021	16 Most Recent Flyweight Readings #5	512	0	0
+1191248022	16 Most Recent Flyweight Readings #6	512	0	0
+1191248023	16 Most Recent Flyweight Readings #7	512	0	0
+1191248024	16 Most Recent Flyweight Readings #8	512	0	0
+1191248025	16 Most Recent Flyweight Readings #9	512	0	0
+1191248026	16 Most Recent Flyweight Readings #10	512	0	0
+1191248027	16 Most Recent Flyweight Readings #11	512	0	0
+1191248028	16 Most Recent Flyweight Readings #12	512	0	0
+1191248029	16 Most Recent Flyweight Readings #13	512	0	0
+1191248030	16 Most Recent Flyweight Readings #14	512	0	0
+1191248031	16 Most Recent Flyweight Readings #15	512	0	0
+1191248032	Flyweight Average	512	0	0
+1191248033	Flyweight Low Reading	512	0	0
+1191248034	Flyweight High Reading	512	0	0
+1191248035	Difference Between Flyweight High Reading And Flyweight Low Reading	512	0	0
+1191248036	Pressure Transducer Rear Right Reading	4294967295	0	0
+1191248037	Pressure Transducer Rear Left Reading	4294967295	0	0
+1191248038	Pressure Transducer Front Right Reading	4294967295	0	0
+1191248039	Pressure Transducer Front Left Reading	4294967295	0	0
+1191248040	Truck Speed	512	0	0
+1191248041	Load Brake Reading	255	0	0
+1191248042	Dump Body Up Reading	255	0	0
+1191248043	Accelerator Reading	255	0	0
+1191248044	Retarder Reading	255	0	0
+1191248045	Service/Hand Brake Reading	255	0	0
+1191248046	Variables For Display Switch Input Voltages	4294967295	0	0
+1191248047	Pc Alarm Output	255	0	0
+1191248048	Amber Load Light Output	255	0	0
+1191248049	Red Load Light Output	255	0	0
+1191248050	Year Loading Started Wshrshvl	255	0	0
+1191248051	Month Loading Started Wshrshvl	255	0	0
+1191248052	Day Loading Started Wshrshvl	255	0	0
+1191248053	Hour Loading Started Wshrshvl	255	0	0
+1191248054	Minute Loading Started Wshrshvl	255	0	0
+1191248055	Second Loading Started Wshrshvl	255	0	0
+1191248056	Shovel Number Wshrshvl	512	0	0
+1191248057	Dump Number Wshrshvl	512	0	0
+1191248058	Weight Recorded At The Shovel Wshrshvl	512	0	0
+1191248059	Weight Recorded Pulling Away From The Shovel Wshrshvl	512	0	0
+1191248060	Weight Recorded On The Fly Wshrshvl	512	0	0
+1191248061	Loading Time In Seconds Wshrshvl	512	0	0
+1191248062	Hauling Time Stopped Wshrshvl	512	0	0
+1191248063	Hauling Time Moving Wshrshvl	512	0	0
+1191248064	Haul Distance Wshrshvl	512	0	0
+1191248065	Dump Time Wshrshvl	512	0	0
+1191248066	Return Time Stopped Wshrshvl	512	0	0
+1191248067	Return Time Moving Wshrshvl	512	0	0
+1191248068	Return Distance Wshrshvl	512	0	0
+1191248069	Year Loading Started Wshr[0]	255	0	0
+1191248070	Month Loading Started Wshr[0]	255	0	0
+1191248071	Day Loading Started Wshr[0]	255	0	0
+1191248072	Hour Loading Started Wshr[0]	255	0	0
+1191248073	Minute Loading Started Wshr[0]	255	0	0
+1191248074	Second Loading Started Wshr[0]	255	0	0
+1191248075	Shovel Number Wshr[0]	512	0	0
+1191248076	Dump Number Wshr[0]	512	0	0
+1191248077	Weight Recorded At The Shovel Wshr[0]	512	0	0
+1191248078	Weight Recorded Pulling Away From The Shovel Wshr[0]	512	0	0
+1191248079	Weight Recorded On The Fly Wshr[0]	512	0	0
+1191248080	Loading Time In Seconds Wshr[0]	512	0	0
+1191248081	Hauling Time Stopped Wshr[0]	512	0	0
+1191248082	Hauling Time Moving Wshr[0]	512	0	0
+1191248083	Haul Distance Wshr[0]	512	0	0
+1191248084	Dump Time Wshr[0]	512	0	0
+1191248085	Return Time Stopped Wshr[0]	512	0	0
+1191248086	Return Time Moving Wshr[0]	512	0	0
+1191248087	Return Distance Wshr[0]	512	0	0
+1191248088	Year Loading Started Wshrtmp	255	0	0
+1191248089	Month Loading Started Wshrtmp	255	0	0
+1191248090	Day Loading Started Wshrtmp	255	0	0
+1191248091	Hour Loading Started Wshrtmp	255	0	0
+1191248092	Minute Loading Started Wshrtmp	255	0	0
+1191248093	Second Loading Started Wshrtmp	255	0	0
+1191248094	Shovel Number Wshrtmp	512	0	0
+1191248095	Dump Number Wshrtmp	512	0	0
+1191248096	Weight Recorded At The Shovel Wshrtmp	512	0	0
+1191248097	Weight Recorded Pulling Away From The Shovel Wshrtmp	512	0	0
+1191248098	Weight Recorded On The Fly Wshrtmp	512	0	0
+1191248099	Loading Time In Seconds Wshrtmp	512	0	0
+1191248100	Hauling Time Stopped Wshrtmp	512	0	0
+1191248101	Hauling Time Moving Wshrtmp	512	0	0
+1191248102	Haul Distance Wshrtmp	512	0	0
+1191248103	Dump Time Wshrtmp	512	0	0
+1191248104	Return Time Stopped Wshrtmp	512	0	0
+1191248105	Return Time Moving Wshrtmp	512	0	0
+1191248106	Return Distance Wshrtmp	512	0	0
+1191248107	Truck Serial Id (Removed/Deprecated)	512	0	0
+1191248108	Cbweight (Removed/Deprecated)	255	0	0
+1191248109	Pressure Transducer Rear Right Reading Alarm (Removed/Deprecated)	4294967295	0	0
+1191248110	Pressure Transducer Rear Left Reading Alarm (Removed/Deprecated)	4294967295	0	0
+1191248111	Pressure Transducer Front Right Reading Alarm (Removed/Deprecated)	4294967295	0	0
+1191248112	Pressure Transducer Front Left Reading Alarm (Removed/Deprecated)	4294967295	0	0

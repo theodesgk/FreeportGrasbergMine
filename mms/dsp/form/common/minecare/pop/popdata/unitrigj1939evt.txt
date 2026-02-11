@@ -1,0 +1,18 @@
+Oem Interface Timeout 	1191313376
+Oem Interface Normal 	1191313377
+Driver Interface Timeout 	1191313378
+Driver Interface Normal 	1191313379
+New Way Of Load Light	1191247872
+Old Way Of Load Light	1191247873
+Truck Empty Relay On	1191247874
+Truck Empty Relay Off	1191247875
+Overload Relay On	1191247876
+Overload Relay Off	1191247877
+Carry Back Weight Alarm	1191247878
+Pressure Transducer Rear Right Reading Alarm	1191247879
+Pressure Transducer Rear Left Reading Alarm	1191247880
+Pressure Transducer Front Right Reading Alarm	1191247881
+Pressure Transducer Front Left Reading Alarm	1191247882
+Dipper	1191257872
+Load	1191257873
+Dump	1191257874

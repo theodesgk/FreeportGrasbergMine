@@ -1,0 +1,100 @@
+OEM Interface Timeout	1308753888
+OEM Interface Normal	1308753889
+Driver Interface Timeout	1308753890
+Driver Interface Normal	1308753891
+Calibration Mode - Tire #1	1308688384
+Sub-calibration Mode - Tire #1	1308688385
+Working Mode - Tire #1	1308688386
+Working Mode / Coef. Transmission- Tire #1	1308688387
+Deep Sleep Mode - Tire #1	1308688388
+Deep Sleep With  Wake-up On Radio - Tire #1	1308688389
+Nitrogen On - Tire #1	1308688390
+Nitrogen Off - Tire #1	1308688391
+Motion On - Tire #1	1308688392
+Motion Off - Tire #1	1308688393
+Magnetic Switch On - Tire #1	1308688394
+Magnetic Switch Off - Tire #1	1308688395
+Temperature Out Of Range On - Tire #1	1308688396
+Temperature Out Of Range Off - Tire #1	1308688397
+Pressure Out Of Range On - Tire #1	1308688398
+Pressure Out Of Range Off - Tire #1	1308688399
+Calibration Mode - Tire #2	1308688400
+Sub-calibration Mode - Tire #2	1308688401
+Working Mode - Tire #2	1308688402
+Working Mode / Coef. Transmission - Tire #2	1308688403
+Deep Sleep Mode - Tire #2	1308688404
+Deep Sleep With  Wake-up On Radio - Tire #2	1308688405
+Nitrogen On - Tire #2	1308688406
+Nitrogen Off - Tire #2	1308688407
+Motion On - Tire #2	1308688408
+Motion Off - Tire #2	1308688409
+Magnetic Switch On - Tire #2	1308688410
+Magnetic Switch Off - Tire #2	1308688411
+Temperature Out Of Range On - Tire #2	1308688412
+Temperature Out Of Range Off - Tire #2	1308688413
+Pressure Out Of Range On - Tire #2	1308688414
+Pressure Out Of Range Off - Tire #2	1308688415
+Calibration Mode - Tire #3	1308688416
+Sub-calibration Mode - Tire #3	1308688417
+Working Mode - Tire #3	1308688418
+Working Mode / Coef. Transmission - Tire #3	1308688419
+Deep Sleep Mode - Tire #3	1308688420
+Deep Sleep With  Wake-up On Radio - Tire #3	1308688421
+Nitrogen On - Tire #3	1308688422
+Nitrogen Off - Tire #3	1308688423
+Motion On - Tire #3	1308688424
+Motion Off - Tire #3	1308688425
+Magnetic Switch On - Tire #3	1308688426
+Magnetic Switch Off - Tire #3	1308688427
+Temperature Out Of Range On - Tire #3	1308688428
+Temperature Out Of Range Off - Tire #3	1308688429
+Pressure Out Of Range On - Tire #3	1308688430
+Pressure Out Of Range Off - Tire #3	1308688431
+Calibration Mode - Tire #4	1308688432
+Sub-calibration Mode - Tire #4	1308688433
+Working Mode - Tire #4	1308688434
+Working Mode / Coef. Transmission - Tire #4	1308688435
+Deep Sleep Mode - Tire #4	1308688436
+Deep Sleep With  Wake-up On Radio - Tire #4	1308688437
+Nitrogen On - Tire #4	1308688438
+Nitrogen Off - Tire #4	1308688439
+Motion On - Tire #4	1308688440
+Motion Off - Tire #4	1308688441
+Magnetic Switch On - Tire #4	1308688442
+Magnetic Switch Off - Tire #4	1308688443
+Temperature Out Of Range On - Tire #4	1308688444
+Temperature Out Of Range Off - Tire #4	1308688445
+Pressure Out Of Range On - Tire #4	1308688446
+Pressure Out Of Range Off - Tire #4	1308688447
+Calibration Mode - Tire #5	1308688448
+Sub-calibration Mode - Tire #5	1308688449
+Working Mode - Tire #5	1308688450
+Working Mode / Coef. Transmission - Tire #5	1308688451
+Deep Sleep Mode - Tire #5	1308688452
+Deep Sleep With  Wake-up On Radio - Tire #5	1308688453
+Nitrogen On - Tire #5	1308688454
+Nitrogen Off - Tire #5	1308688455
+Motion On - Tire #5	1308688456
+Motion Off - Tire #5	1308688457
+Magnetic Switch On - Tire #5	1308688458
+Magnetic Switch Off - Tire #5	1308688459
+Temperature Out Of Range On - Tire #5	1308688460
+Temperature Out Of Range Off - Tire #5	1308688461
+Pressure Out Of Range On - Tire #5	1308688462
+Pressure Out Of Range Off - Tire #5	1308688463
+Calibration Mode - Tire #6	1308688464
+Sub-calibration Mode - Tire #6	1308688465
+Working Mode - Tire #6	1308688466
+Working Mode / Coef. Transmission - Tire #6	1308688467
+Deep Sleep Mode - Tire #6	1308688468
+Deep Sleep With  Wake-up On Radio - Tire #6	1308688469
+Nitrogen On - Tire #6	1308688470
+Nitrogen Off - Tire #6	1308688471
+Motion On - Tire #6	1308688472
+Motion Off - Tire #6	1308688473
+Magnetic Switch On - Tire #6	1308688474
+Magnetic Switch Off - Tire #6	1308688475
+Temperature Out Of Range On - Tire #6	1308688476
+Temperature Out Of Range Off - Tire #6	1308688477
+Pressure Out Of Range On - Tire #6	1308688478
+Pressure Out Of Range Off - Tire #6	1308688479

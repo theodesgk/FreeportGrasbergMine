@@ -1,0 +1,83 @@
+#!/bin/sh
+#
+# DISPATCH Utility System Module
+# Copyright (c) Modular Mining Systems, 1982-1995
+#               All Rights Reserved
+#  $RCSfile: act_goodyear,v $
+# $Revision: 1.1 $
+#   $Author: olson $
+#     $Date: 2002/05/24 02:07:12 $
+#    $State: Exp $
+#
+#   Purpose: process Goodyear tire data coming in on the radio. 
+#   Purpose: To fire up at boot time under SunOS 4.x, add following
+#            3 lines to /etc/rc.local:
+#
+#   if [ -f /dsp/form/engl/goodyear/act_goodyear ]; then
+#        su mms -c /dsp/form/engl/goodyear/act_goodyear &  echo -n ' act_goodyear '
+#   fi
+#
+#            To fire up at boot time under SunOS 5.* (Solaris), create the
+#            the file /etc/rc3.d/S95GOODYEAR, permissions -rwxr--r--   1 root,
+#            with the following 4 lines in it:
+#
+#
+#   #!/bin/sh
+#   if [ -f /dsp/form/engl/goodyear/act_goodyear ]; then
+#       su mms -c /dsp/form/engl/goodyear/act_goodyear &  echo ' act_goodyear '
+#   fi
+#
+
+#       Let the booting process finish so the pswd will start
+sleep 15
+
+#       At boot time launch of this script, $HOME is not always defined.
+#       This caused problems with the "cd" in the mms script
+if [ "$HOME" = "" ]; then
+        HOME=/home/mms
+        export HOME
+fi
+
+#       Need current pitdat for flat bench
+#
+if [ "$PITDAT" = "" ]; then
+        PITDAT=DSP_OPNS/pitdat
+        export PITDAT
+fi
+
+# If the /dsp/client link exists then we must be on a client's machine
+# and we will want to automatically set the DSP_CLIENT variable
+#
+if [ -h /dsp/client ]; then         # /dsp/client is symbolic link
+        client=`ls -l /dsp/client`
+        client=`expr "$client" : ".* -> \(.*\)"`
+        if [ -d $client ]; then         # Directory $client exists
+                DSP_CLIENT=$client
+                export DSP_CLIENT
+        fi
+#
+#       At client sites we do not want this process running on backup machines.
+#
+        if [ -f $client/opns/MACHINE ]; then
+                if [ `cat $client/opns/MACHINE` != `uname -n` ]; then
+                        exit
+                fi
+        fi
+fi
+
+# If you are not at a client site, here is where you need to set a client.
+if [ ! "$DSP_CLIENT" ]; then
+        DSP_CLIENT=/dsp/cli/bgm
+        export DSP_CLIENT
+fi
+
+/dsp/bin/mms keypad batch << 'EOF'
+..
+..
+.include goodyear/act_goodyear.frm
+..
+..
+loop()
+  EV$RUN
+  )
+EOF

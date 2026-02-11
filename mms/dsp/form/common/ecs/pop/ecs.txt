@@ -1,0 +1,160 @@
+500	Start blocked because of main Shut-Off (gate) valve	Limit switch S31 not closed.Check for broken cables to switch S31.	.	503
+506	Start of motor 1 blocked due to contamination pump #1	Differential pressure switch B5-1 notclosed or B10A-1 closed.	Check cables to differential pressure switch B5-1 and chip indicator B10A-1.	509
+512	Shut Down Motor 1 by motor protection relay 0F4-1	Watch main motor temperature let motor cooling down.	Check motor protection relay 0F4-1.	515
+518	Shut Down Motor 2 by motor protection relay 0F4-2	Watch main motor temperature let motor cooling down.	Check motor protection relay 0F4-2.	521
+524	High pressure filter #1 or pump #1 restricted. Stop Motor 1	Differential pressure switch B5-1 not	closed or chip indicator B10A-1 closed.Clean or replace filter element.Check pump.	527
+530	Trip: Motor 1 winding temperature too high	Watch main motor temperature check air cooling system.	"Check protection relay 1A3-1, 1A3A-1 and 1A3B-1."	533
+536	Trip: Motor 2 winding temperature too high	"Watch main motor temperature,check air cooling system."	"Check protection relay 1A3-2, 1A3A-2 and 1A3B-2."	539
+542	Start blocked by wrong motor rotation	Change 2 phases of power supply.	Check rotation direction relay 1F4.  	545
+548	Motor switched off due to closed main Shut-Off (gate) valve	Main Shut-Off (gate) valve not fully open.	Open the valve.(indicated by S31	551
+554	Trip: Motor 1 bearing temperature too high	Check main motor bearing.	Check protection relay 1A4-1 and 1A5-1.	557
+560	Trip: Motor 2 bearing temperature too high	Check main motor bearing.	Check protection relay 1A4-2 and 1A5-2.	563
+584	Shutdown due to protection gas loss in main contactors 	One pressure switch of the main contactors	0K1-1 or 0K1-2 has opened.Check contactors.	587
+590	Shutdown Hydraulic oil level too low	Fill up hydraulic oil.	Check level sensor 8B4 and 8B50.     	593
+596	Shut-Down due to pressure increase in low voltage capacitor	Pressure increase in low voltage capacitor 0C1-1 or 0C1-2.	Check capacitor.	599
+614	Start of motor 1 blocked due to contamination pump #4	Differential pressure switch B8-1 not closed or B10D-1 closed.	Check cables to differential pressure switch B8-1 and chip indicator B10D-1.	617
+620	Start of motor 2 blocked due to contamination pump #8	Differential pressure switch B8-2 not closed or B10D-2 closed.	Check cables to differential pressure switch B8-2 and chip indicator B10D-2.	623
+626	Start of motor 1 blocked due to contamination pump #2	Differential pressure switch B6-1 not closed or B10B-1 closed. 	Check cables to differential pressure switch B6-1 and chip indicator B10B-1.	629
+632	Fire on board ! Fire suppression system 9K1 actuated	Inform the fire brigade.Evacuate endangered Persons.	"Fight the fire, recharge the system."	635
+638	Start of motor 1 blocked due to contamination pump #3	Differential pressure switch B7-1 not closed or B10C-1 closed.	Check cables to differential pressure switch B7-1 and chip indicator B10C-1.	641
+644	Start of motor 2 blocked due to contamination pump #5	Differential pressure switch B5-2 not closed or B10A-2 closed.	Check cables to differential pressure switch B5-2 and chip indicator B10A-2.	647
+650	Start of motor 2 blocked due to contamination pump #6	Differential pressure switch B6-2 not closed or B10B-2 closed.	Check cables to differential pressure switch B6-2 and chip indicator B10B-2.	653
+656	Start of motor 2 blocked due to contamination pump #7	Differential pressure switch B7-2 not closed or B10C-2 closed.	Check cables to differential pressure switch B7-2 and chip indicator B10C-2.	659
+662	High pressure filter #2 or pump #2 restricted. Stop Motor 1	Differential pressure switch B6-1 not closed or chip indicator B10B-1 closed.	Clean or replace filter element.Check pump.	665
+668	High pressure filter #3 or pump #3 restricted. Stop Motor 1	Differential pressure switch B7-1 not closed or chip indicator B10C-1 closed.	Clean or replace filter element.Check pump.	671
+674	High pressure filter #5 or pump #5 restricted. Stop Motor 2 	Differential pressure switch B5-2 not closed or chip indicator B10A-2 closed.	Clean or replace filter element.Check pump.	677
+680	High pressure filter #6 or pump #6 restricted. Stop Motor 2	Differential pressure switch B6-2 not closed or chip indicator B10B-2 closed.	Clean or replace filter element.Check pump.	683
+686	High pressure filter #7 or pump #7 restricted. Stop Motor 2	Differential pressure switch B7-2 not closed or chip indicator B10C-2 closed.	Clean or replace filter element.Check pump.	689
+692	High pressure filter #4 or pump #4 restricted. Stop Motor 1	Differential pressure switch B8-1 not closed or chip indicator B10D-1 closed.	Clean or replace filter element.Check pump.	695
+698	High pressure filter #8 or pump #8 restricted. Stop Motor 2	Differential pressure switch B8-2 not closed or chip indicator B10D-2 closed.	Clean or replace filter element.Check pump.	701
+728	Short-circui at PLC output group A1.x A3.x A5.x A7.x A13.x	.	.	731
+740     Faulty monitor channel for pump 2/6 pressure	.	.	743
+746     Faulty monitor channel for pump 3/7 pressure	.	.	749
+752	Faulty monitor channel for pump #1 pressure	Pressure pick up B87A for the pump #1 pressure shows inadmissible values.	Check pressure pick up B87A and cables.	755
+758	Faulty monitor channel for pump #2/6 pressure	Pressure pick up B87B for the pump #2/6 pressure shows inadmissible values.	Check pressure pick up B87B and cables.	761
+764	Faulty monitor channel for pump #3/7 pressure	Pressure pick up B87C for the pump #3/7 pressure shows inadmissible values.	Check pressure pick up B87C and cables.	767
+770	Faulty monitor channel for pump #4/8 pressure	Pressure pick up B87D for the pump #4/8 pressure shows inadmissible values.	Check pressure pick up B87D and cables.	773
+776	Emergency shut-down switch S33A at ladder was actuated	Unlock before restarting.	.	779
+782	Emergency shut-down switch S33B at control valve was actuated	Unlock before restarting.	.	785
+788	Emergency shut-down switch S33D at power house was actuated	Unlock before restarting.	.	791
+794	Faulty monitor channel for pump #5 pressure	Pressure pick up B87E for the pump #5 pressure shows inadmissible values.	Check pressure pick up B87E and cables.	797
+800	Faulty pressure switch for gear oil filter of PTO gear 1	Pressure switch indicates pressure {contact closed} although main motor 1	is not running.Check pressure sw. B27-1 and cables.	803
+806	Faulty pressure switch for pump regulation 1 filter	Pressure switch indicates pressure (contact closed) although main motors 	are not running.Check pressure sw. B22-1 and cables.	809
+812	Faulty pressure switch for oil tank breather filter	Pressure switch indicates pressure (contact closed) although main motors 	are not running.Check pressure sw. B24 and cables.	815
+818	Faulty pressure switch for return oil filter	Pressure switch indicates pressure(contact closed) although main motors	are not running.Check pressure sw. B26 and cables.	821
+824	Faulty pressure switch for leak oil filter 	Pressure switch indicates pressure(contact closed) although main motors	are not running.Check pressure sw. B25 and cables.	827
+830	No 24V voltage at circuit breaker F13	No 24V behind circuit breaker F13.Check circuit breaker F13.	Check current supply to circuit breaker.	833
+836	Faulty pressure switch of fan drive	Pressure switch (contact closed) although main motor 1 is not running.	Check pressure sw. B28-1 and cables.	839
+842	Hydraulic oil far below operating temp. Wait for warm-up phase!	The machine was put into operation. Without right Oil viscosity	Start viscosity was not attained preheat hydraulic oil !	845
+848	Faulty monitor channel for hydraulic oil temperature	Temperature sensor B15 showsinadmissible values.	Check temperature sensor B15 and cables.	851
+854	PTO-gear 1 oil filter restricted	Replace filter element.(indicated by B27-1	.	857
+860	Pump regulation 1 filter restricted	Replace filter element.(indicated by B22-1	.	863
+866	Oil tank breather filter restricted 	Replace filter element.(indicated by B24	.	869
+872	Return oil filter restricted 	Replace filter element.(indicated by B26	.	875
+878	Leak oil filter restricted 	Replace filter element.(indicated by B25	.	881
+884	Warning: Main transformer temperature too high	Mains transformer temperature too high.Switch off unnecessary consumers.	Check ventilation system.Check trip relay 1A1.	887
+890	Fan drive oil filter oil cooler 1 restricted	Replace filter element.(indicated by B28-1	.	893
+896	Faulty monitoring channel for motor 1 current	The motor current is beyond the permissible limits.	Check monitoring channel.(indicated by A38-1	899
+902	Faulty monitoring channel for motor 2 current	The motor current is beyond the permissible limits.	Check monitoring channel.(indicated by A38-2	905
+908	Faulty pressure switch for pump regulation 2 filter	Pressure switch indicates pressure(contact closed) although main motors 	are not running.Check pressure sw. B22-2 and cables.	911
+914	Pump regulation 2 filter restricted 	Replace filter element.(indicated by B22-2	.	917
+920	Faulty monitor channel for oil temperature of PTO gear 2 	The temperature sensor B49-2 for PTO gear oil shows inadmissible values.	Check temperature sensor B49-2 and cables.	923
+926	Oil temperature of PTO gear 2 too high	Check gear oil cooling circuit.	Clean gear oil cooler.(indicated by B49-2	929
+938	Hydraulic oil temperature too high. Bucket motion switched off	Cool down the oil by moving attachmentw/o load. 	Check hydraulic oil cooling system. Clean oil cooler.(indicated by B15	941
+944	Faulty monitor channel for oil temperature of PTO gear 1	The temperature sensor B49-1 for PTO gear oil shows inadmissible values.	Check temperature sensor B49-1 and cables.	947
+950	Oil temperature of PTO gear 1 too high	Check gear oil cooling circuit.Clean gear oil cooler.	(indicated by B49-1	953
+956	Faulty monitor channel for ambient temperature 	Temperature sensor B90 for ambient temperature shows inadmissible values.	Check temperature sensor B90 and cables.	959
+962	Control pressure X1.1 for the main pumps too high	Check / adjust electronic pump regulation.	Check / adjust pressure reduction valve.            (indicated by B85-1	965
+968	Pilot pressure X2 too low 	Check / adjust pressure relief valve.(indicated by B86	.	971
+974	Pilot pressure X2 too high 	Check / adjust pressure relief valve.(indicated by B86	.	977
+980	Swing gear house brake OFF 	Check solenoid valve Y5.Check pressure switch B16 and cables.	.	983
+986	Travel gear house brake OFF 	Check solenoid valve Y16.Check pressure switch B48 and cables.	.	989
+992	Travel gear house brake ON 	Check solenoid valve Y16.Check pressure switch B48 and cables.	.	995
+1016	Faulty monitor channel for control pressure X1.2	Pressure pick up B85-2 for the control pressure X1.2 shows inadmissible values	Check pressure pick up B85-2 and cables.	1019
+1022	Control pressure X1.2 for the main pumps too high	Check / adjust electronic pump regulation. 	Check / adjust pressure reduction valve.(indicated by B85-2	1025
+1028	Superstructure lube system grease barrel empty	The sensor B108 in the grease barrel detects no grease. Bucket cut off	within 4 hours.Replace or fill grease barrel.	1031
+1034	Superstructure lube system failure	Lube cycle is not performed in the given time.	Check valve Y7 and pressure switch B43.Check lube times and injectors.	1037
+1040	Superstructure lube system failure	The lube lines are not relieved at the given time.	Check valve Y7 and pressure switch B43.Check lube times and injectors.	1043
+1046	Swing ring gear lube system grease barrel empty 	The sensor B109 in the grease barrel detects no grease.	Bucket cut off within 4 hours.Replace or fill grease barrel.	1049
+1052	Swing ring gear lube system failure	Lube cycle is not performed at the given time.	"Check valve Y9, pressure switch B46.Check lube times and injectors."	1055
+1058	Swing ring gear lube system failure	The lube lines are not relieved at the given time.	"Check valve Y9, pressure switch B46.Check lube times and injectors."	1061
+1064	Faulty pressure switch for gear oil filter of PTO gear 2	Pressure switch indicates pressure(contact closed)	although main motor 2 is not running.Check pressure sw. B27-2 and cables.	1067
+1070	Faulty pressure switch of fan drive oil filter for oil cooler 2	Pressure switch indicates pressure(contact closed)	although main motor 2is not running.Check pressure sw. B28-2 and cables.	1073
+1076	Attachment lube system grease barrel empty	The sensor B173 in the grease barreldetects no grease.	Bucket cut offwithin 4 hours.Replace or fill grease barrel.	1079
+1082	Attachment lube system failure	Lube cycle is not performed in the given time.	Check valve Y142 and pressure switch B174.Check lube times and injectors.	1085
+1088	The ECS is by-passed 	Reset by-pass switch S27.Remove bridge wires.                 	.	1091
+1094	PTO gear 2 oil filter restricted	Replace filter element.(indicated by B27-2	.	1097
+1100	Fan drive oil filter oil cooler 2 restricted	Replace filter element.(indicated by B28-2	.	1103
+1106	Attachment lube system failure	The lube lines are not relieved at the given time.	Check valve Y142 and pressure switch B174.Check lube times and injectors.	1109
+1118	Electric pilot control system failure	Pilot control amplifiers are energized with control levers in neutral position	DANGER of phantom movements!Check safety relay D32 and K125.	1121
+1124	Oil filter pressure switch for pump lubrication 1 faulty 	Pressure switch indicates pressure(contact closed) 	although main motor 1 is not running.Check pressure switch B17-1 and cables	1127
+1130	Oil filter pressure switch for pump lubrication 2 faulty	Pressure switch indicates pressure(contact closed) 	although main motor 2 is not running.Check pressure switch B17-2 and cables	1133
+1136	Lubrication system failure of PTO gear 1 	Oil pressure for lubrication of PTO gear 1 insufficient.	Check lubrication oil pump and lines.(indicated by B17-1	1139
+1142	Lubrication system failure of PTO gear 2	Oil pressure for lubrication of PTO gear 2 insufficient.	Check lubrication oil pump and lines.(indicated by B17-2	1145
+1178	Temperature in cab base too high	Temperature in cab base too high.	Check air conditioning and ventilation Check thermostat 6B1.	1181
+1184	Temperature in high tension switch cabinet too high	Temperature in high tension switch cabinet too high.	Check air conditioning and ventilation Check thermostat 6B2.	1187
+1190	Faulty monitor channel for control pressure X1.1	Pressure pick up B85-1 for the control pressure X1.1 shows inadmissible values	Check pressure pick up B85-1 and cables.	1193
+1196	Faulty monitor channel for pilot pressure X2	Pressure pick up B86 for the pilot pressure X2 shows inadmissible values	Check pressure pick up B86 and cables.	1199
+1202	Bypass reverse travel cut out by cable drump	.	.	1205 
+1208	Travel cut out by cable drum motor, temperature too high	.	.	1211 
+1214	Low tension  - control voltage failure at circuit breaker 1F6	Switch on circuit breaker.Rectify short circuit.               	.	1217
+1220	Power supply for main motors was/is interrupted. Motors stopped	Motors stopped by 1K13.	.	1223
+1226	Inverted rectifier 1U1 reports malfunction	.	.	1229
+1232	Emergency shut-down switch 0S36 in the cab was actuated	Unlock before restarting.	.	1235
+1238	Maintenance safety switch 1S58 at power house entry was actuated 	Unlock before restarting.	.	1241
+1244	Faulty monitor channel of superstructure lube system level	Level sensor B108 shows inadmissible values.	Check monitor channel and sensor.	1247
+1250	Bucket motion switched off due to lubrication system failure	Automatic lubrication suspended for 4 hours.	Perform manually actuated lubrication.Repair lubrication system.	1253
+1256	Faulty switch hydr. oil level or lack of hydraulic oil 	Stop the motor.Check level sensor B4 and B50.	Check hydraulic oil level.	1259
+1262	Lack of hydraulic oil ! Fill up hydraulic oil !	Hydraulic oil level too low.	Fill up hydraulic oil.(indicated by B4	1265
+1268	Faulty monitor channel of swing ring gear lube system level	Level sensor B109 shows inadmissible values.Check monitor channel and sensor.	.	1271
+1274	Problems pump control 	"Problem in the pump control.If the fault further exist,"	inform service.(indicated by E32.32	1277
+1280	Emergency shut-down switch 0S33C in pump compartment was actuated	Unlock before restarting.	.	1283
+1286	Faulty monitor channel of attachment lube system level	Level sensor B173 shows inadmissible values.	Check monitor channel and sensor.	1289
+1292	Emergency shut-down switch 0S15 at cable drum was actuated	Unlock before restarting.	.	1295
+1310	250 h Maintenance performed	.	.	1311
+1312	500 h Maintenance performed	.	.	1313
+1314	1000 h Maintenance performed	.	.	1315
+1316	2000 h Maintenance performed	.	.	1317
+1318	3000 h Maintenance performed	.	.	1319
+1320	Hydraulic oil not at operating temp. ! Operate with reduced power !	.	.	1321
+1322	Swing gear house brake ON	.	.	1323
+1324	motor 2 start h	.	.	1325
+1326	motor 2 stop h	.	.	1327
+1328	Wait!Start of Motor 1 blocked during one minute after start of Motor 2	.	.	1329
+1330	Wait ! Start of Motor 2 blocked during one minute after start of Motor 1	.	.	1331
+1332	Evaluation switched off	.	.	1333
+1334	motor 1 start h	.	.	1335
+1336	motor 1 stop h	.	.	1337
+1338	SERVICE: Superstructure lube system	.	.	1339
+1340	SERVICE: Attachment lube system	.	.	1341
+1342	SERVICE: Swing ring gear lube system	.	.	1343
+1344	Messages switched off	.	.	1345
+1348	TRUCKS	.	.	1349
+1350	Pilot control cut out. Driver's seat empty or ladder out	(indicated by S28	.	1352
+1354	Pilot control switched off. Service arm actuated 	.	.	1356
+1358	Emergency shut-down switch 0S33D at the power house was actuated	Unlock before restarting.	.	1360
+1362	Emergency shut-down switch 0S33B at the control valve was actuated	Unlock before restarting.	.	1364
+1366	Emergency shut-down switch 0S36 in the cab was actuated	Unlock before restarting.	.	1368
+1370	Maintenance safety switch 1S58 at the the power house entry was actuated	Unlock before restarting.	.	1372
+1374	Start lock, Motor 1 temperature too high. Motor must not be started	Allow motor to cool down.Check motor protection relay 0F4-1.	.	1376
+1378	Swing ring gear lube system grease barrel on reserve	Replace or fill grease barrel.	.	1380
+1382	Central lube system grease barrel on reserve	Replace or fill grease barrel.	.	1384
+1386	Hydraulic oil below operating temperature !	Pre-heat hydraulic oil or warm up at reduced power.	.	1388
+1390	Emergency shut-down switch 0S33A at the ladder was actuated 	Unlock before restarting.	.	1392
+1394	Emergency shut-down switch 0S33C in pump compartment was actuated	Unlock before restarting.	.	1396
+1398	Start lock, Motor 2 temperature too high. Motor must not be started	Allow motor to cool down.Check motor protection relay 0F4-2	.	1400
+1402	Forward travel cut out by cable drum	(indicated by K177	.	1404
+1410	Reverse travel cut out by cable drum	(indicated by K178	.	1412
+1414	Reverse travel left track cut out by cable drum	(indicated by K179	.	1416
+1418	Emergency shut-down switch 0S15 at cable drum was actuated	Unlock before restarting.	.	1420
+1422	Reverse travel right track cut out by  cable drum	(indicated by K180	.	1424
+1426	Attachment lube system grease  barrel on reserve	Replace or fill grease barrel.	.	1428
+1430	Travel cut out by cable drum motor, temperature too high 	Allow motor to cool down.(indicated by K177,K178,K179,K180)	.	1432
+1440	Remark to Maintenance calls	The maintenance calls integrated in the ECS system are to be performed.	.	1445
+1450	Initial 250 h Maintenance 	Perform initial 250 h Maintenance.	.	1455
+1460	Initial 1000 h Maintenance	Perform initial 1000 h Maintenance.                      	.	1465
+1470	Periodic 250 h Maintenance	Perform periodic 250 h Maintenance.	.	1475
+1480	Periodic 500 h Maintenance	Perform periodic 500 h Maintenance.	.	1485
+1490	Periodic 1000 h Maintenance	Perform periodic 1000 h Maintenance.                      	.	1495
+1500	Periodic 2000 h Maintenance	Perform periodic 2000 h Maintenance.	.	1505
+1510	Periodic 3000 h Maintenance	Perform periodic 3000 h Maintenance.	.	1515

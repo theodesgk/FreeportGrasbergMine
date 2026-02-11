@@ -1,0 +1,325 @@
+OEM Interface Timeout	1325531104
+OEM Interface Normal	1325531105
+Driver Interface Timeout	1325531106
+Driver Interface Normal	1325531107
+Enclosure Temperature High Alarm	1325465600
+Park Brake Pressure Switch/Solenoid Malfunction	1325465601
+Brake Lock Pressure Switch/Solenoid Malfunction	1325465602
+Low Steering Pressure (Hyd. System Supply)	1325465603
+Low Hydraulic Accumulator Pressure	1325465604
+Low Hydraulic Accumulator Pressure (Future Trucks Second Accumulator)	1325465605
+Low Differential Brake Pressure - Front	1325465606
+Low Differential Brake Pressure - Rear	1325465607
+Hoist Filter #1 High Pressure	1325465608
+Hoist Filter #2 High Pressure	1325465609
+Steering Filter (Hyd. System Supply) High Pressure	1325465610
+Riding Retard Pedal	1325465611
+Battery Voltage Low Alarm	1325465612
+Battery Voltage High Alarm	1325465613
+10V Power Supply Out Of Tolerance Alarm	1325465614
+10V Power Supply Out Of Tolerance Fault	1325465615
+Tdc Cooling System No Flow At Startup Fault	1325465616
+Tdc Cooling System No Flow Alarm	1325465617
+Tdc Cooling System No Flow Fault	1325465618
+Tdc Cooling System Low Level Alarm	1325465619
+Tdc Cooling System Low Level Fault	1325465620
+Tdc Cooling System Temperature High Alarm	1325465621
+Tdc Cooling System Temperature High Alarm 2	1325465622
+Tdc Cooling System Temperature High Fault	1325465623
+Tdc1 Cut Out (Disabled) (Limp Mode)	1325465624
+Tdc2 Cut Out (Disabled) (Limp Mode)	1325465625
+Illegal Limp Request	1325465626
+Throttle Pedal - Voltage Too High	1325465627
+Throttle Pedal - Voltage Too Low	1325465628
+Retard Pedal - Voltage Too High	1325465629
+Retard Pedal - Voltage Too Low	1325465630
+Engine Speed Sensor Signal 0 When Engine Running	1325465631
+Engine Speed Sensor Signal >0 When Engine Stopped	1325465632
+Tdc Failed To Enter Load Box Mode	1325465633
+No Feet On Pedals (Retard Or Throttle Not Pressed)	1325465634
+Both Pedals Pressed More Than 5 Seconds	1325465635
+Direction Selected In Load Box Mode	1325465636
+Gear Shifter - No Position Selected Fault	1325465637
+Gear Shifter - Multiple Positions Selected Fault	1325465638
+Steering Accumulator #1 Pressure Low	1325465639
+Steering Accumulator #2 Pressure Low	1325465640
+Hydraulic Tank - High Temperature	1325465641
+Hydraulic Filter #1 High Pressure	1325465642
+Hydraulic Filter #2 High Pressure	1325465643
+Low Air Pressure	1325465644
+Battery Equalizer Fail	1325465645
+Rear Lube Pressure Low	1325465646
+Lube System Pressure	1325465647
+Motor Blower Differential Pressure Low	1325465648
+Hydraulic Tank Low Level	1325465649
+Plm3 - Truck Overloaded	1325465650
+Left Front Wheel Sensor 0 Output With Truck Moving	1325465651
+Left Front Wheel Sensor >0 Output With Truck Stopped	1325465652
+Right Front Wheel Sensor 0 Output With Truck Moving	1325465653
+Right Front Wheel Sensor >0 Output With Truck Stopped	1325465654
+Parking Brake Selected While Above Max Speed	1325465655
+Engine Stall	1325465656
+Engine Rpm Does Not Match Command	1325465657
+Engine Caution Light	1325465658
+Engine Warning Light	1325465659
+Engine Prelube Pressure Switch/Pump Failure Alarm	1325465660
+Engine Start Request Denied - Engine Kill While Cranking	1325465661
+Engine Kill While Truck Moving	1325465662
+Engine Crank Failure	1325465663
+Left Wheel Motor Bearing De Temperature High - Fault	1325465664
+Left Wheel Motor Bearing Ode Temperature High - Fault	1325465665
+Right Wheel Motor Bearing De Temperature High - Fault	1325465666
+Right Wheel Motor Bearing Ode Temperature High - Fault	1325465667
+Left Wheel Motor Bearing De Temperature High - Alarm	1325465668
+Left Wheel Motor Bearing Ode Temperature High - Alarm	1325465669
+Left Wheel Motor Phase A Winding Temperature High - Alarm	1325465670
+Left Wheel Motor Phase B Winding Temperature High - Alarm	1325465671
+Left Wheel Motor Phase C Winding Temperature High - Alarm	1325465672
+Right Wheel Motor Bearing De Temperature High - Alarm	1325465673
+Right Wheel Motor Bearing Ode Temperature High - Alarm	1325465674
+Right Wheel Motor Phase A Winding Temperature High - Alarm	1325465675
+Right Wheel Motor Phase B Winding Temperature High - Alarm	1325465676
+Right Wheel Motor Phase C Winding Temperature High - Alarm	1325465677
+Tdc1 - Undefined Fault	1325465678
+Tdc1 - Igbt Has Reported A Status Fault	1325465679
+Tdc1 - Phase U Overcurrent Fault	1325465680
+Tdc1 - Phase V Overcurrent Fault	1325465681
+Tdc1 - Phase W Overcurrent Fault	1325465682
+Tdc1 - Motor Over Speed Fault	1325465683
+Tdc1 - Motor Over Current Fault	1325465684
+Tdc1 - Grid Overcurrent Fault	1325465685
+Tdc1 - Brake Igbt Has Reported A Status Fault	1325465686
+Tdc1 - Dc Bus Overvoltage Fault	1325465687
+Tdc1 - Dc Bus Undervoltage Fault	1325465688
+Tdc1 - Igbt Failed Diagnostics Routine Fault	1325465689
+Tdc1 - Lvds Board Communications Fault	1325465690
+Tdc1 - Afse Fault	1325465691
+Tdc1 - Afse Comm Timeout Fault	1325465692
+Tdc1 - Grid Blower Inverter Fault	1325465693
+Tdc1 - Grid Blower Communications Fault	1325465694
+Tdc1 - Ethernet Communications Fault	1325465695
+Tdc1 - Error Reading/Writing Eeprom Fault	1325465696
+Tdc1 - Ground Fault	1325465697
+Tdc1 - Encoder Fault	1325465698
+Tdc1 - Edac Connector Fault	1325465699
+Tdc1 - Undefined Alarm	1325465700
+Tdc1 - Igbt Has Reported A Status Error	1325465701
+Tdc1 - Phase U Overcurrent Alarm	1325465702
+Tdc1 - Phase V Overcurrent Alarm	1325465703
+Tdc1 - Phase W Overcurrent Alarm	1325465704
+Tdc1 - Motor Over Speed Alarm	1325465705
+Tdc1 - Motor Over Current Alarm	1325465706
+Tdc1 - Grid Overcurrent Alarm	1325465707
+Tdc1 - Brake Igbt Has Reported A Status Error	1325465708
+Tdc1 - Dc Bus Overvoltage Alarm	1325465709
+Tdc1 - Dc Bus Undervoltage Alarm	1325465710
+Tdc1 - Igbt Failed Diagnostics Routine Alarm	1325465711
+Tdc1 - Motor Temperature Alarm	1325465712
+Tdc1 - 24 Volt Control Power Out Of Tolerance Alarm	1325465713
+Tdc1 - 15 Volt Control Power Out Of Tolerance Alarm	1325465714
+Tdc1 - Pos. 5 Volt Control Power Out Of Tolerance Alarm	1325465715
+Tdc1 - 3.3 Volt Control Power Out Of Tolerance Alarm	1325465716
+Tdc1 - Neg. 5 Volt Control Power Out Of Tolerance Alarm	1325465717
+Tdc1 - Grid Temperature High Alarm	1325465718
+Tdc1 - Adjacent Drive Failed Alarm	1325465719
+Tdc1 - Traction Control Active	1325465720
+Tdc1 - Grid Current Out Of Tolerance Alarm	1325465721
+Tdc1 - Ethernet Communications Alarm	1325465722
+Tdc1 - Grid Blower Error	1325465723
+Tdc2 - Undefined Fault	1325465724
+Tdc2 - Igbt Has Reported A Status Fault	1325465725
+Tdc2 - Phase U Overcurrent Fault	1325465726
+Tdc2 - Phase V Overcurrent Fault	1325465727
+Tdc2 - Phase W Overcurrent Fault	1325465728
+Tdc2 - Motor Over Speed Fault	1325465729
+Tdc2 - Motor Over Current Fault	1325465730
+Tdc2 - Grid Overcurrent Fault	1325465731
+Tdc2 - Brake Igbt Has Reported A Status Fault	1325465732
+Tdc2 - Dc Bus Overvoltage Fault	1325465733
+Tdc2 - Dc Bus Undervoltage Fault	1325465734
+Tdc2 - Igbt Failed Diagnostics Routine Fault	1325465735
+Tdc2 - Lvds Board Communications Fault	1325465736
+Tdc2 - Afse Fault	1325465737
+Tdc2 - Afse Comm Timeout Fault	1325465738
+Tdc2 - Grid Blower Inverter Fault	1325465739
+Tdc2 - Grid Blower Communications Fault	1325465740
+Tdc2 - Ethernet Communications Fault	1325465741
+Tdc2 - Error Reading/Writing Eeprom Fault	1325465742
+Tdc2 - Ground Fault	1325465743
+Tdc2 - Encoder Fault	1325465744
+Tdc2 - Edac Connector Fault	1325465745
+Tdc2 - Undefined Alarm	1325465746
+Tdc2 - Igbt Has Reported A Status Error	1325465747
+Tdc2 - Phase U Overcurrent Alarm	1325465748
+Tdc2 - Phase V Overcurrent Alarm	1325465749
+Tdc2 - Phase W Overcurrent Alarm	1325465750
+Tdc2 - Motor Over Speed Alarm	1325465751
+Tdc2 - Motor Over Current Alarm	1325465752
+Tdc2 - Grid Overcurrent Alarm	1325465753
+Tdc2 - Brake Igbt Has Reported A Status Error	1325465754
+Tdc2 - Dc Bus Overvoltage Alarm	1325465755
+Tdc2 - Dc Bus Undervoltage Alarm	1325465756
+Tdc2 - Igbt Failed Diagnostics Routine Alarm	1325465757
+Tdc2 - Motor Temperature Alarm	1325465758
+Tdc2 - 24 Volt Control Power Out Of Tolerance Alarm	1325465759
+Tdc2 - 15 Volt Control Power Out Of Tolerance Alarm	1325465760
+Tdc2 - Pos. 5 Volt Control Power Out Of Tolerance Alarm	1325465761
+Tdc2 - 3.3 Volt Control Power Out Of Tolerance Alarm	1325465762
+Tdc2 - Neg. 5 Volt Control Power Out Of Tolerance Alarm	1325465763
+Tdc2 - Grid Temperature High Alarm	1325465764
+Tdc2 - Adjacent Drive Failed Alarm	1325465765
+Tdc2 - Traction Control Active	1325465766
+Tdc2 - Grid Current Out Of Tolerance Alarm	1325465767
+Tdc2 - Ethernet Communications Alarm	1325465768
+Tdc2 - Grid Blower Error	1325465769
+Left Dash Display Panel Communications Loss	1325465770
+Center Dash Display Panel Communications Loss	1325465771
+Right Dash Display Panel Communications Loss	1325465772
+Truck Pc Communications Loss	1325465773
+Engine Ecm - J1939 Comms Fault	1325465774
+Stratix Ethernet Switch No Communications To Plc	1325465775
+Both Tdc Reporting Master	1325465776
+Engine Ecm J1939 Communications Module Fault	1325465777
+Ethernet Communications Module Local Rack Slot 1 Fault	1325465778
+Tdc1 Communications Loss	1325465779
+Tdc2 Communications Loss	1325465780
+Tdc1 & Tdc2 Communications Loss	1325465781
+Ethernet I/O Module Local Rack Slot 2 Fault	1325465782
+Ethernet Udp Modlue Local Rack Slot 3 Fault	1325465783
+Local Rack Slot 7 -1756Sc-Ctr8 Module Fault	1325465784
+Local Rack Slot 7 -1756Sc-Ctr8 Ch0 Fault	1325465785
+Local Rack Slot 7 -1756Sc-Ctr8 Ch1 Fault	1325465786
+Local Rack Slot 7 -1756Sc-Ctr8 Ch2 Fault	1325465787
+Local Rack Slot 7 -1756Sc-Ctr8 Ch3 Fault	1325465788
+Local Rack Slot 7 -1756Sc-Ctr8 Ch4 Fault	1325465789
+Local Rack Slot 7 -1756Sc-Ctr8 Ch5 Fault	1325465790
+Local Rack Slot 7 -1756Sc-Ctr8 Ch6 Fault	1325465791
+Local Rack Slot 7 -1756Sc-Ctr8 Ch7 Fault	1325465792
+Local Rack Slot 8 - 1756Sc-If8U Module Fault	1325465793
+Local Rack Slot 8 -1756Sc-If8U Ch0 Fault	1325465794
+Local Rack Slot 8 -1756Sc-If8U Ch1 Fault	1325465795
+Local Rack Slot 8 -1756Sc-If8U Ch2 Fault	1325465796
+Local Rack Slot 8 -1756Sc-If8U Ch3 Fault	1325465797
+Local Rack Slot 8 -1756Sc-If8U Ch4 Fault	1325465798
+Local Rack Slot 8 -1756Sc-If8U Ch5 Fault	1325465799
+Local Rack Slot 8 -1756Sc-If8U Ch6 Fault	1325465800
+Local Rack Slot 8 -1756Sc-If8U Ch7 Fault	1325465801
+Local Rack Slot 9 - 1756Sc-If8U Module Fault	1325465802
+Local Rack Slot 9 -1756Sc-If8U Ch0 Fault	1325465803
+Local Rack Slot 9 -1756Sc-If8U Ch1 Fault	1325465804
+Local Rack Slot 9 -1756Sc-If8U Ch2 Fault	1325465805
+Local Rack Slot 9 -1756Sc-If8U Ch3 Fault	1325465806
+Local Rack Slot 9 -1756Sc-If8U Ch4 Fault	1325465807
+Local Rack Slot 9 -1756Sc-If8U Ch5 Fault	1325465808
+Local Rack Slot 9 -1756Sc-If8U Ch6 Fault	1325465809
+Local Rack Slot 9 -1756Sc-If8U Ch7 Fault	1325465810
+Local Rack Slot 10 - 1756Sc-If8U Module Fault	1325465811
+Local Rack Slot 10 -1756Sc-If8U Ch0 Fault	1325465812
+Local Rack Slot 10 -1756Sc-If8U Ch1 Fault	1325465813
+Local Rack Slot 10 -1756Sc-If8U Ch2 Fault	1325465814
+Local Rack Slot 10 -1756Sc-If8U Ch3 Fault	1325465815
+Local Rack Slot 10 -1756Sc-If8U Ch4 Fault	1325465816
+Local Rack Slot 10 -1756Sc-If8U Ch5 Fault	1325465817
+Local Rack Slot 10 -1756Sc-If8U Ch6 Fault	1325465818
+Local Rack Slot 10 -1756Sc-If8U Ch7 Fault	1325465819
+Local Rack Slot 11 - 1756Sc-If8U Module Fault	1325465820
+Local Rack Slot 11 - 1756Sc-If8U Ch0 Fault	1325465821
+Local Rack Slot 11 - 1756Sc-If8U Ch1 Fault	1325465822
+Local Rack Slot 11 - 1756Sc-If8U Ch2 Fault	1325465823
+Local Rack Slot 11 - 1756Sc-If8U Ch3 Fault	1325465824
+Local Rack Slot 11 - 1756Sc-If8U Ch4 Fault	1325465825
+Local Rack Slot 11 - 1756Sc-If8U Ch5 Fault	1325465826
+Local Rack Slot 11 - 1756Sc-If8U Ch6 Fault	1325465827
+Local Rack Slot 11 - 1756Sc-If8U Ch7 Fault	1325465828
+Local Rack Slot 12 - 1756-Of8 Module Fault	1325465829
+Local Rack Slot 12 - 1756-Of8 Ch0 Fault	1325465830
+Local Rack Slot 12 - 1756-Of8 Ch1 Fault	1325465831
+Local Rack Slot 12 - 1756-Of8 Ch2 Fault	1325465832
+Local Rack Slot 12 - 1756-Of8 Ch3 Fault	1325465833
+Local Rack Slot 12 - 1756-Of8 Ch4 Fault	1325465834
+Local Rack Slot 12 - 1756-Of8 Ch5 Fault	1325465835
+Local Rack Slot 12 - 1756-Of8 Ch6 Fault	1325465836
+Local Rack Slot 12 - 1756-Of8 Ch7 Fault	1325465837
+Rack 1 - Ethernet Communications Module Slot 0 Fault	1325465838
+Rack 1 Slot 1 - 1756-Ib32 Module Fault	1325465839
+Rack 1 Slot 2 - 1756-Ib32 Module Fault	1325465840
+Rack 1 Slot 3 - 1756-Ib16I Module Fault	1325465841
+Rack 1 Slot 4 - 1756-Ow16I Modlue Fault	1325465842
+Rack 1 Slot 5 - 1756-Ow16I Modlue Fault	1325465843
+Rack 1 Slot 6 - Spare	1325465844
+Rack 1 Slot 7 - Spare	1325465845
+Rack 1 Slot 8 - Spare	1325465846
+Rack 1 Slot 9 - Spare	1325465847
+Rack 0 Slot 6 Analog Input Module Fault	1325465848
+Local Rack Slot 6 - 1756Sc-If8U Ch0 Fault	1325465849
+Local Rack Slot 6 - 1756Sc-If8U Ch1 Fault	1325465850
+Local Rack Slot 6 - 1756Sc-If8U Ch2 Fault	1325465851
+Local Rack Slot 6 - 1756Sc-If8U Ch3 Fault	1325465852
+Local Rack Slot 6 - 1756Sc-If8U Ch4 Fault	1325465853
+Local Rack Slot 6 - 1756Sc-If8U Ch5 Fault	1325465854
+Local Rack Slot 6 - 1756Sc-If8U Ch6 Fault	1325465855
+Local Rack Slot 6 - 1756Sc-If8U Ch7 Fault	1325465856
+Tdc - Afse - Undefined Fault	1325465857
+Tdc-Afse - 24V Power Supply Out Of Tolerance Fault	1325465858
+Tdc-Afse - Positive 5V Power Supply Out Of Tolerance Fault	1325465859
+Tdc-Afse - Negative 5V Power Supply Out Of Tolerance Fault	1325465860
+Tdc-Afse - 3.3V Power Supply Out Of Tolerance Fault	1325465861
+Tdc-Afse - Positive 15V Power Supply Out Of Tolerance Fault	1325465862
+Tdc-Afse - Negative 15V Power Supply Out Of Tolerance Fault	1325465863
+Tdc-Afse - Field Current Sensor Fault	1325465864
+Tdc-Afse - Input Current Sensor Fault	1325465865
+Tdc-Afse - Field Voltage Sensor Fault	1325465866
+Tdc-Afse - Input Voltage Sensor Fault	1325465867
+Tdc-Afse - Heat Sink Temperature Sensor Fault	1325465868
+Tdc-Afse - Input Voltage Buildup Fault	1325465869
+Tdc-Afse - Field Voltage Buildup Fault	1325465870
+Tdc-Afse - Generator Field Contactor Fault	1325465871
+Tdc-Afse - Generator Field Resistance Contactor Fault	1325465872
+Tdc-Afse - Field Voltage Over Voltage Limit Fault	1325465873
+Tdc-Afse - Field Current Over Current Limit Fault	1325465874
+Tdc-Afse - Heat Sink Temperature Too High Fault	1325465875
+Tdc-Afse - Voltage Regulator Fault	1325465876
+Tdc-Afse - Input Voltage Sychronization Fault	1325465877
+Tdc-Afse - Crowbar Fired Fault	1325465878
+Tdc-Afse - Watchdog Timeout Fault	1325465879
+Tdc-Afse - Eeprom Fault	1325465880
+Tdc-Afse - Communications Timeout Fault	1325465881
+Tdc-Afse - Dc Link	1325465882
+Tdc-Afse - No Dc Bus Feedback	1325465883
+Tdc-Afse - Field Collapse Fault	1325465884
+Tdc-Afse - Run Synch Fault	1325465885
+Tdc-Afse - Input Current Fault	1325465886
+Tdc-Afse - Undefined Alarm	1325465887
+Tdc-Afse - Poor Synchronization	1325465888
+Tdc-Afse - Poor Regulation	1325465889
+Tdc-Afse - Output Over Current Alarm	1325465890
+Tdc-Afse - Input Over Voltage Alarm	1325465891
+Tdc-Afse - Input Over Current Alarm	1325465892
+Tdc-Afse - Output Over Voltage Alarm	1325465893
+Tdc-Afse - Heat Sink Temperature Warning	1325465894
+Grid Blower Inverter - Undefined Fault	1325465895
+Grid Blower Inverter - Dc Voltage High (Sw) Fault	1325465896
+Grid Blower Inverter - Motor Current High (Sw) Fault	1325465897
+Grid Blower Inverter - Phase U Overcurrent Fault	1325465898
+Grid Blower Inverter - Phase V Overcurrent Fault	1325465899
+Grid Blower Inverter - Phase W Overcurrent Fault	1325465900
+Grid Blower Inverter - Desaturation Fault	1325465901
+Grid Blower Inverter - Module High Temperature Fault	1325465902
+Grid Blower Inverter - Communications Timeout Fault	1325465903
+Grid Blower Inverter - Motor Over Speed Fault	1325465904
+Grid Blower Inverter - Eeprom Error Fault	1325465905
+Grid Blower Inverter - Igbt Test Error Fault	1325465906
+Grid Blower Inverter - Dc Bus Undervoltage (Sw) Fault	1325465907
+Grid Blower Inverter - Ground Fault Isolation Transformer	1325465908
+Grid Blower Inverter - Ground Fault Motor	1325465909
+Grid Blower Inverter - Ground Fault Dc Bus	1325465910
+Grid Blower Inverter - Undefined Alarm	1325465911
+Grid Blower Inverter - Dc Voltage High Alarm	1325465912
+Grid Blower Inverter - Motor Current High Alarm	1325465913
+Grid Blower Inverter - Motor Speed High Alarm	1325465914
+Grid Blower Inverter - Module Temperature High Alarm	1325465915
+Grid Blower Inverter - 24V Power Supply Tolerance Alarm	1325465916
+Grid Blower Inverter - Logic Power Supply Tolerance Alarm	1325465917
+Grid Blower Inverter - Dc Bus Low Voltage Alarm	1325465918
+Grid Blower Inverter - Password Timeout Alarm	1325465919
+Grid Blower Inverter - Fan Speed Error Alarm	1325465920

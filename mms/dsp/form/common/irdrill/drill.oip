@@ -1,0 +1,115 @@
+#define SIGNON  "        MMS/CBM DISPATCH"
+
+/*
+ * Pre-load the RPC definitions that we will need to transmit.
+ */
+. LOGON
+. READY
+. IDLE
+. DELAY
+. DOWN
+. HELP
+. METER
+. STARTHOLE
+. ENDHOLE
+. BENCH
+. PART
+. MVDRILL
+. YES
+. NO
+. REPEAT
+
+#include <oip.cex>
+
+#define FORM_POS	99
+#define FORM_A4         104
+#define FORM_A8         108
+#define FORM_A3         103
+#define FORM_A1         101
+#define FORM_LONG_ACTION        100
+#define FORM_BENCH      110
+#define	FORM_METER		150
+kform   FORM_A4         >name:-24><num:4<>ok:4>
+kform   FORM_A8         >name:-20><num:8<>ok:4>
+kform   FORM_A3         >name:-24><num:3<>ok:4>
+kform   FORM_A1         >name:-27><num:1<>ok:4>
+kform	FORM_POS        >name:-19><num:3< POS:<pos:1<>ok:4>
+kform FORM_LONG_ACTION >name:-23><num:5<>ok:4>
+/* id and hrs will have the value of level and round respectively */
+kform   FORM_BENCH      >name:-19><hrs:4<>ok:4>
+kform   FORM_METER	>name:-23><hrs:5<>ok:4>
+
+
+kfunc   ok_101  '
+        busy=20,send=0,rpc(0,rpcnm?rpcnm:name,sprintf("%s/%s",id,hrs))'
+kfunc k36       '
+        id=num,
+        send=0,
+        hrs="",
+        k("ENTER ROUND:",FORM_BENCH,"ok_101","BENCH")'
+kfunc k35       '
+        id=num,
+        send=0,
+        hrs="",
+        kscroll("Read Hour Meter to Nearest Hour"),
+        sleep(1000),
+        k("Enter Meter Hrs:",FORM_METER,"ok_101","METER")'
+kfunc   ok_100  fkey(35)
+kfunc   ok_104  fkey(36)
+kfunc	ok_start '
+        busy=20,send=0,rpc(0,rpcnm,sprintf("%s/%s/%s/%s",partnum,arg1,num,pos))'
+kfunc	chbit '
+        send=0,!num?(arg1="0"):(arg1=num),
+        ( (int(partnum)==2) && ( (int(pos) < 1) || (int(pos) > 4) || (pos=="") ) ) ? 
+         (
+          ( (disp="INVALID STEEL POSITION VALUE",form(FORM_DISPLAY) ) ),
+          sleep(2000),
+          fkey(2)
+         ) :
+          k(sprintf("NEW %s ID",part),FORM_A8,"ok_start","PART") '
+kfunc ok_pos  '
+      send=0, pos=num'
+kfunc ok_part '
+      send=0, partnum=num,
+      (int(partnum) > 3) ?
+        ( (disp="INVALID OPTION",form(FORM_DISPLAY)) ) :
+      (
+        (int(partnum)==2) ? 
+         (
+          pos="",
+          part="STEEL",
+          k("STEEL DISMOUNT RSN",FORM_POS,"chbit")
+         ) :
+         (
+          pos="0",
+          part = ( (int(partnum)==0) ? "BIT" :
+                   (int(partnum)==1) ? "STAB" :
+                   (int(partnum)==3) ? "BUSHING" ),
+          k(sprintf("%s DISMOUNT REASON: ",part),FORM_A3,"chbit")
+         )
+      )'
+kfunc   ok_102 '
+        send=0,
+        (int(num)<1 || int(num)>5) ?
+         ( disp="INVALID OPTION",form(FORM_DISPLAY) ) :
+         (
+          busy=20,
+          rpc(0, rpcnm, int(num))
+         )'
+kfunc   k1   k("Enter Hole Number:", FORM_A4, "ok_1", "STARTHOLE")
+kfunc	k2   k("1=STAB, 2=STEEL, 3=BUSHING",FORM_A1,"ok_part")
+kfunc   k3   k("DELAY")
+kfunc   k4   k("READY",FORM_NOCODE)
+kfunc   k6   k("ENTER RESPONS. CODE",FORM_LONG_ACTION,"ok_100")
+kfunc   k8   'partnum="0",part="BIT",pos="0",k("BIT DISMOUNT REASON",FORM_A3,"chbit")'
+kfunc   k9   k("DELAY FOR DRILL MOVE", FORM_A1, "ok_1", "MVDRILL" )
+kfunc	k10  k("DOWN")
+kfunc   k11  k("YES", FORM_NOCODE),fkey(31)
+kfunc   k12  k("REPEAT",FORM_NOCODE,0,"REPEAT")
+/* kfunc	k13  k("END OF HOLE",FORM_NOCODE,0,"ENDHOLE") */
+kfunc   k13  printf("1=SOFT, 2=MEDIUM, 3=HARD\\n"), sleep(2000), printf("4=BROKEN, 5=FILL\\n"), sleep(2000), k("END OF HOLE", FORM_A1, "ok_102", "ENDHOLE")
+kfunc   k14  hrs=id="",k("ENTER LEVEL:", FORM_A4)
+/* kfunc	k15  k("DEFECT") */
+kfunc   k16  k("IDLE")
+kfunc   k17  k("NO",FORM_NOCODE),fkey(31)
+kfunc	k18  k("HELP")

@@ -1,0 +1,59 @@
+Fuel Consumption Rate - Data Valid Above Normal Operational Range - Most Severe Level	1879113729
+Fuel Consumption Rate - Data Valid Below Normal Operational Range - Most Severe Level	1879113730
+Fuel Consumption Rate - Data Erratic Intermittent Or Incorrect	1879113731
+Fuel Consumption Rate - Data Valid Above Normal Operating Range - Least Severe Level	1879113732
+Fuel Consumption Rate - Data Valid Below Normal Operating Range - Least Severe Level	1879113733
+Fuel Feed Rate - Data Valid Above Normal Operational Range - Most Severe Level	1879113734
+Fuel Feed Rate - Data Valid Below Normal Operational Range - Most Severe Level	1879113735
+Fuel Feed Rate - Data Erratic Intermittent Or Incorrect	1879113736
+Fuel Feed Rate - Data Valid Above Normal Operating Range - Least Severe Level	1879113737
+Fuel Feed Rate - Data Valid Below Normal Operating Range - Least Severe Level	1879113738
+Fuel Return Rate - Data Valid Above Normal Operational Range - Most Severe Level	1879113739
+Fuel Return Rate - Data Valid Below Normal Operational Range - Most Severe Level	1879113740
+Fuel Return Rate - Data Erratic Intermittent Or Incorrect	1879113741
+Fuel Return Rate - Data Valid Above Normal Operating Range - Least Severe Level	1879113742
+Fuel Return Rate - Data Valid Below Normal Operating Range - Least Severe Level	1879113743
+Fuel Tank Level Percentage - Data Valid Below Normal Operational Range - Most Severe Level	1879113744
+Fuel Tank Level Percentage - Data Erratic Intermittent Or Incorrect	1879113745
+Fuel Tank Level Percentage - Data Valid Below Normal Operating Range - Least Severe Level	1879113746
+Feed/Tank Temperature - Data Valid Above Normal Operational Range - Most Severe Level	1879113747
+Feed/Tank Temperature - Data Valid Below Normal Operational Range - Most Severe Level	1879113748
+Feed/Tank Temperature - Data Erratic Intermittent Or Incorrect	1879113749
+Feed/Tank Temperature - Data Valid Above Normal Operating Range - Least Severe Level	1879113750
+Feed/Tank Temperature - Data Valid Below Normal Operating Range - Least Severe Level	1879113751
+Return/Engine Outlet Temperature - Data Valid Above Normal Operational Range - Most Severe Level	1879113752
+Return/Engine Outlet Temperature - Data Valid Below Normal Operational Range - Most Severe Level	1879113753
+Return/Engine Outlet Temperature - Data Erratic Intermittent Or Incorrect	1879113754
+Return/Engine Outlet Temperature - Data Valid Above Normal Operating Range - Least Severe Level	1879113755
+Return/Engine Outlet Temperature - Data Valid Below Normal Operating Range - Least Severe Level	1879113756
+Controller Temperature - Data Valid Above Normal Operational Range - Most Severe Level	1879113757
+Controller Temperature - Data Valid Below Normal Operational Range - Most Severe Level	1879113758
+Controller Temperature - Data Erratic Intermittent Or Incorrect	1879113759
+Controller Temperature - Data Valid Above Normal Operating Range - Least Severe Level	1879113760
+Controller Temperature - Data Valid Below Normal Operating Range - Least Severe Level	1879113761
+Diagnostic Status Bitmask - Condition Exists	1879113762
+Vehicle Altitude - Data Erratic Intermittent Or Incorrect	1879113763
+Vehicle Pitch Angle - Data Valid Above Normal Operational Range - Most Severe Level	1879113764
+Vehicle Pitch Angle - Data Valid Below Normal Operational Range - Most Severe Level	1879113765
+Vehicle Pitch Angle - Data Erratic Intermittent Or Incorrect	1879113766
+Vehicle Pitch Angle - Data Valid Above Normal Operating Range - Least Severe Level	1879113767
+Vehicle Pitch Angle - Data Valid Below Normal Operating Range - Least Severe Level	1879113768
+Vehicle Roll Angle - Data Valid Above Normal Operational Range - Most Severe Level	1879113769
+Vehicle Roll Angle - Data Valid Below Normal Operational Range - Most Severe Level	1879113770
+Vehicle Roll Angle - Data Erratic Intermittent Or Incorrect	1879113771
+Vehicle Roll Angle - Data Valid Above Normal Operating Range - Least Severe Level	1879113772
+Vehicle Roll Angle - Data Valid Below Normal Operating Range - Least Severe Level	1879113773
+Vehicle Lateral Accelleration - Data Valid Above Normal Operational Range - Most Severe Level	1879113774
+Vehicle Lateral Accelleration - Data Valid Below Normal Operational Range - Most Severe Level	1879113775
+Vehicle Lateral Accelleration - Data Erratic Intermittent Or Incorrect	1879113776
+Vehicle Lateral Accelleration - Data Valid Above Normal Operating Range - Least Severe Level	1879113777
+Vehicle Lateral Accelleration - Data Valid Below Normal Operating Range - Least Severe Level	1879113778
+Vehicle Longitudinal Accelleration - Data Valid Above Normal Operational Range - Most Severe Level	1879113779
+Vehicle Longitudinal Accelleration - Data Valid Below Normal Operational Range - Most Severe Level	1879113780
+Vehicle Longitudinal Accelleration - Data Erratic Intermittent Or Incorrect	1879113781
+Vehicle Longitudinal Accelleration - Data Valid Above Normal Operating Range - Least Severe Level	1879113782
+Vehicle Longitudinal Accelleration - Data Valid Below Normal Operating Range - Least Severe Level	1879113783
+OEM Interface Timeout	1879179232
+OEM Interface Normal	1879179233
+Driver Interface Timeout	1879179234
+Driver Interface Normal	1879179235

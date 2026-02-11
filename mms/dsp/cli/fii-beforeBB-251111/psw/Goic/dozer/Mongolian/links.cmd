@@ -1,0 +1,11 @@
+fsutil hardlink create Goic.cfg ..\English\Goic.cfg
+fsutil hardlink create Kp.cfg ..\English\Kp.cfg
+fsutil hardlink create Kp2.cfg ..\English\Kp2.cfg
+fsutil hardlink create Ok.cfg ..\English\Ok.cfg
+fsutil hardlink create w0.ht.cfg ..\English\w0.ht.cfg
+fsutil hardlink create w0.Icon.cfg ..\English\w0.Icon.cfg
+fsutil hardlink create w0.Text.cfg ..\English\w0.Text.cfg
+fsutil hardlink create w0.v1.cfg ..\English\w0.v1.cfg
+fsutil hardlink create w0.v2.cfg ..\English\w0.v2.cfg
+fsutil hardlink create w0.v3.cfg ..\English\w0.v3.cfg
+fsutil hardlink create WinMgr.cfg ..\English\WinMgr.cfg

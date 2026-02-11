@@ -1,0 +1,58 @@
+%!/psw/cpp
+/*
+ * * * * * * * * * * * * * * * * * * *
+ *  DISPATCH Real-Time Firmware Module
+ * Copyright (c) Modular Mining Systems, 1982-2011
+ *               All Rights Reserved
+ *  $RCSfile: Config.h.example,v $
+ * $Revision: 1.1 $
+ *   $Author: dcitron $
+ *     $Date: 2014/07/21 06:37:52 $
+ *    $State: Exp $
+ * * * * * * * * * * * * * * * * * * *
+ */
+/*
+ * Config file for loading static reason menus
+ * Copy to client psw/10inch/static folder and
+ * customize to meet client needs
+ */
+
+echo Loading Static Reason Menus...
+
+CP(10inch/static/Status.cfg CFGDEVICE/Status.cfg)
+#if #class(truck)
+CP(10inch/static/truck/Status.cfg CFGDEVICE/Status.cfg)
+CP(10inch/static/truck/Down.cfg CFGDEVICE/Down.cfg)
+CP(10inch/static/truck/Delay.cfg CFGDEVICE/Delay.cfg)
+CP(10inch/static/truck/Standby.cfg CFGDEVICE/Standby.cfg)
+CP(10inch/static/truck/Down2.cfg CFGDEVICE/Down2.cfg)
+CP(10inch/static/truck/Delay2.cfg CFGDEVICE/Delay2.cfg)
+CP(10inch/static/truck/Standby2.cfg CFGDEVICE/Standby2.cfg)
+CP(10inch/static/truck/Down3.cfg CFGDEVICE/Down3.cfg)
+CP(10inch/static/truck/Delay3.cfg CFGDEVICE/Delay3.cfg)
+CP(10inch/static/truck/Standby3.cfg CFGDEVICE/Standby3.cfg)
+#endif
+#if #class(excav)
+CP(10inch/static/excav/Status.cfg CFGDEVICE/Status.cfg)
+CP(10inch/static/excav/Down.cfg CFGDEVICE/Down.cfg)
+CP(10inch/static/excav/Delay.cfg CFGDEVICE/Delay.cfg)
+CP(10inch/static/excav/Standby.cfg CFGDEVICE/Standby.cfg)
+CP(10inch/static/excav/Down2.cfg CFGDEVICE/Down2.cfg)
+CP(10inch/static/excav/Delay2.cfg CFGDEVICE/Delay2.cfg)
+CP(10inch/static/excav/Standby2.cfg CFGDEVICE/Standby2.cfg)
+CP(10inch/static/excav/Down3.cfg CFGDEVICE/Down3.cfg)
+CP(10inch/static/excav/Delay3.cfg CFGDEVICE/Delay3.cfg)
+CP(10inch/static/excav/Standby3.cfg CFGDEVICE/Standby3.cfg)
+#endif
+#if #class(auxil)
+CP(10inch/static/auxil/Status.cfg CFGDEVICE/Status.cfg)
+CP(10inch/static/auxil/Down.cfg CFGDEVICE/Down.cfg)
+CP(10inch/static/auxil/Delay.cfg CFGDEVICE/Delay.cfg)
+CP(10inch/static/auxil/Standby.cfg CFGDEVICE/Standby.cfg)
+CP(10inch/static/auxil/Down2.cfg CFGDEVICE/Down2.cfg)
+CP(10inch/static/auxil/Delay2.cfg CFGDEVICE/Delay2.cfg)
+CP(10inch/static/auxil/Standby2.cfg CFGDEVICE/Standby2.cfg)
+CP(10inch/static/auxil/Down3.cfg CFGDEVICE/Down3.cfg)
+CP(10inch/static/auxil/Delay3.cfg CFGDEVICE/Delay3.cfg)
+CP(10inch/static/auxil/Standby3.cfg CFGDEVICE/Standby3.cfg)
+#endif

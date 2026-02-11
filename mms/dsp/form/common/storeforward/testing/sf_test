@@ -1,0 +1,219 @@
+Start_test() {
+/dsp/bin/mms keypad batch : $datafile $debug_level $pause_time << 'EOF'
+...................................................................
+.. MySQL code
+...................................................................
+.def  skMySqlBinDir       "/usr/bin"
+.def  skMySqlBinary       ( skMySqlBinDir )[%s/mysql]
+.def  skMsHostName        GETENV("HOSTNAME",0)                 .. mysql machine - client specific
+.def  skMsDatabase        "prism"               .. mysql database name
+.def  skMsUserName        "prism"
+.def  skMsPasswd          "prism"
+.def  skMsQueryFileLoc     GETENV("DSP_CLIENT", 0)[%a/com]       .. directory of where utility files/logs/errors are
+.def  skMsErrorsPre       "sftest_err_"          .. prefix for file name for my sql error files
+.def  skMsResultPre       "sftest_rslt_"          .. prefix for file name for my sql result files
+..
+.expr GetDateForFileName() (
+      DECODE( CLOCK[%h], "%d:%d:%d", i_tempHour, i_tempMinute, i_tempSeconds ),
+      s_hrMinSec := (int i_tempHour, int i_tempMinute, int i_tempSeconds)[%02d_%02d_%02d],
+      return( (int CLOCK.1, int CLOCK.2, int CLOCK.3, s_hrMinSec)[%02d%02d%02d_%s] )
+      )
+..
+.vint iFd
+.vstr sErrorsFile
+.vstr sResultFile
+..
+.init s_Clock     := GetDateForFileName,
+      s_User      := str nvl( GETENV("USER",0), "nouser" ),
+      sErrorsFile := ( skMsQueryFileLoc, skMsErrorsPre, s_User, s_Clock )[%s/%s%s_%s.txt],
+      sResultFile := ( skMsQueryFileLoc, skMsResultPre, s_User, s_Clock )[%s/%s%s_%s.txt]
+..
+.expr MySQLQuery(s_sqlQuery) (
+      i_sqlQuerySent := 0,
+      (iFd := OPEN( (skMySqlBinary, skMsHostName, skMsUserName, skMsPasswd, skMsDatabase, sResultFile, sErrorsFile)\
+                    [| %s -N -h%s -u%s -p%s %s > %s 2> %s], "w" )),
+      iFd ?
+        (
+        WRITE(iFd, s_sqlQuery),
+..        WRITE(iFd, "\\ngo"),
+..        WRITE(iFd, "\\nexit"),         .. not sure if this is needed...
+        CLOSE(iFd),
+        i_sqlQuerySent := 1
+        ),
+      return(i_sqlQuerySent)    .. an error may have been written to sErrorsFile
+      )
+..
+..
+.. This is used when no database name is required, eg: for CREATE DATABASE... sql statements
+..
+.expr MySQLQueryNoDbName(s_sqlQuery) (
+      i_sqlQuerySent := 0,
+      (iFd := OPEN( (skMySqlBinary, skMsHostName, skMsUserName, skMsPasswd, sResultFile, sErrorsFile)\
+                    [| %s -N -h%s -u%s -p%s > %s 2> %s], "w" )),
+      iFd ?
+        (
+        WRITE(iFd, s_sqlQuery),
+        CLOSE(iFd),
+        i_sqlQuerySent := 1
+        ),
+      return(i_sqlQuerySent)    .. an error may have been written to sErrorsFile
+      )
+..
+..
+.. Use this in the case where the length of your sql statement is longer than a Forms string
+.. can handle. Pass 4 strings, which will all be joined up in this expression to create 1 sql statement.
+.. Eg: MySQLQuery4( "SELECT * ", "FROM Tests ", "WHERE passed=0;", "" )
+..
+.expr MySQLQuery4(s_sqlQuery1, s_sqlQuery2, s_sqlQuery3, s_sqlQuery4) (
+      i_sqlQuerySent := 0,
+      (iFd := OPEN( (skMySqlBinary, skMsHostName, skMsUserName, skMsPasswd, skMsDatabase, sResultFile, sErrorsFile)\
+                    [| %s -N -h%s -u%s -p%s %s > %s 2> %s], "w" )),
+      iFd ?
+        (
+        WRITE(iFd, s_sqlQuery1 + s_sqlQuery2, s_sqlQuery3 + s_sqlQuery4),
+        CLOSE(iFd),
+        i_sqlQuerySent := 1
+        ),
+      return(i_sqlQuerySent)    .. an error may have been written to sErrorsFile
+      )
+..
+...................................................................
+..
+.vstr INPF(v_lcase)
+.vint DEBUG
+.vstr sDevice
+.vstr sCommand
+.vint pause_time
+.vbool pause_all
+..
+.expr run (
+  PRINTF(CLOCK[STARTING TEST RUN AT %h\n]),
+  PSW$OPEN( "", str GETENV("PSWD", 0) ),
+..  loop()
+..(
+    fd_field := OPEN( INPF, "lr"),
+    DEBUG >= 1 ?
+      PRINTF("file:%s  fpointer:%d\n",INPF,fd_field),
+    fd_field = nil ?
+    (
+      PRINTF("can't open file %s\n", INPF),
+      break
+    ),
+    DEBUG >= 1 ?
+      PRINTF("File opened, reading...\n"),
+    loop( READ( fd_field, "%s\t%s\t%s\n", stype, sDevice, sCommand).* )
+  ..(
+      DEBUG = 0 ?
+        PRINTF("."),
+      DEBUG >= 2 ?
+        PRINTF("Line- stype:%s  sDevice:%s  sCommand:%s\n",stype,sDevice,sCommand),
+      stype = "FIELD" | stype = "FIELDNS" ?
+      (
+        sDevice > "" & sCommand > "" ?
+        (
+          PSW$CONSOLE((sDevice, sCommand)[From %s: %s\n]),
+          PSW$BIND(sDevice),
+          PSW$INPUT(sCommand),
+          DECODE(sCommand,"%s %256s", sRpc, sArgs),
+          DEBUG >= 1 ?
+            PRINTF("%s- sDevice:%s  sRpc:%s  sArgs:%s\n",stype,sDevice,sRpc,nvl(sArgs,"-1")),
+.. we don't want to FIELDNS events to be put in RPCSPL table
+          stype = "FIELD" ?
+            MySQLQuery( ("INSERT INTO RPCSPL \(HOST,RPC,DATA,EVTTIME\)", \
+                         sDevice, sRpc, nvl(sArgs,"-1"))\
+                         [%s VALUES \(\'%s\',\'%s\',\'%s\',NOW())]
+                      ),
+          WAIT := pause_time 
+        )
+      ) :
+      stype = "SPOOL" ?
+      (
+        sDevice > "" & sCommand > "" ?
+        (
+          DECODE(sCommand,"%s %256s", sRpc, sArgs),
+          DEBUG >= 1 ?
+            PRINTF("SPOOL- sDevice:%s  sRpc:%s  sArgs:%s\n",sDevice,sRpc,nvl(sArgs,"-1")),
+          MySQLQuery( ("INSERT INTO RPCSPL \(HOST,RPC,DATA,EVTTIME\)", \
+                       sDevice, sRpc, nvl(sArgs,"-1"))\
+                       [%s VALUES \(\'%s\',\'%s\',\'%s\',NOW())]
+                    ),
+          WAIT := pause_time 
+        )
+      ) :
+      stype = "WAIT" ?
+      (
+        DEBUG >= 1 ?
+          PRINTF("WAIT for %d seconds\n",int sDevice),
+        WAIT := int sDevice
+      ) 
+.. This won't work due to fact we are running script
+..      stype = "PAUSE" ?
+..      (
+..        pause_str := ASK("s","Execution Paused. Press Enter to continue.")
+..      ) :
+.. this is superseded by script argument
+..      stype = "PAUSEALL" ?
+..      (
+..        pause_all := 1,
+..        pause_time := int sDevice
+..      )
+    ),
+    CLOSE(fd_field)
+  )
+..  )
+..
+.init (
+..  INPF := "/mms/dsp/cli/syslab2/com/test.dat",
+  INPF := ARGV.1,
+  DEBUG := ARGV.2,
+  pause_time := ARGV.3,
+  pause_all := 0,
+  PRINTF("Debug level:%d\n",DEBUG),
+  run,
+  DEBUG = 0 ?
+    PRINTF("\n"),
+  PRINTF("Test Done!Exiting...\n")
+  )
+..
+EOF
+
+}
+
+mmspid=none
+
+killchild()
+{
+	kill $mmspid
+	exit
+}
+
+trap killchild INT TERM QUIT
+
+if [ X$1 = X ]
+then
+  echo "no args"
+  echo "Enter path and name of data file"
+  exit 1
+fi
+datafile="$1"
+
+if [ X$2 = X ]
+then
+debug_level=0
+else
+debug_level=$2
+fi
+
+if [ X$3 = X ]
+then
+pause_time=1
+else
+pause_time=$3
+fi
+
+Start_test &
+mmspid=$!
+wait $mmspid
+sleep 4
+exit
+

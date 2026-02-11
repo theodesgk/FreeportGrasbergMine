@@ -1,0 +1,223 @@
+Communication Error: Servo Controller	1476461044
+Communication Error: Lh Engine Controller	1476461054
+Communication Error: Servo Controller	1476461055
+Communication Error: Rh Engine Controller	1476461064
+Communication Error: Auxiliary Controller	1476461074
+Communication Error: Lh J1939 Engine Bus	1476461084
+Communication Error: Rh J1939 Engine Bus	1476461094
+Slew Circuit Temperature Too High (2B19)	1476461724
+Sensor Hydraulic Oil Min 1 Tank (2B10)	1476462014
+Fuse - Viq Servo Control Icn-V (2F5)	1476462044
+Fuse - Vim / Ip On Drive Control Lh Cpu (3F2)	1476462054
+Fuse - Vim / Ip On Drive Control Rh Cpu (4F2)	1476462064
+Fuse - Diesel Engine Lh (3F7)	1476462074
+Fuse - Diesel Engine Rh (4F7)	1476462084
+Fuse - Vim / Ip On Auxiliary System Cpu (5F2)	1476462094
+The Servo Controller Has No Parameters Set - Please Apply To Defaults Manually	1476462144
+Short Circuit At Sensor Servo Pressure 50 Bar (2B33)	1476462176
+Cable Break At Sensor Servo Pressure 50 Bar (2B33)	1476462178
+Cable Break At Sensor Prop Press Slew Left (2B31)	1476462180
+Short Circuit At Sensor Prop Press Slew Left (2B31)	1476462182
+Cable Break At Sensor Prop Press Slew Right (2B32)	1476462184
+Short Circuit At Sensor Prop Press Slew Right (2B32)	1476462186
+Short Circuit At Pressure Sensor Of Balance Valve 1-X1 (2B39)	1476462190
+Short Circuit At Pressure Sensor Of Balance Valve 1-X2 (2B41)	1476462194
+Cable Break At Pressure Sensor Of Balance Valve 2-X1 (2B42)	1476462195
+Short Circuit At Pressure Sensor Of Balance Valve 2-X1 (2B42)	1476462196
+Cable Break At Pressure Sensor Of Balance Valve 2-X2 (2B43)	1476462197
+Short Circuit At Pressure Sensor Of Balance Valve 2-X2 (2B43)	1476462198
+Cable Break At Pressure Sensor Of Balance Valve 3-X1 (2B44)	1476462199
+Short Circuit At Pressure Sensor Of Balance Valve 3-X1 (2B44)	1476462200
+Cable Break At Pressure Sensor Of Balance Valve 3-X2 (2B45)	1476462201
+Short Circuit At Pressure Sensor Of Balance Valve 3-X2 (2B45)	1476462202
+Safety Relevant Warning: Slewing Will Be Disabled After 48 Hours	1476462203
+Servo Controller - No Ground For Slot D Of Output Baby Board	1476462204
+Servo Controller - Sil Hand Lever Error(Hand Lever Canbuscan Controller)	1476462205
+Oc Sc To Ground Sc To Power Mechanical Failure Of Slew Brake Switch (2S3)	1476462206
+Short Circuit To Power Of Slew Brake Valve (2Y23) Or (2Y23) Stick To P Or (2B36) Has High (Max) Val	1476462207
+Cable Break At Pressure Senor Slew Park Brake Pressure (2B36) Mounted On Block A3 Directly	1476462208
+Short Circuit At Pressure Senor Slew Park Brake Pressure (2B36) Mounted On Block A3 Directly	1476462209
+Oc Sc To Ground Sc To Power Of Ladder Top Position Switch (2B2)	1476462210
+Failure Of Service Lift Top Position Prox Switch (2B38) And/Or Pressure Switch (2B1)	1476462211
+Cable Break At Servo Pressure 35Bar (2B7)	1476462212
+Short Circuit At Servo Pressure 35Bar (2B7)	1476462213
+No Detectable Servo Pressure Supply No Pump Flow Or Defective Servo Valve (2Y18)	1476462214
+Servo Pressure Supply Permanent Present (2Y18) Defective Or Servo Pressure Sensor 35 Bar (2B7) Def	1476462215
+High Pressure At Swing Pilot Valve (2B31) (2B32)	1476462216
+Low Pressure At Swing Pilot Valve (2B31) (2B32)	1476462217
+Cable Break At Swing Servo Pressure Sensors (2B19) (2B32)	1476462218
+Short Circuit At Swing Servo Pressure Sensors (2B19) (2B32)	1476462219
+Cable Break At Servo Pressure 50Bar (130)	1476462220
+Short Circuit At Servo Pressure 50Bar (130)	1476462221
+Defective Pressure Reducing Valve 50Bar (130) Or Defective Pressure Sensor 50 Bar (2B33)	1476462222
+(2Y30)(2Y31) Or (2B39)(2B41)	1476462223
+Safety Relevant Error: Slewing Is Disabled	1476462224
+Internal Error Of Servo Controller	1476462225
+Pressure Reducing Valve 35Bar (41) Stick To Tank Side	1476462226
+Unexpected High Pressure Supply At Swing Pump Control Releasing Valve (X1/X2)	1476462227
+Cable Break At Pressure Sensor Swing Pump Control (2B39) (2B41)	1476462228
+Short Circuit At Pressure Sensor Swing Pump Control (2B39) (2B41)	1476462229
+(2Y32) (2Y33) Or - (2B42) (2B43)	1476462230
+(2Y32) (2Y33) Or (2B44) (2B45)	1476462231
+Short Circuit To Power At Ladder And Service Lift Down Override Switch (2S5)	1476462232
+Cyclic Test Of Seat Switch Switch Did Not Open Within 24H	1476462233
+Communication Error: Can Safety Bus Off	1476462234
+Sil Safe Stop Sequence In Progress	1476462235
+Development Software Release On Servo Controller Update Servo Controller	1476462237
+Servo Controller Is Out Of Temperature Range	1476462238
+Cable Break At Main Pump 1 Pressure Sensor (3B22)	1476462244
+Short Circuit At Main Pump 1 Pressure Sensor (3B22)	1476462254
+Cable Break At Main Pump 2 Pressure Sensor (3B23)	1476462264
+Short Circuit At Main Pump 2 Pressure Sensor (3B23)	1476462274
+Cable Break At Main Pump 3 Pressure Sensor (4B22)	1476462284
+Short Circuit At Main Pump 3 Pressure Sensor (4B22)	1476462294
+Cable Break At Main Pump 4 Pressure Sensor (4B23)	1476462304
+Short Circuit At Main Pump 4 Pressure Sensor (4B23)	1476462314
+Cable Break At Main Pump 5 Pressure Sensor (3B24)	1476462315
+Short Circuit At Main Pump 5 Pressure Sensor (3B24)	1476462316
+Short Circuit At Main Pump 6 Pressure Sensor (3B25)	1476462317
+Short Circuit At Main Pump 6 Pressure Sensor (3B25)	1476462318
+Cable Break At Main Pump 7 Pressure Sensor (4B24)	1476462319
+Short Circuit At Main Pump 7 Pressure Sensor (4B24)	1476462320
+Cable Break At Main Pump 8 Pressure Sensor (4B25)	1476462321
+Short Circuit At Main Pump 8 Pressure Sensor (4B25)	1476462322
+Cable Break At Servo Control Pressure (2B7)	1476462324
+Short Circuit At Servo Control Pressure (2B7)	1476462334
+Cable Break At Swing Pressure Right 1 (2B17)	1476462344
+Short Circuit At Swing Pressure Right 1 (2B17)	1476462354
+Cable Break At Swing Pressure Right 2 (2B18)	1476462364
+Short Circuit At Swing Pressure Right 2 (2B18)	1476462374
+Cable Break At Swing Pressure Right 3 (2B37)	1476462375
+Short Circuit At Swing Pressure Right 3 (2B37)	1476462376
+Cable Break At Swing Pressure Left 1 (2B46)	1476462377
+Short Circuit At Swing Pressure Left 1 (2B46)	1476462378
+Cable Break At Swing Pressure Left 2 (2B47)	1476462379
+Short Circuit At Swing Pressure Left 2 (2B47)	1476462380
+Cable Break At Swing Pressure Left 3 (2B48)	1476462381
+Short Circuit At Swing Pressure Left 3 (2B48)	1476462382
+Cable Break At Slew Circuit Temperature (2B19)	1476462384
+Short Circuit At Slew Circuit Temperature (2B19)	1476462394
+Cable Break At Hydraulic Oil Filter 1 (2B8)	1476462404
+Short Circuit At Hydraulic Oil Filter 1 (2B8)	1476462414
+Cable Break At Hydraulic Oil Filter 2 (2B9)	1476462424
+Short Circuit At Hydraulic Oil Filter 2 (2B9)	1476462434
+Lh Coolant Temperature Too High Sae	1476462634
+Lh Engine Oil Pressure - Sae	1476462654
+Lh Fuel Temperature Too High - Sae	1476462764
+Lh - Hydraulic Oil Temp Above 85 Degree Celsius (3B10)	1476462784
+Lh - Pto Temperature Too High (3B11)	1476462794
+Cable Break At Lh Hydraulic Oil Temp (3B10)	1476463134
+Short Circuit At Lh Hydraulic Oil Temp (3B10)	1476463144
+Cable Break At Lh Sensor Temp Pto (3B11)	1476463154
+Short Circuit At Lh Sensor Temp Pto (3B11)	1476463164
+Cable Break At Lh Charge Pressure Slew Circuit (3B12)	1476463174
+Short Circuit At Lh Charge Pressure Slew Circuit (3B12)	1476463184
+Cable Break At Lh Pump Control Pressure (3B13)	1476463194
+Short Circuit At Lh Pump Control Pressure (3B13)	1476463204
+Cable Break At Lh Fuel Level Sensor (3B9)	1476463214
+Short Circuit At Lh Fuel Level Sensor (3B9)	1476463224
+Lh Cable Break Prop Pump 1	1476463234
+Cable Break Prop Pump 1	1476463244
+Cable Break At Lh Hydr Fan Regulation Valve (3Y3)	1476463274
+Cable Break At Lh Water Fan Regulation Valve (3Y2)	1476463284
+Lh Cable Break At Oil Pressure Sensor	1476463294
+Lh Short Circuit At Engine Oil Pressure Sensor	1476463304
+Lh Waterlevel Diesel Engine (3B1)	1476463324
+Contamination Main Pump 1 (3B2)	1476463334
+Contamination Main Pump 2 (3B3)	1476463344
+Pto Oil Level Error (3B17)	1476463354
+Lh - Contamination Slew Pump 1 (3B6)	1476463364
+Lh - Contamination Slew Pump 2 (3B7)	1476463374
+Lh - Contamination Pto (3B8)	1476463384
+Lh - Slew Pump 1 Temp High (3B14)	1476463394
+Lh - Slew Pump 2 Temp High (3B15)	1476463404
+Lh Contamination Air Filter 1 (3B20)	1476463424
+Lh Shut Off Valve Hyd Oil Tank Left Closed (3B18)	1476463454
+Lh Shut Off Valve Hyd Oil Tank Top Closed (3B19)	1476463464
+Contamination Main Pump 5 (3B4)	1476463474
+Lh - Fuse Viq Drive Control Cpu	1476463504
+Lh - Fuse Viq Drive Control I/O	1476463514
+Lh Cable Break At Water Temperature Sensor	1476463524
+Lh Short Circuit At Water Temperature Sensor	1476463534
+Rh Coolant Temperature Too High Sae	1476463634
+Rh Engine Oil Pressure - Sae	1476463654
+Rh Fuel Temperature Too High - Sae	1476463764
+Rh - Hydraulic Oil Temp Above 100 Degree Celsius (4B10)	1476463784
+Rh - Pto Temperature Too High (4B11)	1476463794
+Cable Break At Rh Hydraulic Oil Temp (4B10)	1476464134
+Short Circuit At Rh Hydraulic Oil Temp (4B10)	1476464144
+Cable Break At Rh Sensor Temp Pto (4B11)	1476464154
+Short Circuit At Rh Sensor Temp Pto (4B11)	1476464164
+Cable Break At Rh Charge Pressure Slew Circuit (4B12)	1476464174
+Short Circuit At Rh Charge Pressure Slew Circuit (4B12)	1476464184
+Short Circuit At Rh Pump Control Pressure (4B13)	1476464204
+Cable Break At Rh Fuel Level Sensor (4B9)	1476464214
+Short Circuit At Rh Fuel Level Sensor (4B9)	1476464224
+Rh Cable Break Prop Pump 1	1476464234
+Cable Break At Rh Hydr Fan Regulation Valve (4Y3)	1476464274
+Cable Break At Lh Water Fan Regulation Valve (4Y2)	1476464284
+Rh Cable Break At Oil Pressure Sensor	1476464294
+Rh Short Circuit At Oil Pressure Sensor	1476464295
+Rh - Waterlevel Dieselengine (4B1)	1476464324
+Rh - Contamination Mainpump 3 (4B2)	1476464334
+Rh - Contamination Mainpump 4 (4B3)	1476464344
+Error Pvg Gearbox Level Rh	1476464354
+Rh - Contamination Slew Pump 3 (4B6)	1476464364
+Rh - Contamination Slew Pump 4 (4B7)	1476464374
+Rh - Contamination Pto (4B8)	1476464384
+Rh - Slew Pump 4 Temp High (4B15)	1476464404
+Rh - Contamination Air Filter 1 (4B20)	1476464424
+Cable Break At Lh Servo Pump Regulation Valve	1476464444
+Shut Off Valve Hyd Oil Tank Right Closed (4B18)	1476464454
+Rh Shut Off Valve Hyd Oil Tank Top Closed (4B19)	1476464464
+Rh - Fuse Viq Drive Control Cpu	1476464504
+Rh - Fuse Viq Drive Control I/O	1476464514
+Rh Cable Break At Water Temperature Sensor	1476464524
+Rh Short Circuit At Water Temperature Sensor	1476464534
+Upc Lubrication Error Shovel Cylinder Cutoff	1476464584
+Upc Line A Initiator 1 Fault	1476464594
+Upc Line A Initiator 2 Fault	1476464604
+Upc Line B Initiator 1 Fault	1476464614
+Upc Line B Initiator 2 Fault	1476464624
+Upc Line A Pressure Fault	1476464634
+Upc Line B Pressure Fault	1476464644
+Error Lube Unc Lincoln	1476464674
+Cable Break At Lubrication Upc Pressure Sensor (5B6)	1476464744
+Short Circuit At Lubrication Upc Pressure Sensor (5B6)	1476464754
+Contamination Lube Pump (5B4)	1476464974
+Fuse Viq Auxiliary System Cpu (5F1)	1476465044
+Fuse Viq Auxiliary System I/O (5F6)	1476465054
+Contamination Slew Motor 1 (5B9)	1476465064
+Contamination Slew Motor 2 (5B10)	1476465074
+Contamination Slew Motor 3 - 5B11	1476465084
+Contamination Slew Motor 4 (5B12)	1476465094
+Grease Container 1 Empty (5B13)	1476465104
+Grease Container 2 Empty (5B14)	1476465114
+Cable Break At Valve Bucket Fill Pwm1 (2Y1)	1476465544
+Cable Break At Valve Bucket Discharge Pwm2 (2Y2)	1476465554
+Cable Break At Valve Boom Drop Control Slide Pwm3 (2Y3)	1476465564
+Cable Break At Valve Boom Retract Float Pwm4 (2Y4)	1476465574
+Cable Break At Valve Boom Extend Control Slide Pwm5 (2Y5)	1476465584
+Cable Break At Valve Stick Retract Control Slide Pwm6 (2Y6)	1476465594
+Cable Break At Valve Stick Retract Float Pwm7 (2Y7)	1476465604
+Cable Break At Valve Stick Extend Control Slide Pwm8 (2Y8)	1476465614
+Cable Break At Valve Clam Close/Extend Pwm10 (2Y10)	1476465634
+Cable Break At Valve Drive Right Backward Pwm11 (2Y11)	1476465644
+Cable Break At Valve Drive Right Forward Pwm12 (2Y12)	1476465654
+Cable Break At Valve Drive Left Backward Pwm13 (2Y13)	1476465664
+Cable Break At Valve Swing Left Pwm15 (2Y15)	1476465684
+Cable Break At Valve Swing Right Pwm16 (2Y16)	1476465694
+Error Hand Lever Left	1476465744
+Error Hand Lever Right	1476465754
+Error Food Pedal Left	1476465764
+Error Food Pedal Center	1476465774
+Error Food Pedal Right	1476465784
+Lh - Contamination Mainpump 1 (3B2)	1476488445
+Lh - Contamination Mainpump 2 (3B3)	1476488545
+Error Pvg Gearbox Level Lh	1476488645
+Pto Oil Level Error (4B19)	1476498645
+Rh - Slew Pump 3 Temp High (4B14)	1476499045
+OEM Interface Timeout	1476526048
+OEM Interface Normal	1476526049
+Driver Interface Timeout	1476526050
+Driver Interface Normal	1476526051

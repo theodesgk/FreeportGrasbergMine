@@ -1,0 +1,117 @@
+218169345	Brake Pedal State 	0	0	0
+218169346	Ground Speed	205.2	0	11
+218169347	Front to Rear Incline	10.5	-10.5	25
+218169348	Left to Right Incline	10.5	-10.5	25
+218169349	Left Front Strut Pressure	451847.9	0	9
+218169350	Right Front Strut Pressure	451847.9	0	9
+218169351	Left Rear Strut Pressure	451847.9	0	9
+218169352	Right Rear Strut Pressure	451847.9	0	9
+218169353	Payload	5944.02	0	18
+218169354	Alternator Temperature	205	-50	5
+218169355	Road Speed	205.2	0	11
+218169356	Retard Pedal Position	102	0	25
+218169357	Throttle Position	102	0	25
+218169358	Transmission Range Attained	0	0	0
+218169359	Motor A Temperature	205	-50	5
+218169360	Motor B Temperature	205	-50	5
+218169361	Brake coolant temp	180	0	5
+218169362	Steer Oil Temperature	180	0	5
+218169363	Hoist Oil Temperature	180	0	5
+218169364	Brake/Steer Oil Pressure	30000	0	9
+218169365	Machine Hours	65535	0	7
+218169366	Fuel Level	127.5	0	25
+218169367	Loaded	1	0	0
+218169368	Dumping	1	0	0
+218169369	Empty	1	0	0
+218169370	Body Up Switch 	1	0	0
+218169371	Park Brake On	1	0	0
+218169372	Hydraulic Filter 1 Dirty or Switch Error	1	0	0
+218169373	Hydraulic Filter 2 Dirty or Switch Error	1	0	0
+218169374	Steering Filter Dirty or Switch Error 	1	0	0
+218169375	Air Filter Dirty or Switch Error	1	0	0
+218169376	Central Warning Alarm	1	0	0
+218169377	Retard	0	0	0
+218169378	Vehicle hours	2625792	0	7
+218169379	Vehicle miles	373221534	0	8
+218169380	Park Brake Malfunction - P/B Request Off	1	0	0
+218169381	Park Brake Malfunction - P/B Request On	1	0	0
+218169382	Load Dump Brake Switch	1	0	0
+218169383	Park Brake Request Switch	1	0	0
+218169384	Accum 1 Pressure	451847.9	0	9
+218169385	Accum 2 Pressure	451847.9	0	9
+218169386	Hoist Pressure	451847.9	0	9
+218171344	Extended Range Fuel Pressure	1024	0	9
+218171345	Extended Range Engine Oil Pressure	1000	0	9
+218171346	Extended Range Coolant Pressure	512	0	9
+218171347	Attentn/Warning Lamps Status(Eng 1)	255	0	0
+218171348	Attentn/Warning Lamps Status(Eng 2)	255	0	0
+218171349	Extended Range Barometric Pressure	153	0	9
+218171351	Engine Intercooler Temperature 	124	0	5
+218171352	Torque Limiting Factor	127.5	0	25
+218171353	Parking Brake Switch Status	255	0	0
+218171354	Idle Shutdown Timer Function	1	0	0
+218171355	Idle Shutdown Timer Status	1	0	0
+218171356	Blower Bypass Valve Position	102	0	25
+218171357	Auxiliary Water Pump Pressure	3516	0	9
+218171358	Exhaust Back Pressure	45	0	9
+218171359	Vehicle Speed Limit Status	1	0	0
+218171360	Vehicle Speed	205	0	11
+218171361	Cruise Control Set Speed	205	0	11
+218171362	Percent Throttle	102	0	25
+218171363	Percent Engine Load	125	0	25
+218171364	Output Torque	3444	-3471	24
+218171365	Fuel Delivery Pressure	880	0	9
+218171366	Fuel Filter Differential Pressure	440	0	9
+218171367	Engine Oil Level	125	0	25
+218171368	Oil Filter Differential Pressure	110	0	9
+218171369	Engine Oil Pressure	450	0	9
+218171370	Crankcase Pressure (Blowby)	220	0	9
+218171371	Turbo Boost Pressure (Gauge)	220	0	9
+218171372	Turbo Speed	127500	0	28
+218171373	Intake Manifold Temperature	124	0	5
+218171374	Air Inlet Pressure	440	0	9
+218171375	Air Filter Differential Pressure	2.5296	0	9
+218171376	Barometric Pressure	110	0	9
+218171377	Coolant Pressure	220	0	9
+218171378	Coolant Temperature	124	0	5
+218171379	Coolant Level	100	0	25
+218171380	Engine Governor Droop	511	0	28
+218171381	Engine Retarder Percent	125	0	25
+218171382	Crankcase Pressure (High Resolution)	255	-256	9
+218171383	Auxiliary Input/Output Status #2	65535	0	0
+218171384	Auxiliary Input/Output Status #1	65535	0	0
+218171385	Transmission Range Selected	15	0	0
+218171386	Transmission Range Attained	15	0	0
+218171387	Injection Control Pressure	255	0	22
+218171388	Engine Horsepower Rating	48869.4495	0	12
+218171389	Battery Voltage	3275	0	31
+218171390	Ambient Air Temperature	4500	-273	5
+218171391	Air Inlet Temperature	80	-40	5
+218171392	Exhaust Temperature	4500	-273	5
+218171393	Fuel Temperature	80	-40	5
+218171394	Engine Oil Temperature	149	-30	5
+218171395	Trip Fuel	31000	0	14
+218171396	Fuel Rate	60.5184	0	13
+218171397	Instantaneous Fuel Economy	235.214584	0	15
+218171398	Average Fuel Economy	235.214584	0	15
+218171399	VSG Set Speed	16400	0	28
+218171400	Idle Set Speed	16383.75	0	28
+218171401	Rated Engine Speed	16383.75	0	28
+218171402	Engine Speed	16400	0	28
+218171403	Transmission Output Shaft Speed	16400	0	28
+218171404	Unit Number (Power Unit)	0	0	0
+218171405	Software Identification	0	0	0
+218171406	Total Idle Hours	214748364.8	0	7
+218171407	Total Idle Fuel Used	2032056401.5415	0	14
+218171408	Vehicle Identification Number (VIN)	0	0	0
+218171409	Last Customer Change Hours	214748364.8	0	7
+218171410	Device Identification	0	0	0
+218171411	Trip Miles	373221534	0	8
+218171412	Total Miles	373221534	0	8
+218171413	Total Engine Hours	214748364.8	0	7
+218171414	Total VSG Hours	214748364.8	0	7
+218171415	Total Engine Revolutions	10000000000	0	27
+218171416	Total Fuel Used	2032056401.5415	0	14
+218171417	Brake Pedal Pressed	1	0	0
+218171418	Turbo Compressor Temperature Out	4500	-273	5
+218171419	Lube Pressure Switch 	1	0	0

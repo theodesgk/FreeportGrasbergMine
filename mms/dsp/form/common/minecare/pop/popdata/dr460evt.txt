@@ -1,0 +1,44 @@
+OEM interface Timeout	889323488
+OEM interface Normal	889323489
+Driver interface Timeout	889323490
+OEM interface Normal	889323491
+Hole Start	889257984
+Hole End	889257985
+Left Rear Jack Inductive - inactive	889258240
+Left Rear Jack Inductive - active	889258241
+Right Rear Jack Inductive - inactive	889258242
+Right Rear Jack Inductive - active	889258243
+Front Jacks Up Inductive - inactive	889258244
+Front Jacks Up Inductive - active	889258245
+Tram Mode Selector Switch - inactive	889258246
+Tram Mode Selector Switch - active	889258247
+Compressor temperature and pressure switch - inactive	889258250
+Compressor temperature and pressure switch - active	889258251
+Rotation pump pressure signal - inactive	889258608
+Rotation pump pressure signal - active	889258609
+Rotation pump pressure signal - inactive	889258610
+Rotation pump pressure signal - active	889258611
+Rotation pump pressure signal - inactive	889258612
+Rotation pump pressure signal - active	889258613
+Rotary speed signal - inactive	889258832
+Rotary speed signal - active	889258833
+Pitch Angle Signal - inactive	889259120
+Pitch Angle Signal - active	889259121
+Roll Angle Signal - inactive	889259122
+Roll Angle Signal - active	889259123
+Mast Angle Signal - inactive	889259124
+Mast Angle Signal - active	889259125
+Rotary Head Position Signal - inactive	889259376
+Rotary Head Position Signal - active	889259377
+Protect Lamp - inactive	889260800
+Protect Lamp - active	889260801
+Amber Warning Lamp - inactive	889260804
+Amber Warning Lamp - active	889260805
+Red Stop Lamp - inactive	889260808
+Red Stop Lamp - active	889260809
+Malfunction Indicator Lamp - inactive	889260812
+Malfunction Indicator Lamp - active	889260813
+Water in Fuel - inactive	889260926
+Water in Fuel - active	889260927
+OEM Version Mismatch - inactive	889261312
+OEM Version Mismatch - active	889261313

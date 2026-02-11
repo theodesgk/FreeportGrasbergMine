@@ -1,0 +1,132 @@
+587268097	Tire 1 Pressure	1530	0	9
+587268098	Tire 1 Cold Pressure	1530	0	9
+587268099	Tire 1 Temperature	215.5	-40	5
+587268100	Tire 1 Elapsed	1092.25	0	7
+587268101	Tire 1 HiPres Alert Trig 1	1530	0	9
+587268102	Tire 1 HiPres Alert Trig 2	1530	0	9
+587268103	Tire 1 LoPres Alert Trig 1	1530	0	9
+587268104	Tire 1 LoPres Alert Trig 2	1530	0	9
+587268105	Tire 1 HiTemp Alert Trig 1	215.5	-40	5
+587268106	Tire 1 HiTemp Alert Trig 2	215.5	-40	5
+587268107	Tire 1 Sensor ID	65535	0	0
+587268108	Tire 2 Pressure	1530	0	9
+587268109	Tire 2 Cold Pressure	1530	0	9
+587268110	Tire 2 Temperature	215.5	-40	5
+587268111	Tire 2 Elapsed	1092.25	0	7
+587268112	Tire 2 HiPres Alert Trig 1	1530	0	9
+587268113	Tire 2 HiPres Alert Trig 2	1530	0	9
+587268114	Tire 2 LoPres Alert Trig 1	1530	0	9
+587268115	Tire 2 LoPres Alert Trig 2	1530	0	9
+587268116	Tire 2 HiTemp Alert Trig 1	215.5	-40	5
+587268117	Tire 2 HiTemp Alert Trig 2	215.5	-40	5
+587268118	Tire 2 Sensor ID	65535	0	0
+587268119	Tire 3 Pressure	1530	0	9
+587268120	Tire 3 Cold Pressure	1530	0	9
+587268121	Tire 3 Temperature	215.5	-40	5
+587268122	Tire 3 Elapsed	1092.25	0	7
+587268123	Tire 3 HiPres Alert Trig 1	1530	0	9
+587268124	Tire 3 HiPres Alert Trig 2	1530	0	9
+587268125	Tire 3 LoPres Alert Trig 1	1530	0	9
+587268126	Tire 3 LoPres Alert Trig 2	1530	0	9
+587268127	Tire 3 HiTemp Alert Trig 1	215.5	-40	5
+587268128	Tire 3 HiTemp Alert Trig 2	215.5	-40	5
+587268129	Tire 3 Sensor ID	65535	0	0
+587268130	Tire 4 Pressure	1530	0	9
+587268131	Tire 4 Cold Pressure	1530	0	9
+587268132	Tire 4 Temperature	215.5	-40	5
+587268133	Tire 4 Elapsed	1092.25	0	7
+587268134	Tire 4 HiPres Alert Trig 1	1530	0	9
+587268135	Tire 4 HiPres Alert Trig 2	1530	0	9
+587268136	Tire 4 LoPres Alert Trig 1	1530	0	9
+587268137	Tire 4 LoPres Alert Trig 2	1530	0	9
+587268138	Tire 4 HiTemp Alert Trig 1	215.5	-40	5
+587268139	Tire 4 HiTemp Alert Trig 2	215.5	-40	5
+587268140	Tire 4 Sensor ID	65535	0	0
+587268141	Tire 5 Pressure	1530	0	9
+587268142	Tire 5 Cold Pressure	1530	0	9
+587268143	Tire 5 Temperature	215.5	-40	5
+587268144	Tire 5 Elapsed	1092.25	0	7
+587268145	Tire 5 HiPres Alert Trig 1	1530	0	9
+587268146	Tire 5 HiPres Alert Trig 2	1530	0	9
+587268147	Tire 5 LoPres Alert Trig 1	1530	0	9
+587268148	Tire 5 LoPres Alert Trig 2	1530	0	9
+587268149	Tire 5 HiTemp Alert Trig 1	215.5	-40	5
+587268150	Tire 5 HiTemp Alert Trig 2	215.5	-40	5
+587268151	Tire 5 Sensor ID	65535	0	0
+587268152	Tire 6 Pressure	1530	0	9
+587268153	Tire 6 Cold Pressure	1530	0	9
+587268154	Tire 6 Temperature	215.5	-40	5
+587268155	Tire 6 Elapsed	1092.25	0	7
+587268156	Tire 6 HiPres Alert Trig 1	1530	0	9
+587268157	Tire 6 HiPres Alert Trig 2	1530	0	9
+587268158	Tire 6 LoPres Alert Trig 1	1530	0	9
+587268159	Tire 6 LoPres Alert Trig 2	1530	0	9
+587268160	Tire 6 HiTemp Alert Trig 1	215.5	-40	5
+587268161	Tire 6 HiTemp Alert Trig 2	215.5	-40	5
+587268162	Tire 6 Sensor ID	65535	0	0
+587268163	Tire 7 Pressure	1530	0	9
+587268164	Tire 7 Cold Pressure	1530	0	9
+587268165	Tire 7 Temperature	215.5	-40	5
+587268166	Tire 7 Elapsed	1092.25	0	7
+587268167	Tire 7 HiPres Alert Trig 1	1530	0	9
+587268168	Tire 7 HiPres Alert Trig 2	1530	0	9
+587268169	Tire 7 LoPres Alert Trig 1	1530	0	9
+587268170	Tire 7 LoPres Alert Trig 2	1530	0	9
+587268171	Tire 7 HiTemp Alert Trig 1	215.5	-40	5
+587268172	Tire 7 HiTemp Alert Trig 2	215.5	-40	5
+587268173	Tire 7 Sensor ID	65535	0	0
+587268174	Tire 8 Pressure	1530	0	9
+587268175	Tire 8 Cold Pressure	1530	0	9
+587268176	Tire 8 Temperature	215.5	-40	5
+587268177	Tire 8 Elapsed	1092.25	0	7
+587268178	Tire 8 HiPres Alert Trig 1	1530	0	9
+587268179	Tire 8 HiPres Alert Trig 2	1530	0	9
+587268180	Tire 8 LoPres Alert Trig 1	1530	0	9
+587268181	Tire 8 LoPres Alert Trig 2	1530	0	9
+587268182	Tire 8 HiTemp Alert Trig 1	215.5	-40	5
+587268183	Tire 8 HiTemp Alert Trig 2	215.5	-40	5
+587268184	Tire 8 Sensor ID	65535	0	0
+587268185	Tire 9 Pressure	1530	0	9
+587268186	Tire 9 Cold Pressure	1530	0	9
+587268187	Tire 9 Temperature	215.5	-40	5
+587268188	Tire 9 Elapsed	1092.25	0	7
+587268189	Tire 9 HiPres Alert Trig 1	1530	0	9
+587268190	Tire 9 HiPres Alert Trig 2	1530	0	9
+587268191	Tire 9 LoPres Alert Trig 1	1530	0	9
+587268192	Tire 9 LoPres Alert Trig 2	1530	0	9
+587268193	Tire 9 HiTemp Alert Trig 1	215.5	-40	5
+587268194	Tire 9 HiTemp Alert Trig 2	215.5	-40	5
+587268195	Tire 9 Sensor ID	65535	0	0
+587268196	Tire 10 Pressure	1530	0	9
+587268197	Tire 10 Cold Pressure	1530	0	9
+587268198	Tire 10 Temperature	215.5	-40	5
+587268199	Tire 10 Elapsed	1092.25	0	7
+587268200	Tire 10 HiPres Alert Trig 1	1530	0	9
+587268201	Tire 10 HiPres Alert Trig 2	1530	0	9
+587268202	Tire 10 LoPres Alert Trig 1	1530	0	9
+587268203	Tire 10 LoPres Alert Trig 2	1530	0	9
+587268204	Tire 10 HiTemp Alert Trig 1	215.5	-40	5
+587268205	Tire 10 HiTemp Alert Trig 2	215.5	-40	5
+587268206	Tire 10 Sensor ID	65535	0	0
+587268207	Tire 11 Pressure	1530	0	9
+587268208	Tire 11 Cold Pressure	1530	0	9
+587268209	Tire 11 Temperature	215.5	-40	5
+587268210	Tire 11 Elapsed	1092.25	0	7
+587268211	Tire 11 HiPres Alert Trig 1	1530	0	9
+587268212	Tire 11 HiPres Alert Trig 2	1530	0	9
+587268213	Tire 11 LoPres Alert Trig 1	1530	0	9
+587268214	Tire 11 LoPres Alert Trig 2	1530	0	9
+587268215	Tire 11 HiTemp Alert Trig 1	215.5	-40	5
+587268216	Tire 11 HiTemp Alert Trig 2	215.5	-40	5
+587268217	Tire 11 Sensor ID	65535	0	0
+587268218	Tire 12 Pressure	1530	0	9
+587268219	Tire 12 Cold Pressure	1530	0	9
+587268220	Tire 12 Temperature	215.5	-40	5
+587268221	Tire 12 Elapsed	1092.25	0	7
+587268222	Tire 12 HiPres Alert Trig 1	1530	0	9
+587268223	Tire 12 HiPres Alert Trig 2	1530	0	9
+587268224	Tire 12 LoPres Alert Trig 1	1530	0	9
+587268225	Tire 12 LoPres Alert Trig 2	1530	0	9
+587268226	Tire 12 HiTemp Alert Trig 1	215.5	-40	5
+587268227	Tire 12 HiTemp Alert Trig 2	215.5	-40	5
+587268228	Tire 12 Sensor ID	65535	0	0

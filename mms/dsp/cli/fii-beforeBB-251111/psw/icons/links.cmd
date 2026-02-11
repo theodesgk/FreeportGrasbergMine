@@ -1,0 +1,9 @@
+junction .\Demo 640x480\Demo
+junction .\dozer 640x480\dozer
+junction .\grader 640x480\grader
+junction .\drill 640x480\drill
+junction .\excav 640x480\excav
+junction .\foreman 640x480\foreman
+junction .\lhd 640x480\lhd
+junction .\status 640x480\status
+junction .\truck 640x480\truck

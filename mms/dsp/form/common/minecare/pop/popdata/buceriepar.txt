@@ -1,0 +1,8 @@
+1812004865	Hole Depth	100	0	17
+1812004866	Rotary Torque	500	-500	2
+1812004867	Penetration Rate	0.5	0	11
+1812004868	Pull Down Force	700000	-700000	38
+1812004869	Rotary Speed	150	-150	28
+1812004870	Bit Air Pressure	1000	0	9
+1812004871	Horizontal Vibration	100	0	41
+1812004872	Vertical Vibration	100	0	41

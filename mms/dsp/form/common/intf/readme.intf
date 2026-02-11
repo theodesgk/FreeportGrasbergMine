@@ -1,0 +1,107 @@
+
+ ___________________________________________________________________
+|                                                                   |
+| NOTE: this utility is not completed; if used, modifications  will |
+| need  to  be  made  to some reports, histograms, graphs, etc., in |
+| order for them to run.                                            |
+|___________________________________________________________________|
+
+This utility currently handlles the following interfaces:
+- GE Statex III (DC motors)
+- GE TCI (AC motors - 930E)
+- Old MTU monitoring
+- Demag (With an ETM on board)
+- PLM II (PLM II has a monitoring side to it besides being a "weighing system",
+  dipper and final load RPCs should be handled in the same way we handle them
+  today in act_dispatch.frm)
+
+RPCs: They are part of the master rpc file /psw/etc/rpc
+
+Depending on which interface you are installing, add one or more of the lines
+below to your enum.c's ACTTBL table:
+
+For TCI, STATEX, PLMII and MTU monitoring:
+  { act_intfdiag,     0x01C1, fmtint }, /* ALARM */
+  { act_intfdata,     0x01C3, fmtint }, /* DATA */
+
+If you wish to use STATEX information to auto-assign a truck based on statex
+tray-up information. Note that if you wish to use this feature you must
+enable it at the interface level (refer to Software Engineering's documentation on
+Statex).
+  { act_statextray,    0x01C2, fmtint }, /* STATEX TRAYUP */
+
+For old MTU interface:
+  { act_intfdiag,     0x0250, fmtint }, /* MTU ALARM */
+  { act_intfdata,     0x0253, fmtint }, /* MTU DATA */
+
+For Demag interface:
+  { act_intfdiag,     0x0428, fmtint }, /* DEMAG ALARMS */
+
+For DDEC interface:
+  { act_intfdiag,  0X0142, fmtint }, /* new intf DDEC diag */
+  { act_intfdata,  0X0146, fmtint }, /* new intf DDEC data */
+
+For Cummins (CENSE) interface:
+  { act_intfdiag,  0X016F, fmtint   }, /* new intf Cummins DELTA */
+  { act_intfdata,  0X0170, fmtint   }, /* new intf Cummins DATA */
+  { act_intfdiag,  0X0171, fmtint   }, /* new intf Cummins DIAG */
+
+Add to your enum.c's ACTION table:
+  "Interface Data",         "INTFDA",        16,
+  "Interface Alarm",        "INTFAL",        16,
+
+Add to myenum.h:
+  #define act_intfdiag     MAXACTION+XX
+  #define act_intfdata     MAXACTION+XX
+  If using statex tray-up:
+  #define act_statextray   MAXACTION+XX
+  /* XX is the proper number for the action */
+
+Add to /dsp/cli/xxx/form/enum_action.frm
+  .equ act_intfdiag   act_last+XX
+  .equ act_intfdata   act_last+XX
+
+  If using statex tray-up:
+  .equ act_statextray act_last+XX
+  ..XX is the proper number for the action
+
+The following have to be included  on act_dispatch:
+.include intf/act_intf
+
+To be included on ACT$RESTART
+!DSP$ISSIM ? INTF$OPEN
+
+To be included on ACT$TRUCK, ACT$EXCAV,... depending which equipment
+has the interface
+
+act_intfdiag: ACT$INTFDIAG
+act_intfdata: ACT$INTFDATA
+
+To be included on ACT$TRUCK if auto assignment will be used based
+on STATEX tray-up input
+
+act_statextray: !DSP$CODE ?
+               (
+                TRN$SCREEN("Auto-assigning %{DSP$EQMT} by STATEX TRAY UP"),
+                T$ACTION := act_assign       .. Bed has been lowered, ASSIGN
+               ) :
+               "Use for the information that the bed is raised"
+
+
+Copy to DSP_OPNS:
+  /dsp/form/engl/intf/intfconfig.ddb
+
+Add to your client's .update file:
++ /dsp/form/engl/intf
+B /dsp/form/engl/intf/intfconfig.ddb
+
+
+The interface utility mainmenu should be entered in an appropriate place
+calling "intf/intf_mainmenu"
+
+
+For information on firmware loading and operation refer to Software Engineering
+documentation
+
+
+good monitoring!

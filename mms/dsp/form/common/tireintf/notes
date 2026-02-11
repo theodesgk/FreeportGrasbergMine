@@ -1,0 +1,143 @@
+
+Step 1: Add /dsp/form/engl/tireintf to .update file
+    
+        + /dsp/cli/xxx/.update
+
+
+Step 2: Add new tirechip rpcs:
+ 
+   add: +/dsp/form/engl/tireintf/tirechip.rpc
+
+   to the bottom of the /dsp/cli/xxx/psw/client.rpc file.
+ 
+        
+Step 3: Add new tirechip exceptions to except.frm
+
+        add:  .include tireintf/except_tire_include
+       
+        to the bottom of except.frm
+
+Step 4: Find which act_psw.frm the client is using. If it's
+        the generic: /dsp/form/engl/act_psw.frm, go to Step 5.
+        If it's client specific then add the Following:
+
+
+.expr pswd_tire()    (
+      tireFlag := PSW$ARGV(0),
+      exceptExpr := (PSW$ARGV(1),PSW$ARGV(2))[tireMessage := \"%s-%s\"],
+      tireFlag = "Info" ? TRN$EXCEPT(200, act_other) :
+        tireFlag = "Action" ? TRN$EXCEPT(201, act_other)
+      )
+
+and in the .init at the bottom of the form add:
+
+   PSW$REGISTER("rpc.mich-tire-warning", "pswd_tire")
+
+       If there is a client specific one, compare it to the 
+       generic, and if possible, remove the client specific 
+       one. All clients should be running the generic act_psw.frm.
+
+
+Step 5: Create initial tirechip database:
+
+        Run /dsp/form/engl/build_tire_config.frm
+
+         
+Step 6: Run the tireintf/tire_menu
+
+Step 7: Run the Configuration Screen and select which 
+        interface you want to setup:
+
+             Michelin
+             Goodyear
+             Firestone
+
+Step 8: Setup Datasets and alarms
+
+Step 9: From tire menu run Transaction Screen
+
+Step 10: Setup pswd, client, and an Equipment Gc on your
+         desktop. Then run tireintf/psw-mich. This will 
+         allow you to send fake rpcs to test transaction
+         viewer.
+
+Step 11: Run tire_data_monitor :
+
+         nohup /dsp/sh/tire_data_monitor restart &
+ 
+
+Step 12: Run Dispatch, generate alarms, and make sure they
+         come up correctly on the exception screen.
+
+
+Step 13: Update Client, and redo the above steps onsite.
+
+
+
+NEW and UPDATED Files 
+
+    /dsp/form/engl/tireintf
+-------------------------------------
+1.  build_tire_config_db.frm
+2.  configuration_interface.frm
+3.  db_tire_interface.frm
+4.  michelin_interface.frm
+5.  tire_enums.frm
+6.  tire_menu.frm
+7.  tire_menu.frm
+8.  tire_transaction_viewer.frm
+9.  tirechip.rpc
+10. tirechip_shiftreport2.frm
+11. tireintf_report_menu.frm
+12. tirerpt1.frm
+13. test_tire_transaction.frm
+14. tire_transaction_screen.frm
+15. psw-mich.frm
+16. except_tire_include.frm
+17. exclude_trucks.frm
+
+
+    /dsp/sh
+-------------------------------------
+1.  tire_data_monitor
+2.  check_tire_monitor
+3.  auto_tire_trans
+
+
+    /psw/etc
+-------------------------------------
+1.  rpc
+
+#
+# Michelin tire monitoring RPCs.
+#
+0x0640          MICHELIN-DATA           michelin        sl[d]
+0x0641          MICHELIN-POLL           michelin        v
+0x0643          MICHELIN-DATA-GPS       michelin        sl[d]ddd
+
+#
+# Goodyear tire monitoring RPCs.
+#
+0x0650  GOODYEAR-DATA        dispatch        bdddd
+
+
+    /dsp/form/engl
+-------------------------------------
+1.  act_psw.frm
+    
+
+
+   /dsp/cli/xxx/form
+-------------------------------------
+1. except.frm
+    
+.include tireintf/except_tire_include
+
+
+   /dsp/cli/xxx/psw
+-------------------------------------
+1. client.rpc
+ 
+   add: +/dsp/form/engl/tireintf/tirechip.rpc
+
+   to the bottom of the file.

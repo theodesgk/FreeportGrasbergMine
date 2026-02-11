@@ -1,0 +1,951 @@
+Remote Accelerator Pedal Circuit - Volt Abv Normal Or Shorted High (General)	1526792195
+Remote Accelerator Pedal Circuit - Volt Below Normal Or Shorted Low (General)	1526792196
+Accelerator Pedal or Lever Position Sensor 1-Data Erratic Intermittent or Incorrect (General)	1526792226
+Accelerator Pedal or Lever Position Sensor 1 Circuit-Volt Abv Normal/Shorted High (General)	1526792227
+Accelerator Pedal or Lever Position Sensor 1 Circuit-Volt Below Normal/Shorted Low (General)	1526792228
+Accelerator Pedal - Data Valid But Abv Normal Oper Range (General)	1526792229
+Accelerator Pedal/Lever Position Sensr 1 Circuit Freq-Abnormal Frequency/Pulse Width (General)	1526792232
+Accelerator Pedal Or Lever Idle Validation Switch Circuit - Out Of Calibration (General)	1526792237
+SAE J1939 MUX Accel Pedal or Lever Sensor Sys-Received Network Data in Error (General)	1526792243
+Auxiliary Alternate Torque Validation Switch-Data Erratic Intermittent Or Incorrect (General)	1526792258
+Engine Oil Lvl - Data Valid But Below Normal Oper Range (General)	1526792289
+Engine Oil Lvl - Data Erratic Intermittent Or Incorrect (General)	1526792290
+Engine Oil Lvl - Data Valid But Below Normal Oper Range (General)	1526792305
+Eng Oil Filter Diff Press-Data Valid But Above Normal Operating Range-Most Sevr Lvl (General)	1526792320
+Engine Oil Filter Differential Pressure - Data Valid But Below Normal Oper Range (General)	1526792321
+Engine Oil Filter Diff Press-Mechanical System Not Responding or Out of Adjustment (General)	1526792327
+Engine Oil Filter Diff Press-Data Valid But Above Normal Operating Range - MSL (General)	1526792336
+Eng Oil Rifle Press-Data Valid But Below Normal Operat Range-Most Svr Level (General)	1526792353
+Engine Oil Rifle Press 1 Sensor Circuit-Volt Above Normal/Shorted High (General)	1526792355
+Engine Oil Rifle Pressure 1 Sensor Circuit-Volt Below Normal/Shorted Low (General)	1526792356
+Engine Oil Rifle Press-Data Valid But Below Normal Operat Range-Mod Severe Level (General)	1526792370
+Intake Manifold 1 Press-Data Valid But Below Normal Operat Range-Most Svr Lvl (General)	1526792385
+Intake Manifold 1 Press Sensor Circuit-Volt Above Normal/Shorted High (General)	1526792387
+Intake Manifold 1 Press Sensor Circuit-Volt Below Normal/Shorted Low (General)	1526792388
+Intake Manifold 1 Pressure - Data Valid But Below Normal Oper Range (General)	1526792402
+Intake Manifold 1 Temperature - Data Valid But Abv Normal Oper Range (General)	1526792416
+Intake Manifold 1 Temperature Sensor Circuit - Volt Abv Normal Or Shorted High (General)	1526792419
+Intake Manifold 1 Temperature Sensor Circuit - Volt Below Normal Or Shorted Low (General)	1526792420
+Intake Manifold 1 Temperature - Abnormal Rate Of Change (General)	1526792426
+Intake Manifold 1 Temp-Data Valid But Above Normal Operat Range-Mod Severe (General)	1526792432
+Barometric Pressure Sensor Circuit - Volt Abv Normal Or Shorted High (General)	1526792451
+Barometric Pressure Sensor Circuit - Volt Below Normal Or Shorted Low (General)	1526792452
+Coolant Pressure - Data Valid But Below Normal Oper Range (General)	1526792481
+Coolant Pressure Sensor Circuit - Volt Abv Normal Or Shorted High (General)	1526792483
+Coolant Pressure Sensor Circuit - Volt Below Normal Or Shorted Low (General)	1526792484
+Engine Coolant Temperature - Data Valid But Abv Normal Oper Range (General)	1526792512
+Engine Coolant Temperature 1 Sensor Circuit - Volt Abv Normal Or Shorted High (General)	1526792515
+Engine Coolant Temperature 1 Sensor Circuit - Volt Below Normal Or Shorted Low (General)	1526792516
+Engine Coolant Temp-Data Valid But Above Normal Operat Range-Least Svr Lvl (General)	1526792527
+Engine Coolant Temp-Data Valid But Above Normal Operat Range-Mod Svr Lvl (General)	1526792528
+Coolant Lvl - Data Valid But Below Normal Oper Range (General)	1526792545
+Coolant Lvl - Data Erratic Intermittent Or Incorrect (General)	1526792546
+Coolant Level Sensor 1 Circuit - Voltage Above Normal or Shorted to High Source (General)	1526792547
+Coolant Level Sensor 1 Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526792548
+Coolant Level Sensor - Abnormal Update Rate (General)	1526792553
+Coolant Level-Data Valid But Below Normal Operat Range-Mod Severe Level (General)	1526792562
+Auxiliary Alternate Droop Switch Validation - Data Err Intermittent Or Incorrect (General)	1526792578
+Amber Intake Manifold 4 Temp Sen Circ - Volt Abv Normal Or Shorted To High Source (General)	1526792579
+Fuel Pump Delivery Pressure Sensor Circuit - Shorted High (General)	1526792611
+Fuel Pump Delivery Pressure Sensor Circuit - Shorted Low (General)	1526792612
+Injector Timing Rail 1 Fuel Pressure - Data Erratic Intermittent Or Incorrect (General)	1526792642
+Fuel Timing Pressure Sensor Circuit - Shorted High (General)	1526792643
+Fuel Timing Pressure Sensor Circuit - Shorted Low (General)	1526792644
+Injector Metering Rail 1 Pressure - Data Valid But Abv Normal Oper Range (General)	1526792672
+Injector Metering Rail 1 Press-Data Valid But Below Normal Operat Range-Most Svr Lvl (General)	1526792673
+Injector Metering Rail 1 Pressure - Data Erratic Intermittent Or Incorrect (General)	1526792674
+Injector Metering Rail 1 Pressure Sensor Circuit - Volt Abv Normal Or Shorted High (General)	1526792675
+Injector Metering Rail 1 Pressure Sensor Circuit - Volt Below Normal Or Shorted Low (General)	1526792676
+Injector Metering Rail 1 Press-Data Valid But Above Normal Operat Range-Mod Svr (General)	1526792688
+Injector Metering Rail 1 Press-Data Valid But Below Normal Operat Range-Mod Svr (General)	1526792690
+Battery #1 Volt High - Warning (General)	1526792704
+Battery 1 Volt - Data Valid But Below Normal Oper Range (General)	1526792705
+Battery 1 Volt-Data Valid But Above Normal Operat Range-Mod Svr Level (General)	1526792720
+Battery 1 Volt-Data Valid But Below Normal Operat Range-Mod Svr Level (General)	1526792722
+Engine Fuel Temperature - Data Valid But Abv Normal Oper Range (General)	1526792736
+Engine Fuel Temperature Sensor 1 Circuit - Volt Abv Normal Or Shorted High (General)	1526792739
+Engine Fuel Temperature Sensor 1 Circuit - Volt Below Normal Or Shorted Low (General)	1526792740
+Engine Fuel Temp-Data Valid But Above Normal Operat Range-Mod Severe Level (General)	1526792752
+Engine Oil Temp Sensor 1 Circ - Data Valid But Abv Norm Oper Range - Most Sev Lvl (General)	1526792768
+Engine Oil Temperature Sensor 1 Circuit - Volt Abv Normal Or Shorted High (General)	1526792771
+Engine Oil Temperature Sensor 1 Circuit - Volt Below Normal Or Shorted Low (General)	1526792772
+Engine Oil Temp-Data Valid But Above Normal Operat Range-Mod Severe Level (General)	1526792784
+Engine Oil Temp-Data Valid But Below Normal Operat Range-Mod Severe Level (General)	1526792786
+Engine Crankshaft Speed/Position - Data Valid But Abv Normal Oper Range (General)	1526792800
+Eng Spd/Pos Sensor Circ-Lost Both Of Two Signals From The Magnetic Pickup Sensor (General)	1526792802
+Eng Speed/Position Sen Circ-Lost One Of Two Signals From The Magnetic Pickup Sen (General)	1526792810
+Engine Speed - Root Cause Not Known (General)	1526792811
+Engine Crankshaft Speed/Position - Special Instructions (General)	1526792814
+Transmission Output Shaft Speed - Data Valid But Abv Normal Oper Range (General)	1526792832
+Axg Speed - Data Valid But Below Normal Oper Range (General)	1526792833
+Transmission Output Shaft Speed-Data Valid But Above Normal Operat Range-Mod Svr (General)	1526792848
+Transmission Output Shaft Speed-Data Valid But Below Normal Operat Range-Mod Svr (General)	1526792850
+Control Module Identification Input State Error - Data Err Intermit Or Incorrect (General)	1526792866
+Auxiliary Intermediate (PTO) Speed Switch Validation - Data Err Intermit Or Incorr (General)	1526792898
+Post-Oil Filter Pressure Sensor Circuit - Volt Abv Normal Or Shorted High (General)	1526792899
+Post-Oil Filter Pressure Sensor Circuit - Volt Below Normal Or Shorted Low (General)	1526792900
+Fuel Inlt Meter Dvice flow demand low-Data Valid But Blw Nrml Operat Rng-Mod Svr Lvl (General)	1526792914
+Operator Interface Mode Transition to Emer Stop (Due to E-Stop)-Condition Exists (General)	1526792927
+Start Enable Dev 1 Canister Empty Ether Injec - Data Valid But Blw Norm Oper Range (General)	1526792929
+Start Enable Dev 1 Circuit Ether Injection) - Bad Intelligent Dev Or Component (General)	1526792939
+Strt Enbl Dvc 1 Canstr Empty(Ether Injct)-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526792945
+ECM Critical Internal Failure - Bad Intelligent Dev Component (General)	1526792972
+Engine Control Module Calibration Memory Software - Bad Intelligent Dev Or Compon (General)	1526793004
+Electronic Control Module (ECM) Memory - Out Of Calibration (General)	1526793005
+Engine Fuel Shutoff Valve Driver Circuit - Volt Abv Norm Or Short To High Src (General)	1526793027
+Engine Fuel Shutoff Valve Driver Circuit - Volt Below Normal Or Shorted Low (General)	1526793028
+Engine Fuel Shutoff Valve Driver - Mechanical System Not Respond Or Out Of Adjust (General)	1526793031
+Electronic Fuel Injection Control Valve Circuit - Condition Exists (General)	1526793058
+Electronic Fuel Injection Control Valve Circuit - Volt Abv Normal Or Shorted High (General)	1526793059
+Electronic Fuel Injec Control Valve Circ - Volt Blw Norm Or Shorted To Low Source (General)	1526793060
+Electronic Fuel Injection Control Valve - Mechanical Sys Not Resp Or Out Of Adjust (General)	1526793063
+Electronic Fuel Injection Control Valve Circuit - Condition Exists (General)	1526793087
+Engine Timing Actuator Driver - Data Erratic Intermittent Or Incorrect (General)	1526793090
+Engine Timing Actuator Circuit - Shorted High (General)	1526793091
+Engine Timing Actuator Driver Circuit - Volt Below Normal Or Shorted To Low Source (General)	1526793092
+Engine Timing Actuator Is Not Respond To Ecm Commands (General)	1526793095
+J1939 Network #1 - Data Erratic Intermittent Or Incorrect (General)	1526793122
+Sae J1939 Datalink Cannot Transmit - Lvl 3 (General)	1526793123
+Sae J1939 Datalink - Abnormal Update Rate (General)	1526793129
+SAE J1939 Multiplexing Configuration Error - Out of Calibration (General)	1526793133
+External Speed Command Input Multiple Unit Sync - Data Err Intermit Or Incorrect (General)	1526793154
+Auxiliary Input/Output 2 Circuit - Volt Abv Normal Or Shorted High (General)	1526793187
+Auxiliary Input/Output 3 Circuit - Volt Abv Normal Or Shorted High (General)	1526793219
+Auxiliary Equipment Sensor Input 3 Engine Protection Critical - Special Instructions (General)	1526793230
+Engine Camshaft Speed/Position Sensor - Abnormal Rate Of Change (General)	1526793250
+Eng Speed/Pos Camshaft and Crankshft Misalignment-Mechanical Sys Not Respond (General)	1526793255
+Engine Camshaft Speed/Position Sensor - Abnormal Rate of Change (General)	1526793258
+Fuel Supply Pump Actuator Driver Circuit - Volt Abv Normal Or Shorted High (General)	1526793283
+Fuel Supply Pump Actuator Driver - Mechanical System Not Respond Or Out Of Adjust (General)	1526793287
+Auxiliary Temperature Sensor Input 1 Circuit - Volt Abv Normal Or Shorted High (General)	1526793315
+Auxiliary Temperature Sensor Input 1 Circuit - Volt Below Normal Or Shorted Low (General)	1526793316
+Auxiliary Temperature Sensor Input # 1 Engine Protection - Critical (General)	1526793326
+Aux Freq Input Channel 1-Data Valid But Abv Normal Operat Rng-Mod Svr Level (General)	1526793328
+Aux Freq Input Channel 1-Data Valid But Blw Normal Operat Rng-Mod Svr Level (General)	1526793330
+Auxiliary Pressure Sensor Input 2 Circuit - Volt Abv Normal Or Shorted High (General)	1526793347
+Auxiliary Pressure Sensor Input 2 Circuit - Volt Below Normal Or Shorted Low (General)	1526793348
+Auxiliary Pressure Sensor Input # 2 Engine Protection - Critical (General)	1526793358
+Intake Manifold 2 Pressure Sensor Circuit - Volt Abv Normal Or Shorted High (General)	1526793379
+Intake Manifold 2 Pressure Sensor Circuit - Volt Below Normal Or Shorted Low (General)	1526793380
+Intake Manifold 2 Pressure - Data Valid But Below Normal Oper Range (General)	1526793394
+Intake Manif 2(K38/50)/5(Q78) Temp-Data Valid Above Normal Operat Range-MSL (General)	1526793408
+Intake Manif 2(K38/50)/5(Q78) Temp Circuit-Volt Above Normal/Shorted To High (General)	1526793411
+Intake Manifold 2(K38/50)/5(Q78) Temp Circuit - Volt Below Normal/Shorted To Low Src (General)	1526793412
+Intake Manifold 2(Q60)/5(Q78) Temperature - Abnormal Rate Of Change (General)	1526793418
+Intake Manif 2 Temp-Data Valid But Abv Normal Operat Range-Mod Svr Lvl (General)	1526793424
+Intake Manifold 3 Temperature - Data Valid But Abv Normal Oper Range - Most Sev Lvl (General)	1526793440
+Intake Manifold 3 Temperature Sen Circ - Volt Abv Normal Or Short To High Source (General)	1526793443
+Intake Manifold 3 Temperature Sen Circ - Volt Below Normal Or Short To Low Source (General)	1526793444
+Intake Manifold 3 Temperature - Abnormal Rate Of Change - Right Bank Front (General)	1526793450
+Intake Manif 3 Temp-Data Valid But Abv Normal Operat Rng-Mod Svr Lvl (General)	1526793456
+Intake Manifold 4 Temperature - Data Valid But Abv Normal Oper Range - Most Sev Lvl (General)	1526793472
+Intake Manifold 4 Temperature Sen Circ - Volt Abv Normal Or Short To High Source (General)	1526793475
+Intake Manifold 4 Temperature Sen Circ - Volt Below Normal Or Short To Low Source (General)	1526793476
+Intake Manifold 4(Q60)/6(Q78) Temperature - Abnormal Rate Of Change (General)	1526793482
+Intake Manif 4 Temp-Data Valid But Above Normal Operat Rng-Mod Svr Lvl (General)	1526793488
+Exhaust Gas Temperature Cylinder 1 - Data Valid But Abv Normal Oper Range (General)	1526793504
+Exhaust Gas Temp Sensor Circuit Cylinder 1 (A1)-Volt Above Normal/Shorted High (General)	1526793507
+Exhaust Gas Temperature Sensor Circuit Cylinder 1 - Volt Below Normal Or Short Low (General)	1526793508
+Exhaust Gas Temperature Dev High For Cyl 1 - Data Valid But Abv Normal Oper Range (General)	1526793520
+Exhaust Gas Temperature Dev Low For Cyl 1 - Data Valid But Below Normal Oper Range (General)	1526793522
+Exhaust Gas Temperature Cylinder 2 - Data Valid But Abv Normal Oper Range (General)	1526793536
+Exhaust Gas Temp Sensor Circuit Cylinder 2 (B1)-Volt Above Normal/Shorted High (General)	1526793539
+Exhaust Gas Temperature Sensor Circuit Cylinder 2 - Volt Below Normal Or Short Low (General)	1526793540
+Exhaust Gas Temperature Dev High For Cyl 2 - Data Valid But Abv Normal Oper Range (General)	1526793552
+Exhaust Gas Temperature Dev Low For Cyl 2 - Data Valid But Below Normal Oper Range (General)	1526793554
+Exhaust Gas Temperature Cylinder 3 - Data Valid But Abv Normal Oper Range (General)	1526793568
+Exhaust Gas Temp Sensor Circuit Cylinder 3 (A2)-Volt Above Normal/Shorted High (General)	1526793571
+Exhaust Gas Temperature Sensor Circuit Cylinder 3 - Volt Below Normal Or Short Low (General)	1526793572
+Exhaust Gas Temperature Dev High For Cyl 3 - Data Valid But Abv Normal Oper Range (General)	1526793584
+Exhaust Gas Temperature Dev Low For Cyl 3 - Data Valid But Below Normal Oper Range (General)	1526793586
+Exhaust Gas Temperature Cylinder 4 - Data Valid But Abv Normal Oper Range (General)	1526793600
+Exhaust Gas Temp Sensor Circuit Cylinder 4 (B2)-Volt Above Normal/Shorted High (General)	1526793603
+Exhaust Gas Temperature Sensor Circuit Cylinder 4 - Volt Below Normal Or Short Low (General)	1526793604
+Exhaust Gas Temperature Dev High For Cyl 4 - Data Valid But Abv Normal Oper Range (General)	1526793616
+Exhaust Gas Temperature Dev Low For Cyl 4 - Data Valid But Below Normal Oper Range (General)	1526793618
+Exhaust Gas Temperature Cylinder 5 - Data Valid But Abv Normal Oper Range (General)	1526793632
+Exhaust Gas Temp Sensor Circuit Cylinder 5 (A3)-Volt Above Normal/Shorted High (General)	1526793635
+Exhaust Gas Temperature Sensor Circuit Cylinder 5 - Volt Below Normal Or Short Low (General)	1526793636
+Exhaust Gas Temperature Dev High For Cyl 5 - Data Valid But Abv Normal Oper Range (General)	1526793648
+Exhaust Gas Temperature Dev Low For Cyl 5 - Data Valid But Below Normal Oper Range (General)	1526793650
+Exhaust Gas Temperature Cylinder 6 - Data Valid But Abv Normal Oper Range (General)	1526793664
+Exhaust Gas Temp Sensor Circuit Cylinder 6 (B3)-Volt Above Normal/Shorted High (General)	1526793667
+Exhaust Gas Temperature Sensor Circuit Cylinder 6 - Volt Blw Normal Or Short Low (General)	1526793668
+Exhaust Gas Temperature Dev High For Cyl 6 - Data Valid But Abv Normal Oper Range (General)	1526793680
+Exhaust Gas Temperature Dev Low For Cyl 6 - Data Valid But Below Normal Oper Range (General)	1526793682
+Exhaust Gas Temperature Cylinder 7 - Data Valid But Abv Normal Oper Range (General)	1526793696
+Exhaust Gas Temp Sensor Circuit Cylinder 7 (A4)-Volt Above Normal/Shorted High (General)	1526793699
+Exhaust Gas Temperature Sensor Circuit Cylinder 7 - Volt Blw Normal Or Short Low (General)	1526793700
+Exhaust Gas Temperature Dev High For Cyl 7 - Data Valid But Abv Normal Oper Range (General)	1526793712
+Exhaust Gas Temperature Dev Low For Cyl 7 - Data Valid But Below Normal Oper Range (General)	1526793714
+Exhaust Gas Temperature Cylinder 8 - Data Valid But Abv Normal Oper Range (General)	1526793728
+Exhaust Gas Temp Sensor Circuit Cylinder 8 (B4)-Volt Above Normal/Shorted High (General)	1526793731
+Exhaust Gas Temperature Sensor Circuit Cylinder 8 - Volt Blw Normal Or Short Low (General)	1526793732
+Exhaust Gas Temperature Dev High For Cyl 8 - Data Valid But Abv Normal Oper Range (General)	1526793744
+Exhaust Gas Temperature Dev Low For Cyl 8 - Data Valid But Below Normal Oper Range (General)	1526793746
+Exhaust Gas Temperature Cyl 9 - Data Valid Above Normal Oper Range - MSL (General)	1526793760
+Exhaust Gas Temp Sensor Circuit Cylinder 9 (A5)-Volt Above Normal/Shorted High (General)	1526793763
+Exhaust Gas Temperature Sensor Circuit Cylinder 9 - Volt Blw Normal Or Short Low (General)	1526793764
+Exhaust Gas Temperature Dev High For Cyl 9 - Data Valid But Abv Normal Oper Range (General)	1526793776
+Exhaust Gas Temperature Dev Low For Cyl 9 - Data Valid But Below Normal Oper Range (General)	1526793778
+Exhaust Gas Temperature Cylinder 10 - Data Valid But Abv Normal Oper Range (General)	1526793792
+Exhaust Gas Temp Sensor Circuit Cylinder 10 (B5)-Volt Above Normal/Shorted High (General)	1526793795
+Exhaust Gas Temperature Sensor Circuit Cylinder 10 - Volt Below Normal Or Short Low (General)	1526793796
+Exhaust Gas Temperature Dev High For Cyler 10 - Data Valid But Abv Normal Oper Range (General)	1526793808
+Exhaust Gas Temperature Dev Low For Cyl 10 - Data Valid But Below Normal Oper Range (General)	1526793810
+Exhaust Gas Temperature Cylinder 11 - Data Valid But Abv Normal Oper Range (General)	1526793824
+Exhaust Gas Temp Sensor Circuit Cylinder 11 (A6)-Volt Above Normal/Shorted High (General)	1526793827
+Exhaust Gas Temperature Sensor Circuit Cylinder 11 - Volt Below Normal Or Short Low (General)	1526793828
+Exhaust Gas Temperature Dev High For Cyler 11 - Data Valid But Abv Normal Oper Range (General)	1526793840
+Exhaust Gas Temperature Dev Low For Cyl 11 - Data Valid But Below Normal Oper Range (General)	1526793842
+Exhaust Gas Temperature Cylinder 12 - Data Valid But Abv Normal Oper Range (General)	1526793856
+Exhaust Gas Temp Sensor Circuit Cylinder 12 (B6)-Volt Above Normal/Shorted High (General)	1526793859
+Exhaust Gas Temperature Sensor Circuit Cylinder 12 - Volt Below Normal Or Short Low (General)	1526793860
+Exhaust Gas Temperature Dev High For Cyl 12 - Data Valid But Abv Normal Oper Range (General)	1526793872
+Exhaust Gas Temperature Dev Low For Cyl 12 - Data Valid But Below Normal Oper Range (General)	1526793874
+Exhaust Gas Temperature Cylinder 13 - Data Valid But Abv Normal Oper Range (General)	1526793888
+Exhaust Gas Temp Sensor Circuit Cylinder 13 (A7)-Volt Above Normal/Shorted High (General)	1526793891
+Exhaust Gas Temperature Sensor Circuit Cylinder 13 - Volt Below Normal Or Short Low (General)	1526793892
+Exhaust Gas Temperature Dev High For Cyl 13 - Data Valid But Abv Normal Oper Range (General)	1526793904
+Exhaust Gas Temperature Dev Low For Cyl 13 - Data Valid But Below Normal Oper Range (General)	1526793906
+Exhaust Gas Temperature Cylinder 14 - Data Valid But Abv Normal Oper Range (General)	1526793920
+Exhaust Gas Temp Sensor Circuit Cylinder 14 (B7)-Volt Above Normal/Shorted High (General)	1526793923
+Exhaust Gas Temperature Sensor Circuit Cylinder 14 - Volt Blw Normal Or Short Low (General)	1526793924
+Exhaust Gas Temperature Dev High For Cyl 14 - Data Valid But Abv Normal Oper Range (General)	1526793936
+Exhaust Gas Temperature Dev Low For Cyl 14 - Data Valid But Below Normal Oper Range (General)	1526793938
+Exhaust Gas Temperature Cylinder 15 - Data Valid But Abv Normal Oper Range (General)	1526793952
+Exhaust Gas Temp Sensor Circuit Cylinder 15 (A8)-Volt Above Normal/Shorted High (General)	1526793955
+Exhaust Gas Temperature Sensor Circuit Cylinder 15 - Volt Blw Normal Or Short Low (General)	1526793956
+Exhaust Gas Temperature Dev High For Cyl 15 - Data Valid But Abv Normal Oper Range (General)	1526793968
+Exhaust Gas Temperature Dev Low For Cyl 15 - Data Valid But Below Normal Oper Range (General)	1526793970
+Exhaust Gas Temperature Cylinder 16 - Data Valid But Abv Normal Oper Range (General)	1526793984
+Exhaust Gas Temp Sensor Circuit Cylinder 16 (B8)-Volt Above Normal/Shorted High (General)	1526793987
+Exhaust Gas Temperature Sensor Circuit Cylinder 16 - Volt Blw Normal Or Short Low (General)	1526793988
+Exhaust Gas Temperature Dev High For Cyl 16 - Data Valid But Abv Normal Oper Range (General)	1526794000
+Exhaust Gas Temperature Dev Low For Cyl 16 - Data Valid But Below Normal Oper Range (General)	1526794002
+Exhaust Gas Temperature Cylinder 17 - Data Valid But Abv Normal Oper Range (General)	1526794016
+Exhaust Gas Temp Sensor Circuit Cylinder 17 (A9)-Volt Above Normal/Shorted High (General)	1526794019
+Exhaust Gas Temperature Sensor Circuit Cylinder 17 - Volt Blw Normal Or Short Low (General)	1526794020
+Exhaust Gas Temp Cylinder 17 (A9)-Data Valid But Abv Nrml Operat Rng-Mod Svr Lvl (General)	1526794032
+Exhaust Gas Temperature Dev Low For Cyl 17 - Data Valid But Below Normal Oper Range (General)	1526794034
+Exhaust Gas Temperature Cylinder 18 - Data Valid But Abv Normal Oper Range (General)	1526794048
+Exhaust Gas Temp Sensor Circuit Cylinder 18 (B9)-Volt Above Normal/Shorted High (General)	1526794051
+Exhaust Gas Temperature Sensor Circuit Cylinder 18 - Volt Blw Normal Or Short Low (General)	1526794052
+Exhaust Gas Temp Cyl 18 (B9)-Data Valid But Above Normal Operat Rng-Mod Svr Lvl (General)	1526794064
+Exhaust Gas Temperature Dev Low For Cyl 18 - Data Valid But Below Normal Oper Range (General)	1526794066
+Turbocharger 1 Compressor Intake Temperature Circuit - Volt Abv Norm Or Short High (General)	1526794083
+Turbocharger 1 Compressor Intake Temperature Circuit - Volt Blw Norm Or Short Low (General)	1526794084
+Turbocharger #1 Turbine Inlet Temp High - Warning Lvl (General)	1526794112
+Pre-Oil Filter Pressure 1 Sensor Circuit - Volt Abv Normal Or Shorted High (General)	1526794147
+Pre-Oil Filter Pressure 1 Sensor Circuit - Volt Below Normal Or Shorted Low (General)	1526794148
+Crankcase Pressure - Data Valid But Abv Normal Oper Range (General)	1526794176
+Extended Crankcase Blow-By Pressure Circuit - Volt Abv Normal Or Shorted High (General)	1526794179
+Extended Crankcase Blow-By Pressure Circuit - Volt Below Normal Or Shorted Low (General)	1526794180
+Engine Oil Burn Valve Solenoid Driver Circuit - Volt Abv Normal Or Shorted High (General)	1526794211
+Engine Oil Burn Valve Solenoid Driver Circuit - Volt Below Normal Or Shorted Low (General)	1526794212
+Engine Oil Replacement Valve Sol Driver Circ - Volt Abv Norm Or Short To High Src (General)	1526794243
+Engine Oil Replacement Valve Solenoid Driver Circuit - Volt Blw Norm Or Short Low (General)	1526794244
+Engine Gas Temperature Dev High For Cyler 17 - Data Valid But Abv Normal Oper Range (General)	1526794288
+Exhaust Gas Temp Dev Low Cyl 9-Data Valid But Blw Normal Operat Rng-Lst Svr (General)	1526794289
+Engine Gas Temperature Dev High For Cyler 18 - Data Valid But Abv Normal Oper Range (General)	1526794320
+Engine Oil Lvl Remote Reservoir - Data Valid But Below Normal Oper Range (General)	1526794337
+Engine Oil Lvl Remote Reservoir - Data Erratic Intermittent Or Incorrect (General)	1526794338
+Eng Oil Level Remote Reservoir-Data Valid But Abv Normal Operat Rng-Mod Svr Lvl (General)	1526794352
+Engine Oil Level Remote Reserv-Data Valid But Blw Nrml Operat Rng-Mod Severe (General)	1526794354
+Engine Shut Down Hot - Condition Exists (General)	1526794399
+Sae J1939 Engine Commanded Shutdown - Condition Exists (General)	1526794431
+Intake Manifold 6 Temperature - Data Valid But Abv Normal Oper Range - (Rbm) (General)	1526794432
+Intake Manifold 6 Temperature Circuit - Volt Abv Normal Or Shorted High - (Rbm) (General)	1526794435
+Intake Manifold 6 Temperature Circuit - Volt Blw Norm Or Short Low Source - (Rbm) (General)	1526794436
+Intake Manifold 6 Temperature - Abnormal Rate of Change (General)	1526794442
+Intake Manifold 6 Temp-Data Valid But Abv Nrml Operat Rng-Mod Svr Level (General)	1526794448
+Interstage Air Pressure 1 Circuit - Volt Abv Norm Or Short High - Front Intercooler (General)	1526794467
+Interstage Air Pressure 1 Circ - Volt Blw Normal Or Short Low - Front Intercooler (General)	1526794468
+Interstage Air Pressure 1 - Data Valid But Blw Norm Oper Range - Front Intercooler (General)	1526794482
+Interstage Air Pressure 2 Circuit - Volt Abv Norm Or Short High - Rear Intercooler (General)	1526794499
+Interstage Air Pressure 2 Circuit - Volt Blw Norm Or Short Low - Rear Intercooler (General)	1526794500
+Interstage Air Pressure 2 - Data Valid But Blw Normal Oper Range - Rear Intercooler (General)	1526794514
+Rail Pressure Sensor Circuit Or Fuel Rail Pressure Low (General)	1526794528
+Transmission (Gearbox) Oil Temp-Data Valid But Abv Normal Operat Rng-Most Svr Lvl (General)	1526794560
+Auxiliary Temperature Sensor Circuit - Volt Abv Normal Or Shorted To High Source (General)	1526794563
+Auxiliary Temperature Sensor Circuit - Volt Below Normal Or Shorted To Low Source (General)	1526794564
+SAEJ1587/J1922 Datalink - Data Erratic Intermittent Or Incorrect (General)	1526794594
+SAEJ1587/J1922 Datalink - Abnormal Update Rate (General)	1526794601
+Fuel Rack Actuator Driver - Mechanical System Not Respond Or Out Of Adjustment (General)	1526794630
+Fuel Rack Act Drv Mec Stuck Closed - Data Val But Blw Norm Oper Range - Mod Sev Lvl (General)	1526794631
+Fuel Rack Position 1 Sensor Circuit - Volt Abv Normal Or Shorted To High Source (General)	1526794659
+Fuel Rack Position 1 Sensor Circuit - Volt Below Normal Or Shorted To Low Source (General)	1526794660
+Multiple Unit Synchronization Switch - Data Erratic Intermittent Or Incorrect (General)	1526794690
+Sensor Supply 5 Circuit - Voltage Above Normal or Shorted to High Source (General)	1526794723
+Sensor Supply 5 Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526794724
+Sensor Supply 1 - Data Valid But Below Normal Oper Range - Moderately Sev Lvl (General)	1526794738
+Amber Accel Pedal Or Lvr Idle Valid Switch Circ - Volt Blw Norm Or Short To Low Src (General)	1526794756
+Exhaust Gas Temp Bank Imbalance-Data Valid But Abv Normal Operat Rng-Most Svr Lvl (General)	1526794784
+Exhaust Gas Temperature Bank Imbalance - Data Erratic Intermittent Or Incorrect (General)	1526794786
+Exhaust Gas Temp Bank Imbalance-Data Valid But Abv Nrml Operat Rng-Mod Svr Lvl (General)	1526794800
+Eng Intke Manif Press Bank Imbalance-Data Valid But Abv Nrml Operat Rng-Most Svr Lvl (General)	1526794816
+Amber Intake Manifold Pressure Bank Imbalance - Data Erratic Intermit Or Incorrect (General)	1526794818
+Eng Intake Manif Press Bank Imbalance-Data Valid But Abv Nrml Operat Rng-Mod Svr Lvl (General)	1526794832
+Electr Chip Detector Snsr-Data Valid But Blw Normal Operat Rng-Most Svr Level (General)	1526794849
+Electronic Metal Chip Detect Snsr-Volt Above Normal or Shorted to High Source (General)	1526794851
+Electronic Chip Detector Sensor - Data Valid But Below Normal Operating Range - MSL (General)	1526794866
+Sensor Supply 2 Circuit - Voltage Above Normal or Shorted to High Source (General)	1526794883
+Sensor Supply 2 Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526794884
+Sensor Supply 3 Circuit - Voltage Above Normal or Shorted to High Source (General)	1526794915
+Sensor Supply 3 Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526794916
+Fan Control Circuit - Voltage Above Normal or Shorted to High Source (General)	1526794947
+Fan Control Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526794948
+Ambient Air Temp Sensor 1 Circuit-Volt Above Normal or Shorted to High Source (General)	1526794979
+Ambient Air Temp Sensor 1 Circuit-Volt Below Normal or Shorted to Low Source (General)	1526794980
+Eng Turbocharger Wastegate Actuat 2 Pos-Data Erratic Intermittent or Incorrect (General)	1526795010
+Eng Turbocharger Wastegate Actuat 2 Pos Crct-Current Below Normal/Open Circuit (General)	1526795013
+Eng Turbocharger Wastegate Actuat 2 Pos Crct-Current Above Nrml/Grounded Crct (General)	1526795014
+Eng Turbocharger Wastegate Actuat 2 Pos Ctrl-Mechanical Sys Not Responding (General)	1526795015
+Engine Turbocharger Wastegate Actuator 2 - Abnormal Update Rate (General)	1526795017
+Engine Turbocharger Wastegate Actuator 2 - Bad Intelligent Device or Component (General)	1526795020
+Engine Turbocharger Wastegate Actuator 2 Position - Out of Calibration (General)	1526795021
+Engine Turbocharger Wastegate Actuator 2 Position - Condition Exists (General)	1526795039
+Engine Fuel Pump Press Assembly 1 Circuit-Volt Above Normal/Shorted to High (General)	1526795043
+Engine Fuel Pump Press Assembly 1 Circuit-Volt Below Normal/Shorted to Low (General)	1526795044
+Engine Fuel Pump Pressurizing Assembly - Bad Intelligent Device or Component (General)	1526795052
+Engine Fuel Pump Press Assembly 2 Circuit-Volt Above Normal/Shorted to High (General)	1526795075
+Engine Fuel Pump Press Assembly 2 Circuit-Volt Below Normal/Shorted to Low (General)	1526795076
+Real Time Clock - Data Erratic Intermittent or Incorrect (General)	1526795106
+Injector Solenoid Driver Cylinder 1 Circuit - Current Below Normal or Open Circuit (General)	1526795141
+Injector Solenoid Driver Cyl 1-Mechanical System Not Responding (General)	1526795143
+Injector Solenoid Driver Cylinder 1 - Out of Calibration (General)	1526795149
+Injector Solenoid Driver Cylinder 5 Circuit - Current Below Normal or Open Circuit (General)	1526795173
+Injector Solenoid Driver Cylinder 5 - Mechanical System Not Responding (General)	1526795175
+Injector Solenoid Driver Cylinder 5 - Out of Calibration (General)	1526795181
+Injector Solenoid Driver Cylinder 3 Circuit - Current Below Normal or Open Circuit (General)	1526795205
+Injector Solenoid Driver Cylinder 3 - Mechanical System Not Responding (General)	1526795207
+Injector Solenoid Driver Cylinder 3 - Out of Calibration (General)	1526795213
+Injector Solenoid Driver Cylinder 6 Circuit - Current Below Normal or Open Circuit (General)	1526795237
+Injector Solenoid Driver Cylinder 6 - Mechanical System Not Responding (General)	1526795239
+Injector Solenoid Driver Cylinder 6 - Out of Calibration (General)	1526795245
+Injector Solenoid Driver Cylinder 2 Circuit - Current Below Normal or Open Circuit (General)	1526795269
+Injector Solenoid Driver Cylinder 2 - Mechanical System Not Responding (General)	1526795271
+Injector Solenoid Driver Cylinder 2 - Out of Calibration (General)	1526795277
+Injector Solenoid Driver Cylinder 4 Circuit - Current Below Normal or Open Circuit (General)	1526795301
+Injector Solenoid Driver Cylinder 4 - Mechanical System Not Responding (General)	1526795303
+Injector Solenoid Driver Cylinder 4 - Out of Calibration (General)	1526795309
+Fuel Filter (suction side) Diff Press-Data Valid But Abv Normal Operat Rng-Lst Svr (General)	1526795343
+Eng Fuel Fltr(suction side) Diff Press-Data Valid Bt Abv Nrml Operat Rng-Mod Svr Lvl (General)	1526795344
+Power Supply Lost With Ignition On - Data Erratic Intermittent or Incorrect (General)	1526795362
+Injector Power Supply - Bad Intelligent Device or Component (General)	1526795372
+Sensor Supply 1 Circuit - Voltage Above Normal or Shorted to High Source (General)	1526795395
+Sensor Supply 1 Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526795396
+Accel Pedal or Lever Idle Validation Switch-Data Erratic Intermittent or Incorrect (General)	1526795426
+Accelerator Pedal or Lever Idle Validation Switch Circuit - Out of Calibration (General)	1526795437
+Injector Meter Rail 2 Press Sensor Circuit-Volt Above Normal/Shorted to High (General)	1526795459
+Injector Metering Rail 2 Pressure Sensor Circuit-Volt Below Normal/Shorted to Low (General)	1526795460
+Injector Metering Rail 2 Press-Data Valid But Blw Normal Operat Rng-Mod Svr (General)	1526795474
+Sensor Supply 6 Circuit - Voltage Above Normal or Shorted to High Source (General)	1526795491
+Sensor Supply 6 Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526795492
+Engine Turbocharger Wastegate Actuat 1 Pos-Data Erratic Intermittent or Incorrect (General)	1526795522
+Engine Turbocharger Wastegate Actuat 1 Pos-Current Below Normal/Open Circuit (General)	1526795525
+Engine Turbocharger Wastegate Actuat 1 Pos-Current Above Normal/Grounded Circuit (General)	1526795526
+Engine Turbocharger Wastegate Actuator 1 Position - Mechanical System Not Responding (General)	1526795527
+Engine Turbocharger Wastegate Actuator 1 - Abnormal Update Rate (General)	1526795529
+Engine Turbocharger Wastegate Actuator 1 - Bad Intelligent Device or Component (General)	1526795532
+Engine Turbocharger Wastegate Actuator 1 Position - Out of Calibration (General)	1526795533
+Engine Turbocharger Wastegate Actuator 1 Position - Condition Exists (General)	1526795551
+Engine Fuel Delivery Press-Data Valid But Abv Nrml Operat Rng-Most Svr Lvl (General)	1526795552
+Fuel Delivery Pressure Sensor Circuit-Volt Above Normal/Shorted to High (General)	1526795555
+Fuel Delivery Pressure Sensor Circuit - Voltage Below Normal/Shorted to Low (General)	1526795556
+Fuel Pump Delivery Pressure-Data Valid But Abv Nrml Operat Rng-Lst Svr Lvl (General)	1526795567
+Fuel Pump Delivery Press-Data Valid But Blw Nrml Operat Rng-Lst Svr Lvl (General)	1526795569
+Fuel Pump Delivery Pressure - Data Valid But Below Normal Operat Rng-Mod Svr Lvl (General)	1526795570
+Crankcase Pressure - Data Valid But Above Normal Operating Range - Most Severe Level (General)	1526795584
+Crankcase Pressure Circuit - Voltage Above Normal or Shorted to High Source (General)	1526795587
+Crankcase Pressure Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526795588
+Crankcase Press-Data Valid But Above Normal Operat Rng-Mod Svr Level (General)	1526795600
+Fuel Supply Pump Intake Press Sensor Circuit-Volt Above Normal/Shorted to High (General)	1526795619
+Fuel Supply Pump Intake Press Sensor Circuit-Volt Below Normal/Shorted to Low (General)	1526795620
+Fuel Supply Pump Intake Press-Data Valid But Above Normal Operat Rng-Lst Svr Lvl (General)	1526795631
+Fuel Supply Pump Intake Press-Data Valid But Below Normal Operat Rng-Lst Svr Lvl (General)	1526795633
+Auxiliary Commanded Dual Output Shutdown - Special Instructions (General)	1526795662
+Exhaust Gas Temp Dev Low Cyl 1-Data Valid But Blw Normal Operat Rng-Lst Svr (General)	1526795697
+Exhaust Gas Temp Dev Low Cyl 3-Data Valid But Blw Normal Operat Rng-Lst Svr (General)	1526795729
+Exhaust Gas Temp Dev Low Cyl 5-Data Valid But Blw Normal Operat Rng-Lst Svr (General)	1526795761
+Exhaust Gas Temp Dev Low Cyl 7-Data Valid But Blw Normal Operat Rng-Lst Svr (General)	1526795793
+Exhaust Gas Temp Dev Low Cyl 11-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526795825
+Exhaust Gas Temp Dev Low Cyl 13-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526795857
+Exhaust Gas Temp Dev Low Cyl 15-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526795889
+Exhaust Gas Temp Dev Low Cyl 2-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526795921
+Exhaust Gas Temp Dev Low Cyl 4-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526795953
+Exhaust Gas Temp Dev Low Cyl 6-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526795985
+Exhaust Gas Temp Dev Low Cyl 8-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526796017
+Exhaust Gas Temp Dev Low Cyl 10-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526796049
+Exhaust Gas Temp Dev Low Cyl 12-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526796081
+Exhaust Gas Temp Dev Low Cyl 14-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526796113
+Exhaust Gas Temp Dev Low Cyl 16-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526796145
+Turbocharger 1 Compress Intake Temp Circuit-Volt Abv Normal/Shorted to High (General)	1526796163
+Turbocharger 1 Compress Intake Temp Circuit-Volt Blw Normal/Shorted to Low (General)	1526796164
+Engine ECU Temp-Data Valid But Above Normal Operat Rng-Most Svr Lvl (General)	1526796192
+Engine ECU Temperature - Data Erratic Intermittent or Incorrect (General)	1526796194
+Engine ECU Temp Sensor Circuit-Volt Abv Normal/Shorted to High Source (General)	1526796195
+Engine ECU Temp Sensor Circuit-Volt Below Normal/Shorted to Low Source (General)	1526796196
+Engine ECU Temp-Data Valid But Above Normal Operat Rng-Mod Svr Lvl (General)	1526796208
+J1939 Network #2 - Data Erratic Intermittent or Incorrect (General)	1526796226
+SAE J1939 Data Link 2 Engine Network - Special Instructions (General)	1526796228
+SAE J1939 Data Link 2 Engine Network - Abnormal Update Rate (General)	1526796233
+SAE J1939 Data Link 2 Engine Network No Data Received - Condition Exists (General)	1526796255
+Control Module Id Input State Error-Data Erratic Intermittent or Incorrect (General)	1526796258
+Control Module Identification Input State Error - Special Instructions (General)	1526796270
+Remote Accel Pedal/Lever Position Sensor 1 Circuit-Volt Above Normal/Shorted High (General)	1526796291
+Remote Accel Pedal/Lever Position Sensor 1 Circuit-Volt Below Normal/Shorted Low  (General)	1526796292
+SAE J1939 MUXing Remote Accel Pedal/Lever Snsr Sys-Received Network Data in Err (General)	1526796307
+Auxiliary Temp Sensor Input 1 Circuit - Volt Above Normal/Shorted to High (General)	1526796323
+Auxiliary Temp Sensor Input 1 Circuit - Volt Below Normal/Shorted to Low (General)	1526796324
+Auxiliary Temperature Sensor Input 1 - Special Instructions (General)	1526796334
+Post-Oil Filter Press Sensor Circuit - Volt Above Normal/Shorted to High (General)	1526796355
+Post-Oil Filter Pressure Sensor Circuit-Volt Below Normal/Shorted to Low (General)	1526796356
+Auxiliary Pressure Sensor Input 1 Circuit-Volt Above Normal/Shorted to High (General)	1526796387
+Auxiliary Pressure Sensor Input 1 Circuit-Volt Below Normal/Shorted to Low (General)	1526796388
+Auxiliary Pressure Sensor Input 1 - Special Instructions (General)	1526796398
+Injector Solenoid Driver Cylinder 7 Circuit - Current Below Normal or Open Circuit (General)	1526796421
+Injector Solenoid Driver Cylinder 7-Mechanical Sys Not Responding (General)	1526796423
+Injector Solenoid Driver Cylinder 7 - Out of Calibration (General)	1526796429
+Injector Solenoid Driver Cylinder 8 Circuit - Current Below Normal or Open Circuit (General)	1526796453
+Injector Solenoid Driver Cylinder 8 - Mechanical System Not Responding (General)	1526796455
+Injector Solenoid Driver Cylinder 8 - Out of Calibration (General)	1526796461
+Injector Solenoid Driver Cylinder 10 Circuit - Current Below Normal or Open Circuit (General)	1526796485
+Injector Solenoid Driver Cylinder 10 - Mechanical System Not Responding (General)	1526796487
+Injector Solenoid Driver Cylinder 10 - Out of Calibration (General)	1526796493
+Injector Solenoid Driver Cylinder 11 Circuit - Current Below Normal or Open Circuit (General)	1526796517
+Injector Solenoid Driver Cylinder 11 - Mechanical System Not Responding (General)	1526796519
+Injector Solenoid Driver Cylinder 11 - Out of Calibration (General)	1526796525
+Injector Solenoid Driver Cylinder 12 Circuit - Current Below Normal or Open Circuit (General)	1526796549
+Injector Solenoid Driver Cylinder 12 - Mechanical System Not Responding (General)	1526796551
+Injector Solenoid Driver Cylinder 12 - Out of Calibration (General)	1526796557
+Injector Solenoid Driver Cylinder 13 Circuit - Current Below Normal or Open Circuit (General)	1526796581
+Injector Solenoid Driver Cylinder 13 - Mechanical System Not Responding (General)	1526796583
+Injector Solenoid Driver Cylinder 13 - Out of Calibration (General)	1526796589
+Injector Solenoid Driver Cylinder 14 Circuit - Current Below Normal or Open Circuit (General)	1526796613
+Injector Solenoid Driver Cylinder 14 - Mechanical System Not Responding (General)	1526796615
+Injector Solenoid Driver Cylinder 14 - Out of Calibration (General)	1526796621
+Injector Solenoid Driver Cylinder 15 Circuit - Current Below Normal or Open Circuit (General)	1526796645
+Injector Solenoid Driver Cylinder 15 - Mechanical System Not Responding (General)	1526796647
+Injector Solenoid Driver Cylinder 15 - Out of Calibration (General)	1526796653
+Injector Solenoid Driver Cylinder 16 Circuit - Current Below Normal or Open Circuit (General)	1526796677
+Injector Solenoid Driver Cylinder 16 - Mechanical System Not Responding (General)	1526796679
+Injector Solenoid Driver Cylinder 16 - Out of Calibration (General)	1526796685
+Injector Solenoid Driver Cylinder 17 Circuit - Current Below Normal or Open Circuit (General)	1526796709
+Injector Solenoid Driver Cylinder 17 - Out of Calibration (General)	1526796717
+Injector Solenoid Driver Cylinder 18 Circuit - Current Below Normal or Open Circuit (General)	1526796741
+Injector Solenoid Driver Cylinder 18 - Out of Calibration (General)	1526796749
+Injector Solenoid Driver Cylinder 9 Circuit - Current Below Normal or Open Circuit (General)	1526796773
+Injector Solenoid Driver Cylinder 9 - Mechanical System Not Responding (General)	1526796775
+Injector Solenoid Driver Cylinder 9 - Out of Calibration (General)	1526796781
+Intake Manifold 2 Pressure Sensor Circuit - Voltage Above Normal/Shorted High (General)	1526796803
+Intake Manifold 2 Pressure Sensor Circuit - Voltage Below Normal/Shorted Low (General)	1526796804
+Aftertrtmnt 1 Disl Exhst Fluid Tank Lvl-Data Valid But Blw Nrml Operat Rng-Most Svr (General)	1526796833
+Aftertrtmnt 1 Disl Exhaust Fluid Tank Lvl Snsr Circuit-Volt Abv Normal/Shorted High (General)	1526796835
+Aftertrtmnt 1 Disl Exhaust Fluid Tank Lvl Snsr Circuit-Volt Below Normal/Shorted Low (General)	1526796836
+Aftrtrtmnt 1 Disl Exhst Fluid Tank Lvl Snsr Crct-Current Below Normal/Open Circuit (General)	1526796837
+Aftrtrtmnt 1 Disl Exhst Fluid Tank Lvl Snsr Crct-Current Above Normal/Ground Circuit (General)	1526796838
+Aftertreatment 1 Diesel Exhaust Fluid Tank Level - Abnormal Update Rate (General)	1526796841
+Aftertreatment 1 Diesel Exhaust Fluid Tank Level Sensor - Abnormal Rate of Change (General)	1526796842
+Aftertreatment 1 Diesel Exhaust Fluid Tank Level Sensor - Root Cause Not Known (General)	1526796843
+Aftertreatment 1 Diesel Exhaust Fluid Tank Level Sensor - Out of Calibration (General)	1526796845
+Aftertrtmnt 1 Disl Exhst Fluid Tank Lvl-Data Valid But Blw Nrml Operat Rng-Lst Svr (General)	1526796849
+Aftertrtmnt 1 Disl Exhst Fluid Tank Lvl-Data Valid But Blw Nrml Operat Rng-Mod Svr (General)	1526796850
+Aftertrtmnt 1 Disl Exhst Fluid Tank Temp Sensor-Volt Above Normal/Shorted High (General)	1526796867
+Aftertrtmnt 1 Disl Exhst Fluid Tank Temp Sensor-Volt Below Normal/Shorted Low (General)	1526796868
+Aftrtrtmnt 1 Disl Exhaust Fluid Tank Temp Sensor Crct-Current Below Normal/Open Crct (General)	1526796869
+Aftrtrtmnt 1 Disl Exhaust Fluid Tank Temp Snsr Crct-Current Above Normal/Ground Crct (General)	1526796870
+Aftertreatment 1 Diesel Exhaust Fluid Tank Temperature - Abnormal Update Rate (General)	1526796873
+Aftertreatment 1 Diesel Exhaust Fluid Tank Temperature - Root Cause Not Known (General)	1526796875
+Aftertreatment 1 Diesel Exhaust Fluid Tank Temperature Sensor - Out of Calibration (General)	1526796877
+Aftertreatment 1 Diesel Exhaust Fluid Dosing Unit Input Lines - Condition Exists (General)	1526796927
+Aftertrtmnt 1 Disl Exhaust Fluid Tank Heater-Volt Above Normal/Shorted High (General)	1526796931
+Aftertrtmn 1 Disl Exhaust Fluid Tank Heater-Volt Below Normal/Shorted Low (General)	1526796932
+Aftertreatment 1 Diesel Exhaust Fluid Tank Heater-Mechanical System Not Responding (General)	1526796935
+Aftertrtmnt 1 Disl Exhst Fluid Tank Heatr-Data Valid But Abv Nrml Operat Rng-Mod Svr (General)	1526796944
+Aftertrtmnt 1 Disl Exhst Fluid Tank Heatr-Data Valid But Blw Nrml Operat Rng-Mod Svr (General)	1526796946
+Aftertreatment Diesel Exhaust Fluid Quality - Data Erratic Intermittent or Incorrect (General)	1526796962
+Aftertrtmnt Disl Exhst Fluid Quality Snsr Crct-Volt Abv Nrml/Shorted High (General)	1526796963
+Aftertrtmnt Disl Exhst Fluid Quality Snsr Crct-Volt Blw Nrml/Shorted Low (General)	1526796964
+Aftertreatment Diesel Exhaust Fluid Quality - Abnormal Update Rate (General)	1526796969
+Aftertreatment Diesel Exhaust Fluid Quality - Abnormal Rate of Change  (General)	1526796970
+Aftertreatment Diesel Exhaust Fluid Quality - Root Cause Not Known (General)	1526796971
+Aftertreatment Diesel Exhaust Fluid Quality - Out of Calibration (General)	1526796973
+Aftrtrtmnt Disl Exhst Fluid Quality-Data Valid But Abv Nrml Operat Rng-Least Svr (General)	1526796975
+Aftertrtmnt Disl Exhst Fluid Quality-Data Valid Bt Blw Nrml Operat Rng-Mod Svr (General)	1526796978
+Eng Oil Priming Pump Ctrl Circuit-Volt above normal or shorted to high source (General)	1526796995
+Eng Oil Priming Pump Ctrl Circuit-Volt below normal or shorted to low source (General)	1526796996
+Engine Oil Priming Pump Control-Special Instructions (General)	1526797006
+Power Relay Driver Circuit - Voltage Above Normal or Shorted to High Source (General)	1526797027
+Power Relay Driver Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526797028
+Water in Fuel Indicator-Data Valid But Above Normal Operat Rng-Most Severe (General)	1526797056
+Water in Fuel Indicator Sensor Crct-Volt Above Normal/Shorted to High Source (General)	1526797059
+Water in Fuel Indicator Sensor Circuit-Volt Below Normal/Shorted to Low Source (General)	1526797060
+Water in Fuel Indicator-Data Valid But Above Normal Operat Rng-Mod Severe (General)	1526797072
+Aftertreatment Intake Oxygen - Data Erratic Intermittent or Incorrect (General)	1526797090
+Aftertrtmnt 1 Intake NOx Snsr Circuit-Volt Below Normal/Shorted to Low Source (General)	1526797124
+Aftertreatment 1 Intake NOx Sensor - Abnormal Update Rate (General)	1526797129
+Aftertreatment 1 Intake NOx Sensor - Abnormal Rate of Change (General)	1526797130
+Aftertreatment 1 Intake NOx - Out of Calibration (General)	1526797133
+Aftertreatment 1 Intake NOx Sensor - Data Not Rational - Drifted High (General)	1526797140
+Aftertrtmnt 1 Outlet NOx Snsr Circuit-Volt Below Normal/Shorted to Low Source (General)	1526797156
+Aftertreatment 1 Outlet NOx Sensor - Abnormal Update Rate (General)	1526797161
+Aftertreatment 1 Outlet NOx Sensor - Abnormal Rate of Change (General)	1526797162
+Engine Oil Change Interval - Condition Exists (General)	1526797215
+Intake Manifold 5 Temp-Data Valid But Above Normal Operat Rng-Most Svr Lvl (General)	1526797216
+Intake Manifold 5 Temp Circuit-Voltage Above Normal/Shorted to High (General)	1526797219
+Intake Manifold 5 Temperature Circuit-Volt Below Normal/Shorted to Low (General)	1526797220
+Intake Manifold 5 Temperature - Abnormal Rate of Change (General)	1526797226
+Intake Manifold 5 Temp - Data Valid But Above Normal Operat Rng-Mod Svr (General)	1526797232
+Exhaust Gas Temp Dev Low Cyl 17-Data Valid But Blw Normal Operat Rng-Lst Svr (General)	1526797265
+Exhaust Gas Temp Dev Low Cyl 18-Data Valid But Blw Normal Operat Rng-Lst Svr (General)	1526797297
+Sensor Supply 4 Circuit - Voltage Above Normal or Shorted to High Source (General)	1526797315
+Sensor Supply 4 Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526797316
+Eng Electric Fuel Lift Pump Supply Volt-Data Valid But Blw Nrml Operat Rng-Most Svr (General)	1526797345
+Electric Lift Pump for Eng Fuel Supply Crct-Volt Above Normal/Shorted to High (General)	1526797347
+Eng Elec Fuel Lift Pump Supply Crct Volt-Volt Blw Normal/Shorted to Low (General)	1526797348
+Eng Electric Fuel Lift Pump Supply-Mechanical Sys Not Responding (General)	1526797351
+Engine Electric Fuel Lift Pump - Abnormal Update Rate (General)	1526797353
+Engine Electric Lift Pump - Bad Intelligent Device or Component (General)	1526797356
+Engine Electric Fuel Lift Pump - Out of Calibration (General)	1526797357
+Eng Electric Fuel Lift Pump Fuel Supply-Data Valid But Abv Nrml Operat Rng-Mod Svr (General)	1526797360
+Eng Electric Fuel Lift Pump Supply Volt-Data Valid But Blw Nrml Operat Rng-Mod Svr (General)	1526797362
+Turbocharger 1 Speed - Data Erratic Intermittent or Incorrect (General)	1526797378
+Turbocharger 1 Speed-Data Valid But Above Normal Operat Rng-Lst Svr Level (General)	1526797391
+Fuel Filter Diff Press-Data Valid But Above Normal Operat Rng-Least Severe (General)	1526797423
+Fuel Filter Diff Pressure-Data Valid But Above Normal Operat Range-Mod Severe Level (General)	1526797424
+Exhaust Manif Bank 1 Press Snsr 1-Data Valid but Abv Nrml Operat Rng-Most Svr (General)	1526797440
+Exhaust Gas Press Sensor 1 Circuit-Volt Above Normal/Shorted to High (General)	1526797443
+Exhaust Gas Press Sensor 1 Circuit-Volt Below Normal/Shorted to Low (General)	1526797444
+Exhst Manif Bank 1 Press Snsr 1-Data Valid But Above Normal Operat Rng-Lst Svr (General)	1526797455
+Exhst Manif Bank 1 Press Snsr 1-Data Valid but Abv Normal Operat Range-Mod Svr (General)	1526797456
+Auxiliary PWM Driver 1 Circuit - Voltage Above Normal or Shorted to High Source (General)	1526797475
+Auxiliary PWM Driver 1 Circuit - Voltage Below Normal or Shorted to Low Source (General)	1526797476
+Auxiliary Input 1 Active - Condition Exists (General)	1526797535
+VGT Actuator Driver Circuit - Abnormal Update Rate (General)	1526797545
+Eng Exhst Gas Temp-Right Manifold-Data valid but abv normal operat range-Most Svr (General)	1526797568
+Eng Exhst Gas Temp-Right Manifold Sensor Circuit-Volt above normal/shorted to high (General)	1526797571
+Engine Exhst Gas Temp-Right Manifold Sensor Circuit-Volt below normal/shorted low (General)	1526797572
+Eng Exhst Gas Temp-Right Manifold-Data Valid But Abv Normal Operat Rng-Mod Svr (General)	1526797584
+Engine Exhst Gas Temp-Left Manif-Data valid but above normal operat range-Most Svr (General)	1526797600
+Eng Exhst Gas Temp-Left Manifold Snsr Crct-Volt above normal/shorted to high (General)	1526797603
+Eng  Exhst Gas Temp-Left Manif Snsr Crct-Volt below normal/shorted to low (General)	1526797604
+Eng Exhst Gas Temp-Left Manif-Data Valid But Above Normal Operat Rng-Mod Svr (General)	1526797616
+Engine Injector Bank 1 Barcodes - Out of Calibration (General)	1526797645
+Engine Air Shutoff Status - Data Erratic Intermittent or Incorrect (General)	1526797666
+Engine Air Shutoff Circuit - Voltage Above Normal or Shorted to High Source (General)	1526797667
+Engine Air Shutoff Circuit  - Voltage Below Normal or Shorted to Low Source (General)	1526797668
+Engine Air Shutoff - Mechanical System Not Responding or Out of Adjustment (General)	1526797671
+Aftrtrtmnt 1 SCR Intake Temp-Data Valid But Abv Normal Operat Rng-Most Svr (General)	1526797696
+Aftrtrtmnt 1 SCR Intake Temp Sensor-Data Erratic Intermittent or Incorrect (General)	1526797698
+Aftrtrtmnt 1 SCR Intake Temp Sensor Crct-Volt Abv Normal/Shorted to High (General)	1526797699
+Aftrtrtmnt 1 SCR Intake Temp Sensor Crct-Volt Blw Normal/Shorted to Low (General)	1526797700
+Aftrtrtmnt 1 SCR Intake Temp-Data Valid But Abv Normal Operat Rng-Lst Svr Lvl (General)	1526797711
+Aftrtrtmnt 1 SCR Intake Temp-Data Valid But Abv Normal Operat Rng-Mod Svr (General)	1526797712
+Aftrtrtmnt 1 SCR Outlet Temp-Data Valid But Abv Normal Operat Rng-Most Svr (General)	1526797728
+Aftrtrtmnt 1 SCR Outlet Temp Snsr-Data Erratic Intermittent or Incorrect (General)	1526797730
+Aftrtrtmnt 1 SCR Outlet Temp Snsr Circuit-Volt Above Normal/Shorted to High (General)	1526797731
+Aftrtrtmnt 1 SCR Outlet Temp Snsr Circuit-Volt Below Normal/Shorted to Low (General)	1526797732
+Aftrtrtmnt 1 SCR Outlet Temp-Data Valid But Abv Normal Operat Rng-Mod Svr (General)	1526797744
+Aftertreatment 1 SCR Catalyst System Missing - Condition Exists (General)	1526797791
+J1939 Network #3 - Data Erratic Intermittent or Incorrect (General)	1526797794
+Aftertreatment Diesel Exhaust Fluid Tank Empty - Condition Exists (General)	1526797855
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Unit-Volt Abv Normal/Shorted to High (General)	1526797859
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Unit-Volt Blw Normal/Shorted to Low (General)	1526797860
+Aftrtrtmnt Disl Exhst Fluid Line Heater Relay-Volt Abv Normal/Shorted to High (General)	1526797891
+Aftrtrtmnt Disl Exhst Fluid Line Heater Relay-Volt Blw Normal/Shorted to Low (General)	1526797892
+Aftrtrtmnt 1 Disl Exhst Fluid Line Heater Relay-Mechanical System Not Respond (General)	1526797895
+Aftertreatment 1 Diesel Exhaust Fluid Line Heater Relay - Condition Exists (General)	1526797919
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Valve 1 Crct-Current Below Normal/Open Circuit (General)	1526797925
+Aftrtrtmnt 1 Disl Exhst Fluid Press-Data Erratic Intermittent or Incorrect (General)	1526797954
+Aftrtrtmnt 1 Disl Exhst Fluid Press Snsr Circuit-Volt Above Normal/Shorted to High (General)	1526797955
+Aftrtrtmnt 1 Disl Exhst Fluid Press Snsr Crct-Volt Below Normal/Shorted to Low (General)	1526797956
+Aftrtrtmnt 1 Disl Exhst Fluid Press Snsr Circuit-Current Below Normal/Open Circuit (General)	1526797957
+Aftrtrtmnt 1 Disl Exhst Fluid Press-Data Valid But Above Normal Operat Rng-Mod Svr (General)	1526797968
+Aftrtrtmnt 1 Disl Exhst Fluid Press-Data Valid But Below Normal Operat Range-Mod Svr (General)	1526797970
+Aftertreatment 1 Outlet NOx Sensor Heater - Abnormal Rate of Change (General)	1526797994
+Turbocharger 2 Speed Sensor - Data Erratic Intermittent or Incorrect (General)	1526798018
+Aftertreatment 1 Intake NOx Sensor Heater - Abnormal Rate of Change (General)	1526798058
+Aftrtrtmnt 1 Outlet NOx Snsr Power Supply-Data Erratic Intermittent or Incorrect (General)	1526798082
+Aftrtrtmnt 1 Intake NOx Sensor Power Supply-Data Erratic Intermittent or Incorrect (General)	1526798114
+Aftrtrtmnt SCR Operat Induc-Data Valid But Above Normal Operat Range-Most Svr (General)	1526798144
+Engine Protection Torque Derate - Condition Exists (General)	1526798207
+High Press Com Rail Fuel Press Relief Vlv-Data Vlid Bt Abv Nrml Operat Rng-Most Svr (General)	1526798208
+High Press Common Rail Fuel Press Relief Valve-Mechanical Sys Not Respond (General)	1526798215
+Eng Turbchrgr Wastegate Actuat 1 Temp-Data Valid But Abv Nrml Operat Rng-Lst Svr (General)	1526798255
+Eng Turbchrgr Wastegate Actuat 3 Pos-Data Erratic Intermittent or Incorrect (General)	1526798274
+Eng Turbchrgr Wastegate Actuat 3 Pos Crct-Current Blw Normal/Open Circuit (General)	1526798277
+Eng Turbchrgr Wastegate Actuat 3 Pos Crct-Current Abv Normal/Grounded Circuit (General)	1526798278
+Eng Turbocharger Wastegate Actuator 3 Position-Mechanical System Not Responding (General)	1526798279
+Engine Turbocharger Wastegate Actuator 3 Position - Out of Calibration (General)	1526798285
+Engine Turbocharger Wastegate Actuator 3 Position - Condition Exists (General)	1526798303
+Eng Turbchrgr Wastegate Actuat 4 Pos-Data Erratic Intermittent or Incorrect (General)	1526798306
+Eng Turbchrgr Wastegate Actuat 4 Pos Crct-Current Below Normal/Open Circuit (General)	1526798309
+Eng Turbchrgr Wastegate Actuat 4 Pos Crct-Current Abv Normal/Grounded Circuit (General)	1526798310
+Eng Turbocharger Wastegate Actuator 4 Position-Mechanical System Not Responding (General)	1526798311
+Engine Turbocharger Wastegate Actuator 4 Position - Out of Calibration (General)	1526798317
+Engine Turbocharger Wastegate Actuator 4 Position - Condition Exists (General)	1526798335
+Aftrtrtmnt 2 Intake NOx Snsr Crct-Volt Below Normal/Shorted to Low (General)	1526798340
+Aftertreatment 2 Intake Nox Sensor - Abnormal Update Rate (General)	1526798345
+Aftertreatment 2 Intake NOx Sensor - Abnormal Rate of Change (General)	1526798346
+Aftertreatment 2 Intake NOx Sensor - Out of Calibration (General)	1526798349
+Aftertreatment 2 Intake NOx Sensor - Data Not Rational - Drifted High (General)	1526798356
+Aftrtrtmnt 2 Outlet NOx Sensor Crct-Volt Below Normal/Shorted to Low (General)	1526798372
+Aftertreatment 2 Outlet NOx Sensor - Abnormal Update Rate (General)	1526798377
+Aftertreatment 2 Outlet NOx Sensor - Abnormal Rate of Change (General)	1526798378
+Aftrtrtmnt 2 SCR Catalst Intake Gas Temp-Data Valid Bt Abv Nrml Operat Rng-Most Svr (General)	1526798400
+Aftrtrtmnt 2 SCR Catalyst Intake Gas Temp-Data Erratic Intermittent or Incorrect (General)	1526798402
+Aftrtrtmnt 2 SCR Catalst Intake Gas Temp-Volt Abv Normal/Shorted to High Source (General)	1526798403
+Aftrtrtmnt 2 SCR Catalst Intake Gas Temp-Volt Blw Normal/Shorted to Low Source (General)	1526798404
+Aftrtrtmnt 2 SCR Catalyst Intake Gas Temp-Data Valid But Abv Nrml Operat Rng-Lst Svr (General)	1526798415
+Aftrtrtmnt 2 SCR Catalst Intake Gas Temp-Data Valid But Abv Nrml Operat Rng-Mod Svr (General)	1526798416
+Aftrtrtmnt 2 SCR Catalst Outlet Gas Temp-Data Valid But Abv Nrml Operat Rng-Most Svr (General)	1526798432
+Aftrtrtmnt 2 SCR Catalst Outlet Gas Temp-Data Erratic Intermittent or Incorrect (General)	1526798434
+Aftrtrtmnt 2 SCR Catalst Outlet Gas Temp-Volt Abv Normal/Shorted to High Source (General)	1526798435
+Aftrtrtmnt 2 SCR Catalst Outlet Gas Temp-Volt Blw Normal/Shorted to Low Source (General)	1526798436
+Aftrtrtmnt 2 SCR Catalst Outlet Gas Temp-Data Valid But Abv Nrml Operat Rng-Mod Svr (General)	1526798448
+Aftertreatment 2 Intake NOx Sensor Heater - Abnormal Rate of Change (General)	1526798474
+Aftertreatment 2 SCR Catalyst System Missing - Condition Exists (General)	1526798527
+Exhst Manif Bank 2 Press Sensor 1-Data Valid but Abv Nrml Operat Rng-Most Svr (General)	1526798528
+Eng Exhst Gas Bank 2 Press Snsr 1-Volt Abv Normal or Shorted to High Source (General)	1526798531
+Eng Exhst Gas Bank 2 Press Snsr 1-Volt Blw Normal or Shorted to Low Source (General)	1526798532
+Exhst Manif Bank 2 Press Sensor 1-Data Valid But Abv Nrml Operat Rng-Lst Svr (General)	1526798543
+Exhst Manif Bank 2 Press Sensor 1-Data Valid but Abv Nrml Operat Rng-Mod Svr (General)	1526798544
+Aftrtrtmnt Select Catalytic Reduc Temp Snsr Modl-Volt Abv Normal/Shorted High (General)	1526798563
+Aftrtrtmnt Select Catalytic Reduc Temp Snsr Modl-Volt Blw Normal/Shorted to Low (General)	1526798564
+Aftrtrtmnt Select Catalytic Reduc Temp Snsr Modl-Abnormal Update Rate (General)	1526798569
+Aftrtrtmnt Select Catlyt Red Temp Snsr Modl-Root Cause Not Known (General)	1526798571
+Aftrtrtmnt Select Catalytic Reduc Temp Snsr Modl-Bad Intelligent Device (General)	1526798572
+Aftrtrtmnt Select Catlyt Red Temp Snsr Modl-Data Valid Bt Abv Nrml Oper Rng-Mod Svr (General)	1526798576
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Unit Heater-Volt Abv Normal/Shorted to High (General)	1526798595
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Unit Heater-Volt Below Normal/Shorted to Low (General)	1526798596
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Temp Snsr-Volt Abv Normal/Shorted to High (General)	1526798627
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Temp Snsr-Volt Blw Normal/Shorted to Low (General)	1526798628
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Temp-Data Valid But Abv Normal Operat Rng-Mod Svr (General)	1526798640
+Aftrtrtmnt 1 Disl Exhst Fluid Temp 2 Snsr Crct-Volt Above Normal/Shorted to High (General)	1526798659
+Aftrtrtmnt 1 Disl Exhst Fluid Temp 2 Snsr Crct-Volt Below Normal/Shorted to Low (General)	1526798660
+Aftertreatment 1 Diesel Exhaust Fluid Temperature 2 - Abnormal Rate of Change (General)	1526798666
+Aftertreatment 1 Diesel Exhaust Fluid Temperature 2 - Root Cause Not Known (General)	1526798667
+Aftrtrtmnt 1 Disl Exhst Fluid Pump Motor Speed Crct-Volt Abv Normal/Shorted to High (General)	1526798691
+Aftrtrtmnt 1 Disl Exhst Fluid Pump Motor Speed Crct-Volt Blw Normal/Shorted to Low (General)	1526798692
+J1939 Network #4 - Data Erratic Intermittent or Incorrect (General)	1526798722
+Aftertreatment 2 Diesel Exhaust Fluid Dosing Unit Input Lines - Condition Exists (General)	1526798783
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Unit-Volt Abv Normal/Shorted to High Source (General)	1526798787
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Unit-Volt Blw Normal/Shorted to Low Source (General)	1526798788
+Aftertrtmnt 2 Disl Exhst Fluid Line Heater Relay-Volt Abv Normal/Shorted to High (General)	1526798819
+Aftertrtmnt 2 Disl Exhst Fluid Line Heater Relay-Volt Blw Normal/Shorted to Low (General)	1526798820
+Aftrtrtmnt 2 Diesel Exhaust Fluid Line Heater Relay-Mechanical System Not Responding (General)	1526798823
+Aftertreatment 2 Diesel Exhaust Fluid Line Heater Relay - Condition Exists (General)	1526798847
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Valve-Current Below Normal/Open Circuit (General)	1526798853
+Aftrtrtmnt 2 Disl Exhst Fluid Press-Data Erratic Intermittent or Incorrect (General)	1526798882
+Aftrtrtmnt 2 Disl Exhst Fluid Press Sensor Circuit-Volt Above Normal/Shorted to High (General)	1526798883
+Aftrtrtmnt 2 Disl Exhst Fluid Press Sensor Circuit-Volt Below Normal/Shorted to Low (General)	1526798884
+Aftrtrtmnt 2 Disl Exhst Fluid Press 1 Snsr Crct-Current Below Normal/Open Circuit (General)	1526798885
+Aftrtrtmnt 2 Disl Exhst Fluid Press-Data Valid But Abv Nrml Operat Rng-Mod Svr (General)	1526798896
+Aftertrtmnt 2 Disl Exhst Fluid Press-Data Valid But Blw Normal Operat Range-Mod Svr (General)	1526798898
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Unit Heater-Volt Abv Normal/Shorted to High (General)	1526798915
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Unit Heater-Volt blw normal/shorted to low (General)	1526798916
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Temp-Data Erratic Intermittent or Incorrect (General)	1526798946
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Temp Snsr Crct-Volt Abv Normal/Shorted to High (General)	1526798947
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Temp Snsr Crct-Volt Blw Normal/Shorted to Low (General)	1526798948
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Temp-Data Valid Bt Abv Nrml Operat Rng-Mod Svr (General)	1526798960
+Aftrtrtmnt 2 Disl Exhst Fluid Pump Motor Speed Crct-Volt Above Normal/Shorted High (General)	1526798979
+Aftrtrtmnt 2 Disl Exhst Fluid Pump Motor Speed Crct-Volt Below Normal/Shorted Low (General)	1526798980
+Aftrtrtmnt 2 Disl Exhst Fluid Pump 1 Motor Speed Crct-Current Blw Nrml/Open Crct (General)	1526798981
+Turbocharger 3 Speed - Data Erratic Intermittent or Incorrect (General)	1526799010
+Turbocharger 4 Speed - Data Erratic Intermittent or Incorrect (General)	1526799042
+Aftrtrtmnt 2 Intake NOx Snsr Power Supply-Data Erratic Intermittent or Incorrect (General)	1526799074
+Aftrtrtmnt 2 Outlet NOx Snsr Power Supply-Data Erratic Intermittent or Incorrect (General)	1526799106
+Aftertreatment 2 Outlet NOx Sensor Heater - Abnormal Rate of Change (General)	1526799146
+Aftertreatment 1 SCR Catalyst System - Special Instructions (General)	1526799182
+Aftertreatment 1 SCR Feedback Control Status - Condition Exists (General)	1526799231
+Aftrtrtmnt 1 Disl Exhst Fluid Actal Dos Quant-Data Valid Bt Blw Nrml Opr Rng-Lst Svr (General)	1526799249
+Aftrtrtmnt SCR Actual Dos Reagnt Quant-Data Valid Bt Blw Nrml Operat Rng-Mod Svr (General)	1526799250
+Water in Fuel Indic 2 Sensor Circuit-Volt Above Normal or Shorted to High Source (General)	1526799267
+Water in Fuel Indicator 2 Snsr Crct-Volt Below Normal or Shorted to Low Source (General)	1526799268
+Crankcase Pressure 2-Data Erratic Intermittent or Incorrect (General)	1526799298
+Crankcase Pressure 2 Sensor Circuit-Voltage above normal or shorted to high source (General)	1526799299
+Crankcase Pressure 2 Sensor Circuit-Voltage below normal or shorted to low source (General)	1526799300
+Crankcase Press 2-Data Valid but Above Nrml Operat Rng-Lst Svr Lvl (General)	1526799311
+Crankcase Press 2-Data Valid but Above Normal Operating Range-Mod Svr Lvl (General)	1526799312
+Crankcase Pressure 2-Data Valid but Blw Normal Operat Rng-Lst Svr Level (General)	1526799313
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Valve 1 Heater-Volt Abv Normal/Shorted to High (General)	1526799331
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Valve 1 Heater-Volt Blw Normal/Shorted to Low (General)	1526799332
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Valve 1 Heater-Volt Abv Normal/Shorted to High (General)	1526799363
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Valve 1 Heater-Volt Blw Normal/Shorted to Low (General)	1526799364
+Aftertreatment 1 Diesel Exhaust Fluid Property - Root Cause Not Known (General)	1526799403
+Aftertreatment SCR Operator Inducement Active - Condition Exists (General)	1526799455
+Engine Oil Priming State-Mechanical system not responding or out of adjustment (General)	1526799463
+Engine Fuel Supply Pump Supply Volt-Data Valid bt Blw Nrml Operat Rng-Most Svr Lvl (General)	1526799489
+Engine Fuel Supply Pump - Mechanical system not responding or out of adjustment (General)	1526799495
+Engine Fuel Supply Pump - Abnormal Update Rate (General)	1526799497
+Engine Fuel Supply Pump - Root Cause Not Known (General)	1526799499
+Engine Fuel Supply Pump Supply Volt-Data Valid Bt Blw Nrml Operat Rng-Mod Svr Lvl (General)	1526799506
+Engine Fuel Supply Pump Temp-Data Valid but Above Normal Operat Rng-Most Sevr Lvl (General)	1526799520
+Engine Fuel Supply Pump Temp-Data Valid But Above Normal Operat Rng-Mod Sevr Lvl (General)	1526799536
+Engine Fuel Supply Pump - Out of Calibration (General)	1526799565
+Engine Fuel Valve 1 - Data erratic intermittent or incorrect (General)	1526799586
+Engine Fuel Valve 1 - Voltage Above Normal or Shorted to High Source (General)	1526799587
+Engine Fuel Valve 1 - Voltage Below Normal or Shorted to Low Source (General)	1526799588
+Engine Fuel Valve 1 - Abnormal Update Rate (General)	1526799593
+Engine Fuel Valve 1 - Root Cause Not Known (General)	1526799595
+Engine Fuel Valve 1 - Bad Intelligent Device or Component (General)	1526799596
+Engine Fuel Valve 1 - Out of Calibration (General)	1526799597
+Engine Fuel Valve 1 - Condition Exists (General)	1526799615
+Engine Fuel Valve 1 Power Supply - Data erratic intermittent or incorrect (General)	1526799618
+Engine Fuel Valve 1 Power Supply - Voltage Above Normal or Shorted to High Source (General)	1526799619
+Engine Fuel Valve 1 Power Supply - Voltage Below Normal or Shorted to Low Source (General)	1526799620
+Eng Disl Fuel Meter Valve Temp-Data Valid But Abv Nrml Operat Rng-Most Svr (General)	1526799648
+Engine Fuel Valve 1 Temp-Data Valid But Abv Normal Operat Rng-Lst Severe (General)	1526799663
+Eng Disl Fuel Meter Valve Temp-Data Valid But Abv Nrml Operat Rng-Mod Svr (General)	1526799664
+Engine Disl Fuel Meter Valve Pos Snsr Crct-Volt Abv Normal/Shorted to High (General)	1526799683
+Engine Disl Fuel Meter Valve Pos Snsr Crct-Volt Blw Normal/Shorted to Low (General)	1526799684
+Engine Fuel Valve 1 Position - Received Network Data In Error (General)	1526799699
+Engine Starter Control-Voltage Above Normal or Shorted to High Source (General)	1526799715
+Engine Starter Control-Voltage Below Normal or Shorted to Low Source (General)	1526799716
+Engine Failed to Crank-Condition Exists (General)	1526799775
+Engine Failed to Start-Condition Exists (General)	1526799807
+Engine Uncommanded Cranking-Condition Exists (General)	1526799839
+Engine Crank Without Prelube-Condition Exists (General)	1526799871
+Aftertreatment Diesel Exhaust Fluid Doser Heating Mode Request - Condition Exists (General)	1526799903
+Engine Intake Manif 2 Press-Data Valid But Blw Nrml Operat Rng-Most Svr (General)	1526799905
+Engine Fuel Pump Oil Press-Data Valid But Blw Normal Operat Rng-Most Svr Level (General)	1526799937
+Fuel Pump Oil Press Snsr Crct-Volt Above Normal or Shorted to High Source (General)	1526799939
+Fuel Pump Oil Press Snsr Crct-Volt Below Normal or Shorted to Low Source (General)	1526799940
+Eng Fuel Pump Oil Press-Data Valid But Blw Normal Operat Rng-Mod Severe Level (General)	1526799954
+Allow Start Override Active-Condition Exists (General)	1526799999
+Aftertreatment 2 SCR Catalyst System - Special Instructions (General)	1526800014
+Aftertreatment 1 Diesel Exhaust Fluid Dosing System Frozen - Condition Exists (General)	1526800063
+Engine Emergency Shutdown Switch Activated - Condition Exists (General)	1526800095
+Excessive Time Since Last Engine Air Shutoff Maintenance Test - Condition Exists (General)	1526800127
+Engine Oil Viscosity - Abnormal Update Rate (General)	1526800137
+Eng Exhst Bank 1 Press Regulat Actuat Control Circuit - Root Cause Not Known (General)	1526800171
+Eng Exhst Back Press Regult Ctrl Crct Volt-Data Valid Bt Blw Nrml Operat Rng-Mod Svr (General)	1526800178
+Machine Interlock Switch - Voltage Above Normal or Shorted to High Source (General)	1526800195
+Machine Interlock Switch - Voltage Below Normal or Shorted to Low Source (General)	1526800196
+SCR Thermal Managemnt Inhibit Switch-Volt Abv Normal/Shorted to High Source (General)	1526800227
+SCR Thermal Managemnt Inhibit Switch-Volt Below Normal/Shorted to Low Source (General)	1526800228
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Vlv 1 Heat-Data Valid Bt Blw Nrml Oper Rng-Mod Svr (General)	1526800274
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Vlv 1 Heat-Data Valid Bt Blw Nrml Oper Rng-Mod Svr (General)	1526800306
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Vlv 2 Heat-Volt Abv Normal/Shorted to High (General)	1526800323
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Vlv 2 Heat-Volt Below Normal/Shorted to Low (General)	1526800324
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Vlv 2 Heat-Data Valid Bt Blw Nrml Oper Rng-Mod Svr (General)	1526800338
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Vlv 2 Heat Crct-Volt Abv Normal/Shorted to High (General)	1526800355
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Vlv 2 Heat Crct-Volt Blw Normal/Shorted to Low (General)	1526800356
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Vlv 2 Heat-Data Vald Bt Blw Nrml Oper Rng-Mod Svr (General)	1526800370
+Eng Turbchrgr Wastegate Actuat 2 Temp-Data Valid But Abv Normal Operat Rng-Lst Svr (General)	1526800399
+Aftrtrtmnt 1 Disl Exhst Fluid Pump 1 Motor Speed Crct-Current Blw Nrml/Open Crct (General)	1526800421
+Eng Turbchrgr Wastegate Actuat 1 Power Supply-Volt Abv Normal/Shorted to High (General)	1526800451
+Engine Turbocharger Wastegate Actuator 1 Power Supply-Volt Blw Nrml/Shorted Low (General)	1526800452
+Eng Turbchrgr Wstegte Actuat 1 Power Supply-Data Valid Bt Blw Nrml Oper Rng-Mod Svr (General)	1526800466
+Eng Turbchrgr Wstegte Actuat 2 Power Supply-Data Valid Bt Blw Nrml Oper Rng-Mod Svr (General)	1526800498
+SCR Operator Inducement Override Switch - Abnormal Update Rate (General)	1526800521
+SCR Operator Inducement Override Switch - Out of Calibration (General)	1526800525
+Aftrtrtmnt 2 Select Catalytic Reduct Temp Sensor Module-Volt Abv Nrml/Shorted High (General)	1526800547
+Aftrtrtmnt 2 Select Catalytic Reduct Temp Sensor Module-Volt Blw Normal/Shorted Low (General)	1526800548
+Aftrtrtmnt 2 Select Catalytic Reduct Temp Sensor Module-Abnormal Update Rate (General)	1526800553
+Aftrtrtmnt 2 Select Catalytic Reduction Temp Sensor Module-Bad Intelligent Device (General)	1526800556
+Aftrtrtmnt 2 Slct Catlyt Reduc Temp Snsr Mdul-Data Vald Bt Abv Nrml Oper Rng-Mod Svr (General)	1526800560
+Aftertreatment 1 Diesel Exhaust Fluid Dosing Unit 2 Input Lines - Condition Exists (General)	1526800607
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Unit 2 Crct-Volt Above Normal/Shorted to High Src (General)	1526800611
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Unit 2 Crct-Volt Below Normal/Shorted to Low Src (General)	1526800612
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Vlv 2 Crct-Current Below Normal or Open Circuit (General)	1526800645
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Vlv 2-Mechanical System Not Responding (General)	1526800647
+Aftrtrtmnt 1 Disl Exhst Fluid Press 2 - Data Erratic Intermittent or Incorrect (General)	1526800674
+Aftrtrtmnt 1 Disl Exhst Fluid Press 2 Sensor Circuit-Volt Abv Normal/Shorted to High (General)	1526800675
+Aftrtrtmnt 1 Disl Exhst Fluid Press 2 Snsr Crct-Volt Below Normal/Shorted to Low Src (General)	1526800676
+Aftrtrtmnt 1 Disl Exhst Fluid Press 2 Snsr Crct-Current Blw Normal/Open Circuit (General)	1526800677
+Aftrtrtmnt 1 Disl Exhst Fluid Press 2-Data Valid Bt Abv Nrml Oper Rng-Mod Svr (General)	1526800688
+Aftrtrtmnt 1 Disl Exhst Fluid Press 2-Data Valid Bt Blw Nrml Oper Rng-Mod Svr (General)	1526800690
+Aftrtrtmnt 1 Disl Exhst Fluid Dos 2 Temp-Data Erratic Intermittent or Incorrect (General)	1526800706
+Aftrtrtmnt 1 Disl Exhst Fluid Dos 2 Temp Snsr Crct-Volt Above Normal/Shorted to High (General)	1526800707
+Aftrtrtmnt 1 Disl Exhst Fluid Dos 2 Temp Snsr Crct-Volt Blw Normal/Shorted to Low (General)	1526800708
+Aftrtrtmnt 1 Disl Exhst Fluid Dos 2 Temp-Data Valid But Abv Normal Oper Rng-Mod Svr (General)	1526800720
+Aftrtrtmnt 1 Disl Exhst Fluid Pump 2 Motor Speed Crct-Volt Abv Nrml/Shorted High (General)	1526800739
+Aftrtrtmnt 1 Disl Exhst Fluid Pump 2 Motor Speed Crct-Volt Blw Nrml/Shorted Low (General)	1526800740
+Aftrtrtmnt 1 Disl Exhst Fluid Pump 2 Motor Speed Crct-Current Blw Nrml/Open Circuit (General)	1526800741
+Aftertreatment 2 Diesel Exhaust Fluid Dosing Unit 2 Input Lines - Condition Exists (General)	1526800799
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Unit 2 Crct-Volt Abv Normal/Shorted to High (General)	1526800803
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Unit 2 Crct-Volt Blw Normal/Shorted to Low (General)	1526800804
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Vlv 2 Circuit - Current Below Normal/Open Circuit (General)	1526800837
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Vlv 2-Mechanical System Not Responding (General)	1526800839
+Aftrtrtmnt 2 Disl Exhst Fluid Press 2-Data Erratic Intermittent or Incorrect (General)	1526800866
+Aftrtrtmnt 2 Disl Exhst Fluid Press 2 Snsr Circuit-Volt Above Normal/Shorted to High (General)	1526800867
+Aftrtrtmnt 2 Diesel Exhst Fluid Press 2 Sensor Circuit-Volt Below Normal/Shorted Low (General)	1526800868
+Aftrtrtmnt 2 Disl Exhst Fluid Press 2 Snsr Circuit-Current Below Normal/Open Circuit (General)	1526800869
+Aftrtrtmnt 2 Disl Exhst Fluid Press 2-Data Valid But Abv Nrml Oper Rng-Mod Svr (General)	1526800880
+Aftrtrtmnt 2 Disl Exhst Fluid Press 2-Data Valid But Blw Nrml Oper Rng-Mod Svr (General)	1526800882
+Aftrtrtmnt 2 Disl Exhst Fluid Dos 2 Temp-Data Erratic Intermittent or Incorrect (General)	1526800898
+Aftrtrtmnt 2 Disel Exhaust Fluid Dosing 2 Temp Snsr Crct-Volt Abv Nrml/Shorted High (General)	1526800899
+Aftrtrtmnt 2 Disel Exhst Fluid Dosing 2 Temp Snsr Crct-Volt Blw Normal/Shorted Low (General)	1526800900
+Aftrtrtmnt 2 Disl Exhst Fluid Dos 2 Temp-Data Valid Bt Abv Normal Operat Rng-Mod Svr (General)	1526800912
+Aftrtrtmnt 2 Disl Exhst Fluid Pump 2 Motor Speed Crct-Volt Abv Nrml/Shorted High (General)	1526800931
+Aftrtrtmnt 2 Disl Exhst Fluid Pump 2 Motor Speed Crct-Volt Blw Normal/Shorted Low (General)	1526800932
+Aftrtrtmnt 2 Disl Exhst Fluid Pump 2 Motor Speed Crct-Current Blw Nrml/Open Crct (General)	1526800933
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Unit 3 Crct-Volt Above Normal/Shorted to High (General)	1526800963
+Aftrtrtmnt 1 Disel Exhst Fluid Dosing Unit 3 Circuit-Volt Below Normal/Shorted Low (General)	1526800964
+Aftrtrtmnt 1 Disl Exhst Fluid Doser 3 Temp-Data Erratic Intermittent or Incorrect (General)	1526800994
+Aftrtrtmnt 1 Disl Exhst Fluid Doser 3 Temp Snsr Circuit-Volt Abv Normal/Shorted High (General)	1526800995
+Aftrtrtmnt 1 Disel Exhst Fluid Doser 3 Temp Snsr Circuit-Volt Blw Normal/Shorted Low (General)	1526800996
+Aftrtrtmnt 1 Diesel Exhst Fluid Dos 3 Temp-Data Valid Bt Abv Nrml Oper Rng-Mod Svr (General)	1526801008
+Aftrtrtmnt 1 Disl Exhst Fluid Pressure 3 - Data Erratic Intermittent or Incorrect (General)	1526801026
+Aftrtrtmnt 1 Disl Exhst Fluid Press 3 Snsr Crct-Volt Abv Normal/Shorted to High (General)	1526801027
+Aftrtrtmnt 1 Disel Exhst Fluid Press 3 Snsr Circuit-Volt Below Normal/Shorted to Low (General)	1526801028
+Aftrtrtmnt 1 Disel Exhst Fluid Press 3 Sensor Circuit-Current Blw Normal/Open Crct (General)	1526801029
+Aftrtrtmnt 1 Disel Exhst Fluid Press 3-Data Valid But Abv Nrml Oper Rng-Mod Svr (General)	1526801040
+Aftrtrtmnt 1 Disel Exhst Fluid Press 3-Data Valid But Blw Normal Oper Rng-Mod Svr (General)	1526801042
+Aftrtrtmnt 1 Disel Exhst Fluid Pump 3 Motor Speed Crct-Volt Abv Normal/Shorted High (General)	1526801059
+Aftrtrtmnt 1 Disl Exhst Fluid Pump 3 Motor Speed Crct-Volt Blw Normal/Shorted Low (General)	1526801060
+Aftrtrtmnt 1 Disl Exhst Fluid Pump 3 Motor Speed Crct-Current Blw Nrml/Open Circuit (General)	1526801061
+Aftertreatment 1 Diesel Exhaust Fluid Dosing Unit 3 Input Lines - Condition Exists (General)	1526801119
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Valve 3-Current Below Normal/Open Circuit (General)	1526801125
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Valve 3-Mechanical System Not Responding (General)	1526801127
+Aftrtrtmnt 2 Disel Exhst Fluid Dosing Unit 3 Circuit-Volt Above Normal/Shorted High (General)	1526801155
+Aftrtrtmnt 2 Disel Exhst Fluid Dosing Unit 3 Circuit-Volt Below Normal/Shorted Low (General)	1526801156
+Aftrtrtmnt 2 Disl Exhst Fluid Doser 3 Temp-Data Erratic Intermittent or Incorrect (General)	1526801186
+Aftrtrtmnt 2 Disel Exhst Fluid Doser 3 Temp Snsr Crct-Volt Above Normal/Shorted High (General)	1526801187
+Aftrtrtmnt 2 Disel Exhst Fluid Doser 3 Temp Sensor Circuit-Volt Blw Nrml/Shorted Low (General)	1526801188
+Aftrtrtmnt 2 Disl Exhst Fluid Doser 3 Temp-Data Valid But Abv Nrml Oper Rng-Mod Svr (General)	1526801200
+Aftrtrtmnt 2 Disl Exhst Fluid Pressure 3 - Data Erratic Intermittent or Incorrect (General)	1526801218
+Aftrtrtmnt 2 Disl Exhst Fluid Press 3 Snsr Crct-Volt Blw Normal/Shorted to Low (General)	1526801219
+Aftrtrtmnt 2 Disel Exhst Fluid Press 3 Sensor Circuit-Volt Blw Normal/Shorted to Low (General)	1526801220
+Aftrtrtmnt 2 Disl Exhst Fluid Press 3 Snsr Crct-Current Below Normal/Open Circuit (General)	1526801221
+Aftrtrtmnt 2 Disel Exhst Fluid Press 3-Data Valid But Above Normal Oper Rng-Mod Svr (General)	1526801232
+Aftrtrtmnt 2 Disel Exhst Fluid Press 3-Data Valid But Below Normal Oper Rng-Mod Svr (General)	1526801234
+Aftrtrtmnt 2 Disl Exhst Fluid Pump 3 Motor Speed Crct-Volt Above Normal/Shorted High (General)	1526801251
+Aftrtrtmnt 2 Disl Exhst Fluid Pump 3 Motor Speed Crct-Volt Below Normal/Shorted Low (General)	1526801252
+Aftrtrtmnt 2 Disl Exhst Fluid Pump 3 Motor Speed Crct-Current Blw Nrml/Open Crct (General)	1526801253
+Aftertreatment 2 Diesel Exhaust Fluid Dosing Unit 3 Input Lines - Condition Exists (General)	1526801311
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Vlv 3 Crct-Current Blw Normal or Open Circuit (General)	1526801317
+Aftrtrtmnt 2 Disl Exhst Fluid Dos Vlv 3-Mechanical System Not Responding (General)	1526801319
+Other ECU Reprt Diag Trubl Code Affect Oper-Data Valid Bt Abv Nrml Oper Rng-Most Svr (General)	1526801344
+Other ECU Reprt Diag Trubl Code Affect Oper-Data Valid But Abv Nrml Oper Rng-Lst Svr (General)	1526801359
+Other ECU Reprt Diag Trubl Code Affect Oper-Data Valid Bt Abv Nrml Oper Rng-Mod Svr (General)	1526801360
+Aftrtrtmnt 1 SCR Sys Clean Req/HydroCarbn-Data Vld Bt Abv Nrml Oper Rng-Most Svr (General)	1526801376
+Aftrtrtmnt 1 SCR System Cleaning Req-Data Valid But Abv Nrml Oper Rng-Lst Svr (General)	1526801391
+Aftrtrtmnt 1 SCR System Cleaning Req-Data Valid But Abv Nrml Oper Rng-Mod Svr (General)	1526801392
+Aftrtrtmnt 2 SCR Sys Clean Req/Hydrcarbn-Data Vld Bt Abv Nrml Oper Rng-Most Svr (General)	1526801408
+Aftrtrtmnt 2 SCR Sys Clean Req-Data Valid But Abv Nrml Oper Rng-Least Sevr Lvl (General)	1526801423
+Aftrtrtmnt 2 SCR Sys Clean Req-Data Valid But Abv Nrml Oper Rng-Mod Svr (General)	1526801424
+Aftertreatment 2 Diesel Exhaust Fluid Doser Heating Mode Request - Condition Exists (General)	1526801471
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Unit 3 Heater Crct-Volt Abv Normal/Shorted High (General)	1526801475
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Unit 3 Heater Crct-Volt Blw Normal/Shorted Low (General)	1526801476
+Aftrtrtmnt 1 Diesel Exhaust Fluid Dos Valve 3 Heater Crct-Volt Abv Nrml/Shorted High (General)	1526801507
+Aftrtrtmnt 1 Disl Exhst Fluid Dos Valve 3 Heater Crct-Volt Blw Nrml/Shorted Low (General)	1526801508
+Aftrtrtmnt 2 Diesel Exhaust Fluid Dos Valve 3 Heater Crct-Volt Abv Nrml/Shorted High (General)	1526801539
+Aftrtrtmnt 2 Diesel Exhaust Fluid Dos Valve 3 Heater Crct-Volt Blw Nrml/Shorted Low (General)	1526801540
+Aftrtrtmnt SCR Catlst Convers Effic-Data Valid But Below Nrml Oper Rng-Lst Svr (General)	1526801585
+Engine Waste Oil Reservoir Level Sensor Circuit-Volt Above Normal/Shorted High (General)	1526801603
+Engine Waste Oil Reservoir Level Sensor Circuit-Volt Below Normal/Shorted Low (General)	1526801604
+Engine Fuel Leakage - Condition Exists (General)	1526801663
+Fuel Pump Priming Status - Special Instructions (General)	1526801678
+Aftrtrtmnt 1 SCR Sys Partculte Status/Soot-Data Valid Bt Abv Nrml Oper Rng-Most Svr (General)	1526801696
+Aftrtrtmnt 1 SCR System Particulate Status-Data Valid But Abv Nrml Oper Rng-Lst Svr (General)	1526801711
+Aftrtrtmnt 1 SCR System Particulate Status-Data Valid But Abv Nrml Oper Rng-Mod Svr (General)	1526801712
+Aftrtrtmnt 2 SCR Sys Partculte Status/Soot-Data Valid Bt Abv Nrml Oper Rng-Most Svr (General)	1526801728
+Aftrtrtmnt 2 SCR Sys Particulate Status-Data Valid But Abv Normal Oper Rng-Lst Svr (General)	1526801743
+Aftrtrtmnt 2 SCR Sys Particulate Status-Data Valid But Abv Normal Oper Rng-Mod Svr (General)	1526801744
+Engine Electric Fuel Lift Pump Temp-Data Valid But Above Normal Oper Rng-Most Svr (General)	1526801760
+Engine Electric Fuel Lift Pump Temp-Data Valid But Abv Nrml Oper Rng-Mod Svr (General)	1526801776
+Aftrtrtmnt 2 SCR Catalyst Conversion Effic-Data Valid But Blw Nrml Oper Rng-Lst Svr (General)	1526801809
+Aftrtrtmnt 2 Disl Exhst Fluid Dosing Unit 1 Heater Relay-Mechanical Sys Not Repsond (General)	1526801831
+Aftertreatment 2 Diesel Exhaust Fluid Dosing Unit 1 Heater Relay - Condition Exists (General)	1526801855
+Aftrtrtmnt 1 Diesel Exhst Fluid Dos Unit 1 Heater Relay-Mechanical Sys Not Respond (General)	1526801863
+Aftertreatment 1 Diesel Exhaust Fluid Dosing Unit 1 Heater Relay - Condition Exists (General)	1526801887
+Engine Exhst Bank 1 Press Regulator Actuator Supply Volt-Volt Abv Nrml/Shorted High (General)	1526801891
+Engine Exhaust Bank 1 Press Regulat Actuat Supply Volt-Volt blw Nrml/Shorted Low (General)	1526801892
+Engine Exhaust Bank 1 Press Regulator Actuator-Mechanical System Not Responding (General)	1526801895
+Engine Exhaust Bank 1 Pressure Regulator Actuator - Abnormal Update Rate (General)	1526801897
+Engine Exhaust Bank 1 Pressure Regulator Actuator - Bad Intelligent Device (General)	1526801900
+Engine Exhaust Bank 1 Pressure Regulator Actuator - Out of Calibration (General)	1526801901
+Engine Exhaust Bank 1 Pressure Regulator Actuator - Condition Exists (General)	1526801919
+Engine Exhaust Bank 2 Press Regulat Actuat Supply Volt-Volt Abv Normal/Shorted High (General)	1526801923
+Engine Exhaust Bank 2 Press Regulat Actuat Supply Volt-Volt blw Nrml/Shorted Low (General)	1526801924
+Engine Exhaust Bank 2 Press Regulator Actuator-Mechanical System Not Responding (General)	1526801927
+Engine Exhaust Bank 2 Pressure Regulator Actuator - Abnormal Update Rate (General)	1526801929
+Engine Exhaust Bank 2 Pressure Regulator Actuator - Bad Intelligent Device (General)	1526801932
+Engine Exhaust Bank 2 Pressure Regulator Actuator - Out of Calibration (General)	1526801933
+Engine Exhaust Bank 2 Pressure Regulator Actuator - Condition Exists (General)	1526801951
+Eng Exhst Bank 1 Press Regulat Actuat Temp-Data Valid But Abv Nrml Oper Rng-Lst Svr (General)	1526801967
+Eng Exhst Bank 2 Press Regulat Actuat Temp-Data Valid But Abv Nrml Oper Rng-Lst Svr (General)	1526801999
+Engine Exhaust Bank 2 Press Regulat Actuat Ctrl Crct - Root Cause Unknown (General)	1526802027
+Eng Exhst Bank 2 Press Regult Ctrl Crct Volt-Data Valid bt Blw Nrml Oper Rng-Mod Svr (General)	1526802034
+Aftrtrtmnt 2 Disl Exhst Fluid Actul Dos Quant-Data Vlid Bt Blw Nrml Oper Rng-Lst Svr (General)	1526802065
+Aftrtrtmnt 1 SCR Sys Cln Incomp Lw Exhst Temp-Data Vlid Bt Blw Nrml Oper Rng-Lst Svr (General)	1526802097
+Aftrtrtmnt 1 SCR Sys Cln Incomp Lw Exhst Temp-Data Vlid Bt Blw Nrml Oper Rng-Mod Svr (General)	1526802098
+Aftrtrtmnt 2 SCR Sys Cln Incomp Lw Exhst Temp-Data Vlid Bt Blw Nrml Oper Rng-Lst Svr (General)	1526802129
+Aftrtrtmnt 2 SCR Sys Cln Incomp Lw Exhst Temp-Data Vlid Bt Blw Nrml Oper Rng-Mod Svr (General)	1526802130
+Eng Exhst Bank 1 Press Regulat Actuat 2 Supply Volt-Volt Abv Nrml/Shorted High (General)	1526802147
+Eng Exhst Bank 1 Press Regulat Actuat 2 Supply Volt-Volt Blw Nrml/Shorted Low (General)	1526802148
+Engine Exhaust Bank 1 Press Regulat Actuator 2-Mechanical System Not Responding (General)	1526802151
+Engine Exhaust Bank 1 Pressure Regulator Actuator 2 - Abnormal Update Rate (General)	1526802153
+Engine Exhaust Bank 1 Pressure Regulator Actuator 2 - Bad Intelligent Device (General)	1526802156
+Engine Exhaust Bank 1 Pressure Regulator Actuator 2 - Out of Calibration (General)	1526802157
+Engine Exhaust Bank 1 Pressure Regulator Actuator 2 - Condition Exists (General)	1526802175
+Engine Exhaust Bank 2 Press Regulat Actuat 2 Supply Volt-Volt Abv Nrml/Shorted High (General)	1526802179
+Engine Exhaust Bank 2 Press Regulat Actuat 2 Supply Volt-Volt Blw Nrml/Shorted Low (General)	1526802180
+Engine Exhaust Bank 2 Press Regulat Actuator 2-Mechanical System Not Responding (General)	1526802183
+Engine Exhaust Bank 2 Pressure Regulator Actuator 2 - Abnormal Update Rate (General)	1526802185
+Engine Exhaust Bank 2 Pressure Regulator Actuator 2 - Bad Intelligent Device (General)	1526802188
+Engine Exhaust Bank 2 Pressure Regulator Actuator 2 - Out of Calibration (General)	1526802189
+Engine Exhaust Bank 2 Pressure Regulator Actuator 2 - Condition Exists (General)	1526802207
+Eng Exhst Bank 1 Press Regulat Actuat 2 Temp-Data Vlid Bt Abv Nrml Oper Rng-Lst Svr (General)	1526802223
+Eng Exhst Bank 2 Press Regulat Actuat 2 Temp-Data Vlid Bt Abv Nrml Oper Rng-Lst Svr (General)	1526802255
+Eng Exhst Bank 1 Press Regulat Actuat 2 Control Circuit - Root Cause Unknown (General)	1526802283
+Eng Exhst Bnk 1 Press Regult 2 Ctrl Crct Volt-Data Vlid bt Blw Nrml Oper Rng-Mod Svr (General)	1526802290
+Eng Exhst Bank 2 Press Regulat Actuat 2 Control Circuit - Root Cause Not Known (General)	1526802315
+Eng Exhst Bnk 2 Press Regult 2 Ctrl Crct Volt-Data Vlid bt Blw Nrml Oper Rng-Mod Svr (General)	1526802322
+Exhst Manifold Bank 1 Press Sensor 2-Data Valid but Abv Normal Operat Rng-Most Svr (General)	1526802336
+Exhaust Manifold Bank 1 Pressure Sensor 2 - Voltage Above Normal/Shorted High (General)	1526802339
+Exhaust Manifold Bank 1 Pressure Sensor 2 - Voltage Below Normal/Shorted Low (General)	1526802340
+Exhst Manifold Bank 1 Press Sensor 2-Data Valid But Abv Normal Oper Rng-Least Svr (General)	1526802351
+Exhst Manifold Bank 1 Press Sensor 2-Data Valid bt Abv Nrml Oper Rng-Mod Svr (General)	1526802352
+Exhst Manifold Bank 2 Press Sensor 2-Data Valid but Abv Normal Oper Rng-Most Svr (General)	1526802368
+Exhaust Manifold Bank 2 Pressure Sensor 2 - Voltage Above Normal/Shorted High (General)	1526802371
+Exhaust Manifold Bank 2 Pressure Sensor 2 - Voltage Below Normal/Shorted Low (General)	1526802372
+Exhst Manifold Bank 2 Pressure Sensor 2-Data Valid But Abv Nrml Oper Rng-Least Svr (General)	1526802383
+Exhst Manifold Bank 2 Press Sensor 2-Data Valid but Abv Normal Oper Rng-Mod Svr (General)	1526802384
+Exhaust Gas Temperature Sensor Module 1 - Abnormal Update Rate (General)	1526802409
+Exhaust Gas Temperature Sensor Module 1 - Special Instructions (General)	1526802414
+Exhaust Gas Temperature Sensor Module 1 - Condition Exists (General)	1526802431
+Exhaust Gas Temperature Sensor Module 2 - Abnormal Update Rate (General)	1526802441
+Exhaust Gas Temperature Sensor Module 2 - Special Instructions (General)	1526802446
+Exhaust Gas Temperature Sensor Module 2 - Condition Exists (General)	1526802463
+Exhaust Gas Temperature Sensor Module 3 - Abnormal Update Rate (General)	1526802473
+Exhaust Gas Temperature Sensor Module 3 - Special Instructions (General)	1526802478
+Exhaust Gas Temperature Sensor Module 3 - Condition Exists (General)	1526802495
+Exhaust Gas Temperature Sensor Module 4 - Abnormal Update Rate (General)	1526802505
+Exhaust Gas Temperature Sensor Module 4 - Special Instructions (General)	1526802510
+Exhaust Gas Temperature Sensor Module 4 - Condition Exists (General)	1526802527
+Exhaust Gas Temperature Sensor Module 5 - Abnormal Update Rate (General)	1526802537
+Exhaust Gas Temperature Sensor Module 5 - Special Instructions (General)	1526802542
+Exhaust Gas Temperature Sensor Module 5 - Condition Exists (General)	1526802559
+Exhaust Gas Temperature Sensor Module 6 - Abnormal Update Rate (General)	1526802569
+Exhaust Gas Temperature Sensor Module 6 - Special Instructions (General)	1526802574
+Exhaust Gas Temperature Sensor Module 6 - Condition Exists (General)	1526802591
+Exhst Gas Temp Sensor Module 1 Low Side Driver Crct-Volt Abv Normal/Shorted High (General)	1526802595
+Exhst Gas Temp Sensor Module 1 Low Side Driver Circuit-Volt Blw Nrml/Shorted Low (General)	1526802596
+Exhst Gas Temp Sensor Module 2 Low Side Driver Circuit-Volt Abv Nrml/Shorted High (General)	1526802627
+Exhst Gas Temp Sensor Module 2 Low Side Driver Circuit-Volt Below Nrml/Shorted Low (General)	1526802628
+Exhst Gas Temp Sensor Module 3 Low Side Driver Circuit-Volt Above Nrml/Shorted High (General)	1526802659
+Exhst Gas Temp Sensor Module 3 Low Side Driver Circuit-Volt Below Nrml/Shorted Low (General)	1526802660
+Exhst Gas Temp Sensor Module 4 Low Side Driver Circuit-Volt Above Nrml/Shorted High (General)	1526802691
+Exhst Gas Temp Sensor Module 4 Low Side Driver Circuit-Volt Below Nrml/Shorted Low (General)	1526802692
+Exhst Gas Temp Sensor Module 5 Low Side Driver Circuit-Volt Above Nrml/Shorted High (General)	1526802723
+Exhst Gas Temp Sensor Module 5 Low Side Driver Circuit-Volt Below Nrml/Shorted Low (General)	1526802724
+Exhst Gas Temp Sensor Module 6 Low Side Driver Circuit-Volt Above Nrml/Shorted High (General)	1526802755
+Exhst Gas Temp Sensor Module 6 Low Side Driver Circuit-Volt Below Nrml/Shorted Low (General)	1526802756
+KAC Invalid Authentication response - Out of Calibration (General)	1526802797
+GE Invalid Authentication response - Out of Calibration (General)	1526802829
+KAC Authentication Timeout - Special Instructions (General)	1526802862
+GE Authentication Timeout - Special Instructions (General)	1526802894
+Fuel Injector Remain Useful Life-Data Valid But Below Normal Operat Rng-Least Svr (General)	1526802929
+Fuel Injector Remain Useful Life-Data Valid But Below Normal Operat Rng-Mod Svr (General)	1526802930
+Fuel Pump 1 Remain Useful Life-Data Valid But Below Normal Operat Rng-Least Svr (General)	1526802961
+Fuel Pump 1 Remain Useful Life-Data Valid But Below Normal Operat Rng-Mod Sevr Level (General)	1526802962
+Fuel Pump 2 Remain Useful Life-Data Valid But Below Normal Operat Rng-Least Svr (General)	1526802993
+Fuel Pump 2 Remain Useful Life-Data Valid But Below Normal Operat Rng-Mod Sevr Level (General)	1526802994
+OEM Interface Timeout (General)	1526857696
+OEM Interface Normal (General)	1526857697
+Driver Interface Timeout (General)	1526857698
+Driver Interface Normal (General)	1526857699

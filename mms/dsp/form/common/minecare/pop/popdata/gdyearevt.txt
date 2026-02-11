@@ -1,0 +1,40 @@
+GoodYear OEM interface timeout	134348768
+GoodYear OEM interface normal	134348769
+GoodYear Driver interface timeout	134348770
+GoodYear Driver interface normal	134348771
+Tire #1 All OK - Alarms OFF (Inactive)	134283264
+Tire #1 Low battery	134283265
+Tire #1 Loose tag	134283266
+Tire #1 Missing signal	134283267
+Tire #1 2-clicks change	134283268
+Tire #1 Out-of-window	134283269
+Tire #2 All OK - Alarms OFF (Inactive)	134283274
+Tire #2 Low battery	134283275
+Tire #2 Loose tag	134283276
+Tire #2 Missing signal	134283277
+Tire #2 2-clicks change	134283278
+Tire #2 Out-of-window	134283279
+Tire #3 All OK - Alarms OFF (Inactive)	134283284
+Tire #3 Low battery	134283285
+Tire #3 Loose tag	134283286
+Tire #3 Missing signal	134283287
+Tire #3 2-clicks change	134283288
+Tire #3 Out-of-window	134283289
+Tire #4 All OK - Alarms OFF (Inactive)	134283294
+Tire #4 Low battery	134283295
+Tire #4 Loose tag	134283296
+Tire #4 Missing signal	134283297
+Tire #4 2-clicks change	134283298
+Tire #4 Out-of-window	134283299
+Tire #5 All OK - Alarms OFF (Inactive)	134283304
+Tire #5 Low battery	134283305
+Tire #5 Loose tag	134283306
+Tire #5 Missing signal	134283307
+Tire #5 2-clicks change	134283308
+Tire #5 Out-of-window	134283309
+Tire #6 All OK - Alarms OFF (Inactive)	134283314
+Tire #6 Low battery	134283315
+Tire #6 Loose tag	134283316
+Tire #6 Missing signal	134283317
+Tire #6 2-clicks change	134283318
+Tire #6 Out-of-window	134283319

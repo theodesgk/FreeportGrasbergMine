@@ -1,0 +1,271 @@
+520159233	Excavator Number	4294967295	0	0
+520159234	Excavator Type	65535	0	0
+520159235	Type Of Engine	255	0	0
+520159236	Engine Oil Pressure Left	136151.9882	-377.0773	9
+520159237	Engine Oil Temperature Left	18103.903412	-100.277818	5
+520159238	Engine Speed Left	65535	0	28
+520159239	Engine Water Temperature Left	65535	0	5
+520159240	Engine Fuel Pressure Left	136151.9882	-377.0773	9
+520159241	Fuel Tank Level Left	65535	0	14
+520159242	Fuel Oil Level Left	65535	0	14
+520159243	Electrical System Voltage	6553.5	0	31
+520159244	Engine Oil Pressure Right	136151.9882	-377.0773	9
+520159245	Engine Oil Temperature Right	18103.903412	-100.277818	5
+520159246	Engine Speed Right	65535	0	28
+520159247	Engine Water Temperature Right	65535	0	5
+520159248	Engine Fuel Pressure Right	136151.9882	-377.0773	9
+520159249	Fuel Tank Level Right	65535	0	14
+520159250	Fuel Oil Level Right	65535	0	14
+520159251	Active Power	65535	0	12
+520159252	High Voltage	65535	0	31
+520159253	Power Consumption	4294967295	0	34
+520159254	Transmission Oil Temperature Left	18103.903412	-100.277818	5
+520159255	Transmission Oil Temperature Right	18103.903412	-100.277818	5
+520159256	Hydraulic Inlet Pipe Pressure Left	655.35	0	22
+520159257	Hydraulic Inlet Pipe Pressure Right	655.35	0	22
+520159258	Hydraulic Flow Shut Off Switch	65535	0	0
+520159259	Hydraulic Oil Temperature	65535	0	5
+520159260	Pilot Control Pressure	655350	0	9
+520159261	Power Limit Control Pressure Left	655350	0	9
+520159262	Power Limit Control Pressure Right	655350	0	9
+520159263	Main Pump Pressure 1	5446144.8277	-15083.3273	9
+520159264	Main Pump Pressure 2	5446144.8277	-15083.3273	9
+520159265	Main Pump Pressure 3	5446144.8277	-15083.3273	9
+520159266	Main Pump Pressure 4	5446144.8277	-15083.3273	9
+520159267	Main Pump Pressure 5	5446144.8277	-15083.3273	9
+520159268	Main Pump Pressure 6	5446144.8277	-15083.3273	9
+520159269	Main Pump Pressure 7	5446144.8277	-15083.3273	9
+520159270	Main Pump Pressure 8	5446144.8277	-15083.3273	9
+520159271	Slewing Drive 1   Oil Temperature	18103.903412	-100.277818	5
+520159272	Slewing Drive 2   Oil Temperature	18103.903412	-100.277818	5
+520159273	Slewing Drive 3   Oil Temperature	18103.903412	-100.277818	5
+520159274	Slewing Drive 4   Oil Temperature	18103.903412	-100.277818	5
+520159275	Slewing Drive 5   Oil Temperature	18103.903412	-100.277818	5
+520159276	Slewing Drive 6   Oil Temperature	18103.903412	-100.277818	5
+520159277	Slewing Circuit 1   Oil Pressure 1	1810390.3412	-10027.7818	9
+520159278	Slewing Circuit 2   Oil Pressure 2	1810390.3412	-10027.7818	9
+520159279	Slewing Circuit 3   Oil Pressure 3	1810390.3412	-10027.7818	9
+520159280	Slewing Circuit 1   Oil Temperature	18103.90323	-100.278	5
+520159281	Slewing Circuit 2   Oil Temperature	18103.90323	-100.278	5
+520159282	Slewing Circuit 3   Oil Temperature	18103.90323	-100.278	5
+520159283	Lubrication Pressure	5446144.8277	-15083.3273	9
+520159284	Ambient Temperature	18103.90123	-100.28	5
+520159285	Compressed Air	655350	0	9
+520159286	Charging Current Left Hand	65535	0	2
+520159287	Discharge Current Left Hand	65535	0	2
+520159288	Charging Current Right Hand	65535	0	2
+520159289	Discharge Current Right Hand	65535	0	2
+520159290	Dumper Counter	65535	0	0
+520159291	Dumper Counter Total	65535	0	0
+520159292	Bcs Operating Hour	1193046.47083333	0	7
+520159293	Operating Hour Engine Left Total	1193046.47083333	0	7
+520159294	Operating Hour Engine Left Drive	1193046.47083333	0	7
+520159295	Operating Hour Engine Left Load	1193046.47083333	0	7
+520159296	Operating Hour Engine Left Work	1193046.47083333	0	7
+520159297	Operating Hour Engine Right Total	1193046.47083333	0	7
+520159298	Operating Hour Engine Right Drive	1193046.47083333	0	7
+520159299	Operating Hour Engine Right Load	1193046.47083333	0	7
+520159300	Operating Hour Engine Right Work	1193046.47083333	0	7
+520159301	Operating Hour Slewing	1193046.47083333	0	7
+520159302	Operating Hour Last Oil Change Left	1193046.47083333	0	7
+520159303	Operating Hour Last Oil Change Right	1193046.47083333	0	7
+520159304	Operating Hour Last Service	1193046.47083333	0	7
+520159305	Service Interval	65535	0	7
+520159306	Oil Change Interval	65535	0	7
+520159307	Cms Bus Error	65535	0	0
+520159308	Percent Left Hand Load	65535	0	25
+520159309	Percent Right Hand Load	65535	0	25
+520159310	Load Sensing Pressure	6553500	0	9
+520159311	Cms Software Version	0	0	0
+520159312	Cms Selected Type	0	0	0
+520159313	Actual Prop Valve For Xm Handlever Left	65.535	0	2
+520159314	Actual Prop Valve For Ym Handlever Left	65.535	0	2
+520159315	Actual Prop Valve For Xp Handlever Left	65.535	0	2
+520159316	Actual Prop Valve For Yp Handlever Left	65.535	0	2
+520159317	Actual Prop Valve For Xm Handlever Right	65.535	0	2
+520159318	Actual Prop Valve For Ym Handlever Right	65.535	0	2
+520159319	Actual Prop Valve For Xp Handlever Right	65.535	0	2
+520159320	Actual Prop Valve For Yp Handlever Right	65.535	0	2
+520159321	Actual Prop Valve For Xm Footpedal Left	65.535	0	2
+520159322	Actual Prop Valve For Ym Footpedal Left	65.535	0	2
+520159323	Actual Prop Valve For Xp Footpedal Left	65.535	0	2
+520159324	Actual Prop Valve For Yp Footpedal Left	65.535	0	2
+520159325	Actual Prop Valve For Xm Footpedal Right	65.535	0	2
+520159326	Actual Prop Valve For Ym Footpedal Right	65.535	0	2
+520159327	Actual Prop Valve For Xp Footpedal Right	65.535	0	2
+520159328	Actual Prop Valve For Yp Footpedal Right	65.535	0	2
+520159329	Calculated Prop Valve For Xm Handlever Left	65.535	0	2
+520159330	Calculated Prop Valve For Ym Handlever Left	65.535	0	2
+520159331	Calculated Prop Valve For Xp Handlever Left	65.535	0	2
+520159332	Calculated Prop Valve For Yp Handlever Left	65.535	0	2
+520159333	Calculated Prop Valve For Xm Handlever Right	65.535	0	2
+520159334	Calculated Prop Valve For Ym Handlever Right	65.535	0	2
+520159335	Calculated Prop Valve For Xp Handlever Right	65.535	0	2
+520159336	Calculated Prop Valve For Yp Handlever Right	65.535	0	2
+520159337	Calculated Prop Valve For Xm Footpedal Left	65.535	0	2
+520159338	Calculated Prop Valve For Ym Footpedal Left	65.535	0	2
+520159339	Calculated Prop Valve For Xp Footpedal Left	65.535	0	2
+520159340	Calculated Prop Valve For Yp Footpedal Left	65.535	0	2
+520159341	Calculated Prop Valve For Xm Footpedal Right	65.535	0	2
+520159342	Calculated Prop Valve For Ym Footpedal Right	65.535	0	2
+520159343	Calculated Prop Valve For Xp Footpedal Right	65.535	0	2
+520159344	Calculated Prop Valve For Yp Footpedal Right	65.535	0	2
+520159345	Grease Pressure	6553500	0	9
+520159346	Grease Level	65535	0	25
+520159347	Grease Pressure Under Carriage	6553500	0	9
+520160233	Excavator Number (V2.4)	4294967295	0	0
+520160234	Excavator Type (V2.4)	65535	0	0
+520160235	Engine Type (V2.4)	65535	0	0
+520160236	Year (V2.4)	65535	0	0
+520160237	Day (V2.4)	255	0	0
+520160238	Month (V2.4)	255	0	0
+520160239	Minutes (V2.4)	255	0	0
+520160240	Hours (V2.4)	255	0	0
+520160241	Seconds (V2.4)	255	0	0
+520160242	Operating Hours (V2.4)	4294967295	0	7
+520160243	Left Engine Total Operating Hours (V2.4)	4294967295	0	7
+520160244	Left Engine Drive Operating Hours (V2.4)	4294967295	0	7
+520160245	Left Engine Load Operating Hours (V2.4)	4294967295	0	7
+520160246	Right Engine Total Operating Hours (V2.4)	4294967295	0	7
+520160247	Right Engine Drive Operating Hours (V2.4)	4294967295	0	7
+520160248	Right Engine Load Operating Hours (V2.4)	4294967295	0	7
+520160249	Operating Hours Slew (V2.4)	4294967295	0	7
+520160250	Left Engine Operating Hours Since Last Oil Or Lube Service (V2.4)	65535	0	7
+520160251	Right Engine Operating Hours Since Last Oil Ou Lube Service (V2.4)	65535	0	7
+520160252	Operating Hours Since Last Service (V2.4)	65535	0	7
+520160253	Dump Counter (V2.4)	65535	0	0
+520160254	Dump Counter Total (V2.4)	65535	0	0
+520160255	Operating Hours Service Interval (V2.4)	65535	0	7
+520160256	Operating Hours Oil Lube Interval (V2.4)	65535	0	7
+520160257	Cms Version (V2.4)	65.535	0	0
+520160258	Left Engine Error Code (V2.4)	4294967295	0	0
+520160259	Right Engine Error Code (V2.4)	4294967295	0	0
+520160260	Main Baterry Voltage (V2.4)	30	0	31
+520160261	Ambient Temperature (V2.4)	150	-50	5
+520160262	Left Engine Gearbox Oil Temperature (V2.4)	150	-50	5
+520160263	Right Engine Gearbox Oil Temperature (V2.4)	150	-50	5
+520160264	Left Engine Oil Pressure (V2.4)	1500	0	9
+520160265	Left Engine Speed (V2.4)	65535	0	28
+520160266	Left Engine Set Rpm (V2.4)	65535	0	28
+520160267	Left Engine Water Temperature (V2.4)	32767	-32768	5
+520160268	Left Engine Fuel Pressure (V2.4)	9000	0	9
+520160269	Left Engine Fuel Tank Level (V2.4)	100	0	25
+520160270	Left Engine Percent Load (V2.4)	100	0	25
+520160271	Left Engine Spn Error (V2.4)	65535	0	0
+520160272	Left Engine Fmi Error (V2.4)	65535	0	0
+520160273	Left Engine Error Occurence Count (V2.4)	65535	0	0
+520160274	Left Engine Fuel Rate (V2.4)	65535	0	13
+520160275	Left Engine Load Sense Pressure (V2.4)	6553500	0	9
+520160276	Left Engine Min Prop Current (V2.4)	65535	0	16
+520160277	Left Engine Max Prop Current (V2.4)	65535	0	16
+520160278	Left Engine High Idle (V2.4)	65535	0	28
+520160279	Left Engine Idle Timer (V2.4)	65535	0	0
+520160280	Left Engine On Load Speed (V2.4)	65535	0	28
+520160281	Left Engine Nominal Speed (V2.4)	65535	0	28
+520160282	Left Engine Crankcase Pressure (V2.4)	6553500	0	9
+520160283	Left Engine Coolant Stream Circuit Stream 1 (V2.4)	6553500	0	9
+520160284	Left Engine Coolant Stream Circuit Stream 2 (V2.4)	65535	0	0
+520160285	Right Engine Oil Pressure (V2.4)	1500	0	9
+520160286	Right Engine Speed (V2.4)	65535	0	28
+520160287	Right Engine Set Rpm Set (V2.4)	65535	0	28
+520160288	Right Engine Water Temperature (V2.4)	32767	-32768	5
+520160289	Right Engine Fuel Pressure (V2.4)	9000	0	9
+520160290	Right Engine Fuel Tank Level (V2.4)	100	0	25
+520160291	Right Engine Percent Load (V2.4)	100	0	25
+520160292	Right Engine Spn Error (V2.4)	65535	0	0
+520160293	Right Engine Fmi Error (V2.4)	65535	0	0
+520160294	Right Engine Error Occurence Count (V2.4)	65535	0	0
+520160295	Right Engine Fuel Rate (V2.4)	65535	0	13
+520160296	Right Engine Load Sense Pressure (V2.4)	6553500	0	9
+520160297	Right Engine Min Prop Current (V2.4)	65535	0	16
+520160298	Right Engine Max Prop Current (V2.4)	65535	0	16
+520160299	Right Engine High Idle (V2.4)	65535	0	28
+520160300	Right Engine Idle Timer (V2.4)	65535	0	0
+520160301	Right Engine On Load Speed (V2.4)	65535	0	28
+520160302	Right Engine Nominal Speed (V2.4)	65535	0	28
+520160303	Rught Engine Crankcase Pressure (V2.4)	6553500	0	9
+520160304	Right Engine Coolant Stream Circuit 1 (V2.4)	6553500	0	9
+520160305	Right Engine Coolant Stream Circuit 2 (V2.4)	6553500	0	9
+520160306	Oil Cooler Fan Reg (V2.4)	65535	0	0
+520160307	Water Cooler Fan Reg (V2.4)	65535	0	0
+520160308	Engine Performance (Kw) (V2.4)	65535	0	12
+520160309	Electric Engine Performance (Kw) (V2.4)	65535	0	12
+520160310	Electric Engine Reactive Power (Kvar) (V2.4)	65535	0	0
+520160311	Electric Engine Apparent Power (Kva) (V2.4)	65535	0	0
+520160312	Mpr Interlock Countdown (V2.4)	65535	0	29
+520160313	Electric Winding U1 Temperature (V2.4)	65535	0	5
+520160314	Electric Winding V1 Temperature (V2.4)	65535	0	5
+520160315	Electric Winding W1 Temperature (V2.4)	65535	0	5
+520160316	Electric Start Trafo U2 Temperature (V2.4)	65535	0	5
+520160317	Electric Start Trafo V2 Temperature (V2.4)	65535	0	5
+520160318	Electric Start Trafo W2 Temperature (V2.4)	65535	0	5
+520160319	Electric Bearing De Temperature (V2.4)	65535	0	5
+520160320	Electric Bearing Nde Temperature (V2.4)	65535	0	5
+520160321	Electric Transformer U Temperature (V2.4)	65535	0	5
+520160322	Electric Transformer V Temperature (V2.4)	65535	0	5
+520160323	Electric Transformer W Temperature (V2.4)	65535	0	5
+520160324	Electric Current 1A (V2.4)	65535	0	2
+520160325	Electric Current 1B (V2.4)	65535	0	2
+520160326	Electric Current 1C (V2.4)	65535	0	2
+520160327	Electric Voltage Ab (V2.4)	65535	0	31
+520160328	Electric Voltage Bc (V2.4)	65535	0	31
+520160329	Electric Voltage Ca (V2.4)	65535	0	31
+520160330	Electric Power Factor (V2.4)	32767	-32768	0
+520160331	Electric Power Frequency (V2.4)	32767	-32768	32
+520160332	Electric Power Consumption (Mwhr) (V2.4)	147773.3721	0	0
+520160333	Electric Apparent Power In Mwah (V2.4)	147773.3721	0	0
+520160334	Electric Apparent Pwer Out Mwah (V2.4)	147773.3721	0	0
+520160335	Electric Apparent Power Reactive Power (Mvarh) (V2.4)	147773.3721	0	0
+520160336	Electric Trip Total (V2.4)	65535	0	0
+520160337	Electic Min Since Last Start (V2.4)	65535	0	0
+520160338	Hydraulic Oil Temperature (V2.4)	32767	-32768	5
+520160339	Pilot Control Pressure (V2.4)	9000	0	9
+520160340	Left Engine Full Load Pressure (V2.4)	9000	0	9
+520160341	Main Pump 1 Pressure (V2.4)	60000	0	9
+520160342	Main Pump 2 Pressure (V2.4)	60000	0	9
+520160343	Main Pump 3 Pressure (V2.4)	60000	0	9
+520160344	Main Pump 4 Pressure (V2.4)	60000	0	9
+520160345	Main Pump 5 Pressure (V2.4)	60000	0	9
+520160346	Main Pump 6 Pressure (V2.4)	60000	0	9
+520160347	Main Pump 7 Pressure (V2.4)	60000	0	9
+520160348	Main Pump 8 Pressure (V2.4)	60000	0	9
+520160349	Slew Drive 1 Oil Temperature (V2.4)	150	-50	5
+520160350	Slew Drive 2 Oil Temperature (V2.4)	150	-50	5
+520160351	Slew Drive 3 Oil Temperature (V2.4)	150	-50	5
+520160352	Slew Drive 4 Oil Temperature (V2.4)	150	-50	5
+520160353	Slew Drive 5 Oil Temperature (V2.4)	150	-50	5
+520160354	Slew Drive 6 Oil Temperature (V2.4)	150	-50	5
+520160355	Slew Circuit 1 Oil Pressure (V2.4)	60000	0	9
+520160356	Slew Circuit 2 Oil Pressure (V2.4)	60000	0	9
+520160357	Slew Circuit 3 Oil Pressure (V2.4)	6553500	0	9
+520160358	Slew Circuit 1 Oil Temperature (V2.4)	150	-50	5
+520160359	Slew Circuit 2 Oil Temperature (V2.4)	150	-50	5
+520160360	Slew Circuit 3 Oil Temperature (V2.4)	150	-50	5
+520160361	Hydraulic Oil Cooling Ma (V2.4)	65535	0	16
+520160362	Left Engine Hydraulic Inlet Pipe Pressure (V2.4)	6553500	0	9
+520160363	Right Engine Hydraulic Inlet Pipe Pressure (V2.4)	6553500	0	9
+520160364	Feed Pump Slew Circuit 1 Pressure (V2.4)	9000	0	9
+520160365	Feed Pump Slew Circuit 2 Pressure (V2.4)	9000	0	9
+520160366	Feed Pump Slew Circuit 1 Oil Temperature (V2.4)	150	-50	5
+520160367	Feed Pump Slew Circuit 2 Oil Temperature (V2.4)	150	-50	5
+520160368	Pms Pressure (V2.4)	9000	0	9
+520160369	Left Engine Pms Pressure Current (V2.4)	65535	0	16
+520160370	Elr Version (V2.4)	65535	0	0
+520160371	Grease Pressure Upc (V2.4)	3276700	-3276800	9
+520160372	Grease Pressure Unc (V2.4)	3276700	-3276800	9
+520160373	Grease Level Percent (V2.4)	100	0	25
+520160374	Lube Time (V2.4)	65535	0	29
+520160375	Lube Next Cycle (V2.4)	65535	0	29
+520160376	Elr Analog In 57 (V2.4)	65.535	0	31
+520160377	Elr Analog In 59 (V2.4)	65.535	0	31
+520160378	Elr Analog In 61 (V2.4)	65.535	0	16
+520160379	Elr Analog In 63 (V2.4)	65.535	0	16
+520160380	Elr Analog In 65 (V2.4)	65.535	0	16
+520160381	Elr Analog In 67 (V2.4)	65.535	0	16
+520160382	Elr Analog In 69 (V2.4)	65.535	0	16
+520160383	Elr Analog In 71 (V2.4)	65.535	0	16
+520160384	Elr Analog Out 33 (V2.4)	65535	0	0
+520160385	Elr Analog Out 34 (V2.4)	65535	0	0
+520160386	Elr Analog Out 35 (V2.4)	65535	0	0
+520160387	Elr Analog Out 36 (V2.4)	65535	0	0
+520160388	Right Engine Pms Pressure Current (V2.4)	65535	0	16

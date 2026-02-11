@@ -1,0 +1,18 @@
+1107361793	Rotary Speed 	0	0	28
+1107361794	Rotary Armature Current	0	0	2
+1107361795	Rotary Torque	0	0	24
+1107361796	Hoist/Pulldown Armature Current	0	0	2
+1107361797	Pulldown Force	0	0	0
+1107361798	Hoist Speed	0	0	0
+1107361799	Hoist Torque	0	0	24
+1107361800	Bailing Air Pressure	0	0	9
+1107361801	Air Compressor Oil Temperature	0	0	5
+1107361802	Air Compressor Air Temperature	0	0	5
+1107361803	Vertical Vibration	0	0	39
+1107361804	Horizontal Vibration	0	0	39
+1107361805	Mast Angle	0	0	4
+1107361806	Water Flow	0	0	37
+1107361807	Hole Depth	0	0	17
+1107361808	Head Position	0	0	17
+1107361809	Side To Side Incline	0	0	0
+1107361810	Front To Real Incline	0	0	0

@@ -1,0 +1,71 @@
+184614913	Truck Type	0	0	0
+184614914	Truck Id	0	0	0
+184614915	Software Version	0	0	0
+184614916	Truck Speed	0	0	11
+184614917	Link Voltage	0	0	31
+184614918	Engine Speed	0	0	28
+184614919	Cooling Blower Speed	0	0	28
+184614920	Num Of Active Events	0	0	0
+184614921	Accelerator Pedal	0	0	25
+184614922	Retard Speed Control	0	0	25
+184614923	Cooling Air Temperature	0	0	5
+184614924	Barometric Pressure	0	0	9
+184614925	Volt Supply To Accel Retard Pots	0	0	31
+184614926	Control Battery	0	0	31
+184614927	Crank Battery	0	0	31
+184614928	Hydraulic Brake Temperature	0	0	5
+184614929	HP Feedback	0	0	12
+184614930	Driver Id	0	0	0
+184614931	PSC Temperature	0	0	25
+184614932	DC Link Current	0	0	1
+184614933	Torque Feedback Motor 1	0	0	24
+184614934	Torque Feedback Motor 2	0	0	24
+184614935	Motor 1 Speed	0	0	28
+184614936	Motor 2 Speed	0	0	28
+184614937	Event Flags	0	0	0
+184614938	Left Front Speed	0	0	28
+184614939	Right Front Speed	0	0	28
+184614940	Motor Pressure Sensor	0	0	31
+184614941	Plus 5V Volt	0	0	31
+184614942	Plus 15 Volt	0	0	31
+184614943	Minus 15 Volts	0	0	31
+184614944	State	0	0	0
+184614945	Auxiliary Error Code	0	0	0
+184614946	Auxiliary DC Link V	0	0	31
+184614947	Net HP At Engine Flywheel	0	0	12
+184614948	Direction	0	0	0
+184614949	Mode	0	0	0
+184614950	Inverter Status	0	0	0
+184614951	Active PSC Events	0	0	0
+184614952	Drive Status	0	0	0
+184614961	Truck Id 6	0	0	0
+184614962	Active TCI Events	0	0	0
+184614971	Parking Brake Switch	0	0	0
+184614972	Parking Brake Feedback	0	0	0
+184614973	Mid Payload	0	0	0
+184614974	Body Down	0	0	0
+184614977	Forward Request	0	0	0
+184614978	Reverse Request	0	0	0
+184614981	RSC Input	0	0	0
+184614986	Axle Box Pressure Sensor	0	0	0
+184614989	Full Payload	0	0	0
+184615006	Reverse Light	0	0	0
+184615007	OEM Speed Set 2	0	0	0
+184615008	OEM Speed Set 1	0	0	0
+184615016	Retard Light	0	0	0
+184615019	External Retard Light	0	0	0
+184615051	No Retard	0	0	0
+184615052	No Propel	0	0	0
+184615053	System Warning	0	0	0
+184615054	System Event	0	0	0
+184615060	Retard Mode	0	0	0
+184615061	Propel Mode	0	0	0
+184615062	Ready Mode	0	0	0
+184615066	Reverse	0	0	0
+184615067	Forward	0	0	0
+184615069	Speed Control Active	0	0	0
+184615070	Brakes On	0	0	0
+184615099	Speed Limit	0	0	11
+184615100	RP1 Contactor	0	0	0
+184615101	RP2 Contactor	0	0	0
+184615102	RP3 Contactor	0	0	0

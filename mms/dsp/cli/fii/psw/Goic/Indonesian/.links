@@ -1,0 +1,30 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/Delay.cfg
+ln -sf ../English/Delay2.cfg
+ln -sf ../English/Down.cfg
+ln -sf ../English/Down2.cfg
+ln -sf ../English/Goic.cfg
+ln -sf ../English/Kp.cfg
+ln -sf ../English/Kp2.cfg
+ln -sf ../English/Ku.cfg
+ln -sf ../English/Material.cfg
+ln -sf ../English/Material2.cfg
+ln -sf ../English/Ok.cfg
+ln -sf ../English/Ready.cfg
+ln -sf ../English/Ready2.cfg
+ln -sf ../English/ScrnCntrl.Flash.cfg
+ln -sf ../English/Shovels.cfg
+ln -sf ../English/Standby.cfg
+ln -sf ../English/Standby2.cfg
+ln -sf ../English/Status.cfg
+ln -sf ../English/Tasks.cfg
+ln -sf ../English/Trucks.cfg
+ln -sf ../English/w0.Kill.cfg
+ln -sf ../English/w0.ScrnCntrl.cfg
+ln -sf ../English/w0.v3.cfg
+ln -sf ../English/WinMgr.cfg
+ln -sf ../English/Macro_newui.cfg
+ln -sf ../English/w0.Comm.cfg

@@ -1,0 +1,58 @@
+..
+..DISPATCH Utility System Module
+.. Copyright (c) Modular Mining Systems, 1982-1995
+..               All Rights Reserved
+..  $RCSfile: readme,v $
+.. $Revision: 1.1 $
+..   $Author: olson $
+..     $Date: 2002/08/09 15:25:45 $
+..    $State: Exp $
+..
+DOCUMENTATION FOR HITACHI INTERFACE
+--------------------------------------
+
+1)add the following rpc's to client.rpc file if they are not found
+in the generic /psw/etc/rpc file.  At this these rpc's are not been
+added to the generic file
+0x0241  HIT-DATA        dispatch        bb[b]?[d][l]    RADIO
+0x0243  HIT-EVENT       dispatch        bb[b]?[d][l]    RADIO
+0x0240  HIT-PWRUP       dispatch        v               RADIO
+0x0242  HIT-REQDATA     Hitachi         bbbb            RADIO
+0x0244  HIT-REQEVENT    Hitachi         bbb             RADIO
+
+2) Add to enum.c
+  { act_other,     0x0243,  fmtint }, /* HITACHI EVENT */
+
+3) Include the following in act_dispatch.frm
+.include hitachi/act_hitachi
+Note:- carry out the above change after the include statement act_psw
+
+To be included in ACT$RESTART
+!DSPISSIM ? HITACHI$OPEN
+
+To be included in ACT$OTHER
+0x243: ACT$HTEVENT
+
+4) Copy the htevt.ddb present in the current directory to client opns
+directory
+
+5) Make sure the Macro.cfg present in client psw/Hitachi or 
+psw/boot/Hitachi contains the following rpc's
+out     HIT-DATA        0x0241   bb[b]?[d][l]   sendto up
+out     HIT-EVENT       0x0243   bb[b]?[d][l]   sendto up
+out     HIT-PWRUP       0x0240   v      sendto up
+in      HIT-REQDATA     0x0242   bbbb   sendto Hitachi
+in      HIT-REQEVENT    0x0244   bbb    sendto Hitachi
+
+6) Load the excavator with the hitachi interface with the following
+options
+
+net/Hub/All CLASS=excav ID=xxx OPTIONS=Gps/xxx,Hitachi
+
+Note: Run make before testing as changes have been made to enum.c
+E&TYPE field should have "Hitachi model" as act_hitachi.frm
+checks through the E$TYPE field to check if it contains the word
+"Hitachi" and activates equipment of type "Hitachi" by sending
+the appropriate rpc to turn the Hitachi system
+
+

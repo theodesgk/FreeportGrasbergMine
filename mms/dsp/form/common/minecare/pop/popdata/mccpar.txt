@@ -1,0 +1,44 @@
+1694564353	System Status (Set At Dump)	65536	0	0
+1694564354	Carryback (Set At Dump)	25.5	0	19
+1694564355	Transmit State	255	0	0
+1694564356	Start Load Flag	255	0	0
+1694564357	Strut Pressure Left Front	451543.04	0	9
+1694564358	Strut Pressure Right Front	451543.04	0	9
+1694564359	Strut Pressure Left Rear	451543.04	0	9
+1694564360	Strut Pressure Right Rear	451543.04	0	9
+1694564361	Payload Number	65536	0	0
+1694564362	Bucket Count	255	0	0
+1694564363	Load Percentage	255	0	25
+1694564364	Final Payload	6553.6	0	19
+1694564365	Stop Loaded Time	65536	0	29
+1694564366	Moving Loaded Time	65536	0	29
+1694564367	Moving Empty Time	65536	0	29
+1694564368	Stop Empty Time	65536	0	29
+1694564369	Loading Time	65536	0	29
+1694564370	Dumping Time	65536	0	29
+1694564371	Distance Empty	65536	0	17
+1694564372	Distance Loaded	65536	0	17
+1694564373	System Status (Set With Each Cycle)	65536	0	0
+1694564374	Carryback (Set With Each Cycle)	2.55	0	19
+1694564375	Steering Oil Pressure	451854.99136	0	9
+1694564376	Steering Accumulator Oil Pressure	451854.99136	0	9
+1694564377	Driver Side Gear Oil Temperature	205	-50	5
+1694564378	Passenger Side Gear Oil Temperature	205	-50	5
+1694564379	Brake Accumulator Pressure	451854.99136	0	9
+1694564380	Battery Voltage (Alternator)	6553.6	0	31
+1694564381	Fuel Level	255	0	25
+1694564382	Lubrication Interval Time	65536	0	29
+1694564383	Total Vehicle Hours	214748364.8	0	7
+1694564384	Total Engine Hours	214748364.8	0	7
+1694564385	Total Vehicle Distance	429496729.6	0	8
+1694564386	EStop Switch Status	1	0	0
+1694564387	Seat Belt Switch	1	0	0
+1694564388	Cab Door Switch	1	0	0
+1694564389	PL Lamp Yellow	1	0	0
+1694564390	PL Lamp Red	1	0	0
+1694564391	PL Lamp Green	1	0	0
+1694564392	Body Lift Up Time	255	0	29
+1694564393	Left Front TKPH	65536	0	20
+1694564394	Right Front TKPH	65536	0	20
+1694564395	Left Rear TKPH	65536	0	20
+1694564396	Right Rear TKPH	65536	0	20

@@ -1,0 +1,300 @@
+906047201	Lube Oil Filter Restriction (Cense-K2000)	125	0	9
+906047202	Post-Filter Oil Pressure (Cense-K2000)	1000	0	9
+906047203	Pre-Filter Oil Pressure (Cense-K2000)	1000	0	9
+906047204	Compressor Inlet Temperature 2 (LBR) (Cense-K2000)	1735	-273	5
+906047205	Exhaust Port Temperature 1 (Cense-K2000)	1735	-273	5
+906047206	Exhaust Port Temperature 2 (Cense-K2000)	1735	-273	5
+906047207	Exhaust Port Temperature 3 (Cense-K2000)	1735	-273	5
+906047208	Exhaust Port Temperature 4 (Cense-K2000)	1735	-273	5
+906047209	Exhaust Port Temperature 5 (Cense-K2000)	1735	-273	5
+906047210	Exhaust Port Temperature 6 (Cense-K2000)	1735	-273	5
+906047211	Exhaust Port Temperature 7 (Cense-K2000)	1735	-273	5
+906047212	Exhaust Port Temperature 8 (Cense-K2000)	1735	-273	5
+906047213	Exhaust Port Temperature 9 (Cense-K2000)	1735	-273	5
+906047214	Exhaust Port Temperature 10 (Cense-K2000)	1735	-273	5
+906047215	Exhaust Port Temperature 11 (Cense-K2000)	1735	-273	5
+906047216	Exhaust Port Temperature 12 (Cense-K2000)	1735	-273	5
+906047217	Exhaust Port Temperature 13 (Cense-K2000)	1735	-273	5
+906047218	Exhaust Port Temperature 14 (Cense-K2000)	1735	-273	5
+906047219	Exhaust Port Temperature 15 (Cense-K2000)	1735	-273	5
+906047220	Exhaust Port Temperature 16 (Cense-K2000)	1735	-273	5
+906047221	Right Bank #8 (Cense-K2000)(Quantum)	1735	-273	5
+906047222	Right Bank #9 (Cense-K2000)(Quantum)	1735	-273	5
+906047223	Intake Manifold Temperature 2 (Cense-K2000)	210	-40	5
+906047224	Intake Manifold Temperature 3 (Cense-K2000)	210	-40	5
+906047225	Intake Manifold Temperature 4 (Cense-K2000)	210	-40	5
+906047226	Intake Manifold Temperature 5 - RBM (Cense-K2000)(Quantum)	210	-40	5
+906047227	Intake Manifold Temperature 6 - RBR (Cense-K2000)(Quantum)	210	-40	5
+906047228	Boost Pressure 3 (RB) (Cense-K2000)	8031.875	0	9
+906047229	Engine Oil Temperature (Cense-K2000)	1735	-273	5
+906047230	Average Exhaust Port Temperature (Cense-K2000)	1735	-273	5
+906047231	Engine ECU Temperature (Cense-K2000)	273	-273	5
+906047232	Intake Manifold Temperature (LBF) (Cense-K2000) (Quantum)	210	-40	5
+906047233	% Accelerator Pedal (Cense-K2000) (Quantum)	100	0	25
+906047234	% Engine Load (Cense-K2000) (Quantum)	125	0	25
+906047235	% Torque (Cense-K2000) (Deprecated/Removed)	125	-125	25
+906047236	Engine Speed (Cense-K2000) (Quantum)	8031.875	0	28
+906047237	Engine Coolant Temperature (Cense-K2000) (Quantum)	210	-40	5
+906047238	Fuel Temperature (Cense-K2000) (Quantum)	210	-40	5
+906047240	Coolant Pressure (Cense-K2000) (Quantum)	500	0	9
+906047241	Crankcase Pressure (Cense-K2000) (Quantum)	12.5	0	9
+906047243	Engine Oil Rifle Pressure (Cense-K2000) (Quantum)	1000	0	9
+906047244	Injector Metering Rail Pressure (Cense-K2000)(Deprecated/Removed)	251	0	9
+906047247	Barometric Pressure (Cense-K2000) (Quantum)	125	0	9
+906047248	Boost Pressure 1 (LB) (Cense-K2000) (Deprecated/Removed)	500	0	9
+906047249	Battery Potential (Cense-K2000) (Quantum)	3212.75	0	31
+906047250	Injector Timing Rail Pressure (Cense-K2000)(Deprecated/Removed)	251	0	9
+906047251	Fuel Rate (Cense-K2000) (Quantum)	3212.75	0	13
+906047253	Total Engine Hours (Cense-K2000)	210554060.75	0	7
+906049201	Lube Oil Filter Restriction (Cense-K2000-Eng2)	125	0	9
+906049202	Post-Filter Oil Pressure (Cense-K2000-Eng2)	1000	0	9
+906049203	Pre-Filter Oil Pressure (Cense-K2000-Eng2)	1000	0	9
+906049204	Compressor Inlet Temperature 2 (LBR) (Cense-K2000-Eng2)	1735	-273	5
+906049205	Exhaust Port Temperature 1 (Cense-K2000-Eng2)	1735	-273	5
+906049206	Exhaust Port Temperature 2 (Cense-K2000-Eng2)	1735	-273	5
+906049207	Exhaust Port Temperature 3 (Cense-K2000-Eng2)	1735	-273	5
+906049208	Exhaust Port Temperature 4 (Cense-K2000-Eng2)	1735	-273	5
+906049209	Exhaust Port Temperature 5 (Cense-K2000-Eng2)	1735	-273	5
+906049210	Exhaust Port Temperature 6 (Cense-K2000-Eng2)	1735	-273	5
+906049211	Exhaust Port Temperature 7 (Cense-K2000-Eng2)	1735	-273	5
+906049212	Exhaust Port Temperature 8 (Cense-K2000-Eng2)	1735	-273	5
+906049213	Exhaust Port Temperature 9 (Cense-K2000-Eng2)	1735	-273	5
+906049214	Exhaust Port Temperature 10 (Cense-K2000-Eng2)	1735	-273	5
+906049215	Exhaust Port Temperature 11 (Cense-K2000-Eng2)	1735	-273	5
+906049216	Exhaust Port Temperature 12 (Cense-K2000-Eng2)	1735	-273	5
+906049217	Exhaust Port Temperature 13 (Cense-K2000-Eng2)	1735	-273	5
+906049218	Exhaust Port Temperature 14 (Cense-K2000-Eng2)	1735	-273	5
+906049219	Exhaust Port Temperature 15 (Cense-K2000-Eng2)	1735	-273	5
+906049220	Exhaust Port Temperature 16 (Cense-K2000-Eng2)	1735	-273	5
+906049221	Right Bank #8 (Cense-K2000-Eng2)(Quantum)	1735	-273	5
+906049222	Right Bank #9 (Cense-K2000-Eng2)(Quantum)	1735	-273	5
+906049223	Intake Manifold Temperature 2 (Cense-K2000-Eng2)	210	-40	5
+906049224	Intake Manifold Temperature 3 (Cense-K2000-Eng2)	210	-40	5
+906049225	Intake Manifold Temperature 4 (Cense-K2000-Eng2)	210	-40	5
+906049226	Intake Manifold Temperature 5 - RBM (Cense-K2000-Eng2)(Quantum)	210	-40	5
+906049227	Intake Manifold Temperature 6 - RBR (Cense-K2000-Eng2)(Quantum)	210	-40	5
+906049228	Boost Pressure 3 (RB) (Cense-K2000-Eng2)	8031.875	0	9
+906049229	Engine Oil Temperature (Cense-K2000-Eng2)	1735	-273	5
+906049230	Average Exhaust Port Temperature (Cense-K2000-Eng2)	1735	-273	5
+906049231	Engine ECU Temperature (Cense-K2000-Eng2)	273	-273	5
+906049232	Intake Manifold Temperature (LBF) (Cense-K2000-Eng2) (Quantum)	210	-40	5
+906049233	% Accelerator Pedal (Cense-K2000-Eng2) (Quantum)	100	0	25
+906049234	% Engine Load (Cense-K2000-Eng2) (Quantum)	125	0	25
+906049235	% Torque (Cense-K2000-Eng2) (Deprecated/Removed)	125	-125	25
+906049236	Engine Speed (Cense-K2000-Eng2) (Quantum)	8031.875	0	28
+906049237	Engine Coolant Temperature (Cense-K2000-Eng2) (Quantum)	210	-40	5
+906049238	Fuel Temperature (Cense-K2000-Eng2) (Quantum)	210	-40	5
+906049240	Coolant Pressure (Cense-K2000-Eng2) (Quantum)	500	0	9
+906049241	Crankcase Pressure (Cense-K2000-Eng2) (Quantum)	12.5	0	9
+906049243	Engine Oil Rifle Pressure (Cense-K2000-Eng2) (Quantum)	1000	0	9
+906049244	Injector Metering Rail Pressure (Cense-K2000-Eng2)(Deprecated/Removed)	251	0	9
+906049247	Barometric Pressure (Cense-K2000-Eng2) (Quantum)	125	0	9
+906049248	Boost Pressure 1 (LB) (Cense-K2000-Eng2) (Deprecated/Removed)	500	0	9
+906049249	Battery Potential (Cense-K2000-Eng2) (Quantum)	3212.75	0	31
+906049250	Injector Timing Rail Pressure (Cense-K2000-Eng2)(Deprecated/Removed)	251	0	9
+906049251	Fuel Rate (Cense-K2000-Eng2) (Quantum)	3212.75	0	13
+906049253	Total Engine Hours (Cense-K2000-Eng2)	210554060.75	0	7
+906051201	Lube Oil Filter Restriction (Cense-CM530_QSK60)	125	0	9
+906051202	Post-Filter Oil Pressure (Cense-CM530_QSK60)	1000	0	9
+906051203	Pre-Filter Oil Pressure (Cense-CM530_QSK60)	1000	0	9
+906051204	Compressor Inlet Temperature 2 (LBR) (Cense-CM530_QSK60) (Deprecated/Removed)	1735	-273	5
+906051205	Exhaust Gas Temperature #1 (Cense-CM530_QSK60)	1735	-273	5
+906051206	Exhaust Gas Temperature #2 (Cense-CM530_QSK60)	1735	-273	5
+906051207	Exhaust Gas Temperature #3 (Cense-CM530_QSK60)	1735	-273	5
+906051208	Exhaust Gas Temperature #4 (Cense-CM530_QSK60)	1735	-273	5
+906051209	Exhaust Gas Temperature #5 (Cense-CM530_QSK60)	1735	-273	5
+906051210	Exhaust Gas Temperature #6 (Cense-CM530_QSK60)	1735	-273	5
+906051211	Exhaust Gas Temperature #7 (Cense-CM530_QSK60)	1735	-273	5
+906051212	Exhaust Gas Temperature #8 (Cense-CM530_QSK60)	1735	-273	5
+906051213	Exhaust Gas Temperature #9 (Cense-CM530_QSK60)	1735	-273	5
+906051214	Exhaust Gas Temperature #10 (Cense-CM530_QSK60)	1735	-273	5
+906051215	Exhaust Gas Temperature #11 (Cense-CM530_QSK60)	1735	-273	5
+906051216	Exhaust Gas Temperature #12 (Cense-CM530_QSK60)	1735	-273	5
+906051217	Exhaust Gas Temperature #13 (Cense-CM530_QSK60)	1735	-273	5
+906051218	Exhaust Gas Temperature #14 (Cense-CM530_QSK60)	1735	-273	5
+906051219	Exhaust Gas Temperature #15 (Cense-CM530_QSK60)	1735	-273	5
+906051220	Exhaust Gas Temperature #16 (Cense-CM530_QSK60)	1735	-273	5
+906051223	Intake Manifold Temperature 2 - LBR (Cense-CM530_QSK60)	210	-40	5
+906051224	Intake Manifold Temperature 3 - RBF (Cense-CM530_QSK60)	210	-40	5
+906051225	Intake Manifold Temperature 4 - RBR (Cense-CM530_QSK60)	210	-40	5
+906051228	Boost Pressure 3 (RB) (Cense-CM530_QSK60)	8031.875	0	9
+906051229	Engine Oil Temperature (Cense-CM530_QSK60)	1735	-273	5
+906051230	Average Exhaust Port Temperature (Cense-CM530_QSK60)	1735	-273	5
+906051231	Engine ECU Temperature (Cense-CM530_QSK60)	273	-273	5
+906051232	Intake Manifold Temperature (LBF) (Cense-CM530_QSK60)	210	-40	5
+906051233	% Accelerator Pedal (Cense-CM530_QSK60)	100	0	25
+906051234	% Engine Load (Cense-CM530_QSK60)	125	0	25
+906051235	% Torque (Cense-CM530_QSK60)	125	-125	25
+906051236	Engine Speed (Cense-CM530_QSK60)	8031.875	0	28
+906051237	Engine Coolant Temperature (Cense-CM530_QSK60)	210	-40	5
+906051238	Fuel Temperature (Cense-CM530_QSK60)	210	-40	5
+906051239	Coolant Level (Cense-CM530_QSK60) (Deprecated/Removed)	100	0	25
+906051240	Coolant Pressure (Cense-CM530_QSK60)	500	0	9
+906051241	Crankcase Pressure (Cense-CM530_QSK60)	12.5	0	9
+906051242	Engine Oil Level (Cense-CM530_QSK60)	100	0	25
+906051243	Engine Oil Rifle Pressure (Cense-CM530_QSK60)	1000	0	9
+906051244	Injector Metering Rail Pressure (Cense-CM530_QSK60)	251	0	9
+906051245	Average Fuel Economy (Cense-CM530_QSK60)	125.5	0	15
+906051246	Instantaneous Fuel Economy (Cense-CM530_QSK60)	125.5	0	15
+906051247	Barometric Pressure (Cense-CM530_QSK60)	125	0	9
+906051248	Boost Pressure 1 (LB) (Cense-CM530_QSK60)	500	0	9
+906051249	Battery Potential (Cense-CM530_QSK60)	3212.75	0	31
+906051250	Injector Timing Rail Pressure (Cense-CM530_QSK60)	251	0	9
+906051251	Fuel Rate (Cense-CM530_QSK60)	3212.75	0	13
+906051252	Nominal Friction - % Torque (Cense-CM530_QSK60)	125	-125	25
+906051253	Total Engine Hours (Cense-CM530_QSK60)	210554060.8	0	7
+906053201	Lube Oil Filter Restriction (Cense-CM530_QSK60-Eng2)	125	0	9
+906053202	Post-Filter Oil Pressure (Cense-CM530_QSK60-Eng2)	1000	0	9
+906053203	Pre-Filter Oil Pressure (Cense-CM530_QSK60-Eng2)	1000	0	9
+906053204	Compressor Inlet Temperature 2 (LBR) (Cense-CM530_QSK60-Eng2) (Deprecated/Removed)	1735	-273	5
+906053205	Exhaust Gas Temperature #1 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053206	Exhaust Gas Temperature #2 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053207	Exhaust Gas Temperature #3 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053208	Exhaust Gas Temperature #4 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053209	Exhaust Gas Temperature #5 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053210	Exhaust Gas Temperature #6 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053211	Exhaust Gas Temperature #7 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053212	Exhaust Gas Temperature #8 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053213	Exhaust Gas Temperature #9 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053214	Exhaust Gas Temperature #10 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053215	Exhaust Gas Temperature #11 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053216	Exhaust Gas Temperature #12 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053217	Exhaust Gas Temperature #13 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053218	Exhaust Gas Temperature #14 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053219	Exhaust Gas Temperature #15 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053220	Exhaust Gas Temperature #16 (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053223	Intake Manifold Temperature 2 - LBR (Cense-CM530_QSK60-Eng2)	210	-40	5
+906053224	Intake Manifold Temperature 3 - RBF (Cense-CM530_QSK60-Eng2)	210	-40	5
+906053225	Intake Manifold Temperature 4 - RBR (Cense-CM530_QSK60-Eng2)	210	-40	5
+906053228	Boost Pressure 3 (RB) (Cense-CM530_QSK60-Eng2)	8031.875	0	9
+906053229	Engine Oil Temperature (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053230	Average Exhaust Port Temperature (Cense-CM530_QSK60-Eng2)	1735	-273	5
+906053231	Engine ECU Temperature (Cense-CM530_QSK60-Eng2)	273	-273	5
+906053232	Intake Manifold Temperature (LBF) (Cense-CM530_QSK60-Eng2)	210	-40	5
+906053233	% Accelerator Pedal (Cense-CM530_QSK60-Eng2)	100	0	25
+906053234	% Engine Load (Cense-CM530_QSK60-Eng2)	125	0	25
+906053235	% Torque (Cense-CM530_QSK60-Eng2)	125	-125	25
+906053236	Engine Speed (Cense-CM530_QSK60-Eng2)	8031.875	0	28
+906053237	Engine Coolant Temperature (Cense-CM530_QSK60-Eng2)	210	-40	5
+906053238	Fuel Temperature (Cense-CM530_QSK60-Eng2)	210	-40	5
+906053239	Coolant Level (Cense-CM530_QSK60-Eng2) (Deprecated/Removed)	100	0	25
+906053240	Coolant Pressure (Cense-CM530_QSK60-Eng2)	500	0	9
+906053241	Crankcase Pressure (Cense-CM530_QSK60-Eng2)	12.5	0	9
+906053242	Engine Oil Level (Cense-CM530_QSK60-Eng2)	100	0	25
+906053243	Engine Oil Rifle Pressure (Cense-CM530_QSK60-Eng2)	1000	0	9
+906053244	Injector Metering Rail Pressure (Cense-CM530_QSK60-Eng2)	251	0	9
+906053245	Average Fuel Economy (Cense-CM530_QSK60-Eng2)	125.5	0	15
+906053246	Instantaneous Fuel Economy (Cense-CM530_QSK60-Eng2)	125.5	0	15
+906053247	Barometric Pressure (Cense-CM530_QSK60-Eng2)	125	0	9
+906053248	Boost Pressure 1 (LB) (Cense-CM530_QSK60-Eng2)	500	0	9
+906053249	Battery Potential (Cense-CM530_QSK60-Eng2)	3212.75	0	31
+906053250	Injector Timing Rail Pressure (Cense-CM530_QSK60-Eng2)	251	0	9
+906053251	Fuel Rate (Cense-CM530_QSK60-Eng2)	3212.75	0	13
+906053252	Nominal Friction - % Torque (Cense-CM530_QSK60-Eng2)	125	-125	25
+906053253	Total Engine Hours (Cense-CM530_QSK60-Eng2)	210554060.8	0	7
+906055201	Lube Oil Filter Restriction (Cense-CM530_QSK78)	125	0	9
+906055202	Post-Filter Oil Pressure (Cense-CM530_QSK78)	1000	0	9
+906055203	Pre-Filter Oil Pressure (Cense-CM530_QSK78)	1000	0	9
+906055204	Compressor Inlet Temperature 2 (LBR) (Cense-CM530_QSK78) (Deprecated/Removed)	1735	-273	5
+906055205	Exhaust Gas Temperature #1 (Cense-CM530_QSK78)	1735	-273	5
+906055206	Exhaust Gas Temperature #2 (Cense-CM530_QSK78)	1735	-273	5
+906055207	Exhaust Gas Temperature #3 (Cense-CM530_QSK78)	1735	-273	5
+906055208	Exhaust Gas Temperature #4 (Cense-CM530_QSK78)	1735	-273	5
+906055209	Exhaust Gas Temperature #5 (Cense-CM530_QSK78)	1735	-273	5
+906055210	Exhaust Gas Temperature #6 (Cense-CM530_QSK78)	1735	-273	5
+906055211	Exhaust Gas Temperature #7 (Cense-CM530_QSK78)	1735	-273	5
+906055212	Exhaust Gas Temperature #8 (Cense-CM530_QSK78)	1735	-273	5
+906055213	Exhaust Gas Temperature #9 (Cense-CM530_QSK78)	1735	-273	5
+906055214	Exhaust Gas Temperature #10 (Cense-CM530_QSK78)	1735	-273	5
+906055215	Exhaust Gas Temperature #11 (Cense-CM530_QSK78)	1735	-273	5
+906055216	Exhaust Gas Temperature #12 (Cense-CM530_QSK78)	1735	-273	5
+906055217	Exhaust Gas Temperature #13 (Cense-CM530_QSK78)	1735	-273	5
+906055218	Exhaust Gas Temperature #14 (Cense-CM530_QSK78)	1735	-273	5
+906055219	Exhaust Gas Temperature #15 (Cense-CM530_QSK78)	1735	-273	5
+906055220	Exhaust Gas Temperature #16 (Cense-CM530_QSK78)	1735	-273	5
+906055221	Exhaust Gas Temperature #17 (Cense-CM530_QSK78)	1735	-273	5
+906055222	Exhaust Gas Temperature #18 (Cense-CM530_QSK78)	1735	-273	5
+906055223	Intake Manifold Temperature 2 - LBM (Cense-CM530_QSK78)	210	-40	5
+906055224	Intake Manifold Temperature 3 - LBR (Cense-CM530_QSK78)	210	-40	5
+906055225	Intake Manifold Temperature 4 - RBF (Cense-CM530_QSK78)	210	-40	5
+906055226	Intake Manifold Temperature 5 - RBM (Cense-CM530_QSK78)	210	-40	5
+906055227	Intake Manifold Temperature 6 - RBR (Cense-CM530_QSK78)	210	-40	5
+906055228	Boost Pressure 3 (RB) (Cense-CM530_QSK78)	8031.875	0	9
+906055229	Engine Oil Temperature (Cense-CM530_QSK78)	1735	-273	5
+906055230	Average Exhaust Port Temperature (Cense-CM530_QSK78)	1735	-273	5
+906055231	Engine ECU Temperature (Cense-CM530_QSK78)	273	-273	5
+906055232	Intake Manifold Temperature (LBF) (Cense-CM530_QSK78)	210	-40	5
+906055233	% Accelerator Pedal (Cense-CM530_QSK78)	100	0	25
+906055234	% Engine Load (Cense-CM530_QSK78)	125	0	25
+906055235	% Torque (Cense-CM530_QSK78)	125	-125	25
+906055236	Engine Speed (Cense-CM530_QSK78)	8031.875	0	28
+906055237	Engine Coolant Temperature (Cense-CM530_QSK78)	210	-40	5
+906055238	Fuel Temperature (Cense-CM530_QSK78)	210	-40	5
+906055239	Coolant Level (Cense-CM530_QSK78) (Deprecated/Removed)	100	0	25
+906055240	Coolant Pressure (Cense-CM530_QSK78)	500	0	9
+906055241	Crankcase Pressure (Cense-CM530_QSK78)	12.5	0	9
+906055242	Engine Oil Level (Cense-CM530_QSK78)	100	0	25
+906055243	Engine Oil Rifle Pressure (Cense-CM530_QSK78)	1000	0	9
+906055244	Injector Metering Rail Pressure (Cense-CM530_QSK78)	251	0	9
+906055245	Average Fuel Economy (Cense-CM530_QSK78)	125.5	0	15
+906055246	Instantaneous Fuel Economy (Cense-CM530_QSK78)	125.5	0	15
+906055247	Barometric Pressure (Cense-CM530_QSK78)	125	0	9
+906055248	Boost Pressure 1 (LB) (Cense-CM530_QSK78)	500	0	9
+906055249	Battery Potential (Cense-CM530_QSK78)	3212.75	0	31
+906055250	Injector Timing Rail Pressure (Cense-CM530_QSK78)	251	0	9
+906055251	Fuel Rate (Cense-CM530_QSK78)	3212.75	0	13
+906055252	Nominal Friction - % Torque (Cense-CM530_QSK78)	125	-125	25
+906055253	Total Engine Hours (Cense-CM530_QSK78)	210554060.8	0	7
+906057201	Lube Oil Filter Restriction (Cense-CM530_QSK78-Eng2)	125	0	9
+906057202	Post-Filter Oil Pressure (Cense-CM530_QSK78-Eng2)	1000	0	9
+906057203	Pre-Filter Oil Pressure (Cense-CM530_QSK78-Eng2)	1000	0	9
+906057204	Compressor Inlet Temperature 2 (LBR) (Cense-CM530_QSK78-Eng2) (Deprecated/Removed)	1735	-273	5
+906057205	Exhaust Gas Temperature #1 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057206	Exhaust Gas Temperature #2 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057207	Exhaust Gas Temperature #3 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057208	Exhaust Gas Temperature #4 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057209	Exhaust Gas Temperature #5 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057210	Exhaust Gas Temperature #6 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057211	Exhaust Gas Temperature #7 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057212	Exhaust Gas Temperature #8 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057213	Exhaust Gas Temperature #9 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057214	Exhaust Gas Temperature #10 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057215	Exhaust Gas Temperature #11 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057216	Exhaust Gas Temperature #12 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057217	Exhaust Gas Temperature #13 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057218	Exhaust Gas Temperature #14 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057219	Exhaust Gas Temperature #15 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057220	Exhaust Gas Temperature #16 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057221	Exhaust Gas Temperature #17 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057222	Exhaust Gas Temperature #18 (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057223	Intake Manifold Temperature 2 - LBM (Cense-CM530_QSK78-Eng2)	210	-40	5
+906057224	Intake Manifold Temperature 3 - LBR (Cense-CM530_QSK78-Eng2)	210	-40	5
+906057225	Intake Manifold Temperature 4 - RBF (Cense-CM530_QSK78-Eng2)	210	-40	5
+906057226	Intake Manifold Temperature 5 - RBM (Cense-CM530_QSK78-Eng2)	210	-40	5
+906057227	Intake Manifold Temperature 6 - RBR (Cense-CM530_QSK78-Eng2)	210	-40	5
+906057228	Boost Pressure 3 (RB) (Cense-CM530_QSK78-Eng2)	8031.875	0	9
+906057229	Engine Oil Temperature (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057230	Average Exhaust Port Temperature (Cense-CM530_QSK78-Eng2)	1735	-273	5
+906057231	Engine ECU Temperature (Cense-CM530_QSK78-Eng2)	273	-273	5
+906057232	Intake Manifold Temperature (LBF) (Cense-CM530_QSK78-Eng2)	210	-40	5
+906057233	% Accelerator Pedal (Cense-CM530_QSK78-Eng2)	100	0	25
+906057234	% Engine Load (Cense-CM530_QSK78-Eng2)	125	0	25
+906057235	% Torque (Cense-CM530_QSK78-Eng2)	125	-125	25
+906057236	Engine Speed (Cense-CM530_QSK78-Eng2)	8031.875	0	28
+906057237	Engine Coolant Temperature (Cense-CM530_QSK78-Eng2)	210	-40	5
+906057238	Fuel Temperature (Cense-CM530_QSK78-Eng2)	210	-40	5
+906057239	Coolant Level (Cense-CM530_QSK78-Eng2) (Deprecated/Removed)	100	0	25
+906057240	Coolant Pressure (Cense-CM530_QSK78-Eng2)	500	0	9
+906057241	Crankcase Pressure (Cense-CM530_QSK78-Eng2)	12.5	0	9
+906057242	Engine Oil Level (Cense-CM530_QSK78-Eng2)	100	0	25
+906057243	Engine Oil Rifle Pressure (Cense-CM530_QSK78-Eng2)	1000	0	9
+906057244	Injector Metering Rail Pressure (Cense-CM530_QSK78-Eng2)	251	0	9
+906057245	Average Fuel Economy (Cense-CM530_QSK78-Eng2)	125.5	0	15
+906057246	Instantaneous Fuel Economy (Cense-CM530_QSK78-Eng2)	125.5	0	15
+906057247	Barometric Pressure (Cense-CM530_QSK78-Eng2)	125	0	9
+906057248	Boost Pressure 1 (LB) (Cense-CM530_QSK78-Eng2)	500	0	9
+906057249	Battery Potential (Cense-CM530_QSK78-Eng2)	3212.75	0	31
+906057250	Injector Timing Rail Pressure (Cense-CM530_QSK78-Eng2)	251	0	9
+906057251	Fuel Rate (Cense-CM530_QSK78-Eng2)	3212.75	0	13
+906057252	Nominal Friction - % Torque (Cense-CM530_QSK78-Eng2)	125	-125	25
+906057253	Total Engine Hours (Cense-CM530_QSK78-Eng2)	210554060.8	0	7

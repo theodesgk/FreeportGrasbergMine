@@ -1,0 +1,31 @@
+# IMPORTANT: If you modity this file, remember to also modify the
+# links.cmd file in this directory with the same changes.
+# See boot/.links-readme for more information
+#
+ln -sf ../English/Defect.cfg Defect.cfg
+ln -sf ../English/Delay.cfg Delay.cfg
+ln -sf ../English/Down.cfg Down.cfg
+ln -sf ../English/Kp2.cfg Kp2.cfg
+ln -sf ../English/Matl.cfg Matl.cfg
+ln -sf ../English/Options.cfg Options.cfg
+ln -sf ../English/Pattern.cfg Pattern.cfg
+ln -sf ../English/Project.cfg Project.cfg
+ln -sf ../English/Reset.cfg Reset.cfg
+ln -sf ../English/Standby.cfg Standby.cfg
+ln -sf ../English/Topo.cfg Topo.cfg
+ln -sf ../English/WinMgr.cfg WinMgr.cfg
+ln -sf ../English/w0.Text.cfg w0.Text.cfg
+ln -sf ../English/w0.cfg w0.cfg
+ln -sf ../English/w0.bGauges.cfg w0.bGauges.cfg
+ln -sf ../English/w0.ht.cfg w0.ht.cfg
+ln -sf ../English/w0.mb.cfg w0.mb.cfg
+ln -sf ../English/w0.v1.cfg w0.v1.cfg
+ln -sf ../English/w0.v2.cfg w0.v2.cfg
+ln -sf ../English/w0.v3.cfg w0.v3.cfg
+ln -sf ../English/wComp.cfg wComp.cfg
+ln -sf ../English/wDrilling.cfg wDrilling.cfg
+ln -sf ../English/wProject.cfg wProject.cfg
+ln -sf ../English/wKp.cfg wKp.cfg
+ln -sf ../English/wKp2.cfg wKp2.cfg
+ln -sf ../English/wReason0.cfg wReason0.cfg
+ln -sf ../../common/wGpsstat.cfg wGpsstat.cfg

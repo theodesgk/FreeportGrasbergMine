@@ -1,0 +1,230 @@
+USE [master]
+GO
+
+/*
+	REMOVING user, login, tables and database (if any)
+*/
+
+IF  EXISTS (SELECT * FROM sys.database_principals WHERE name = N'prism')
+	DROP USER [prism]
+
+IF  EXISTS (SELECT * FROM sys.server_principals WHERE name = N'prism')
+	DROP LOGIN [prism]
+
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[LOAD_HISTORY]') AND type in (N'U'))
+	DROP TABLE [dbo].[LOAD_HISTORY]
+            
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[NETSTATS]') AND type in (N'U'))
+	DROP TABLE [dbo].[NETSTATS]
+            
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[NODE_HISTORY]') AND type in (N'U'))
+	DROP TABLE [dbo].[NODE_HISTORY]
+      
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[NODES]') AND type in (N'U'))
+	DROP TABLE [dbo].[NODES]
+      
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[RPCSPL]') AND type in (N'U'))
+	DROP TABLE [dbo].[RPCSPL]
+      
+IF  EXISTS (SELECT name FROM sys.databases WHERE name = N'prism')
+	DROP DATABASE [prism]
+
+/*
+	CREATING database
+*/
+
+CREATE DATABASE [prism] 
+GO
+
+EXEC dbo.sp_dbcmptlevel @dbname=N'prism', @new_cmptlevel=100
+GO
+IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
+begin
+EXEC [prism].[dbo].[sp_fulltext_database] @action = 'enable'
+end
+GO
+ALTER DATABASE [prism] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [prism] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [prism] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [prism] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [prism] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [prism] SET AUTO_CLOSE OFF 
+GO
+ALTER DATABASE [prism] SET AUTO_CREATE_STATISTICS ON 
+GO
+ALTER DATABASE [prism] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [prism] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [prism] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [prism] SET CURSOR_DEFAULT  GLOBAL 
+GO
+ALTER DATABASE [prism] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [prism] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [prism] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [prism] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [prism] SET  ENABLE_BROKER 
+GO
+ALTER DATABASE [prism] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [prism] SET DATE_CORRELATION_OPTIMIZATION OFF 
+GO
+ALTER DATABASE [prism] SET TRUSTWORTHY OFF 
+GO
+ALTER DATABASE [prism] SET ALLOW_SNAPSHOT_ISOLATION OFF 
+GO
+ALTER DATABASE [prism] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [prism] SET  READ_WRITE 
+GO
+ALTER DATABASE [prism] SET RECOVERY SIMPLE 
+GO
+ALTER DATABASE [prism] SET  MULTI_USER 
+GO
+ALTER DATABASE [prism] SET PAGE_VERIFY CHECKSUM  
+GO
+
+
+/*
+	CREATING tables
+*/
+
+USE [prism]
+GO
+/****** Object:  Table [dbo].[NETSTATS]    Script Date: 03/13/2007 18:15:34 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[NETSTATS](
+	[SOURCEIP] [int] NULL,
+	[TYPE] [int] NULL,
+	[IP_ADDR] [int] NULL,
+	[MASK] [int] NULL,
+	[NAME] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[PACKETSIN] [int] NULL,
+	[PACKETSOUT] [int] NULL,
+	[BYTESIN] [bigint] NULL,
+	[BYTESOUT] [bigint] NULL,
+	[ERRORSIN] [int] NULL,
+	[ERRORSOUT] [int] NULL,
+	[POLLS] [int] NULL,
+	[RETRIES] [int] NULL,
+	[DROPPED] [int] NULL,
+	[TIMESTAMP] [datetime] NULL,
+	[OID] [int] IDENTITY(1,1) NOT NULL,
+	[SSID] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[STATUS] [int] NULL,
+	[RSSIA] [int] NULL,
+	[LOSSA] [int] NULL,
+	[TEMPA] [int] NULL,
+	[ACTIVE_RADIO] [int] NULL,
+	[RSSIB] [int] NULL,
+	[LOSSB] [int] NULL,
+	[TEMPB] [int] NULL,
+	[ADDR] [int] NULL
+) ON [PRIMARY]
+
+GO
+
+CREATE TABLE [dbo].[NODE_HISTORY](
+	[PARENT] [int] NULL,
+	[SERIAL] [int] NULL,
+	[HOPS] [int] NULL,
+	[GPS_LAT] [int] NULL,
+	[GPS_LONG] [int] NULL,
+	[GPS_ELEV] [int] NULL,
+	[GPS_STATUS] [int] NULL,
+	[BATTERY] [int] NULL,
+	[HUBTIME] [datetime] NULL,
+	[TIMESTAMP] [datetime] NULL,
+	[RSSIA] [int] NULL,
+	[RSSIB] [int] NULL,
+	[LOSSA] [int] NULL,
+	[LOSSB] [int] NULL,
+	[ACTIVE_RADIO] [int] NULL,
+	[SOURCEIP] [int] NULL,
+	[TEMP] [int] NULL
+) ON [PRIMARY]
+
+GO
+
+CREATE TABLE [dbo].[NODES](
+	[PARENT] [int] NULL,
+	[PRIMARYIP] [int] NULL,
+	[SOURCEIP] [int] NULL,
+	[GPS_LAT] [int] NULL,
+	[GPS_LONG] [int] NULL,
+	[GPS_ELEV] [int] NULL,
+	[GPS_STATUS] [int] NULL,
+	[HOPS] [int] NULL,
+	[SERIAL] [int] NULL,
+	[VEHICLE] [int] NULL,
+	[LAST_UPDATE] [bigint] NULL,
+	[HOST] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[BATTERY] [int] NULL,
+	[UPTIME] [int] NULL,
+	[OID] [int] IDENTITY(1,1) NOT NULL
+) ON [PRIMARY]
+
+GO
+
+CREATE TABLE [dbo].[LOAD_HISTORY](
+                  [OID] [int] IDENTITY(1,1) NOT NULL,
+                  [TIMESTAMP] [datetime] NULL,
+                  [HOST] [varchar](32) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+                  [NET] [varchar](32) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+                  [AVG] [int] NULL,
+                  [PEAK] [int] NULL
+) ON [PRIMARY]
+
+GO
+
+CREATE TABLE [dbo].[RPCSPL](
+	[TIME] [datetime] NULL,
+	[HOST] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL,
+	[RPC] [varchar](100) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[DATA] [text] COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[EVTTIME] [datetime] NULL,
+	[STATUS] [tinyint] NULL CONSTRAINT [DF_RPCSPL_STATUS]  DEFAULT ((0)),
+
+ CONSTRAINT [PK_RPCSPL] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+
+
+
+/*
+	 CREATING user
+*/	 
+
+CREATE LOGIN [prism] WITH PASSWORD='prism', DEFAULT_DATABASE=[prism], DEFAULT_LANGUAGE=[us_english], CHECK_EXPIRATION=OFF, CHECK_POLICY=OFF
+
+USE [prism]
+GO
+
+CREATE USER [prism] FOR LOGIN [prism] WITH DEFAULT_SCHEMA=[db_accessadmin]
+
+GRANT SELECT,INSERT,UPDATE,DELETE ON dbo.NETSTATS TO prism
+GRANT SELECT,INSERT,UPDATE,DELETE ON dbo.NODE_HISTORY TO prism
+GRANT SELECT,INSERT,UPDATE,DELETE ON dbo.LOAD_HISTORY TO prism
+GRANT SELECT,INSERT,UPDATE,DELETE ON dbo.NODES TO prism
+GRANT SELECT,INSERT,UPDATE,DELETE ON dbo.RPCSPL TO prism

@@ -1,0 +1,544 @@
+OEM Interface Timeout	805437408
+OEM Interface Normal	805437409
+Driver Interface Timeout	805437410
+Driver Interface Normal	805437411
+RCS Alive Fault	805371904
+Hole Start	805371905
+Hole End	805371906
+Ecm Fuel Temp High - Event	805373554
+Ecm Fuel Temp High - Active	805373555
+Ecm Fuel Temp High - Inactive	805373556
+Ecm Low High Fuel Pressure - Event	805373557
+Ecm Low High Fuel Pressure - Active	805373558
+Ecm Low High Fuel Pressure - Inactive	805373559
+Ecm Eng Low Oil Pressure - Event	805373560
+Ecm Eng Low Oil Pressure - Active	805373561
+Ecm Eng Low Oil Pressure - Inactive	805373562
+Ecm Eng High Coolant Temp - Event	805373563
+Ecm Eng High Coolant Temp - Active	805373564
+Ecm Eng High Coolant Temp - Inactive	805373565
+Ecm Eng Low Coolant Level - Event	805373566
+Ecm Eng Low Coolant Level - Active	805373567
+Ecm Eng Low Coolant Level - Inactive	805373568
+Ecm Eng Rpm High - Event	805373569
+Ecm Eng Rpm High - Active	805373570
+Ecm Eng Rpm High - Inactive	805373571
+Ecm Eng High Fuel Temp - Event	805373572
+Ecm Eng High Fuel Temp - Active	805373573
+Ecm Eng High Fuel Temp - Inactive	805373574
+Ecm Low High Fuel Pressure - Event	805373575
+Ecm Low High Fuel Pressure - Active	805373576
+Ecm Low High Fuel Pressure - Inactive	805373577
+Ecm Fault - Event	805373578
+Ecm Fault - Active	805373579
+Ecm Fault - Inactive	805373580
+Ecm Eng Reducement - Event	805373581
+Ecm Eng Reducement - Active	805373582
+Ecm Eng Reducement - Inactive	805373583
+Ecm Eng Low Oil Pressure - Event	805373584
+Ecm Eng Low Oil Pressure - Active	805373585
+Ecm Eng Low Oil Pressure - Inactive	805373586
+Ecm Eng High Coolant Temp - Event	805373587
+Ecm Eng High Coolant Temp - Active	805373588
+Ecm Eng High Coolant Temp - Inactive	805373589
+Ecm Eng Low Coolant Level - Event	805373590
+Ecm Eng Low Coolant Level - Active	805373591
+Ecm Eng Low Coolant Level - Inactive	805373592
+Ecm Eng High Boost Temp - Event	805373593
+Ecm Eng High Boost Temp - Active	805373594
+Ecm Eng High Boost Temp - Inactive	805373595
+Ecm Eng High Fuel Temp - Event	805373596
+Ecm Eng High Fuel Temp - Active	805373597
+Ecm Eng High Fuel Temp - Inactive	805373598
+Ecm Fault Unknown - Event	805373599
+Ecm Fault Unknown - Active	805373600
+Ecm Fault Unknown - Inactive	805373601
+Ecm No Communication - Event	805373602
+Ecm No Communication - Active	805373603
+Ecm No Communication - Inactive	805373604
+Strut Pins Locked - Event	805373608
+Strut Pins Locked - Active	805373609
+Strut Pins Locked - Inactive	805373610
+Vertical Pins Locked - Event	805373611
+Vertical Pins Locked - Active	805373612
+Vertical Pins Locked - Inactive	805373613
+Return To Vertical Pos - Event	805373614
+Return To Vertical Pos - Active	805373615
+Return To Vertical Pos - Inactive	805373616
+Angle Pins Unlocked - Event	805373617
+Angle Pins Unlocked - Active	805373618
+Angle Pins Unlocked - Inactive	805373619
+Lock Tower - Event	805373620
+Lock Tower - Active	805373621
+Lock Tower - Inactive	805373622
+Verical Pins Unlocked - Event	805373623
+Verical Pins Unlocked - Active	805373624
+Verical Pins Unlocked - Inactive	805373625
+Check Tower Pinning - Event	805373626
+Check Tower Pinning - Active	805373627
+Check Tower Pinning - Inactive	805373628
+Both Pins Locked - Event	805373629
+Both Pins Locked - Active	805373630
+Both Pins Locked - Inactive	805373631
+Breakout Fork Not Stowed - Event	805373632
+Breakout Fork Not Stowed - Active	805373633
+Breakout Fork Not Stowed - Inactive	805373634
+Breakout Wrench Not Stowed - Event	805373635
+Breakout Wrench Not Stowed - Active	805373636
+Breakout Wrench Not Stowed - Inactive	805373637
+Hyd Filter Dirty Drain 1 - Event	805373644
+Hyd Filter Dirty Drain 1 - Active	805373645
+Hyd Filter Dirty Drain 1 - Inactive	805373646
+Hyd Filter Dirty Drain 2 - Event	805373647
+Hyd Filter Dirty Drain 2 - Active	805373648
+Hyd Filter Dirty Drain 2 - Inactive	805373649
+Hyd Filter Dirty Return 1 - Event	805373650
+Hyd Filter Dirty Return 1 - Active	805373651
+Hyd Filter Dirty Return 1 - Inactive	805373652
+Hyd Filter Dirty Return 2 - Event	805373653
+Hyd Filter Dirty Return 2 - Active	805373654
+Hyd Filter Dirty Return 2 - Inactive	805373655
+Hyd Filter Take Action - Event	805373656
+Hyd Filter Take Action - Active	805373657
+Hyd Filter Take Action - Inactive	805373658
+Coc Filter Take Action - Event	805373659
+Coc Filter Take Action - Active	805373660
+Coc Filter Take Action - Inactive	805373661
+Coc Filter Dirty - Event	805373662
+Coc Filter Dirty - Active	805373663
+Coc Filter Dirty - Inactive	805373664
+Head In Carousel Area - Event	805373674
+Head In Carousel Area - Active	805373675
+Head In Carousel Area - Inactive	805373676
+Lube Tank Level Low Warning - Event	805373686
+Lube Tank Level Low Warning - Active	805373687
+Lube Tank Level Low Warning - Inactive	805373688
+Lube Tank Level Low - Event	805373689
+Lube Tank Level Low - Active	805373690
+Lube Tank Level Low - Inactive	805373691
+Lube Cycle Incomplete - Event	805373695
+Lube Cycle Incomplete - Active	805373696
+Lube Cycle Incomplete - Inactive	805373697
+Five Lube Cycles Incomplete - Event	805373698
+Five Lube Cycles Incomplete - Active	805373699
+Five Lube Cycles Incomplete - Inactive	805373700
+Comp No Communication - Event	805373701
+Comp No Communication - Active	805373702
+Comp No Communication - Inactive	805373703
+Jack Lever Not Neutral - Event	805373704
+Jack Lever Not Neutral - Active	805373705
+Jack Lever Not Neutral - Inactive	805373706
+Jack X Axis Not Neutral - Event	805373707
+Jack X Axis Not Neutral - Active	805373708
+Jack X Axis Not Neutral - Inactive	805373709
+Jack Y Axis Not Neutral - Event	805373710
+Jack Y Axis Not Neutral - Active	805373711
+Jack Y Axis Not Neutral - Inactive	805373712
+Jack Z Axis Not Neutral - Event	805373713
+Jack Z Axis Not Neutral - Active	805373714
+Jack Z Axis Not Neutral - Inactive	805373715
+Propel Lever Not Neutral - Event	805373716
+Propel Lever Not Neutral - Active	805373717
+Propel Lever Not Neutral - Inactive	805373718
+Propel Right Axis Not Neutral - Event	805373719
+Propel Right Axis Not Neutral - Active	805373720
+Propel Right Axis Not Neutral - Inactive	805373721
+Propel Left Axis Not Neutral - Event	805373722
+Propel Left Axis Not Neutral - Active	805373723
+Propel Left Axis Not Neutral - Inactive	805373724
+Left Main Lever Not Neutral - Event	805373725
+Left Main Lever Not Neutral - Active	805373726
+Left Main Lever Not Neutral - Inactive	805373727
+Right Main Lever Not Neutral - Event	805373728
+Right Main Lever Not Neutral - Active	805373729
+Right Main Lever Not Neutral - Inactive	805373730
+Lever Not Ok Warning - Event	805373731
+Lever Not Ok Warning - Active	805373732
+Lever Not Ok Warning - Inactive	805373733
+Left Main Lever Not Ok - Event	805373734
+Left Main Lever Not Ok - Active	805373735
+Left Main Lever Not Ok - Inactive	805373736
+Right Main Lever Not Ok - Event	805373737
+Right Main Lever Not Ok - Active	805373738
+Right Main Lever Not Ok - Inactive	805373739
+Jack Lever Not Ok - Event	805373740
+Jack Lever Not Ok - Active	805373741
+Jack Lever Not Ok - Inactive	805373742
+Left Propel Lever Not Ok - Event	805373743
+Left Propel Lever Not Ok - Active	805373744
+Left Propel Lever Not Ok - Inactive	805373745
+Right Propel Lever Not Ok - Event	805373746
+Right Propel Lever Not Ok - Active	805373747
+Right Propel Lever Not Ok - Inactive	805373748
+Status Lever Not Calibrated - Event	805373749
+Status Lever Not Calibrated - Active	805373750
+Status Lever Not Calibrated - Inactive	805373751
+Status Lever Mid Pos Error - Event	805373752
+Status Lever Mid Pos Error - Active	805373753
+Status Lever Mid Pos Error - Inactive	805373754
+Status Lever End Pos Error - Event	805373755
+Status Lever End Pos Error - Active	805373756
+Status Lever End Pos Error - Inactive	805373757
+Status Lever Mid End Pos Error - Event	805373758
+Status Lever Mid End Pos Error - Active	805373759
+Status Lever Mid End Pos Error - Inactive	805373760
+Bit In Hole - Jacks Disabled - Event	805373794
+Bit In Hole - Jacks Disabled - Active	805373795
+Bit In Hole - Jacks Disabled - Inactive	805373796
+Fuel Level Low - Event	805373854
+Fuel Level Low - Active	805373855
+Fuel Level Low - Inactive	805373856
+Head Pos Not Calib - Event	805373857
+Head Pos Not Calib - Active	805373858
+Head Pos Not Calib - Inactive	805373859
+Ovr Head Pos Not Calib Index - Event	805374001
+Ovr Head Pos Not Calib Index - Active	805374002
+Ovr Head Pos Not Calib Index - Inactive	805374003
+Ovr Head Pos Not Calib Swing - Event	805374004
+Ovr Head Pos Not Calib Swing - Active	805374005
+Ovr Head Pos Not Calib Swing - Inactive	805374006
+Ovr Low Tank Pres - Event	805374007
+Ovr Low Tank Pres - Active	805374008
+Ovr Low Tank Pres - Inactive	805374009
+Ovr High Airend Temp - Event	805374010
+Ovr High Airend Temp - Active	805374011
+Ovr High Airend Temp - Inactive	805374012
+Ovr Head In Carousel Area Index - Event	805374013
+Ovr Head In Carousel Area Index - Active	805374014
+Ovr Head In Carousel Area Index - Inactive	805374015
+Ovr Head In Carousel Area Swing - Event	805374016
+Ovr Head In Carousel Area Swing - Active	805374017
+Ovr Head In Carousel Area Swing - Inactive	805374018
+Ovr Dirty Coc Filter - Event	805374019
+Ovr Dirty Coc Filter - Active	805374020
+Ovr Dirty Coc Filter - Inactive	805374021
+Ovr High Hyd Oil Temp - Event	805374022
+Ovr High Hyd Oil Temp - Active	805374023
+Ovr High Hyd Oil Temp - Inactive	805374024
+Ovr Carousel Not Stowed Lim Feed - Event	805374025
+Ovr Carousel Not Stowed Lim Feed - Active	805374026
+Ovr Carousel Not Stowed Lim Feed - Inactive	805374027
+Ovr Index Not Stowed Stop Feed - Event	805374028
+Ovr Index Not Stowed Stop Feed - Active	805374029
+Ovr Index Not Stowed Stop Feed - Inactive	805374030
+Ovr Rod Supp Not Open Stop Feed - Event	805374031
+Ovr Rod Supp Not Open Stop Feed - Active	805374032
+Ovr Rod Supp Not Open Stop Feed - Inactive	805374033
+Ovr Br Wrench Not Stowed Stop Feed - Event	805374034
+Ovr Br Wrench Not Stowed Stop Feed - Active	805374035
+Ovr Br Wrench Not Stowed Stop Feed - Inactive	805374036
+Ovr Carousel Not Stowed Lim Feed - Event	805374037
+Ovr Carousel Not Stowed Lim Feed - Active	805374038
+Ovr Carousel Not Stowed Lim Feed - Inactive	805374039
+Ovr Bit In Hole - Jacks Disable - Event	805374040
+Ovr Bit In Hole - Jacks Disable - Active	805374041
+Ovr Bit In Hole - Jacks Disable - Inactive	805374042
+Ovr Bit In Hole - Prop Disable - Event	805374043
+Ovr Bit In Hole - Prop Disable - Active	805374044
+Ovr Bit In Hole - Prop Disable - Inactive	805374045
+Ovr Jacks Not Fully Retr - Event	805374046
+Ovr Jacks Not Fully Retr - Active	805374047
+Ovr Jacks Not Fully Retr - Inactive	805374048
+Ovr Lost Brake Signal - Event	805374049
+Ovr Lost Brake Signal - Active	805374050
+Ovr Lost Brake Signal - Inactive	805374051
+Ovr Levers Not Neutral - Event	805374052
+Ovr Levers Not Neutral - Active	805374053
+Ovr Levers Not Neutral - Inactive	805374054
+Ovr Rod Supp Sens Fault - Event	805374058
+Ovr Rod Supp Sens Fault - Active	805374059
+Ovr Rod Supp Sens Fault - Inactive	805374060
+Ovr Rod Supp Prox Sens Fault - Event	805374061
+Ovr Rod Supp Prox Sens Fault - Active	805374062
+Ovr Rod Supp Prox Sens Fault - Inactive	805374063
+Ovr Rod Supp Multip Tower Switch - Event	805374064
+Ovr Rod Supp Multip Tower Switch - Active	805374065
+Ovr Rod Supp Multip Tower Switch - Inactive	805374066
+Ovr Both Pins Locked - Event	805374067
+Ovr Both Pins Locked - Active	805374068
+Ovr Both Pins Locked - Inactive	805374069
+Ovr Check Tower Pinning - Event	805374070
+Ovr Check Tower Pinning - Active	805374071
+Ovr Check Tower Pinning - Inactive	805374072
+Ovr Strut Pins Locked Tower Move Disabled - Event	805374073
+Ovr Strut Pins Locked Tower Move Disabled - Active	805374074
+Ovr Strut Pins Locked Tower Move Disabled - Inactive	805374075
+Ovr Angle Pins Unlocked - Event	805374076
+Ovr Angle Pins Unlocked - Active	805374077
+Ovr Angle Pins Unlocked - Inactive	805374078
+Ovr Return To Vert Pos - Event	805374079
+Ovr Return To Vert Pos - Active	805374080
+Ovr Return To Vert Pos - Inactive	805374081
+Ovr Vert Pins Unlocked - Event	805374085
+Ovr Vert Pins Unlocked - Active	805374086
+Ovr Vert Pins Unlocked - Inactive	805374087
+Ovr Strut Pins Locked Angl Pin - Event	805374091
+Ovr Strut Pins Locked Angl Pin - Active	805374092
+Ovr Strut Pins Locked Angl Pin - Inactive	805374093
+Ovr Strut Pins Unlocked - Event	805374094
+Ovr Strut Pins Unlocked - Active	805374095
+Ovr Strut Pins Unlocked - Inactive	805374096
+Ovr Low Water Tank Level - Event	805374097
+Ovr Low Water Tank Level - Active	805374098
+Ovr Low Water Tank Level - Inactive	805374099
+Ovr Lock Tower - Event	805374100
+Ovr Lock Tower - Active	805374101
+Ovr Lock Tower - Inactive	805374102
+Ovr Head Pos Not Calib - Event	805374103
+Ovr Head Pos Not Calib - Active	805374104
+Ovr Head Pos Not Calib - Inactive	805374105
+Ovr All Jacks Not On Ground - Event	805374106
+Ovr All Jacks Not On Ground - Active	805374107
+Ovr All Jacks Not On Ground - Inactive	805374108
+Ovr Head Pos Sensor Fault - Event	805374109
+Ovr Head Pos Sensor Fault - Active	805374110
+Ovr Head Pos Sensor Fault - Inactive	805374111
+Ovr Not Allowed To Close Rod Support - Event	805374112
+Ovr Not Allowed To Close Rod Support - Active	805374113
+Ovr Not Allowed To Close Rod Support - Inactive	805374114
+Ovr Vertical Pins Locked - Event	805374115
+Ovr Vertical Pins Locked - Active	805374116
+Ovr Vertical Pins Locked - Inactive	805374117
+Ovr No Contact With Modules - Event	805374118
+Ovr No Contact With Modules - Active	805374119
+Ovr No Contact With Modules - Inactive	805374120
+Ovr Ladder Not Stowed - Event	805374121
+Ovr Ladder Not Stowed - Active	805374122
+Ovr Ladder Not Stowed - Inactive	805374123
+Ovr_Propel_Laser_Interlock - Event	805374130
+Ovr_Propel_Laser_Interlock - Active	805374131
+Ovr_Propel_Laser_Interlock - Inactive	805374132
+Bit In Hole - Event	805374304
+Bit In Hole - Active	805374305
+Bit In Hole - Inactive	805374306
+Jack Not Ret - Event	805374307
+Jack Not Ret - Active	805374308
+Jack Not Ret - Inactive	805374309
+Brake Sensor Not Ok - Event	805374310
+Brake Sensor Not Ok - Active	805374311
+Brake Sensor Not Ok - Inactive	805374312
+Ladder Not Stowed - Event	805374313
+Ladder Not Stowed - Active	805374314
+Ladder Not Stowed - Inactive	805374315
+Propel Laser Interlock - Event	805374316
+Propel Laser Interlock - Active	805374317
+Propel Laser Interlock - Inactive	805374318
+Dust Collector Operating - Event	805374364
+Dust Collector Operating - Active	805374365
+Dust Collector Operating - Inactive	805374366
+Water Tank Level Low Error - Event	805374367
+Water Tank Level Low Error - Active	805374368
+Water Tank Level Low Error - Inactive	805374369
+Water Inj Operating - Event	805374370
+Water Inj Operating - Active	805374371
+Water Inj Operating - Inactive	805374372
+Airend Not Ready - Event	805374373
+Airend Not Ready - Active	805374374
+Airend Not Ready - Inactive	805374375
+Water Tank Level Low Warning - Event	805374376
+Water Tank Level Low Warning - Active	805374377
+Water Tank Level Low Warning - Inactive	805374378
+Coc Filter Restricted - Event	805374607
+Coc Filter Restricted - Active	805374608
+Coc Filter Restricted - Inactive	805374609
+Air Compr Temp High - Event	805374907
+Air Compr Temp High - Active	805374908
+Air Compr Temp High - Inactive	805374909
+Air Compr Press High - Event	805374910
+Air Compr Press High - Active	805374911
+Air Compr Press High - Inactive	805374912
+Air Compr Press High - Event	805374913
+Air Compr Press High - Active	805374914
+Air Compr Press High - Inactive	805374915
+Hyd Oil Temp High - Event	805374916
+Hyd Oil Temp High - Active	805374917
+Hyd Oil Temp High - Inactive	805374918
+Hyd Oil Temp High - Event	805374919
+Hyd Oil Temp High - Active	805374920
+Hyd Oil Temp High - Inactive	805374921
+Modules Dead - Event	805374922
+Modules Dead - Active	805374923
+Modules Dead - Inactive	805374924
+Air Tank Press Low - Event	805374925
+Air Tank Press Low - Active	805374926
+Air Tank Press Low - Inactive	805374927
+Gps Com Error - Event	805374928
+Gps Com Error - Active	805374929
+Gps Com Error - Inactive	805374930
+Engine Air Filter Dirty - Event	805374931
+Engine Air Filter Dirty - Active	805374932
+Engine Air Filter Dirty - Inactive	805374933
+Airend Filter Dirty - Event	805374934
+Airend Filter Dirty - Active	805374935
+Airend Filter Dirty - Inactive	805374936
+Emergency Stop Stop 1 - Event	805375054
+Emergency Stop Stop 1 - Active	805375055
+Emergency Stop Stop 1 - Inactive	805375056
+Emergency Stop Stop 6 - Event	805375057
+Emergency Stop Stop 6 - Active	805375058
+Emergency Stop Stop 6 - Inactive	805375059
+Airend Temp Shutdown - Event	805375060
+Airend Temp Shutdown - Active	805375061
+Airend Temp Shutdown - Inactive	805375062
+Hydoil Level Low - Event	805375063
+Hydoil Level Low - Active	805375064
+Hydoil Level Low - Inactive	805375065
+Remote Propel E Stop 2 - Event	805375066
+Remote Propel E Stop 2 - Active	805375067
+Remote Propel E Stop 2 - Inactive	805375068
+Em Stop Fire Detect System - Event	805375069
+Em Stop Fire Detect System - Active	805375070
+Em Stop Fire Detect System - Inactive	805375071
+Remote E Stop 4 - Event	805375072
+Remote E Stop 4 - Active	805375073
+Remote E Stop 4 - Inactive	805375074
+Remote E Stop 5 - Event	805375075
+Remote E Stop 5 - Active	805375076
+Remote E Stop 5 - Inactive	805375077
+Any Emergency Stop - Event	805375078
+Any Emergency Stop - Active	805375079
+Any Emergency Stop - Inactive	805375080
+Carousel Not Stowed Lim Feed Pres - Event	805375204
+Carousel Not Stowed Lim Feed Pres - Active	805375205
+Carousel Not Stowed Lim Feed Pres - Inactive	805375206
+Index Not Stowed Stop Feed - Event	805375207
+Index Not Stowed Stop Feed - Active	805375208
+Index Not Stowed Stop Feed - Inactive	805375209
+Wrench Not Stowed Stop Feed - Event	805375210
+Wrench Not Stowed Stop Feed - Active	805375211
+Wrench Not Stowed Stop Feed - Inactive	805375212
+Carousel Not Stowed Lim Feed Pres - Event	805375213
+Carousel Not Stowed Lim Feed Pres - Active	805375214
+Carousel Not Stowed Lim Feed Pres - Inactive	805375215
+Rod Support Not Open Stop Feed - Event	805375216
+Rod Support Not Open Stop Feed - Active	805375217
+Rod Support Not Open Stop Feed - Inactive	805375218
+All Jacks Not On Ground Reduced Feed - Event	805375219
+All Jacks Not On Ground Reduced Feed - Active	805375220
+All Jacks Not On Ground Reduced Feed - Inactive	805375221
+Carousel Index Not Stowed Stop Feed - Event	805375222
+Carousel Index Not Stowed Stop Feed - Active	805375223
+Carousel Index Not Stowed Stop Feed - Inactive	805375224
+Reduced Feed Pres - Event	805375225
+Reduced Feed Pres - Active	805375226
+Reduced Feed Pres - Inactive	805375227
+Values From Head Pos Sensor Not Ok - Event	805375228
+Values From Head Pos Sensor Not Ok - Active	805375229
+Values From Head Pos Sensor Not Ok - Inactive	805375230
+Use Auto Rod Support Handling - Event	805375231
+Use Auto Rod Support Handling - Active	805375232
+Use Auto Rod Support Handling - Inactive	805375233
+Not Allowed To Close Rod Support - Event	805375234
+Not Allowed To Close Rod Support - Active	805375235
+Not Allowed To Close Rod Support - Inactive	805375236
+Inf Stop Drill Hole Length Reached - Event	805375237
+Inf Stop Drill Hole Length Reached - Active	805375238
+Inf Stop Drill Hole Length Reached - Inactive	805375239
+Auto Rod Support Open Failed - Event	805375240
+Auto Rod Support Open Failed - Active	805375241
+Auto Rod Support Open Failed - Inactive	805375242
+Rod Support Closed Reduced Feed Pres - Event	805375243
+Rod Support Closed Reduced Feed Pres - Active	805375244
+Rod Support Closed Reduced Feed Pres - Inactive	805375245
+All Jacks Not On Ground - Event	805375246
+All Jacks Not On Ground - Active	805375247
+All Jacks Not On Ground - Inactive	805375248
+Override Is Active - Event	805375249
+Override Is Active - Active	805375250
+Override Is Active - Inactive	805375251
+Auto Drill Is Active - Event	805375252
+Auto Drill Is Active - Active	805375253
+Auto Drill Is Active - Inactive	805375254
+No Rock Contact Detected - Event	805375255
+No Rock Contact Detected - Active	805375256
+No Rock Contact Detected - Inactive	805375257
+Head Do Not Move - Event	805375258
+Head Do Not Move - Active	805375259
+Head Do Not Move - Inactive	805375260
+No Recover From Jam Flush - Event	805375261
+No Recover From Jam Flush - Active	805375262
+No Recover From Jam Flush - Inactive	805375263
+Rod Is Stuck At Return - Event	805375264
+Rod Is Stuck At Return - Active	805375265
+Rod Is Stuck At Return - Inactive	805375266
+Low Penetration Rate - Event	805375267
+Low Penetration Rate - Active	805375268
+Low Penetration Rate - Inactive	805375269
+No Recover From Jam Vibration - Event	805375270
+No Recover From Jam Vibration - Active	805375271
+No Recover From Jam Vibration - Inactive	805375272
+No Recover From Jam Rota Stop - Event	805375273
+No Recover From Jam Rota Stop - Active	805375274
+No Recover From Jam Rota Stop - Inactive	805375275
+No Recover From Jam Rota Torque - Event	805375276
+No Recover From Jam Rota Torque - Active	805375277
+No Recover From Jam Rota Torque - Inactive	805375278
+Max No Of Jam Exceeded - Event	805375279
+Max No Of Jam Exceeded - Active	805375280
+Max No Of Jam Exceeded - Inactive	805375281
+Rod Support Sensors Not Ok - Event	805375282
+Rod Support Sensors Not Ok - Active	805375283
+Rod Support Sensors Not Ok - Inactive	805375284
+Feed Pres Calib Ready - Event	805375285
+Feed Pres Calib Ready - Active	805375286
+Feed Pres Calib Ready - Inactive	805375287
+Feed Pres Calib Pres Not Establish - Event	805375288
+Feed Pres Calib Pres Not Establish - Active	805375289
+Feed Pres Calib Pres Not Establish - Inactive	805375290
+Levers Not Calib - Event	805375504
+Levers Not Calib - Active	805375505
+Levers Not Calib - Inactive	805375506
+Head Sensor Not Calib - Event	805375507
+Head Sensor Not Calib - Active	805375508
+Head Sensor Not Calib - Inactive	805375509
+Autolevel Started - Event	805375804
+Autolevel Started - Active	805375805
+Autolevel Started - Inactive	805375806
+Autodelevel Started - Event	805375807
+Autodelevel Started - Active	805375808
+Autodelevel Started - Inactive	805375809
+Autolevel Timeout - Event	805375810
+Autolevel Timeout - Active	805375811
+Autolevel Timeout - Inactive	805375812
+Autolevel All Down Timeout - Event	805375813
+Autolevel All Down Timeout - Active	805375814
+Autolevel All Down Timeout - Inactive	805375815
+Autolevel Pitch Timeout - Event	805375816
+Autolevel Pitch Timeout - Active	805375817
+Autolevel Pitch Timeout - Inactive	805375818
+Autolevel Roll Timeout - Event	805375819
+Autolevel Roll Timeout - Active	805375820
+Autolevel Roll Timeout - Inactive	805375821
+Autolevel Timeout - Event	805375822
+Autolevel Timeout - Active	805375823
+Autolevel Timeout - Inactive	805375824
+Autolevel Angle Err - Event	805375825
+Autolevel Angle Err - Active	805375826
+Autolevel Angle Err - Inactive	805375827
+Autolevel Angle Err - Event	805375828
+Autolevel Angle Err - Active	805375829
+Autolevel Angle Err - Inactive	805375830
+Config Changed Restart System - Event	805376104
+Config Changed Restart System - Active	805376105
+Config Changed Restart System - Inactive	805376106
+Config Not Changed Checksum Error - Event	805376107
+Config Not Changed Checksum Error - Active	805376108
+Config Not Changed Checksum Error - Inactive	805376109
+Config Not Changed Invalid Choice - Event	805376110
+Config Not Changed Invalid Choice - Active	805376111
+Config Not Changed Invalid Choice - Inactive	805376112
+Auto Rod Support Max Close Time - Event	805376113
+Auto Rod Support Max Close Time - Active	805376114
+Auto Rod Support Max Close Time - Inactive	805376115
+Hoist Lever Not Neutral - Event	805376116
+Hoist Lever Not Neutral - Active	805376117
+Hoist Lever Not Neutral - Inactive	805376118
+El Motor No Communication - Event	805376119
+El Motor No Communication - Active	805376120
+El Motor No Communication - Inactive	805376121
+Lube Ongoing - Event	805373692
+Lube Ongoing - Active	805373693
+Lube Ongoing - Inactive	805373694
+Head Travel Started - Event	805376704
+Head Travel Started - Active	805376705
+Head Travel Started - Inactive	805376706

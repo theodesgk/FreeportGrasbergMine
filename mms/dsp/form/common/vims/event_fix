@@ -1,0 +1,8 @@
+Cut and paste these lines to your VIMS Hub/GSP prompt:
+------------------------------------------------------
+
+Macro out:VIMS-EVENT 0x0164 db,v sendto up
+
+Macro out:VIMS-EDEACK 0x016a db,v sendto up
+
+Macro save
